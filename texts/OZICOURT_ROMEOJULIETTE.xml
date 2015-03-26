@@ -66,7 +66,7 @@
 <div1 type="acte" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
 <stage>Le Théâtre représente une salle du Palais des Capellets, qui communique d’un côté aux Jardins.</stage>
-<sp who="JULIE"><speaker>JULIE, seule une bougie à la main.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>, seule une bougie à la main.</hstage>
 	<l id="1">Chacun en ce palais goûte un sommeil paisible ;</l>
 	<l id="2">Sa douceur consolante a fui loin de mes yeux.</l>
 	<l id="3">Minuit vient de sonner : ah ! Quelle heure terrible !</l>
@@ -78,47 +78,47 @@
 <stage>Elle souffle sa bougie.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Julie, Laure tenant une bougie.</head>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Julie, Laure tenant une bougie.</cast>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="9">Laure ! Je ne veux point de témoin de mes plaintes.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="10">Quoi ! Seule, Sans lumière, au milieu de la nuit !</l>
 	<l id="11">Du côté des jardins quel projet vous conduit ?</l>
 	<l id="12">Sur votre état, Madame , en proie à mille craintes...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="13">Tant de foins importuns augmentent ma douleur ;</l>
 	<l id="14">Elle a pour moi de la douceur :</l>
 	<l id="15">J’aime l’obscurité de cette nuit profonde ,</l>
 	<l id="16">Et j’y cherche un repos que je n’ai plus au monde.</l>
 	<l id="17" part="i">Laisse-moi.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="17" part="f">Non , je dois rester auprès de vous ;</l>
 	<l id="18" part="i">C’est un ordre absolu de Madame.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="18" part="f">Ma mère !</l>
 	<l id="19">Sa bonté me confond ; mais mon terrible père !</l>
 	<l id="20">Dans mon sein déchiré sa main porte des coups...</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="21">Malgré son ton dur et sévère,</l>
 	<l id="22">À son cœur trop altier vous n’êtes pas moins chère.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="23">Son orgueil, sa hauteur ont causé bien des maux !</l>
 	<l id="24" part="i">Ils ne sont pas finis.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="24" part="f">À quels malheurs nouveaux</l>
 	<l id="25">Faut-il attribuer là douleur qui vous presse ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="26">La mort de Thébaldo m’a ravi le repos.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="27">Vous fut-il donc si cher, pour le pleurer sans cesse ?</l>
 	<l id="28">On ne vous a point vu pour lui cette tendresse,</l>
 	<l id="29">Ces sentiments profonds, lorsqu’il était vivant.</l>
@@ -128,31 +128,31 @@
 	<l id="33">Pourquoi vous en faire un tourment ?</l>
 	<l id="34">Si vous aviez perdu votre époux, votre amant...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="35">Ah ! Si j’avais perdu la moitié de ma vie,</l>
 	<l id="36">Mon amant ! Mon époux ! J’arracherais ce cœur,</l>
 	<l id="37">Qui ne respire plus qu’amertume et douleur...</l>
 	<l id="38">De la mienne à l’instant sa mort serait suivie.</l>
 	<l id="39" part="i">Va-t-en, Laure, va-t-en.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="39" part="f">Madame m’a prescrit</l>
 	<l id="40">De ne pas vous quitter, je vous l’ai déjà dit :</l>
 	<l id="41">On craint tout des chagrins de la triste Julie.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="42">Jusques dans nos adieux me voilà donc trahie!</l>
 	<l id="43">On m’envie encor ce bonheur.</l>
 	<l id="44" part="i">Roméo ! Roméo !</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="44" part="f">Quoi ! Toujours à la bouche</l>
 	<l id="45">Le nom d’un ennemi ! La bonté , la douceur,</l>
 	<l id="46">L’indulgence autrefois remplissaient votre cœur :</l>
 	<l id="47">Blâmant de vos parents l’inimitié farouche,</l>
 	<l id="48">Souvent je vous ai vu gémir de leur fureur.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="49">Laure, ce reproche me touche,</l>
 	<l id="50">Depuis un siècle entier, sur nos tristes maisons</l>
 	<l id="51">La haine et la vengeance ont versé leurs poisons ;</l>
@@ -160,18 +160,18 @@
 	<l id="53">Dont le temps à nos yeux dérobe les raisons,</l>
 	<l id="54">N’a pas flétri mon caractère.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="55">La douleur a flétri l’éclat de votre teint ;</l>
 	<l id="56">Oubliez donc, Madame, oubliez l’assassin</l>
 	<l id="57" part="i">De Thébaldo.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="57" part="f">L’assassin ! Téméraire !</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="58">C’est Roméo, dont l’homicide main...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="59">Assassin ! C’est le nom que la haine lui donne.</l>
 	<l id="60">Laure, de nos parents l’antique inimitié ,</l>
 	<l id="61">Leurs débats et leurs noms aussi vieux que Vérone,</l>
@@ -195,36 +195,36 @@
 	<l id="79">La haine cependant dressé les échafauds,</l>
 	<l id="80">Pour l’y faire expirer sous le fer des bourreaux,</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="81">C’est vous qui prenez sa défense,</l>
 	<l id="82">Et qui plaignez son sort ? Que faut il que j’en pense ?</l>
 	<l id="83">Pourquoi pleurer toujours Thébaldo ? Quel chagrin...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="84">La mort de Thébaldo n’est qu’un prétexte vain</l>
 	<l id="85">De cet ennui qui me dévore.</l>
 	<l id="86">Il faut bien que je pleure ! Un sujet qu’on ignore...</l>
 	<l id="87">Et m’était-il permis, de gémir sans raison ?</l>
 	<l id="88">Regarde cet anneau... si tu savais ! Ah ! Laure !...</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="89">Je ne vous entends pas. De quelque passion</l>
 	<l id="90">Votre cour cache-t-il le dangereux poison ?</l>
 	<l id="91">Songez qu’après le deuil, au Comte qui vous aime</l>
 	<l id="92" part="i">L’hymen doit vous unir...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="92" part="f">Détestable union !</l>
 	<l id="93">Et voilà ce qui rend mon infortune extrême !</l>
 	<l id="94">Le Comte ! Je frémis de ce malheur nouveau ,</l>
 	<l id="95">Que me prépare un inflexible père.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="96">Ouvrez-moi votre cour. Quel est donc cet anneau ?</l>
 	<l id="97">Vous connaissez pour vous mon zèle ardent, sincère ;</l>
 	<l id="98" part="i">Peut-être je pourrais...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="98" part="f">Non, Laure : le tombeau</l>
 	<l id="99">Peut seul me consoler : c’est l’espoir qui me reste ;</l>
 	<l id="100">Il doit ensevelir ce mystère funeste.</l>
@@ -235,29 +235,29 @@
 <stage>Elle va du côté de la fenêtre et revient.</stage>
 	<l id="105" part="i">II n’est pas arrivé...</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="105" part="f">De qui me parlez-vous ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="106">Ne devines-tu pas que j’attends...</l>
 <stage>À part.</stage>
 	<l id="106" part="m">Mon époux ?</l>
 <stage>Haut.</stage>
 	<l id="106" part="f">Roméo ?</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="107" part="i">Roméo !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="107" part="f">Je l’ai dit : je l’adore ;</l>
 	<l id="108">Et cet amour fait mon bonheur.</l>
 	<l id="109">À ce nom si chéri, sens palpiter mon cour.</l>
 	<l id="110">Cet aveu te surprend ; je n’ai pas tout dit, Laure.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="111" part="i">Vous ! Aimer Roméo !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="111" part="f">Laure, le connais-tu ?</l>
 	<l id="112">II faudrait que tu l’eusses vu,</l>
 	<l id="113">Pour sentir le bonheur qu’inspire sa présence.</l>
@@ -287,21 +287,21 @@
 	<l id="137">Pouvait-il se cacher longtemps ?</l>
 	<l id="138">Roméo découvert disparut à ma vue.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="139">Le nom de Roméo n’étouffa pas ce feu ?</l>
 	<l id="140">Ce nom, signal pour vous de haine et de vengeance :</l>
 	<l id="141" part="i">Ce nom seul, de l’amour...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="141" part="f">Que tu le connais peu !</l>
 	<l id="142">L’amour ! Tout sentiment cède à sa violence.</l>
 	<l id="143">Ah ! Que la haine est faible à repousser l’amour !</l>
 	<l id="144">Celle de nos parents l’augmenta chaque jour.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="145">Quel était votre espoir ? Ô Dieu ! Quelle imprudence!</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="146">L’amour va-t-il sans l’espérance ?</l>
 	<l id="147">Quelle était douce pour mon cour !</l>
 	<l id="148">J’espérais, dans les nœuds d’une si belle chaîne,</l>
@@ -309,19 +309,19 @@
 	<l id="150">Qui sur notre famille a jeté tant d’horreur :</l>
 	<l id="151">Une attente si belle à jamais est détruite.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="152">Vous l’avez donc revu ? Dans quels lieux ? Et comment ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="153">Je le voyais partout... Partout... Et dans la suite,</l>
 	<l id="154">Mon oncle maternel, ce généreux parent,</l>
 	<l id="155">Retenu loin de moi par un fatal voyage,</l>
 	<l id="156">Dont mes vœux hâtent le retour...</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="157">Monsieur le Commandeur protégea cet amour ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="158">Oui, lui-même a formé le nœud qui nous engage.</l>
 	<l id="159">Lorsqu’il était ici, dans son appartement,</l>
 	<l id="160">Roméo quelquefois me vit en sa présence.</l>
@@ -330,73 +330,73 @@
 	<l id="163">Sans cette mort fatale, il avait l’espérance,</l>
 	<l id="164">Ainsi que nous, d’y parvenir.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="165" part="i">Monsieur le Commandeur !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="165" part="f">Et depuis son absence,</l>
 	<l id="166">Devant Benvoglio nous nous vîmes souvent.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="167">Ce médecin fameux, l’homme de confiance,</l>
 	<l id="168" part="i">L’ami des Capellets ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="168" part="f">Est témoin du serment</l>
 	<l id="169">Qui nous lie, et qui sur le fruit de sa prudence.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="170">Grand Dieu ! Vous me faites frémir.</l>
 	<l id="171">De tout ce que j’apprends, je tremble, je frissonne.</l>
 	<l id="172">Que j’entrevois pour vous un terrible avenir !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="173">Ô mon cher Roméo !... Laure ! Il est à Vérone,</l>
 	<l id="174">Et ma famille le soupçonne...</l>
 	<l id="175">Ah ! Ma Laure ! C’est dans ces lieux</l>
 	<l id="176">Qu’il vient, par le jardin, me faire ses adieux.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="177" part="i">Que dites-vous ? Ici ! Juste ciel !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="177" part="f">Ici même.</l>
 	<l id="178">Et puis-je en d’autres lieux recevoir mon époux ?</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="179">Au milieu du Palais ! Julie, y pensez-vous ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="180">Tu peux juger par-là de mon ardeur extrême.</l>
 	<l id="181">Mais j’entends le signal... C’est lui ! c’est ce que j’aime,</l>
 	<l id="182">Tu connais mon secret... Écoute ; cette main,</l>
 	<l id="183">Si tu me trahissais, saura percer mon sein ;</l>
 	<l id="184">J’osai plus, en cédant à l’amour qui m’anime.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="185">Je n’ai pas mérité ce soupçon outrageant ;</l>
 	<l id="186">J’attendais de vous plus d’estime.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="187">Ah ! Laure ! Pour le voir, je n’ai plus qu’un instant !</l>
 	<l id="188">Laisse-moi, laisse-moi, ta présence me tue.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE, sortant.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>, sortant.</hstage>
 	<l id="189">De ce funeste amour quelle sera l’issue ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE, se frappant les mains.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>, se frappant les mains.</hstage>
 	<l id="190">Ah ! Veille seulement à notre sûreté.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCENE III. Roméo, Julie.</head>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<div2 type="scene" n="3"><head>SCENE III.</head><cast>Roméo, Julie.</cast>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="191" part="i">Est-ce toi, Roméo ? Roméo !</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="191" part="f">Ma Julie !...</l>
 	<l id="192" part="i">Je ne puis te quitter.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="192" part="f">Il y va de ta vie.</l>
 	<l id="193">Hélas ! À chaque instant tu peux être arrêté.</l>
 	<l id="194">Mon père est informé qu’on t’a vu dans Vérone ;</l>
@@ -404,7 +404,7 @@
 	<l id="196">Profite de l’obscurité ;</l>
 	<l id="197" part="i">Fuis, fuis...</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="197" part="f">De tous côtés le danger m’environne ;</l>
 	<l id="198">Les haches, les poignards sont levés contre moi ;</l>
 	<l id="199">J’ai tout à redouter du tyran implacable,</l>
@@ -416,13 +416,13 @@
 	<l id="205">J’ai des pressentiments... Ah ! Puisse la nuit sombre</l>
 	<l id="206">À l’univers entier nous cacher dans son ombre !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="207">Eh ! Mon cour n’est pas moins déchiré que le rien.</l>
 	<l id="208">Si tu pouvais savoir ! Non, tu ne sauras rien.</l>
 	<l id="209">Ne dois-tu pas quitter Julie ?</l>
 	<l id="210" part="i">Ces mots te disent tout.</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="210" part="f">Tu dois suivre mes pas !</l>
 	<l id="211">Tu le dois. N’es-tu pas mon épouse chérie ?</l>
 	<l id="212">Le Commandeur nous tend les bras.</l>
@@ -433,28 +433,28 @@
 	<l id="217">Nous vivrons satisfaits, loin d’un séjour horrible,</l>
 	<l id="218">Partons : de ce projet mon cour est enchanté.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="219">En ce moment, pour moi la fuite est impossible.</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="220">Impossible ! Il n’est rien d’impossible à l’amour.</l>
 	<l id="221">Je ne puis sans effroi penser à ton absence.</l>
 	<l id="222">Quelque déguisement tromperait la vengeance ;</l>
 	<l id="223">Les forêts, les déserts nous cacheront au jour :</l>
 	<l id="224">Je ne puis te quitter, l’idée en est affreuse.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="225">Loin de toi, cher époux, je serai malheureuse,</l>
 	<l id="226">Mon destin sera de gémir ;</l>
 	<l id="227">Mais Julie avec toi le serait davantage :</l>
 	<l id="228">Cesse de me presser, je n’y puis consentir.</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="229">De l’amour le plus tendre est-ce là le langage ?</l>
 	<l id="230">J’y reconnais un sang, qui ne sait que haïr.</l>
 	<l id="231">Ah ! Pardon ! Je t’outrage, adorable Julie !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="232">Ô Fils de Montaigu ! Quel reproche odieux !...</l>
 	<l id="233">Dans mon cour déchiré l’amour te justifie.</l>
 	<l id="234">Roméo ! Moi sur qui tout le monde a les yeux,</l>
@@ -463,13 +463,13 @@
 	<l id="237">Qui par moi seule sont heureux ?</l>
 	<l id="238">Mais songe à quel danger cette fuite te livre.</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="239">Julie ! Il n’en est point que je craigne avec toi.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="240">Nous verrons tout Vérone à l’instant nous poursuivre...</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="241">N’achève pas.... Écoute-moi :</l>
 	<l id="242">Je ne partirai point, si tu n’oses me suivre ;</l>
 	<l id="243">À mon éloignement je préfère la mort :</l>
@@ -478,20 +478,20 @@
 	<l id="246">Chère épouse ! Tu sais quel sort !...</l>
 	<l id="247" part="i">Et tu l’auras voulu...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="247" part="f">Quoi ! Roméo le pense !</l>
 	<l id="248" part="i">Cruel !</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="248" part="f">Qui me fera supporter ton absence,</l>
 	<l id="249" part="i">Quand je n’ai plus d’espoir ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="249" part="f">Il faut le ranimer.</l>
 	<l id="250">Crois qu’un jour, librement nous pourrons nous aimer,</l>
 	<l id="251">Avouer en public le saint nœud qui nous lie...</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="252">Ah ! Si je n’espérais goûter un rel bonheur ;</l>
 	<l id="253">S’il fallait renoncer à ma chère Julie,</l>
 	<l id="254">Pourrais-je supporter le fardeau de la vie ?</l>
@@ -499,16 +499,16 @@
 	<l id="256">En ce moment affreux, je te le jure encore :</l>
 	<l id="257">Rien ne pourra m’ôter l’épouse que j’adore.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="258">Ah ! Roméo ! Jamais je n’aurai d’autre époux.</l>
 	<l id="259">Le ciel ne rompra point une si belle chaîne ;</l>
 	<l id="260">Et nous serons heureux en dépit de la haine.</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="261">Ah ! Le bonheur, Julie ! Il n’est pas fait pour nous,</l>
 	<l id="262">Tant que l’éloignement fera couler nos larmes.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="263">Il doit sur ton danger dissiper mes alarmes.</l>
 	<l id="264">Jusqu’à la fin du deuil nous conservons l’espoir.</l>
 	<l id="265">De fléchir, ou braver un injuste pouvoir.</l>
@@ -519,30 +519,30 @@
 	<l id="270">Tromper leur cruauté, me jeter dans tes bras ;</l>
 	<l id="271">Et l’amour guidera nos pas.</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="272">Ah ! Que tu sais bien me séduire !</l>
 	<l id="273">Hélas ! Il faudra donc me borner à t’écrire !</l>
 	<l id="274">Je laisse dans ces lieux mon fidèle Gervas.</l>
 	<l id="275" part="i">Je n’irai qu’à Mantoue.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="275" part="f">Ah ! C’est trop loin encore !</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="276" part="i">Dans tes femmes, choisis celle qui pourrait...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="276" part="f">Laure</l>
 	<l id="277" part="i">Sait tout.</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="277" part="f">Hé bien ! Gervas la verra tous les jours.</l>
 	<l id="278">Il t’apprendra les détails de ma vie,</l>
 	<l id="279">Et je saurai, par lui, ce que fait ma Julie.</l>
 	<l id="280">Benvoglio nous est d’un grand secours ;</l>
 	<l id="281">Il parlera de moi souvent à mon amie.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="282">Elle en aura besoin... Qu’il m’en parle toujours !</l>
 	<l id="283">Je ne veux m’occuper que de l’objet que j’aime :</l>
 	<l id="284">Oui, ne nous occupons que du ravissement,</l>
@@ -550,78 +550,78 @@
 	<l id="286">Qui suivront cet éloignement,</l>
 	<l id="287">Quand un temps plus heureux me rendra mon amant.</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="288" part="i">Charmante illusion !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="288" part="f">Mais j’aperçois l’aurore.</l>
 	<l id="289">Elle t’annonce le moment...</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="290">Je ne partirai pas encore.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="291" part="i">Ah ! Mon cher Roméo !</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="291" part="f">Julie ! Un seul instant !</l>
 	<l id="292">Hélas ! C’est le dernier peut-être....</l>
 	<l id="293" part="i">Dans cette idée...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="293" part="f">Ah ! Fuis, fuis, le jour va paraître.</l>
 	<l id="294">On ouvre, quel effroi ! Dieu ! Sauvez mon amant !</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Laure, Julie, Roméo.</head>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Laure, Julie, Roméo.</cast>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="295">Ah ! Nous sommes perdus ! Madame votre mère...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="296">Je me meurs. Roméo ! Quitte ce lieu d’horreur.</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="297">Julie ! Ah ! Calme ta frayeur.</l>
 	<l id="298">Nous nous verrons bientôt ; faut-il que je l’espère.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="299">Adieu : fuis... Mais non, viens que je te voie encore.</l>
 	<l id="300">Qu’il est pâle. Soutiens moi, Laure !</l>
 <stage>On entend sonner, Julie tombe évanouie.</stage>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="301" part="i">Madame appelle.</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="301" part="m">Adieu !</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="301" part="f">Partez, Seigneur, partez.</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="302">Hélas ! Du sentiment elle a perdu l’usage.</l>
 	<l id="303">Que des jours plus heureux deviennent ton partage !</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="304">Au nom de Dieu, Seigneur, sortez !</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="305">Adieu, Julie, adieu ! Que l’amour te soutienne !</l>
 	<l id="306">Ô vous, son amie et la mienne !</l>
 	<l id="307">Je confie à vos soins sa vie et notre amour.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="308">Fuyez Seigneur, fuyez ; voyez donc qu’il est jour, ,</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Laure, Julie.</head>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Laure, Julie.</cast>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="309">En reprenant ses sens, je tremble que sa mère...</l>
 	<l id="310">Le nom de Roméo trahirait ce mystère....</l>
 	<l id="311">Je voudrais la cacher : elle me fait frémir.</l>
 	<l id="312">Dans un âge si tendre, ah ! quelle destinée !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE, revient à elle.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>, revient à elle.</hstage>
 	<l id="313">Roméo !... Roméo m’a donc abandonnée !</l>
 	<l id="314">Je ne le verrai plus !... Pourquoi me secourir ?</l>
 	<l id="315">Je ne sentais plus rien. Dis moi perfide Laure !</l>
@@ -629,18 +629,18 @@
 	<l id="317">Si je pouvais le voir encore !</l>
 <stage>Elle court vers la fenêtre par où il est sorti.</stage>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="318">Pouvait-il sans danger, demeurer plus longtemps ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="319">Non sans doute. Il est jour : on le verra peut-être.</l>
 	<l id="320">Dieu ! Dérobez sa trace aux yeux de nos tyrans !</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="321">Dans ce désordre, hélas ! Gardez-vous de paraître.</l>
 	<l id="322" part="i">Madame....</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="322" part="f">Il faut, il faut aller...</l>
 	<l id="323">Je veux... je veux le suivre... Au moins de la pensée...</l>
 	<l id="324">Roméo ! Je ne peux... Je me sens oppressée...</l>
@@ -650,10 +650,10 @@
 	<l id="328">De tout ce qu’il a dit repais mon âme avide.</l>
 	<l id="329" part="i">A-t-il pleuré ?</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="329" part="f">Longtemps il a pleuré sur vous.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="330">Charmante Laure ! Ah ! Oui : ce sont ses larmes.</l>
 	<l id="331">Bon Roméo ! Qu’a-t-il dit en partant ?</l>
 	<l id="332">Dis Laure, dis-moi tout. Je n’ai plus d’autres charmes</l>
@@ -661,23 +661,23 @@
 	<l id="334">Ah ! Répète-moi tout ; rends un compte sincère</l>
 	<l id="335">Des soupirs, des regards, de l’attendrissement...</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="336">Hélas ! Entendez-vous Madame votre mère ?</l>
 	<l id="337">Vous saurez tout : rentrez dans votre appartement.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="338">Allons, en gémissant du coup qui nous sépare,</l>
 	<l id="339">Attendre tous les coups que le sort me prépare.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n=""><head>SCÈNE I. Monsieur Capellet, Un Domestique.</head>
-<sp who="LE DOMESTIQUE"><speaker>LE DOMESTIQUE.</speaker>
+<div2 type="scene" n=""><head>SCÈNE I.</head><cast>Monsieur Capellet, Un Domestique.</cast>
+<sp who="LE DOMESTIQUE"><hstage><speaker>LE DOMESTIQUE</speaker>.</hstage>
 	<l id="340">Il sortait d’ici, ce matin,</l>
 	<l id="341" part="i">À la pointe du jour.</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="341" part="f">Oui, par cette fenêtre,</l>
 	<l id="342">On va sur le balcon ;  du balcon au jardin,</l>
 	<l id="343">Quoi l’on m’aurait dit vrai ! Tu ne l’as pu connaître ?</l>
@@ -696,8 +696,8 @@
 	<l id="356">Je le puis dès ce soir, sans craindre qu’on me blâme.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Monsieur Capellet, Madame Capellet, Laure, Un domestique</head>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Monsieur Capellet, Madame Capellet, Laure, Un domestique</cast>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="357">Quoi ! Debout si matin, Madame !</l>
 	<l id="358">Tant mieux, j’avais à vous parler.</l>
 	<l id="359">À votre fille aussi, j’ai quelque chose à dire ,</l>
@@ -708,32 +708,32 @@
 <stage>Ils sortent du côté du Jardin.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Madame Capllet, Laure.</head>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Madame Capllet, Laure.</cast>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="362" part="f">Son air me fait trembler ;</l>
 	<l id="363">Mais revenons à ma Julie.</l>
 	<l id="364" part="i">Il fallait m’avertir.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="364" part="f">J’en eus cent fois envie :</l>
 	<l id="365">Et pourquoi, disait-elle , et pourquoi l’attrister ?</l>
 	<l id="366">Respecte le repos d’une mère chérie.</l>
 	<l id="367">Vous le savez, peut-on lui résister ?</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="368">Je veux dès aujourd’hui, car je crains pour sa vie .</l>
 	<l id="369">Prier Benvoglio de ne plus la quitter.</l>
 	<l id="370">Lui seul semble adoucir cette mélancolie ,</l>
 	<l id="371">Où, depuis quelque temps, elle est ensevelie.</l>
 	<l id="372" part="i">Enfin, qu’a-t-elle fait ?</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="372" part="f">Ce qu’elle fait toujours.</l>
 	<l id="373">Pleurant, et de la mort invoquant le secours,</l>
 	<l id="374">Elle avait souvent à la bouche</l>
 	<l id="375">Le nom de Roméo, celui de son cousin.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="376">Hélas ! Que son état me touche :</l>
 	<l id="377">Je ne sais quel remède y pourra mettre fin.</l>
 	<l id="378">Elle n’a plus la confiance</l>
@@ -747,12 +747,12 @@
 	<l id="386">Il était violent, d’une hauteur extrême ;</l>
 	<l id="387">Il a fait son malheur lui-même.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="388">Et Roméo, dit-on, avec plus de valeur,</l>
 	<l id="389">A le cour grand, noble et plein de douceur ;</l>
 	<l id="390">Bienfaisant, généreux, en tout point estimable...</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="391">Oui, mais c’est un crime pour nous,</l>
 	<l id="392">Dans la maison de mon époux,</l>
 	<l id="393">De ne pas le trouver coupable ;</l>
@@ -762,53 +762,53 @@
 	<l id="397">Que l’hymen calmera cette douleur extrême,</l>
 	<l id="398">Au comte Laudrana nous destinons sa main.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="399">Croit-on par là, Madame, adoucir son chagrin ?</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="400">Et ne le crois-tu pas toi-même ?</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="401">Mais, pour le comte elle a peu d’inclination.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="402">Mais aussi, point d’aversion ?</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="403">Pardonnez-moi, Madame ; et, sans sa répugnance,</l>
 	<l id="404">La mort de Thébaldo lui tiendrait moins au cour.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="405">Ah ! Laure, tu détruis ma plus chère espérance.</l>
 	<l id="406">Cela manquait à ma douleur !</l>
 	<l id="407">T’en a-t-elle dit quelque chose ?</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="408" part="i">Non.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="408" part="f">Mais sa répugnance a pourtant une cause :</l>
 	<l id="409">Qui, mieux que Laudrana, peut faire son bonheur ?</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="410">Je n’en connais point ; mais, je ne crois pas. Madame,</l>
 	<l id="411">Que le Comte jamais soit son consolateur.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="412">Si tu n’en connais point, as-tu lu dans son âme ?</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="413">Je ne dis pas cela. Mais, Madame, l’amour</l>
 	<l id="414" part="i">A son caprice.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="414" part="m">Hé bien !</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="414" part="f">Le Comte pourrait plaire</l>
 	<l id="415" part="i">Au reste du sexe, et...</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="415" part="f">Laure, voici son père.</l>
 	<l id="416">Que j’appréhende ce retour !</l>
 	<l id="417">Vas attendre l’instant du réveil de Julie,</l>
@@ -819,16 +819,16 @@
 	<l id="422">Je tremble, je frémis ; et je ne sais pourquoi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Monsieur et Madame Capellet.</head>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Monsieur et Madame Capellet.</cast>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="423">Et votre fille viendra-t-elle ?</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="424">Monsieur, pendant la nuit, elle n’a pu dormir ;</l>
 	<l id="425">Elle n’a fait, dit-on, que se plaindre et gémir ;</l>
 	<l id="426" part="i">Elle se porte mal.</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="426" part="f">Qu’importe ! Qu’on l’appelle.</l>
 <stage>À part.</stage>
 	<l id="427">Ceci confirme fort l’histoire du jardin.</l>
@@ -837,31 +837,31 @@
 	<l id="429">Vous savez que le Comte avec impatience</l>
 	<l id="430">Attend son mariage, il se fera ce soir.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="431">Avant de terminer, Monsieur, il faut savoir...</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="432">Madame, point de résistance :</l>
 	<l id="433" part="i">Je vais tout ordonner.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="433" part="m">Mais enfin, Monsieur...</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="433" part="f">Quoi !</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="434">Vos volontés, Monsieur, sont des ordres pour moi ;</l>
 	<l id="435">Mais le deuil et la bienséance</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="436">Je veux, pour m’y prêter, qu’il se fasse en secret ;</l>
 	<l id="437">Laudrana le désire, il sera satisfait.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="438" part="i">Mais, Monsieur, si ma fille...</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="438" part="f">Elle n’est qu’une folle.</l>
 	<l id="439">Je connais de ses pleurs le prétexte frivole.</l>
 	<l id="440">Mon neveu Thébaldo depuis un mois est mort ;</l>
@@ -873,21 +873,21 @@
 <stage>À part.</stage>
 	<l id="445" part="f">Peut-être, dès demain.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="446">Et ne voyez-vous pas, Monsieur, que son chagrin</l>
 	<l id="447" part="i">Augmente tous les jours, et...</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="447" part="f">Madame, il m’offense ;</l>
 	<l id="448">Je ne dis pas ce que j’en pense.</l>
 	<l id="449">Le sujet en est fort douteux ;</l>
 	<l id="450">Au moins, Madame, il n’est pas raisonnable.</l>
 	<l id="451">D’ailleurs, ce mariage est trop avantageux</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="452">Vous auriez des soupçons ! Julie est incapable...</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="453">Pourquoi donc, sans raison, toujours pleurer, gémir ?</l>
 	<l id="454">Ma bonté plus longtemps ne doit pas le souffrir :</l>
 	<l id="455">Je ne la connais plus, tant sa douleur l’accable.</l>
@@ -895,154 +895,154 @@
 	<l id="457">Et son état, Madame, est un malheur pour nous.</l>
 	<l id="458">Je veux lui parler, et lui dire...</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="459">Au nom de Dieu, Monsieur, ménagez son esprit :</l>
 	<l id="460">Si vous l’effrayez trop, craignez qu’elle n’expire.</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="461">Sur elle, plus que moi, vous avez du crédit,</l>
 	<l id="462">Je ne la verrai point; chargez-vous de l’instruire</l>
 	<l id="463">De l’affaire dont il s’agit.</l>
 	<l id="464" part="i">Je vais trouver le Comte.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="464" part="f">Ah ! Monsieur ! Je vous prie</l>
 	<l id="465">D’attendre seulement, quand j’aurai vu Julie.</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="466" part="i">Et pourquoi, s’il vous plaît ?</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="466" part="f">Le devoir,la raison</l>
 	<l id="467">Exigent qu’un père, une mère</l>
 	<l id="468">Consultent l’inclination...</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="469">Fort bien ! Si par hasard, on la trouvait contraire</l>
 	<l id="470">Au choix qu’on lui fait d’un époux ?</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="471">Alors, Monsieur, des moyens doux...</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="472">Il n’en est qu’un, Madame ; il faut qu’elle obéisse :</l>
 	<l id="473" part="i">Voilà mon dernier mot.</l>
 </sp>
 <stage>Il sort.</stage>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="473" part="f">Cet ordre violent</l>
 	<l id="474">Suffit pour l’accabler. Moi-même, cependant</l>
 	<l id="475">J’espérais... La voici. Je me sens au supplice.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Madame Capellet, Julie ; Elle baise la main de sa mère.</head>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Madame Capellet, Julie ; Elle baise la main de sa mère.</cast>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="476">Pourquoi donc si tremblante ? Ô Dieu ! Quelle pâleur !</l>
 	<l id="477">Que tu m’affliges, ma Julie !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="478">Je vous afflige ! Hélas vous me percez le cour :</l>
 	<l id="479">Cachez le moi, je vous supplie.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="480">C’est toi, qui déchire le mien.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="481">Ah ! Vous mettez le comble à ma peine mortelle.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="482">Non, je viens t’annoncer, ma fille, une nouvelle,</l>
 	<l id="483">Qui peut faire aujourd’hui mon bonheur et le tien.</l>
 	<l id="484" part="i">Ton père...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE, vivement.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>, vivement.</hstage>
 	<l id="484" part="f">Ah ! Roméo, Madame, a-t-il sa grâce ?</l>
 	<l id="485" part="i">Est-il puni ?</l>
  <stage>Avec confusion.</stage>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="485" part="f">Quoi ! Rien n’efface</l>
 	<l id="486">De ton esprit un fatal souvenir ?</l>
 	<l id="487">Ma fille, c’est assez gémir.</l>
 	<l id="488">Je viens, de la part de ton père,</l>
 	<l id="489">T’apprendre les projets qu’il fait pour ton bonheur.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="490">Ô la meilleure et la plus tendre mère !</l>
 	<l id="491">Dites, dites plutôt qu’il fait pour mon malheur J</l>
 	<l id="492">Laissez-moi fuir fans les entendre:</l>
 	<l id="493">Je peux m’y refuser, je ne veux rien apprendre.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="494">Ma fille ! Il s’agit d’un moyen...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="495">Il sera violent, il fera ma ruine :</l>
 	<l id="496">Oui, Madame , je le devine ;</l>
 	<l id="497">Ma mère, ne me dites rien.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="498">Calme cette frayeur ; que ton cour se rassure,</l>
 	<l id="499">Et qu’il s’en fie au mien. Je voulais t’annoncer</l>
 	<l id="500">Qu’avec le Comte on va conclure.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="501">Que venez-vous de prononcer ?</l>
 	<l id="502" part="i">C’est l’arrêt de ma mort.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="502" part="m">Ma fille !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="502" part="f">Je succombe.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="503">Qu’a donc d’affreux cette union ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="504">Ah ! Ce qu’elle a d’affreux ! Elle m’ouvre la tombe.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="505">Mais, d’où vient tant d’aversion ?</l>
 	<l id="506">Le Comte est un homme estimable.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="507">Pour moi, la mort est préférable.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="508">Et comment doit être un Amant</l>
 	<l id="509" part="i">Pour qu’il plaise à tes yeux ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="509" part="f">Comme un mortel charmant.</l>
 	<l id="510">Que la haine d’un père a proscrit dans Vérone.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="511">Ma fille ! J’ai pitié de son égarement.</l>
 	<l id="512">La naissance, le bien, dans un poste éminent,</l>
 	<l id="513" part="i">Le Comte à tout pour plaire.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="513" part="f">Eût-il une couronne,</l>
 	<l id="514" part="i">Je ne l’en haïrais que plus.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="514" part="f">Il est jeune, bien fait, généreux ; il t’adore :</l>
 	<l id="515">Que te faudrait-il donc encore ?</l>
 	<l id="516">Quelle raison peut-on donner de ce refus ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="517">Eh ! Quoi ! Si Roméo , plein d’une ardeur extrême»</l>
 	<l id="518">M’adorait avec passion ?</l>
 	<l id="519">Il a ces qualités dans un degré suprême...</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="520">L’ennemi de notre maison !</l>
 	<l id="521">Peut-on lui comparer un homme qui vous aime.</l>
 	<l id="522">Chéri de la famille, et choisi par moi-même ?</l>
 	<l id="523">Avez-vous perdu la raison ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="524">J’ai cet homme en horreur. Ô ma mère ! Ma mère !</l>
 	<l id="525">Pourquoi m’avez-vous dit le projet de mon père ?</l>
 	<l id="526">Renoncez-moi pour votre enfant ;</l>
@@ -1050,94 +1050,94 @@
 	<l id="528">Votre haine pourtant me serait bien cruelle !</l>
 	<l id="529">Mais tâchez, s’il se peut, d’éloigner cet amant.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="530">Savez-vous à quel point vous m’offensez, Julie ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="531">Ce malheur, je le sens, va me coûter la vie.</l>
 	<l id="532">Vous pouvez tout me reprocher :</l>
 	<l id="533">Mais je ne saurais... Ah ! Ce fatal mariage !</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="534">Mes larmes, mes efforts ne pourront l’empêcher.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="535">Malheureuse ! Des pleurs baignent votre visage :</l>
 	<l id="536">Ah ! Cessez de vous attendrir ;</l>
 	<l id="537" part="i">Je ne mérite pas...</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="537" part="f">Que dirai-je à ton père ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="538">Dites-lui — que je veux mourir.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="539" part="i">Vous oubliez, Julie !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="539" part="f">Ah ! Si je vous suis chère,</l>
 	<l id="540">Ne m’abandonnez pas en cet affreux moment.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="541">Avant la fin du deuil, à l’ombre du mystère,</l>
 	<l id="542">Il prétend, aujourd’hui, t’unir secrètement.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="543">Ce jour même ! Aujourd’hui ! Ciel ! Il est impossible !</l>
 	<l id="544">À la pitié soyez sensible.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="545">Ne comptez pas sur mon secours,</l>
 	<l id="546" part="i">J’ai fait ce que j’ai pu.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="546" part="f">Seulement quelques jours J;</l>
 	<l id="547">Et peut-être le Ciel pourra m’ôter la vie,</l>
 	<l id="548">Ou me rendre le Commandeur.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="549">Eh ! Ne connais-tu pas ma tendresse et mon cœur ?</l>
 	<l id="550">S’il dépendait de moi, crois, ma chère Julie,</l>
 	<l id="551">Que j’accorderais tout ; mais songe à la fureur</l>
 	<l id="552">D’un père dont la violence...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="553">Obtenez moi du temps : peut-être... la douceur</l>
 	<l id="554">Sous le joug de l’obéissance</l>
 	<l id="555">Me réduira plutôt que la rigueur.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="556">Que j’obtienne du temps ! Vainement je l’espère.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="557" part="i">Seulement quelques jours.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="557" part="f">Je vais trouver ton père,</l>
 	<l id="558">Lui demander cette faveur.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="559">Je ne mérite pas une aussi tendre mère.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="560" part="i">Je vais t’envoyer Laure.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="560" part="f">Hélas ! Tant de bontés</l>
 	<l id="561">Déchirent plus mon cœur que mes calamités.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Julie, Laure.</head>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Julie, Laure.</cast>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="562">Laure, sais-tu combien mon malheur est extrême ?</l>
 	<l id="563">Sais-tu, Laure, sais-tu leurs terribles desseins ?</l>
 	<l id="564">Ah ! Laure ! S’il se peut, cache-moi de moi-même.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="565">Ah ! Madame ! Que je vous plains !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="566">Hé bien ! Si tu me plains, tu m’aideras sans doute ?</l>
 	<l id="567">Sauve-moi d’une mère , hélas ! Dont la bonté...</l>
 	<l id="568">Peut-être que je la redoute</l>
@@ -1150,10 +1150,10 @@
 	<l id="575">Offre un rayon d’espoir à mon âme éperdue,</l>
 	<l id="576" part="i">Au bord de cet abîme...</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="576" part="f">Et que puis-je pour vous ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="577">Vole vers Roméo, dis-lui... Mais que lui dire ?</l>
 	<l id="578">Tu lui diras, que sa Julie expire ;</l>
 	<l id="579">Qu’il vienne. Hélas ! Pour tomber sous leurs coups &gt;</l>
@@ -1162,47 +1162,47 @@
 	<l id="582">Aide-moi ; sauve-moi : Cherche quelque moyen</l>
 	<l id="583" part="i">D’éviter des malheurs...</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="583" part="f">Parlez, que faut-il faire ?</l>
 	<l id="584" part="i">Au péril de ma vie...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="584" part="f">Ainsi, tu ne sais rien.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="585">Madame, auprès de votre père,</l>
 	<l id="586" part="i">Sollicite un délai ; peut-être que...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="586" part="f">Fort bien :</l>
 	<l id="587">Peut-être ! Ô Dieu ! Que ce mot est terrible !</l>
 	<l id="588">Tu ne peux donc me secourir ?</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="589">Je ne vois pas qu’il soit possible...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="590">Laure, c’en est assez ; je n’ai plus qu’à mourir.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="591">Hélas ! Que prétendez-vous faire ?</l>
 	<l id="592">Julie ! Au nom de votre mère ,</l>
 	<l id="593" part="i">Au nom de Roméo...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="593" part="f">Mon époux ! Mon amant!</l>
 	<l id="594">Donne-moi tes habits : sous ce déguisement,</l>
 	<l id="595">Je peux m’échapper de Vérone,</l>
 	<l id="596">Voler vers Roméo : Donne-moi, Laure, donne,</l>
 	<l id="597">Vite le temps est précieux.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="598">Vous vous flattez envain de n’être pas connue &gt;</l>
 	<l id="599">Et d’échaper à tous les yeux ;</l>
 	<l id="600">Avant que d’être dans la rue ,</l>
 	<l id="601">Le Comte, ou votre père arrêteront vos pas.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="602">Quels mots ! Terrible Laure ! Ah ! le Comte ! Mon père !</l>
 	<l id="603">Tout m’afflige et me désespère.</l>
 	<l id="604">Le Commandeur ne revient pas :</l>
@@ -1210,29 +1210,29 @@
 	<l id="606">Au bord du précipice il me tendrait les bras...</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Julie, Laure, Gervas.</head>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Julie, Laure, Gervas.</cast>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="607">Ah ! Gervas ! En ces lieux osez-vous bien paraître ?</l>
 	<l id="608">Vous me faites frémir pour vous, pour votre Maître :</l>
 	<l id="609">Serait-il découvert ? Rassurez mon amour.</l>
 </sp>
-<sp who="GERVAS"><speaker>GERVAS.</speaker>
+<sp who="GERVAS"><hstage><speaker>GERVAS</speaker>.</hstage>
 	<l id="610">Avant d’aller plus loin, en des peines mortelles,</l>
 	<l id="611">À Tivoli, Madame, il attend mon retour.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE, à part.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>, à part.</hstage>
 	<l id="612">Qu’il ignore combien les miennes sont cruelles !</l>
 	<l id="613">Qu’il en serait épouvanté !</l>
 	<l id="614">Il viendrait jusqu’ici braver leur cruauté...</l>
 	<l id="615">Ah ! Laure, il se perdrait sans sauver son amante.</l>
 </sp>
-<sp who="GERVAS"><speaker>GERVAS.</speaker>
+<sp who="GERVAS"><hstage><speaker>GERVAS</speaker>.</hstage>
 	<l id="616">Il tremble pour votre santé :</l>
 	<l id="617">Lorsque je l’ai quittée, elle était expirante,</l>
 	<l id="618">Vas, m’a-t-il dit, il faut pour ma tranquillité,</l>
 	<l id="619">Que tu voies aujourd’hui cette épouse charmante.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="620">Cher époux ! Dites-lui, s’il est en sûreté</l>
 	<l id="621">Contre les attentats d’une funeste haine,</l>
 	<l id="622">Qu’il reste à Tivoli jusqu’à la nuit prochaine,</l>
@@ -1241,18 +1241,18 @@
 	<l id="625">Également, pour nous, l’entrée en est facile,</l>
 	<l id="626">Et nous nous y verrons, sans témoins et sans bruit.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="627">L’Amour prit-il jamais des tombeaux pour asile ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="628">C’est en ces lieux sacrés de ténèbres, d’horreur,</l>
 	<l id="629">Que l’hymen nous unit, devant le Commandeur...</l>
 	<l id="630">Assurez Roméo de l’amour le plus tendre :</l>
 	<l id="631">Allez : il ne faut pas qu’on puisse vous surprendre.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Julie, Laure.</head>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Julie, Laure.</cast>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="632">Je pourrai donc encor le voir!</l>
 	<l id="633">Cette attente me rend le courage et l’espoir ;</l>
 	<l id="634">Si mon père obstiné refusait à ma mère</l>
@@ -1268,56 +1268,56 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Monsieur Capellet, Madame Capellet.</head>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Monsieur Capellet, Madame Capellet.</cast>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="643">Je n’accorderai pas même jusqu’à demain :</l>
 	<l id="644">Il se fera ce soir, je ne veux rien entendre ;</l>
 	<l id="645">J’ai prévenu le Comte, il ne doit pas attendre :</l>
 	<l id="646">Mes ordres sont donnés, vous m’excédez en vain.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="647">En vérité , Monsieur, vous êtes trop sévère.</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="648" part="i">Et vous trop indulgente.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="648" part="f">Elle se désespère ;</l>
 	<l id="649">Cet ordre violent lui deviendra fatal.</l>
 	<l id="650">Et pourquoi la contraindre ? Elle est si jeune encore :</l>
 	<l id="651">Le temps dissipera l’ennui qui la dévore ;</l>
 	<l id="652" part="i">Ne précipitez rien.</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="652" part="f">Je connais bien son mal.</l>
 	<l id="653">Le Comte, à tous égards, est un parti sortable :</l>
 	<l id="654">Peut-on faire pour elle un choix plus raisonnable?</l>
 	<l id="655">Je ne crois pas, Madame, à ce feint désespoir.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="656">Le cour, par la raison se laisse-t-il conduire ?</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="657">Madame, quand un cour éprouve ce délire,</l>
 	<l id="658">On l’enchaîne par le devoir.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="659">Monsieur, vous en êtes le maître :</l>
 	<l id="660">Mais deux jours de délai font-ils donc un objet ?</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="661">Ils n’en font point pour vous peut-être ;</l>
 	<l id="662">Et pour moi c’en est un, dont je préviens l’effet.</l>
 	<l id="663">Quoi qu’il en soit, Madame, il faut qu’on obéisse.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="664">Prenez garde, Monsieur, ce n’est point un caprice,</l>
 	<l id="665">Julie est très malade ; il lui faut du secours ;</l>
 	<l id="666">Et d’un délai de quelques jours</l>
 	<l id="667">Dépend le bonheur de sa vie.</l>
 	<l id="668">De son état, Monsieur, ayez compassion.</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="669">Je verrai moi-même Julie :</l>
 	<l id="670">Je saurai par quelle raison,</l>
 	<l id="671">Elle peut excuser sa désobéissance.</l>
@@ -1326,24 +1326,24 @@
 	<l id="674">Pour un homme, agréable à toute la famille.</l>
 	<l id="675" part="i">Envoyez-moi Julie.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="675" part="f">Allons, Monsieur, fort bien!</l>
 	<l id="676">Plongez donc, sans pitié, le poignard dans le sein</l>
 	<l id="677">Et de la mère et de la fille.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Monsieur Capellet, Un Domestique (le même qui a déjà paru au second acte.</head>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Monsieur Capellet, Un Domestique (le même qui a déjà paru au second acte.</cast>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="678">Seraient-elles d’accord ?non. mais, à leur chagrin,</l>
 	<l id="679">À ses discours, je le soupçonne.</l>
 	<l id="680">Te voilà de retour ! Hé bien ?</l>
 </sp>
-<sp who="LE DOMESTIQUE"><speaker>LE DOMESTIQUE.</speaker>
+<sp who="LE DOMESTIQUE"><hstage><speaker>LE DOMESTIQUE</speaker>.</hstage>
 	<l id="681">Seigneur, on l’a cherché, sans bruit, partout Vérone,</l>
 	<l id="682">On s’en est informé secrètement en vain ;</l>
 	<l id="683" part="i">Cependant on l’a vu.</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="683" part="f">Le traître</l>
 	<l id="684">Oserait me braver, jusques dans mon Palais !</l>
 	<l id="685">Oui, c’est lui ; leur frayeur me le fait trop connaître.</l>
@@ -1355,89 +1355,89 @@
 	<l id="691">Pour qu’il n’ait point de défiance.</l>
 	<l id="692" part="i">Tu m’entends.</l>
 </sp>
-<sp who="LE DOMESTIQUE"><speaker>LE DOMESTIQUE.</speaker>
+<sp who="LE DOMESTIQUE"><hstage><speaker>LE DOMESTIQUE</speaker>.</hstage>
 	<l id="692" part="m">Monseigneur !</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="692" part="f">Vas, je compte sur toi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Monsieur Capellet, Julie, appuyée sur Laure.</head>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET, à Laure.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Monsieur Capellet, Julie, appuyée sur Laure.</cast>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>, à Laure.</hstage>
 	<l id="693" part="i">Sortez.</l>
 <stage>Quand Laure est sortie, Julie s’appuie sur un fauteuil les yeux baissés.</stage>
 	<l id="693" part="f">Daignerez-vous jeter les yeux sur moi ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE, se jetant à ses pieds.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>, se jetant à ses pieds.</hstage>
 	<l id="694" part="i">Ah ! Monsieur ! Pardonnez.</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="694" part="f">Ces petits artifices</l>
 	<l id="695">Dont vous cherchez, ma fille, à couvrir vos caprices,</l>
 	<l id="696">N’auront point de succès, je vous en avertis ;</l>
 	<l id="697">Julie ! Épargnez vous les plaintes et les cris.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="698">J’embrasse vos genoux, regardez ma faiblesse ;</l>
 	<l id="699">Et par cette bonté, cette ancienne tendresse,</l>
 	<l id="700">Dont j’ai toujours fait mon bonheur...</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="701">Peux-tu justifier ta désobéissance ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="702">La mort de Thébaldo déchire encor mon cœur.</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="703">Prétexte supposé ! J’eus trop de complaisance</l>
 	<l id="704">Jusqu’à ce jour de le souffrir.</l>
 	<l id="705">Au Comté, avant la nuit, je prétends vous unir.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="706">Ah ! Mon père ! Il m’est impossible...</l>
 	<l id="707">Une aversion invincible</l>
 	<l id="708" part="i">Pour le Comte...</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="708" part="f">N’achève pas :</l>
 	<l id="709" part="i">Je saurai bien la vaincre.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="709" part="f">Oui ; mais par mon trépas.</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="710">Vous affectez bien du courage.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="711">Non, je n’affecte rien. Ô mon père ! Pardon ;</l>
 	<l id="712">Et daignez différer ce fatal mariage :</l>
 	<l id="713" part="i">Quelques jours de délai ! Deux jours seulement !</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="713" part="f">Non.</l>
 	<l id="714">Crains qu’un plus long refus ne confirme un soupçon...</l>
 	<l id="715" part="i">Ton sang...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="715" part="f">Ah ! Monsieur ! Ô mon père</l>
 	<l id="716">Laissez- moi fuir le monde et cacher ma misère.</l>
 	<l id="717" part="i">Un couvent...</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="717" part="f">Un couvent !... Écoutez-moi, Julie</l>
 	<l id="718">Vous n’avez qu’un parti : c’est celui d’obéir.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="719">Ô Dieu ! Vous voulez-donc le malheur de ma vie,</l>
 	<l id="720">Père cruel !... Monsieur, dans ma douleur, j’oublie.</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="721">Je t’en ferai bien souvenir ;</l>
 	<l id="722">Mais obéis, ou crains que je ne le devienne.</l>
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="JULIE"><speaker>JULIE, seule.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>, seule.</hstage>
 	<l id="723">Vas, vas, la cruauté ne touche pas les cœurs.</l>
 	<l id="724">Ah ! crains toi-même, crains que je ne te prévienne !</l>
 	<l id="725">Je redoute moins tes fureurs</l>
@@ -1451,47 +1451,47 @@
 	<l id="733">Ce que souffre pour lui son épouse chérie.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Julie, Laure, qui craint d’avancer.</head>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Julie, Laure, qui craint d’avancer.</cast>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="734">Approche, il est parti ; sais-tu quel est mon sort ?</l>
 	<l id="735">On me donne le choix du Comte ou de la mort.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="736">Ne perdez pas courage, adorable Julie ;</l>
 	<l id="737" part="i">Voici Benvoglio.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="737" part="f">Laure, dans mon malheur,</l>
 	<l id="738">La douceur de le voir ne m’est donc pas ravie ?</l>
 	<l id="739">Mais il ne peut changer ma fortune ennemie.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="740">Peut-être verrez-vous aussi, le Commandeur.</l>
 	<l id="741">Par des événements qu’on ne saurait prévoir ,</l>
 	<l id="742">Vous pouvez être encor heureuse dans la fuite.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="743" part="i">Ah ! Laure ! Le crois-tu ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VI. Julie, Laure, Benvoglio, il fait tous les signes d’un homme qui veut parler sans témoins.</head>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VI.</head><cast>Julie, Laure, Benvoglio, il fait tous les signes d’un homme qui veut parler sans témoins.</cast>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="743" part="f">Je suis au désespoir,</l>
 	<l id="744">Mon cher Benvoglio !... De tout Laure est instruite,</l>
 	<l id="745">Et devant elle on peut parler :</l>
 	<l id="746">Mais, garde que quelqu’un ne vienne nous troubler.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Julie, Benvoglio.</head>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Julie, Benvoglio.</cast>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="747">Benvoglio, je suis perdue !</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="748">Hélas ! Madame, à votre vue,</l>
 	<l id="749">Je pourrais trembler pour vos jours ;</l>
 	<l id="750">Mais j’ai tout su de votre père.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="751">Contre un ordre fatal n’est-il aucun secours ?</l>
 	<l id="752">Je ne suis plus pour lui cette fille si chère</l>
 	<l id="753">Objet de sa tendresse, objet de ses faveurs.</l>
@@ -1502,42 +1502,42 @@
 <stage>Elle regarde partout avec inquiétude.</stage>
 	<l id="758">Mais, je crains encor plus qu’un homme que j’abhorre.</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="759" part="i">Nous resterons seuls.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="759" part="f">Autrefois,</l>
 	<l id="760" part="i">À tous nos entretiens...</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="760" part="m">Hé bien !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="760" part="f">Nous étions trois.</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="761">Vos parents avec confiance ,</l>
 	<l id="762">M’ont donné l’ordre de vous voir,</l>
 	<l id="763">De vous parler d’obéissance,,</l>
 	<l id="764">Du Comte et de votre devoir,</l>
 	<l id="765">Et j’ai promis...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="765" part="f">Promis ! Ils font d’intelligence !</l>
 	<l id="766">Je n’ai donc plus personne ! Et qu’avez-vous promis ?</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="767">Pour vous voir sans témoin, je me suis tout permis ;</l>
 	<l id="768" part="i">Parlons de Roméo.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="768" part="f">Qu’avez-vous à m’en dire ?</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="769">Des Sbires, en secret l’ont cherché vainement;</l>
 	<l id="770">Il a fui très heureusement.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="771">Heureusement ! Sans moi ! Qu’importe ; je respire.</l>
 	<l id="772">Pardonnez, mon ami, pardonnez mon transport.</l>
 	<l id="773">Un doux rayon d’espoir a pénétré mon âme ;</l>
@@ -1548,22 +1548,22 @@
 	<l id="778">Nous sommes séparés seulement par six milles,</l>
 	<l id="779">Il n’est qu’à Tivoli. Que me conseillez-vous?</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="780">Rien ne peut fléchir votre père ;</l>
 	<l id="781">La fuite, est impossible. — Il faut vous décider,</l>
 	<l id="782">Il faut céder aux lois d’un ordre trop sévère :</l>
 	<l id="783">Le Commandeur absent ne peut vous y soustraire.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="784">Ah ! Plutôt mille morts ! — Céder, dis-tu, céder !</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="785">Cet hymen qu’on ordonne à l’ombre du mystère,</l>
 	<l id="786">Me fait craindre aujourd’hui, qu’on n’ait quelque soupçon ;</l>
 	<l id="787">On double la garde ordinaire :</l>
 	<l id="788" part="i">Enfin, je ne sais pas...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="788" part="f">Tu ne fais pas ! Oh ! non,</l>
 	<l id="789">Tu ne fais pas, qu’un cœur dévoré de ces craintes,</l>
 	<l id="790">Ne peut plus s’abaisser à d’inutiles plaintes.</l>
@@ -1571,23 +1571,23 @@
 	<l id="792">La mort m’affranchira d’un fatal mariage.</l>
 	<l id="793">Lâche et perfide ami ! Que dirait mon époux ?...</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="794">De vous donner la mort vous auriez le courage ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="795">Dans la crainte où je suis, en faut-il pour mourir ?</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="796">Non, vous ne mourrez pas, respectable Julie !</l>
 	<l id="797">Du prix de tant d’amour, je vous ferai jouir,</l>
 	<l id="798">Et près du Commandeur, je veux vous réunir :</l>
 	<l id="799">De vos cruels parents je brave la furie.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="800">Parlez : quoi ! Je pourrais rejoindre mon époux-,</l>
 	<l id="801">Et me soustraire !... Expliquez-vous.</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="802">Il est une ressource, en ce malheur extrême ;</l>
 	<l id="803">Comptez sur la bonté de cet Être suprême</l>
 	<l id="804">Aux yeux de qui la haine est un forfait.</l>
@@ -1601,81 +1601,81 @@
 	<l id="812">Cet hymen odieux dont je vous vois frémir :</l>
 	<l id="813" part="i">L’effet est sûr et prompt.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="813" part="f">À vous je me confie :</l>
 	<l id="814">Sauvez-moi de mon père, ou laissez-moi mourir.</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="815">II s’agit d’une épreuve effrayante et hardie,</l>
 	<l id="816">Non moins terrible que la mort,</l>
 	<l id="817">Pour votre sexe et pour votre âge.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="818">Il n’est aucune épreuve, il n’est aucun effort,</l>
 	<l id="819">Rien au monde qui puisse étonner mon courage :</l>
 	<l id="820">Parlez, que faut-il faire en ces affreux instants ?</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="821">Il faudrait vous résoudre à passer quelque temps,</l>
 	<l id="822">En un cercueil, inanimée,</l>
 	<l id="823">Dans les tombeaux de vos parents,</l>
 	<l id="824">Et près de Thébaldo rester seule enfermée.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="825">Pour revoir mon époux, et pour fuir nos tyrans,</l>
 	<l id="826">Déjà, dans la terreur de mon âme alarmée,</l>
 	<l id="827">J’ai choisi ces tombeaux. Après la nuit fermée</l>
 	<l id="828" part="i">Roméo doit s’y rendre.</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO, tirant un flacon.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>, tirant un flacon.</hstage>
 	<l id="828" part="F">Hé bien ! Cette boisson</l>
 	<l id="829">Va produire un sommeil, semblable à la mort même ;</l>
 	<l id="830">Pour douze heures, de l’âme elle éteint l’action :</l>
 	<l id="831">Plus de pouls, plus de souffle ; une pâleur extrême...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="832">Et quel sera le but d’un pareil stratagème ?</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="833">Pour éviter l’effet de la chaleur,</l>
 	<l id="834">Dès qu’ils sont expirés, l’usage, en Italie,</l>
 	<l id="835">Est d’inhumer les corps. On vous croira sans vie ;</l>
 	<l id="836" part="i">Vous serez transportée aux tombeaux.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="836" part="f">Quelle horreur !</l>
 	<l id="837">À quelle extrémité le sort m’a su réduire !</l>
 	<l id="838" part="i">Enfin ?</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="838" part="f">J’irai, la nuit, vous tirer de ces lieux ,</l>
 	<l id="839">Vous rendre à Roméo que j’aurai soin d’instruire.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="840">Donnez, Benvoglio ; le temps est précieux :</l>
 	<l id="841">Donnez. — S’il arrivait qu’on ne pût pas lui dire ,</l>
 	<l id="842">S’il apprenait ma mort, avant qu’un tel moyen !</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="843">J’ai tout prévu, ne craignez rien.</l>
 	<l id="844">De prendre la boisson vous sentez-vous capable ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="845">Si l’on ne me transportait pas</l>
 	<l id="846">Dans cette demeure effroyable !</l>
 	<l id="847">Un malheureux craint tout. Hélas !</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="848">Reposez-vous sur moi ; que rien ne vous alarme ;</l>
 	<l id="849">Tout fera disposé pour revoir votre époux,</l>
 	<l id="850" part="i">À minuit, au plus tard.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="850" part="f">Que ce projet me charme !</l>
 	<l id="851">Je verrai Roméo ! Cet espoir est bien doux.</l>
 	<l id="852" part="i">Cependant, je frémis !</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="852" part="f">La chose est naturelle ;</l>
 	<l id="853">Et vous devez l’avoir sous un aspect affreux :</l>
 	<l id="854">Mais c’est le seul moyen qui peut vous rendre heureux ;</l>
@@ -1684,7 +1684,7 @@
 	<l id="857">Leur dirai-je qu’enfin, vous secondez leurs vœux ?</l>
 	<l id="858">Tenez. Quoi ! Vous tremblez : que faut-il que j’en croie ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="859">Je ne sais pas si c’est de frayeur ou de joie.</l>
 	<l id="860">Benvoglio ! — Me trompez-vous ? .</l>
 	<l id="861">Donne. Tu me promets de revoir mon époux,</l>
@@ -1693,29 +1693,29 @@
 	<l id="864">C’est toi qui lui perces le sein :</l>
 	<l id="865" part="i">Entendrai-je ses cris ?</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="865" part="f">Vous n’entendrez plus rien,</l>
 	<l id="866">Jusqu’au moment heureux, où l’amant le plus tendre</l>
 	<l id="867" part="i">Viendra...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="867" part="f">Benvoglio ! Ce terrible sommeil!</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="868">Pour prévenir votre réveil</l>
 	<l id="869">Aux tombeaux, avec moi, Roméo doit se rendre.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="870">De le bien avertir, surtout ne manquez pas.</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="871">Faites donc un effort qu’il a le droit d’attendre.</l>
 	<l id="872">Tous vos parents déçus, pour pleurer ce trépas,</l>
 	<l id="873">Cesseront d’écouter la voix de la vengeance,</l>
 	<l id="874">Sans penser à suivre vos pas.</l>
 <stage>Il sort.</stage>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="875">Ô quel état affreux ! Ces parents que j’offense,</l>
 	<l id="876">Ces parents, dont je suis la gloire et l’espérance,</l>
 	<l id="877">À qui je suis si chère... ils ne soupçonnent pas</l>
@@ -1728,27 +1728,27 @@
 <stage>Elle cache le flacon dans son sein.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Julie, Madame Capellet.</head>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Julie, Madame Capellet.</cast>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="883" part="f">Ma Julie !</l>
 	<l id="884">Embrasse moi cent fois. Ah ! Quel bonheur pour nous</l>
 	<l id="885">De te voir accepter le Comte pour époux !</l>
 	<l id="886">Je n’attendais pas moins de ton obéissance.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="887">Vous ne connaissez pas quelle est ma répugnance ;</l>
 	<l id="888">Mon cour est déchiré de tant d’horribles coups.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="889">Ton père te bénit : plein de reconnaissance,</l>
 	<l id="890">II voulait t’embrasser,ramener ton amant.</l>
 	<l id="891">Benvoglio s’oppose à leur empressement.</l>
 	<l id="892">Il n’a pu m’arrêter, j’ai bravé sa défense.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="893">Quel excès de bonté ! Précieuse amitié !</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="894">Que ton état me fait pitié !</l>
 	<l id="895">Quand partageras-tu la commune allégresse ?</l>
 	<l id="896">Je t’excuse et te plains : le don de notre foi</l>
@@ -1756,20 +1756,20 @@
 	<l id="898">Que ton bonheur ne dépend-il de moi !</l>
 	<l id="899">Bien loin de m’y trouver contraire...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE, se jette aux genoux de sa mère.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>, se jette aux genoux de sa mère.</hstage>
 	<l id="900" part="i">Ah ! Madame ! Cessez ! Ah ! Cessez...</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="900" part="f">Lève-toi.</l>
 	<l id="901" part="i">Je serai désormais ton amie...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="901" part="f">Ô ma mère !</l>
 	<l id="902" part="i">Laissez-moi. C’en est trop ,</l>
 <stage>À part.</stage>
 	<l id="902" part="f">Je ne puis plus me taire.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="903">Hé bien ! Adieu, Julie ! Adieu, ma chère enfant.</l>
 	<l id="904">Le repos calmera le trouble qui t’agite :</l>
 	<l id="905">C’est à regret que je te quitte :</l>
@@ -1778,7 +1778,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="9"><head>SCÈNE IX.</head>
-<sp who="JULIE"><speaker>JULIE, seule.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>, seule.</hstage>
 	<l id="907">Hélas ! Encor un mot, Julie était perdue,</l>
 	<l id="908">Mon secret m’échappait. Profitons de l’instant.</l>
 	<l id="909">Roméo! Roméo! Dans mon âme éperdue,</l>
@@ -1813,13 +1813,13 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Laure, Garvas, déguisé, Julie dans la situation ou elle est restée à la fin du troisième Acte.</head>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Laure, Garvas, déguisé, Julie dans la situation ou elle est restée à la fin du troisième Acte.</cast>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="934">Malgré votre déguisement,</l>
 	<l id="935">Ah ! Gervas ! Au Palais vous osez reparaître ?</l>
 	<l id="936" part="i">Mais que fait Roméo ?</l>
 </sp>
-<sp who="GERVAS"><speaker>GERVAS.</speaker>
+<sp who="GERVAS"><hstage><speaker>GERVAS</speaker>.</hstage>
 	<l id="936" part="f">Hélas ! mon triste Maître ,</l>
 	<l id="937">À deux milles d’ici, m’attend dans un couvent.</l>
 	<l id="938">Éloigné de Julie, il ne vit qu’en tremblant,</l>
@@ -1831,25 +1831,25 @@
 	<l id="944">Et laisse un libre accès à cet appartement,</l>
 	<l id="945">Par les jardins : ainsi, Laure, soyez tranquille.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="946">Quoi ! Gervas ! Votre maître est si près de la ville !</l>
 	<l id="947">Est-ce un bonheur, en ce moment ?</l>
 	<l id="948">Ah ! Tout est bien changé, depuis qu’il est absent !</l>
 	<l id="949">Il ignore, pour lui, ce que souffre Julie.</l>
 	<l id="950">Au Comte Laudrana, ce soir, on la marie.</l>
 </sp>
-<sp who="GERVAS"><speaker>GERVAS.</speaker>
+<sp who="GERVAS"><hstage><speaker>GERVAS</speaker>.</hstage>
 	<l id="951" part="i">Ce soir !</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="951" part="f">Aujourd’hui-même. Elle est au désespoir.</l>
 </sp>
-<sp who="GERVAS"><speaker>GERVAS.</speaker>
+<sp who="GERVAS"><hstage><speaker>GERVAS</speaker>.</hstage>
 	<l id="952">Ne pourrai-je un moment la voir ?</l>
 	<l id="953">J’apporte pour elle une lettre ,</l>
 	<l id="954">Et moi-même, en ses mains, je voudrais la remettre.</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="955">Hé bien ! Je vais savoir si l’on peut lui parler.</l>
 	<l id="956">La voilà. Le sommeil a fermé sa paupière.</l>
 	<l id="957">Gardons nous bien de la troubler.</l>
@@ -1859,7 +1859,7 @@
 	<l id="961">À la tendresse de sa mère ;</l>
 	<l id="962">Mais il fallait surtout leur cacher son amour.</l>
 </sp>
-<sp who="GERVAS"><speaker>GERVAS.</speaker>
+<sp who="GERVAS"><hstage><speaker>GERVAS</speaker>.</hstage>
 	<l id="963">Roméo pressentait cette infortune extrême.</l>
 	<l id="964">Il n’est pas maître de lui-même ;</l>
 	<l id="965">Il se trouble, il s’agite ; il nomme à chaque instant</l>
@@ -1878,8 +1878,8 @@
 	<l id="978">Je ne lui dirai point qu’il se fait aujourd’hui.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Laure, Julie , ensuite un domestique.</head>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Laure, Julie , ensuite un domestique.</cast>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="979">Mais ses bras sont tombés : une pâleur mortelle...</l>
 <stage>Elle lui prend la main , qu’elle laisse retomber avec effroi ; et la lettre que Gervas lui a donnée tombe parterre.</stage>
 	<l id="980">Elle est froide ! Julie ! Ah ! Mon Dieu ! Quel malheur !</l>
@@ -1897,15 +1897,15 @@
 <stage>Elle s’agite autour de sa maîtresse, et donne différentes marques de sa douleur.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Julie, Monsieur Capellet, Laure.</head>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Julie, Monsieur Capellet, Laure.</cast>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="989">Voici sans doute un nouvel artifice</l>
 	<l id="990" part="i">Pour éluder...</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="990" part="f">Et quoi ! Dans les bras de la mort !</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="991">Inutile détour, il faut qu’elle obéisse.</l>
 <stage>Il lui prend la main.</stage>
 	<l id="992">Julie ! Est-il bien vrai ? Grand Dieu ! Quel est mon sort !</l>
@@ -1915,12 +1915,12 @@
 	<l id="996">Chercher Benvoglio... Prends garde que ma femme...</l>
 	<l id="997">Il est là bas : qu’il vienne, Ah ! qu’il vienne à l’instant !</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="998">Comment le cacher à Madame ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Julie, Monsieur Capellet.</head>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Julie, Monsieur Capellet.</cast>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="999">Qu’ai-je fait ! Qu’ai-je fait ! J’en frissonne d’horreur !</l>
 	<l id="1000">Ne suis-je qu’un tyran qui brave la nature !</l>
 	<l id="1001">Ai-je pu soupçonner la vertu la plus pure ?</l>
@@ -1932,70 +1932,70 @@
 	<l id="1007">Mais elle vit encor, et cet espoir flatteur...</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Julie, Monsieur Capellet, Benvoglio.</head>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Julie, Monsieur Capellet, Benvoglio.</cast>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="1008">Mon cher Benvoglio ! Sauvez, sauvez ma fille !</l>
 	<l id="1009">Rendez-moi, s’il se peut, l’espoir de ma famille.</l>
 	<l id="1010">Pourquoi ne m’avez-vous pas dit ?</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="1011">A-t-on pu vous le faire entendre ?</l>
 	<l id="1012">Seigneur, je vous l’avais prédit.</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="1013" part="i">Hé bien !</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO, il tâte le pouls de Julie.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>, il tâte le pouls de Julie.</hstage>
 	<l id="1013" part="f">Aucun secours ne peut plus vous la rendre.</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="1014">Ah ! Si de son état j’eusse été mieux instruit !</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="1015">On vous a reproché votre rigueur extrême.</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="1016">Oui, je suis un barbare, 8c vous avez raison.</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="1017">De cet événement n’accusez que vous-même.</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="1018">Ô Julie ! Elle est morte en maudissant mon nom.</l>
 	<l id="1019">Elle a prévu fa mort. Hélas ! peut-être même</l>
 	<l id="1020">Se l’est-elle donnée ! Ah ! Si par le poison !</l>
 	<l id="1021" part="i">Quels remords pour un père !</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Julie, Monsieur Capellet, Benvoglio, Laure.</head>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Julie, Monsieur Capellet, Benvoglio, Laure.</cast>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="1021" part="f">Ah ! Monseigneur ! Madame...</l>
 	<l id="1022" part="i">Elle s’est aperçue...</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="1022" part="f">Ô Dieu ! Voici ma femme.</l>
 	<l id="1023">Pourrai-je résister à ses gémissements ?</l>
 </sp>
-<sp who="LAURE"><speaker>LAURE.</speaker>
+<sp who="LAURE"><hstage><speaker>LAURE</speaker>.</hstage>
 	<l id="1024">Elle a remarqué votre absence,</l>
 	<l id="1025">Notre douleur, notre silence :</l>
 	<l id="1026">On ne saurait, Seigneur, lui cacher plus longtemps...</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="1027">Que je redoute sa présence !</l>
 	<l id="1028">Vas, Laure, s’il se peut, qu’on l’éloigne d’ici !</l>
 	<l id="1029">Qu’on éloigne le Comte aussi :</l>
 	<l id="1030">Je pourrais... je ne veux le revoir de ma vie.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Les Précédents, Madame Capellet, Plusieurs domestiques.</head>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Les Précédents, Madame Capellet, Plusieurs domestiques.</cast>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="1031">Pourquoi m’éloigne-t-on ? Redoutez mon courroux.</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO, se mettant à sa rencontre.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>, se mettant à sa rencontre.</hstage>
 	<l id="1032" part="i">Au nom de Dieu, Madame ....</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET, le repoussant.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>, le repoussant.</hstage>
 	<l id="1032" part="f">Ôtez vous ; ôtez vous.</l>
 	<l id="1033">Mais que vois-je ! Grand Dieu ! ma fille m’est ravie !</l>
 	<l id="1034">Qu’avez-vous fait, barbare époux ?</l>
@@ -2004,10 +2004,10 @@
 	<l id="1037">Elle est morte ! Mes soins deviennent superflus.</l>
 	<l id="1038">Frappe ! Voilà mon sein ; que j’expire avec elle.</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="1039" part="i">Épargnez votre époux...</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="1039" part="f">Qui ! Toi mon époux ! Toi !</l>
 	<l id="1040">Tu n’es que le bourreau, l’assassin de Julie.</l>
 	<l id="1041">Ose être aussi le mien. Tu n’es plus rien pour moi :</l>
@@ -2015,56 +2015,56 @@
 	<l id="1043" part="i">Ma fille ! Je me meurs.</l>
 <stage>Elle s’évanouit.</stage>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="1043" part="f">Légitime courroux ,</l>
 	<l id="1044" part="i">Que j’ai trop mérité.</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO, aux Domestiques.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>, aux Domestiques.</hstage>
 	<l id="1044" part="f">Pendant cette faiblesse,</l>
 	<l id="1045">Dans son appartement portez votre maîtresse.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="1046">Ma Julie ! Où m’entraînez-vous ?</l>
 	<l id="1047">Je veux, j’ordonne qu’on me laisse.</l>
 <stage>Monsieur Capellet fait signe qu’on l’emmène.</stage>
 	<l id="1048">Ils ne m’écoutent pas ! Ô cours trop inhumains !</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Julie, Monsieur Capellet, Benvoglio, Domestiques.</head>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Julie, Monsieur Capellet, Benvoglio, Domestiques.</cast>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="1049" part="i">Mon cher Benvoglio !</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="1049" part="f">Seigneur que je vous plains !</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="1050">Quel trésor j’ai perdu ! Vous connaissiez Julie.</l>
 	<l id="1051">Je pleure sa beauté bien moins que ses vertus :</l>
 	<l id="1052">Ma vie et ma maison en était embellie.</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="1053">Sans écouter, Seigneur, des regrets superflus,</l>
 	<l id="1054">Il faut vous éloigner d’un spectacle funeste,</l>
 	<l id="1055">Et chercher un repos dont vous avez besoin.</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="1056" part="i">Il n’en est plus pour moi.</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="1056" part="f">Confiez-moi le foin,</l>
 	<l id="1057">En ce triste moment, de faire ce qui reste.</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="1058">Je vous laisse le maître, et je sors du Palais.</l>
 	<l id="1059">C’en est donc fait ! Adieu, Julie, adieu. Ta mère</l>
 	<l id="1060">Oserait t’embrasser dans sa douleur amère ;</l>
 	<l id="1061">Moi, je n’en suis pas digne : Adieu donc pour jamais.</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="1062">Enfin, tout réussit, au gré de mes souhaits.</l>
 	<l id="1063">Je n’ai nul repentir d’affliger un tel père.</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET, se retournant et revenant.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>, se retournant et revenant.</hstage>
 	<l id="1064">Voilà donc tes effets, ô rage sanguinaire !</l>
 	<l id="1065">Fortuné Montaigu, quel triomphe pour toi !</l>
 	<l id="1066">Ta haine a le dessus ; tu l’emportes fur moi :</l>
@@ -2088,11 +2088,11 @@
 	<l id="1076">Sur ce fatal événement,</l>
 	<l id="1077">Je veux qu’on garde le silence.</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="1078">Ô Dieu ! Pourquoi ce changement ?</l>
 	<l id="1079" part="i">Quelle raison, Seigneur ....</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="1079" part="f">Quoi qu’il en soit, j’ordonne</l>
 	<l id="1080">Le secret, et je veux qu’on l’ignore à Vérone :</l>
 	<l id="1081">Enfin, un tel silence importe à mon dessein.</l>
@@ -2121,15 +2121,15 @@
 	<l id="1101">Mais toi ! Tu connaissais un amour qui m’offense :</l>
 	<l id="1102">Oui, de mon ennemi tu savais les projets.</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO, à part.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>, à part.</hstage>
 	<l id="1103">Tout est perdu ! du fort voilà les derniers traits !</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="1104">Tu pourrais l’avertir, et braver ma défense :</l>
 	<l id="1105">Qu’on l’arrête, et qu’il soit gardé dans le Palais :</l>
 	<l id="1106">C’est une sûreté qu’exige ma prudence.</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO, à part.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>, à part.</hstage>
 	<l id="1107">Mon stratagème, hélas ! Loin de finir leurs maux?</l>
 	<l id="1108">Peut-être produira quelques malheurs nouveaux !</l>
 	<l id="1109">Roméo ne sait rien de ce que j’osai faire,</l>
@@ -2140,7 +2140,7 @@
 <div1 type="acte" n="5"><head>ACTE V</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
 <stage>Le Théâtre représente des tombeaux. Une Lampe suspendue à la voûte éclaire la Scène. Au dessus de quelques unes des portes où sont censés être les cercueils, il y a des inscriptions et des statues. Laure et quelques autres Domestiques paraissent autour de Julie lorsque la toile du fond se lève. Ils se retirent dans la plus grande consternation, excepté un seul, qui ne sort que quand Roméo entre. Julie est derrière une espèce d’autel qui est au milieu, du Théâtre dans l’enfoncement. On ne la voit pas.</stage>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 <stage>L’homme qui guette son arrivée, dès que Roméo entre, sort du côté opposé.</stage>
 	<l id="1111">Je revois ces tombeaux, ces lieux où ma Julie,</l>
 	<l id="1112">En présence du Commandeur,</l>
@@ -2258,8 +2258,8 @@
 <stage>Il passe derrière l’autel pour aller ouvrir le tombeau du fond, il aperçoit Julie.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCENE II. Roméo, Julie.</head>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<div2 type="scene" n="2"><head>SCENE II.</head><cast>Roméo, Julie.</cast>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="1208">Que vois-je ? Quel objet ? Ô Dieu ! grand Dieu, c’est elle !</l>
 	<l id="1209">Julie ! Ô malheureux ! —Julie ! éveille-toi :</l>
 	<l id="1210">C’est Roméo, ton amant, ton époux qui t’appelle.</l>
@@ -2328,16 +2328,16 @@
 	<l id="1267">Il faut, par mon trépas, expier ce forfait.</l>
 <stage>Il se frappe et jette son poignard a terre.</stage>
 </sp>
-<sp who="JULIE"><speaker>JULIE, d’une voix sépulcrale.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>, d’une voix sépulcrale.</hstage>
 	<l id="1268" part="i">Roméo ! Roméo !</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="1268" part="f">Ce n’est point un mensonge :</l>
 	<l id="1269">Je l’entends qui m’appelle. Ah ! Julie ! Un instant...</l>
 	<l id="1270" part="i">Elle sort de sa tombe !</l>
 <stage>Il tombe au pied de l’autel. Il met son écharpe à l’endroit de sa plaie, et s’aide ensuite de l’autel pour se relever.</stage>
 </sp>
-<sp who="JULIE"><speaker>JULIE, se levant sur son séant.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>, se levant sur son séant.</hstage>
 	<l id="1270" part="f">Où suis-je ? Un affreux songe...</l>
 	<l id="1271">N’ai-je pas entendu la voix de mon amant ?</l>
 	<l id="1272">Ses accents se mêlaient à la voix de mon père ;</l>
@@ -2345,16 +2345,16 @@
 <stage>Elle sort de la tombe sans voir Roméo, et s’avance sur le devant de la scène.</stage>
 	<l id="1274">Cependant je suis seule en ces funestes lieux.</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO, chancelant.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>, chancelant.</hstage>
 	<l id="1275">Ô fantôme sacré d’une amante si chère !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE, courant à lui.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>, courant à lui.</hstage>
 	<l id="1276">Roméo ! Quel bonheur ! Est-ce toi, cher époux ?</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="1277" part="i">Julie ! Est-il bien vrai !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1277" part="f">Je vois couler tes larmes !</l>
 	<l id="1278">Après tant de tourments, que cet instant est doux !</l>
 	<l id="1279">Le bonheur de te voir, ce bonheur plein de charmes</l>
@@ -2364,53 +2364,53 @@
 	<l id="1283">Benvoglio ne paraît pas encore ?</l>
 	<l id="1284" part="i">N’est-il donc pas minuit ?</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="1284" part="f">Je te vois : le trépas</l>
 	<l id="1285">A respecté les jours de celle que j’adore :</l>
 	<l id="1286">Je n’en saurais douter, je te tiens dans mes bras,</l>
 	<l id="1287">Ah ! Julie ! Ah ! Julie !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1287" part="f">Hé bien ! Quittons Vérone,</l>
 	<l id="1288">De trop près, dans ses murs, le danger t’environne.</l>
 	<l id="1289">Fuyons, je te suivrai partout où tu voudras.</l>
 	<l id="1290" part="i">Cher Roméo ! Jamais, non jamais...</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="1290" part="f">Ah ! Julie !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1291">Peux-tu douter encor que je ne sois en vie,</l>
 	<l id="1292" part="i">Et n’as-tu pas appris ?...</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="1292" part="f">Ah ! Fuis un malheureux.</l>
 	<l id="1293">Dieu, Dieu ! Fût-il jamais des tourments plus affreux</l>
 	<l id="1294">Mêlés à tant de joie ? Ô déplorable amie !</l>
 	<l id="1295">Fuis, fuis ? Te dis-je... Il faut que je reste en ces lieux.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1296" part="i">Cruel ! Cruel époux !</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="1296" part="f">Épargne les reproches</l>
 	<l id="1297" part="i">À ce cour déchiré.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1297" part="f">Roméo ! Qu’as-tu fait ?</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="1298">Tu vis ; il me suffit : je mourrai satisfait.</l>
 	<l id="1299">De mon dernier instant je ressens les approches ...</l>
 	<l id="1300" part="i">Je te croyais sans vie...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1300" part="f">Ô trop funeste erreur !</l>
 	<l id="1301">Cruel Benvoglio ! Voilà donc le bonheur</l>
 	<l id="1302">Que tu nous promettais d’un fatal stratagème !</l>
 	<l id="1303" part="i">Roméo !</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="1303" part="f">Garde-toi d’imiter ma fureur.</l>
 	<l id="1304">Ma Julie ! Il te reste une mère qui t’aime :</l>
 	<l id="1305">Épargne à ses vieux ans, épargne le malheur</l>
@@ -2418,14 +2418,14 @@
 	<l id="1307">Tu dois vivre pour elle, et fermer ma paupière ;</l>
 	<l id="1308" part="i">C’en est fait, ma Julie...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1308" part="f">Au séjour du trépas</l>
 	<l id="1309">Ton épouse, aujourd’hui va marcher sur tes pas.</l>
 	<l id="1310">Ah ! Son horreur déjà plus qu’à toi m’est connue !</l>
 	<l id="1311">Roméo ! C’est ici l’asile de la paix,</l>
 	<l id="1312">De la paix, qui, sans toi, ne peut m’être rendue...</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 	<l id="1313">Ce dessein, chère épouse, ajoute à mes regrets.</l>
 <stage>Il se met à genoux sur la marche de l’autel.</stage>
 	<l id="1314">Pardonne, Dieu puissant ! L’amour fit notre crime ;</l>
@@ -2436,25 +2436,25 @@
 	<l id="1319">Épuise sur moi seul les traits de ton courroux,</l>
 	<l id="1320">Et daigne conserver les jours de ma Julie.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1321">Dieu ! Rejette les voux de son âme affaiblie !</l>
 	<l id="1322">J’étais venue ici pour suivre mon époux,</l>
 	<l id="1323">Je veux le suivre dans la tombe.</l>
 </sp>
-<sp who="ROMÉO"><speaker>ROMÉO.</speaker>
+<sp who="ROMÉO"><hstage><speaker>ROMÉO</speaker>.</hstage>
 <stage>Il veut se relever, mais il tombe après plusieurs efforts.</stage>
 	<l id="1324">Le voile de la mort vient obscurcir mes yeux ;</l>
 	<l id="1325">Ils ne distinguent plus ces attraits précieux.</l>
 	<l id="1326">Je ne me soutiens plus ; je sens que je succombe.</l>
 	<l id="1327">Approche, ma Julie, et reçois mes adieux.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE, qui a ramassé le poignard.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>, qui a ramassé le poignard.</hstage>
 	<l id="1328" part="i">Non, non.</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO, criant derrière la coulisse et dans l’éloignement.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>, criant derrière la coulisse et dans l’éloignement.</hstage>
 	<l id="1328" part="f">Elle est vivante ! Ô père furieux !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1329">C’est ma famille, ô ciel ! Que la haine rassemble,</l>
 	<l id="1330">Pour insulter sans doute à tes derniers moments :</l>
 	<l id="1331">Si nous n’avons pu vivre, au moins mourons ensemble,</l>
@@ -2462,38 +2462,38 @@
 <stage>Elle se frappe.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE DERNIÈRE. Roméo, Julie, Monsieur Capellet, Madame Capplet, Laure, Benvoglio, et Domestiques</head>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE DERNIÈRE.</head><cast>Roméo, Julie, Monsieur Capellet, Madame Capplet, Laure, Benvoglio, et Domestiques</cast>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="1333">Venez, venez, Madame ; oui, votre indigne fille</l>
 	<l id="1334">Trahissait sans pudeur l’honneur de sa famille.</l>
 	<l id="1335">Vous allez voir l’objet de ses gémissements,</l>
 	<l id="1336">Qui venait la chercher parmi ces monuments :</l>
 	<l id="1337" part="i">Il ne peut m’échapper.</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>.</hstage>
 	<l id="1337" part="f">Je revois ma Julie !</l>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="1338">Ma fille ne m’est point ravie !</l>
 	<l id="1339">Ah ! Viens m’en assurer dans mille embrassements.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1340">Hélas ! N’espérez-pas prolonger mes tourments :</l>
 	<l id="1341">Tout est fini pour moi. Pardonnez, ô ma mère !</l>
 </sp>
-<sp who="MADAME CAPELLET"><speaker>MADAME CAPELLET, s’évanouit.</speaker>
+<sp who="MADAME CAPELLET"><hstage><speaker>MADAME CAPELLET</speaker>, s’évanouit.</hstage>
 	<l id="1342" part="i">Qu’as-tu fait, malheureuse ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1342" part="f">Et vous, terrible père !</l>
 	<l id="1343">Et vous ! De vos fureurs contemplez tous les fruits.</l>
 	<l id="1344">Attends-moi, Roméo ! Cher époux ! Je te suis.</l>
 <stage>Elle se laisse tomber sur lui.</stage>
 </sp>
-<sp who="MONSIEUR CAPELLET"><speaker>MONSIEUR CAPELLET.</speaker>
+<sp who="MONSIEUR CAPELLET"><hstage><speaker>MONSIEUR CAPELLET</speaker>.</hstage>
 	<l id="1345">Voilà ce qu’ont produit ma haine et ma colère !</l>
 </sp>
-<sp who="BENVOGLIO"><speaker>BENVOGLIO.</speaker>
+<sp who="BENVOGLIO"><hstage><speaker>BENVOGLIO</speaker>.</hstage>
 	<l id="1346">Ah ! Puisse un tel exemple effrayer à jamais</l>
 	<l id="1347">Les parents trop cruels, ennemis de la paix.</l>
 </sp>

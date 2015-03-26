@@ -73,8 +73,8 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Phalante, Hydaspe, Claridan.</head>
-<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Phalante, Hydaspe, Claridan.</cast>
+<sp who="HYDASPE"><hstage><speaker>HYDASPE</speaker>.</hstage>
 	<l id="1">Enfin tu ne peux plus différer de me dire,</l>
 	<l id="2">Le sujet important qui cause ton martyre,</l>
 	<l id="3">Et quelle occasion t’oblige de chérir,</l>
@@ -84,7 +84,7 @@
 	<l id="7">De grâce, éclairci moi, favorise mes vœux,</l>
 	<l id="8" part="i">Dis-moi ce qui nous mène.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="8" part="f">Hydaspe, je le veux,</l>
 	<l id="9">Puisque je l’ai promis, il faut que je seconde</l>
 	<l id="10">Le désir de l’ami le plus discret du monde ;</l>
@@ -101,12 +101,12 @@
 	<l id="21">Jette les yeux par tout, tourne, et veille sans cesse,</l>
 	<l id="22">Tandis que nous irons visiter la Princesse.</l>
 </sp>
-<sp who="CLARIDAN"><speaker>CLARIDAN.</speaker>
+<sp who="CLARIDAN"><hstage><speaker>CLARIDAN</speaker>.</hstage>
 	<l id="23">Vous pouvez sur mes soins reposer sûrement.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Phalante, Hydaspe.</head>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Phalante, Hydaspe.</cast>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="24">Puisque tu veux savoir l’état de mon tourment,</l>
 	<l id="25">Et pourquoi retourné d’Afrique en la Sicile,</l>
 	<l id="26">J’en suis parti soudain, pour sauver cette ville,</l>
@@ -141,14 +141,14 @@
 	<l id="55">Dans mon deuil aujourd’hui rien ne peut m’égaler,</l>
 	<l id="56">Et rien dans ce malheur ne me peut consoler.</l>
 </sp>
-<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+<sp who="HYDASPE"><hstage><speaker>HYDASPE</speaker>.</hstage>
 	<l id="57">Ce Prince, je l’avoue, avait beaucoup de charmes,</l>
 	<l id="58">Et cette grande perte est digne de tes larmes ;</l>
 	<l id="59">Mais ton grand cœur, Phalante, invincible d’ailleurs,</l>
 	<l id="60">Veut-il se laisser vaincre à ses propres douleurs ?</l>
 	<l id="61">En pleurant ton ami, veux-tu cesser de vivre ?</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="62">Plut au Ciel que mon sort m’eut permis de le suivre !</l>
 	<l id="63">Écoute, et tu verras que tant qu’il fut vivant,</l>
 	<l id="64">Son amitié pour moi passa bien plus avant :</l>
@@ -177,13 +177,13 @@
 	<l id="87">Que j’étais son esclave, et que je n’aspirais</l>
 	<l id="88">Qu’a l’immortel honneur de vivre sous ses lois.</l>
 </sp>
-<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+<sp who="HYDASPE"><hstage><speaker>HYDASPE</speaker>.</hstage>
 	<l id="89">Je touche au but, Phalante, et comprends le mystère,</l>
 	<l id="90">Tu viens servir la sœur, aussitôt que le frère,</l>
 	<l id="91">Cette jeune merveille attire ici nos pas,</l>
 	<l id="92">Ton cœur assurément languit dans ses appas.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="93">Suspend ton jugement, et si tu ne te lasses,</l>
 	<l id="94">Du récit ennuyeux de mille autres disgrâces,</l>
 	<l id="95">À qui je fus en butte, accorde moy ce point,</l>
@@ -223,10 +223,10 @@
 	<l id="129">Et conservais en moi certaines étincelles,</l>
 	<l id="130">Qui ne se perdaient point dans des flammes si belles.</l>
 </sp>
-<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+<sp who="HYDASPE"><hstage><speaker>HYDASPE</speaker>.</hstage>
 	<l id="131">Bizarre coup du sort ! Étrange effet d’amour !</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="132">Ce dernier feu pourtant croissait de jour en jour ;</l>
 	<l id="133">J’en voyais la lumière, et j’en sentais la flamme,</l>
 	<l id="134">Qui petit à petit s’allumait dans mon âme.</l>
@@ -271,21 +271,21 @@
 	<l id="173">Et comme il ignorait le secret de ma flamme,</l>
 	<l id="174">Il enleva bientôt ce trésor de mon âme.</l>
 </sp>
-<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+<sp who="HYDASPE"><hstage><speaker>HYDASPE</speaker>.</hstage>
 	<l id="175">Quoi ? Sans t’en avertir, la belle se rendit,</l>
 	<l id="176" part="i">Et ne résista point ?</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="176" part="f">L’honneur lui défendit ;</l>
 	<l id="177">Et puis le Duc son père en ce prince admirable,</l>
 	<l id="178">Des partis qui s’offraient trouvant le plus sortable,</l>
 	<l id="179">Il le voulut d’abord aux autres préférer,</l>
 	<l id="180">Sans consulter sa Fille, et sans d2liberer.</l>
 </sp>
-<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+<sp who="HYDASPE"><hstage><speaker>HYDASPE</speaker>.</hstage>
 	<l id="181">D’où vient donc qu’il lui fait une guerre mortelle ?</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="182">Voici comme on m’écrit qu’arriva leur querelle,</l>
 	<l id="183">Le Duc des Calabrais, à certain jour précis,</l>
 	<l id="184">S’obligea par contrat au Prince son beau fils,</l>
@@ -325,22 +325,22 @@
 	<l id="217">Voila le coup mortel dont mon âme est blessée,</l>
 	<l id="218">Et le souci cuisant, qui trouble ma pensée.</l>
 </sp>
-<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+<sp who="HYDASPE"><hstage><speaker>HYDASPE</speaker>.</hstage>
 	<l id="219">Tu perds, je le confesse, un ami généreux ;</l>
 	<l id="220">Vengeons donc en ce lieu son destin rigoureux,</l>
 	<l id="221">Et que ces Calabrais, d’humeur trop insolente,</l>
 	<l id="222">Apprennent aujourd’hui, qu’il revit en Phalante.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="223">Nous voici, cher Hydaspe, aux portes du château ;</l>
 	<l id="224">Et ce lieu, qui me fut si charmant, et si beau,</l>
 	<l id="225">Au temps que Liliane y fit naître ma flamme,</l>
 	<l id="226">Par la mort de son frère est funeste à mon âme.</l>
 </sp>
-<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+<sp who="HYDASPE"><hstage><speaker>HYDASPE</speaker>.</hstage>
 	<l id="227">Si tu l’aimes encor, console sa douceur.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="228">Je suis plus qu’elle à plaindre, en ce dernier malheur :</l>
 	<l id="229">L’amitié d’Iolas faisait toute ma gloire,</l>
 	<l id="230">J’en dois jusqu’à la mort affliger ma mémoire ;</l>
@@ -359,10 +359,10 @@
 	<l id="243">Aurais-tu peu penser, que mon cœur engagé,</l>
 	<l id="244">Eust pu courir au change, et se fut partagé ?</l>
 </sp>
-<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+<sp who="HYDASPE"><hstage><speaker>HYDASPE</speaker>.</hstage>
 	<l id="245">Donc Liliane encore occupe ta pensée ?</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="246">Mon âme, je l’avoue, en est toujours blessée ;</l>
 	<l id="247">Et quand je reverrai cette Divinité,</l>
 	<l id="248">Je céderai sans doute aux traits de sa beauté.</l>
@@ -377,17 +377,17 @@
 	<l id="257">Mais en toutes les deux, j’adore une merveille,</l>
 	<l id="258">Et pour le choix en vain la raison me conseille.</l>
 </sp>
-<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+<sp who="HYDASPE"><hstage><speaker>HYDASPE</speaker>.</hstage>
 	<l id="259">Si faut-il te résoudre où tu veux t’engager.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="260">Avecque Bérénice allons nous affliger,</l>
 	<l id="261">Et je consulterai mon amour, et leurs charmes,</l>
 	<l id="262">Quand le temps, et nos soins auront séché leurs larmes.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Bérénice, Aronte, Le Page.</head>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE, et sa suite.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Bérénice, Aronte, Le Page.</cast>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>, et sa suite.</hstage>
 	<l id="263">Ces propos superflus aigrissent ma douleur,</l>
 	<l id="264">Souffrez qu’en liberté je pleure mon malheur,</l>
 	<l id="265">Amis laissez-moi seule ; et parmi tant d’atteintes,</l>
@@ -395,7 +395,7 @@
 	<l id="267">Je suis inconsolable, en l’état où je suis,</l>
 	<l id="268">Vos consolations augmentent mes ennuis.</l>
 </sp>
-<sp who="ARONTE"><speaker>ARONTE.</speaker>
+<sp who="ARONTE"><hstage><speaker>ARONTE</speaker>.</hstage>
 	<l id="269">Hé ! De grâce, Madame, en ce malheur extrême,</l>
 	<l id="270">Ayez pitié de nous, ayez en de vous-même.</l>
 	<l id="271">Notre espoir est tombé, mais vous le relevez :</l>
@@ -408,7 +408,7 @@
 	<l id="277">Qu’on ne peut implorer, sans repos, et sans honte ?</l>
 	<l id="278" part="i">Que voulez-vous qu’on fasse ?</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="278" part="f">Il faut le perdre, Aronte,</l>
 <note type="L">Manes : Terme poétique qui signifie l’ombre ou l’âme d’un mort. [F]</note>
 	<l id="279">Les mânes d’Iolas m’ont ce crime permis ;</l>
@@ -423,12 +423,12 @@
 	<l id="288">Mais je vous vengerai, premier que de mourir,</l>
 	<l id="289">Faisant du camp d’Iarbe une scène sanglante.</l>
 </sp>
-<sp who="LE PAGE"><speaker>LE PAGE.</speaker>
+<sp who="LE PAGE"><hstage><speaker>LE PAGE</speaker>.</hstage>
 	<l id="290">On me vient avertir, Madame, que Phalante,</l>
 	<l id="291">Entre dans le Palais, et demande à vous voir,</l>
 	<l id="292">Pour s’acquitter vers vous de son premier devoir.</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="293">La douleur m’a du tout de raison dépourvue ;</l>
 	<l id="294">Je n’aurais pas le cœur de soutenir sa vue.</l>
 	<l id="295">Pour quelque temps, Aronte, allez l’entretenir,</l>
@@ -437,8 +437,8 @@
 	<l id="298">De penser que par lui je puis être vengée.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Iolas, Cléonte.</head>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Iolas, Cléonte.</cast>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="299">Grâce aux Dieux, je suis libre, et le Ciel a permis,</l>
 	<l id="300">Que je me sois tiré du camp des ennemis,</l>
 	<l id="301">Ou m’avait à tel point engagé la vengeance,</l>
@@ -454,7 +454,7 @@
 	<l id="311">Je ne me serais pas sans toi débarrassé,</l>
 	<l id="312">De ce monceau de corps, où j’étais entassé.</l>
 </sp>
-<sp who="CLÉONTE"><speaker>CLÉONTE.</speaker>
+<sp who="CLÉONTE"><hstage><speaker>CLÉONTE</speaker>.</hstage>
 	<l id="313">Je mets votre salut au nombre des merveilles,</l>
 	<l id="314">On ne courut jamais de fortunes pareilles :</l>
 	<l id="315">Cela vous doit instruire, ô Prince glorieux,</l>
@@ -462,23 +462,23 @@
 	<l id="317">Et ne pas exiger de ce cœur invincible,</l>
 	<l id="318">Qui n’a cédé qu’au nombre, une chose impossible.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="319">De tous tes compagnons n’est-il resté que toi ?</l>
 </sp>
-<sp who="CLÉONTE"><speaker>CLÉONTE.</speaker>
+<sp who="CLÉONTE"><hstage><speaker>CLÉONTE</speaker>.</hstage>
 	<l id="320">Vos bons soldats sont morts, le reste a pris l’effroi.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="321">Si Phalante a peuplé mes murailles désertes,</l>
 	<l id="322">Le Ciel soit loué, je ne plains point mes pertes,</l>
 	<l id="323">Ce généreux amy répare mon malheur,</l>
 	<l id="324">Il connaît le besoin que j’ai de sa valeur ;</l>
 </sp>
-<sp who="CLÉONTE"><speaker>CLÉONTE.</speaker>
+<sp who="CLÉONTE"><hstage><speaker>CLÉONTE</speaker>.</hstage>
 	<l id="325">Et que le Calabrais, qui vous fut infidèle,</l>
 	<l id="326">Passe pour l’agresseur d’une injuste querelle,</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="327">Ce qui plus me travaille en la peine ou je suis,</l>
 	<l id="328">C’est que ma Bérénice, au fort des ennuis,</l>
 	<l id="329">A peine à supporter l’injustice d’un père,</l>
@@ -492,10 +492,10 @@
 	<l id="337">Allons voir cet ami, généreux, et fidèle,</l>
 	<l id="338">Je suis vu du soldat, qui fait la sentinelle.</l>
 </sp>
-<sp who="CLÉONTE"><speaker>CLÉONTE.</speaker>
+<sp who="CLÉONTE"><hstage><speaker>CLÉONTE</speaker>.</hstage>
 	<l id="339">Il doit être abusé du bruit de votre mort.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="340">Détrompe son esprit, découvre moi d’abord ;</l>
 	<l id="341">Et puisqu’on ne peut pas ignorer dans Tarente,</l>
 	<l id="342">Pars où je dois passer ma fortune présente,</l>
@@ -507,8 +507,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="1"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Phalante, Bérénice, Iolas, caché.</head>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Phalante, Bérénice, Iolas, caché.</cast>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="347">Non non, je ne saurais vous accorder ce point,</l>
 	<l id="348">Vous n’avez point failli, ne vous excusez point :</l>
 	<l id="349">J’étais, je le confesse, indigne de vos charmes ;</l>
@@ -524,10 +524,10 @@
 	<l id="359">Ce jaloux devers lui l’a voulu retirer,</l>
 	<l id="360">Voyant que sa vertu le faiséit adorer.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS, caché.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>, caché.</hstage>
 	<l id="361">Dieux ! Que viens-je d’entendre ? Est-il vrai que je veille ?</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="362">Encor que ma douleur, qui n’a point de pareille,</l>
 	<l id="363">Dans ce coup de malheur, qui nous a tous surpris,</l>
 	<l id="364">Occupe entièrement mon cœur, et mes esprits ;</l>
@@ -552,10 +552,10 @@
 	<l id="383">Mais par sa loi, Phalante, il te fallait trahir,</l>
 	<l id="384">Je dépendais d’un père, il fallait obéir.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="385">La chaste Bérénice est l’objet de sa flamme ?</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="386">Les Dieux me sont témoins, Princesse de mon âme,</l>
 	<l id="387">Que la mort d’Iolas fait toute ma douleur,</l>
 	<l id="388">Que je suis plus que vous sensible à ce malheur,</l>
@@ -564,7 +564,7 @@
 	<l id="391">Que je viens pour pleurer en cette extrémité,</l>
 	<l id="392">Non pour vous reprocher votre infidélité.</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="393">Elle m’est bien assez par tes yeux reprochée ;</l>
 	<l id="394">Et tes sages discours, dont je me sens touchée,</l>
 	<l id="395">Aggravent d’autant plus mon offense envers toi,</l>
@@ -580,23 +580,23 @@
 	<l id="405">Aussi bien nos douleurs ne feront pas revivre</l>
 	<l id="406">Ce Prince généreux, que je veux bientôt suivre.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="407">Plût au Ciel, qui mes vœux a souvent exaucé,</l>
 	<l id="408">Qu’avant sa mort, je l’eusse une fois embrassé !</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Iolas, Phalante, Bérénice.</head>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Iolas, Phalante, Bérénice.</cast>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="409">Il ne tiendra qu’à toi, me voila plein de vie,</l>
 	<l id="410">Contente, cher ami, contente ton envie.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="411" part="i">Ô Dieux !</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="411" part="f">Ô justes Dieux, puis-je voir mon époux !</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="412">Oui, tu le vois mon âme, et les destins jaloux</l>
 	<l id="413">De me voir possesseur d’une chose si belle,</l>
 	<l id="414">N’ont pas gardé leur haine, en me séparant d’elle,</l>
@@ -604,13 +604,13 @@
 	<l id="416">Et se sont repentis de leur sévérité :</l>
 	<l id="417" part="i">Je te revois encore.</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="417" part="f">Ô Destin favorable !</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="418">Ô faveur sans exemple ! Ô bien incomparable !</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="419">Mais qu’ai-je ouï, Phalante, en m’approchant d’ici ?</l>
 	<l id="420">Je t’ai vu plein d’angoisse, et comblé de souci,</l>
 	<l id="421">Reprocher d’une voix qui semblait altérée,</l>
@@ -620,11 +620,11 @@
 	<l id="425">Qui (si de tes secrets j’eusse pris connaissance)</l>
 	<l id="426">Serait fort aisément tombé sous ta puissance.</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE, en elle-même.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>, en elle-même.</hstage>
 	<l id="427">Dans nos civilités il nous aura surpris,</l>
 	<l id="428">Il a nos chastes feux de nos bouches appris.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="429">Quoi ? Mon frère, est-ce ainsi qu’on m’ouvre sa pensée ?</l>
 	<l id="430">Les traits de Bérénice ont ton âme blessée :</l>
 	<l id="431">Tu les as soutenus, tu les as peu sentir,</l>
@@ -642,7 +642,7 @@
 	<l id="443">Pourquoi m’as-tu celé tes transports amoureux,</l>
 	<l id="444">Quand mon consentement te pouvait rendre heureux ?</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="445">Il m’était impossible, ô Prince magnanime,</l>
 	<l id="446">De découvrir mon cœur, sans découvrir mon crime,</l>
 	<l id="447">Avecque mon secret, j’eusse manifesté</l>
@@ -652,10 +652,10 @@
 	<l id="451">Que te le faire voir, traître, inconstant, et faux,</l>
 	<l id="452">Et te le découvrir avec tant de défauts.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="453">Cet énigme est obscur, fais qu’on le puisse entendre.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="454">À ma confusion tu le dois bien comprendre :</l>
 	<l id="455">Ne te souvient il point, que quand tu me permis,</l>
 	<l id="456">De prendre place au rang de tes meilleurs amis,</l>
@@ -666,39 +666,39 @@
 	<l id="461">Et sentant pour une autre une flamme si prompte,</l>
 	<l id="462">Voulais tu qu’à tes yeux j’exposasse ma honte ?</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="463">Me devant ton secret, pourquoi le cachais-tu ?</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="464">C’était cacher le Vice à la même vertu.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="465">Tout ce que fait Phalante est éloigné du vice.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="466">Il a contre sa foi recherché Bérénice.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="467">T’ayant promis ma sœur, contre ton sentiment,</l>
 	<l id="468">Ton cœur a peu changer, et l’a fait justement.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="469">Ayant de mon ami méprisé l’alliance</l>
 	<l id="470">J’ai blessé son honneur, avec ma conscience.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="471">J’ai seul été coupable, en te tyrannisant.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="472">Et moi j’ai seul été coupable, en t’abusant,</l>
 	<l id="473">Aussi le Ciel te venge, et te rend la Justice,</l>
 	<l id="474">Accordant à tes vœux la chaste Bérénice.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="475">Phalante, il m’est témoin qu’elle serait à toi,</l>
 	<l id="476">Si tu m’eusses fait voir ton amour, et ta foi.</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="477">De ma possession tu fais bien peu de conte :</l>
 	<l id="478">D’où te vient, cher époux, une froideur si prompte ?</l>
 	<l id="479">Ne peux tu témoigner en cette occasion</l>
@@ -722,7 +722,7 @@
 	<l id="497">Tu m’as dedans ton cœur à Phalante cédée,</l>
 	<l id="498">Et te repens quasi de m’avoir possédée.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="499">Reçois mieux mes discours, et mes intentions,</l>
 	<l id="500">Reine de mes désirs, et de mes passions :</l>
 	<l id="501">Tu connais mon amour, et sais bien en ton âme</l>
@@ -740,39 +740,39 @@
 	<l id="513">Puis donc qu’à son destin le mien fut si contraire,</l>
 	<l id="514">Plains avec moi sa perte, et l’aime comme frère.</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="515">Oui, je le chérirai (puisqu’il te plaît ainsi)</l>
 	<l id="516">D’un amour fraternel : mais qu’as-tu, mon souci ?</l>
 	<l id="517">D’une pâleur de mort je vois ta face peinte.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="518">Je me croyais frappé d’une légère atteinte,</l>
 	<l id="519">Mais le coup est plus grand que je n’avais pensé.</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="520" part="i">Qu’on cherche un prompt secours,</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="520" part="f">Je me sens fort blessé.</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="521" part="i">Vite, les médecins.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="521" part="f">Ma plaie s’est fermée,</l>
 	<l id="522">Et je crois que la flèche était envenimée :</l>
 	<l id="523">De plus, toute la nuit j’ai fait de grands efforts,</l>
 	<l id="524">Pour me développer d’un grand tas de corps morts,</l>
 	<l id="525">Où j’ai presque tout vif, trouvé ma sépulture.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="526">Cela doit bien avoir augmenté ta blessure ;</l>
 	<l id="527">Retire toi, mon frère, et sans plus de propos,</l>
 	<l id="528">Songe que ta santé dépend de ton repos.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Iolante, Liliane.</head>
-<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Iolante, Liliane.</cast>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>.</hstage>
 	<l id="529">Ne fais point la dolente, et la dissimulée,</l>
 	<l id="530">Je sais que de nos maux ton âme est consolée,</l>
 <note type="L">Mignon : signifie aussi favori, soit en matière d’amitié soit d’amour. La plupart des princes ont des mignons, des favoris qui les gouvernent. Beaucoup de dames ont des mignons de couchette. (...) [F]</note>
@@ -789,7 +789,7 @@
 	<l id="541">Tu peux par tes faveurs animer son courage,</l>
 	<l id="542">Qui de nos maux pressants dissipera l’orage,</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="543">Le deuil te siérait mieux que cette belle humeur ;</l>
 	<l id="544">Montre plus de prudence, en un age si mûr :</l>
 	<l id="545">Est-il temps de railler en si triste fortune ?</l>
@@ -801,7 +801,7 @@
 	<l id="551">Et te conservera cet État qu’il maintient,</l>
 	<l id="552">Et qui par droit d’aînesse aujourd’hui t’appartient.</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>.</hstage>
 	<l id="553">Je ne veux rien tenir des mains de cet infâme,</l>
 	<l id="554">Qui n’a point mérité de avoir pour sa femme :</l>
 	<l id="555">Ma sœur tu connais mal ce lâche suborneur :</l>
@@ -819,46 +819,46 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="ARONTE"><speaker>ARONTE, avec les Princesses.</speaker>
+<sp who="ARONTE"><hstage><speaker>ARONTE</speaker>, avec les Princesses.</hstage>
 	<l id="567">Mais Dieux ! Qu’Aronte est gai, qui l’amène en ces lieux ?</l>
 </sp>
-<sp who="ARONTE"><speaker>ARONTE.</speaker>
+<sp who="ARONTE"><hstage><speaker>ARONTE</speaker>.</hstage>
 	<l id="568">Mesdames tout vous rit, rendez grâces aux Dieux :</l>
 	<l id="569">Iolas de retour, a surpris la Princesse,</l>
 	<l id="570">Et dedans le Palais remplit tout d’allégresse.</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>.</hstage>
 	<l id="571">Mon frère de retour ? Aronte, que dis tu ?</l>
 	<l id="572">Que tu relèves bien notre espoir abattu !</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="573">Mon frère vit encore ? Ah ! Je mourrai de joie,</l>
 	<l id="574">Mais l’as-tu vu toi-même ? Est-ce lui qui t’envoie ?</l>
 </sp>
-<sp who="ARONTE"><speaker>ARONTE.</speaker>
+<sp who="ARONTE"><hstage><speaker>ARONTE</speaker>.</hstage>
 	<l id="575">Je porte à nos soldats un ordre de sa part,</l>
 	<l id="576">Il est vivant, et sain ; hormis un coup de dard,</l>
 	<l id="577">Qui lui perce le bras ; maintenant il repose</l>
 	<l id="578">Selon mon jugement, son mal est peu de chose.</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>.</hstage>
 	<l id="579">As-tu point rencontré Phalante avecque lui ?</l>
 </sp>
-<sp who="ARONTE"><speaker>ARONTE.</speaker>
+<sp who="ARONTE"><hstage><speaker>ARONTE</speaker>.</hstage>
 	<l id="580">J’ai su qu’il l’a surpris dans un excès d’ennui,</l>
 	<l id="581">Reprochant tendrement à sa chaste Princesse,</l>
 	<l id="582">Un manquement de foi, dont il eut la promesse.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="583">Bérénice à Phalante avait donné la foi ?</l>
 	<l id="584" part="i">Tu te trompes ami.</l>
 </sp>
-<sp who="ARONTE"><speaker>ARONTE.</speaker>
+<sp who="ARONTE"><hstage><speaker>ARONTE</speaker>.</hstage>
 	<l id="584" part="f">Madame excusez moi,</l>
 	<l id="585">Il n’est bruit au Palais, que de cette nouvelle ;</l>
 	<l id="586">Mais il est temps d’aller, où mon ordre m’appelle.</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>.</hstage>
 	<l id="587">Hé bien, Fille crédule, as-tu l’esprit content</l>
 	<l id="588">De ce beau cavalier, si zélé, si constant ?</l>
 	<l id="589">Veux-tu de sa franchise une preuve plus claire ?</l>
@@ -866,10 +866,10 @@
 	<l id="591">Il n’adore que toi sans doute, et ta beauté</l>
 	<l id="592">Est l’objet et le prix de sa fidélité ?</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE, en elle-même.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>, en elle-même.</hstage>
 	<l id="593">L’Ingrat jusqu’à ce point m’aurait-il méprisée ?</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>.</hstage>
 	<l id="594">Après tout j’ai regret de te voir abusée ;</l>
 	<l id="595">Et je m’étonne bien qu’ayant vu son mépris,</l>
 	<l id="596">Avecque moi d’abord tu ne l’as pas compris :</l>
@@ -884,13 +884,13 @@
 	<l id="605">Il se repentira, sitôt qu’il t’aura vue,</l>
 	<l id="606">Ne crains plus rien, ma sœur, Bérénice est pourvue.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="607">Le fuirai-je ? Ah ! mon cœur, ce volage me plaît,</l>
 	<l id="608">Et tu le veux aimer, tout inconstant qu’il est.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Phalante, Liliane.</head>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Phalante, Liliane.</cast>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="609">Puisque les justes Cieux ont entendu mes plaintes,</l>
 	<l id="610">Que le retour du Prince a dissipé mes craintes,</l>
 	<l id="611">Que tout rit, et succède à mes esprits contents,</l>
@@ -900,7 +900,7 @@
 	<l id="615">Et si certainement vous ne dédaignez pas</l>
 	<l id="616">Cet esclave d’amour, qui meurt pour vos appas.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="617">Si tu ne te sentais extrêmement coupable,</l>
 	<l id="618">Ce cœur qui s’est trouvé d’inconstance capable,</l>
 	<l id="619">Sachant comme autrefois il me fut précieux,</l>
@@ -934,7 +934,7 @@
 	<l id="647">Et que te repentant, tu veuilles m’assurer</l>
 	<l id="648">D’un amour sans reproche, et qui puisse durer.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="649">Ma chère Liliane, hélas ! Puis-je sans honte,</l>
 	<l id="650">(Ayant de ta beauté tenu si peu de compte)</l>
 	<l id="651">T’appeler mienne encore, et si je te promets,</l>
@@ -966,26 +966,26 @@
 	<l id="677">Bref je crois qu’en l’aimant je puis t’être fidèle,</l>
 	<l id="678">Et m’attacher à toi, sans me séparer d’elle.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="679">Et tu n’es pas volage, et perfide en ce point ?</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="680">Mon âme, assure toi que je ne le suis point.</l>
 	<l id="681">Je sens pour Bérénice une innocente flamme,</l>
 	<l id="682">Dont l’ardeur pure et sainte échauffe bien mon âme,</l>
 	<l id="683" part="i">Mais ne la peut corrompre.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="683" part="f">Inconstant, que dis-tu ?</l>
 	<l id="684">Que cette extravagance altère ta vertu !</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="685">Tu veux approfondir un secret que j’ignore ;</l>
 	<l id="686">Mon cœur, contente toi qu’en l’aimant je t’adore ;</l>
 	<l id="687">Et pour bannir de toi ces soupçons superflus,</l>
 	<l id="688">Si je puis désormais, je ne la verrai plus.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="689">Non, non, vois sa beauté, puisqu’elle te contente,</l>
 	<l id="690">Pourvu que ton amour réponde à mon attente :</l>
 	<l id="691">Sois libre en tes désirs, ne te contrains pas tant,</l>
@@ -1001,25 +1001,25 @@
 	<l id="701">Mais Phalante, le mal de mon frère m’effraye,</l>
 	<l id="702">Et je crains que la mort ne se cache en sa plaie.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="703">L’appareil te fera juger plus sainement.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="704">Conduis moi, s’il te plaît, vers son appartement.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Les Médecins, Iolas, Bérénice.</head>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Les Médecins, Iolas, Bérénice.</cast>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="705">Ne me déguisez point ce qu’il faut que je sache ;</l>
 	<l id="706">Je connAis mon malheur, en vain on me le cache,</l>
 	<l id="707">Et je suis résolue à tout événement.</l>
 </sp>
-<sp who="LE CHIRURGIEN"><speaker>LE CHIRURGIEN.</speaker>
+<sp who="LE CHIRURGIEN"><hstage><speaker>LE CHIRURGIEN</speaker>.</hstage>
 	<l id="708">Que sert de la flatter ? Parlons lui franchement.</l>
 </sp>
-<sp who="LE MÉDECIN"><speaker>LE MEDECIN, se tournant vers la Princesse.</speaker>
+<sp who="LE MÉDECIN"><hstage><speaker>LE MEDECIN</speaker>, se tournant vers la Princesse.</hstage>
 	<l id="709">Madame, tout va mal, la flèche envenimée</l>
 	<l id="710">A perdu tout son bras, la gangrène est formée,</l>
 	<l id="711">Le Prince est bien malade, on fait un vain effort ;</l>
@@ -1027,10 +1027,10 @@
 	<l id="713">Nous ne vous pouvons plus flatter en conscience,</l>
 	<l id="714">Songez à votre État, et prenez patience.</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="715" part="i">Ô Dieux ! ô justes Dieux !</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="715" part="f">Amis, je comprends bien,</l>
 	<l id="716">Qu’en mon mal sans remède on n’espère plus rien.</l>
 	<l id="717">Vous le cachez en vain, je lis sur vos visages</l>
@@ -1050,13 +1050,13 @@
 	<l id="729">Et sachez qu’Iolas sent approcher ce terme,</l>
 	<l id="730">D’un visage constant, et d’un courage ferme.</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="731">Ce jour n’est pas si prompt, mon âme, espère mieux</l>
 	<l id="732">Des forces de ton âge, et du secours des Cieux ;</l>
 	<l id="733">Si le Sort aujourd’hui disposait de ta vie,</l>
 	<l id="734">Ta fin serait bientôt de la mienne suivie.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="735">N’attendris point mon cœur, en l’état ou je suis,</l>
 	<l id="736">Tu vois bien que mes pleurs naissent de tes ennuis :</l>
 	<l id="737">N’obscurcis point mes yeux de ce triste nuage,</l>
@@ -1066,7 +1066,7 @@
 	<l id="741">Fais donc que de ma mort ton âme se console,</l>
 	<l id="742">Si tu veux que la mienne en liberté s’envole.</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="743">Quoi ! mon cœur, d’un œil sec je verrais ton trépas ?</l>
 	<l id="744">Je te verrais mourir, et je ne mourrais pas ?</l>
 	<l id="745">Penses-tu qu’après toi Bérénice demeure ?</l>
@@ -1076,7 +1076,7 @@
 	<l id="749">L’Amour conclut ma mort, la Raison l’autorise,</l>
 	<l id="750">Pour toi j’aime le jour, sans toi je le méprise.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="751">Si mon cœur d’un nœud ferme au tien se trouve joint,</l>
 	<l id="752">Crois, tant que tu vivras, que je ne mourrai point :</l>
 	<l id="753">Conserve donc, mon âme, en cette départie,</l>
@@ -1093,7 +1093,7 @@
 	<l id="763">Cet ami généreux s’offre tout à propos,</l>
 	<l id="764">Vis pour lui, si tu veux que je meure en repos.</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="765">Quoi, mon cher Iolas, ta perte est manifeste ?</l>
 	<l id="766">Rien ne s’offre à mes yeux, qui ne me soit funeste.</l>
 	<l id="767">Le désespoir me suit, un excès de malheurs</l>
@@ -1103,7 +1103,7 @@
 	<l id="771">Non, non, puisque nos jours n’ont qu’un même flambeau,</l>
 	<l id="772">Il faut que Bérénice épouse le tombeau.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="773">Si tu nourris en toi cette cruelle envie,</l>
 	<l id="774">Et si tu parles plus d’attenter à ta vie,</l>
 	<l id="775">Sache que ton époux mourra désespéré,</l>
@@ -1128,19 +1128,19 @@
 	<l id="794">Mon âme de ce corps partira bienheureuse,</l>
 	<l id="795" part="i">Autrement.</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="795" part="m">Mon désir ?</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="795" part="f">Ne me réplique point.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Bérénice, Phalante, Iolas, Iolante.</head>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Bérénice, Phalante, Iolas, Iolante.</cast>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="796">Comment veux-tu que j’aime, en ce funeste point</l>
 	<l id="797" part="i">Où je me vois réduite ?</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="797" part="f">Eh ! Mon frère, de grâce,</l>
 	<l id="798">Ne force point ce cœur, que ta perte menace,</l>
 	<l id="799">Et ne me prouve point ta parfaite amitié,</l>
@@ -1152,7 +1152,7 @@
 	<l id="805">Crois tu mourir sans moi ? Tu ne peux ce me semble ;</l>
 	<l id="806">Marche quand tu voudras ; nous partirons ensemble.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="807">Qui du fier Calabrais vengerait l’attentat ?</l>
 	<l id="808">Qui sauveraient mes sœurs, ma femme, et mon État ?</l>
 	<l id="809">Non, demeure après moi, tu m’offenses, mon frère,</l>
@@ -1172,37 +1172,37 @@
 	<l id="823">Au moins si vous voulez que mes vœux soient parfaits,</l>
 	<l id="824">Et s’il vous plaît de voir mes mânes satisfaits :</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE, en elle-même.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>, en elle-même.</hstage>
 	<l id="825">Que ces discours du mal dont je me sens atteinte,</l>
 	<l id="826">Augmentent la douleur, et redoublent ma crainte !</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="827">Résistez vous encore à mon contentement ?</l>
 	<l id="828">Ne me répondez vous que des yeux seulement ?</l>
 	<l id="829">C’est fait, vous consentez, ce silence m’arrête,</l>
 	<l id="830">Et ces beaux yeux mouillés, m’accordent ma requête.</l>
 	<l id="831">Est-il pas vrai, mon cœur ? Ne te résous-tu pas ?</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE, en elle-même.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>, en elle-même.</hstage>
 	<l id="832">À mourir, à te suivre, à marcher sur tes pas,</l>
 	<l id="833">Avant que je consente, et que l’obéissance</l>
 	<l id="834">Me porte à cette lâche, et dure complaisance.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="835" part="i">Hélas !</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE, en elle-même.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>, en elle-même.</hstage>
 	<l id="835" part="m">Le cœur me fend.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="835" part="f">Pourquoi me cèdes-tu</l>
 	<l id="836">Ce trésor accompli d’amour, et de vertu ?</l>
 	<l id="837">Qui suivra comme moi ta mort inévitable ?</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE, en elle-même.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>, en elle-même.</hstage>
 	<l id="838">Ô la belle alliance ! Ô le parti sortable !</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="839">J’oblige peu Phalante, en lui voulant céder</l>
 	<l id="840">Un trésor que mon cœur ne peut plus posséder :</l>
 	<l id="841">Ne parle pas ainsi, mon frère, tu m’affliges ;</l>
@@ -1212,10 +1212,10 @@
 	<l id="845">Sachant que ta valeur, à qui tout fait hommage,</l>
 	<l id="846">Réparera bientôt ma perte, et mon dommage.</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE, en elle-même.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>, en elle-même.</hstage>
 	<l id="847" part="i">Ô Dieux !</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="847" part="f">Reçois ma femme, et mes États aussi,</l>
 	<l id="848">Pourvu que de mes sœurs tu prennes le souci :</l>
 	<l id="849">Fais-les de ta moitié les compagnes fidèles,</l>
@@ -1227,7 +1227,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="IOLANTE"><speaker>IOLANTE, seule.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>, seule.</hstage>
 <stage>On tire le rideau devant la chambre.</stage>
 	<l id="855">Quoi cet homme inconnu, que j’abhorre sur tous</l>
 	<l id="856">Sera maître absolu de nos biens, et de nous ?</l>
@@ -1249,22 +1249,22 @@
 	<l id="870">Et par elle à mes maux chercher quelque allégeance.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Liliane, Iolante.</head>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Liliane, Iolante.</cast>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="871">Ah ! Ç’en est fait, ma sœur, nous perdons Iolas.</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>.</hstage>
 	<l id="872">Nous perdons plus encor, nous perdons ses États :</l>
 	<l id="873">Je ne le puis pleurer parmi tant d’injustice,</l>
 	<l id="874">Il vient de tout donner, avec sa Bérénice,</l>
 	<l id="875">À son ami Phalante ; et ce beau suborneur,</l>
 	<l id="876">Triomphe de nos biens, comme de notre honneur.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="877">Ah ! Ma sœur, que dis-tu ? Tu leur fais une injure,</l>
 	<l id="878">Et ton discours trop libre offense la Nature.</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>.</hstage>
 	<l id="879">Je dis ce que mes yeux seulement m’ont appris,</l>
 	<l id="880">Et j’eusse à peine cru d’un autre ce mépris :</l>
 	<l id="881">Iolas à ma perte, aussi bien qu’à ta honte,</l>
@@ -1280,10 +1280,10 @@
 	<l id="891">Ils ont feint quelque temps tous deux d’y résister,</l>
 	<l id="892">Mais qu’enfin, pour lui plaire ils voulaient l’accepter.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="893">Ah ! Ma sœur, puis-je croire une telle disgrâce ?</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>.</hstage>
 	<l id="894">Entre, si tu veux voir le contrat qui s’en passe :</l>
 	<l id="895">Mais avant qu’on le suive, et que contre nos lois</l>
 	<l id="896">Il soit effectué, je mourrai mille fois :</l>
@@ -1295,10 +1295,10 @@
 	<l id="902">L’autre est traître partout, infidèle, et parjure ;</l>
 	<l id="903">Vengeons nous, Liliane, en sauvant notre bien.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="904" part="i">Quel remède, et comment ?</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>.</hstage>
 <stage>Elle la tire à part.</stage>
 	<l id="904" part="f">J’en sais bien le moyen</l>
 	<l id="905">Livrons dans cette nuit notre ville affligée,</l>
@@ -1308,7 +1308,7 @@
 	<l id="909">Qu’il ne se servira d’un si bel avantage,</l>
 	<l id="910">Que pour nous rétablir dedans notre héritage.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="911">Dieux ! Que proposes-tu ? Ce discours plein d’horreur,</l>
 	<l id="912">Ne part que d’un esprit agité de fureur ;</l>
 	<l id="913">Ce remède, ma sœur, blesse ma conscience,</l>
@@ -1316,7 +1316,7 @@
 	<l id="915">Peut être que le Ciel, par des ressorts cachés,</l>
 	<l id="916">Détournera ces maux qu’attirent nos péchés.</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>.</hstage>
 	<l id="917">Ô faible et lâche esprit ! Ô cœur tout plein de glace !</l>
 	<l id="918">Que tu mérites bien le coup qui te menace !</l>
 	<l id="919">Puis que ce feu te plaît, et puis qu’aveuglément</l>
@@ -1328,11 +1328,11 @@
 	<l id="925">De qui les assiégeant n’ont point de connaissance ;</l>
 	<l id="926">Le Duc dans cette nuit, l’aura sous sa puissance.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="927">Eh ! De grâce, ma sœur, ne t’abandonne pas</l>
 	<l id="928" part="i">Aux coups du désespoir ;</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>.</hstage>
 	<l id="928" part="f">Que ton courage est bas !</l>
 	<l id="929">Pense que si j’outrage, on m’outrage de même,</l>
 	<l id="930">Qu’à mon extrême mal mon remède est extrême ;</l>
@@ -1348,8 +1348,8 @@
 	<l id="940">Je me vengerai seule, et j’en aurai l’honneur.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Liliane, Carinte.</head>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Liliane, Carinte.</cast>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="941">Iolante, ma sœur, où va cette insensée ?</l>
 	<l id="942">Détournez, justes Dieux, sa cruelle pensée,</l>
 	<l id="943">Qui dans le désespoir va se précipiter ;</l>
@@ -1361,13 +1361,13 @@
 	<l id="949">À tant de maux pressants cherche quelque remède,</l>
 	<l id="950">Soulage ma douleur, je réclame ton aide.</l>
 </sp>
-<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<sp who="CARINTE"><hstage><speaker>CARINTE</speaker>.</hstage>
 	<l id="951">Eh ! Madame, je meurs de vous voir affliger ;</l>
 	<l id="952">Que puis-je, pour vous plaire, et pour vous soulager ?</l>
 	<l id="953">Plut au ciel, qui connaît mon cœur, et mon envie,</l>
 	<l id="954">Que je vous pusse aider aux dépens de ma vie.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="955">Tu peux, sans qu’il t’en coûte un soupir seulement,</l>
 	<l id="956">Vaincre mon infortune, et guérir mon tourment :</l>
 	<l id="957">Si tu n’as oublié ce secret admirable,</l>
@@ -1389,7 +1389,7 @@
 	<l id="973">C’est de toi que dépend l’honneur de la province ;</l>
 	<l id="974">Le bien de Liliane, et le salut du Prince.</l>
 </sp>
-<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<sp who="CARINTE"><hstage><speaker>CARINTE</speaker>.</hstage>
 	<l id="975">S’ils dépendent de moi, comme vous le jugez,</l>
 	<l id="976">Madame, c’est à tort, que vous vous affligez :</l>
 	<l id="977">Puisqu’ayant sur Carinte une entière puissance,</l>
@@ -1417,12 +1417,12 @@
 	<l id="999">Nos esprits sur ce point seraient déjà contents,</l>
 	<l id="1000">Si l’on m’eut laissé faire, il en est encor temps.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1001">Quoi ? Tu peux empêcher que mon frère ne meure ?</l>
 	<l id="1002">Un doux rayon d’espoir encore te demeure ?</l>
 	<l id="1003" part="i">Tu le pourras guérir ?</l>
 </sp>
-<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<sp who="CARINTE"><hstage><speaker>CARINTE</speaker>.</hstage>
 	<l id="1003" part="f">Oui, je vous le promets,</l>
 	<l id="1004">Si je ne le guéris, ne me voyez jamais :</l>
 	<l id="1005">Dans l’art des médecins sa perte est résolue,</l>
@@ -1430,20 +1430,20 @@
 	<l id="1007">Et vous admirerez l’effet de mon secours,</l>
 	<l id="1008">Avant que cette nuit ait terminé son cours.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1009">Allons, si de l’effet ta parole est suivie,</l>
 	<l id="1010">Je te devrai les biens, et l’honneur, et la vie.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Carinte, Liliane, Aronte.</head>
-<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Carinte, Liliane, Aronte.</cast>
+<sp who="CARINTE"><hstage><speaker>CARINTE</speaker>.</hstage>
 	<l id="1011">Mais il faut sur son mal Aronte consulter,</l>
 	<l id="1012">Puisqu’il sort de sa chambre, et vient de le quitter.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1013" part="i">Eh bien, que fait mon frère ?</l>
 </sp>
-<sp who="ARONTE"><speaker>ARONTE.</speaker>
+<sp who="ARONTE"><hstage><speaker>ARONTE</speaker>.</hstage>
 	<l id="1013" part="f">Ah ! Ç’en est fait, Madame,</l>
 	<l id="1014">Ce Prince glorieux, est prêt de rendre l’âme,</l>
 	<l id="1015">Ce venin épandu fait partout son effort ;</l>
@@ -1455,10 +1455,10 @@
 	<l id="1021">La seule Bérénice, entre ses bras pâmée,</l>
 	<l id="1022">Demeure auprès de lui, de douleur consommée.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1023">Ô spectacle funeste ! Carinte, je meurs.</l>
 </sp>
-<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<sp who="CARINTE"><hstage><speaker>CARINTE</speaker>.</hstage>
 <note type="L">Amuser : distraire, perdre.</note>
 	<l id="1024">Ne nous amusons point à d’inutiles pleurs ;</l>
 	<l id="1025">Surtout la diligence à nos soins est requise :</l>
@@ -1467,33 +1467,33 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Carinte, Bérénice, Liliane.</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Carinte, Bérénice, Liliane.</cast>
 <stage>Il se passe dans la nuit.</stage>
-<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<sp who="CARINTE"><hstage><speaker>CARINTE</speaker>.</hstage>
 <stage>Le page avec un flambeau.</stage>
 	<l id="1027">Quoi, vous êtes en doute encore sur ce point ?</l>
 	<l id="1028">Madame, il est gueri, non, non, n’en doutez point,</l>
 	<l id="1029" part="i">Je connais mon remède.</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="1029" part="f">Hélas ! est-il possible ?</l>
 	<l id="1030" part="i">Croirai-je à ce miracle ?</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1030" part="f">Il est assez visible ;</l>
 	<l id="1031" part="i">Mon frère le confesse,</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="1031" part="f">Et je crains toutefois ;</l>
 	<l id="1032">Carinte en as-tu fait l’épreuve une autre fois ?</l>
 </sp>
-<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<sp who="CARINTE"><hstage><speaker>CARINTE</speaker>.</hstage>
 	<l id="1033">J’en ai fait cent, Madame, et toutes favorables/</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1034">Cette herbe a sans mentir, des vertus admirables.</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="1035">Carinte mon espoir, délices de mes jours,</l>
 	<l id="1036">Qui de tous nos malheurs viens d’arrêter le cours,</l>
 	<l id="1037">Qui viens de rétablir mon repos et mon aise,</l>
@@ -1507,13 +1507,13 @@
 	<l id="1045">La moitié de mon cœur, par tes mains m’est rendue,</l>
 	<l id="1046">Je te dois tout mon bien, sans toi j’étais perdue.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1047">Fille miraculeuse, on ne peut en effet</l>
 	<l id="1048">Reconnaître un si digne, et si rare bienfait :</l>
 	<l id="1049">Nous te serons ingrats, ces faveurs sont trop grandes,</l>
 	<l id="1050">Il te faut des autels, il te faut des offrandes.</l>
 </sp>
-<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<sp who="CARINTE"><hstage><speaker>CARINTE</speaker>.</hstage>
 	<l id="1051">Ne flattez point mes sens par ces excès d’honneur,</l>
 	<l id="1052">Mesdames, c’est à vous qu’on doit tout ce bonheur,</l>
 	<l id="1053">Vous m’avez fait agir ; c’est par votre industrie,</l>
@@ -1528,19 +1528,19 @@
 <note type="L">Heur : rencontre avantageuse. (...) [F] [antonyme de malheur]</note>
 	<l id="1062">L’heur d’un si grand succès m’est trop de récompense.</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="1063">Je sais bien que ton cœur, noble et grand comme il est,</l>
 	<l id="1064">En la seule vertu cherche son intérêt :</l>
 	<l id="1065">Aussi pour te payer de ce bien-fait extrême,</l>
 	<l id="1066">Je te fais seulement un présent de moi-même.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1067">Reçois mon cœur encore, et dispose de moi,</l>
 	<l id="1068">Puisque tous nos trésors sont au dessous de toi ;</l>
 	<l id="1069">Et crois que je n’aurai, ni gloire, ni fortune,</l>
 	<l id="1070">Dans le cours de mes ans, qui ne te soit commune.</l>
 </sp>
-<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<sp who="CARINTE"><hstage><speaker>CARINTE</speaker>.</hstage>
 	<l id="1071">Je n’abuserai point d’un heur si précieux ;</l>
 	<l id="1072">Jugeant que tout me vient de la faveur des Cieux ;</l>
 	<l id="1073">Mais songez qu’il est tard, généreuse Princesse,</l>
@@ -1548,7 +1548,7 @@
 	<l id="1075">Puisqu’Iolas est pris des charmes du sommeil,</l>
 	<l id="1076">Allez dormir, au moins jusques à son réveil.</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="1077">Puisqu’en effet le Prince a la paupière close,</l>
 	<l id="1078">Et que notre esprit calme avec lui repose,</l>
 	<l id="1079">Je crois, ma chère sœur, qu’il est bien à propos,</l>
@@ -1563,85 +1563,85 @@
 	<l id="1088">Et le moindre accident peut nuire à sa santé :</l>
 	<l id="1089" part="i">Bonsoir, ma chère sœur ;</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1089" part="f">Bonsoir, belle Princesse ;</l>
 	<l id="1090" part="i">Allez l’accompagner.</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="1090" part="f">Non, non, je vous la laisse,</l>
 	<l id="1091">Ce page me suffit, mon cœur, demeure ici.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Carinte, Liliane.</head>
-<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Carinte, Liliane.</cast>
+<sp who="CARINTE"><hstage><speaker>CARINTE</speaker>.</hstage>
 	<l id="1092">Disposez-vous, Madame, à reposer aussi ;</l>
 	<l id="1093">La nuit tantôt passée enfin vous y convie.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1094">Voici de qui j’attends mon repos, et ma vie.</l>
 </sp>
-<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<sp who="CARINTE"><hstage><speaker>CARINTE</speaker>.</hstage>
 	<l id="1095" part="i">D’où ?</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1095" part="f">Le demandes-tu  ? Vois-tu pas mon amant ?</l>
 </sp>
-<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<sp who="CARINTE"><hstage><speaker>CARINTE</speaker>.</hstage>
 	<l id="1096" part="i">Qu’il est pâle, et transi !</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1096" part="f">Mais Dieu, qu’il est charmant !</l>
 </sp>
-<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<sp who="CARINTE"><hstage><speaker>CARINTE</speaker>.</hstage>
 	<l id="1097" part="i">Il va revoir le Prince.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1097" part="f">Il me suivra sans doute,</l>
 	<l id="1098">L’ingrat qui m’a manqué, va prendre une autre route,</l>
 	<l id="1099">Pour ne pas soutenir les regards enflammés,</l>
 	<l id="1100">Des yeux qu’il a trahis, et qu’il a tant aimés,</l>
 	<l id="1101">L’infidèle aura peur de leur juste reproche.</l>
 </sp>
-<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<sp who="CARINTE"><hstage><speaker>CARINTE</speaker>.</hstage>
 	<l id="1102">Madame, cependant le voilà qui s’approche.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1103" part="i">Que dirons-nous, Carinte ?</l>
 </sp>
-<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<sp who="CARINTE"><hstage><speaker>CARINTE</speaker>.</hstage>
 	<l id="1103" part="f">Assurons le d’abord,</l>
 	<l id="1104">Que le Prince est par nous garanti de la mort ;</l>
 	<l id="1105">Observant bien son cœur, il faut qu’on l’éclaircisse,</l>
 	<l id="1106">Et qu’il perde l’espoir d’épouser Bérénice.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Liliane, Phalante, Carinte.</head>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Liliane, Phalante, Carinte.</cast>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1107">Où peut aller Phalante, ainsi triste et pensif ?</l>
 	<l id="1108">D’où lui vient ce chagrin, et ce deuil excessif,</l>
 	<l id="1109">Lorsque tout est ravi d’un excès d’allégresse ?</l>
 	<l id="1110">Ma rencontre peut-être a causé sa tristesse ?</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 <note type="L">Occident : En poésie, on dit que les jours d’un homme sont dans son occident ; pour dire qu’il est proche de sa fin. [F]</note>
 	<l id="1111">Quoi, les jours d’Iolas sont à leur occident</l>
 	<l id="1112">Madame, et l’on peut rire, en si triste accident ?</l>
 </sp>
-<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<sp who="CARINTE"><hstage><speaker>CARINTE</speaker>.</hstage>
 	<l id="1113">C’est de sa guérison que provient notre joie,</l>
 	<l id="1114">Prenez part au bonheur que le Ciel nous envoie.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1115">Nous l’avons cette nuit par nos soins préservé,</l>
 	<l id="1116">Et tu devrais baiser la main qui l’a sauvé.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="1117">Hélas ! vous vous moquez ; la nouvelle est trop grande,</l>
 	<l id="1118">Pour être si tôt crue ; il faut que je me rende,</l>
 	<l id="1119">Près du lit d’Iolas, pour éclaircir ce point,</l>
 	<l id="1120">À moins que de le voir, je ne le croirai point.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1121">Quoi ? Je verrais la mort de mon frère assurée,</l>
 	<l id="1122">Et je serais si lâche, et si dénaturée,</l>
 	<l id="1123">Au lieu de le pleurer, au lieu de ressentir</l>
@@ -1659,11 +1659,11 @@
 	<l id="1135">Et tu nous as tous deux abusés lâchement,</l>
 	<l id="1136">Faible et mauvais ami, traître, et perfide amant.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="1137">Excusez de mon cœur l’innocente faiblesse,</l>
 	<l id="1138">Et ne vous fâchez pas, je vous crois ma Princesse.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1139">Tu fais un grand effort, je t’ai cru mille fois,</l>
 	<l id="1140">Quand par tes actions tu démentais ta voix,</l>
 	<l id="1141">Je n’ai point révoqué tes paroles en doute,</l>
@@ -1682,7 +1682,7 @@
 	<l id="1154">C’est par légèreté, plutôt que par malice :</l>
 	<l id="1155" part="i">Je veux croire qu’il m’aime.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="1155" part="f">Ah ! Cruelle, en ce point</l>
 	<l id="1156">Tu m’estimes coupable, et je ne le suis point :</l>
 	<l id="1157">Je ne me suis promis, contre ma conscience,</l>
@@ -1729,7 +1729,7 @@
 <note type="C">Cette litote ressemble à celles de SCUDERY : « Je quitte un ennemi que je ne puis haïr » (Le Prince déguisé) ou de CORNEILLE dans Le Cid : « Rodrigue a des vertus que je ne puis haïr ». {Note de Guillaume Robert]</note>
 	<l id="1198">Dans ces justes projets que le Ciel autorise.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1199">Croirai-je, mon Phalante, à ce que tu me dis ?</l>
 	<l id="1200">Tous mes sens d’allégresse et d’amour interdis,</l>
 	<l id="1201">Ne me trompent-ils point, en la gloire éclatante,</l>
@@ -1739,7 +1739,7 @@
 	<l id="1205">Tes propos dans mon cœur ne trouvent point d’obstacles,</l>
 	<l id="1206">Et j’y donne la foi, comme à de vrais oracles.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="1207">Tu le peux, ma Princesse, assure toi d’avoir,</l>
 	<l id="1208">Sur l’esprit de Phalante un absolu pouvoir ;</l>
 	<l id="1209">Et qu’il t’en va donner une preuve assurée,</l>
@@ -1747,23 +1747,23 @@
 	<l id="1211">Mais tu ne me dis point comme on a pu guérir</l>
 	<l id="1212">Le Prince abandonné, qui s’en allait mourir ?</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1213">Carinte cette nuit accourue à son aide,</l>
 	<l id="1214">Dans la vertu d’une herbe a trouvé son remède,</l>
 	<l id="1215">Et j’en ai vu le prompt et merveilleux effet.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="1216">J’adore ce miracle, et la main qui l’a fait,</l>
 	<l id="1217">Mais que tardons nous plus ? Voyons que fait le Prince,</l>
 	<l id="1218">Et sauvons après lui sa ville et sa province.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1219">Je sais bien là-dessus un important secret,</l>
 	<l id="1220">Qu’il faut que je révèle, et non pas sans regret.</l>
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="IOLANTE"><speaker>IOLANTE, seule.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>, seule.</hstage>
 	<l id="1221">Puisque dedans l’ardeur du courroux qui m’enflamme,</l>
 	<l id="1222">J’ai si mal ménagé le secret de mon âme,</l>
 	<l id="1223">Puisqu’elle s’est ouverte à cette ingrate sœur,</l>
@@ -1788,8 +1788,8 @@
 	<l id="1242">Une si détestable, et si triste demeure.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Iolas, Phalante, Liliane, Carinte, Le Capitaine des Gardes.</head>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Iolas, Phalante, Liliane, Carinte, Le Capitaine des Gardes.</cast>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="1243">Hé bien, que dirais-tu des caprices du sort ?</l>
 	<l id="1244">Me voilà par miracle affranchi de la mort :</l>
 	<l id="1245">Cette divine fille, au gré des destinées,</l>
@@ -1811,7 +1811,7 @@
 	<l id="1261">Je me laissais mourir de deuil et de tristesse,</l>
 	<l id="1262">Pour te laisser en paix posséder la Princesse.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="1263">Tu pèches contre moi par excès d’amitié,</l>
 	<l id="1264">Mon frère, et je te trouve injuste en ta pitié,</l>
 	<l id="1265">Prends garde que mes pleurs ne coulent que de joie,</l>
@@ -1862,14 +1862,14 @@
 	<l id="1309">Je parlerai tantôt avec plus de licence,</l>
 	<l id="1310">Et si je te sers bien, voila ma récompense.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="1311">Aurais-tu ce dessein, et pour elle et pour moi ?</l>
 	<l id="1312">Songeai-je ce plaisir, ou si je le reçois ?</l>
 	<l id="1313">Certes si j’ai le Ciel à ce point favorable,</l>
 	<l id="1314">Il n’est Prince en bon-heur qui me soit comparable :</l>
 	<l id="1315">Mais qu’en dit Iolante ? Et qu’en dis-tu ma sœur ?</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1316">Que s’il vous plaît ainsi, Phalante est possesseur</l>
 	<l id="1317">De ce cœur que je mets entier en sa puissance,</l>
 	<l id="1318">Et dont il a raison d’estimer la constance.</l>
@@ -1878,27 +1878,27 @@
 	<l id="1321">Concevant pour vous deux une haine mortelle :</l>
 	<l id="1322" part="i">Elle vous veut trahir.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="1322" part="f">Que l’on s’assure d’elle.</l>
 </sp>
-<sp who="LE CAPITAINE DES GARDES"><speaker>LE CAPITAINE DES GARDES.</speaker>
+<sp who="LE CAPITAINE DES GARDES"><hstage><speaker>LE CAPITAINE DES GARDES</speaker>.</hstage>
 	<l id="1323">Si j’eusse un peu plutôt son dessein reconnu,</l>
 	<l id="1324">Grand Prince, assurément je l’aurais prévenu ;</l>
 	<l id="1325">Avant que j’eusse appris son crime de Phalante,</l>
 	<l id="1326" part="i">Elle était échappée.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="1326" part="f">Ô Fille violente !</l>
 	<l id="1327">Ô dangereuse humeur ! Esprit pernicieux !</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="1328">Crois-tu que le parti d’Iarbe en vaille mieux ?</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="1329">Hé quoi, tu savais donc ce qu’elle avait dans l’âme,</l>
 	<l id="1330" part="i">Mon frère ?</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="1330" part="f">Cet objet de ma pudique flamme,</l>
 	<l id="1331">M’ayant dit que sa sœur contre votre maison</l>
 	<l id="1332">Machinait près du Duc certaine trahison,</l>
@@ -1917,7 +1917,7 @@
 	<l id="1345">Avec mille des miens ce matin je me vante,</l>
 	<l id="1346">De l’aller affronter jusques dedans sa tente.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="1347">Tu n’entreprends jamais rien que bien à propos,</l>
 	<l id="1348">Va, j’irai cependant prendre un peu de repos,</l>
 	<l id="1349">Pour me mettre bientôt en état de te suivre,</l>
@@ -1926,13 +1926,13 @@
 	<l id="1352">Le bien de mon État, et l’heur de mon amour ;</l>
 	<l id="1353">Que ferai-je pour toi dans ce bienfait extrême ?</l>
 </sp>
-<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<sp who="CARINTE"><hstage><speaker>CARINTE</speaker>.</hstage>
 	<l id="1354">Faisant pour votre sœur, vous faites pour moi-même,</l>
 	<l id="1355">Assurant son bonheur, vous assurez le mien,</l>
 	<l id="1356">Après son amitié, je ne souhaite rien,</l>
 	<l id="1357" part="i">Que vos prospérités.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="1357" part="f">Ô généreuse fille !</l>
 	<l id="1358">Je mets entre tes mains l’honneur de ma famille,</l>
 	<l id="1359">Ta vertu me ravit, va t’en voir de ma part,</l>
@@ -1940,14 +1940,14 @@
 	<l id="1361">Et crois qu’au jour naissant, cette chère merveille,</l>
 	<l id="1362">Avec un doux repos répare cette veille.</l>
 </sp>
-<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<sp who="CARINTE"><hstage><speaker>CARINTE</speaker>.</hstage>
 	<l id="1363" part="i">J’y vais.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1363" part="f">Ne tarde point, retourne promptement,</l>
 	<l id="1364">Liliane sans toi ne peut vivre un moment.</l>
 </sp>
-<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<sp who="CARINTE"><hstage><speaker>CARINTE</speaker>.</hstage>
 	<l id="1365">J’admire les effets de votre providence,</l>
 	<l id="1366">Grands Dieux, qui vous moquez de l’humaine prudence ;</l>
 	<l id="1367">Et qui par des ressorts cachés à l’Univers,</l>
@@ -1964,24 +1964,24 @@
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Iarbe, Duc de Calabre, Iolante, Ménandre.</head>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Iarbe, Duc de Calabre, Iolante, Ménandre.</cast>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1377">Oui, si je trouve ici toutes choses prospères,</l>
 	<l id="1378">Je vous rétablirai dans le bien de vos pères ;</l>
 	<l id="1379">Recevez en ma foi, qui ne manqua jamais ;</l>
 	<l id="1380">Je suis inviolable en ce que je promets.</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>.</hstage>
 	<l id="1381">Je n’espérais pas moins de l’honneur de notre âge,</l>
 	<l id="1382">De ce franc, magnanime, et généreux courage.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1383">Mais Dieux ! Est-il bien vrai qu’en son aveuglement,</l>
 	<l id="1384">Bérénice envers moi se porte insolemment ?</l>
 	<l id="1385">Et que jusqu’à ce point cette ingrate s’oublie</l>
 	<l id="1386" part="i">Que de nous menacer ?</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>.</hstage>
 	<l id="1386" part="f">J’admire sa folie,</l>
 	<l id="1387">Elle se promet tout de ce nouvel époux,</l>
 	<l id="1388">Qui pense triompher bientôt d’elle et de nous :</l>
@@ -1990,7 +1990,7 @@
 	<l id="1391">Déjà ces vains esprits charmés dans leurs liens,</l>
 	<l id="1392">Estiment qu’ils joindront vos États à vos biens.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1393">S’ils ont fait ce projet, ils l’ont fait à leur honte,</l>
 	<l id="1394">Ces amants aveuglés sont bien loin de leur conte,</l>
 	<l id="1395">J’ai de quoi réprimer leurs folles vanités,</l>
@@ -2002,27 +2002,27 @@
 	<l id="1401">Et je vous veux Madame, apprendre l’aventure,</l>
 	<l id="1402">Qui fit qu’en l’éloignant, j’offensai la Nature.</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>.</hstage>
 	<l id="1403">Quoi ? Vous avez un fils inconnu parmi nous ?</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1404">Il m’est sage Princesse, inconnu comme à vous,</l>
 	<l id="1405">Mais au camp dans ce jour vous le verrez paraître,</l>
 	<l id="1406">Car l’ordre en est donné ; Ménandre, où peut-il être ?</l>
 	<l id="1407" part="i">Vient-il pas ?</l>
 </sp>
-<sp who="MÉNANDRE"><speaker>MÉNANDRE.</speaker>
+<sp who="MÉNANDRE"><hstage><speaker>MÉNANDRE</speaker>.</hstage>
 	<l id="1407" part="f">Monseigneur, s’il sort de ma maison,</l>
 	<l id="1408">Il hasarde sa vie, avant sa guérison.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1409">En quelque état qu’il soit, je veux qu’on me l’amène,</l>
 	<l id="1410">Quel plaisir prenez-vous de me laisser en peine ?</l>
 </sp>
-<sp who="MÉNANDRE"><speaker>MÉNANDRE, en lui-même.</speaker>
+<sp who="MÉNANDRE"><hstage><speaker>MÉNANDRE</speaker>, en lui-même.</hstage>
 	<l id="1411">Ô malheureux Ménandre ! Ô Destin rigoureux !</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1412">Vous savez que sans lui je ne puis être heureux :</l>
 	<l id="1413">Je vous l’ai dit cent fois ; mais quoi que je vous die,</l>
 	<l id="1414">Vous m’allez alléguer toujours sa maladie :</l>
@@ -2031,26 +2031,26 @@
 	<l id="1417">Je le veux voir enfin, quelque mal qui l’accable,</l>
 	<l id="1418" part="i">Et sans plus de remise.</l>
 </sp>
-<sp who="MÉNANDRE"><speaker>MÉNANDRE.</speaker>
+<sp who="MÉNANDRE"><hstage><speaker>MÉNANDRE</speaker>.</hstage>
 	<l id="1418" part="f">Ah ! Que je suis coupable,</l>
 	<l id="1419">De laisser échapper ce gage précieux,</l>
 	<l id="1420">Que j’avais conservé quinze ans, comme mes yeux :</l>
 	<l id="1421" part="i">Il faut, il faut mourir.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1421" part="f">Que dites vous Ménandre ?</l>
 </sp>
-<sp who="MÉNANDRE"><speaker>MÉNANDRE.</speaker>
+<sp who="MÉNANDRE"><hstage><speaker>MÉNANDRE</speaker>.</hstage>
 	<l id="1422" part="i">Qu’il faut vous l’emmener.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1422" part="f">Vous ne pouvez comprendre,</l>
 	<l id="1423">Ces discours ambigus, et pleins d’obscurité.</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>.</hstage>
 	<l id="1424" part="i">Non,</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1424" part="f">Je leur vais donner, le sens, et la clarté.</l>
 	<l id="1425">Sachez que mon dessein, pour croître mes désastres,</l>
 	<l id="1426">M’a rendu curieux de connaître les astres ;</l>
@@ -2103,7 +2103,7 @@
 	<l id="1473">Maintenant je le presse ; et pour m’ôter de peine,</l>
 	<l id="1474">Tout malade qu’il est, je veux qu’il me l’emmène.</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>.</hstage>
 	<l id="1475">Vraiment cet accident que vous me racontez,</l>
 	<l id="1476">Étonne mes esprits, et les tient enchantez ;</l>
 	<l id="1477">D’un autre que de vous j’aurais peine à le croire,</l>
@@ -2114,16 +2114,16 @@
 	<l id="1482">Je m’étonne comment vous avez eu envie</l>
 	<l id="1483">De le faire venir devant vous inconnu ?</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1484">Le désir de le voir bien souvent m’est venu ;</l>
 	<l id="1485">Mais j’ai (me figurant une vaine disgrâce)</l>
 	<l id="1486">De son astre malin redouté la menace.</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>.</hstage>
 	<l id="1487">Différez donc encor, jusqu’à tant que les Dieux</l>
 	<l id="1488">Vous le rendent entier, et qu’il se porte mieux.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1489">Puisqu’il doit rétablir mon bonheur et ma joie,</l>
 	<l id="1490">Quoi qu’il puisse arriver, il faut que je le voie :</l>
 	<l id="1491">Cependant ma Princesse, allons disposer tout,</l>
@@ -2132,8 +2132,8 @@
 	<l id="1494">Seule vous en aurez le profit et la gloire.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Almédor, Iarbe, Iolante, Les Soldats.</head>
-<sp who="ALMÉDOR"><speaker>ALMÉDOR.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Almédor, Iarbe, Iolante, Les Soldats.</cast>
+<sp who="ALMÉDOR"><hstage><speaker>ALMÉDOR</speaker>.</hstage>
 	<l id="1495">Seigneur tout est perdu, vos gens épouvantés,</l>
 	<l id="1496">Sans attendre les coups fuient de tous côtés,</l>
 	<l id="1497">Phalante qui n’a point de pareil sur la terre,</l>
@@ -2142,12 +2142,12 @@
 	<l id="1500">Et sème dans le Camp l’effroi de toutes parts :</l>
 	<l id="1501">Tous nos retranchements cèdent à son courage.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1502">Allons nous opposer à sa bouillante rage,</l>
 	<l id="1503">C’est un torrent qui passe, et qui ne peut durer,</l>
 	<l id="1504">Il n’est pas temps encor de rien désespérer.</l>
 </sp>
-<sp who="ALMÉDOR"><speaker>ALMÉDOR.</speaker>
+<sp who="ALMÉDOR"><hstage><speaker>ALMÉDOR</speaker>.</hstage>
 	<l id="1505">Vos meilleurs officiers, qu’à Tarente l’on mène,</l>
 	<l id="1506">Sont déjà prisonniers de ce grand capitaine :</l>
 	<l id="1507">Rien ne peut résister aux forces de son bras ;</l>
@@ -2155,17 +2155,17 @@
 	<l id="1509">Vous perdez votre armée, en ce péril extrême,</l>
 	<l id="1510">Et vous courez fortune en votre tente même.</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>.</hstage>
 	<l id="1511">Sus, courage Soldats, il me faut secourir.</l>
 	<l id="1512">En cette occasion, il faut vaincre, ou mourir,</l>
 	<l id="1513">Je l’exterminerai, fut-il le Dieu de Thrace.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1514">Détournez, justes Dieux, ce mal qui nous menace.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Ménandre, Phalante, Hydaspe.</head>
-<sp who="MÉNANDRE"><speaker>MÉNANDRE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Ménandre, Phalante, Hydaspe.</cast>
+<sp who="MÉNANDRE"><hstage><speaker>MÉNANDRE</speaker>.</hstage>
 	<l id="1515">Mourons, pour obéir à la rigueur du Sort,</l>
 	<l id="1516">Mais finissons au moins par une belle mort :</l>
 	<l id="1517">Vengeons en périssant l’honneur de la patrie ;</l>
@@ -2181,7 +2181,7 @@
 	<l id="1527">Tourne tête Phalante, à moi brave guerrier,</l>
 	<l id="1528">Ajoute à ton triomphe encore ce laurier.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="1529">Tu cours à ta ruine, insensé téméraire,</l>
 	<l id="1530">Qui ne peut résister à ma juste colère.</l>
 <stage>Ici le casque tombe de la tête de Ménandre, qui est reconnu de Phalante pour son père putatif.</stage>
@@ -2198,7 +2198,7 @@
 	<l id="1540">Se voit considéré de tant de grands Seigneurs.</l>
 	<l id="1541" part="i">Arrêtez Compagnons.</l>
 </sp>
-<sp who="MÉNANDRE"><speaker>MÉNANDRE.</speaker>
+<sp who="MÉNANDRE"><hstage><speaker>MÉNANDRE</speaker>.</hstage>
 	<l id="1541" part="f">Ah ! Je meurs de joie,</l>
 	<l id="1542">Est-il vrai que je veille, et que je vous revoie,</l>
 	<l id="1543">Glorieux Anaxandre ? Et que Dieu m’ait rendu,</l>
@@ -2208,12 +2208,12 @@
 	<l id="1547">Souffrez donc aujourd’hui que Ménandre à genoux,</l>
 	<l id="1548">En cette qualité s’incline devant vous.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="1549">Son plaisir est extrême ; et comme il se redouble,</l>
 	<l id="1550">Il altère l’esprit du bonhomme, et le trouble,</l>
 	<l id="1551" part="i">Que faites vous, bons Dieux !</l>
 </sp>
-<sp who="MÉNANDRE"><speaker>MÉNANDRE.</speaker>
+<sp who="MÉNANDRE"><hstage><speaker>MÉNANDRE</speaker>.</hstage>
 	<l id="1551" part="f">Je fais ce que je dois,</l>
 	<l id="1552">Je l’avoue, il est vrai, je suis tout hors de moi ;</l>
 	<l id="1553">Mais troublé que je suis, je vous connais encore,</l>
@@ -2231,15 +2231,15 @@
 	<l id="1565">Si vous ne détournez promptement cet orage ;</l>
 	<l id="1566">Par vous seul excité, son honneur fait naufrage.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="1567">Dites vous vrai, Ménandre ? Ou si vos sens charmés,</l>
 	<l id="1568">Veulent tromper les miens d’allégresse pâmés ?</l>
 </sp>
-<sp who="MÉNANDRE"><speaker>MÉNANDRE.</speaker>
+<sp who="MÉNANDRE"><hstage><speaker>MÉNANDRE</speaker>.</hstage>
 	<l id="1569">Aidez vous, aidez vous, en cette connaissance,</l>
 	<l id="1570">Et par votre grand cœur sentez votre naissance.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="1571">Ménandre me surmonte, et dans mes hauts desseins,</l>
 	<l id="1572">Un vieillard fait tomber les armes de mes mains :</l>
 	<l id="1573">Mais puisque vous voulez que je sente ma joie,</l>
@@ -2247,7 +2247,7 @@
 	<l id="1575">Faites tant que je sache au moins pour quel péché,</l>
 	<l id="1576">On m’a tenu chez vous si longuement caché.</l>
 </sp>
-<sp who="MÉNANDRE"><speaker>MÉNANDRE.</speaker>
+<sp who="MÉNANDRE"><hstage><speaker>MÉNANDRE</speaker>.</hstage>
 	<l id="1577">Venez trouver le Duc, que cette affaire touche,</l>
 	<l id="1578">Grand Prince, et l’apprenez vous-même de sa bouche :</l>
 	<l id="1579">Venez sur ma parole, il n’est pas loin d’ici ;</l>
@@ -2255,7 +2255,7 @@
 	<l id="1581">Si vous vous défiez, souffrez qu’il se hasarde,</l>
 	<l id="1582">Et qu’il me suive ici seul avecque sa garde.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="1583">Je vous crois, cher Ménandre, et vous veux obéir :</l>
 	<l id="1584">Celui qui m’a nourri me voudrait il trahir ?</l>
 	<l id="1585">Allons à sa rencontre, ah ! Que j’ai l’âme émue,</l>
@@ -2271,43 +2271,43 @@
 	<l id="1595">Dis qu’on lui promet tout, si pour l’amour de moi,</l>
 	<l id="1596">Il pardonne à celui qui lui manqua de foi.</l>
 </sp>
-<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+<sp who="HYDASPE"><hstage><speaker>HYDASPE</speaker>.</hstage>
 	<l id="1597" part="i">J’y cours.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="1597" part="f">Dis cependant, en deux mots, cher Ménandre,</l>
 	<l id="1598">Pourquoi l’on te commit la garde d’Anaxandre ;</l>
 	<l id="1599">Éclairci promptement mon esprit curieux,</l>
 	<l id="1600">En gagnant la fraîcheur, qui paraît en ces lieux,</l>
 	<l id="1601">Où j’attendrai le Duc, mon Seigneur, et mon père.</l>
 </sp>
-<sp who="MÉNANDRE"><speaker>MÉNANDRE.</speaker>
+<sp who="MÉNANDRE"><hstage><speaker>MÉNANDRE</speaker>.</hstage>
 	<l id="1602">Allons, en peu de mots je vous vais satisfaire.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Iolas, et Les Princesses sur les murailles.</head>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Iolas, et Les Princesses sur les murailles.</cast>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="1603">Peut-on voir sur la terre un homme plus vaillant ?</l>
 	<l id="1604">Admire avecque moI ce courage bouillant,</l>
 	<l id="1605" part="i">Qu’en dis-tu, ma Princesse ?</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="1605" part="f">Il est inimitable.</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1606">Rien ne peut résister à ce bras indomptable.</l>
 </sp>
-<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<sp who="CARINTE"><hstage><speaker>CARINTE</speaker>.</hstage>
 	<l id="1607">Voyez que d’ennemis à ses pieds abattus !</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="1608">Certes, j’aI de tout temps admiré ses vertus,</l>
 	<l id="1609">J’aI toujours eu pour lui je ne sais quelle estime,</l>
 	<l id="1610">Qui n’a point offensé notre amour légitime ;</l>
 	<l id="1611">Et ne l’ai jamais su, ni haïr, ni blâmer,</l>
 	<l id="1612">Que quand tu m’as voulu contraindre de l’aimer.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="1613">Le respect que je porte à son amitié sainte,</l>
 	<l id="1614">M’ordonna dans mon mal cette douce contrainte ;</l>
 	<l id="1615">Ne la reproche plus à ta chaste moitié ;</l>
@@ -2318,62 +2318,62 @@
 	<l id="1620">Devant un des vaincus, qu’il a tant embrassé ?</l>
 	<l id="1621">Puis vers cet arbre ensemble ils ont tourné visage.</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="1622">Quelqu’un, qui s’est soumis à ce jeune courage ;</l>
 	<l id="1623">A mérité de lui ce trait d’humilité ;</l>
 	<l id="1624">Je connais sa franchise, et sa civilité.</l>
 </sp>
-<sp who="ARONTE"><speaker>ARONTE.</speaker>
+<sp who="ARONTE"><hstage><speaker>ARONTE</speaker>.</hstage>
 	<l id="1625">Seigneur, les principaux de l’armée ennemie,</l>
 	<l id="1626">Dont Phalante a trouvé la valeur endormie,</l>
 	<l id="1627">Par lui faits prisonniers, sont sous votre pouvoir,</l>
 	<l id="1628">On les vient d’emmener, vous plaît-il de les voir ?</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="1629">Non, va les consoler un peu dans leur disgrâce,</l>
 	<l id="1630">Et qu’on les traite bien ; la prospérité passe,</l>
 	<l id="1631">Le Sort en autre temps les peut favoriser,</l>
 	<l id="1632">Le Sage, de son heur ne doit point abuser.</l>
 </sp>
-<sp who="LE PAGE"><speaker>LE PAGE.</speaker>
+<sp who="LE PAGE"><hstage><speaker>LE PAGE</speaker>.</hstage>
 	<l id="1633">Hydaspe, que Phalante appelle son fidèle,</l>
 	<l id="1634">Vous porte de sa part une grande nouvelle :</l>
 	<l id="1635">Il vient tout en fureur d’entrer dans la Cité.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="1636">Sais-tu pour quel sujet il s’est si fort hâté ?</l>
 </sp>
-<sp who="LE PAGE"><speaker>LE PAGE.</speaker>
+<sp who="LE PAGE"><hstage><speaker>LE PAGE</speaker>.</hstage>
 	<l id="1637">Il dit que le bonheur de Phalante est extrême,</l>
 	<l id="1638">Mais il veut réserver ce secret à vous même.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="1639" part="i">Allons à sa rencontre.</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="1639" part="f">Ah ! Grands Dieux, que je crains,</l>
 	<l id="1640">Que ce Duc malheureux ne tombe sous ses mains ;</l>
 	<l id="1641">Tout injuste qu’il est, il est toujours mon père,</l>
 	<l id="1642">Grands Dieux ; et vos faveurs ont calmé ma colère.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Iarbe, Ménandre.</head>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Iarbe, Ménandre.</cast>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1643">Il n’est pas vraisemblable ; Anaxandre, dis-tu,</l>
 	<l id="1644">Arrivé dans le camp, a déjà combattu ?</l>
 </sp>
-<sp who="MÉNANDRE"><speaker>MÉNANDRE.</speaker>
+<sp who="MÉNANDRE"><hstage><speaker>MÉNANDRE</speaker>.</hstage>
 	<l id="1645">Oui, grand Prince, et de plus, il a vaincu Phalante,</l>
 	<l id="1646">Comme il se préparait de forcer votre tente.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1647" part="i">Il a vaincu Phalante ?</l>
 </sp>
-<sp who="MÉNANDRE"><speaker>MÉNANDRE.</speaker>
+<sp who="MÉNANDRE"><hstage><speaker>MÉNANDRE</speaker>.</hstage>
 	<l id="1647" part="f">En ses plus hauts desseins,</l>
 	<l id="1648">Il lui vient d’arracher la victoire des mains.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1649">Quoi ! mon Fils, aurait eu tant d’heur, et tant de gloire,</l>
 	<l id="1650">Que d’emporter d’abord une telle victoire ?</l>
 	<l id="1651">Tu le faisais malade, et dans l’extrémité,</l>
@@ -2381,11 +2381,11 @@
 	<l id="1653">Comme a-t-il pu si tôt, dans notre Camp se rendre ;</l>
 	<l id="1654">Explique ton discours, que je ne puis comprendre.</l>
 </sp>
-<sp who="MÉNANDRE"><speaker>MÉNANDRE.</speaker>
+<sp who="MÉNANDRE"><hstage><speaker>MÉNANDRE</speaker>.</hstage>
 	<l id="1655">Quand il vous contera ce succès glorieux,</l>
 	<l id="1656">Lui-même, croyez moi, vous le comprendrez mieux.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1657">Après tout, s’il est vrai j’en bénis l’aventure,</l>
 	<l id="1658">Ménandre, et te sais gré de cette nourriture ;</l>
 	<l id="1659">Les Astres ont menti, du crime incestueux,</l>
@@ -2396,47 +2396,47 @@
 	<l id="1664">Sa vertu me ravit, le Ciel en soit loué,</l>
 	<l id="1665">Allons vers lui Ménandre, allons en diligence.</l>
 </sp>
-<sp who="MÉNANDRE"><speaker>MÉNANDRE.</speaker>
+<sp who="MÉNANDRE"><hstage><speaker>MÉNANDRE</speaker>.</hstage>
 	<l id="1666">Allons, dois-je avouer ici ma négligence ?</l>
 	<l id="1667">Non, devant son cher fils je me veux accuser :</l>
 	<l id="1668">Dans l’excès de sa joie il pourra m’excuser.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1669">Mais les Astres peut-être on prédit de mon gendre,</l>
 	<l id="1670">Ce qu’à faux j’imputais à mon cher Anaxandre :</l>
 	<l id="1671">Cet ingrat m’a tenu lieu d’enfant jusqu’ici,</l>
 	<l id="1672">Et c’est lui seulement que le Ciel a noirci</l>
 	<l id="1673">De ce grand attentat, qui provoque ma haine.</l>
 </sp>
-<sp who="MÉNANDRE"><speaker>MÉNANDRE, en lui-même.</speaker>
+<sp who="MÉNANDRE"><hstage><speaker>MÉNANDRE</speaker>, en lui-même.</hstage>
 	<l id="1674">Je le veux éclaircir, et le tirer de peine ;</l>
 	<l id="1675">Toutefois j’attendrai que Phalante présent,</l>
 	<l id="1676">(Puis qu’il a fait le mal) m’excuse en s’accusant ;</l>
 	<l id="1677">Le voici qui s’avance, ah ! que j’ai l’âme émue.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1678">Quel est ce cavalier qui paraît à ma vue ?</l>
 </sp>
-<sp who="MÉNANDRE"><speaker>MÉNANDRE.</speaker>
+<sp who="MÉNANDRE"><hstage><speaker>MÉNANDRE</speaker>.</hstage>
 	<l id="1679">Grand Prince il n’est plus temps de vous rien déguiser,</l>
 	<l id="1680">Phalante est votre fils, qui se vient accuser</l>
 	<l id="1681">D’avoir deshonoré son bras, et sa naissance,</l>
 	<l id="1682">En s’armant contre vous, le voila qui s’avance, Il se met à genoux.</l>
 	<l id="1683">Pour tâcher d’obtenir son pardon, et le mien.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1684">Tu te fais plus obscur, je n’y comprend plus rien.</l>
 </sp>
-<sp who="MÉNANDRE"><speaker>MÉNANDRE.</speaker>
+<sp who="MÉNANDRE"><hstage><speaker>MÉNANDRE</speaker>.</hstage>
 	<l id="1685">Quand j’ai dit qu’Anaxandre en sa valeur extrême,</l>
 	<l id="1686">A surmonté Phalante, il s’est vaincu soi-même,</l>
 	<l id="1687">Ce généreux lion a calmé son courroux,</l>
 	<l id="1688">Dès qu’il a su par moi qu’il était né de vous.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1689">As-tu l’esprit troublé, que dis-tu là Menandre ?</l>
 </sp>
-<sp who="MÉNANDRE"><speaker>MÉNANDRE.</speaker>
+<sp who="MÉNANDRE"><hstage><speaker>MÉNANDRE</speaker>.</hstage>
 	<l id="1690">Qu’en Phalante aujourd’hui vous voyez Anaxandre,</l>
 	<l id="1691">Et qu’un discours menteur vous a toujours trompé ;</l>
 <stage>Ici Phalante met un genou à terre devant Iarbe.</stage>
@@ -2452,17 +2452,17 @@
 	<l id="1701">Le voila prosterné, mon offense le touche,</l>
 	<l id="1702">Et j’ose en demander le pardon par sa bouche.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1703">Confus d’étonnement je ne sais que penser.</l>
  <stage>Il fait signe aussi à Ménandre de se lever.</stage>
 	<l id="1704">Relevez vous mon fils, et venez m’embrasser.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Phalante, Iarbe, Ménandre etc.</head>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Phalante, Iarbe, Ménandre etc.</cast>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="1705">Le Ciel m’a-t-il bien faiit de ce crime capable ?</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1706">Ne vous excusez point, je suis tout seul coupable,</l>
 	<l id="1707">Ma superstition a fait tous vos péchés,</l>
 	<l id="1708">Je vois les découverts, et je crains les cachés :</l>
@@ -2471,7 +2471,7 @@
 	<l id="1711">Par la mort d’Iolas vous êtes possesseur,</l>
 	<l id="1712">Des appas criminels de votre propre sœur.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="1713">Ne craignez, pas mon père, une telle disgrâce,</l>
 	<l id="1714">Le Ciel s’est contenté de sa seule menace,</l>
 	<l id="1715">Ce dangereux hymen reste autant imparfait,</l>
@@ -2479,13 +2479,13 @@
 	<l id="1717">Ménandre m’a tout dit, vous avez par prudence,</l>
 	<l id="1718">De mon astre malin détourné l’influence.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1719">Ah ! Mon fils, ce savoir est vain, et dangereux,</l>
 	<l id="1720">Si je l’eusse ignoré, j’eusse été trop heureux :</l>
 	<l id="1721">Quoi vous avez donc pas épousé la Princesse,</l>
 	<l id="1722" part="i">Par la mort d’Iolas ?</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="1722" part="f">Que votre crainte cesse,</l>
 	<l id="1723">Iolas, dont le mal m’a comblé de souci,</l>
 	<l id="1724">Est guéri par miracle, et doit venir ici.</l>
@@ -2498,7 +2498,7 @@
 	<l id="1731">Oubliez votre haine en ce jour solennel,</l>
 	<l id="1732">Et lions nous à lui d’un amour éternel.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1733">Oui, je le veux aimer, oui mon cher Anaxandre,</l>
 	<l id="1734">Juge-le par ces pleurs que tu me vois répandre.</l>
 	<l id="1735">En l’excès de la joie, où je me vois plongé,</l>
@@ -2509,51 +2509,51 @@
 	<l id="1740">Et prévenons les tous par nos embrassements.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Iolas, Bérénice, Liliane, Carinte, Iarbe, Phalante, etc.</head> 
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Iolas, Bérénice, Liliane, Carinte, Iarbe, Phalante, etc.</cast> 
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="1741">Quel miracle est-ceci ? Quelle grande fortune</l>
 	<l id="1742">Bannit de nos destins la rigueur importune ?</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="1743">Quel heur inespéré nous surprend en ces lieux ?</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1744">Rendons mes chers enfants, rendons grâces aux Dieux,</l>
 	<l id="1745">Ne nous souvenons plus de nos fautes passées,</l>
 	<l id="1746">Et que le seul amour règne dans nos pensées.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE, à Bérénice.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>, à Bérénice.</hstage>
 	<l id="1747">Chère et parfaite sœur, je ne m’étonne pas,</l>
 	<l id="1748">D’avoir eu tant d’amour pour tes chastes appas.</l>
 </sp>
-<sp who="BÉRÉNICE"><speaker>BÉRÉNICE.</speaker>
+<sp who="BÉRÉNICE"><hstage><speaker>BÉRÉNICE</speaker>.</hstage>
 	<l id="1749">Ta Liliane eut tort dans son amitié pure,</l>
 	<l id="1750">De blâmer un instinct qu’enseignait la Nature :</l>
 	<l id="1751">Mais ce divin objet, qui soupire pour toi,</l>
 	<l id="1752">Sera-t-il pas en fin le seul prix de ta foi ?</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="1753">Mon cœur hors ce désir n’a rien qui le contente,</l>
 	<l id="1754">Favorisez mon père une si douce attente,</l>
 	<l id="1755">Secondez le vouloir de ce parfait ami,</l>
 	<l id="1756">Sans ce bien, votre fils n’est heureux qu’à demi.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1757" part="i">Que me demandes-tu ?</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="1757" part="f">Cette aimable Princesse,</l>
 	<l id="1758">Pour qui depuis deux ans je soupire sans cesse,</l>
 	<l id="1759">Et dont vous apprendrez la constante amitié,</l>
 	<l id="1760">Après que de mon feu vous aurez eu pitié.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1761" part="i">Iolas y consent ?</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="1761" part="f">Oui de toute mon âme.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1762">Que le Ciel de vos cœurs éternise la flamme,</l>
 	<l id="1763">Je veux une autre grâce, Iolante a failly ;</l>
 	<l id="1764">Mon fils noyez son crime au fleuve de l’oubli,</l>
@@ -2562,37 +2562,37 @@
 	<l id="1767">Et si vous m’accordez cette chaste beauté,</l>
 	<l id="1768">Je vous réponds à tous de sa fidélité.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="1769">Vous lui faites, mon père, un honneur qui m’étonne,</l>
 	<l id="1770">Oui, j’excuse sa faute, et je la lui pardonne,</l>
 	<l id="1771">Puisque vous l’ordonnez, je perds le souvenir,</l>
 	<l id="1772" part="i">Du mal quelle m’a fait.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1772" part="f">Qu’on la fasse venir.</l>
 </sp>
-<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<sp who="PHALANTE"><hstage><speaker>PHALANTE</speaker>.</hstage>
 	<l id="1773">Lorsque je suis sorti qu’as-tu fait ma Princesse ?</l>
 </sp>
-<sp who="LILIANE"><speaker>LILIANE.</speaker>
+<sp who="LILIANE"><hstage><speaker>LILIANE</speaker>.</hstage>
 	<l id="1774">Mon esprit a suivi ta fortune sans cesse,</l>
 	<l id="1775">Mon cœur à ton épée a toujours été jointe :</l>
 	<l id="1776">Mais il mourrait de peur et tu n’en avais point.</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>.</hstage>
 	<l id="1777">J’étais à la faveur de cet arbre cachée,</l>
 	<l id="1778">De regret et d’ennui sensiblement touchée,</l>
 	<l id="1779">Mais sur votre parole, et celle d’Iolas,</l>
 	<l id="1780">Confuse je me viens jeter entre vos bras.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="1781">Ne crains plus rien, ma sœur, ton offense est remise,</l>
 	<l id="1782">Tu ne verras ici qu’amour et que franchise.</l>
 </sp>
-<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<sp who="IOLANTE"><hstage><speaker>IOLANTE</speaker>.</hstage>
 	<l id="1783">Ah mon frère, je meurs de t’avoir offensé.</l>
 </sp>
-<sp who="IOLAS"><speaker>IOLAS.</speaker>
+<sp who="IOLAS"><hstage><speaker>IOLAS</speaker>.</hstage>
 	<l id="1784">De nos esprits contents ton crime est effacé,</l>
 	<l id="1785">Un pardon général signé de part et d’autre,</l>
 	<l id="1786">Abolit pour jamais ton malheur et le nôtre,</l>
@@ -2601,7 +2601,7 @@
 	<l id="1789">Là nous nous conterons toutes nos aventures,</l>
 	<l id="1790">Et mettrons ordre à tout pour les noces futures.</l>
 </sp>
-<sp who="IARBE"><speaker>IARBE.</speaker>
+<sp who="IARBE"><hstage><speaker>IARBE</speaker>.</hstage>
 	<l id="1791">Allons, et que mon fils, partout victorieux</l>
 	<l id="1792">Fasse connaître au Roi, son destin glorieux.</l>
 </sp>

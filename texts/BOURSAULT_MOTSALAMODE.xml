@@ -77,19 +77,19 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head/>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Monsieur Josse, Monsieur Griffet.</head>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Monsieur Josse, Monsieur Griffet.</cast>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="1">Je vous ai de ma femme appris la trahison ;</l>
 	<l id="2">Quoiqu’il puisse arriver, j’en veux avoir raison.</l>
 	<l id="3">Contre ce beau mémoire elle ne peut rien dire ;</l>
 	<l id="4">Et pour la condamner il suffit de le lire.</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>.</hstage>
 	<l id="5">Parlons sans passion. Êtes-vous bien certain</l>
 	<l id="6">Que ce Mémoire-là soit de sa propre main ?</l>
 	<l id="7">J’y trouve, comme vous, des endroits effroyables...</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="8">Si j’en suis bien certain ? Trop de « par tous les Diables ».</l>
 	<l id="9">Oui, Monsieur, il est d’elle. Avez-vous bien ouï ?</l>
 	<l id="10">Voilà cinq ou six fois que je vous dis que oui.</l>
@@ -100,7 +100,7 @@
 	<l id="15">Je cherchais un prétexte à me défaire d’elle :</l>
 	<l id="16">Et je l’ai bien trouvé, puisqu’elle est infidèle.</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>.</hstage>
 	<l id="17">J’ai reçu votre plainte, et je sais tout cela :</l>
 	<l id="18">Ne poussez point la chose, et tenez-vous en là.</l>
 	<l id="19">Vous donner cet avis c’est vous mal satisfaire ;</l>
@@ -118,7 +118,7 @@
 	<l id="31">Est-ce peu pour un sot de la douleur de l’être ?</l>
 	<l id="32">Quelle démangeaison de le vouloir paraître !</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="33">Hé qui, de bonne soi, croyez-vous le moins sot,</l>
 	<l id="34">D’un sot qui l’est assez pour n’en dire aucun mot,</l>
 	<l id="35">Ou d’un qui se démène, et qui donne à connaître</l>
@@ -135,15 +135,15 @@
 	<l id="46">Et qui l’achète en gros, la revend en détail.</l>
 	<l id="47">N’importe ce qu’il coûte à venger cet outrage.</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>.</hstage>
 	<l id="48">Mais si, par cas fortuit, votre femme était sage ?</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="49">Après les actions dont vous êtes instruit,</l>
 	<l id="50">Il est vrai que le cas serait assez fortuit.</l>
 	<l id="51" part="i">Elle, sage !</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>.</hstage>
 	<l id="51" part="f">Je sais que dans le voisinage</l>
 	<l id="52">On ne s’est jamais plaint qu’elle ne fût point sage :</l>
 	<l id="53">Je demeure d’accord qu’elle a d’autres défauts :</l>
@@ -159,7 +159,7 @@
 	<l id="63">Mais de quelque façon qu’une femme s’exprime,</l>
 	<l id="64">C’est un entêtement, mais ce n’est pas un crime.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="65">Aussi, suis-je chagrin, mon cher Monsieur Griffet,</l>
 	<l id="66">Moins de ce qu’elle dit que de ce qu’elle fait.</l>
 	<l id="67">Quoi que dans le quartier chacun se moque d’elle,</l>
@@ -168,21 +168,21 @@
 	<l id="70">Quel est le plus en vogue ou le Gros ou le Grand.</l>
 	<l id="71">Le cas dont il s’agit, est un cas plus énorme.</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>.</hstage>
 	<l id="72">Je reviens dans une heure avec un acte en forme.</l>
 	<l id="73" part="i">Adieu.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="73" part="f">Souvenez-vous d’arrêter prisonnier</l>
 	<l id="74">Un certain gros coquin qui sert de jardinier.</l>
 	<l id="75" part="i">J’ai mes raisons.</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>.</hstage>
 	<l id="75" part="f">Suffit. C’est une affaire faite.</l>
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE, seul.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>, seul.</hstage>
 	<l id="76">Dans quel piège ma femme elle-même se jette !</l>
 	<l id="77">Quelle imprudence aussi d’écrire mot pour mot</l>
 	<l id="78">Tout ce qu’elle dépense à faire un mari sot !</l>
@@ -191,28 +191,28 @@
 	<l id="81">La voici. Sa présence augmente mon courroux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Monsieur JOSSE, Madame JOSSE.</head>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Monsieur JOSSE, Madame JOSSE.</cast>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="82">Je viens vous avertir qu’il ne tiendra qu’à vous</l>
 	<l id="83">De donner dès ce soir des époux à vos filles.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="84">Connaissez-vous leurs biens, leurs emplois, leurs familles ?</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="85">Leurs familles ? Eh si ! Perdez-vous la raison ?</l>
 	<l id="86">Les voudrais-je souffrir s’ils n’étaient de maison ?</l>
 	<l id="87">Qui vous fait présumer en moi tant de faiblesse ?</l>
 	<l id="88">Famille est bourgeoisie, et Maison est noblesse.</l>
 	<l id="89">Je vous les garantis nobles ; c’est un grand point.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="90" part="i">Vous les garantissez ?</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="90" part="m">Nobles.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="90" part="f">Je n’en veux point..</l>
 	<l id="91">Je veux d’honnêtes gens. Par exemple un Notaire,</l>
 	<l id="92">Un banquier, un marchand, un bonhomme d’affaire,</l>
@@ -222,31 +222,31 @@
 	<l id="96">Ont plus de créanciers qu’un an n’a de semaines.</l>
 	<l id="97" part="i">Entendez-vous, ma femme ?</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="97" part="f">Oui, mon mari, j’entends.</l>
 	<l id="98">Que dirait-on de pis chez de petites gens ?</l>
 	<l id="99">À moins d’être du « Peuple »  on ne dit point « ma Femme »,</l>
 	<l id="100">C’est une « Impolitesse » à faire rendre l’âme.</l>
 	<l id="101">Cela sent le bourgeois du plus méchant « aloi ».</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="102" part="i">Hé que suis-je de plus ? Parlons net.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="102" part="m">Vous ?</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="102" part="f">Oui, moi.</l>
 	<l id="103" part="i">Que, Diable, suis-je ?</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="103" part="f">Noble. Et ce qui plus me touche,</l>
 	<l id="104">C’est moi qui, malgré vous, ai voulu faire souche.</l>
 	<l id="105">Pour peu qu’on ait de « Goût » au rang où je me vois,</l>
 	<l id="106">On abdique aisément ce qu’on a de « Bourgeois ».</l>
 	<l id="107" part="i">Imitez-moi.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="107" part="f">Ma femme, en un mot comme en mille,</l>
 	<l id="108">Votre sotte noblesse est comme votre style ;</l>
 	<l id="109">Et je ne m’accommode en aucune façon</l>
@@ -264,14 +264,14 @@
 	<l id="121">Faites-les moi venir ; et surtout pour leur bien</l>
 	<l id="122">Quand je leur parlerai ne vous mêlez de rien.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="123">« Hé quelqu’un » ! Mes Laquais, montrez-vous, je vous prie.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="124">L’un s’appelle Champagne, et l’autre a nom la Brie.</l>
 	<l id="125">Est-il si malaisé de se souvenir d’eux ?</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 <note type="L">Fi : Particule qui sert à faire une exclamation pour témoigner le mépris, la haine, l’aversion qu’on a pour quelque personne ou quelque chose. [F]</note>
 	<l id="126">Fi ! C’est montrer par-là que l’on n’en a que deux ;</l>
 	<l id="127">Au lieu qu’en m’expliquant de manière incertaine</l>
@@ -284,12 +284,12 @@
 	<l id="133">Qui savent les beaux mots comme leur alphabet.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Monsieur Josse, Madae Josse, Nannette, Babet.</head>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Monsieur Josse, Madae Josse, Nannette, Babet.</cast>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="134">Approchez-vous, Nannette ; et vous aussi, Babet.</l>
 	<l id="135" part="i">C’est moi qui vous demande.</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="135" part="f">Hé, Monsieur ? je vous prie,</l>
 	<l id="136">Donnez-nous à chacune un nom de Seigneurie :</l>
 	<l id="137">Je ne vois que vous seul de gens de qualité</l>
@@ -305,20 +305,20 @@
 	<l id="147">S’il avait comme vous une fille bien faite</l>
 	<l id="148">Lui ferait-il l’affront de l’appeler Nannette ?</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="149">Vous me citez, vraiment, un plaisant animal !</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="150">Est-ce vous offenser, que citer votre égal,</l>
 	<l id="151" part="i">Monsieur !</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="151" part="f">Je vous ai dit, et vous le réitère,</l>
 	<l id="152">Que vous m’appelassiez simplement votre père ;</l>
 	<l id="153">À moins que votre mère en secret, et tout bas,</l>
 	<l id="154">Ne, vous ai fait savoir que je ne le suis pas,</l>
 </sp>
-<sp who="BABET"><speaker>BABET.</speaker>
+<sp who="BABET"><hstage><speaker>BABET</speaker>.</hstage>
 	<l id="155">Les gens de qualité, dont elle a l’honneur d’être,</l>
 	<l id="156">Ont une extrême peine à ne pas le paraître :</l>
 	<l id="157">Quoi que le nom de père ait de beau, de touchant,</l>
@@ -327,29 +327,29 @@
 	<l id="160">Défend à ses enfants de l’appeler leur père.</l>
 	<l id="161">C’est une vérité qu’on peut vous garantir</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="162">J’en sais bien la raison : c’est de peur de mentir.</l>
 	<l id="163">Souvent un avocat donne toutes ses peines</l>
 	<l id="164">Aux affaires d’autrui, pendant qu’on fait les siennes.</l>
 	<l id="165">Mais je vous mande ici pour un autre entretien.</l>
 	<l id="166">Je veux vous marier. Vous ne répondez rien !</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="167">Je n’ai de volonté que pour suivre la vôtre.</l>
 </sp>
-<sp who="BABET"><speaker>BABET.</speaker>
+<sp who="BABET"><hstage><speaker>BABET</speaker>.</hstage>
 	<l id="168">Je me fais un devoir, de n’en avoir point d’autre.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="169">Fort bien : j’aime à vous voir dans ces sentiments là.</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="170">Je dois à vos bontés beaucoup plus que cela.</l>
 </sp>
-<sp who="BABET"><speaker>BABET.</speaker>
+<sp who="BABET"><hstage><speaker>BABET</speaker>.</hstage>
 	<l id="171">Vos ordres en tout temps me sont doux et faciles.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="172">Puisqu’à mes volontés vous êtes si dociles,</l>
 	<l id="173">Vous aurez pour époux, dans huit jours au plus tard,</l>
 	<l id="174">Vous, Monsieur Poussineau, vous , Monsieur Rodillard.</l>
@@ -363,137 +363,137 @@
 	<l id="182">À prêter pour six mois à quatorze pour cent.</l>
 	<l id="183">Enfin, gens sans reproche, et d’une bonne race.</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="184" part="i">Je vous baise les mains.</l>
 </sp>
-<sp who="BABET"><speaker>BABET.</speaker>
+<sp who="BABET"><hstage><speaker>BABET</speaker>.</hstage>
 	<l id="184" part="f">Et moi, je vous rends grâce.</l>	
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="185" part="i">Comment ?</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="185" part="f">Je ne veux pas me marier sitôt.</l>
 </sp>
-<sp who="BABET"><speaker>BABET.</speaker>
+<sp who="BABET"><hstage><speaker>BABET</speaker>.</hstage>
 	<l id="186" part="i">Ni moi non plus.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="186" part="m">Non ?</l>
 </sp>
-<sp who="BABET"><speaker>BABET.</speaker>
+<sp who="BABET"><hstage><speaker>BABET</speaker>.</hstage>
 	<l id="186" part="m">Non.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="186" part="f">Je le veux. Il le faut.</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="187">Votre prétention sur ce point sera vaine.</l>
 	<l id="188" part="i">Je ne puis.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="188" part="f">Craignez-vous de mourir dans la peine ?</l>
 	<l id="189">Votre mère à votre âge avait franchi ce pas :</l>
 	<l id="190">Elle n’en est pas morte ; et vous n’en mourrez pas.</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="191">Vous nous offrez des gens d’une agréable « allure ».</l>
 </sp>
-<sp who="BABET"><speaker>BABET.</speaker>
+<sp who="BABET"><hstage><speaker>BABET</speaker>.</hstage>
 	<l id="192">Il nous faut des partis bien d’une autre « tournure ».</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="193">Puis-je prendre un époux à moins que de son chef.</l>
 	<l id="194">Il ne soit noble, riche, et d’un « gros relief » ?</l>
 </sp>
-<sp who="BABET"><speaker>BABET.</speaker>
+<sp who="BABET"><hstage><speaker>BABET</speaker>.</hstage>
 	<l id="195">Pour moi, je n’en veux point, comme vous pouvez croire,</l>
 	<l id="196">S’il me fait « dérouter » du chemin de la gloire.</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="197">Je voudrais bien savoir si Monsieur Poussineau,</l>
 	<l id="198">Peut jamais, quoi qu’il fasse, être à notre « niveau » ?</l>
 </sp>
-<sp who="BABET"><speaker>BABET.</speaker>
+<sp who="BABET"><hstage><speaker>BABET</speaker>.</hstage>
 	<l id="199">Et Monsieur Rodillard avec qui l’on m’assemble ;</l>
 	<l id="200">Ne fera-t-il pas beau nous « faufiler » ensemble ?</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="201">J’en sais qui sous nos lois sont prêts à se ranger,</l>
 	<l id="202">Fais comme une peinture et jolis à manger :</l>
 	<l id="203">Au lieu que les « amants » dont vous faites l’ébauche,</l>
 	<l id="204">Ont un esprit si « louche » ! Un entretien si « gauche » !</l>
 </sp>
-<sp who="BABET"><speaker>BABET.</speaker>
+<sp who="BABET"><hstage><speaker>BABET</speaker>.</hstage>
 	<l id="205">Quoique votre noblesse ait déjà près d’un mois,</l>
 	<l id="206">Il vous reste toujours des « vestiges » bourgeois.</l>
 	<l id="207">Je ne vois qu’à vous seul « ces petites manières ».</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="208">Hé bien ? N’est-il pas beau de voir trois grimacières,</l>
 	<l id="209">Qui sans le fade appas de vingt bizarres mots,</l>
 	<l id="210">Que font des étourdis et que disent des sots,</l>
 	<l id="211">Tant que dure le jour n’auraient rien à se dire ?</l>
 	<l id="212">Encor n’est ce pas là ce que l’on fait de pire.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="213" part="i">Hé, que fait-on, Monsieur ?</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="213" part="m">Ce que l’on fait ?</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="213" part="f">Oui ; quoi ?</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="214">Ce que personne ici ne doit faire que moi.</l>
 	<l id="215">Mais je vais de ce pas y donner si bon ordre,</l>
 	<l id="216">Qu’il sera malaisé que nous puissions nous mordre.</l>
 	<l id="217" part="i">Serviteur.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Madame Josse, Nannette, Babet.</head>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Madame Josse, Nannette, Babet.</cast>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="217" part="f">Moquez-vous des menaces qu’il fait :</l>
 	<l id="218">Messieurs Coquerico sont bien mieux votre fait.</l>
 	<l id="219">Il ne s’est jamais vu d’égalité plus grande :</l>
 	<l id="220" part="i">Âge, rang...</l>
 </sp>
-<sp who="BABET"><speaker>BABET.</speaker>
+<sp who="BABET"><hstage><speaker>BABET</speaker>.</hstage>
 	<l id="220" part="m">Moi, banquière !</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="220" part="m">Il est fou.</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="220" part="f">Moi, Marchande.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="221" part="i">Il radote.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Monsieur Brice, Madame Josse, Nannette, Babet.</head>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Monsieur Brice, Madame Josse, Nannette, Babet.</cast>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="221" part="f">Ah, c’est vous ! Eh, mon frère, bonjour.</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="222" part="i">Bonjour, ma sour.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="222" part="f">De quand êtes-vous de retour,</l>
 	<l id="223" part="i">Monsieur l’Avocat ?</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="223" part="f">D’hier à dix heures, je pense.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="224">Je vous veux un « gros » mal d’une si « grosse » absence.</l>
 	<l id="225">Depuis quinze « gros » jours ne m’avoir point écrit !</l>
 	<l id="226">Vous qui passez partout pour un si « gros » esprit.</l>
 	<l id="227">À peine un « gros » Seigneur, que le rang autorise,</l>
 	<l id="228">Se serait-il permis cette « grosse » sottise.</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="229">Quoi ! Ma sour, votre erreur dure jusqu’à présent !</l>
 	<l id="230">Laissez mourir en paix un mot agonisant.</l>
 	<l id="231">Hors chez quelques Laquais qu’il est en étalage,</l>
@@ -508,13 +508,13 @@
 	<l id="240">Que ceux qui font passer de la fausse monnaie ;</l>
 	<l id="241" part="i">« Gros » est un mot proscrit, ma sour.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="241" part="f">Avez-vous peur</l>
 	<l id="242">Que l’on ne sache pas que je suis votre sour ?</l>
 	<l id="243">À qui plus justement voulez-vous qu’appartienne</l>
 	<l id="244" part="i">Le titre de Madame ?</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="244" part="f">Oh ! Qu’à cela ne tienne.</l>
 	<l id="245">C’est un titre abusif que tant de femmes ont,</l>
 	<l id="246">Qu’il ne fait plus d’honneur à celles qui le font.</l>
@@ -533,36 +533,36 @@
 	<l id="259">Mais les gens de bon goût distinguent les espèces.</l>
 	<l id="260">Hé bien, mariez-vous mes deux charmantes nièces ?</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="261">Vous ne pouviez choisir un plus heureux moment.</l>
 	<l id="262">Il nous vient ce matin à chacune un amant :</l>
 	<l id="263">Mais bien faits ! Mais d’un « goût » ! Et du rang dont nous sommes.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Champagne, Madame Josse, Monsieur Brice, Nannete, Babet.</head>
-<sp who="CHAMPAGNE"><speaker>CHAMPAGNE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Champagne, Madame Josse, Monsieur Brice, Nannete, Babet.</cast>
+<sp who="CHAMPAGNE"><hstage><speaker>CHAMPAGNE</speaker>.</hstage>
 	<l id="264" part="i">Madame, on vous demande.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="264" part="m">Hé qui ?</l>
 </sp>
-<sp who="CHAMPAGNE"><speaker>CHAMPAGNE.</speaker>
+<sp who="CHAMPAGNE"><hstage><speaker>CHAMPAGNE</speaker>.</hstage>
 	<l id="264" part="f">Deux gentilshommes ;</l>
 	<l id="265">Leur père est parfumeur, et demeure ici près.</l>
 </sp>
-<sp who="BABET"><speaker>BABET.</speaker>
+<sp who="BABET"><hstage><speaker>BABET</speaker>.</hstage>
 	<l id="266">Il semble que le ciel nous les envoie exprès,</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="267">Les fils d’un parfumeur Gentilshommes ? Prodige !</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="268" part="i">Oui, mon frère, ils le sont.</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="268" part="m">Eux, ma sour ?</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE, à ses filles.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>, à ses filles.</hstage>
 	<l id="268" part="f">Oui, vous dis-je,</l>
 	<l id="269">De l’éclat de vos yeux éblouis, pénétrés ;</l>
 	<l id="270">Ils ne sortiront pas comme ils seront entrés.</l>
@@ -573,11 +573,11 @@
 	<l id="273" part="i">Qu’ils entrent.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Monsieur du Rus, Monsieur de l’Orme, Madame Josse , Monsieur Brice, Nannette, Babet.</head>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Monsieur du Rus, Monsieur de l’Orme, Madame Josse , Monsieur Brice, Nannette, Babet.</cast>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="273" part="m">Hé « quelqu’un » ! Des fauteuils.</l>
 </sp>
-<sp who="MONSIEUR DU RUS"><speaker>MONSIEUR DU RUS.</speaker>
+<sp who="MONSIEUR DU RUS"><hstage><speaker>MONSIEUR DU RUS</speaker>.</hstage>
 	<l id="273" part="f">Vos appas</l>
 	<l id="274">Qui font à tout venant mettre pavillon bas,</l>
 	<l id="275">Sûrs de tout conquérir aussitôt qu’ils se montrent,</l>
@@ -585,54 +585,54 @@
 	<l id="277">Vers une autre beauté j’avis pris mon essor,</l>
 	<l id="278" part="i">Mais je change.</l>
 </sp>
-<sp who="MONSIEUR DE L’ORME"><speaker>MONSIEUR DE L’ORME.</speaker>
+<sp who="MONSIEUR DE L’ORME"><hstage><speaker>MONSIEUR DE L’ORME</speaker>.</hstage>
 	<l id="278" part="f">Pour moi, mon cour est libre encor :</l>
 	<l id="279">Mais à voir tant d’appas pour peu qu’il persévère,</l>
 	<l id="280">J’appréhende bien fort qu’il ne le soit plus guère.</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="281">Quel plaisir de ranger sous l’amoureux lien</l>
 	<l id="282">De ces cours « isolés » qui ne tiennent à rien i</l>
 	<l id="283">Que ne puis-je causer votre première alarme !</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="284">« Isolés » ! Ah , Messieurs, le joli mot ! Il charme.</l>
 	<l id="285">Qui jamais avant elle, à l’âge où la voilà,</l>
 	<l id="286">Avec tant de justesse a placé ce mot-là?</l>
 	<l id="287" part="i">« Isolés » !</l>
 </sp>
-<sp who="MONSIEUR DU RUS"><speaker>MONSIEUR DU RUS.</speaker>
+<sp who="MONSIEUR DU RUS"><hstage><speaker>MONSIEUR DU RUS</speaker>.</hstage>
 	<l id="287" part="f">Franchement, « Isolés » me prend l’âme.</l>
 </sp>
-<sp who="MONSIEUR DE L’ORME"><speaker>MONSIEUR DE L’ORME.</speaker>
+<sp who="MONSIEUR DE L’ORME"><hstage><speaker>MONSIEUR DE L’ORME</speaker>.</hstage>
 	<l id="288">« Isolés » me ravit, me pénètre, m’enflamme.</l>
 </sp>
-<sp who="MONSIEUR DU RUS"><speaker>MONSIEUR DU RUS.</speaker>
+<sp who="MONSIEUR DU RUS"><hstage><speaker>MONSIEUR DU RUS</speaker>.</hstage>
 	<l id="289">Ce qui m’en plaît le plus, c’est qu’elle s’en sert bien.</l>
 	<l id="290">De ces cours « Isolés » qui ne tiennent à rien !</l>
 	<l id="291">Quand de l’architecture on saurait la manouvre,</l>
 	<l id="292">On aurait de la peine à mieux le mettre en ouvre.</l>
 	<l id="293">Ce mot est d’un « bon sel », et d’un excellent « goût ».</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="294">Il m’a fait oublier que vous êtes debout.</l>
 	<l id="295">Ces fauteuils sont ici pour nous mettre à notre aise.</l>
 	<l id="296">Hé « quelqu’un » ! Pour mon frère il ne faut qu’une chaise ;</l>
 	<l id="297" part="i">Il n’est pas noble.</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="297" part="f">Non ; dont je rends grâce au ciel.</l>
 </sp>
-<sp who="MONSIEUR DE L’ORME"><speaker>MONSIEUR DE L’ORME.</speaker>
+<sp who="MONSIEUR DE L’ORME"><hstage><speaker>MONSIEUR DE L’ORME</speaker>.</hstage>
 	<l id="298">Ouais ! Contre la noblesse il semble avoir du fiel.</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="299">Point du tout ; je l’honore autant qu’on le peut faire :</l>
 	<l id="300">Il n’est dans un état rien de plus nécessaire :</l>
 	<l id="301">À le rendre tranquille elle applique son soin ;</l>
 	<l id="302">Mais je l’aime un peu vieille, et marquée au bon coin.</l>
 </sp>
-<sp who="MONSIEUR DU RUS"><speaker>MONSIEUR DU RUS.</speaker>
+<sp who="MONSIEUR DU RUS"><hstage><speaker>MONSIEUR DU RUS</speaker>.</hstage>
 	<l id="303">Fi ! Peut-on avouer qu’on aime la vieillesse ?</l>
 	<l id="304">Rien n’est plus décrépit que la vieille noblesse.</l>
 	<l id="305">Est-il un financier noble depuis un mois,</l>
@@ -642,48 +642,48 @@
 	<l id="308">Quand le gibier s’envole, ou que leur fusil manque ?</l>
 	<l id="309">Monsieur parle en bourgeois des plus « invétérés ».</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="310">Les mots les plus « jolis » sont par lui censurés.</l>
 	<l id="311">Contre celui de « gros » il jette feux et flammes,</l>
 </sp>
-<sp who="MONSIEUR DE L’ORME"><speaker>MONSIEUR DE L’ORME.</speaker>
+<sp who="MONSIEUR DE L’ORME"><hstage><speaker>MONSIEUR DE L’ORME</speaker>.</hstage>
 	<l id="312">Tant pis : il se fera lapider par les Dames.</l>
 	<l id="313">C’est un des mots nouveaux qu’elles aiment le plus.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="314">Est-il rien de mieux dit que de « grosses » vertus ?</l>
 	<l id="315">Je suis de cette phrase inséparable amie.</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="316">Vous avez contre vous toute l’Académie :</l>
 	<l id="317">Elle, qui dans la langue a le don d’exceller.</l>
 </sp>
-<sp who="MONSIEUR DU RUS"><speaker>MONSIEUR DU RUS.</speaker>
+<sp who="MONSIEUR DU RUS"><hstage><speaker>MONSIEUR DU RUS</speaker>.</hstage>
 	<l id="318">Moi, je lui soutiens, moi, qu’on ne peut mieux parler.</l>
 	<l id="319">Il est certains endroits où ce mot charme, enchante.</l>
 	<l id="320">Quelle Académie est-ce ? Est-ce celle où l’on chante ?</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="321">Plaisante Académie, et dont on fait grand cas !</l>
 </sp>
-<sp who="MONSIEUR DU RUS"><speaker>MONSIEUR DU RUS.</speaker>
+<sp who="MONSIEUR DU RUS"><hstage><speaker>MONSIEUR DU RUS</speaker>.</hstage>
 <note type="L">Almanach : Calendrier qui contient tous les jours de l’année, les fêtes, les lunaisons, etc. Faire des almanachs, faire des pronostics. [L]</note>
 	<l id="322">Est-ce celle, où l’on fait de si bons almanachs ?</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="323">Ces gens, pour bien parler, n’ont pas l’air assez grave.</l>
 </sp>
-<sp who="MONSIEUR DU RUS"><speaker>MONSIEUR DU RUS.</speaker>
+<sp who="MONSIEUR DU RUS"><hstage><speaker>MONSIEUR DU RUS</speaker>.</hstage>
 	<l id="324">Est-ce l’Académie où l’on peint ? Où l’on grave ?</l>
 	<l id="325" part="i">Ces gens-là sont du monde, et parlent juste.</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="325" part="f">Non.</l>
 </sp>
-<sp who="MONSIEUR DE L’ORME"><speaker>MONSIEUR DE L’ORME.</speaker>
+<sp who="MONSIEUR DE L’ORME"><hstage><speaker>MONSIEUR DE L’ORME</speaker>.</hstage>
 	<l id="326" part="i">C’est donc l’Académie où l’on ne fait rien.</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="326" part="f">Bon !</l>
 	<l id="327">Celle que je vous dis travaille plus que toutes.</l>
 	<l id="328">C’est-là que de la langue on décide les doutes :</l>
@@ -692,19 +692,19 @@
 	<l id="331">L’ennemie, en un mot, des sottises nouvelles.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Champagne, Madame Josse, Monsieur de Rus, Monsieur de l’Orme, Monsieur Brice, Nannette, Babet.</head>
-<sp who="CHAMPAGNE"><speaker>CHAMPAGNE.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>Champagne, Madame Josse, Monsieur de Rus, Monsieur de l’Orme, Monsieur Brice, Nannette, Babet.</cast>
+<sp who="CHAMPAGNE"><hstage><speaker>CHAMPAGNE</speaker>.</hstage>
 	<l id="332">Marote Poussineau vient voir ces Demoiselles.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="333">Voyez pour quel sujet le sot nous interrompt :</l>
 	<l id="334" part="i">Dis qu’elles n’y sont pas.</l>
 </sp>
-<sp who="CHAMPAGNE"><speaker>CHAMPAGNE.</speaker>
+<sp who="CHAMPAGNE"><hstage><speaker>CHAMPAGNE</speaker>.</hstage>
 	<l id="334" part="f">J’ai dit qu’elles y sont,</l>
 	<l id="335">Je ne serai pas cru, si je dis le contraire.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="336">De ces sortes de gens tâchez à vous défaire.</l>
 	<l id="337">C’est vers la « bourgeoisie » un reste de penchant</l>
 	<l id="338">Que de souffrir ici la fille d’un marchand.</l>
@@ -714,42 +714,42 @@
 	<l id="342" part="i">Pardon.</l>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Marote, Madame Josse , Monsieur de Rus, Monsieur de l’Orme, Monsieur Brice, Nannette, Babet.</head>
-<sp who="MAROTE"><speaker>MAROTE.</speaker>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><cast>Marote, Madame Josse , Monsieur de Rus, Monsieur de l’Orme, Monsieur Brice, Nannette, Babet.</cast>
+<sp who="MAROTE"><hstage><speaker>MAROTE</speaker>.</hstage>
 	<l id="342" part="f">Bonjour Nannette ; à la fin te voilà !</l>
 	<l id="343">Je suis venue ici deux ou trois fois de suite ;</l>
 	<l id="344">Et toutes ces fois-là j’ai perdu ma visite.</l>
 	<l id="345" part="i">Comment te portes-tu ? J’en suis en peine.</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="345" part="f">Bien.</l>
 </sp>
-<sp who="MAROTE"><speaker>MAROTE.</speaker>
+<sp who="MAROTE"><hstage><speaker>MAROTE</speaker>.</hstage>
 	<l id="346" part="i">Je te vois du chagrin. Qu’as-tu ?</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="346" part="f">Qu’aurais-je ? Rien.</l>
 </sp>
-<sp who="MAROTE"><speaker>MAROTE.</speaker>
+<sp who="MAROTE"><hstage><speaker>MAROTE</speaker>.</hstage>
 	<l id="347">Parle-moi bonnement, et ne fais point la sotte.</l>
 	<l id="348" part="i">Qu’as tu ? Bonjour, Madame.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="348" part="f">Ah, ah ! Bonjour, Marote,</l>
 	<l id="349" part="i">Bonjour,</l>
 </sp>
-<sp who="MAROTE"><speaker>MAROTE.</speaker>
+<sp who="MAROTE"><hstage><speaker>MAROTE</speaker>.</hstage>
 	<l id="349" part="f">On me reçoit ici bien froidement !</l>
 	<l id="350">D’où vient donc que Babet ne me dit rien ? Vraiment</l>
 	<l id="351">On me chasse ; et l’on veut que je m’en aperçoive.</l>
 </sp>
-<sp who="BABET"><speaker>BABET.</speaker>
+<sp who="BABET"><hstage><speaker>BABET</speaker>.</hstage>
 	<l id="352">Comment donc voulez-vous, dites, qu’on vous reçoive ?</l>
 </sp>
-<sp who="MAROTE"><speaker>MAROTE.</speaker>
+<sp who="MAROTE"><hstage><speaker>MAROTE</speaker>.</hstage>
 	<l id="353">Comment ? Il semble ici qu’on me voie à regret.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="354">Apporter pour Marote un petit tabouret.</l>
 	<l id="355">Car je ne pense pas que votre orgueil vous porte</l>
 <note type="L">Equipoler : Être de pareil prix qu’une autre chose à quoi l’on se rapporte. [F]</note>
@@ -757,13 +757,13 @@
 	<l id="357">Il faut selon les rangs de la distinction ;</l>
 	<l id="358">Et l’on nomme cela subordination.</l>
 </sp>
-<sp who="MAROTE"><speaker>MAROTE.</speaker>
+<sp who="MAROTE"><hstage><speaker>MAROTE</speaker>.</hstage>
 	<l id="359">Je veux un fauteuil, moi, s’il faut que je le dise ;</l>
 	<l id="360">Non pour avoir l’honneur d’être un peu mieux assise ;</l>
 	<l id="361">Mais sachant où je fuis, pour m’épargner l’affront</l>
 	<l id="362">De l’être un peu plus mal que les autres ne sont.</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="363">Que le monde aujourd’hui se rend peu de justice !</l>
 	<l id="364">Et qu’aux petites gens l’audace est un sot vice !</l>
 	<l id="365">Vous imaginez-vous qu’ici, non plus qu’ailleurs,</l>
@@ -772,17 +772,17 @@
 	<l id="368">Et qui, de compte fait, ont un mois de noblesse ?</l>
 	<l id="369">Il faut de la raison et de l’ordre partout.</l>
 </sp>
-<sp who="MAROTE"><speaker>MAROTE.</speaker>
+<sp who="MAROTE"><hstage><speaker>MAROTE</speaker>.</hstage>
 	<l id="370">Ces Messieurs, où je suis, devraient être debout.</l>
 	<l id="371">Une belle noblesse et de source bien pure,</l>
 	<l id="372">Que celle qu’on débite à la manufacture !</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="373">Vous vous êtes, ma fille, exposée à cela,</l>
 	<l id="374">En vous encanaillant de cette guenon-là.</l>
 	<l id="375">Marote Poussineau ! Ce nom seul est atroce.</l>
 </sp>
-<sp who="MAROTE"><speaker>MAROTE.</speaker>
+<sp who="MAROTE"><hstage><speaker>MAROTE</speaker>.</hstage>
 	<l id="376">Marote Poussineau vaut bien Madame Josse.</l>
 	<l id="377">Cet orgueil avec moi ne lui sied-il pas bien ?</l>
 	<l id="378">Elle de qui le père est le boucher du mien ;</l>
@@ -791,19 +791,19 @@
 	<l id="381">Je m’en vais le changer, sans y perdre un moment.</l>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Madame Josse, Monsier du Rus, Monsieur de l’Orme, Nannette, Monsieur Brice, Babet.</head>
-<sp who="MONSIEUR DE L’ORME"><speaker>MONSIEUR DE L’ORME.</speaker>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><cast>Madame Josse, Monsier du Rus, Monsieur de l’Orme, Nannette, Monsieur Brice, Babet.</cast>
+<sp who="MONSIEUR DE L’ORME"><hstage><speaker>MONSIEUR DE L’ORME</speaker>.</hstage>
 	<l id="382">Vous l’avez repoussée, et vigoureusement.</l>
 	<l id="383">Je ne sais rien de mieux pour vous en bien défaire.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="384">Remettons-nous. Hé bien, Messieurs, qu’allez-vous faire ?</l>
 	<l id="385">Car rien n’est plus honteux, dans ces temps divisés,</l>
 	<l id="386">Que de voir la noblesse avoir les bras croisés :</l>
 	<l id="387">Il faut, pour son honneur, qu’elle soit occupée.</l>
 	<l id="388">Prenez-vous une charge où de robe ou d’épée.</l>
 </sp>
-<sp who="MONSIEUR DU RUS"><speaker>MONSIEUR DU RUS.</speaker>
+<sp who="MONSIEUR DU RUS"><hstage><speaker>MONSIEUR DU RUS</speaker>.</hstage>
 	<l id="389">D’épée. On sent bien mieux l’homme de qualité.</l>
 	<l id="390">Partout Mars sur Thémis l’a toujours emporté.</l>
 	<l id="391">Chez tous les gens d’épée aujourd’hui c’est la mode</l>
@@ -811,14 +811,14 @@
 <note type="L">Palais : Palais de justice, notion englobant tous les métiers de justoce.</note>
 	<l id="393">Ce n’est pas au Palais que croissent les lauriers.</l>
 </sp>
-<sp who="BABET"><speaker>BABET.</speaker>
+<sp who="BABET"><hstage><speaker>BABET</speaker>.</hstage>
 	<l id="394">Que vous ferez tous deux de « jolis » officiers !</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="395">Si l’on en croit le bruit que fait la renommée,</l>
 	<l id="396">De « jolis » officiers ornent bien une armée.</l>
 </sp>
-<sp who="MONSIEUR DU RUS"><speaker>MONSIEUR DU RUS.</speaker>
+<sp who="MONSIEUR DU RUS"><hstage><speaker>MONSIEUR DU RUS</speaker>.</hstage>
 	<l id="397">Quand ils ont à leur tête un « joli » général :</l>
 <note type="L">Grivois : Au XVIIème siècle ; soldat de certaines troupes étrangères au service d la France, et par extention soldat. [L]</note>
 	<l id="398">Il n’est pour les « grivois » point de plaisir égal :</l>
@@ -826,7 +826,7 @@
 	<l id="400">En « jolis » généraux elle est inépuisable.</l>
 	<l id="401">Ce que nous en avons sont des gens accomplis.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 <note type="L">Turenne, H. de la Tour d’Auvergne, vicomte de [1611-1675] : Ce grand capitaine a gagné a gagné autant ou même plus de batailles décisives, et il a réparé plus de graves échecs : c’était le premier tacticien de l’Europe. Né dans la religion protestante, il fut converti au catholicisme par Bossuet. [B]</note>
 <note type="L">Condé, Louis II, Prince de [1621-1687] : Nommé général en chef à  22 ans, Il défit entièrement à Rocroy les espagnols bine supérieurs en nombre et redoutables alors par leur infanterie. L’année suivante il battis les allemands à Fribourg. (...) Ce général dut son succès à son élan irrésistible et d’heureuses iinspirations, mais ne ménageait pas le sang de ses soldats. [B]</note>
 	<l id="402">Ceux que nous n’avons plus étaient bien plus « jolis ».</l>
@@ -837,7 +837,7 @@
 	<l id="407">Ont été, selon moi, les deux plus « jolis » hommes</l>
 	<l id="408">Que la France ait produit dans le siècle où nous sommes.</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="409">Et vous ne voulez pas que les gens soient piqués</l>
 	<l id="410">Contre des mots si sots et si mal appliqués !</l>
 	<l id="411">Est-il dans l’Univers encore un Capitaine</l>
@@ -857,49 +857,49 @@
 	<l id="425">Et le mot de « joli » n’a jamais été fait</l>
 	<l id="426">Qu’en faveur d’un enfant, et d’un colifichet.</l>
 </sp>
-<sp who="MONSIEUR DE L’ORME"><speaker>MONSIEUR DE L’ORME.</speaker>
+<sp who="MONSIEUR DE L’ORME"><hstage><speaker>MONSIEUR DE L’ORME</speaker>.</hstage>
 	<l id="427">J’entrevois les raisons de Monsieur votre frère :</l>
 	<l id="428">« Joli » ne lui plaît pas, parce qu’il ne l’est guère.</l>
 	<l id="429">Voilà ce qui l’oblige à s’expliquer ainsi..</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="430">Ha ! Que mal-à-propos ma mère vient ici !</l>
 </sp>
 </div2>
-<div2 type="scene" n="12"><head>SCÈNE XII. Madame Brice, Madadame Josse, Monsieur du Rus, Monsieur de l’Orme, Monsieur Brice, Nannette, Babet.</head>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head><cast>Madame Brice, Madadame Josse, Monsieur du Rus, Monsieur de l’Orme, Monsieur Brice, Nannette, Babet.</cast>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="431">Quel sujet vous amène en ce lieu, toute seule ?</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 	<l id="432">Je devrais y venir vous souffleter la gueule.</l>
 	<l id="433">Vous avez par vos soins fait si bien et si beau,</l>
 	<l id="434">Que nous ne servons plus chez Monsieur Poussineau.</l>
 	<l id="435" part="i">Sa fille...</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="435" part="f">Savez-vous qu’elle est assez brutale</l>
 	<l id="436">Pour oser sottement se croire notre égale ?</l>
 	<l id="437">De la désabuser on s’est donné le soin.</l>
 </sp>
-<sp who="MONSIEUR DU RUS"><speaker>MONSIEUR DU RUS.</speaker>
+<sp who="MONSIEUR DU RUS"><hstage><speaker>MONSIEUR DU RUS</speaker>.</hstage>
 	<l id="438">Franchement, l’insolence allait un peu trop loin.</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 	<l id="439">Mêlez-vous, s’il vous plaît, de ce qui vous regarde.</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="440" part="i">Ces messieurs sont d’un rang...</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 	<l id="440" part="f">Vous, taisez-vous, Guimbarde.</l>
 	<l id="441">Il vous appartient bien de dire vos raisons,</l>
 	<l id="442">Et de mettre le nez dans ce que nous disons.</l>
 	<l id="443">Qui demande un avis aussi sot que le vôtre ?</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="444" part="i">Eh ! De grâce, ma mère , abstenez-vous...</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 	<l id="444" part="f">À l’autre</l>
 	<l id="445">Qui pour être boucher ayant trop peu d’esprit</l>
 	<l id="446">Voulut être Avocat pour nous faire dépit ;</l>
@@ -908,10 +908,10 @@
 	<l id="449">Faites-moi le plaisir de me laisser en paix :</l>
 	<l id="450">On vous y laisse bien tous les jours au Palais.</l>
 </sp>
-<sp who="BABET"><speaker>BABET.</speaker>
+<sp who="BABET"><hstage><speaker>BABET</speaker>.</hstage>
 	<l id="451">Ciel ! Que les vieilles gens ont un esprit revêche !</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 	<l id="452">Entendez-vous jaser la petite pimbêche ?</l>
 	<l id="453">Voyez : Ne faut-il pas qu’elle s’en mêle aussi ?</l>
 <note type="L">Masque : Terme familier d’injure dont on se sert quelquefois pour qualifier une jeune fille, une femme, et lui reprocher sa laideur ou sa malice. [L]</note>
@@ -919,12 +919,12 @@
 	<l id="455">Je t’apprendrai, friponne, à me morguer en face.</l>
 	<l id="456" part="i">Vieille !</l>
 </sp>
-<sp who="MONSIEUR DE L’ORME"><speaker>MONSIEUR DE L’ORME.</speaker>
+<sp who="MONSIEUR DE L’ORME"><hstage><speaker>MONSIEUR DE L’ORME</speaker>.</hstage>
 	<l id="456" part="f">Madame Brice, il faut lui faire grâce.</l>
 	<l id="457">Vos attraits par ce mot ne font pas effacés !</l>
 	<l id="458" part="i">Vous êtes encor jeune; on le voit bien.</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 	<l id="458" part="f">Assez,</l>
 <note type="L">Peautre : La gouvernail d’un vaisseau. (...) On dit proverbialement à des importuns qu’on veut chasser loin de soi : allez au peautre.</note>
 	<l id="459">Pour voir votre noblesse un jour aller au peautre ;</l>
@@ -944,53 +944,53 @@
 	<l id="470">Comme l’autre noblesse, à quelque arrière-ban ?</l>
 	<l id="471" part="i">Les braves gens !</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="471" part="f">Ma mère, il vaut mieux qu’on se taise...</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 	<l id="472">Jour de Dieu ! Je prétends quereller à mon aise.</l>
 	<l id="473">C’est à vous à vous taire, imbécile Orateur.</l>
 </sp>
-<sp who="MONSIEUR DU RUS"><speaker>MONSIEUR DU RUS.</speaker>
+<sp who="MONSIEUR DU RUS"><hstage><speaker>MONSIEUR DU RUS</speaker>.</hstage>
 	<l id="474">Adieu. Madame Brice est de mauvaise humeur.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="475">Elle rêve. Eh, Messieurs ! Supposez qu’elle dorme.</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="476" part="i">Restez, Monsieur du Rus.</l>
 </sp>
-<sp who="BABET"><speaker>BABET.</speaker>
+<sp who="BABET"><hstage><speaker>BABET</speaker>.</hstage>
 	<l id="476" part="f">Restez, Monsieur de l’Orme.</l>
 </sp>
-<sp who="MONSIEUR DE L’ORME"><speaker>MONSIEUR DE L’ORME.</speaker>
+<sp who="MONSIEUR DE L’ORME"><hstage><speaker>MONSIEUR DE L’ORME</speaker>.</hstage>
 	<l id="477">Nous prendrons notre temps pour revoir tant d’appas</l>
 	<l id="478">Que la mère éternelle un matin n’y soit pas.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="479">Votre façon d’agir, ma mère, est effroyable.</l>
 	<l id="480" part="i">Ils sont sortis. .</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 	<l id="480" part="f">Tant mieux : Qu’ils s’en aillent au Diable.</l>
 	<l id="481">J’aurai la joie au moins de gronder en repos..</l>
 </sp>
 </div2>
-<div2 type="scene" n="13"><head>SCÈNE XIII. Monsieur Josse, Madame Josse, Madame Brice, Monsieur Brice, Monsieur Griffet, Nannette, Babet.</head>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<div2 type="scene" n="13"><head>SCÈNE XIII.</head><cast>Monsieur Josse, Madame Josse, Madame Brice, Monsieur Brice, Monsieur Griffet, Nannette, Babet.</cast>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="482">Ha, ha ! Je vous rencontre ici tout à propos.</l>
 	<l id="483">Je viens de vous chercher pour une belle affaire.</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 	<l id="484" part="i">Comment donc ? Qu’est-ce ?</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="484" part="f">Entrez, Monsieur le Commissaire.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="485" part="i">Un Commissaire ici ! Pourquoi faire ?</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="485" part="f">Attendez.</l>
 	<l id="486">Vous saurez assez tôt ce que vous demandez.</l>
 	<l id="487">Je veux auparavant, sans nulle incertitude,</l>
@@ -1000,28 +1000,28 @@
 	<l id="491">J’étais jeune : un mari toujours jeune est aimable ;</l>
 	<l id="492" part="i">Mais enfin...</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 	<l id="492" part="m">Enfin, quoi ?</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="492" part="f">J’ai vieilli : c’est le Diable ;</l>
 	<l id="493">Et ma femme au plaisir immolant le devoir,</l>
 	<l id="494">À ses petits besoins a pris foin de pourvoir.</l>
 	<l id="495" part="i">C’est tout dire.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="495" part="f">Imposteur ! L’impudence est extrême.</l>
 </sp>
 </div2>
-<div2 type="scene" n="14"><head>SCÈNE XIV. Nicole, Monsieur Josse, Madame Josse, Monsieur Brice, Monsieur Griffet, Nannette, Babet.</head>
-<sp who="NICOLE"><speaker>NICOLE.</speaker>
+<div2 type="scene" n="14"><head>SCÈNE XIV.</head><cast>Nicole, Monsieur Josse, Madame Josse, Monsieur Brice, Monsieur Griffet, Nannette, Babet.</cast>
+<sp who="NICOLE"><hstage><speaker>NICOLE</speaker>.</hstage>
 	<l id="496">Vite, à l’aide, au secours du pauvre Nicodème :</l>
 	<l id="497">Si vous ne vous hâtez c’est fait du jardinier.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="498" part="i">Comment ?</l>
 </sp>
-<sp who="NICOLE"><speaker>NICOLE.</speaker>
+<sp who="NICOLE"><hstage><speaker>NICOLE</speaker>.</hstage>
 <note type="L">Pousse-cul : terme odieux dont on qualifie les Recors [assistants du sergent] des Sergents, et autres qui servent à mettre et à pousser les gens en prison. [F]</note>
 	<l id="499">Des pousse-culs l’arrêtent prisonnier.</l>
 	<l id="500">Comme il est fort et raide, et qu’il sait battre et mordre,</l>
@@ -1030,24 +1030,24 @@
 	<l id="503">Le voici qu’on amène, et sa femme avec lui.</l>
 </sp>
 </div2>
-<div2 type="scene" n="15"><head>SCÈNE XV. Nicodème, Adrienne, Monsieur Josse, Madame Josse, Madame Brice, Monsieur Brice, Monsieur Griffet, Nannette, Babet, Nicole.</head>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<div2 type="scene" n="15"><head>SCÈNE XV.</head><cast>Nicodème, Adrienne, Monsieur Josse, Madame Josse, Madame Brice, Monsieur Brice, Monsieur Griffet, Nannette, Babet, Nicole.</cast>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="504" part="i">Approche gros Coquin.</l>
 </sp>
-<sp who="NICODEME"><speaker>NICODEME.</speaker>
+<sp who="NICODEME"><hstage><speaker>NICODEME</speaker>.</hstage>
 	<l id="504" part="f">C’est fort bien dit. Peut-être</l>
 	<l id="505">Que j’en dirais autant si j’étais votre maître.</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="506">Je ne sais que penser de tout ce que je vois.</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="507">Plus ce désordre augmente et moins je le conçois.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="508" part="i">Fripon !</l>
 </sp>
-<sp who="NICODEME"><speaker>NICODEME.</speaker>
+<sp who="NICODEME"><hstage><speaker>NICODEME</speaker>.</hstage>
 	<l id="508" part="f">Mordié nenni. Tout chétifs que je sommes</l>
 	<l id="509">J’avons été cinq ans à de vrais gentilshommes:</l>
 	<l id="510">À telle enseigne, ardé, qu’ils n’avions pas un sou,</l>
@@ -1055,124 +1055,124 @@
 	<l id="512">Il ne s’est jamais vu de noblesse meilleure.</l>
 	<l id="513">Ce n’était pardié pas comme celle d’astheure.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="514" part="i">Vous le méritez bien, Monsieur Josse.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="514" part="f">Tout doux.</l>
 	<l id="515">Je sais ce qui se passe entre-eux, quelque autre et vous.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="516">Hé, que se passe-t-il qui ne soit à ma gloire ?</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="517">Monsieur le Commissaire apportez son mémoire.</l>
 	<l id="518">C’est trop avoir d’égard pour son manque de foi ;</l>
 	<l id="519" part="i">Ne la ménagez plus. Parlez.</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>.</hstage>
 	<l id="519" part="f">De par le Roi.</l>
 	<l id="520">Dites-moi, sans mensonge, et sans être interdite,</l>
 	<l id="521" part="i">Si vous reconnaissez ce mémoire ?</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="521" part="f">Elle hésite.</l>
 	<l id="522">Plus elle a de chagrin, plus je suis réjoui.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="523" part="i">Oui, Monsieur, ce mémoire est de moi.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="523" part="m">De vous ?</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="523" part="f">Oui.</l>
 	<l id="524">Je ne sais ce que c’est que dire une imposture.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="525">Il s’agit maintenant d’en faire la lecture.</l>
 	<l id="526">Vous allez, j’en suis sûr, être scandalisez.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="527" part="i">De quoi ?</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="527" part="f">Prêtez l’oreille : et vous, Monsieur, lisez.</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET, lit.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>, lit.</hstage>
 	<l id="528">« Mémoire de la Défense que f ai faite en galanteries ».</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="529">Voyons par quel endroit ce mémoire débute.</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>.</hstage>
 	<l id="530">« Premièrement », vingt francs pour une « Culebute »...</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 	<l id="531">Pour une « Culebute » ! Oh bon Dieu ! Qu’est-ce là?</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="532">Bon ; ce n’est rien : le reste est bien pis que cela.</l>
 	<l id="533">Poursuivez seulement, Monsieur le Commissaire.</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>.</hstage>
 	<l id="534">Pour une « Culebute » avec un « Mousquetaire ».</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="535">Avec un « Mousquetaire » ! En effet, c’est bien pis.</l>
 	<l id="536">Malheureuse ! Est-ce là ce qu’on t’avait appris ?</l>
 	<l id="537">Faire un si grand affront à la race des Brices !</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="538">Monsieur, de pareils coups laissent des cicatrices...</l>
 </sp>
-<sp who="NICODEME"><speaker>NICODEME, bas.</speaker>
+<sp who="NICODEME"><hstage><speaker>NICODEME</speaker>, bas.</hstage>
 	<l id="539">La peste ! Un « Mousquetaire » est assez bien choisi.</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>.</hstage>
 	<l id="540">Plus, pour un « Boute-en-train », et pour un « Tâtez-y »,</l>
 	<l id="541" part="i">Huit cents francs !</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="541" part="f">Dites-moi, vous, à qui je me fie,</l>
 	<l id="542">Qu’est-ce qu’en bon français « Tâtez-y » signifie ?</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 	<l id="543">Que signifierait-il que ce qu’on entend bien ?</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="544" part="i">Qu’avez-vous à répondre à cela, ma sour ?</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="544" part="f">Rien.</l>
 	<l id="545">C’est un extravagant, qui de Paris à Rome</l>
 	<l id="546" part="i">Aurait peine à trouver son égal.</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 	<l id="546" part="f">Le pauvre homme !</l>
 	<l id="547">Il est bien malaisé qu’il ait l’esprit serein</l>
 	<l id="548">Quand il sait qu’à sa femme il faut un « Boute-en-train ».</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>.</hstage>
 	<l id="549">« Plus » pour la « Jardinière », et pour des « Engageantes »</l>
 	<l id="550">Dont mes filles et moi nous fumes bien contentes ;</l>
 	<l id="551" part="i">Trois cents livres.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="551" part="f">Voilà ce qui m’outre le plus.</l>
 	<l id="552">Donner à ses enfants des leçons là-dessus !</l>
 	<l id="553" part="i">À quoi lui servais-tu?</l>
 </sp>
-<sp who="ADRIENNE"><speaker>ADRIENNE.</speaker>
+<sp who="ADRIENNE"><hstage><speaker>ADRIENNE</speaker>.</hstage>
 	<l id="553" part="m">Qui ? Moi, Monsieur?</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="553" part="f">Oui, Chienne.</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 	<l id="554" part="i">Je te tordrai le cou, suborneuse.</l>
 </sp>
-<sp who="NICODEME"><speaker>NICODEME.</speaker>
+<sp who="NICODEME"><hstage><speaker>NICODEME</speaker>.</hstage>
 	<l id="554" part="f">Adrienne, Dis-moi,</l>
 <note type="L">Barguigner : se dit figurément en choses spirituelles des irrésolutions d’esprit, quand un homme a du mal à se résoudre, à donner quelque parole, à conclure une affaire, à se défaire de quelque engagement. [F]</note>
 	<l id="555">Dis-moi, sans barguigner ce que c’est que cela ?</l>
@@ -1180,14 +1180,14 @@
 	<l id="556">Et quelle manigance on débagoule-là.</l>
 	<l id="557" part="i">Parle.</l>
 </sp>
-<sp who="ADRIENNE"><speaker>ADRIENNE.</speaker>
+<sp who="ADRIENNE"><hstage><speaker>ADRIENNE</speaker>.</hstage>
 	<l id="557" part="m">Moi, Nicodème ?</l>
 </sp>
-<sp who="NICODEME"><speaker>NICODEME.</speaker>
+<sp who="NICODEME"><hstage><speaker>NICODEME</speaker>.</hstage>
 <note type="L">Dégoiser : Se dit figurément et dans le style burlesque de ceux qui parlent trop, et mal à propos.</note>
 	<l id="557" part="f">Oui, palsandié, dégoise.</l>
 </sp>
-<sp who="ADRIENNE"><speaker>ADRIENNE.</speaker>
+<sp who="ADRIENNE"><hstage><speaker>ADRIENNE</speaker>.</hstage>
 	<l id="558">Est-ce ma faute, à moi, si Madame l’emboise?</l>
 	<l id="559">Quand on a bon renom cela vaut mieux que tout.</l>
 	<l id="560">Je sommes, comme on dit, plus couché que debout.</l>
@@ -1196,45 +1196,45 @@
 	<l id="563">J’allons tête levée, et je ne craindons rien ;</l>
 	<l id="564" part="i">Dieu marci.</l>
 </sp>
-<sp who="NICODEME"><speaker>NICODEME.</speaker>
+<sp who="NICODEME"><hstage><speaker>NICODEME</speaker>.</hstage>
 	<l id="564" part="f">Pour cela, je sommes gens de bien :</l>
 	<l id="565">Et j’avons de l’honneur, malgré la médisance,</l>
 	<l id="566">Plus qu’il ne nous en faut pour notre suffisance.</l>
 	<l id="567">J’ignorons ce que c’est que de faire faux-bon :</l>
 	<l id="568" part="i">Ce n’est pas comme vous et Madame.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="568" part="f">Ah, fripon !</l>
 	<l id="569">Tu ne t’amuses pas à voler des vétilles.</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>.</hstage>
 	<l id="570">« Plus » pour des « papillons », des « guêpes », des « chenilles »,</l>
 	<l id="571" part="i">Huit cens écus.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="571" part="f">Maraud, qui fais l’homme de bien,</l>
 	<l id="572">Te voilà si confus que tu ne dis plus rien !</l>
 	<l id="573">Tu ne présumais pas que l’on sut ton négoce.</l>
 	<l id="574">Vendre des « papillons » une somme si grosse !</l>
 	<l id="575">Je prétends qu’aujourd’hui cet argent soit rendu.</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>.</hstage>
 	<l id="576">Ou qu’il soit dans trois jours bien et dûment pendu.</l>
 	<l id="577">Pour un vol domestique on ne fait pas long gîte.</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 	<l id="578">On ne peut d’un voleur se défaire trop vite.</l>
 	<l id="579" part="i">Pendez, pendez.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="579" part="f">Crois-moi, de peur d’être étranglé,</l>
 	<l id="580">Rends-moi ce que ta femme et toi m’avez volé :</l>
 	<l id="581">Voilà neuf cens écus marqués en deux articles.</l>
 </sp>
-<sp who="ADRIENNE"><speaker>ADRIENNE.</speaker>
+<sp who="ADRIENNE"><hstage><speaker>ADRIENNE</speaker>.</hstage>
 	<l id="582" part="i">Volé ! Nous ?</l>
 </sp>
-<sp who="NICODEME"><speaker>NICODEME.</speaker>
+<sp who="NICODEME"><hstage><speaker>NICODEME</speaker>.</hstage>
 <note type="L">Besicles : On ne se sert de ce mot que dans le style burlesque. Il signife des lunettes appliquées au deux yeux. [F]</note>
 	<l id="582" part="f">Testedié, boutez mieux vos bésicles.</l>
 	<l id="583">Quand je suis échauffé, je sois pis qu’un Satan.</l>
@@ -1252,7 +1252,7 @@
 	<l id="594">Moi, la bourrique et lui je n’étions qu’une tête.</l>
 	<l id="595">Je n’avons pas toujours mangé notre pain sec.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="596">Jamais aucun fripon n’a manqué par le bec.</l>
 	<l id="597">Ne crois pas m’éblouir par de tels artifices.</l>
 	<l id="598">Ta femme, pour ses bons et louables services,</l>
@@ -1261,7 +1261,7 @@
 	<l id="600">Et je ne sais combien de pareils guenillons,</l>
 	<l id="601" part="i">Huit cents écus.</l>
 </sp>
-<sp who="ADRIENNE"><speaker>ADRIENNE.</speaker>
+<sp who="ADRIENNE"><hstage><speaker>ADRIENNE</speaker>.</hstage>
 	<l id="601" part="f">Eh si ! Si je n’étais honnête,</l>
 	<l id="602">Je vous dirais, Monsieur, que vous êtes bien bête ;</l>
 <note type="L">Butor : Gros oiseau, espèce de héron fainéant et poltron. On dit figurément d’un homme stupide et maladroit que c’est un butor. [F]</note>
@@ -1275,73 +1275,73 @@
 	<l id="610">Bon, vrament , c’est bien là les bêtes qu’elle charche !</l>
 	<l id="611">Les femmes de Paris en savont bien plus long.</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="612">Vous m’impatientez, ma sour. Répondez-donc.</l>
 	<l id="613">Tout parle en sa faveur, et tout vous est contraire.</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>.</hstage>
 	<l id="614">Plus, quatre louis d’or pour un « Laisse-tout-faire ».</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="615">Cela n’est point obscur et chacun l’entend bien :</l>
 	<l id="616">Quand on laisse tout faire on ne réserve rien.</l>
 	<l id="617">Mettez-vous en ma place. Est-ce à tort que je gronde ?</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 	<l id="618">Que ne l’ai-je étouffée en la mettant au monde !</l>
 	<l id="619">Je n’aurais pas l’affront de voir ce que je vois.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="620">Je ris de vous voir tous déchaînés contre moi.</l>
 	<l id="621" part="i">Vous me charmez.</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 	<l id="621" part="f">L’infâme ! Et toi, tu m’assassines.</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>.</hstage>
 	<l id="622">« Plus », pour une « effrontée », et pour deux « gourgandines »,</l>
 	<l id="623" part="i">Quinze louis.</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 	<l id="623" part="f">Comment ? Tu connais ces gens-là !</l>
 <note type="L">Gourgandine : Terme très familier. Femme de mauvaise vie, coureuse. Sorte d’habit de femme à la mode en 1694, qui consistait en un corset ouvert par devant et laissant voir la chemise. [L]</note>
 	<l id="624">Des « gourgandines » ! Ciel ! Quelle Peste voilà !</l>
 	<l id="625">Il n’est pas sur la terre une plus méchante âme.</l>
 	<l id="626">Le dangereux bétail qu’une pareille femme !</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>.</hstage>
 	<l id="627" part="i">« Plus » pour une « innocente », onze louis.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="627" part="f">Viens ça.</l>
 </sp>
-<sp who="NICOLE"><speaker>NICOLE.</speaker>
+<sp who="NICOLE"><hstage><speaker>NICOLE</speaker>.</hstage>
 	<l id="628" part="i">Qui ?</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="628" part="m">Toi.</l>
 </sp>
-<sp who="NICOLE"><speaker>NICOLE.</speaker>
+<sp who="NICOLE"><hstage><speaker>NICOLE</speaker>.</hstage>
 	<l id="628" part="f">Moi ? Je ne sais ce que c’est que tout çà.</l>
 	<l id="629">J’ai toujours vu Madame une bonne vivante.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE, à Monsieur Griffet.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>, à Monsieur Griffet.</hstage>
 	<l id="630">La preuve de son crime est assez convaincante.</l>
 	<l id="631">On lui dira le reste en temps et lieu. Suffit.</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET, à Madame Josse.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>, à Madame Josse.</hstage>
 	<l id="632">Qu’avez-vous à répondre à tout ce que j’ai dit ?</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="633">Que mes filles, Monsieur, ont dur elles les pièces,</l>
 	<l id="634">Que contient ce mémoire espèces par espèces.</l>
 	<l id="635">De me justifier je leur laisse le soin.</l>
 	<l id="636" part="i">Défendez mon honneur.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="636" part="f">Je crois qu’il est bien loin.</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="637">Ce qui dans cet écrit vous paraît des injures ,</l>
 	<l id="638">Sont des noms que l’on donne aux nouvelles parures.</l>
 	<l id="639">Une robe de chambre étalée amplement,</l>
@@ -1351,100 +1351,100 @@
 	<l id="643">Ce manteau de ma sour si bien épanoui,</l>
 	<l id="644" part="i">En est une.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="644" part="m">Cela est une « innocente » ?</l>
 </sp>
-<sp who="BABET"><speaker>BABET.</speaker>
+<sp who="BABET"><hstage><speaker>BABET</speaker>.</hstage>
 	<l id="644" part="f">Oui.</l>
 	<l id="645">Sont-ce là des sujets pour vous mettre en colère ?</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="646">Voilà la « culebute », et là le « Mousquetaire ».</l>
 </sp>
-<sp who="BABET"><speaker>BABET.</speaker>
+<sp who="BABET"><hstage><speaker>BABET</speaker>.</hstage>
 	<l id="647">Un beau noud de brillants dont le sein est saisi,</l>
 	<l id="648">S’appelle un « Boute-en-train », ou bien un « Tâtez-y »</l>
 	<l id="649">Et les habiles gens en étymologie,</l>
 	<l id="650">Trouvent que ces deux mots ont beaucoup d’énergie.</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="651">Une longue cornette, ainsi qu’on nous en voit,</l>
 	<l id="652">D’une dentelle fine, et d’environ un doigt,</l>
 	<l id="653">Est une « Jardinière » : et ces manches galantes</l>
 	<l id="654">Laissant voir de beaux bras ont le nom d’« engageantes ».</l>
 </sp>
-<sp who="BABET"><speaker>BABET.</speaker>
+<sp who="BABET"><hstage><speaker>BABET</speaker>.</hstage>
 	<l id="655">Ce qu’on nomme aujourd’hui « guêpes » et « papillons »,</l>
 	<l id="656">Ce sont les diamants du bout de nos poinçons ;</l>
 	<l id="657">Qui remuant toujours, et jetant mille flammes,</l>
 	<l id="658">Paraissent voltiger dans les cheveux des Dames.</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="659">L’homme le plus grossier et l’esprit le plus lourd</l>
 	<l id="660">Sait qu’un « Laisse-tout-faire » est un tablier fort court :</l>
 	<l id="661">J’en porte un par hasard qui sans aucune glose,</l>
 	<l id="662">Exprime de soi-même ingénument la chose.</l>
 </sp>
-<sp who="BABET"><speaker>BABET.</speaker>
+<sp who="BABET"><hstage><speaker>BABET</speaker>.</hstage>
 	<l id="663">La coiffure en arrière, et que l’on fait exprès</l>
 	<l id="664">Pour laisser de l’oreille entrevoir les attraits,</l>
 	<l id="665">Sentant la jeune folle, et la tête éventée,</l>
 	<l id="666">Est ce que par le monde on appelle « effrontée ».</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="667">Enfin, la « gourgandine » est un riche Corset,</l>
 	<l id="668">Entrouvert par devant à l’aide d’un lacet :</l>
 	<l id="669">Et comme il rend la taille et moins belle et moins fine,</l>
 	<l id="670">On a cru lui devoir le nom de « gourgandine ».</l>
 	<l id="671">Vous avez pris l’alarme avec trop de chaleur.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="672">À ce compte, mon mal n’était donc qu’une peur,</l>
 	<l id="673">Et mon front avait tort de croire son cas sale ?</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="674">Comment prétendez-vous réparer ce scandale ?</l>
 	<l id="675">Après un tel éclat je n’ai plus d’yeux pour vous,</l>
 	<l id="676">Et je vais tout permettre à mon juste courroux.</l>
 	<l id="677">Qui voulait me punir mérite un sort semblable.</l>
 </sp>
-<sp who="NICODEME"><speaker>NICODEME.</speaker>
+<sp who="NICODEME"><hstage><speaker>NICODEME</speaker>.</hstage>
 	<l id="678">Le moins qu’il puisse faire est amende honorable,</l>
 	<l id="679">Tête-nue, en chemise, avec la torche au poing:</l>
 	<l id="680">Madame fera bien de n’en démordre point.</l>
 	<l id="681">Vartidié ! Ce n’est pas une faute légère</l>
 	<l id="682">Que de prendre l’honneur à ceux qui n’en ont guère.</l>
 </sp>
-<sp who="ADRIENNE"><speaker>ADRIENNE.</speaker>
+<sp who="ADRIENNE"><hstage><speaker>ADRIENNE</speaker>.</hstage>
 	<l id="683">Je ne prétends pas, moi, qu’il soit quitte pour rien,</l>
 	<l id="684">D’avoir, ou peu s’en faut, fait une brèche au mien.</l>
 	<l id="685">On ne peut de l’honneur se montrer trop friande ;</l>
 	<l id="686">Et ce qu’il m’en a pris je veux qu’il me le rende.</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>.</hstage>
 	<l id="687" part="i">Je vous l’avais bien dit d’aller moins vite.</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 	<l id="687" part="f">Et quoi.</l>
 	<l id="688">Vous l’accusez à tort de vous manquer de foi !</l>
 	<l id="689">Cette brutalité n’est point du tout permise :</l>
 	<l id="690">Et dussai-je y manger jusques à ma chemise,</l>
 	<l id="691">Il ne sera point dit que je souffre cela.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="692">Que pouvais-je penser de ce mémoire-là ?</l>
 	<l id="693">« Tâtez-y », « Boute-en-train », « Culbute », « Engageantes »;</l>
 	<l id="694">Tout cela pour le front sont des armes parlantes ;</l>
 	<l id="695">Et je sens que le mien me démange toujours.</l>
 	<l id="696">Voilà de vilains noms pour de si beaux atours.</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="697" part="i">Il a raison.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="697" part="m">Lui ?</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="697" part="f">Lui. N’est-ce pas une honte</l>
 	<l id="698">De voir de la pudeur faire si peu de conte ?</l>
 	<l id="699">Donnez, puisqu’il vous plaît d’avoir ces ornements,</l>
@@ -1459,29 +1459,29 @@
 	<l id="706">Et qui risque ces mots, risque aisément le reste.</l>
 	<l id="707">Les cours bien situés font posés, retenus.....</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 	<l id="708">Franchement, ces mots-là sont un peu saugrenus.</l>
 	<l id="709">J’ai sué de frayeur de son « Laisse-tout-faire »,</l>
 	<l id="710">Et de la « Culbute » avec un « Mousquetaire »,</l>
 	<l id="711">En un mot, ce jargon n’est point édifiant.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="712">Monsieur le Commissaire, en vous remerciant :</l>
 <note type="L">Grippechairs : terme péjoratif pour recors, sergents et autres archers. </note>
 	<l id="713">Vous et vos Grippechairs vous pouvez disparaître,</l>
 	<l id="714">Puisque je ne suis pas ce que je croyais être.</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>.</hstage>
 	<l id="715">Comment ? N’est-ce pas vous qui m’avez employé ?...</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="716">Si j’eusse été cocu je vous aurais payé.</l>
 	<l id="717">De tout ce que j’ai fait vous êtes le complice.</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>.</hstage>
 	<l id="718" part="i">Moi ?</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="718" part="f">Vous. Si l’on faisait une exacte Police</l>
 	<l id="719">On ne souffrirait point tous ces vilains mots-là,</l>
 <note type="L">Hocca : Jeu qui vient de Catalogne. Il est composé de trente points marqués de suite sur une table et il se jour avec trente petites boules, dans chacun desquels on enferme un billet de parchemin où il y a un chiffre. Quand on joue, on remue ces boules dans un sac, on en tire une dont on fait sortir de billet, qu’on déplie aux yeux de tout le monde, pour voir ce qu’on perd, ou ce qu’on gagne. [F]</note>
@@ -1494,48 +1494,48 @@
 	<l id="725">« Gourgandine » à bon prix ; « Culbute » nouvelle.</l>
 	<l id="726" part="i">Quel abus!</l>
 </sp>
-<sp who="MONSIEUR GRIFFET"><speaker>MONSIEUR GRIFFET.</speaker>
+<sp who="MONSIEUR GRIFFET"><hstage><speaker>MONSIEUR GRIFFET</speaker>.</hstage>
 	<l id="726" part="f">Mon devoir en d’autres lieux m’appelle :</l>
 	<l id="727">Payez-moi, je vous prie, ou bientôt un exploit...</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="728" part="i">Satisfaites Monsieur, et qu’il s’en aille.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="728" part="f">Soit.</l>
 	<l id="729">J’en suis quitte à bon compte, et la peine est petite.</l>
 </sp>
-<sp who="NICODEME"><speaker>NICODEME.</speaker>
+<sp who="NICODEME"><hstage><speaker>NICODEME</speaker>.</hstage>
 	<l id="730">Oh palsandié nonfait, vous n’en êtes pas quitte.</l>
 	<l id="731">Si l’honneur de Madame a fait queuque faux pas ,</l>
 	<l id="732">J’avons notre cas net, si le sien ne l’est pas.</l>
 	<l id="733">La femme de cheuz-nous n’est point une « Engageante ».</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="734">Au lieu de vingt écus je t’en donnerai trente.</l>
 	<l id="735">C’est payer son honneur et le tien grassement.</l>
 </sp>
-<sp who="NICODEME"><speaker>NICODEME, à Adrienne.</speaker>
+<sp who="NICODEME"><hstage><speaker>NICODEME</speaker>, à Adrienne.</hstage>
 	<l id="736" part="i">Est-ce assez ?</l>
 </sp>
-<sp who="ADRIENNE"><speaker>ADRIENNE.</speaker>
+<sp who="ADRIENNE"><hstage><speaker>ADRIENNE</speaker>.</hstage>
 	<l id="736" part="f">Eh oui-da, c’est bien honnêtement.</l>
 	<l id="737">Les femmes d’aujourd’hui faisont bien voir aux hommes</l>
 	<l id="738">Que l’honneur n’est pas cher dans le temps où je sommes.</l>
 	<l id="739">Dix écus pour le mien c’est un prix assez haut.</l>
 </sp>
-<sp who="NICODEME"><speaker>NICODEME.</speaker>
+<sp who="NICODEME"><hstage><speaker>NICODEME</speaker>.</hstage>
 	<l id="740">Je crois, comme tu dis, que c’est tout ce qu’il vaut.</l>
 	<l id="741">Boutez-là votre main : je vous pardonne. Eh qu’est-ce ?</l>
 	<l id="742">Pour des mots de travers faut-il bouder sans cesse ?</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="743">Je me charge du soin de les rapatrier.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="744">Et l’affront qu’il m’a fait se peut-il oublier ?</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="745">Si me croire timbré c’est vous faire une offense,</l>
 	<l id="746">En faisant le péché, j’en ai fait pénitence :</l>
 	<l id="747">J’ai souffert comme un Diable. Eh, bon Dieu! Comment font</l>
@@ -1549,10 +1549,10 @@
 	<l id="755">Et le risque est moins grand, pour tout dire en un mot,</l>
 	<l id="756">D’être imprudent cent fois, que d’être une fois sot.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="757" part="i">L’êtes-vous ?</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="757" part="f">S’il est vrai ce qu’on me fait connaître</l>
 	<l id="758">Non, je ne le suis pas, mais je croyais bien l’être :</l>
 	<l id="759">Et sur une apparence égale à celle-ci,</l>
@@ -1561,11 +1561,11 @@
 	<l id="762">Et que la plus suivie est d’être époux commode ;</l>
 	<l id="763" part="i">Oublions toute chose. Y consentez-vous?</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="763" part="f">Non.</l>
 	<l id="764" part="i">Je ne veux plus vous voir.</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 <note type="L">Guenon : On appelle aussi guenon, une femme vieille, ou laide, quand on lui veut dire quelque injure. Il est bas. [F]</note>
 	<l id="764" part="f">Moi, je le veux, Guenon,</l>
 	<l id="765">Ce serait un ménage assez beau que le vôtre,</l>
@@ -1574,11 +1574,11 @@
 	<l id="768">Une femme obéisse en tout temps, jour et nuit.</l>
 	<l id="769">Ce n’est point à la poule à tant lever la crête.</l>
 </sp>
-<sp who="ADRIENNE"><speaker>ADRIENNE.</speaker>
+<sp who="ADRIENNE"><hstage><speaker>ADRIENNE</speaker>.</hstage>
 	<l id="770">À tout ce qu’il lui plaît le mien.me trouve prête.</l>
 	<l id="771" part="i">Demandez-lui plutôt si je mens.</l>
 </sp>
-<sp who="NICODEME"><speaker>NICODEME.</speaker>
+<sp who="NICODEME"><hstage><speaker>NICODEME</speaker>.</hstage>
 	<l id="771" part="f">Pardié non</l>
 	<l id="772">Parmi bien du méchant elle a cela de bon,</l>
 	<l id="773">Que lorsqu’il faut m’aider à de certains ouvrages</l>
@@ -1588,7 +1588,7 @@
 	<l id="776">Aussi, vivons-je heureux comme de petits Rois.</l>
 	<l id="777">La paix est d’un logis la pièce la plus bonne.</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="778">Profitez des leçons qu’un Jardinier vous donne.</l>
 	<l id="779">À vivre bien ensemble appliquez votre soin.</l>
 	<l id="780">Votre sotte querelle est allée assez loin.</l>
@@ -1600,14 +1600,14 @@
 	<l id="786">Et qui mènent l’’esprit à de sales pensées.</l>
 	<l id="787">Chez tous les gens d’honneur ces mots sont interdits.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="788">Je voudrais bien savoir quels vilains mots je dis.</l>
 </sp>
-<sp who="MONSIEUR BRICE"><speaker>MONSIEUR BRICE.</speaker>
+<sp who="MONSIEUR BRICE"><hstage><speaker>MONSIEUR BRICE</speaker>.</hstage>
 	<l id="789">Lisez votre mémoire ; on ne voit rien de pire,</l>
 	<l id="790" part="i">Lisez.</l>
 </sp>
-<sp who="MADAME JOSSE"><speaker>MADAME JOSSE.</speaker>
+<sp who="MADAME JOSSE"><hstage><speaker>MADAME JOSSE</speaker>.</hstage>
 	<l id="790" part="f">Hé bien, mon frère, il ne faut plus les dire ;</l>
 	<l id="791">J’ai cru de nos bijoux pouvoir mettre les noms,</l>
 	<l id="792">Sans attirer sur moi de si cruels affronts.</l>
@@ -1615,22 +1615,22 @@
 	<l id="794">J’y renonce à jamais, loin que je les affecte.</l>
 	<l id="795">Je n’ai pas eu dessein de le mettre en courroux.</l>
 </sp>
-<sp who="NANNETTE"><speaker>NANNETTE.</speaker>
+<sp who="NANNETTE"><hstage><speaker>NANNETTE</speaker>.</hstage>
 	<l id="796">Si vous y renoncez, j’en fais autant que vous.</l>
 </sp>
-<sp who="BABET"><speaker>BABET.</speaker>
+<sp who="BABET"><hstage><speaker>BABET</speaker>.</hstage>
 	<l id="797">Pour les dire jamais, j’ai trop peur qu’on me gronde.</l>
 </sp>
-<sp who="MONSIEUR JOSSE"><speaker>MONSIEUR JOSSE.</speaker>
+<sp who="MONSIEUR JOSSE"><hstage><speaker>MONSIEUR JOSSE</speaker>.</hstage>
 	<l id="798">Fort bien. Nous voilà tous les plus contents du monde.</l>
 <stage>À ses filles.</stage>
 	<l id="799">Je ne suis pas ingrat à qui me fait plaisir :</l>
 	<l id="800">Choisissez des époux selon votre désir.</l>
 </sp>
-<sp who="MADAME BRICE"><speaker>MADAME BRICE.</speaker>
+<sp who="MADAME BRICE"><hstage><speaker>MADAME BRICE</speaker>.</hstage>
 	<l id="801">Allons nous ébaudir, et dîner tous ensemble.</l>
 </sp>
-<sp who="NICODEME"><speaker>NICODEME, aux Auditeurs.</speaker>
+<sp who="NICODEME"><hstage><speaker>NICODEME</speaker>, aux Auditeurs.</hstage>
 	<l id="802">Et vous, allez souper, Messieurs, si bon vous semble.</l>
 	<l id="803">Comme en chemin faisant vous trouvez quelquefois</l>
 	<l id="804">D’impertinents parleurs et de nobles bourgeois,</l>

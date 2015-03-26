@@ -53,7 +53,7 @@
 <body>
 <div1 type="acte" n="1"><head>PASTORALE EN UN ACTE.</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="DAPHNIS"><speaker>DAPHNIS, seul.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>, seul.</hstage>
 	<l id="1">Ô Liberté ! douce chimère !</l>
 	<l id="2">Flatteuse illusion du cœur,</l>
 	<l id="3">Tu séduis sans nous être chère,</l>
@@ -72,19 +72,19 @@
 	<l id="16">Ne doive qu’à moi son réveil.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Daphnis, Bobielle.</head>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Daphnis, Bobielle.</cast>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="1">
 	<s id="1">Bonjour, beau Daphnis.</s>
 </p>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>.</hstage>
 <p id="2">
 	<s id="1">Ah la bonne mère !</s>
 	<s id="2">Que j’ai de plaisir à vous voir ; vous avez eu tant de bonté pour moi depuis mon enfance, vous prendrez part à mon chagrin.</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="3">
 	<s id="1">Qu’est-ce donc ?...</s>
 	<s id="2">Quoi, du chagrin...</s>
@@ -93,56 +93,56 @@
 	<s id="5">Conte moi vite cela.</s>
 </p>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>.</hstage>
 <p id="4">
 	<s id="1">Comment n’en aurai-je pas, Bobielle ; j’adore un objet charmant...</s>
 	<s id="2">Je ne suis occupé que du désir de lui plaire, et je ne suis point aimé !</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Je ne puis me persuader cela...</s>
 	<s id="2">Tu es beau, jeune, bien fait, amoureux ; va, j’ai une expérience de soixante et dix ans ; et après avoir tant vu qu’il suffit d’une seule de ces choses pour tourner la tête d’une femme, juge si je croirai qu’un cœur résiste à qui réunit tout.</s>
 </p>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>.</hstage>
 <p id="6">
 	<s id="1">Ah !</s>
 	<s id="2">Je suis bien sûr de mon infortune...</s>
 	<s id="3">La bergère que j’aime...</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="7">
 	<s id="1">Achève...</s>
 </p>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>.</hstage>
 <p id="8">
 	<s id="1">M’a condamné au silence le plus rigoureux...</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="9">
 	<s id="1">Tu as donc parlé ?</s>
 </p>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>.</hstage>
 <p id="10">
 	<s id="1">Sans doute.</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="11">
 	<s id="1">Tant mieux !</s>
 </p>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>.</hstage>
 <p id="12">
 	<s id="1">Comment tant mieux ?</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="13">
 	<s id="1">Eh oui...</s>
 	<s id="2">Je vois que tu n’es encore qu’un enfant...</s>
@@ -150,84 +150,84 @@
 	<s id="3">On ne force à se taire que les gens à qui l’on craint de répondre.</s>
 </p>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>.</hstage>
 <p id="14">
 	<s id="1">Vous me rendez l’espoir...</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="15">
 	<s id="1">Eh !</s>
 	<s id="2">Quelle est cette bergère charmante ?...</s>
 </p>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>.</hstage>
 <p id="17">
 	<s id="1">Y en a-t-il deux comme Hortense !</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="18">
 	<s id="1">Non sans doute, et ton choix est une preuve de ton bon goût...</s>
 	<s id="2">Mais voici Alain ; il est tout essoufflé...</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Bobielle, Daphnis, Alain.</head>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Bobielle, Daphnis, Alain.</cast>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="1">
 	<s id="1">J’ons tant couru.</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="2">
 	<s id="1">C’était donc bien pressé ?</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="3">
 	<s id="1">Ventregué comme l’amour vous remue les jambes d’un homme.</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Tu es amoureux.</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="5">
 	<s id="1">Je vous en réponds ; mais ai-je tort da ?...</s>
 	<s id="2">J’sis l’plus riche habitant de ce canton, j’pouvons faire la fortune d’une bergère...</s>
 	<s id="3">J’nons que cinquante ans, et c’est le bel âge pour s’ marier...</s>
 </p>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>.</hstage>
 <p id="6">
 	<s id="1">Oui, mais pour plaire ?...</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="7">
 	<s id="1">Oh !</s>
 	<s id="2">Je plairai ; j’n’sis pas si bête que j’en ai ben l’air ; tenez j’ons de p’tites manigances toutes gentilles ; j’savons par-ci par-là d’p’tites drôleries qui n’pouvont manquer de réussir.</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="8">
 	<s id="1">Tu n’en fais pas souvent usage, n’est-il pas vrai ?</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="9">
 	<s id="1">Non, pardine, j’les gard’ pour l’occasion.</s>
 </p>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>.</hstage>
 <p id="10">
 	<s id="1">Pourrait-t on savoir le nom de...</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="11">
 	<s id="1">J’ n’en fesons pas mystère, acoutez-moi j’vas vous conter çà.</s>
 </p>
@@ -250,28 +250,28 @@
 	<l id="33">La raison n’est plus raisonnable,</l>
 	<l id="34">Et l’amour se r’ niche en mon cœur.</l>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS à Bobielle.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker> à Bobielle.</hstage>
 <p id="12">
 	<s id="1">Il ose aimer Hortense.</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE, à Alain.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>, à Alain.</hstage>
 <p id="13">
 	<s id="1">Mais selon ce que tu dis toi-même, il me semble que tu n’es pas aimé ?</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="14">
 	<s id="1">Non pas tout-à fait, mais cela viendra ; d’abord mamsell’ Hortense m’écoute, all’ rit quand j’lui parle, puis all’ dit qu’all’ ne m’aimera jamais...</s>
 	<s id="2">All’ ment la petite friponne, car j’ suis ben sûr que dans l’fond de son cœur, il y a queuque petit’ chose qui parle pour moi...</s>
 </p>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>.</hstage>
 <p id="15">
 	<s id="1">Pour toi ?...</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="16">
 	<s id="1">Oui pour moi...</s>
 	<s id="2">Ne crois-tu pas que c’est toi qu’all’ aime ?...</s>
@@ -279,12 +279,12 @@
 	<s id="4">J’ai du comptant et tu n’en as pas...</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="17">
 	<s id="1">Il a une bien jolie figure !</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="18">
 	<s id="1">V’la une belle avance ; on ne peut, avec une jolie figure donner qu’un plaisir, celui de la faire voir...</s>
 	<s id="2">Au lieu qu’avec des écus, on se les procure tous...</s>
@@ -292,18 +292,18 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Bobielle, Daphnis, ensuite Hortense.</head>
-<sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Bobielle, Daphnis, ensuite Hortense.</cast>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>.</hstage>
 <p id="1">
 	<s id="1">Les plaisirs les plus vrais, ne sont pas ceux qu’on peut acheter...</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Non sans doute.</s>
 </p>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS, mettant la main sur son cœur.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>, mettant la main sur son cœur.</hstage>
 <p id="3">
 	<s id="1">Je le sais bien, il faut qu’ils partent de là...</s>
 </p>
@@ -320,98 +320,98 @@
 	<s id="3">Le cœur me bat.</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Tu trembles !</s>
 	<s id="2">Eh fi !</s>
 	<s id="3">La timidité sied bien en amour ; mais poussée à l’excès elle devient sottise.</s>
 </p>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>.</hstage>
 <p id="6">
 	<s id="1">Ah !</s>
 	<s id="2">Bobielle, quand on aime, on n’est pas plus maître des sensations qu’on éprouve, que des sentiments dont on est pénétré.</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE, à Bobielle.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>, à Bobielle.</hstage>
 <p id="7">
 	<s id="1">Ah !</s>
 	<s id="2">Vous voilà ?</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="8">
 	<s id="1">Bonjour, charmante Hortense, que venez vous faire ici ?</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <stage>Elle lève les yeux sur Daphnis, rencontre son regard, et les baisse aussitôt, puis montre le vase...</stage>
 <p id="9">
 	<s id="1">Voir ce Rosier dont j’aime à contempler la fleur ; je l’arrose ; j’en prends soin...</s>
 	<s id="2">Voyez qu’elle est belle et fraîche.</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="10">
 	<s id="1">Comme vous.</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="11">
 	<s id="1">La belle couleur !</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="12">
 	<s id="1">Celle qui vient de se répandre sur vos joues.</s>
 </p>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS, à part.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>, à part.</hstage>
 <p id="13">
 	<s id="1">Me regarde-t-elle seulement ?</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="14">
 	<s id="1">Alain vient de nous quitter...</s>
 	<s id="2">Ah !</s>
 	<s id="3">Comme cet homme désire de vous plaire !</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="15">
 	<s id="1">Ah !</s>
 	<s id="2">Que la peine qu’il prend est inutile.</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE, bas à Daphnis.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>, bas à Daphnis.</hstage>
 <p id="16">
 	<s id="1">Tu l’entends.</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="17">
 	<s id="1">Il croit séduire mon cœur par l’offre de ses richesses, mais je les méprise ; elles n’apportent que souci, inquiétude...</s>
 	<s id="2">On n’enferme pas le bonheur dans une cassette.</s>
 </p>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS, avec feu.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>, avec feu.</hstage>
 <p id="18">
 	<s id="1">Non sûrement, le vrai bonheur est de s’aimer...</s>
 	<s id="2">Hortense je n’ai qu’un cœur à vous offrir ; mais ce cœur peut vous rendre heureuse ; il est devenu meilleur, depuis que votre image s’y est gravée ; il vous chérit, il vous adore.</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE, avec embarras.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>, avec embarras.</hstage>
 <p id="19">
 	<s id="1">Je vous avais prié, Daphnis, de m’épargner vos aveux ; je vous remercie de vos sentiments, mais je ne puis les partager, ni ne dois les entendre.</s>
 </p>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS, bas à Bobielle.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>, bas à Bobielle.</hstage>
 <p id="20">
 	<s id="1">Vous voyez !...</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="21">
 	<s id="1">Retire-toi, mon fils, en respectant les volontés d’Hortense ; tu lui prouveras combien elle a d’empire sur toi...</s>
 	<s id="2">Je te suis...</s>
@@ -420,7 +420,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="1">
 	<s id="1">Il s’en va !...</s>
 	<s id="2">Ah !</s>
@@ -456,29 +456,29 @@
 	<l id="56">Et pour toujours à l’amour je renonce.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Hortense, Alain, portant une cage dans laquelle est un oiseau.</head>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Hortense, Alain, portant une cage dans laquelle est un oiseau.</cast>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="1">
 	<s id="1">Mamsell’ Hortense j’ vous salue.</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Bonjour Alain, que portes-tu là ?</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="3">
 	<s id="1">C’est un petit oiseau pour vous Mamselle...</s>
 	<s id="2">Je l’ons déniché tout exprès.</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Qu’il est joli : je te remercie : oh je le garderai !</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="5">
 	<s id="1">Attendez, je vais le sortir de sa cage, vous le verrez mieux.</s>
 	<s id="2">Il veut prendre l’oiseau qui lui échappe.</s>
@@ -490,17 +490,17 @@
 	<s id="2">Petit... petit... piou.. piou.</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE, riant.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>, riant.</hstage>
 <p id="7">
 	<s id="1">Il viendra se remettre en cage, n’en doutez pas.</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="8">
 	<s id="1">Que j’ sis malheureux !</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="9">
 	<s id="1">Et lui bien content d’avoir recouvré sa liberté...</s>
 </p>
@@ -510,68 +510,68 @@
 	<s id="2">Je ne m’engagerai jamais.</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="11">
 	<s id="1">Que dites vous ?</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="12">
 	<s id="1">Qu’il ne faut pas offrir ce que nous ne sommes pas sûr de conserver à celle à qui nous le présentons.</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="13">
 	<s id="1">Oh j’en rattraperai ben un autre !</s>
 	<s id="2">Et qui ne m’échappera pas comme celui-ci...</s>
 	<s id="3">Puis j’ai ben une pus meilleure chose à vous offrir, et qui ne s’envolera pas non plus...</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="14">
 	<s id="1">Eh !</s>
 	<s id="2">Quoi donc ?</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="15">
 	<s id="1">Mon... cœur.</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE riant.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker> riant.</hstage>
 <p id="16">
 	<s id="1">Bon, c’est l’oiseau dont on peut le moins répondre...</s>
 	<s id="2">D’ailleurs je vous l’ai déjà dit cent fois ; je ne veux point recevoir un pareil hommage.</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="17">
 	<s id="1">Vous ne rejetez pas ainsi celui de Daphnis.</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="18">
 	<s id="1">Oh également !</s>
 	<s id="2">Quoiqu’il eût peut-être plus de droit à me plaire.</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="19">
 	<s id="1">Et vous dites cela à un rival ; à Alain ?</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="20">
 	<s id="1">Eh !</s>
 	<s id="2">Pourquoi pas lorsqu’on n’est pas plus disposée à écouter Alain que Daphnis ; c’est pour tousdeux une consolation.</s>
 </p>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS, paraît au fond du Théâtre, et va se cacher derrière la Statue de l’Amour.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>, paraît au fond du Théâtre, et va se cacher derrière la Statue de l’Amour.</hstage>
 <p id="21">
 	<s id="1">Hortense avec Alain ; écoutons-les.</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="22">
 	<s id="1">Je prétends rester libre ; je veux être heureuse ; et pour y parvenir, j’appelle l’indifférence à mon secours.</s>
 </p>
@@ -580,19 +580,19 @@
 	<l id="59">L’esprit est gai, quand le cœur fait silence,</l>
 	<l id="60">Mais chante-t-on en poussant des soupirs.</l>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS, caché.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>, caché.</hstage>
 	<l id="61">Qui peut jamais croire à l’indifférence,</l>
 	<l id="62">C’est un fantôme auquel tu tends les bras ;</l>
 	<l id="63">Auprès de toi jeune et charmante Hortense,</l>
 	<l id="64">On sent trop bien qu’elle n’existe pas.</l>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="23">
 	<s id="1">Eh quoi !</s>
 	<s id="2">Ces sons partent de cette statue.</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="24">
 	<s id="1">Oh que nannin !</s>
 	<s id="2">Je gage...</s>
@@ -603,43 +603,43 @@
 	<s id="1">N’avais-je pas raison... c’est...</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="26">
 	<s id="1">Qui que ce soit...</s>
 	<s id="2">Je ne veux plus rien entendre.</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="27">
 	<s id="1">Mais, Mamselle.</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="28">
 	<s id="1">Laisse moi.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Bobielle, Alain.</head>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Bobielle, Alain.</cast>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="1">
 	<s id="1">Ce biau Monsieur...</s>
 	<s id="2">Qu’est-ce qu’il venait faire là...</s>
 	<s id="3">Ventregué, il me la paiera ; je cours le charcher...</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Alain...</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="3">
 	<s id="1">Tout astheure ; j’ons à présent des affaires...</s>
 </p>
 <stage>Il sort.</stage>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE riant.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker> riant.</hstage>
 <p id="4">
 	<s id="1">Hortense l’aura sans doute mal reçu...</s>
 	<s id="2">Il a de l’humeur...</s>
@@ -654,81 +654,81 @@
 </p>
 <stage>Bobielle cueille la rose sans qu’Alain s’en aperçoive.</stage>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="5">
 	<s id="1">Oui...</s>
 	<s id="2">Je n’ons pu trouver celui avec qui j’ voulions nous battre...</s>
 	<s id="3">Rien ne me réussit aujourd’hui...</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="6">
 	<s id="1">C’est malheureux... et le pis serait qu’à la fin Hortense préférât Daphnis à toi.</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="7">
 	<s id="1">Je ne sis pas encore ben sûr du oui, ni du non.</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE lui montrant le vase à droite.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker> lui montrant le vase à droite.</hstage>
 <p id="8">
 	<s id="1">Pour savoir à quoi t’en tenir, tu devrais consulter ce vase magique.</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="9">
 	<s id="1">Quoi !</s>
 	<s id="2">Ce vase !...</s>
 	<s id="3">Allons vous voulez rire.</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="10">
 	<s id="1">Non, non.</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="11">
 	<s id="1">Ce vase est sorcier !</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="12">
 	<s id="1">Tu habites depuis longtemps ici, et tu ne connais pas les propriétés de ce vase ?</s>
 	<s id="2">Tu n’as donc jamais été amoureux !</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="13">
 	<s id="1">Quand je le deviendrai une autre fois, et celle-ci, ça f’ra deux...</s>
 	<s id="2">Contez-moi, contez-moi donc.</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="14">
 	<s id="1">Lorsqu’un amant veut savoir s’il est aimé de sa bergère, il s’approche, interroge, puis souffle dans le vase.</s>
 	<s id="2">Si l’on répond à son ardeur, il s’en exhale une odeur agréable ; si l’on rejette ses feux, il s’en élève une fumée noire.</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="15">
 	<s id="1">Je vais lui parler.</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE l’arrêtant.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker> l’arrêtant.</hstage>
 <p id="16">
 	<s id="1">Il n’est pas d’humeur de répondre à toutes les heures ; je t’avertirai quand il sera temps.</s>
 	<s id="2">Va m’attendre de ce côté...</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="17">
 	<s id="1">Ne me faites pas attendre longtemps...</s>
 </p>
 <stage>Il sort.</stage>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="18">
 	<s id="1">Non, non...</s>
 	<s id="2">Sa crédulité me donne les moyens de l’attraper...</s>
@@ -741,7 +741,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII.</head>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <stage>Elle arrive lentement, s’appuie sur le piédestal de la Statue, puis va à la fontaine chercher de l’eau pour arroser le vase.</stage>
 <p id="1">
 	<s id="1">Je n’ai point arrosé la plante que je cultive.</s>
@@ -774,52 +774,52 @@
 	<l id="80">Ne plus vous voir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Hortense, Daphnis, Bobielle.</head>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>Hortense, Daphnis, Bobielle.</cast>
 <stage>Ils restent au fond du théâtre.</stage>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="1">
 	<s id="1">C’en est fait, je m’éloigne de ce bosquet pour n’y plus revenir.</s>
 </p>
 <stage>Elle sort lentement les yeux baissés.</stage>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>.</hstage>
 <p id="2">
 	<s id="1">Ah, Bobielle !</s>
 	<s id="2">Elle ne reviendra plus !...</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="3">
 	<s id="1">Que tu connais mal les femmes ; elle ne tardera pas à reparaître, sois en certain ; elle ta vu ici deux fois...</s>
 	<s id="2">Son cœur l’y ramènera malgré elle, et le rosier ne sera qu’un prétexte ou qu’une excuse pour se dissimuler à elle-même, que c’est toi qu’elle cherche...</s>
 </p>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS, montrant une corbeille qu’il porte.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>, montrant une corbeille qu’il porte.</hstage>
 <p id="4">
 	<s id="1">Voilà les rosiers que vous m’aviez dit d’apporter ; je les ai pris chargés de fleurs.</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="5">
 	<s id="1">C’est bien : arraches celui d’Hortense ; et que les tiens le remplacent ; moi je vais préparer le vase dans lequel Alain doit lire son sort.</s>
 </p>
 <stage>Bobielle va jeter dans le vase quelque chose qu’elle porte dans son tablier.</stage>
 <stage>Daphnis va arracher le rosier.</stage>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>.</hstage>
 <p id="6">
 	<s id="1">Beau rosier, si je vous ôte de ce lieu, ce sera pour vous rapprocher de ma demeure ; et Hortense qui vous a fait croître, aura le doux plaisir de vous y voir porter de nouvelles roses dans la saison.</s>
 </p>
 <stage>Il plante ses rosiers.</stage>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="7">
 	<s id="1">J’entends quelqu’un...</s>
 	<s id="2">C’est Hortense, ne te l’avais je pas dit.</s>
 </p>
 <stage>Daphnis se cache derrière le vase ; Bobielle se met devant pour cacher à Hortense le vase et les roses.</stage>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="8">
 	<s id="1">Je ne puis quitter ces lieux ; un charme secret m’y attache, un pouvoir impérieux m’y ramène...</s>
 	<s id="2">Tant il est vrai que ce qui nous rappelle les plaisirs que nous avons perdus, en nourrissant notre douleur, la rend cependant plus douce...</s>
@@ -833,54 +833,54 @@
 	<s id="3">On m’a privé de tous mes plaisirs...</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="10">
 	<s id="1">Si je pouvais vous consoler...</s>
 	<s id="2">L’amitié n’est jamais plus doucement occupée que lorsqu’elle soulage les peines...</s>
 	<s id="3">Dès demain, je veux que vous ayiez de nouveaux rosiers, que je vous ferai porter par Daphnis...</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="11">
 	<s id="1">Daphnis, je ne veux jamais le voir.</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="12">
 	<s id="1">Eh pourquoi ?</s>
 	<s id="2">N’est-il pas sage, doux, soumis ?</s>
 	<s id="3">Jamais bergère n’aura de serviteur plus fidèle.</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="13">
 	<s id="1">Fidèle !</s>
 </p>
 <stage>Elle soupire.</stage>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="14">
 	<s id="1">Sans doute.</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="15">
 	<s id="1">Ne m’exposez pas à m’entendre répéter qu’il m’aime...</s>
 	<s id="2">Ses sentiments que mon cœur ne peut récompenser feraient son malheur !...</s>
 	<s id="3">Et je ne veux pas qu’il ait à me le reprocher.</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="16">
 	<s id="1">Il se taira.</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="17">
 	<s id="1">Ses yeux parleront.</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="18">
 	<s id="1">Mais pourquoi vous refuser à son amour...</s>
 </p>
@@ -889,76 +889,76 @@
 	<s id="1">Peut-être vous en aimez un autre ?</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE avec dépit.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker> avec dépit.</hstage>
 <p id="20">
 	<s id="1">Oh, je n’aime rien...</s>
 	<s id="2">Mais puisque la perte d’une rose m’afflige, jugez de mes chagrins, si j’avais à gémir de l’inconstance de mon amant.</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="21">
 	<s id="1">De Daphnis...</s>
 	<s id="2">N’est-il pas vrai...</s>
 	<s id="3">Votre silence me répond ; mais dissipez vos alarmes, Daphnis n’a point un cœur volage.</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE, d’un air piqué.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>, d’un air piqué.</hstage>
 <p id="22">
 	<s id="1">Comme vous assurez cela !</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 	<l id="81">Daphnis est un amant parfait.</l>
 	<l id="82" part="i">Il faut l’aimer !</l>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 	<l id="82" part="f">Que dois-je dire !</l>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 	<l id="83" part="i">Vous soupirez !...</l>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 	<l id="83" part="f">Oui, je soupire ;</l>
 	<l id="84">Pourquoi vouloir m’arracher mon secret ?</l>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 	<l id="85">Parlez, parlez, charmante Hortense.</l>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 	<l id="86" part="i">Qu’exigez-vous ?...</l>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 	<l id="86" part="f">La confiance</l>
 	<l id="87">De l’amitié sans doute est le prix le plus doux.</l>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 	<l id="88">Qu’exigez-vous ?</l>
 	<l id="89">Laissez-moi garder le silence.</l>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 	<l id="90">Votre refus est fait pour m’affliger.</l>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 	<l id="91">Je ne veux pas vous affliger.</l>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 	<l id="92">Daphnis ne peut jamais changer.</l>
 	<l id="93">Que votre cœur sur sa foi se repose,</l>
 	<l id="94">Formez les plus belles amours !</l>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 	<l id="95">Laissons, laissons de tels discours.</l>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 	<l id="96">Eh bien ! ne songeons qu’à la rose,</l>
 	<l id="97">Sur ce rosier jetez les yeux,</l>
 	<l id="98" part="i">Regardez-le...</l>
 <stage>Daphnis sort de derrière le vase, tenant à la main la rose qu’il a cueillie, et tombe aux genoux d’Hortense.</stage>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 	<l id="98" part="f">Que vois-je ! ô Dieux !</l>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>.</hstage>
 <p id="23">
 	<s id="1">Pardonnez-moi, Bergère, une ruse innocente, vous méprisez les plaisirs de l’amour !...</s>
 	<s id="2">Ah !</s>
@@ -968,27 +968,27 @@
 	<l id="100">Mon cœur est fidèle et sincère ;</l>
 	<l id="101">Il ne pourra jamais changer.</l>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 	<l id="102">Est-il sûr de ne pas changer ?</l>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 	<l id="103">Cessez, cessez de l’affliger.</l>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 	<l id="104">Ah ! Votre cœur est-il sincère ?</l>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="24">
 	<s id="1">Belle Hortense, vous n’avez rien à craindre, l’amour le plus durable est toujours fondé sur l’estime.</s>
 </p>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>.</hstage>
 <p id="25">
 	<s id="1">Jamais le cœur qu’anime un tel amour, n’est infidèle à la vertu.</s>
 </p>
 <stage>Hortense prend la rose que lui offre Daphnis et se jette dans les bras de Bobielle.</stage>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="26">
 	<s id="1">Ah, Daphnis !</s>
 	<s id="2">Ah, ma bonne amie !</s>
@@ -996,8 +996,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Les Acteurs précédens, Alain.</head>
-<sp who="ALAIN"><speaker>ALAIN à Bobielle.</speaker>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><cast>Les Acteurs précédens, Alain.</cast>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker> à Bobielle.</hstage>
 <p id="1">
 	<s id="1">Que diable !</s>
 	<s id="2">Je pouvais bien vous attendre !...</s>
@@ -1007,12 +1007,12 @@
 	<s id="6">Répondez sans barguigner, car je sommes pressés de savoir...</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Que fait donc, Alain ?</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="3">
 	<s id="1">Je lui ai fait accroire que ce vase lui apprendrait s’il est aimé de vous...</s>
 </p>
@@ -1021,7 +1021,7 @@
 	<s id="1">Soufflez donc.</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="5">
 	<s id="1">À propos, je l’avais oublié !</s>
 </p>
@@ -1033,48 +1033,48 @@
 	<l id="106">Quelle fumée !</l>
 	<l id="107">All’ a pensé presqu’ m’étouffer.</l>
 </sp>
-<sp who="LES AUTRES SAUF ALAIN"><speaker>LES AUTRES.</speaker>
+<sp who="LES AUTRES SAUF ALAIN"><hstage><speaker>LES AUTRES</speaker>.</hstage>
 	<l id="108">Voyez sa figure enfumée,</l>
 	<l id="109">Ah ! le rire va m’étouffer ;</l>
 	<l id="110">Il est tout noir, va te cacher.</l>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 	<l id="111">Eh quoi ! je vous sers de risée,</l>
 	<l id="112">Le vilain tour !</l>
 	<l id="113">Ah ! J’ons la fac’ tout’ barbouillée.</l>
 </sp>
-<sp who="LES AUTRES SAUF ALAIN"><speaker>LES AUTRES.</speaker>
+<sp who="LES AUTRES SAUF ALAIN"><hstage><speaker>LES AUTRES</speaker>.</hstage>
 	<l id="114">Voilà ce qu’on gagne en amour.</l>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 	<l id="115">Hélas ! gardez tous le silence,</l>
 	<l id="116">Sur l’aventure de ce jour,</l>
 	<l id="117">On se rirait de moi, je pense.</l>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 	<l id="118">Tu n’étais pas fait pour Hortense.</l>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>.</hstage>
 	<l id="119">L’Amour va me donner Hortense,</l>
 	<l id="120">Quel heureux jour !</l>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 	<l id="121">Pour mon cœur il n’est plus de peines,</l>
 	<l id="122">Daphnis aura toute ma foi.</l>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>.</hstage>
 	<l id="123">Je vais par d’éternelles chaînes,</l>
 	<l id="124">M’unir à toi.</l>
 	<l id="125">Pour nos cœurs il n’est plus de peines !</l>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 	<l id="126">Alain me fait plaisir à voir !</l>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 	<l id="127">J’ons donné dans le pot au noir.</l>
 <stage>Il sort pour se débarbouiller.</stage>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker>.</hstage>
 	<l id="128">Être de toi toujours chérie,</l>
 	<l id="129">Sera pour moi le vrai bonheur,</l>
 	<l id="130">Ah ! si j’en dois croire mon cœur,</l>
@@ -1082,32 +1082,32 @@
 	<l id="132">Est le jour où l’on se marie.</l>
 <stage>Alain rentre.</stage>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS à Hortense.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker> à Hortense.</hstage>
 <p id="7">
 	<s id="1">Vous consentez à mon bonheur !...</s>
 	<s id="2">Ah !</s>
 	<s id="3">Bobielle, que j’ai de grâces à vous rendre ; sans vous j’allais mourir de douleur.</s>
 </p>
 </sp>
-<sp who="HORTENSE"><speaker>HORTENSE.</speaker>
+<sp who="HORTENSE"><hstage><speaker>HORTENSE</speaker>.</hstage>
 <p id="8">
 	<s id="1">Nous lui devons tous les deux beaucoup de reconnaissance.</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="9">
 	<s id="1">V’là donc qu’est tout dit pour moi...</s>
 	<s id="2">Ah ça !</s>
 	<s id="3">La vieille mère, faut-il que je vous remarcie aussi ?</s>
 </p>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>.</hstage>
 <p id="10">
 	<s id="1">Pourquoi pas, si tu es guéri de ton amour...</s>
 	<s id="2">C’est devenir sage à bon marché.</s>
 </p>
 </sp>
-<sp who="ALAIN"><speaker>ALAIN.</speaker>
+<sp who="ALAIN"><hstage><speaker>ALAIN</speaker>.</hstage>
 <p id="11">
 	<s id="1">Allons donc, Daphnis, point de rancune ; nous aimions tous deux Mamselle Hortense, c’était tout simple...</s>
 	<s id="2">Je n’ons pas pû lui plaire, all’ t’a préféré à moi, v’la qu’est bien...</s>
@@ -1122,14 +1122,14 @@
 	<l id="138">Tous deux disent dans leur langage,</l>
 	<l id="139">J’ons donné dans le pot au noir.</l>
 </sp>
-<sp who="DAPHNIS"><speaker>DAPHNIS et HORTENSE.</speaker>
+<sp who="DAPHNIS"><hstage><speaker>DAPHNIS</speaker> et <speaker>HORTENSE</speaker>.</hstage>
 	<l id="140">Dans notre cœur, tendre amour tu reposes,</l>
 	<l id="141">Daphnis m’adore, et mon sort est bien doux,</l>
 	<l id="142">Je la possède, et mon sort est bien doux,</l>
 	<l id="143">C’est aux amants qui s’aiment comme nous,</l>
 	<l id="144">Qu’hymen offre le pot aux roses.</l>
 </sp>
-<sp who="BOBIELLE"><speaker>BOBIELLE, au Public.</speaker>
+<sp who="BOBIELLE"><hstage><speaker>BOBIELLE</speaker>, au Public.</hstage>
 	<l id="145">Messieurs, ayez de l’indulgence,</l>
 	<l id="146">L’Auteur n’en sauroit abuser ;</l>
 	<l id="147">De tel qui ne veut qu’amuser,</l>

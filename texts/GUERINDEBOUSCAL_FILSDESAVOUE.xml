@@ -61,7 +61,7 @@
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="JULIE"><speaker>JULIE, seule.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>, seule.</hstage>
 	<l id="1">Souvenir importun qui trouble mes plaisirs,</l>
 	<l id="2">Tyran de mon repos, cause de mes soupirs,</l>
 	<l id="3">Image de mon fils qui me poursuit sans cesse,</l>
@@ -118,22 +118,22 @@
 	<l id="54">Et je ne résous rien dans ces perplexités.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Livie, Julie.</head>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Livie, Julie.</cast>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="55">Madame le Roi vient par la porte prochaine,</l>
 	<l id="56">Du balcon de la salle, on le peut voir sans peine,</l>
 	<l id="57">Le spectacle en est beau, tout le monde le suit.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 <note type="C">L’édition originale porte LIVIE comme nom de locuteur, il semble que cela soit JULIE.</note>
 	<l id="58" part="i">Allons voir.</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="58" part="f">Il est près, j’entends déjà du bruit.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Théodoric et sa suite, Émile.</head>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Théodoric et sa suite, Émile.</cast>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="59">Enfin la tyrannie a perdu son asile,</l>
 	<l id="60">Ravenne a succombé, cet Empire est tranquille,</l>
 	<l id="61">Et le plus obstiné de tous nos ennemis,</l>
@@ -148,22 +148,22 @@
 	<l id="70">Et qu’un trône a d’appas que donne la vertu !</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Émile, Théodoric, Boèce.</head>
-<sp who="ÉMILE"><speaker>ÉMILE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Émile, Théodoric, Boèce.</cast>
+<sp who="ÉMILE"><hstage><speaker>ÉMILE</speaker>.</hstage>
 	<l id="71" part="i">Voici Boèce,</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="71" part="f">Ah Dieu ! Je vois donc ce grand homme,</l>
 	<l id="72">Qui soutient aujourd’hui la puissance de Rome,</l>
 	<l id="73" part="i">Boèce levez-vous,</l>
 </sp>
-<sp who="BOÈCE"><speaker>BOÈCE.</speaker>
+<sp who="BOÈCE"><hstage><speaker>BOÈCE</speaker>.</hstage>
 	<l id="73" part="f">Grand Prince souffrez-moi,</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="74" part="i">Ah ! C’est trop, levez-vous.</l>
 </sp>
-<sp who="BOÈCE"><speaker>BOÈCE.</speaker>
+<sp who="BOÈCE"><hstage><speaker>BOÈCE</speaker>.</hstage>
 	<l id="74" part="f">J’obéis à mon Roi.</l>
 	<l id="75">Sous vos lauriers, Seigneur, à l’abri du tonnerre,</l>
 	<l id="76">Rome croit que le Ciel ne hait plus tant la terre,</l>
@@ -210,7 +210,7 @@
 	<l id="117">Soient tous vos jugements si remplis d’équité</l>
 	<l id="118">Qu’on les donne en exemple à la postérité !</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="119">Boèce, dans ce vœu je vous trouve admirable,</l>
 	<l id="120">La justice est chez nous d’un prix inestimable,</l>
 	<l id="121">Et de tous les surnoms dont on peut me flatter,</l>
@@ -230,10 +230,10 @@
 	<l id="135">Dont la félicité, la science et l’adresse,</l>
 	<l id="136">Égalent s’il se peut les vertus de Boèce.</l>
 </sp>
-<sp who="BOÈCE"><speaker>BOÈCE.</speaker>
+<sp who="BOÈCE"><hstage><speaker>BOÈCE</speaker>.</hstage>
 	<l id="137" part="i">Cet exemple Seigneur</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="137" part="f">Est sans comparaison.</l>
 	<l id="138">Et mon choix en doit être une bonne raison :</l>
 	<l id="139">Oui ! Je vous ai choisi pour le bien de la terre,</l>
@@ -265,11 +265,11 @@
 	<l id="165">Que rien ne nous résiste où nous sommes tous deux,</l>
 	<l id="166">Et que sous notre règne un peuple est bienheureux.</l>
 </sp>
-<sp who="BOÈCE"><speaker>BOÈCE.</speaker>
+<sp who="BOÈCE"><hstage><speaker>BOÈCE</speaker>.</hstage>
 	<l id="167">Que je le suis Seigneur de consacrer ma vie</l>
 	<l id="168">Aux importants emplois où mon Roi me convie.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="169">Cependant ce beau jour nous invite à sortir,</l>
 	<l id="170">Montons au Capitole, allons nous divertir,</l>
 	<l id="171">Voyons les raretés qu’on admire dans Rome ;</l>
@@ -277,13 +277,13 @@
 	<l id="173">Que la seule vertu sans la faveur du sang,</l>
 	<l id="174">Élève dans ma cour en un illustre rang.</l>
 </sp>
-<sp who="ÉMILE"><speaker>ÉMILE.</speaker>
+<sp who="ÉMILE"><hstage><speaker>ÉMILE</speaker>.</hstage>
 	<l id="175">Seigneur il vous suivait, mais un de ses Gens d’armes,</l>
 	<l id="176">Blessé mortellement aux dernières alarmes,</l>
 	<l id="177">L’a fait vers l’Aventin reculer deux cents pas,</l>
 	<l id="178">Voulant l’entretenir au point de son trépas.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="179">Allez voir ce que c’est ! Que je plains ces Portiques,</l>
 	<l id="180">Dont les restes brisés sont encor magnifiques !</l>
 	<l id="181">Que ces arcs triomphaux qui s’offrent à mes yeux,</l>
@@ -294,8 +294,8 @@
 	<l id="186">Si je puis quelque jour rétablir ton bonheur !</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Sindéric, Émile.</head>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Sindéric, Émile.</cast>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="187">Je sais que tous les jours ce Prince magnanime,</l>
 	<l id="188">Par de semblables soins me montre son estime,</l>
 	<l id="189">Qu’il donne à mes travaux l’honneur de nos combats,</l>
@@ -309,7 +309,7 @@
 	<l id="197">Pour le bien de l’Etat, pour la gloire du Roi ;</l>
 	<l id="198">Mais pourtant cet avis ne regarde que moi.</l>
 </sp>
-<sp who="ÉMILE"><speaker>ÉMILE.</speaker>
+<sp who="ÉMILE"><hstage><speaker>ÉMILE</speaker>.</hstage>
 	<l id="199">Quoi se peut-il trouver encore quelque avantage ?</l>
 	<l id="200">Au-delà des faveurs dont le Roi vous partage,</l>
 	<l id="201">Pour moi considérant l’état où je vous vois,</l>
@@ -317,7 +317,7 @@
 	<l id="203">Quoique vous en disiez j’ai de la peine à croire,</l>
 	<l id="204">Que le Ciel vous réserve une plus haute gloire.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="205">Emile, il est certain que l’amitié du Roi</l>
 	<l id="206">Semblait avoir versé tous ses bienfaits sur moi,</l>
 	<l id="207">Avant que ce grand Prince eût attaqué Ravenne,</l>
@@ -353,7 +353,7 @@
 	<l id="237">Et tu peux endurer qu’il te soit reproché</l>
 	<l id="238">De paraître insensible où je suis si touché ?</l>
 </sp>
-<sp who="ÉMILE"><speaker>ÉMILE.</speaker>
+<sp who="ÉMILE"><hstage><speaker>ÉMILE</speaker>.</hstage>
 	<l id="239">Croyez-vous que la joie ait moins de violence</l>
 	<l id="240">Lorsqu’elle nous contraint de garder le silence ?</l>
 	<l id="241">Comme trop de lumière empêche de bien voir,</l>
@@ -373,7 +373,7 @@
 	<l id="255">Nobles ou de bas-lieu, n’importe qui nous sommes,</l>
 	<l id="256">C’est la seule vertu qui fait les gentilshommes.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="257">C’est là mon sentiment de même que le tien,</l>
 	<l id="258">À parler proprement la naissance n’est rien;</l>
 	<l id="259">Une suite d’aïeuls renommés dans l’histoire,</l>
@@ -399,10 +399,10 @@
 	<l id="279">Et si le ciel réserve un tel bien à ma vie,</l>
 	<l id="280">Il porte ma fortune au dessus de l’envie.</l>
 </sp>
-<sp who="ÉMILE"><speaker>ÉMILE.</speaker>
+<sp who="ÉMILE"><hstage><speaker>ÉMILE</speaker>.</hstage>
 	<l id="281" part="i">Mais ne saurai-je point votre histoire ?</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="281" part="f">Suis- moi.</l>
 	<l id="282">Je m’en vais de ce pas la raconter au Roi,</l>
 	<l id="283">Et lui faire savoir que l’éclat de ma race,</l>
@@ -411,14 +411,14 @@
 </div2>
 </div1>
 <div1 type="scene" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Théodoric, sa suite, Sindéric, Émile.</head>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Théodoric, sa suite, Sindéric, Émile.</cast>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="285">Quoi ! Vous êtes Romain et du sang des Monarques ?</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="286" part="i">Oui Seigneur !</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="286" part="f">Vos vertus en sont de bonnes marques,</l>
 	<l id="287">Quand votre bouche a tu d’où vous êtes sorti,</l>
 	<l id="288">Vos belles actions nous en ont avertis,</l>
@@ -428,7 +428,7 @@
 	<l id="292">M’ont bien persuadé que vous étiez né grand :</l>
 	<l id="293">Mais pourquoi si longtemps cacher votre naissance ?</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="294">Seigneur je n’en avais aucune connaissance,</l>
 	<l id="295">Ce fut seulement hier qu’un de vos vieux soldats,</l>
 	<l id="296">Mortellement blessé dans nos derniers combats,</l>
@@ -437,15 +437,15 @@
 	<l id="299">Que ma mère était veuve, et qu’il mourait content</l>
 	<l id="300">M’ayant pu découvrir ce secret important.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="301">Mais vous ayant nommé ceux qui vous ont fait naître,</l>
 	<l id="302">Qu’est-ce qu’il ajouta pour vous faire connaître ?</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="303">Il ne me dit plus rien, la mort trancha ses jours</l>
 	<l id="304">Sur le point qu’il voulait poursuivre son discours.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="305">Ce défaut pourrait nuire à quelque âme commune,</l>
 	<l id="306">Sans vertu, sans amis, sans valeur, sans fortune,</l>
 	<l id="307">Qui voudrait s’enrichir des biens de sa maison,</l>
@@ -458,10 +458,10 @@
 	<l id="314">L’obligent à choquer le dessein que vous faites,</l>
 	<l id="315">Je lui ferai savoir qu’elle s’en prend à moi.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="316" part="i">C’est trop pour un sujet.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="316" part="f">C’est trop peu pour un Roi.</l>
 	<l id="317">Mais je crois que Julie a trop bonne conduite,</l>
 	<l id="318">Pour ne pas approuver votre juste poursuite,</l>
@@ -473,15 +473,15 @@
 	<l id="324">J’en saurai le succès au sortir du Sénat.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Sindéric, Émile.</head>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Sindéric, Émile.</cast>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="325">Mais, Émile, est-il vrai qu’on croit dans l’Italie,</l>
 	<l id="326">Que Lépide n’eût point des enfants de Julie ?</l>
 </sp>
-<sp who="ÉMILE"><speaker>ÉMILE.</speaker>
+<sp who="ÉMILE"><hstage><speaker>ÉMILE</speaker>.</hstage>
 	<l id="327">Il est bien assuré, n’en doutez nullement.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="328">Étouffe tes desseins dans leur commencement,</l>
 	<l id="329">Malheureux Sindéric, il vaut mieux pour ta gloire ;</l>
 	<l id="330">Mais quoi puis-je souffrir qu’on trouve dans l’histoire,</l>
@@ -505,8 +505,8 @@
 	<l id="348">Ce sera seulement sous des noms empruntés.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Maxime, Julie.</head>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Maxime, Julie.</cast>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="349">Madame, est-il donc vrai que le destin m’envoie,</l>
 	<l id="350">Après tant de tourments une si grande joie ?</l>
 	<l id="351">Est-il vrai que Julie ait eu pitié de moi ?</l>
@@ -514,30 +514,30 @@
 	<l id="353">Vous m’aimez ! Ah bonheur à qui tout autre cède !</l>
 	<l id="354">Est-il vrai qu’aujourd’hui Maxime vous possède ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="355">Est-il vrai qu’il en doute ? Et qu’il ne connaît pas</l>
 	<l id="356">Que son manque de foi me donne le trépas ?</l>
 	<l id="357">Quoi n’est-ce pas assez vous découvrir mon âme,</l>
 	<l id="358">Que de pousser pour vous tant de soupirs de flamme ?</l>
 	<l id="359" part="i">Vous dirai-je que j’aime !</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="359" part="f">Ah ! Dites-le cent fois !</l>
 	<l id="360">Ah ! Parole charmante ! Ah favorable voix !</l>
 	<l id="361">Qui remplissez mon cœur de joie et de merveille,</l>
 	<l id="362">Ne vous lassez jamais de frapper mon oreille !</l>
 	<l id="363" part="i">Vous m’aimez !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="363" part="m">Je vous aime !</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="363" part="f">Ah ! Quel comble d’honneur !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="364" part="i">D’où naissent mes plaisirs !</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="364" part="f">D’où naît tout mon bonheur.</l>
 	<l id="365">Régnez, Théodoric, et sur nous, et sur Rome</l>
 	<l id="366">Possédez tout l’honneur que peut avoir un homme</l>
@@ -546,21 +546,21 @@
 	<l id="369">Je ne changerais point votre pouvoir suprême,</l>
 	<l id="370">Avec ces quatre mots, Maxime je vous aime.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="371" part="i">Quelqu’un entre !</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Horace, Maxime, Julie, Livie.</head>
-<sp who="HORACE"><speaker>HORACE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Horace, Maxime, Julie, Livie.</cast>
+<sp who="HORACE"><hstage><speaker>HORACE</speaker>.</hstage>
 	<l id="371" part="f">Le Roi désire de vous voir.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="372">Faut-il donc vous quitter ! Tyrannique devoir,</l>
 	<l id="373">Oses-tu de l’amour attaquer la puissance ?</l>
 	<l id="374">Mais il faut se résoudre à ce moment d’absence,</l>
 	<l id="375" part="i">Enfin le Roi le veut, adieu.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="375" part="f">Dans cet instant</l>
 	<l id="376">Je sens que de son bien mon cœur n’est pas content,</l>
 	<l id="377">Ses souhaits lui font peur, ce qui lui plaît le trouble,</l>
@@ -568,29 +568,29 @@
 	<l id="379">J’aime pourtant Maxime autant que je le puis :</l>
 	<l id="380">Hélas ! Ce n’est pas lui qui cause mes ennuis.</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="381">Quoi Madame être triste au point que l’Hyménée</l>
 	<l id="382">Doit selon vos souhaits vous rendre fortunée !</l>
 	<l id="383">Quoi ne savez-vous pas que peut-être aujourd’hui</l>
 	<l id="384">Il vous donne Maxime en vous donnant à lui ?</l>
 	<l id="385">D’où peut donc procéder cette morne tristesse ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="386">D’un peu de prévoyance, et d’un peu de faiblesse,</l>
 	<l id="387">Voyant que mon bonheur est sans difficulté</l>
 	<l id="388">J’ai presque du regret de l’avoir souhaité.</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="389" part="i">Ce discours me surprend.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="389" part="f">Crois-moi, chère Livie,</l>
 	<l id="390">Je crains avec raison un changement de vie.</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="391" part="i">Pourquoi le craignez-vous ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="391" part="f">Quand tu sauras pourquoi</l>
 	<l id="392">Tu seras obligée à le craindre avec moi ;</l>
 	<l id="393">Jamais un tel discours n’est sorti de ma bouche,</l>
@@ -618,11 +618,11 @@
 	<l id="415">Qui ne me fut donné que pour n’être ravi,</l>
 	<l id="416">Je le perdis hélas  ! D’abord que je le vis.</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="417">Rome n’a jamais su cette étrange aventure,</l>
 	<l id="418" part="i">Mais enfin que fit-on ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="418" part="f">Le sang et la nature,</l>
 	<l id="419">Combattirent longtemps les sentiments jaloux,</l>
 	<l id="420">Et la brutalité de mon cruel époux,</l>
@@ -631,10 +631,10 @@
 	<l id="423">Il combat, je l’emporte à la faveur des Dieux,</l>
 	<l id="424">Mais d’abord par son ordre on l’ôta de mes yeux.</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="425" part="i">Ne l’avez-vous point vu depuis ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="425" part="f">Ah ! Non, Livie,</l>
 	<l id="426">Ni même en cet endroit témoigné mon ennui,</l>
 	<l id="427">Lépide défendit qu’on en parlât jamais,</l>
@@ -642,11 +642,11 @@
 	<l id="429">Ce misérable enfant ignorant sa naissance,</l>
 	<l id="430">Par un homme inconnu fut porté jusqu’en France.</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="431">Mais après que Lépide eut subi le trépas</l>
 	<l id="432" part="i">Le fîtes-vous chercher ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="432" part="f">Non, car je n’osai pas.</l>
 	<l id="433">Deux puissantes raisons en détournaient mon âme,</l>
 	<l id="434">Le trouvant l’avouant, je me rendais infâme,</l>
@@ -658,30 +658,30 @@
 	<l id="440">Si je reprends un joug qui me fut si fatal.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Cornélie, Julie, Livie.</head>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Cornélie, Julie, Livie.</cast>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="441">Madame, Sindéric est là bas à la porte,</l>
 	<l id="442" part="i">Qui demande à vous voir.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="442" part="f">Attendez que je sorte,</l>
 	<l id="443">Je dois bien cet honneur au favori du Roi.</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="444">Que je plains son malheur ! Dieux à ce que je vois,</l>
 	<l id="445">Ce n’est pas sans raison qu’elle craint sa fortune !</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Sindéric, Julie.</head>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Sindéric, Julie.</cast>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="446">Madame chassez-moi si je vous importune,</l>
 	<l id="447" part="i">Je n’ai pas fait dessein.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="447" part="f">Monsieur, sans compliment,</l>
 	<l id="448">Votre civilité m’oblige infiniment.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="449">Cependant que le Roi contemple dans la ville</l>
 	<l id="450">Les funestes effets de la guerre civile,</l>
 	<l id="451">Sur ces beaux monuments qui marquaient autrefois,</l>
@@ -691,34 +691,34 @@
 	<l id="455">Pourquoi rougissez-vous quand je veux vous louer ?</l>
 	<l id="456">Avez-vous fait dessein de me désavouer ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="457">Puis-je ne pas rougir, et voir que l’on me loue ?</l>
 	<l id="458">Finissez ce discours, ou je vous désavoue.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="459">Quand vous me menacez de me désavouer,</l>
 	<l id="460">Vous me représentez ce que j’ai vu jouer,</l>
 	<l id="461">C’est un sujet nouveau fort extraordinaire,</l>
 	<l id="462">Et dont les incidents sont capables de plaire,</l>
 	<l id="463">Les Acteurs chez le Roi l’ont assez bien joué.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="464" part="i">On le nomme Monsieur ?</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="464" part="f">Le fils désavoué.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="465" part="i">Ce nom promet beaucoup.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="465" part="f">Vous plaît-il que j’en fasse</l>
 	<l id="466" part="i">Un récit abrégé ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="466" part="f">Faites-moi cette grâce.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="467">Ainsi ceux qui n’ont pas l’esprit assez présent,</l>
 	<l id="468">Pour fournir le sujet d’un entretien plaisant,</l>
 	<l id="469">Contraints par bienséance à dire quelque chose,</l>
@@ -734,11 +734,11 @@
 	<l id="479">Qui tâche par adresse à se faire écouter,</l>
 	<l id="480">Et qui cache son nom pour se manifester.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="481">Suffit qu’en cet endroit je sais ce qu’il faut croire,</l>
 	<l id="482">Mais je brûle déjà d’apprendre cette histoire.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="483">Un Sénateur Romain par je ne sais quel sort,</l>
 	<l id="484">Veut de son fils naissant précipiter la mort,</l>
 	<l id="485">Mais les tristes regrets d’une dolente mère</l>
@@ -746,17 +746,17 @@
 	<l id="487">Ce misérable fils est pourtant bien puni,</l>
 	<l id="488">Il n’est pas plutôt né que le voila banni.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="489">Ô dieux ! Qu’ai-je entendu ? Mais saurai-je le reste ?</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="490">Ah ! Ce n’est pas encor l’endroit le plus funeste !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="491">Je m’intéresse presque en son mauvais destin ;</l>
 	<l id="492">Dans le bannissement rencontra-t-il sa fin ?</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="493">Son trépas lui plairait pourvu qu’en sa misère</l>
 	<l id="494">Il connut sa maison aux larmes de sa mère ;</l>
 	<l id="495">Il ne mourut donc point, mais pour chercher la mort</l>
@@ -771,65 +771,65 @@
 	<l id="504">Et s’il se connaissait il a trop de bonheur,</l>
 	<l id="505">Le plus grand des mortels estime sa vaillance,</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="506" part="i">Où fit-il ces progrès ?</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="506" part="f">Au Royaume de France,</l>
 	<l id="507">Sous Clovis les premiers, après sous Alaric,</l>
 	<l id="508">Et depuis sous Zénon, et sous Théodoric.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="509" part="i">Cette histoire est du temps.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="509" part="f">Aujourd’hui dans les fables</l>
 	<l id="510">On mêle bien souvent des succès véritables,</l>
 	<l id="511">Ainsi les passions s’émeuvent beaucoup mieux,</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="512">Vous en voyez l’effet, voyant pleurer mes yeux,</l>
 	<l id="513" part="i">Enfin que devint-il ?</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="513" part="f">Il fut conduit à Rome,</l>
 	<l id="514">Où quelque bon destin le mena chez un homme,</l>
 	<l id="515">Qui l’avait secouru dans son bannissement,</l>
 	<l id="516">Qui lui dit que son père était au monument,</l>
 	<l id="517" part="i">Que sa mère vivait.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="517" part="m">Ah ! Dieu !</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="517" part="f">Le teint vous change.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="518">Ce dernier accident me paraît bien étrange!</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="519">Là s’ouvre le théâtre, où le Roi se fait voir,</l>
 	<l id="520">Ce chevalier lui dit ce qu’il vient de savoir,</l>
 	<l id="521">Le Roi le fait résoudre à parler à sa mère,</l>
 	<l id="522">Voici ce qui le choque, et qui le désespère,</l>
 	<l id="523" part="i">On lui dit que Lépide...</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="523" part="f">Ah ! Dieu qu’ai-je entendu !</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="524">N’avait point eu d’enfant loin d’en avoir perdu.</l>
 	<l id="525">Jugez de son regret après cette nouvelle,</l>
 	<l id="526">Il appela cent fois la fortune cruelle,</l>
 	<l id="527">Il voulut par sa mort s’exempter de sa loi,</l>
 	<l id="528">Mais il se conserva pour l’amour de son Roi.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="529">Monsieur en cet endroit pardonnez ma faiblesse,</l>
 	<l id="530">Vous faites ce discours avecques tant d’adresse,</l>
 	<l id="531">Qu’il faut que par des pleurs j’exprime ma douleur.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="532">Vous allez voir ici sa gloire, ou son malheur,</l>
 	<l id="533">Il se résout enfin d’aller trouver sa mère ;</l>
 	<l id="534">Mais que lui dira-t-il, et qu’est-ce qu’il peut faire ?</l>
@@ -844,35 +844,35 @@
 	<l id="543">Ah  ! Ma mère, dit-il, si ce nom m’est permis</l>
 	<l id="544">Découvrez- vous les yeux, et voyez votre fils.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="545" part="i">Ah ! Mon fils.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="545" part="m">Ah ! Ma mère.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="545" part="f">Ah ! Surprise agréable,</l>
 	<l id="546">Quoi Sinderic est donc cet enfant misérable,</l>
 	<l id="547">Que mes pleurs ont sauvé d’un injuste trépas ?</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="548">Ma mère, votre cœur ne vous le dit-il pas ?</l>
 	<l id="549">Et se pourrait-il bien, que ceux qui m’ont fait naître</l>
 	<l id="550">Dans l’état où je suis pussent me méconnaitre ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="551">Mes yeux vous regardant dans tout ce qui se voit,</l>
 	<l id="552">Ne vous connaissent point, mais mon sang vous connaît.</l>
 	<l id="553">Oui, je vous vois, mon fils, par ces yeux invisibles,</l>
 	<l id="554">Qui ne mentent jamais, et qui sont si sensibles.</l>
 	<l id="555" part="i">Oui, vous êtes mon fils.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="555" part="f">Ah ! Ce m’est trop d’honneur,</l>
 	<l id="556">Je vole chez le Roi, lui dire mon bonheur,</l>
 	<l id="557">Pardonnez ce départ à mon impatience.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="558">Vous ne m’affligez pas par une longue absence,</l>
 	<l id="559">Revenez à l’instant pour réjouir mes yeux,</l>
 	<l id="560">Par un objet si cher et si délicieux.</l>
@@ -912,16 +912,16 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Maxime, Horace.</head>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Maxime, Horace.</cast>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="593">Ah dieux je suis trahi ! Quoi volage Julie,</l>
 	<l id="594">Est-ce ainsi qu’on me traite ? Est-ce ainsi qu’on m’oublie ?</l>
 	<l id="595" part="i">Sindéric, dans vos bras !</l>
 </sp>
-<sp who="HORACE"><speaker>HORACE.</speaker>
+<sp who="HORACE"><hstage><speaker>HORACE</speaker>.</hstage>
 	<l id="595" part="f">Vous vous êtes déçu.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="596">Ah ! Ne m’en parle point, je ne l’ai que trop vu.</l>
 	<l id="597">Mais lâche que je suis que faisait mon courage</l>
 	<l id="598">Lorsque devant mes yeux je souffrais cet outrage ?</l>
@@ -947,11 +947,11 @@
 	<l id="618">Mon amour offensé m’inspire la vengeance,</l>
 	<l id="619">Il veut qu’à mon honneur j’immole Sindéric.</l>
 </sp>
-<sp who="HORACE"><speaker>HORACE.</speaker>
+<sp who="HORACE"><hstage><speaker>HORACE</speaker>.</hstage>
 	<l id="620">Mais dedans ce dessein craignez Théodoric,</l>
 	<l id="621" part="i">Il l’aime tendrement.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="621" part="f">Que dites-vous Horace ?</l>
 	<l id="622">L’avis que vous donnez est de mauvaise grâce,</l>
 	<l id="623">Fût-il comme du Roi le favori des Dieux,</l>
@@ -959,44 +959,44 @@
 	<l id="625">Et quand tout l’Univers viendrait à sa défense,</l>
 	<l id="626">Il ne peut éviter d’éprouver ma vengeance.</l>
 </sp>
-<sp who="HORACE"><speaker>HORACE.</speaker>
+<sp who="HORACE"><hstage><speaker>HORACE</speaker>.</hstage>
 	<l id="627">Avant que d’en venir à cette extrémité,</l>
 	<l id="628">Donnez à vos soupçons encor plus de clarté,</l>
 	<l id="629">Julie pourrait bien comme elle est fort adrète</l>
 	<l id="630">Avoir sur ce sujet quelque raison secrète,</l>
 	<l id="631">Qui vous satisferait, vous le devez savoir.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="632">Mais puis-je après cela me résoudre à la voir ?</l>
 </sp>
-<sp who="HORACE"><speaker>HORACE.</speaker>
+<sp who="HORACE"><hstage><speaker>HORACE</speaker>.</hstage>
 	<l id="633" part="i">Vous le devez.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="633" part="f">Et bien mon esprit s’y dispose,</l>
 	<l id="634">Mais Dieux que ma fortune est une étrange chose !</l>
 	<l id="635">Que difficilement je puis me contenter</l>
 	<l id="636">Je tâche à m’éclaircir lorsque je veux douter !</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Livie, Julie.</head>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Livie, Julie.</cast>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="637">Maxime nous a vus, que dites-vous Livie ?</l>
 	<l id="638">Ah ! Ce dernier malheur me va coûter la vie ?</l>
 	<l id="639" part="i">Nous a-t-il écoutés ?</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="639" part="f">Il est sorti d’abord.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="640">Que par leur peu de soin mes gens m’ont fait de tort,</l>
 	<l id="641">Consolez mon malheur au moins par le silence.</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="642">J’estime trop l’honneur de votre confidence,</l>
 	<l id="643">Pour la trahir jamais, j’aimerais mieux mourir.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="644">Hélas dans ce désordre où puis-je recourir ?</l>
 	<l id="645">Si pour me délivrer des soupçons de Maxime</l>
 	<l id="646">Je dis que Sindéric est mon fils  : quel abîme!</l>
@@ -1015,45 +1015,45 @@
 	<l id="659">Mon honneur est taché, mon renom obscurci,</l>
 	<l id="660">Désavouant mon fils, et l’avouant aussi.</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="661" part="i">Maxime vient Madame,</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="661" part="f">Ah comble de misère !</l>
 	<l id="662">Hélas que dois-je dire ? Hélas que dois-je taire ?</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="663">Cachez votre douleur, laissez le reste au sort.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Maxime, Julie, Livie.</head>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Maxime, Julie, Livie.</cast>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="664" part="i">Madame sauvez-moi.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="664" part="f">Mais quel est ce transport ?</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="665">Hélas ! Je suis perdu, l’on cherche ma ruine,</l>
 	<l id="666">Le Roi veut mon trépas, le peuple se mutine.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="667" part="i">Monsieur que dites-vous ?</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="667" part="f">Madame sauvez-moi.</l>
 	<l id="668">J’ai tué par malheur le favori du Roi.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="669" part="i">Le favori du Roi !</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="669" part="m">Sindéric !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="669" part="f">Ah ! Je pâme !</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="670">Non, non, il n’est pas mort, apaisez-vous Madame,</l>
 	<l id="671">Mais confessez aussi qu’en cet événement,</l>
 	<l id="672">Je puis être assuré de votre changement.</l>
@@ -1062,15 +1062,15 @@
 	<l id="675">Sindéric est si grand qu’il peut tout excuser,</l>
 	<l id="676">Et ce sont mes défauts que je dois accuser.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="677">Que vous êtes cruel dedans cette pensée</l>
 	<l id="678">Et combien mon amour en est-elle offensée !</l>
 	<l id="679">Quoi vous me soupçonnez d’avoir manqué de foi ?</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="680">Quoi pourrais-je douter des choses que je vois ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="681">Ah  ! Que vous jugez mal de mon deuil légitime !</l>
 	<l id="682">Un excès d’amitié vous paraît donc un crime !</l>
 	<l id="683">Quoi pouvais-je vous voir dans un si grand malheur,</l>
@@ -1090,7 +1090,7 @@
 	<l id="697">Ma défense sans doute y paraissant aisée,</l>
 	<l id="698">Vous vous accuseriez de m’avoir accusée.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="699">Je le fais dés cette heure, et confesse avec vous,</l>
 	<l id="700">Que j’ai mauvaise grâce à faire le jaloux.</l>
 	<l id="701">Oui c’est avec raison que votre âme s’irrite,</l>
@@ -1103,44 +1103,44 @@
 	<l id="708">M’ayant été donné ne pouvait qu’être mien,</l>
 	<l id="709">Puis en me l’arrachant on m’arrachait la vie.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="710">Ah  ! Jugez mieux de vous, jugez mieux de Julie,</l>
 	<l id="711">Ne la soupçonnez point d’avoir manqué de foi,</l>
 	<l id="712">Cette crainte est indigne, et de vous, et de moi.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="713">Avant que me résoudre à vous porter ma plainte,</l>
 	<l id="714">Mes sens en certitude ont converti ma crainte,</l>
 	<l id="715" part="i">Mes soupçons</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="715" part="f">Ont fait tort à votre jugement.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="716" part="i">Mes yeux,</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="716" part="f">Vous ont trompé, n’en doutez nullement.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="717">Et quoi n’ai-je pas vu  ? Mais dieux le puis-je dire !</l>
 	<l id="718">Et voir qu’en même temps, je parle, je respire,</l>
 	<l id="719" part="i">Ah  ! Lâche que je suis !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="719" part="f">Que dites-vous bons dieux !</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="720">Croirais-je mon amour  ? Croirais-je point mes yeux ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="721">Douter d’une amitié tant de fois reconnue !</l>
 	<l id="722" part="i">Douter de ma vertu !</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="722" part="f">Mais douter de ma vue !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="723">Ah  ! Maxime agissez avec plus de raison,</l>
 	<l id="724">Cessez de soupçonner mon cœur de trahison,</l>
 	<l id="725">Si jamais Sindéric m’a pu rendre capable</l>
@@ -1156,10 +1156,10 @@
 	<l id="735">Je vous le dis encor, l’amour que j’ai pour lui</l>
 	<l id="736">Vous doit contre lui-même assurer aujourd’hui.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="737">Mon esprit ne prend point le sens de ce mystère.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="738">Ce n’est pas un secret que je veuille vous taire.</l>
 	<l id="739">Vous savez le crédit qu’il a dans cet État,</l>
 	<l id="740">Ce qu’il peut à la Cour, ce qu’il peut au Senat,</l>
@@ -1169,7 +1169,7 @@
 	<l id="744">Pour obtenir bientôt quelque honorable emploi ;</l>
 	<l id="745">Et je ne l’aime enfin qu’à cause qu’il vous aime.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="746">Ah  ! Pardonnez Madame à mon erreur extrême !</l>
 	<l id="747">Je crains, mais mon amour étant au dernier point</l>
 	<l id="748">Et pour un si grand bien puis-je ne craindre point ?</l>
@@ -1182,19 +1182,19 @@
 	<l id="755">Et que je sois privé de ce plaisir Charmant,</l>
 	<l id="756">Qu’une extrême amitié peut donner seulement.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="757">Vous vous connaissez trop pour avoir cette crainte,</l>
 	<l id="758">Chassez donc les soupçons dont votre âme est atteinte,</l>
 	<l id="759">Et croyez que Julie aime comme elle doit,</l>
 	<l id="760">Et qu’elle vous estime, et qu’elle vous connaît.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="761">Je prends donc congé d’elle avec cette assurance.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="762">Vous verrez des effets de sa persévérance.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="763">C’est un bien où mes vœux n’osent presque aspirer,</l>
 	<l id="764">Et je pars trop content quand je puis l’espérer</l>
 	<l id="765">Hélas  : je m’en dédis, mon espérance est morte</l>
@@ -1202,8 +1202,8 @@
 <stage>Maxime dit ces deux vers en se retirant.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Julie, Livie.</head>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Julie, Livie.</cast>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="767">Et bien, chère Livie, en ce fâcheux combat,</l>
 	<l id="768">N’as-tu pas bien souvent déploré mon état,</l>
 	<l id="769">Vois-tu rien de pareil au mal qui me surmonte ?</l>
@@ -1223,26 +1223,26 @@
 	<l id="783">Il faut que je te perde une seconde fois,</l>
 	<l id="784">C’est ce que je ne puis, et c’est ce que je dois !</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="785" part="i">Mais le voici Madame.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Sindéric, Julie.</head>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Sindéric, Julie.</cast>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="785" part="f">Ah dieux que dois-je faire ?</l>
 	<l id="786" part="i">Évitons sa rencontre.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="786" part="f">Où fuyez-vous ma mère ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="787">Je ne veux point ce nom, et je ne l’eus jamais,</l>
 	<l id="788">Honorez-en quelqu’autre, et me laissez en paix.</l>
 <stage>Julie se retire</stage>
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="789">Dieu que viens-je de voir  ! Dieu que viens-je d’apprendre !</l>
 	<l id="790">Quoi ma mère me fuit, et ne veut pas m’entendre,</l>
 	<l id="791">Je ne veux point ce nom, et je ne l’eus jamais,</l>
@@ -1289,36 +1289,36 @@
 	<l id="832">Et l’on ne peut jamais trop acheter l’honneur.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Maxime, Sindéric.</head>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Maxime, Sindéric.</cast>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="833">Mais que cherche Maxime au logis de Julie ?</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="834">Quoi je vois Sindéric dans la mélancolie,</l>
 	<l id="835">Et sa haute faveur ne l’en exempte pas.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="836">Cette haute faveur dont on fait tant de cas,</l>
 	<l id="837">Est souvent un obstacle aux plaisirs de la vie.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="838">Elle a bien des appas dans l’esprit de Julie.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="839">Mais pour quelle raison m’en parlez-vous ainsi ?</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="840">C’est parce seulement que je vous trouve ici.</l>
 	<l id="841">Mais quoi vous laisser seul dans cette salle basse,</l>
 	<l id="842">Cette incivilité n’est pas de bonne grâce,</l>
 	<l id="843">Et sans doute vos gens n’ont pas dit votre nom.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="844">On me traite céans en fils de la maison,</l>
 	<l id="845">Mais Julie pourtant, quoique je puisse faire,</l>
 	<l id="846">Ne veut point accepter le titre de ma mère.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="847">Cette alliance aussi n’a rien de ces douceurs,</l>
 	<l id="848">Dont le discours se sert pour l’union des cœurs,</l>
 	<l id="849">Elle imprime d’abord je ne sais quoi d’austère,</l>
@@ -1329,12 +1329,12 @@
 	<l id="854">Vous pouviez en choisir quelqu’autre plus galante,</l>
 	<l id="855">Et vos desseins peut-être eussent mieux réussi.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="856">Vous avez votre but, et j’ai le mien aussi.</l>
 	<l id="857">Suffit que j’aie raison en ce que je projette,</l>
 	<l id="858">Et que Julie a tort lorsqu’elle me rejette</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="859">Ainsi souvent les grands dedans leur passion</l>
 	<l id="860">Se laissent aveugler à la présomption ;</l>
 	<l id="861">Ils pensent que l’amour, les soins et les caresses,</l>
@@ -1346,88 +1346,88 @@
 	<l id="867">Et quelque vanité qui flatte ses esprits,</l>
 	<l id="868">Il est souvent réduit à souffrir des mépris.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="869">Quoique vous en disiez, je pense qu’en votre âge</l>
 	<l id="870">Vous avez bien souvent joué ce personnage :</l>
 	<l id="871">Pour moi je ne crains point que l’on me traite ainsi.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="872">Vous voyez bien pourtant que je vous trouve ici.</l>
 	<l id="873">Mais vous êtes modeste autant qu’on le peut être,</l>
 	<l id="874">Vous vous plaignez d’un cœur dont vous êtes le maitre,</l>
 	<l id="875">Et feignez que Julie a des rigueurs pour vous</l>
 	<l id="876">Lorsque vous éprouvez ses traitements plus doux.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="877">Que Julie à mes vœux soit propice ou contraire,</l>
 	<l id="878">J’irai jusques au bout, rien ne m’en peut distraire.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="879">Souvent le trop d’ardeur nuit à notre dessein.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="880">Jamais les gens d’honneur ne travaillent en vain.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="881">On se perd tous les jours par trop de confiance.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="882">On vient à bout de tout par la persévérance.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="883">Mais par elle souvent on devient importun.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="884">Ce n’est que le destin des hommes du commun.</l>
 	<l id="885">En un mot mon dessein est d’obliger Julie,</l>
 	<l id="886">À m’accorder bientôt ce qu’elle me dénie.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="887" part="i">Cette entreprise est grande.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="887" part="m">Elle est de mon devoir.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="888" part="i">Julie a bien du cœur.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="888" part="f">J’ai beaucoup de pouvoir.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="889">Il est bien malaisé de contraindre une femme.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="890">Julie ne saurait me résister sans blâme.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="891">Nous vivons dedans Rome avecques liberté.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="892">Nous vivons dedans Rome où règne l’équité.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="893">Mais votre nation n’en sait pas l’exercice,</l>
 	<l id="894">Et l’on voit rarement qu’un Goth rende justice.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="895">Ce que Théodoric pratique tous les jours,</l>
 	<l id="896">Montre la fausseté de ce lâche discours.</l>
 	<l id="897">Ah  ! Maxime c’est trop, ce reproche m’outrage,</l>
 	<l id="898">Taisez vous je vous prie, ou changez de langage</l>
 	<l id="899" part="i">Autrement</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="899" part="f">Est-ce ici que vous me menacez ?</l>
 	<l id="900" part="i">Ah sortons.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="900" part="m">Mais sans bruit.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="900" part="m">Mais vite,</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="900" part="f">C’est assez</l>
 	<l id="901">Je vous satisferai, n’en soyez point en peine,</l>
 	<l id="902">Il ne faut que passer dans la place prochaine.</l>
@@ -1435,14 +1435,14 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Julie, Livie.</head>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Julie, Livie.</cast>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="903" part="i">Que dites-vous Livie ?</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="903" part="f">On me l’a dit ainsi.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="904">Qu’ils se sont querellés lorsqu’ils sortaient d’ici !</l>
 	<l id="905">Mon fils et mon amant  ! Sinderic et Maxime!</l>
 	<l id="906">Tout ce que j’aime au monde, et tout ce que j’estime!</l>
@@ -1452,10 +1452,10 @@
 	<l id="910">À Dave, à tous mes gens, qu’ils aillent à la ville</l>
 	<l id="911">Semer chez leurs amis un si funeste bruit.</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="912" part="i">Madame ils sont après.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="912" part="f">Mais peut-être sans fruit.</l>
 	<l id="913">Ah  ! Malheureuse amante ! Ah malheureuse mère !</l>
 	<l id="914">Amour, honneur, nature, hélas que dois-je faire ?</l>
@@ -1486,16 +1486,16 @@
 	<l id="939">Je ne sais plus pour qui je dois faire des vœux,</l>
 	<l id="940">Ciel faites-moi mourir, ou les sauvez tous deux.</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="941" part="i">Apaisez-vous Madame.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="941" part="f">Hélas le puis-je faire !</l>
 	<l id="942">Qui pourrait s’apaiser dans un sort si contraire,</l>
 	<l id="943">Dont les événements également fâcheux,</l>
 	<l id="944">S’opposeront toujours à l’effet de mes vœux ?</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="945">Si Maxime pourtant emporte la victoire,</l>
 	<l id="946">La mort de Sindéric assure votre gloire,</l>
 	<l id="947">Et l’honneur ce trésor qui fut toujours sans prix,</l>
@@ -1507,7 +1507,7 @@
 	<l id="953">De l’inclination, et de mille autres choses,</l>
 	<l id="954">Qui se font admirer dedans l’ordre des choses.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="955">Outre l’émotion qui se fit dans mon sein,</l>
 	<l id="956">Je reconnus mon fils aux marques de sa main,</l>
 	<l id="957">Marques que j’observai le jour de sa naissance,</l>
@@ -1523,10 +1523,10 @@
 	<l id="967">Sindéric est mon fils, je n’en saurai douter ;</l>
 	<l id="968">Livie en cet endroit je ne puis t’écouter.</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="969" part="i">Mais votre désaveu ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="969" part="f">Tais- toi, chère Livie,</l>
 	<l id="970">Ne me reproche point le malheur de ma vie,</l>
 	<l id="971">Je l’ai désavoué pour sauver mon renom,</l>
@@ -1539,11 +1539,11 @@
 	<l id="978">Et qu’on ne peut trahir en pareille aventure,</l>
 	<l id="979" part="i">Ah  ! Je ne dois plus feindre !</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="979" part="f">Hélas  ! Quel sentiment.</l>
 	<l id="980">Faut-il donc l’avouer et perdre votre amant ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="981">L’avouer mon honneur, le pourrais-je sans blâme ?</l>
 	<l id="982">Vous perdre mon amant, le pourrions-nous ma flamme ?</l>
 	<l id="983">Désavouer mon fils  ! Hélas par quelle loi</l>
@@ -1563,32 +1563,32 @@
 	<l id="997" part="i">Après il faut mourir.</l>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE II. Horace, Julie, Livie.</head>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<div2 type="scene" n=""><head>SCÈNE II.</head><cast>Horace, Julie, Livie.</cast>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="997" part="f">Mais que nous veut Horace ?</l>
 	<l id="998">Que dit-on chez le Roi  ? Dieux tout mon sang se glace !</l>
 	<l id="999">Il ne nous répond rien, et paraît interdit.</l>
 </sp>
-<sp who="HORACE"><speaker>HORACE.</speaker>
+<sp who="HORACE"><hstage><speaker>HORACE</speaker>.</hstage>
 	<l id="1000" part="i">Il s’est fait un combat.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1000" part="f">Ah  ! Je l’avais bien dit.</l>
 	<l id="1001" part="i">Mais le succès ?</l>
 </sp>
-<sp who="HORACE"><speaker>HORACE.</speaker>
+<sp who="HORACE"><hstage><speaker>HORACE</speaker>.</hstage>
 	<l id="1001" part="m">Maxime</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1001" part="f">Ah  ! Dieux suis-je trompée !</l>
 </sp>
-<sp who="HORACE"><speaker>HORACE.</speaker>
+<sp who="HORACE"><hstage><speaker>HORACE</speaker>.</hstage>
 	<l id="1002">En est sorti blessé de deux grands coups d’épée.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1003" part="i">Ces coups sont-ils mortels ?</l>
 </sp>
-<sp who="HORACE"><speaker>HORACE.</speaker>
+<sp who="HORACE"><hstage><speaker>HORACE</speaker>.</hstage>
 	<l id="1003" part="f">Il n’est blessé qu’au bras.</l>
 	<l id="1004">Mais ces coups bien souvent ont causé le trépas.</l>
 	<l id="1005">Cependant Sindéric enflé de vaine gloire,</l>
@@ -1597,25 +1597,25 @@
 	<l id="1008">Que l’heur et le malheur se suivent tout à tour,</l>
 	<l id="1009">Il faut, il faut qu’il meure, ou bien que je périsse.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1010">Plutôt voyez le Roi, demandez-lui justice,</l>
 	<l id="1011">Ne vous exposez point, ne précipitez rien,</l>
 	<l id="1012">Théodoric est juste, il vous vengera bien.</l>
 </sp>
-<sp who="HORACE"><speaker>HORACE.</speaker>
+<sp who="HORACE"><hstage><speaker>HORACE</speaker>.</hstage>
 	<l id="1013" part="i">Dieux qu’est-ce que j’entends !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1013" part="f">Que dites-vous Horace ?</l>
 </sp>
-<sp who="HORACE"><speaker>HORACE.</speaker>
+<sp who="HORACE"><hstage><speaker>HORACE</speaker>.</hstage>
 	<l id="1014">Que cette prévoyance est de mauvaise grâce,</l>
 	<l id="1015">Maxime est mon ami, Maxime est votre amant,</l>
 	<l id="1016">Et vous vous opposez à mon ressentiment !</l>
 	<l id="1017">Vous m’empêchez d’aller où la gloire me porte,</l>
 	<l id="1018">Julie, est-ce vous même  ? Aime-t-on de la sorte ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1019">Je ne saurais souffrir de vous voir en danger,</l>
 	<l id="1020">De vous perdre vous même en voulant nous venger,</l>
 	<l id="1021">Horace croyez-moi, réglez votre colère,</l>
@@ -1626,7 +1626,7 @@
 	<l id="1026">Qu’on me laisse en repos dans la chambre prochaine.</l>
 <stage>Elle se retire.</stage>
 </sp>
-<sp who="HORACE"><speaker>HORACE.</speaker>
+<sp who="HORACE"><hstage><speaker>HORACE</speaker>.</hstage>
 	<l id="1027">Avec quels sentiments cette ingrate beauté</l>
 	<l id="1028">Voit-elle les transports dont je suis agité ?</l>
 	<l id="1029">Avec quelle froideur, et quelle indifférence</l>
@@ -1641,20 +1641,20 @@
 	<l id="1038">Je m’en vais de ce pas en avertir Maxime.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Sindéric, Émile.</head>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Sindéric, Émile.</cast>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1039">Julie aime Maxime ! Hélas que dites-vous?</l>
 </sp>
-<sp who="ÉMILE"><speaker>ÉMILE.</speaker>
+<sp who="ÉMILE"><hstage><speaker>ÉMILE</speaker>.</hstage>
 	<l id="1040">Oui, mais c’est à dessein d’en faire son époux.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1041" part="i">Celui que j’ai blessé, ce Chevalier.</l>
 </sp>
-<sp who="ÉMILE"><speaker>ÉMILE.</speaker>
+<sp who="ÉMILE"><hstage><speaker>ÉMILE</speaker>.</hstage>
 	<l id="1041" part="f">Lui-même.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1042">Que dans cet accident mon malheur est extrême !</l>
 	<l id="1043">Hélas  ! Si j’eusse su qu’elle eut eu ce dessein,</l>
 	<l id="1044">Jamais pour ce combat je n’eusse armé ma main ;</l>
@@ -1669,13 +1669,13 @@
 	<l id="1053">Que je sois obligé de pleurer ma victoire !</l>
 	<l id="1054">Et que ma gloire enfin fasse obstacle à ma gloire !</l>
 </sp>
-<sp who="ÉMILE"><speaker>ÉMILE.</speaker>
+<sp who="ÉMILE"><hstage><speaker>ÉMILE</speaker>.</hstage>
 	<l id="1055">Si je plains votre sort, c’est parce seulement,</l>
 	<l id="1056">Que Maxime n’est pas blessé mortellement,</l>
 	<l id="1057">Vos maux eussent fini dans la fin de sa vie ;</l>
 	<l id="1058">Car sans doute c’est lui qui choque votre envie.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1059">Qu’il la choque toujours, il peut bien s’assurer,</l>
 	<l id="1060">Que ma mère l’aimant je le veux honorer,</l>
 	<l id="1061">Ne me proposez plus des remèdes extrêmes,</l>
@@ -1683,21 +1683,21 @@
 	<l id="1063">Et dussé-je mourir en l’état où je suis,</l>
 	<l id="1064">On me verra toujours dans le devoir d’un fils.</l>
 </sp>
-<sp who="ÉMILE"><speaker>ÉMILE.</speaker>
+<sp who="ÉMILE"><hstage><speaker>ÉMILE</speaker>.</hstage>
 	<l id="1065">Mais le coup étant fait que prétendez-vous faire ?</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1066">Tâcher d’en obtenir le pardon de ma mère,</l>
 	<l id="1067">Lui montrer les remords dont mon cœur est percé,</l>
 	<l id="1068">Et laver par mes pleurs le sang que j’ai versé.</l>
 </sp>
-<sp who="ÉMILE"><speaker>ÉMILE.</speaker>
+<sp who="ÉMILE"><hstage><speaker>ÉMILE</speaker>.</hstage>
 	<l id="1069" part="i">Vous voulez donc la voir?</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1069" part="f">Il le faut bien Émile.</l>
 </sp>
-<sp who="ÉMILE"><speaker>ÉMILE.</speaker>
+<sp who="ÉMILE"><hstage><speaker>ÉMILE</speaker>.</hstage>
 	<l id="1070">L’effet de ce dessein me semble difficile,</l>
 	<l id="1071">Si quelqu’un vous voyait entrer dans sa maison</l>
 	<l id="1072">On pourrait la blâmer avec quelque raison,</l>
@@ -1706,15 +1706,15 @@
 	<l id="1075">Il faut si nous pouvons nous y couler sans bruit,</l>
 	<l id="1076">À travers l’épaisseur des ombres de la nuit.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1077">Il se fait déjà tard, le Ciel nous favorise.</l>
 	<l id="1078">Nature, assistez-moi dedans cette entreprise,</l>
 	<l id="1079">Et ne souffrez jamais qu’au mépris de vos lois</l>
 	<l id="1080">L’amour ou l’intérêt l’emporte sur mes droits.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Julie, Livie.</head>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Julie, Livie.</cast>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1081">Que j’ai peu de repos dedans ma solitude,</l>
 	<l id="1082">Ma fille, et que mon sort est plein d’inquiétude,</l>
 	<l id="1083">Je ne saurais souffrir de voir mon fils vainqueur,</l>
@@ -1751,12 +1751,12 @@
 	<l id="1114">Que pour te remettre en butte aux fureurs de ta mère ?</l>
 	<l id="1115" part="i">Maxime ! Sinderic !</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="1115" part="f">C’est trop vous affliger,</l>
 	<l id="1116">Maxime, à ce qu’on dit, ne court point de danger,</l>
 	<l id="1117" part="i">La blessure est légère.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1117" part="f">Ah  ! Qu’en sais-tu Livie ?</l>
 	<l id="1118">Je crains qu’elle ne m’ôte une si chère vie,</l>
 	<l id="1119">Pour en savoir l’état, j’ai fait aller chez lui</l>
@@ -1764,31 +1764,31 @@
 	<l id="1121">Cependant mon esprit ne s’ose rien promettre.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Cornélie, Julie, Livie.</head>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Cornélie, Julie, Livie.</cast>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="1122">Horace en repassant m’a donné cette lettre.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1123" part="i">Que dit-il de Maxime ?</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="1123" part="f">Il ne m’en a rien dit.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1124">Livie approchez-vous, voyons ce qu’il m’écrit.</l>
 	<l id="1125">Vous, allez commander qu’on coure après Horace,</l>
 	<l id="1126">Et me donnez avis de tout ce qui se passe.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="1127" part="i">Madame, il est bien tard.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1127" part="m">N’importe,</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="1127" part="f">Et bien j’y cours.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1128">Livie a seule droit de savoir mes amours.</l>
 <stage>LETTRE DE MAXIME À JULIE.</stage>
 	<l id="1129">Je vis encor Madame, et le mal que j’endure,</l>
@@ -1805,24 +1805,24 @@
 	<l id="1140">Si c’est votre plaisir, mes vœux sont satisfaits.</l>
 <stage>MAXIME.</stage>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1141">Ah dieux  ! Chaque moment augmente ma misère,</l>
 	<l id="1142">Quoi Maxime a donc su que j’avais été mère ?</l>
 	<l id="1143">Et que c’est de mon fils que procède son mal ?</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="1144">Cela n’est pas croyable, il l’appelle Rival.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1145" part="i">Ah ne me flatte point !</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="1145" part="f">Je dis sans complaisance</l>
 	<l id="1146">La chose comme elle est, et comme je la pense.</l>
 	<l id="1147">Car quel sujet a-t-il de craindre un changement,</l>
 	<l id="1148">S’il croit que Sinderic ne soit pas votre amant ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1149">Encor que ta pensée ait beaucoup d’apparence,</l>
 	<l id="1150">Je ne puis lui donner une entière créance,</l>
 	<l id="1151">Je forme en mon esprit des monstres pleins d’horreur</l>
@@ -1831,11 +1831,11 @@
 	<l id="1154">D’un fils désavoué, qui me couvre de honte.</l>
 	<l id="1155">Mais que ferai-je enfin, si Maxime le sait ?</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="1156">Vous devez soutenir ce que vous avez fait,</l>
 	<l id="1157">Accuser hautement Sinderic d’imposture.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1158">Trahir mon propre sang  ! Démentir sa nature,</l>
 	<l id="1159">Souffrir dedans mon cœur ce combat criminel,</l>
 	<l id="1160">M’exposer aux rigueurs d’un remords éternel,</l>
@@ -1844,25 +1844,25 @@
 	<l id="1163">Ah  ! Cet effort Livie excède mon pouvoir,</l>
 	<l id="1164">Et sans plus t’écouter j’écoute mon devoir.</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="1165">Dieux de quel sentiment êtes-vous animée ?</l>
 	<l id="1166">Quoi n’avoir plus de soin de votre renommée ?</l>
 	<l id="1167">Hasarder votre amour, exposer votre honneur,</l>
 	<l id="1168">Perdre votre repos, perdre votre bonheur,</l>
 	<l id="1169">Madame regardez quel est ce précipice.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1170">Hélas  ! De tous côtés je trouve mon supplice,</l>
 	<l id="1171">Mon fils, et mon amant, mon honneur, mon devoir,</l>
 	<l id="1172">Tout ce que je conçois me porte au désespoir.</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="1173">Je m’étonne comment votre esprit délibère,</l>
 	<l id="1174">La raison vous apprend ce que vous devez faire,</l>
 	<l id="1175">Vous rétracter, Madame, en cette occasion,</l>
 	<l id="1176">Ce serait redoubler votre confusion.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1177">Et bien vous l’emportez honneur inexorable ?</l>
 	<l id="1178">Oui malgré ton respect, nature vénérable,</l>
 	<l id="1179">Et tous ses sentiments de tendresse et de sang,</l>
@@ -1873,31 +1873,31 @@
 	<l id="1184">J’atteste tous les dieux que ce serait en vain.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Julie, Sindéric.</head>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Julie, Sindéric.</cast>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1185">Mais le voici venir, dieux quelle est son audace !</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1186">Je viens ici Madame, implorer votre grâce.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1187">Quoi je vois Sindéric dans ma chambre, et de nuit !</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1188">Madame apaisez-vous, le respect l’y conduit.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1189">Sindéric, dans ma chambre, ah dieux quelle insolence !</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1190">Vous pouvez en user avec toute licence,</l>
 	<l id="1191">Je souffre sans murmure un si sanglant mépris,</l>
 	<l id="1192">Ainsi parle une mère, ainsi se tait un fils.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1193" part="i">Vous mon fils !</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1193" part="f">Il est vrai que mon erreur insigne</l>
 	<l id="1194">Avec quelque raison pourrait m’en rendre indigne,</l>
 	<l id="1195">Si cette même erreur ayant pu m’abuser,</l>
@@ -1917,22 +1917,22 @@
 	<l id="1209">Qui ne vous haïrait  ? Vous causez ma misère,</l>
 	<l id="1210">Vous m’ôtez le repos, et vous m’ôtez ma mère.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1211">Monsieur, je n’entends rien dedans tout ce discours,</l>
 	<l id="1212">Et vous m’obligerez d’en arrêter le cours,</l>
 	<l id="1213" part="i">Aussi bien il est tard.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1213" part="f">Est-ce ainsi qu’on me traite ?</l>
 	<l id="1214">Quoi la nature est sourde aussi bien que muette ?</l>
 	<l id="1215">Et le sang dont le monde admire le pouvoir</l>
 	<l id="1216">Avec tous ces efforts ne peut pas l’émouvoir.</l>
 	<l id="1217" part="i">Ah ma mère !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1217" part="f">Croyez que ce nom m’importune.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1218">Je ne veux point troubler votre bonne fortune,</l>
 	<l id="1219">Mais je viens vous prier de ne permettre pas</l>
 	<l id="1220">Que ce coup de malheur augmente nos débats ;</l>
@@ -1947,7 +1947,7 @@
 	<l id="1229">Mais dans la haute estime où la faveur me range,</l>
 	<l id="1230">Qu’il a peu de justice, et qu’il paraît étrange !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1231">Plutôt que vos désirs ont peu de fondement,</l>
 	<l id="1232">Et qu’un homme d’honneur se traite indignement !</l>
 	<l id="1233">Si Sindéric était accablé de misère,</l>
@@ -1957,7 +1957,7 @@
 	<l id="1237">Mais dans le haut crédit où sa faveur le range</l>
 	<l id="1238">Qu’il a peu de justice et qu’il paraît étrange !</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1239">Hélas ! Si le destin m’était injurieux,</l>
 	<l id="1240">Sindéric n’eût jamais paru devant vos yeux,</l>
 	<l id="1241">Jamais, jamais ce fils n’eût relevé son être,</l>
@@ -1971,7 +1971,7 @@
 	<l id="1249">Mais plus j’ai de grandeur, plus on me considère,</l>
 	<l id="1250">Et plus j’ai de raison pour convaincre ma mère.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1251">Dites, dites plutôt que c’est de votre grandeur,</l>
 	<l id="1252">Qui fournit de défense à ma juste froideur,</l>
 	<l id="1253">Si vous étiez mon fils, si j’étais votre mère,</l>
@@ -1985,7 +1985,7 @@
 	<l id="1261">Ainsi considérez qui je suis, qui vous êtes,</l>
 	<l id="1262">Et par ce que je fais jugez ce que vous faites.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1263">Depuis que mon bonheur me permet de vous voir,</l>
 	<l id="1264">Madame qu’ai-je fait qui choque mon devoir ?</l>
 	<l id="1265">Quoi n’ai-je pas rendu vous rendant mes visites,</l>
@@ -1999,7 +1999,7 @@
 	<l id="1273">Regardez qui je suis, regardez qui vous êtes,</l>
 	<l id="1274">Et par ce que j’ai fait, jugez ce que vous faites.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1275">Je fais ce que je dois, quand je veux conserver</l>
 	<l id="1276">Un trésor précieux dont on me veut priver,</l>
 	<l id="1277">Je fais ce que je dois quand je tâche à défendre</l>
@@ -2011,7 +2011,7 @@
 	<l id="1283">Ah  ! Non non, Sinderic, en l’état où je suis,</l>
 	<l id="1284">Vous blâmer et me plaindre est tout ce que je puis.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1285">Et bien plaignez-vous donc, mais si votre mémoire</l>
 	<l id="1286">Conserve encor l’effet qu’a produit mon histoire,</l>
 	<l id="1287">S’il vous souvient des pleurs que vous avez versés,</l>
@@ -2029,7 +2029,7 @@
 	<l id="1299">Quand vous vous repentez de m’avoir bien traité,</l>
 	<l id="1300">Vous êtes criminelle, ou vous l’avez été.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1301">Quoi donc, dans vos discours vous mêlez l’artifice,</l>
 	<l id="1302">Pour me persécuter avec plus d’injustice ?</l>
 	<l id="1303">Et flattant le dessein que vous avez conçu,</l>
@@ -2049,7 +2049,7 @@
 	<l id="1317">Sensible aux passions qu’excite la misère,</l>
 	<l id="1318">J’ai pleuré comme femme, et non pas comme mère.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1319">Hélas  ! S’il était vrai que la seule pitié</l>
 	<l id="1320">Eût touché votre cœur, et non pas l’amitié,</l>
 	<l id="1321">Je n’aurais pas reçu tant de douces caresses,</l>
@@ -2063,45 +2063,45 @@
 	<l id="1329">Vous ne me dites mot, ah sort toujours contraire !</l>
 	<l id="1330">Puisque la voix du fils ne touche point la mère.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1331">Tous ces noms affectés sont ici superflus.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1332" part="i">Quoi n’obtiendrai-je rien  ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1332" part="f">Je ne vous entends plus.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1333">Un moment d’audience, et puis je me retire.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1334" part="i">Je ne vous connais point,</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1334" part="f">Pouvez- vous bien le dire?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1335" part="i">Je le dis sans contrainte.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1335" part="f">Ah comble de rigueur !</l>
 	<l id="1336">S’il est vrai que la bouche explique ici le cœur.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1337">C’est là mon sentiment, je vous le dis encore.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1338">Sentiment qui le perd, et qui vous déshonore ;</l>
 	<l id="1339">Ah Madame ! Cessez de tenir ce propos.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1340">Mais vous-même cessez de troubler mon repos.</l>
 	<l id="1341">Je connais vos vertus, mon âme les révère,</l>
 	<l id="1342">Et je voudrais pouvoir me dire votre mère,</l>
 	<l id="1343" part="i">Adieu.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1343" part="f">Bien, bien, Madame, allez jusques au bout,</l>
 	<l id="1344">Le respect et ce lieu veut que je souffre tout,</l>
 	<l id="1345">Mais puisqu’à vos rigueurs vous joignez le caprice,</l>
@@ -2112,8 +2112,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Maxime, Horace.</head>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Maxime, Horace.</cast>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="1349">Quoi cette ingrate change, et ne veut pas souffrir</l>
 	<l id="1350">Qu’on parle de punir ceux qui me font mourir ?</l>
 	<l id="1351">Lorsque ton amitié veut prendre ma défense,</l>
@@ -2128,10 +2128,10 @@
 	<l id="1360">J’aime encore Julie avec tant de tendresse,</l>
 	<l id="1361">Que je veux la revoir auparavant ma mort.</l>
 </sp>
-<sp who="HORACE"><speaker>HORACE.</speaker>
+<sp who="HORACE"><hstage><speaker>HORACE</speaker>.</hstage>
 	<l id="1362" part="i">Son logis n’est pas loin.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="1362" part="f">Je tremble, à cet abord.</l>
 	<l id="1363">Je recherche, et je fuis cette belle coupable,</l>
 	<l id="1364">J’ai dessein de la voir, et n’en suis pas capable.</l>
@@ -2151,34 +2151,34 @@
 	<l id="1378">Que la vertu qui parle en faveur de sa foi.</l>
 	<l id="1379">Je ne conteste plus, il faut que je la voie.</l>
 </sp>
-<sp who="HORACE"><speaker>HORACE.</speaker>
+<sp who="HORACE"><hstage><speaker>HORACE</speaker>.</hstage>
 	<l id="1380">Prenons l’occasion que le ciel nous envoie.</l>
 	<l id="1381" part="i">On ouvre, et quelqu’un sort.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Livie, Maxime, Horace.</head>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Livie, Maxime, Horace.</cast>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="1381" part="f">Ah  ! Livie est-ce toi ?</l>
 	<l id="1382" part="i">Que fait notre maîtresse ?</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="1382" part="f">Elle va chez le Roi.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="1383" part="i">Chez le Roi !</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="1383" part="m">Par son ordre.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="1383" part="f">Ah comble de ma peine !</l>
 	<l id="1384" part="i">Que me dis-tu Livie ?</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="1384" part="f">Une chose certaine.</l>
 	<l id="1385" part="i">Il a mandé Julie.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="1385" part="f">Il veut donc l’obliger</l>
 	<l id="1386">À recevoir la loi d’un Seigneur étranger !</l>
 	<l id="1387">Quoi ? Ce Prince veut donc employer sa puissance,</l>
@@ -2190,7 +2190,7 @@
 	<l id="1393">Ah ! Si le Roi prétend contraindre les esprits,</l>
 	<l id="1394">Il fait ce que les dieux n’ont jamais entrepris.</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="1395">Le procédé du Roi ne surprend pas mon âme,</l>
 	<l id="1396">Sindéric dit partout qu’il est fils de Madame,</l>
 	<l id="1397">Qu’elle doit l’avouer, et que c’est sans raison</l>
@@ -2199,38 +2199,38 @@
 	<l id="1400">Théodoric veut donc finir cette dispute,</l>
 	<l id="1401">Pour prévenir les maux qu’elle pourrait causer.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="1402">Ô Dieux ! Qu’en cet endroit j’ai droit de m’accuser,</l>
 	<l id="1403">J’avais cru jusqu’ici que ce titre de mère</l>
 	<l id="1404" part="i">Était un jeu d’amour.</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="1404" part="f">Ah je devais me taire!</l>
 	<l id="1405" part="i">Quoi vous ne saviez point ?</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="1405" part="f">Non véritablement.</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="1406" part="i">Et vous aviez donc cru ?</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="1406" part="f">Qu’il était son amant,</l>
 	<l id="1407">Et que sans respecter la foi qui nous engage,</l>
 	<l id="1408">Théodoric voulait faire ce mariage.</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="1409">Que Julie est trompée  ; et que j’ai de malheur !</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="1410" part="i">Où vas-tu ?</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="1410" part="m">Laissez-moi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Maxime, Horace.</head>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Maxime, Horace.</cast>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="1410" part="f">Sortez donc de mon cœur,</l>
 	<l id="1411">Soupçons injurieux qui traversiez ma flamme,</l>
 	<l id="1412">Vous pouvais-je souffrir vous qui blâmiez Madame</l>
@@ -2242,10 +2242,10 @@
 	<l id="1418">Peut-elle l’avouer sans blesser sa vertu ?</l>
 	<l id="1419" part="i">Lépide n’en eut point.</l>
 </sp>
-<sp who="HORACE"><speaker>HORACE.</speaker>
+<sp who="HORACE"><hstage><speaker>HORACE</speaker>.</hstage>
 	<l id="1419" part="f">Non pas au moins qu’on sache.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="1420">Donques à son honneur elle a fait quelque tache !</l>
 	<l id="1421">Donques cette vertu dont je fais tant d’état,</l>
 	<l id="1422">Qui brille dedans Rome avecques tant d’éclat,</l>
@@ -2253,11 +2253,11 @@
 	<l id="1424">Aurait vu quelque fois défaillir sa lumière !</l>
 	<l id="1425">Ah ce dernier malheur surpasse le premier !</l>
 </sp>
-<sp who="HORACE"><speaker>HORACE.</speaker>
+<sp who="HORACE"><hstage><speaker>HORACE</speaker>.</hstage>
 	<l id="1426">Mais comment l’en convaincre ? Elle peut le nier,</l>
 	<l id="1427">Personne n’a jamais osé blâmer sa vie :</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="1428">Quoi l’on pourra douter de l’honneur de Julie !</l>
 	<l id="1429">Quoi sa haute vertu recevra cet affront !</l>
 	<l id="1430">C’est ce qui me surprend, c’est ce qui me confond.</l>
@@ -2270,7 +2270,7 @@
 	<l id="1437">Que pour la mieux garder il alla vivre aux champs,</l>
 	<l id="1438">Mais je n’ai jamais su qu’elle eu des enfants.</l>
 </sp>
-<sp who="HORACE"><speaker>HORACE.</speaker>
+<sp who="HORACE"><hstage><speaker>HORACE</speaker>.</hstage>
 	<l id="1439">Il me souvient pourtant que pendant leur voyage,</l>
 	<l id="1440">Dans Rome on en conçut quelque sorte d’ombrage,</l>
 	<l id="1441">On parla sourdement que Lépide avait eu</l>
@@ -2282,7 +2282,7 @@
 	<l id="1447">Et dans le haut éclat où l’on le voit paraitre,</l>
 	<l id="1448">Puisqu’il se dit son fils, je crois qu’il le doit être.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="1449">Que Julie ait un fils, ou qu’elle n’en ait pas,</l>
 	<l id="1450">Je la regarde encore avec tous ses appas,</l>
 	<l id="1451">Je connais sa conduite, et présente et passée,</l>
@@ -2299,24 +2299,24 @@
 	<l id="1462">Combattre la nature, et triompher l’amour.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Théodoric, Boèce, la suite de Théodoric, Sindéric, Julie.</head>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Théodoric, Boèce, la suite de Théodoric, Sindéric, Julie.</cast>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1463">Grand Monarque écoutez la voix de la nature.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1464">Seigneur n’écoutez point la voix de l’imposture.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1465" part="i">Je vous ferai justice.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1465" part="m">Ah Seigneur !</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1465" part="f">C’est assez,</l>
 	<l id="1466">Mais ne vous troublez point, Sinderic commencez.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1467">Les Cieux me sont témoins avec quelle contrainte</l>
 	<l id="1468">Je porte devant vous ma légitime plainte ;</l>
 	<l id="1469">Et si je n’ai pas fait tout ce que je devais</l>
@@ -2402,16 +2402,16 @@
 	<l id="1549">Et par une action digne de votre rang,</l>
 	<l id="1550">Rejoignez aujourd’hui le sang avec le sang.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1551" part="i">Levez-vous.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1551" part="f">Ah Seigneur entendez ma défense !</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1552">Levez vous, et parlez avec toute assurance.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1553">Je ne puis m’assurer des choses que je vois,</l>
 	<l id="1554">Sindéric, est-ce vous ? Sommes-nous chez le Roi ?</l>
 	<l id="1555">Vous me trompez mes yeux ! Quoi ce grand Capitaine,</l>
@@ -2467,25 +2467,25 @@
 	<l id="1605">C’est toute la faveur que j’espère de vous,</l>
 	<l id="1606">Seigneur pour l’obtenir j’embrasse vos genoux.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1607">Levez-vous, mais Boèce enfin que dois-je faire ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1608" part="i">Pardonne à Sindéric.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1608" part="f">Pardonnez à ma mère.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1609">Passez dedans la salle, et laissez-nous ici.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Théodoric, Boèce, suite de Théodoric.</head>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Théodoric, Boèce, suite de Théodoric.</cast>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1610">Boèce leurs discours ne m’ont point éclairci,</l>
 	<l id="1611" part="i">Je ne sais que résoudre.</l>
 </sp>
-<sp who="BOÈCE"><speaker>BOÈCE.</speaker>
+<sp who="BOÈCE"><hstage><speaker>BOÈCE</speaker>.</hstage>
 	<l id="1611" part="f">En l’affaire présente,</l>
 	<l id="1612">Sire je ne vois point d’épreuve suffisante,</l>
 	<l id="1613">Je crois que Sindéric a raison en effet,</l>
@@ -2493,17 +2493,17 @@
 	<l id="1615">Mais je n’estime pas que sur une apparence</l>
 	<l id="1616">On puisse en sa faveur donner une sentence.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1617">Dieu pourquoi souffrez-vous qu’avec impunité</l>
 	<l id="1618">Le mensonge se mêle avec la vérité ?</l>
 	<l id="1619">Qu’on confonde aujourd’hui deux choses si contraires</l>
 	<l id="1620">Pour cacher à nos sens la raison des affaires :</l>
 	<l id="1621">Je ne me vis jamais dans un pareil combat.</l>
 </sp>
-<sp who="BOÈCE"><speaker>BOÈCE.</speaker>
+<sp who="BOÈCE"><hstage><speaker>BOÈCE</speaker>.</hstage>
 	<l id="1622">Seigneur sur ce sujet consultons le Sénat.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC, après avoir un peu pensé.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>, après avoir un peu pensé.</hstage>
 	<l id="1623">Il n’en est pas besoin, je vois dedans mon âme</l>
 	<l id="1624">La brillante clarté d’une secrète flamme.</l>
 	<l id="1625">Chasser l’ombre et l’erreur qui possédaient mes sens.</l>
@@ -2515,8 +2515,8 @@
 <stage>Julie entre.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Julie, Théodoric, et sa suite.</head>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Julie, Théodoric, et sa suite.</cast>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1631">Julie, il est certain qu’en cette procédure</l>
 	<l id="1632">L’erreur s’est emparée des droits de la nature,</l>
 	<l id="1633">Que sans difficulté Sindéric s’est mépris,</l>
@@ -2524,10 +2524,10 @@
 	<l id="1635">Aussi dès à présent mon pouvoir vous dispense</l>
 	<l id="1636">De ses prétentions pour sa reconnaissance.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1637">Que je vous dois Seigneur après ce jugement !</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1638">En effet sa poursuite était sans fondement,</l>
 	<l id="1639">Et je reconnais bien plus je vous considère,</l>
 	<l id="1640">Que Sinderic eût tort de vous choisir pour mère.</l>
@@ -2536,11 +2536,11 @@
 	<l id="1643">Et changeant en amour cette amitié sévère,</l>
 	<l id="1644">Vous aimer comme amante, et non pas comme mère.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1645">Je ne répondrai rien en l’état où je suis,</l>
 	<l id="1646">Baisser les yeux, Seigneur, est tout ce que je puis.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1647">Mais vous êtes encor au plus beau de votre âge,</l>
 	<l id="1648">Quoi ! Voulez-vous mourir dans ce triste veuvage ?</l>
 	<l id="1649">Sachez que votre Roi condamne ce dessein,</l>
@@ -2548,17 +2548,17 @@
 	<l id="1651">Dont la haute vertu mérite votre estime,</l>
 	<l id="1652" part="i">Que vous avez aimé,</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1652" part="f">C’est sans doute Maxime.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1653" part="i">Je ne vous entends point,</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1653" part="f">Je disais à mon Roi,</l>
 	<l id="1654">Que toujours ses désirs me tiendront lieu de loi.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1655">Puisque je suis certain de votre obéissance,</l>
 	<l id="1656">Je ne vous tiendrai point plus longtemps en balance,</l>
 	<l id="1657">Ravi que Sindéric ne soit point votre fils,</l>
@@ -2566,30 +2566,30 @@
 	<l id="1659">Par de puissants motifs d’amour, et de Justice,</l>
 	<l id="1660">Je veux dès aujourd’hui que l’hymen vous unisse</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1661">Ah ! Révoquez seigneur cette sévère loi.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1662" part="i">Quoi vous vous rétractez ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1662" part="f">Et de grâce, grand Roi,</l>
 	<l id="1663">Dispensez mon esprit d’une telle contrainte !</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1664">Mais d’où peut procéder votre sujet de plainte ?</l>
 	<l id="1665">Le parti qu’on vous offre a-t-il quelque défaut ?</l>
 	<l id="1666">Pouvez-vous justement entreprendre un plus haut ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1667">Seigneur il est trop grand, et trop considérable,</l>
 	<l id="1668">L’excès de sa grandeur me rendrait misérable.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1669">Ne vous obstinez plus à choquer mes projets,</l>
 	<l id="1670">Les Rois comme il leur plaît égalent leurs sujets.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1671">Seigneur vous pouvez tout, mais je sens dans mon âme</l>
 	<l id="1672">Un secret mouvement qui s’oppose à ma flamme,</l>
 	<l id="1673">Ce parti, quoiqu’illustre, est pour moi sans appas,</l>
@@ -2599,7 +2599,7 @@
 	<l id="1677">Et voudriez-vous agir avec tant de rigueur</l>
 	<l id="1678">Que de vouloir forcer la liberté du cœur ?</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1679">Je vous offre un époux que tout le monde estime</l>
 	<l id="1680">Jeune, adroit, libéral, courtois, et magnanime,</l>
 	<l id="1681">SI vous avez du cœur, vous devez l’estimer,</l>
@@ -2609,7 +2609,7 @@
 	<l id="1685">Ainsi votre refus étant sans fondement,</l>
 	<l id="1686">Cet Hymen doit avoir son accomplissement.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1687">Au nom de vos bontés que le monde révère,</l>
 	<l id="1688">Grand Prince, révoquez un arrêt si sévère,</l>
 	<l id="1689">Il ne m’est pas permis de disposer de moi,</l>
@@ -2620,7 +2620,7 @@
 	<l id="1694">Que cet Hymen fatal fasse trois malheureux ?</l>
 	<l id="1695" part="i">Ah seigneur !</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1695" part="f">C’est en vain que votre esprit me choque,</l>
 	<l id="1696">La volonté des Rois jamais ne se révoque,</l>
 	<l id="1697">Cessez de m’opposer vos serments, votre foi,</l>
@@ -2630,21 +2630,21 @@
 	<l id="1701">Enfin, c’est un arrêt que vous devez subir,</l>
 	<l id="1702">C’est à moi d’ordonner  ; c’est à vous d’obéir.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1703">Ah ! Je réclame ici votre justice extrême !</l>
 	<l id="1704">J’en appelle seigneur de vous-même à vous-même !</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1705">Ne me répliquez plus, vous devez aujourd’hui</l>
 	<l id="1706">Recevoir Sindéric, et vous donner à lui.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1707">Recevoir Sindéric ! Et lui donner mon âme.</l>
 	<l id="1708">Lui qui me persécute, et veut me rendre infâme !</l>
 	<l id="1709">Qui vient me soutenir à la face du Roi,</l>
 	<l id="1710">Que j’ai trahi mon sang, et violé ma foi !</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1711">Si de son procédé vous êtes offensée,</l>
 	<l id="1712">C’est contre la raison, et contre sa pensée,</l>
 	<l id="1713">Il s’est cru bien fondé dans ses prétentions,</l>
@@ -2658,70 +2658,70 @@
 	<l id="1721">Outre qu’auparavant l’arrêt que j’ai donné</l>
 	<l id="1722">Demandant son pardon vous l’avez pardonné.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1723">Mais, s’il croyait encor que je fusse sa mère,</l>
 	<l id="1724">Voudrait-il approuver cet infâme mystère ?</l>
 	<l id="1725">Et quand il penserait que je ne la suis pas</l>
 	<l id="1726">Voudrait-il hasarder de faillir à ce point ?</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1727">Je la tiens, poursuivons ; il a trop d’assurance,</l>
 	<l id="1728">De la sincérité de votre conscience</l>
 	<l id="1729">Pour croire que jamais vous puissiez vous porter,</l>
 	<l id="1730" part="i">À cet horrible crime,</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1730" part="f">Ah ! Je veux l’éviter,</l>
 	<l id="1731" part="i">Mais vous me contraignez.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1731" part="f">Nous la tenons Boèce.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1732">Ah de grâce, seigneur, excusez ma faiblesse,</l>
 	<l id="1733">J’ai failli, je l’avoue, et j’ai bien mérité</l>
 	<l id="1734">D’être aujourd’hui punie avec sévérité.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 <stage>À quelqu’un de sa suite.</stage>
 	<l id="1735" part="i">Appelez Sindéric.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1735" part="f">Doux sentiments de mère,</l>
 	<l id="1736">Efforts de la nature, enfin je vous révère !</l>
 	<l id="1737">Ô sang ! Que tes liens doivent être puissants,</l>
 	<l id="1738">Puisque malgré nos vœux tu captives nos sens !</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Maxime, Sindéric, Théodoric, Julie.</head>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Maxime, Sindéric, Théodoric, Julie.</cast>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1739">Maxime c’est assez, n’en parlons plus de grâce,</l>
 	<l id="1740">Et que de votre esprit tout le passé s’efface.</l>
 	<l id="1741">Je me suis expliqué, vous m’avez éclairci,</l>
 	<l id="1742" part="i">Vivons bien désormais.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="1742" part="f">Je le souhaite ainsi.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1743">Le voici, c’en est fait, nature je te cède,</l>
 	<l id="1744">Il vous a dit, seigneur, d’où mon crime procède,</l>
 	<l id="1745">La honte m’a forcée à le désavouer.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1746">Cette force d’esprit ne se peut trop louer.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1747">Il est pourtant, mon fils, je le sens, je l’éprouve,</l>
 	<l id="1748">Je ne saurais le voir sans que mon sang s’émeuve,</l>
 	<l id="1749">Sindéric est mon fils, c’est un aveu seigneur,</l>
 	<l id="1750">Que ma bouche vous fait beaucoup moins que mon cœur.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1751">Avancez Sinderic, nous avons la victoire,</l>
 	<l id="1752" part="i">Je vous rends votre mère.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1752" part="f">Ô comble de ma gloire !</l>
 	<l id="1753">Je reçois aujourd’hui de votre majesté</l>
 	<l id="1754">Le seul bien qui manquait à ma félicité,</l>
@@ -2732,50 +2732,50 @@
 	<l id="1759">Mais j’ose encor seigneur vous faire une prière</l>
 	<l id="1760">De grâce accordez-moi Maxime pour beau-père.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1761">Je vous accorde tout, mais à condition,</l>
 	<l id="1762">Qu’ils vous accorderont leur approbation :</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1763">Ah ! Seigneur, si Maxime aime encore sa maîtresse,</l>
 	<l id="1764">S’il me peut pardonner cette extrême faiblesse,</l>
 	<l id="1765">Que mon esprit confus a fait voir aujourd’hui,</l>
 	<l id="1766">Vous répondant pour moi je vous réponds pour lui.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="1767">Vous le pouvez Madame, avec toute assurance,</l>
 	<l id="1768">L’amour que j’ai pour vous vient de ma connaissance,</l>
 	<l id="1769">Et mon esprit qui lit dans vos intentions,</l>
 	<l id="1770">Approuve aveuglement toutes vos actions.</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1771">Jouissez donc des biens que le Ciel vous envoie,</l>
 	<l id="1772">Et croyez que mon cœur prend part à votre joie.</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1773">Ô bonté sans exemple ! Ô Prince généreux,</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1774" part="i">Que vous êtes divin !</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="1774" part="f">Que nous sommes heureux !</l>
 </sp>
-<sp who="SINDÉRIC"><speaker>SINDÉRIC.</speaker>
+<sp who="SINDÉRIC"><hstage><speaker>SINDÉRIC</speaker>.</hstage>
 	<l id="1775">Grands dieux que puis-je rendre à qui me rend ma mère,</l>
 	<l id="1776">Qui ne soit au-dessous de ce que je dois faire !</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME.</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker>.</hstage>
 	<l id="1777">Quel hommage nouveau puis-je faire à mon Roi,</l>
 	<l id="1778">Qui me donne une femme et couronne ma foi ?</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE.</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker>.</hstage>
 	<l id="1779">Mais quel ressentiment puis-je faire paraître,</l>
 	<l id="1780">Qui réponde aux faveurs que je dois reconnaître ?</l>
 	<l id="1781">Et n’est-ce pas trop peu qu’adorer à genoux,</l>
 	<l id="1782">Un Roi qui m’offre un fils, et me donne un époux ?</l>
 </sp>
-<sp who="THÉODORIC"><speaker>THÉODORIC.</speaker>
+<sp who="THÉODORIC"><hstage><speaker>THÉODORIC</speaker>.</hstage>
 	<l id="1783">Ne me regardez point dedans cette occurrence,</l>
 	<l id="1784">Comme le seul auteur de votre intelligence,</l>
 	<l id="1785">Portez votre pensée en un plus digne lieu,</l>

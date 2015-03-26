@@ -63,7 +63,7 @@
 <div1 type="prologue" n="0"><head>PROLOGUE</head>
 <div2 type="scene" n="1">
 <stage>La scène est à Sardis, ville capitale de Lydie.</stage>
-<sp who="UN PETIT GÉNIE"><speaker>UN PETIT GÉNIE.</speaker>
+<sp who="UN PETIT GÉNIE"><hstage><speaker>UN PETIT GÉNIE</speaker>.</hstage>
 	<l id="1">Que direz-vous, messieurs, à moins d’être indulgents,</l>
 	<l id="2">De voir d’abord paraître un marmot sur la scène ?</l>
 	<l id="3">Est-il à présumer que je vaille la peine</l>
@@ -118,8 +118,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Tirrène, Trasibule.</head>
-<sp who="TIRRÈNE"><speaker>TIRRÈNE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Tirrène, Trasibule.</cast>
+<sp who="TIRRÈNE"><hstage><speaker>TIRRÈNE</speaker>.</hstage>
 	<l id="49">Non, je ne puis garder plus longtemps le silence,</l>
 	<l id="50">Ma haine pour Ésope a trop de violence.</l>
 	<l id="51">Crésus, infatué d’un objet si hideux,</l>
@@ -129,10 +129,10 @@
 	<l id="55">Pour l’obséder lui seul il l’éloigne de nous ;</l>
 	<l id="56" part="i">Et prêt à l’abîmer vous hésitez !</l>
 </sp>
-<sp who="TRASIBULE"><speaker>TRASIBULE.</speaker>
+<sp who="TRASIBULE"><hstage><speaker>TRASIBULE</speaker>.</hstage>
 	<l id="56" part="m">Moi ?</l>
 </sp>
-<sp who="TIRRÈNE"><speaker>TIRRÈNE.</speaker>
+<sp who="TIRRÈNE"><hstage><speaker>TIRRÈNE</speaker>.</hstage>
 	<l id="56" part="f">Vous.</l>
 	<l id="57">Quel sujet vous oblige à différer sa perte ?</l>
 	<l id="58">Prenons l’occasion qui nous en est offerte.</l>
@@ -141,7 +141,7 @@
 	<l id="60">À détromper Crésus appliquons notre soin.</l>
 	<l id="61" part="i">Qu’attendez-vous ?</l>
 </sp>
-<sp who="TRASIBULE"><speaker>TRASIBULE.</speaker>
+<sp who="TRASIBULE"><hstage><speaker>TRASIBULE</speaker>.</hstage>
 	<l id="61" part="f">J’attends que nous lui voyions faire</l>
 	<l id="62">Ce qu’avant son voyage il faisait d’ordinaire.</l>
 	<l id="63">Ébloui d’un trésor qu’il ne pouvait trop voir,</l>
@@ -155,38 +155,38 @@
 	<l id="71">Soyez dans votre haine aussi ferme que moi.</l>
 	<l id="72" part="i">Et croyez...</l>
 </sp>
-<sp who="TIRRÈNE"><speaker>TIRRÈNE.</speaker>
+<sp who="TIRRÈNE"><hstage><speaker>TIRRÈNE</speaker>.</hstage>
 	<l id="72" part="f">Parlez bas ; il vient avec le roi.</l>
 	<l id="73">Du retour de ce traître il a l’âme charmée.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Crésus, Ésope, Tirrène, Trasibule, Iphis, suite.</head>
-<sp who="CRESUS"><speaker>CRÉSUS, à Tirrène et à Trasibule</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Crésus, Ésope, Tirrène, Trasibule, Iphis, suite.</cast>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>, à Tirrène et à Trasibule</hstage>
 	<l id="74">Trouvez-vous au conseil à l’heure accoutumée.</l>
 <stage>À Ésope.</stage>
 	<l id="75" part="i"> allez... demeure, Ésope...</l>
 <stage>À Iphis.</stage>
 	<l id="75" part="f">Et vous, Iphis, sortez.</l>
 </sp>
-<sp who="IPHIS"><speaker>IPHIS.</speaker>
+<sp who="IPHIS"><hstage><speaker>IPHIS</speaker>.</hstage>
 	<l id="76">Eh ! Seigneur, se peut-il qu’après tant de</l>
 	<l id="77" part="i">Bontés ?...</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="77" part="f">Mon ordre est une loi, c’est moi qui vous l’annonce,</l>
 	<l id="78">Sortez. Je ne veux point d’inutile réponse.</l>
 </sp>
-<sp who="IPHIS"><speaker>IPHIS.</speaker>
+<sp who="IPHIS"><hstage><speaker>IPHIS</speaker>.</hstage>
 	<l id="79" part="i">Si mon zèle...</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="79" part="f">Je hais les discours superflus :</l>
 	<l id="80">Iphis, sortez, vous dis-je, et ne me voyez plus.</l>
 </sp>
 <stage>Tirrène, Trasibule, Iphis et la suite sortent.</stage>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Crésus, Ésope.</head>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Crésus, Ésope.</cast>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="81">Pour toi, mon cher Ésope, il faut que je t’avoue</l>
 	<l id="82">Que de ton équité tout le monde se loue.</l>
 	<l id="83">Il n’est grands ni petits des endroits d’où tu viens</l>
@@ -204,7 +204,7 @@
 	<l id="95">Règle ce que je dois suivant ce que je puis,</l>
 	<l id="96">Et rends-moi digne, enfin, d’être ce que je suis.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="97">Seigneur, vous obéir est ma plus forte envie.</l>
 	<l id="98">C’est à vous que mon zèle a consacré ma vie ;</l>
 	<l id="99">Mais, dans l’heureux état où vos bontés m’ont mis,</l>
@@ -222,7 +222,7 @@
 	<l id="111">Et l’on étale aux rois d’un plus tranquille front</l>
 	<l id="112">Les vertus qu’ils n’ont pas que les défauts qu’ils ont.</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="113">Et c’est, mon cher Ésope, à quoi, s’il est possible,</l>
 	<l id="114">Tu me dois empêcher d’avoir le cœur sensible.</l>
 	<l id="115">Quel monarque a-t-on vu, pendant qu’il a régné,</l>
@@ -249,7 +249,7 @@
 	<l id="136">En sont également l’œil, l’esprit et le bras.</l>
 	<l id="137">Guide mes pas toi-même au chemin de la gloire.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="138">Les rois presque toujours y vont par la victoire :</l>
 	<l id="139">Leurs plus nobles travaux sont les travaux guerriers.</l>
 	<l id="140">Eh ! Quel prince a-t-on vu plus couvert de lauriers ?</l>
@@ -267,7 +267,7 @@
 	<l id="152">Que ne le fut jamais celui de conquérant...</l>
 	<l id="153">Je vous parle, seigneur, en serviteur fidèle.</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="154">Eh ! Qui sait mieux que moi la grandeur de ton zèle ?</l>
 	<l id="155">Poursuis. N’interromps point des avis si prudents,</l>
 	<l id="156">Et des soins du dehors passe à ceux du dedans :</l>
@@ -275,7 +275,7 @@
 	<l id="158">Bannis-en les abus, chasses-en l’injustice :</l>
 	<l id="159">Ta bonté pour le peuple a pris des soins si grands !...</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="160">Que le peuple et la cour, seigneur, sont différents !</l>
 	<l id="161">Quoiqu’on nomme le peuple un monstre à plusieurs têtes,</l>
 	<l id="162">Si les uns sont grossiers, les autres sont honnêtes.</l>
@@ -303,7 +303,7 @@
 	<l id="184">Trouvent qu’ils ont vécu, sans qu’ils sachent</l>
 	<l id="185" part="i">Pourquoi.</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="185" part="f">Je reconnais ma cour, je ne puis te le taire,</l>
 	<l id="186">Au fidèle tableau que tu me viens de faire :</l>
 	<l id="187">Mais un trait important, que tes soins ont omis,</l>
@@ -322,7 +322,7 @@
 	<l id="200">On m’applaudirait même avant de m’énoncer :</l>
 	<l id="201">Je confonds le faux zèle avec le véritable.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="202">Permettez-moi, seigneur, de vous dire une fable.</l>
 	<l id="203">Jamais la vérité n’entre mieux chez les rois</l>
 	<l id="204">Que lorsque de la fable elle emprunte la voix.</l>
@@ -389,7 +389,7 @@
 	<l id="264">C’est une liberté que vous m’avez permise.</l>
 	<l id="265">Je ne sais ce que c’est que de rien déguiser.</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="266">Qui ne m’offense point ne doit point s’excuser.</l>
 	<l id="267">Charmé de tes avis, pénétré de ton zèle,</l>
 	<l id="268">Et par tant de raisons, sûr que tu m’es fidèle,</l>
@@ -398,10 +398,10 @@
 	<l id="271">D’Iphis, qui s’est lui-même attiré sa disgrâce,</l>
 	<l id="272">De l’orgueilleux Iphis je te donne la place.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="273" part="i">À moi, seigneur ?</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="273" part="f">Sur qui puis-je jeter les yeux</l>
 	<l id="274">Qui me soit plus fidèle, et qui me serve mieux ?</l>
 	<l id="275">Qui peut plus sagement gouverner mes finances</l>
@@ -427,8 +427,8 @@
 <stage>Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Ésope, Arsinoé, Laïs.</head>
-<sp who="ARSINOE"><speaker>ARSINOÉ.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Ésope, Arsinoé, Laïs.</cast>
+<sp who="ARSINOE"><hstage><speaker>ARSINOÉ</speaker>.</hstage>
 	<l id="295">Quoi ! Le seigneur Ésope en croit donc être quitte,</l>
 	<l id="296">Pour m’avoir en passant daigné rendre visite ?</l>
 	<l id="297">Et son zèle se borne à me voir une fois,</l>
@@ -437,7 +437,7 @@
 	<l id="300">Mon sexe et ma naissance ont quelque privilège.</l>
 	<l id="301">Quand j’estime quelqu’un, je le vois plus souvent.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="302">Vos bienfaits dans mon cœur sont gravés trop avant</l>
 	<l id="303">Pour ne pas avouer, si je suis quelque chose,</l>
 	<l id="304">Que vous seule aujourd’hui vous en êtes la cause.</l>
@@ -445,33 +445,33 @@
 	<l id="306">Et cependant, madame, à quoi vous suis-je bon ?</l>
 	<l id="307">Ne puis-je à votre gloire être d’aucun usage ?</l>
 </sp>
-<sp who="ARSINOE"><speaker>ARSINOÉ.</speaker>
+<sp who="ARSINOE"><hstage><speaker>ARSINOÉ</speaker>.</hstage>
 	<l id="308">À quoi m’étiez-vous bon avant votre voyage ?</l>
 	<l id="309">J’écoutais vos avis, estimés de chacun.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="310">Vous les écoutiez tous, et n’en suiviez aucun.</l>
 </sp>
-<sp who="LAIS"><speaker>LAÏS.</speaker>
+<sp who="LAIS"><hstage><speaker>LAÏS</speaker>.</hstage>
 	<l id="311">Il a raison, madame, et je ne puis m’en taire.</l>
 	<l id="312">Vous n’avez pas au monde un ami plus sincère,</l>
 	<l id="313">Il ne donne jamais que d’utiles avis ;</l>
 	<l id="314">Et vous auriez bien fait de les avoir suivis.</l>
 </sp>
-<sp who="ARSINOE"><speaker>ARSINOÉ.</speaker>
+<sp who="ARSINOE"><hstage><speaker>ARSINOÉ</speaker>.</hstage>
 	<l id="315">Il me prenait peut-être en de méchantes heures,</l>
 	<l id="316">Où mes raisons, Laïs, me semblaient les meilleures.</l>
 </sp>
-<sp who="LAIS"><speaker>LAÏS.</speaker>
+<sp who="LAIS"><hstage><speaker>LAÏS</speaker>.</hstage>
 	<l id="317">Je ne sais ; mais enfin vous avez des appas</l>
 	<l id="318">Qu’on aurait mis en œuvre, au lieu qu’ils n’y sont pas.</l>
 	<l id="319" part="i">Vous seriez mariée, et contente.</l>
 </sp>
-<sp who="ARSINOE"><speaker>ARSINOÉ.</speaker>
+<sp who="ARSINOE"><hstage><speaker>ARSINOÉ</speaker>.</hstage>
 	<l id="319" part="f">Peut-être.</l>
 	<l id="320">Lorsque je le voudrai, ne le puis-je pas être ?</l>
 </sp>
-<sp who="LAIS"><speaker>LAÏS.</speaker>
+<sp who="LAIS"><hstage><speaker>LAÏS</speaker>.</hstage>
 	<l id="321">Oui, sans doute, et choisir dans le rang le plus haut,</l>
 	<l id="322">Mais vous l’auriez été deux ou trois ans plus tôt.</l>
 	<l id="323">La jeunesse est, madame, une saison bien chère ;</l>
@@ -482,7 +482,7 @@
 	<l id="327">Et c’est pour un État un bien si nécessaire</l>
 	<l id="328">Qu’on l’aimerait mieux fait que d’être encore à faire.</l>
 </sp>
-<sp who="ARSINOE"><speaker>ARSINOÉ.</speaker>
+<sp who="ARSINOE"><hstage><speaker>ARSINOÉ</speaker>.</hstage>
 	<l id="329">Ces plausibles raisons pour le bien des États</l>
 	<l id="330">Souvent avec le cœur ne s’accommodent pas.</l>
 	<l id="331">J’aime mieux un époux qui m’aime et qui me plaise,</l>
@@ -491,7 +491,7 @@
 	<l id="334">Me fait de ma patrie éloigner à regret :</l>
 	<l id="335">Il me semble qu’ailleurs je serais transplantée.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="336">Vous, madame, partout vous serez respectée.</l>
 	<l id="337">En quelque lieu du monde où l’on vous puisse voir,</l>
 	<l id="338">Vous aurez sur les cœurs un absolu pouvoir.</l>
@@ -500,15 +500,15 @@
 	<l id="340">Et de tous vos pareils le trône est la patrie.</l>
 	<l id="341">Vous seriez étrangère en un degré plus bas.</l>
 </sp>
-<sp who="LAIS"><speaker>LAÏS.</speaker>
+<sp who="LAIS"><hstage><speaker>LAÏS</speaker>.</hstage>
 	<l id="342">L’amour seul du pays ne vous arrête pas :</l>
 	<l id="343">Pour monter sur un trône il n’est rien qu’on ne quitte.</l>
 	<l id="344">Parlons juste, Crésus est d’un si haut mérite...</l>
 </sp>
-<sp who="ARSINOE"><speaker>ARSINOÉ.</speaker>
+<sp who="ARSINOE"><hstage><speaker>ARSINOÉ</speaker>.</hstage>
 	<l id="345" part="i">Laïs !...</l>
 </sp>
-<sp who="LAIS"><speaker>LAÏS.</speaker>
+<sp who="LAIS"><hstage><speaker>LAÏS</speaker>.</hstage>
 	<l id="345" part="f">Serait-ce un mal qu’un si grand roi vous plût ?</l>
 	<l id="346">C’est un prince accompli, si jamais il en fut,</l>
 	<l id="347">Que dans tous ses projets accompagne la gloire,</l>
@@ -519,17 +519,17 @@
 	<l id="352">Et vous seriez un couple à servir de modèle.</l>
 	<l id="353">Vous voyez que je songe à vous fixer ici.</l>
 </sp>
-<sp who="ARSINOE"><speaker>ARSINOÉ.</speaker>
+<sp who="ARSINOE"><hstage><speaker>ARSINOÉ</speaker>.</hstage>
 	<l id="354">Eh ! Qui t’a commandé de t’expliquer ainsi ?</l>
 </sp>
-<sp who="LAIS"><speaker>LAÏS.</speaker>
+<sp who="LAIS"><hstage><speaker>LAÏS</speaker>.</hstage>
 	<l id="355">Quand je puis obliger, ma joie est assez grande</l>
 	<l id="356">Pour n’attendre jamais que l’on me le commande.</l>
 	<l id="357">Lui, comblé de vertus, vous, brillante d’appas,</l>
 	<l id="358">Cet hymen à tous deux ne vous déplairait pas.</l>
 	<l id="359">Qui pourrez-vous trouver, vous et lui, qui vous vaille ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="360">Je réponds du succès pour peu que j’y travaille,</l>
 	<l id="361">Madame ; obligez-moi de me le commander.</l>
 	<l id="362">Votre gloire est d’un prix à ne point hasarder ;</l>
@@ -581,7 +581,7 @@
 	<l id="407">L’âge que vous avez est le temps où l’on charme :</l>
 	<l id="408">Pensez-y.</l>
 </sp>
-<sp who="ARSINOE"><speaker>ARSINOÉ.</speaker>
+<sp who="ARSINOE"><hstage><speaker>ARSINOÉ</speaker>.</hstage>
 	<l id="409">Franchement, votre héron m’alarme ;</l>
 	<l id="410">Et mon cœur inquiet, depuis cette leçon,</l>
 	<l id="411">A peur d’être réduit au sort du limaçon.</l>
@@ -589,7 +589,7 @@
 	<l id="413">Il est beau de donner des appuis aux couronnes ;</l>
 	<l id="414" part="i">Je suivrai vos avis.</l>
 </sp>
-<sp who="LAIS"><speaker>LAÏS.</speaker>
+<sp who="LAIS"><hstage><speaker>LAÏS</speaker>.</hstage>
 	<l id="414" part="f">Le plus tôt vaut le mieux :</l>
 	<l id="415">Une plante stérile est maudite des dieux.</l>
 	<l id="416">Qu’est-ce qu’une princesse et vertueuse et belle</l>
@@ -598,10 +598,10 @@
 	<l id="419">Pour un futur monarque, en mettre une autre au jour ?</l>
 	<l id="420">On ne peut du beau temps faire un trop bon usage.</l>
 </sp>
-<sp who="ARSINOE"><speaker>ARSINOÉ.</speaker>
+<sp who="ARSINOE"><hstage><speaker>ARSINOÉ</speaker>.</hstage>
 	<l id="421" part="i">Je ne l’écoute pas ; elle est folle.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="421" part="f">Elle est sage,</l>
 	<l id="422">Et raisonne si bien sur ce que nous disons</l>
 	<l id="423">Que j’entre avec plaisir dans toutes ses raisons.</l>
@@ -611,7 +611,7 @@
 	<l id="427">D’avoir en bagatelle employé le printemps.</l>
 	<l id="428">Pardon ; j’ai le malheur d’être un peu trop sincère.</l>
 </sp>
-<sp who="ARSINOE"><speaker>ARSINOÉ.</speaker>
+<sp who="ARSINOE"><hstage><speaker>ARSINOÉ</speaker>.</hstage>
 	<l id="429">Est-il une vertu qui soit plus nécessaire ?</l>
 	<l id="430">Plût au ciel qu’à la cour chacun vous ressemblât,</l>
 	<l id="431">Et que ce fût ainsi que le monde y parlât !</l>
@@ -623,22 +623,22 @@
 	<l id="437">Après cette assurance, adieu ; je me retire.</l>
 	<l id="438">Songez à votre fable en faisant un tel choix.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="439">Oui, madame ; et, de plus, à ce que je vous dois.</l>
 </sp>
-<sp who="LAIS"><speaker>LAÏS,  à Ésope.</speaker>
+<sp who="LAIS"><hstage><speaker>LAÏS</speaker>,  à Ésope.</hstage>
 	<l id="440">Comme il s’en faut beaucoup que je ne sois si belle,</l>
 	<l id="441">Aussi ne suis-je pas si difficile qu’elle.</l>
 	<l id="442">En lui cherchant son fait si vous trouviez le mien,</l>
 	<l id="443" part="i">Vous n’obligeriez pas une ingrate.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="443" part="f">Fort bien.</l>
 <stage>Arsinoé et Laïs sortent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Ésope, Plexipe.</head>
-<sp who="PLEXIPE"><speaker>PLEXIPE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Ésope, Plexipe.</cast>
+<sp who="PLEXIPE"><hstage><speaker>PLEXIPE</speaker>.</hstage>
 	<l id="444">Ah ! Monsieur, que de joie, après six mois d’absence,</l>
 	<l id="445">Dans les murs de Sardis cause votre présence !</l>
 	<l id="446">Chacun faisant des vœux pour votre heureux retour,</l>
@@ -647,45 +647,45 @@
 	<l id="449">Ne puis trop vous marquer combien je vous révère,</l>
 	<l id="450">Pour vous en assurer, j’ai saisi ce moment.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="451">Je suis bien redevable à votre empressement.</l>
 	<l id="452">À quoi dans vos desseins puis-je vous être utile ?</l>
 </sp>
-<sp who="PLEXIPE"><speaker>PLEXIPE.</speaker>
+<sp who="PLEXIPE"><hstage><speaker>PLEXIPE</speaker>.</hstage>
 	<l id="453">Que l’on est médisant dans cette grande ville !</l>
 	<l id="454">Je n’aurais jamais cru qu’on en fût venu là.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="455">Comment ! à quel propos me dites-vous cela ?</l>
 </sp>
-<sp who="PLEXIPE"><speaker>PLEXIPE.</speaker>
+<sp who="PLEXIPE"><hstage><speaker>PLEXIPE</speaker>.</hstage>
 	<l id="456">Êtes-vous assuré qu’aucun ne nous entende ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="457">Que de précaution votre secret demande !</l>
 	<l id="458">Le bonheur de Crésus lui fait-il des jaloux ?</l>
 	<l id="459" part="i">Quelqu’un...</l>
 </sp>
-<sp who="PLEXIPE"><speaker>PLEXIPE.</speaker>
+<sp who="PLEXIPE"><hstage><speaker>PLEXIPE</speaker>.</hstage>
 	<l id="459" part="f">En votre absence on a médit de vous.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="460" part="i">De moi ?</l>
 </sp>
-<sp who="PLEXIPE"><speaker>PLEXIPE.</speaker>
+<sp who="PLEXIPE"><hstage><speaker>PLEXIPE</speaker>.</hstage>
 	<l id="460" part="f">De vous. Trois fois j’ai pensé vous l’écrire.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="461">On peut dire de moi bien du mal sans médire ;</l>
 	<l id="462" part="i">Je vous l’apprends.</l>
 </sp>
-<sp who="PLEXIPE"><speaker>PLEXIPE.</speaker>
+<sp who="PLEXIPE"><hstage><speaker>PLEXIPE</speaker>.</hstage>
 	<l id="462" part="f">Des gens, que vous comblez de biens,</l>
 	<l id="463">Blâment votre conduite en tous leurs entretiens ;</l>
 	<l id="464">Et, comme apparemment aucun ne les soupçonne,</l>
 	<l id="465" part="i">Ce sont...</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="465" part="f">Gardez-vous bien de me nommer personne.</l>
 	<l id="466">Peut-être faible et prompt chercherais-je un moyen</l>
 	<l id="467">De leur faire du mal quand ils me font du bien.</l>
@@ -695,23 +695,23 @@
 	<l id="471">Et que leur médisance aide à me corriger.</l>
 	<l id="472">Dites-moi sur quels points ils blâmaient ma conduite.</l>
 </sp>
-<sp who="PLEXIPE"><speaker>PLEXIPE.</speaker>
+<sp who="PLEXIPE"><hstage><speaker>PLEXIPE</speaker>.</hstage>
 	<l id="473">On tenait des discours et sans ordre et sans suite...</l>
 	<l id="474">Soit qu’on eût de la haine ou qu’on fût en courroux...</l>
 	<l id="475">Je sais confusément qu’on médisait de vous.</l>
 	<l id="476">Je ne sais rien de plus dont je vous puisse instruire.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="477">Si vous ne savez rien, que me venez-vous dire ?</l>
 	<l id="478">Pourquoi de mes amis me donner du soupçon ?</l>
 	<l id="479" part="i">Croyez-vous ne manquer que de mémoire ?</l>
 </sp>
-<sp who="PLEXIPE"><speaker>PLEXIPE.</speaker>
+<sp who="PLEXIPE"><hstage><speaker>PLEXIPE</speaker>.</hstage>
 	<l id="479" part="f">Eh ! Non.</l>
 	<l id="480">Je suis fait comme un autre, et je ne puis comprendre</l>
 	<l id="481" part="i">Ce qui me peut manquer.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="481" part="f">Je m’en vais vous l’apprendre.</l>
 <stage>LA MARCHANDISE DE MAUVAIS DEBIT</stage>
 	<l id="482">Apollon et Mercure, étant brouillés là-haut,</l>
@@ -774,21 +774,21 @@
 	<l id="537">Est d’être l’espion des paroles d’autrui.</l>
 	<l id="538">Plus sincère que vous, je dis ce que je pense.</l>
 </sp>
-<sp who="PLEXIPE"><speaker>PLEXIPE.</speaker>
+<sp who="PLEXIPE"><hstage><speaker>PLEXIPE</speaker>.</hstage>
 	<l id="539">J’attendais de mon zèle une autre récompense.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="540">Quand j’aurais un trésor à mettre en votre main,</l>
 	<l id="541">Vous manquez de mémoire, et l’oublieriez demain.</l>
 	<l id="542">C’est perdre ses bienfaits que de les mal répandre.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Ésope, Plexipe, Licas.</head>
-<sp who="LICAS"><speaker>LICAS.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Ésope, Plexipe, Licas.</cast>
+<sp who="LICAS"><hstage><speaker>LICAS</speaker>.</hstage>
 	<l id="543">Dans votre appartement Rhodope va se rendre.</l>
 	<l id="544">Elle m’envoie ici vous le faire savoir.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE, à Plexipe.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>, à Plexipe.</hstage>
 	<l id="545">Adieu. J’ai du regret de trahir votre espoir.</l>
 	<l id="546">Fassent les médisants tout ce qu’ils pourront faire,</l>
 	<l id="547">Je sais par quel moyen on les force à se taire ;</l>
@@ -798,8 +798,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Ésope, Rhodope.</head>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Ésope, Rhodope.</cast>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="550">Vous me suivez en vain ; souffrez que je respire.</l>
 	<l id="551">Ne vous ai-je pas dit ce que j’avais à dire ?</l>
 	<l id="552">Je n’ai rien oublié, dans mon juste courroux,</l>
@@ -808,19 +808,19 @@
 	<l id="555">Et je ne prétends pas qu’on nous y trouve ensemble ;</l>
 	<l id="556" part="i">J’ai mes raisons.</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE.</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker>.</hstage>
 	<l id="556" part="f">Et moi, j’ai les miennes aussi</l>
 	<l id="557">Pour ne me pas résoudre à vous quitter ainsi.</l>
 	<l id="558">Il est juste à mon tour que je vous entretienne.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="559" part="i">Le roi dans un moment vient ici.</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE.</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker>.</hstage>
 	<l id="559" part="f">Qu’il y vienne :</l>
 	<l id="560">Jusqu’à ce qu’il y soit, je ne vous quitte pas.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="561">Vous croyez m’éblouir par vos trompeurs appas ?</l>
 	<l id="562">Tout difforme et hideux que vous paraisse Ésope,</l>
 	<l id="563">Ne vous en flattez pas, infidèle Rhodope :</l>
@@ -830,13 +830,13 @@
 	<l id="567">Plus j’eus d’amour pour vous, plus j’ai pour vous de haine.</l>
 	<l id="568">Je ne sais point de terme à pouvoir l’exprimer.</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE.</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker>.</hstage>
 	<l id="569">Vous me haïssez trop, pour ne me plus aimer.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="570">Non, vos charmes pour moi n’ont plus aucune amorce.</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE.</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker>.</hstage>
 	<l id="571">Vos remords seront vains si nous faisons divorce :</l>
 	<l id="572">Pensez-y bien, de grâce, avant d’en venir là ;</l>
 	<l id="573">Et, si vous m’en croyez, n’éprouvez point cela.</l>
@@ -844,7 +844,7 @@
 	<l id="575">Je suis ce que j’étais quand vous m’avez aimée :</l>
 	<l id="576" part="i">J’en jure...</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="576" part="f">Épargnez-vous des serments superflus :</l>
 	<l id="577">Vous étiez vertueuse, et vous ne l’êtes plus.</l>
 	<l id="578">Pendant cinq ou six mois qu’a duré mon absence,</l>
@@ -852,7 +852,7 @@
 	<l id="580">Et les honteux attraits qui vous sont demeurés,</l>
 	<l id="581">Par l’emploi qu’ils ont eu sont tous défigurés.</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE.</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker>.</hstage>
 	<l id="582">Si c’est là mon portrait et que je lui ressemble,</l>
 	<l id="583">Je ne m’étonne pas de nous voir mal ensemble.</l>
 	<l id="584">Sur quelle conjecture avez-vous ces soupçons ?</l>
@@ -870,7 +870,7 @@
 	<l id="596">Mais dans tous les plaisirs dont je vous fais l’aveu,</l>
 	<l id="597">Ce n’est qu’amusement, qu’innocence, que jeu.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="598">Ah ! Rhodope, Rhodope, à qui j’avais envie</l>
 	<l id="599">De donner les moments les plus chers de ma vie,</l>
 	<l id="600">Mon cœur, qui sans tendresse aurait moins de courroux,</l>
@@ -906,7 +906,7 @@
 	<l id="629">Quand on perd sa bonne odeur !</l>
 	<l id="630">Vous reconnaissez-vous, Rhodope, en cette fable ?</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE.</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker>.</hstage>
 	<l id="631">Non ; l’application n’en est pas raisonnable.</l>
 	<l id="632">Je veux bien ressembler à l’âne du matin ;</l>
 	<l id="633">Mais à celui du soir, j’en aurais du chagrin.</l>
@@ -930,7 +930,7 @@
 	<l id="651">Et trouvent tout permis, en sauvant l’apparence.</l>
 	<l id="652">Pour moi qui marche droit, je ne me contrains pas.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="653">Que vous avez, traîtresse ! Et d’esprit et d’appas !</l>
 	<l id="654">Quand le ciel vous forma sur un si beau modèle,</l>
 	<l id="655">Que ne vous faisait-il aussi sage que belle !</l>
@@ -943,11 +943,11 @@
 	<l id="662">Vous le verrez se rendre à la plus faible excuse.</l>
 	<l id="663" part="i">Parlez.</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE.</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker>.</hstage>
 	<l id="663" part="f">Méritez-vous que je vous désabuse ?</l>
 	<l id="664" part="i">Combien d’injures...</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="664" part="f">Trop pour d’innocents appas ;</l>
 	<l id="665">Trop peu si j’ai raison et qu’ils ne le soient pas !...</l>
 	<l id="666">Mais, adieu ; le roi vient, retirez-vous, de grâce.</l>
@@ -959,15 +959,15 @@
 <stage>Rhodope sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Crésus, Ésope, Tirrène, Trasibule.</head>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Crésus, Ésope, Tirrène, Trasibule.</cast>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="672" part="i">Asseyez-vous.</l>
 <stage>Il s’assied, ainsi que Trasibule et Tirrène.</stage>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE, à Crésus.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>, à Crésus.</hstage>
 	<l id="672" part="f">Seigneur, je ne suis pas d’un sang...</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="673">Ton mérite y supplée, et vaut le plus haut rang.</l>
 	<l id="674">Assieds-toi, je le veux... depuis plus d’une année,</l>
 	<l id="675">Mes sujets de leur roi souhaitent l’hyménée ;</l>
@@ -991,7 +991,7 @@
 	<l id="693">En faveur de l’amour ou de l’ambition.</l>
 	<l id="694">Parlez-moi librement, et qu’un pur zèle éclate.</l>
 </sp>
-<sp who="TIRRÈNE"><speaker>TIRRÈNE.</speaker>
+<sp who="TIRRÈNE"><hstage><speaker>TIRRÈNE</speaker>.</hstage>
 	<l id="695">Seigneur, cette matière est un peu délicate.</l>
 	<l id="696">Vous aimez ; il faudrait, pour vous faire ma cour,</l>
 	<l id="697">Approuver votre choix et flatter votre amour.</l>
@@ -1017,7 +1017,7 @@
 	<l id="716">Et quels jaloux voisins oseront vous troubler,</l>
 	<l id="717">Qu’avec tant de pouvoir vous ne fassiez trembler ?</l>
 </sp>
-<sp who="TRASIBULE"><speaker>TRASIBULE.</speaker>
+<sp who="TRASIBULE"><hstage><speaker>TRASIBULE</speaker>.</hstage>
 	<l id="718">J’ose ajouter, Seigneur, à ce qu’a dit Tirrène,</l>
 	<l id="719">Que c’est de vos sujets rendre l’attente vaine ;</l>
 	<l id="720">Et que las de la guerre et des maux qu’elle a faits,</l>
@@ -1039,10 +1039,10 @@
 	<l id="736">L’intérêt de l’État me fait parler ainsi :</l>
 	<l id="737" part="i">Voilà mon sentiment.</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS, à Ésope.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>, à Ésope.</hstage>
 	<l id="737" part="m">Et le tien ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="737" part="f">Le voici.</l>
 	<l id="738">Pour peu qu’à l’écouter votre bonté s’applique,</l>
 	<l id="739">Vous verrez ce que c’est qu’un hymen politique.</l>
@@ -1134,7 +1134,7 @@
 	<l id="823">Comme fera Crésus avec Arsinoé.</l>
 	<l id="824">Sa vertu vous répond d’un bonheur infaillible.</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="825">Que tu me touches bien par où je suis sensible !</l>
 	<l id="826">Pressé par tes raisons, je vais mettre à ses pieds</l>
 	<l id="827">Tout ce qu’a d’éclatant le trône où je me sieds,</l>
@@ -1143,55 +1143,55 @@
 <stage>Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Ésope, Tirrène, Trasibule.</head>
-<sp who="TIRRÈNE"><speaker>TIRRÈNE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Ésope, Tirrène, Trasibule.</cast>
+<sp who="TIRRÈNE"><hstage><speaker>TIRRÈNE</speaker>.</hstage>
 	<l id="830">Crésus à nos conseils préfère vos avis ;</l>
 	<l id="831">Loin d’en être jaloux, nous en sommes ravis :</l>
 	<l id="832">Il ne saurait pour vous faire voir trop d’estime.</l>
 </sp>
-<sp who="TRASIBULE"><speaker>TRASIBULE.</speaker>
+<sp who="TRASIBULE"><hstage><speaker>TRASIBULE</speaker>.</hstage>
 	<l id="833">Quel ministre a-t-il eu d’un esprit plus sublime ?</l>
 	<l id="834">Vous le servez si bien que d’un commun aveu,</l>
 	<l id="835">Quoi qu’il fasse pour vous, il fait encor trop peu.</l>
 </sp>
-<sp who="TIRRÈNE"><speaker>TIRRÈNE.</speaker>
+<sp who="TIRRÈNE"><hstage><speaker>TIRRÈNE</speaker>.</hstage>
 	<l id="836">Combien ai-je d’Iphis souhaité la disgrâce,</l>
 	<l id="837">Pour avoir le plaisir de vous voir en sa place !</l>
 	<l id="838">Il en était indigne, et vous la méritez.</l>
 </sp>
-<sp who="TRASIBULE"><speaker>TRASIBULE.</speaker>
+<sp who="TRASIBULE"><hstage><speaker>TRASIBULE</speaker>.</hstage>
 	<l id="839">C’était un misérable en proie aux lâchetés,</l>
 	<l id="840">Qui pour toutes raisons écoutait ses caprices,</l>
 	<l id="841">Et qui pour s’enrichir faisait mille injustices.</l>
 </sp>
-<sp who="TIRRÈNE"><speaker>TIRRÈNE.</speaker>
+<sp who="TIRRÈNE"><hstage><speaker>TIRRÈNE</speaker>.</hstage>
 	<l id="842">Il était violent, vindicatif, brutal,</l>
 	<l id="843">Lent à faire du bien, prompt à faire du mal</l>
 	<l id="844">Faisant tout son bonheur de traverser le vôtre,</l>
 	<l id="845">Et n’obligeant quelqu’un que pour nuire à quelque autre ;</l>
 	<l id="846">Un esprit inégal, un discernement faux.</l>
 </sp>
-<sp who="TRASIBULE"><speaker>TRASIBULE.</speaker>
+<sp who="TRASIBULE"><hstage><speaker>TRASIBULE</speaker>.</hstage>
 	<l id="847">Je vais en un seul mot dire tous ses défauts :</l>
 	<l id="848">Crésus avec raison l’extermine et l’assomme ;</l>
 	<l id="849">Il n’est pas sur la terre un plus malhonnête homme.</l>
 	<l id="850">À vous en défier vous avez intérêt :</l>
 	<l id="851" part="i">Il est fourbe et méchant...</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="851" part="f">Dites-moi, s’il vous plaît,</l>
 	<l id="852">Vous ferais-je plaisir de vous dire une fable,</l>
 	<l id="853">Sur le coup imprévu dont la rigueur l’accable ?</l>
 	<l id="854">Sa peinture et la vôtre y sont en raccourci.</l>
 </sp>
-<sp who="TIRRÈNE"><speaker>TIRRÈNE.</speaker>
+<sp who="TIRRÈNE"><hstage><speaker>TIRRÈNE</speaker>.</hstage>
 	<l id="855" part="i">Je vous en prie.</l>
 </sp>
-<sp who="TRASIBULE"><speaker>TRASIBULE.</speaker>
+<sp who="TRASIBULE"><hstage><speaker>TRASIBULE</speaker>.</hstage>
 	<l id="855" part="f">Et moi, je vous en prie aussi.</l>
 	<l id="856">J’en conçois, par avance, une idée agréable.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="857">N’en perdez pas un mot, tout en est profitable.</l>
 <stage>LE FIGUIER FOUDROYE</stage>
 	<l id="858">Près de Lesbos fut jadis un figuier</l>
@@ -1260,35 +1260,35 @@
 	<l id="920">Puisqu’il s’est pu résoudre à vous faire du bien.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Ésope, Tirrène, Trasibule, Iphis.</head>
-<sp who="IPHIS"><speaker>IPHIS, à Tirrène.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Ésope, Tirrène, Trasibule, Iphis.</cast>
+<sp who="IPHIS"><hstage><speaker>IPHIS</speaker>, à Tirrène.</hstage>
 	<l id="921">Jamais vit-on disgrâce et plus prompte et plus forte ?</l>
 	<l id="922" part="i">Que mon sort, cher Tirrène, est cruel !</l>
 </sp>
-<sp who="TIRRÈNE"><speaker>TIRRÈNE.</speaker>
+<sp who="TIRRÈNE"><hstage><speaker>TIRRÈNE</speaker>.</hstage>
 	<l id="922" part="f">Que m’importe ?</l>
 </sp>
-<sp who="IPHIS"><speaker>IPHIS, à part.</speaker>
+<sp who="IPHIS"><hstage><speaker>IPHIS</speaker>, à part.</hstage>
 	<l id="923" part="i">Qu’entends-je ?... Trasibule aura plus de bonté...</l>
 <stage>À Trasibule.</stage>
 	<l id="923" part="f">Mon malheur...</l>
 </sp>
-<sp who="TRASIBULE"><speaker>TRASIBULE.</speaker>
+<sp who="TRASIBULE"><hstage><speaker>TRASIBULE</speaker>.</hstage>
 	<l id="924">Quel qu’il soit, vous l’avez mérité.</l>
 </sp>
-<sp who="IPHIS"><speaker>IPHIS.</speaker>
+<sp who="IPHIS"><hstage><speaker>IPHIS</speaker>.</hstage>
 	<l id="925">Juste ciel ! Trasibule et Tirrène me fuient !...</l>
 	<l id="926">Que d’affronts à la cour les malheureux essuient !</l>
 <stage>Tirrène et Trasibule sortent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Ésope, Iphis.</head>
-<sp who="IPHIS"><speaker>IPHIS.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Ésope, Iphis.</cast>
+<sp who="IPHIS"><hstage><speaker>IPHIS</speaker>.</hstage>
 	<l id="927">Monsieur, je viens ici, par un ordre du roi,</l>
 	<l id="928">Déposer mon crédit, ma faveur, mon emploi.</l>
 	<l id="929">En de plus dignes mains je ne puis m’en démettre.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="930">Moi, je vais le prier de ne le pas permettre.</l>
 	<l id="931">Au chagrin de Crésus dussé-je m’exposer,</l>
 	<l id="932">J’aime mieux le souffrir que de vous en causer ;</l>
@@ -1296,7 +1296,7 @@
 	<l id="934">Je vous offre le mien pour vous le faire rendre.</l>
 	<l id="935">Voyez auprès du roi ce que je puis pour vous.</l>
 </sp>
-<sp who="IPHIS"><speaker>IPHIS.</speaker>
+<sp who="IPHIS"><hstage><speaker>IPHIS</speaker>.</hstage>
 	<l id="936">Respect, zèle, remords, tout aigrit son courroux.</l>
 	<l id="937">Si pour moi tant de fois sa bonté fut extrême,</l>
 	<l id="938">Contre moi sa colère est aujourd’hui de même.</l>
@@ -1306,10 +1306,10 @@
 	<l id="942">Vous qui ne me devez que de l’indifférence.</l>
 	<l id="943">En voulant me servir vous déplairiez au roi.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="944" part="i">Eh ! Qui soupçonnez-vous de vous avoir nui ?</l>
 </sp>
-<sp who="IPHIS"><speaker>IPHIS.</speaker>
+<sp who="IPHIS"><hstage><speaker>IPHIS</speaker>.</hstage>
 	<l id="944" part="f">Moi.</l>
 	<l id="945">Ce qu’a de plus horrible une chute si haute,</l>
 	<l id="946">Je ne puis qu’à moi seul en imputer la faute :</l>
@@ -1317,11 +1317,11 @@
 	<l id="948">C’est moi qui, sans raison, me le suis attiré :</l>
 	<l id="949">De ma témérité je reçois le salaire.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="950">Crésus est trop bon roi pour garder sa colère.</l>
 	<l id="951">Votre crime envers lui n’est pas grand, que je crois.</l>
 </sp>
-<sp who="IPHIS"><speaker>IPHIS.</speaker>
+<sp who="IPHIS"><hstage><speaker>IPHIS</speaker>.</hstage>
 	<l id="952">En fait-on de petits quand on déplaît aux rois ?</l>
 	<l id="953">Hier, dans un festin, dont j’eus le malheur d’être,</l>
 	<l id="954">Crésus ayant mis bas la qualité de maître,</l>
@@ -1343,7 +1343,7 @@
 	<l id="970">Puisqu’après avoir bu je rends si bien justice.</l>
 	<l id="971" part="i">Retirez-vous. »</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="971" part="f">Eh quoi ! Pour un vieux courtisan,</l>
 	<l id="972">Vous-même de vos maux vous êtes l’artisan ?</l>
 	<l id="973">Pour reprendre les rois, sans craindre leurs murmures,</l>
@@ -1417,20 +1417,20 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Crésus, Gardes.</head>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Crésus, Gardes.</cast>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="1038" part="i">Ésope ne suit pas ?</l>
 </sp>
-<sp who="GARDE"><speaker>UN GARDE.</speaker>
+<sp who="GARDE"><hstage><speaker>UN GARDE</speaker>.</hstage>
 	<l id="1038" part="m">Non, seigneur.</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="1038" part="f">Qu’on l’appelle...</l>
 <stage>Le garde sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="1039">Quel ministre à son roi fut jamais plus fidèle ?</l>
 	<l id="1040">Quelque prix de ses soins qu’il exige aujourd’hui,</l>
 	<l id="1041">Il fait bien plus pour moi que je ne fais pour lui...</l>
@@ -1439,8 +1439,8 @@
 <stage>Tous les gardes sortent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Crésus, Ésope.</head>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Crésus, Ésope.</cast>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="1042" part="f">Mon aspect t’embarrasse ?</l>
 	<l id="1043">De l’indiscret Iphis tu demandes la grâce ?</l>
 	<l id="1044">Je sais que la clémence est la vertu des rois,</l>
@@ -1450,7 +1450,7 @@
 	<l id="1048">Et, sans te prévenir, si tu veux y penser,</l>
 	<l id="1049">Puis-je lui faire grâce, et peux-tu m’en presser ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1050">Je ne veux point, seigneur, pour avoir cette grâce,</l>
 	<l id="1051">Par de vaines raisons excuser son audace :</l>
 	<l id="1052">Je vous l’ai déjà dit, c’est avec équité</l>
@@ -1461,11 +1461,11 @@
 	<l id="1057">Que vous pardonnez mieux que vous ne punissez.</l>
 	<l id="1058">Quel plaisir ont les rois de pouvoir faire grâce !</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="1059">Songes-tu que d’Iphis je t’ai donné la place ?</l>
 	<l id="1060" part="i">Puis-je lui pardonner sans la lui rendre ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1060" part="f">Non.</l>
 	<l id="1061">Je remets en vos mains un si précieux don.</l>
 	<l id="1062">Plus on est élevé, plus on cause d’ombrage.</l>
@@ -1480,10 +1480,10 @@
 	<l id="1071">Digne qu’un grand monarque en garde la mémoire.</l>
 	<l id="1072">Peut-être à ce sujet cadre-t-il assez bien.</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="1073">Parle. J’écoute tout d’un zèle égal au tien.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1074">En été, que la pluie est chaude et passagère,</l>
 	<l id="1075">Un des rois vos aïeux, chassant avec sa cour,</l>
 	<l id="1076">Vit pleuvoir dans une rivière,</l>
@@ -1521,13 +1521,13 @@
 	<l id="1108">Par vos ordres exprès je vous parle sans fard.</l>
 	<l id="1109" part="i">Vous le voulez ?</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="1109" part="f">Pourquoi t’ai-je connu si tard ?</l>
 	<l id="1110">Qu’un monarque est heureux, quand un ami fidèle</l>
 	<l id="1111">Joint un si grand respect avec un si grand zèle !</l>
 	<l id="1112">Mais l’insolent Iphis avec un ton brutal...</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1113">Peut-être à sa manière a-t-il un zèle égal.</l>
 	<l id="1114">Il n’est pas à la cour le premier qui s’oublie,</l>
 	<l id="1115">Et qui devienne sage après une folie.</l>
@@ -1543,7 +1543,7 @@
 	<l id="1125">Ce que je vous demande est de l’écouter bien.</l>
 	<l id="1126">Je ne dirai plus rien, si ma fable est frivole.</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="1127">J’écoute ; souviens-toi de me tenir parole.</l>
 <stage>LE LION ET LE RAT</stage>
 	<l id="1128">Un lion endormi, s’éveillant en sursaut,</l>
@@ -1597,17 +1597,17 @@
 	<l id="1174">Eh bien ! Seigneur, mes vœux seront-ils exaucés ?...</l>
 	<l id="1175" part="i">Vous ne répondez rien ?</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="1175" part="f">C’est te répondre assez.</l>
 	<l id="1176">Le lion me prescrit ce qu’il faut que je fasse :</l>
 	<l id="1177">Je dois, roi comme lui, comme lui faire grâce.</l>
 	<l id="1178">Qu’Iphis de mon courroux n’appréhende plus rien ;</l>
 	<l id="1179">Puisqu’il est ton ami, je veux être le sien.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1180" part="i">Seigneur !...</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="1180" part="f">Je te défends d’oser ouvrir la bouche</l>
 	<l id="1181">Pour me persuader que ma bonté te touche.</l>
 	<l id="1182">Le plaisir le plus grand, trop longtemps attendu,</l>
@@ -1629,8 +1629,8 @@
 <stage>Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Ésope, Iphicrate.</head>
-<sp who="IPHICRATE"><speaker>IPHICRATE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Ésope, Iphicrate.</cast>
+<sp who="IPHICRATE"><hstage><speaker>IPHICRATE</speaker>.</hstage>
 	<l id="1198">« Monsieur, de vos vertus le bruit s’étend si loin,</l>
 	<l id="1199">Qu’on ne peut pour vous voir se donner trop de soin.</l>
 	<l id="1200">Après un long service, en différentes guerres,</l>
@@ -1644,38 +1644,38 @@
 	<l id="1208">Et je suis si content d’avoir cet avantage,</l>
 	<l id="1209">Que mon plaisir paraît jusque sur mon visage.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1210">Si vous en exceptez la rareté du fait,</l>
 	<l id="1211">J’ignore quel plaisir ma figure vous fait ;</l>
 	<l id="1212">Pour me bien définir je ne sais point de phrase.</l>
 </sp>
-<sp who="IPHICRATE"><speaker>IPHICRATE.</speaker>
+<sp who="IPHICRATE"><hstage><speaker>IPHICRATE</speaker>.</hstage>
 	<l id="1213">Je viens pour la liqueur, et non pas pour le vase.</l>
 	<l id="1214">Le corps, quel qu’il puisse être, est l’ouvrage d’autrui ;</l>
 	<l id="1215">Mais la vertu d’un homme est son ouvrage à lui,</l>
 	<l id="1216">Et je croirais lui faire une injustice extrême,</l>
 	<l id="1217">Si je ne le voyais par son mérite même.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1218">Quand j’aurais un mérite à vous frapper les yeux,</l>
 	<l id="1219">Ne le devrais-je pas à la bonté des dieux ?</l>
 </sp>
-<sp who="IPHICRATE"><speaker>IPHICRATE.</speaker>
+<sp who="IPHICRATE"><hstage><speaker>IPHICRATE</speaker>.</hstage>
 	<l id="1220" part="i">Des dieux ? Bon !</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1220" part="m">Comment bon ?</l>
 </sp>
-<sp who="IPHICRATE"><speaker>IPHICRATE.</speaker>
+<sp who="IPHICRATE"><hstage><speaker>IPHICRATE</speaker>.</hstage>
 	<l id="1220" part="f">Eh quoi ! Vous qu’on renomme,</l>
 	<l id="1221">Vous avez la faiblesse et l’erreur d’un autre homme !</l>
 	<l id="1222">Vous croyez donc devoir votre mérite aux dieux ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1223">Avant que, vous et moi, nous nous expliquions mieux,</l>
 	<l id="1224">Avec qui, s’il vous plaît, ai-je ici l’honneur d’être ?</l>
 </sp>
-<sp who="IPHICRATE"><speaker>IPHICRATE.</speaker>
+<sp who="IPHICRATE"><hstage><speaker>IPHICRATE</speaker>.</hstage>
 	<l id="1225">On me nomme Iphicrate, et vous m’allez connaître.</l>
 	<l id="1226">Je ne sais ici-bas d’autre félicité</l>
 	<l id="1227">Que dans une flatteuse et douce volupté ;</l>
@@ -1692,50 +1692,50 @@
 	<l id="1238">Être accessible à tous, par son humanité :</l>
 	<l id="1239">Non, rien n’est comparable à cette volupté.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1240">Votre plaisir est grand, je n’en fais point de doute,</l>
 	<l id="1241">À suivre une si juste et si charmante route.</l>
 	<l id="1242">Je ne vous cèle point que je suis enchanté</l>
 	<l id="1243">De cette délicate et pure volupté.</l>
 	<l id="1244" part="i">Je rends grâces aux dieux...</l>
 </sp>
-<sp who="IPHICRATE"><speaker>IPHICRATE.</speaker>
+<sp who="IPHICRATE"><hstage><speaker>IPHICRATE</speaker>.</hstage>
 	<l id="1244" part="f">Eh quoi ! Les dieux encore ?</l>
 	<l id="1245">Laissez-là ces beaux noms, que le vulgaire adore.</l>
 	<l id="1246">Peut-on être si faible avec tant de raison ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1247" part="i">Vous ne croyez donc pas qu’il soit des dieux ?</l>
 </sp>
-<sp who="IPHICRATE"><speaker>IPHICRATE.</speaker>
+<sp who="IPHICRATE"><hstage><speaker>IPHICRATE</speaker>.</hstage>
 	<l id="1247" part="f">Moi ? Non.</l>
 	<l id="1248">Et vous ne le croyez non plus que moi, je pense ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1249">Vous le conjecturez avec peu d’apparence.</l>
 	<l id="1250" part="i">Sur quoi vous fondez-vous pour n’en pas croire ?</l>
 </sp>
-<sp who="IPHICRATE"><speaker>IPHICRATE.</speaker>
+<sp who="IPHICRATE"><hstage><speaker>IPHICRATE</speaker>.</hstage>
 	<l id="1250" part="f">Moi ?</l>
 	<l id="1251" part="i">Sur quoi vous fondez-vous pour en croire ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1251" part="f">Sur quoi ?</l>
 	<l id="1252">J’ai, vous n’en doutez point, pour moi le plus grand nombre.</l>
 </sp>
-<sp who="IPHICRATE"><speaker>IPHICRATE.</speaker>
+<sp who="IPHICRATE"><hstage><speaker>IPHICRATE</speaker>.</hstage>
 	<l id="1253">Il est vrai, mais qui marche à tâtons et dans l’ombre,</l>
 	<l id="1254">Qui bronche à chaque pas, chancelle à chaque point,</l>
 	<l id="1255">Et qui les craint si peu que c’est n’en croire point.</l>
 	<l id="1256">Les Dieux doivent leur être aux faiblesses des hommes.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1257">Ne convenez-vous pas que vous et moi nous sommes ?</l>
 </sp>
-<sp who="IPHICRATE"><speaker>IPHICRATE.</speaker>
+<sp who="IPHICRATE"><hstage><speaker>IPHICRATE</speaker>.</hstage>
 	<l id="1258" part="i">Sans doute.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1258" part="f">Croyez-vous que nous venions de rien ?</l>
 	<l id="1259">Mon père avait son père, et son père le sien ;</l>
 	<l id="1260">Et que nous parcourions mes aïeux ou les vôtres,</l>
@@ -1744,10 +1744,10 @@
 	<l id="1263">Eh ! Qui donc, je vous prie, a fait ce premier-là ?</l>
 	<l id="1264">Voilà sur quel article il faut qu’on me réponde.</l>
 </sp>
-<sp who="IPHICRATE"><speaker>IPHICRATE.</speaker>
+<sp who="IPHICRATE"><hstage><speaker>IPHICRATE</speaker>.</hstage>
 	<l id="1265">Je crois l’homme éternel de même que le monde.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1266">Peut-il être éternel et sujet au trépas ?</l>
 	<l id="1267">Il commence et finit, vous ne l’ignorez pas.</l>
 	<l id="1268">Tout être dépendant vient d’un être suprême ;</l>
@@ -1764,17 +1764,17 @@
 	<l id="1279">Et pour n’y croire pas seriez-vous ferme assez ?</l>
 	<l id="1280">Parlez de bonne foi sur le fait que je pose.</l>
 </sp>
-<sp who="IPHICRATE"><speaker>IPHICRATE.</speaker>
+<sp who="IPHICRATE"><hstage><speaker>IPHICRATE</speaker>.</hstage>
 	<l id="1281" part="i">Si je devais mourir dans une heure ?...</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1281" part="m">Oui.</l>
 </sp>
-<sp who="IPHICRATE"><speaker>IPHICRATE.</speaker>
+<sp who="IPHICRATE"><hstage><speaker>IPHICRATE</speaker>.</hstage>
 	<l id="1281" part="f">La chose</l>
 	<l id="1282">Est un peu délicate, et je ne sais pas bien...</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1283">Croiriez-vous quelque chose, ou ne croiriez-vous rien ?</l>
 	<l id="1284">Vous, et tous vos pareils, qui semblez intrépides,</l>
 	<l id="1285">À l’aspect de la mort vous êtes si timides</l>
@@ -1782,11 +1782,11 @@
 	<l id="1287">Mille de cris perçants importunent les dieux.</l>
 	<l id="1288" part="i">S’il vous fallait mourir, que croiriez-vous ?</l>
 </sp>
-<sp who="IPHICRATE"><speaker>IPHICRATE.</speaker>
+<sp who="IPHICRATE"><hstage><speaker>IPHICRATE</speaker>.</hstage>
 	<l id="1288" part="f">Peut-être</l>
 	<l id="1289">Que mon cœur combattu par la peur du non-être...</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1290">Eh ! Monsieur, le non-être est ce qu’on craint le moins :</l>
 	<l id="1291">La peur d’être toujours cause bien d’autres soins ;</l>
 	<l id="1292">Le passé fait trembler, l’avenir embarrasse.</l>
@@ -1794,7 +1794,7 @@
 	<l id="1294">Si vous deviez mourir dans une heure, au plus tard,</l>
 	<l id="1295">Que croiriez-vous ? Parlez sans énigme et sans fard.</l>
 </sp>
-<sp who="IPHICRATE"><speaker>IPHICRATE.</speaker>
+<sp who="IPHICRATE"><hstage><speaker>IPHICRATE</speaker>.</hstage>
 	<l id="1296">Sans énigme et sans fard ! Je ne suis pas un homme</l>
 	<l id="1297">Qui par le nom d’athée aime qu’on me renomme.</l>
 	<l id="1298">Je ne dispute point pour vouloir disputer ;</l>
@@ -1813,7 +1813,7 @@
 	<l id="1311">Plus juste ou plus craintif, je les implorerais.</l>
 	<l id="1312">Eh ! Que ne fait-on point quand il faut que l’on meure ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1313">Votre raison alors sera-t-elle meilleure ?</l>
 	<l id="1314">Aurez-vous de l’esprit plus que vous n’en avez ?</l>
 	<l id="1315">Saurez-vous sur ce point plus que vous ne savez ?</l>
@@ -1823,12 +1823,12 @@
 	<l id="1319">Et que peut-on risquer qui soit plus important ?</l>
 	<l id="1320" part="i">Qui dit dieux, dit vengeurs ; et leur foudre...</l>
 </sp>
-<sp who="IPHICRATE"><speaker>IPHICRATE.</speaker>
+<sp who="IPHICRATE"><hstage><speaker>IPHICRATE</speaker>.</hstage>
 	<l id="1320" part="f">Au contraire :</l>
 	<l id="1321">Qui dit Dieux, dit cléments. Un remords bien sincère</l>
 	<l id="1322">Arrête, en expirant, leur foudre prête à choir.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1323">Eh ! Ce remords sincère, est-on sûr de l’avoir ?</l>
 	<l id="1324">Sur le point d’expirer, quoi qu’on se persuade,</l>
 	<l id="1325">Le repentir est faible autant que le malade.</l>
@@ -1838,12 +1838,12 @@
 	<l id="1329">Ne sont pas assurés que les dieux les écoutent.</l>
 	<l id="1330">Voulez-vous à m’entendre appliquer votre soin ?</l>
 </sp>
-<sp who="IPHICRATE"><speaker>IPHICRATE.</speaker>
+<sp who="IPHICRATE"><hstage><speaker>IPHICRATE</speaker>.</hstage>
 	<l id="1331">Pour quel autre sujet viens-je ici de si loin ?</l>
 	<l id="1332">Le plaisir le plus grand que vous me puissiez faire,</l>
 	<l id="1333">C’est de m’ouvrir votre âme et de ne me rien taire.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 <stage>LE FAUCON MALADE</stage>
 	<l id="1334">Un faucon qui croyait les dieux muets et sourds,</l>
 	<l id="1335">Étant à son heure dernière,</l>
@@ -1869,7 +1869,7 @@
 	<l id="1355">Et qui tombe dessous ne s’en retire pas,</l>
 	<l id="1356" part="i">Voilà ce que je crois.</l>
 </sp>
-<sp who="IPHICRATE"><speaker>IPHICRATE.</speaker>
+<sp who="IPHICRATE"><hstage><speaker>IPHICRATE</speaker>.</hstage>
 	<l id="1356" part="f">Monsieur, cessons, de grâce !</l>
 	<l id="1357">Ce discours vous fatigue autant qu’il m’embarrasse.</l>
 	<l id="1358">À lutter contre vous j’applique en vain mes soins,</l>
@@ -1888,12 +1888,12 @@
 	<l id="1371">Si mes yeux sont fermés, qu’ils se défermeront.</l>
 	<l id="1372">Je demande un jour fixe encor cette semaine.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1373">Non, monsieur, je saurai vous en sauver la peine ;</l>
 	<l id="1374">Et je vous promets bien, pour vous faire ma cour,</l>
 	<l id="1375">Que j’irai vous trouver jusqu’en votre séjour.</l>
 </sp>
-<sp who="IPHICRATE"><speaker>IPHICRATE.</speaker>
+<sp who="IPHICRATE"><hstage><speaker>IPHICRATE</speaker>.</hstage>
 	<l id="1376">Vous, monsieur ? Plût aux dieux, que je commence à croire,</l>
 	<l id="1377">Que vous me voulussiez accorder cette gloire !</l>
 	<l id="1378">C’est un endroit riant dans la belle saison ;</l>
@@ -1909,20 +1909,20 @@
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1385" part="f">Que de clartés, hors la plus nécessaire !</l>
 	<l id="1386">Et que d’honnêtes gens à la cour aujourd’hui</l>
 	<l id="1387">Ont la même faiblesse éclairés comme lui !</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Ésope, Léonide.</head>
-<sp who="LEONIDE"><speaker>LÉONIDE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Ésope, Léonide.</cast>
+<sp who="LEONIDE"><hstage><speaker>LÉONIDE</speaker>.</hstage>
 	<l id="1388" part="i">Bonjour, monsieur.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1388" part="f">Bonjour. Que voulez-vous, madame ?</l>
 </sp>
-<sp who="LEONIDE"><speaker>LÉONIDE.</speaker>
+<sp who="LEONIDE"><hstage><speaker>LÉONIDE</speaker>.</hstage>
 	<l id="1389">Eh ! Monsieur, je ne suis qu’une bien pauvre femme ;</l>
 	<l id="1390">Je n’ai point de parent, père, frère, ni sœur,</l>
 	<l id="1391">Qui jamais ait été madame, ni monsieur :</l>
@@ -1931,7 +1931,7 @@
 	<l id="1394">Ce que je vous apprends montre assez, que je crois,</l>
 	<l id="1395">Qu’en m’appelant madame, on se moque de moi.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1396">Eh bien ! Ma bonne femme, à quoi vous suis-je utile ?</l>
 	<l id="1397">Qui vous fait de si loin venir en cette ville ?</l>
 	<l id="1398">J’écoute les raisons, sans distinguer les rangs,</l>
@@ -1941,48 +1941,48 @@
 	<l id="1402">Si je puis vous servir ici, je le ferai.</l>
 	<l id="1403" part="i">Y serez-vous longtemps ?</l>
 </sp>
-<sp who="LEONIDE"><speaker>LÉONIDE.</speaker>
+<sp who="LEONIDE"><hstage><speaker>LÉONIDE</speaker>.</hstage>
 	<l id="1403" part="f">Le moins que je pourrai.</l>
 	<l id="1404">Sans vous, de qui la vue adoucit ma disgrâce,</l>
 	<l id="1405">Je me repentirais d’avoir quitté la Thrace.</l>
 	<l id="1406">J’ai bien pris de la peine et bien fait du chemin,</l>
 	<l id="1407">Pour ne trouver au bout que mépris et chagrin.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1408">Avez-vous de quelqu’un essuyé quelque injure ?</l>
 </sp>
-<sp who="LEONIDE"><speaker>LÉONIDE.</speaker>
+<sp who="LEONIDE"><hstage><speaker>LÉONIDE</speaker>.</hstage>
 	<l id="1409">Oui, monsieur ; et sans doute une qui m’est bien dure.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1410" part="i">Et de qui ?</l>
 </sp>
-<sp who="LEONIDE"><speaker>LÉONIDE.</speaker>
+<sp who="LEONIDE"><hstage><speaker>LÉONIDE</speaker>.</hstage>
 	<l id="1410" part="f">D’une main de qui mon cœur déçu</l>
 	<l id="1411">N’attendait point du tout le coup qu’il a reçu,</l>
 	<l id="1412" part="i">de Rhodope.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1412" part="f">Rhodope ! Elle qui plaît, qui brille ?</l>
 	<l id="1413" part="i">Rhodope, dites-vous ?</l>
 </sp>
-<sp who="LEONIDE"><speaker>LÉONIDE.</speaker>
+<sp who="LEONIDE"><hstage><speaker>LÉONIDE</speaker>.</hstage>
 	<l id="1413" part="f">Eh ! Bons dieux, quelle fille !</l>
 	<l id="1414">Elle vient de me faire un si cruel affront...</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1415" part="i">Elle, Rhodope ?</l>
 </sp>
-<sp who="LEONIDE"><speaker>LÉONIDE.</speaker>
+<sp who="LEONIDE"><hstage><speaker>LÉONIDE</speaker>.</hstage>
 	<l id="1415" part="f">Un jour les dieux l’en puniront...</l>
 	<l id="1416">J’en conçois par avance une douleur mortelle.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE, appelant</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>, appelant</hstage>
 	<l id="1417" part="i">Holà ! Quelqu’un.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Ésope, Léonide, Licas.</head>
-<sp who="ESOPE"><speaker>ÉSOPE, à Licas.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Ésope, Léonide, Licas.</cast>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>, à Licas.</hstage>
 	<l id="1417" part="f">Voyez si Rhodope est chez elle.</l>
 	<l id="1418">Je la prie instamment de vouloir me mander</l>
 	<l id="1419">Quand je pourrai la voir, sans trop l’incommoder.</l>
@@ -1990,23 +1990,23 @@
 <stage>Licas sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Ésope, Léonide.</head>
-<sp who="LEONIDE"><speaker>LÉONIDE.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Ésope, Léonide.</cast>
+<sp who="LEONIDE"><hstage><speaker>LÉONIDE</speaker>.</hstage>
 	<l id="1421">Cachez bien, s’il vous plaît, ce que je vous annonce,</l>
 	<l id="1422">Mon cher monsieur : je l’aime, et, quoi qu’elle m’ait fait,</l>
 	<l id="1423">Si je lui faisais tort, j’en aurais du regret :</l>
 	<l id="1424" part="i">Je le sens bien.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1424" part="f">D’où vient qu’elle vous est si chère ?</l>
 </sp>
-<sp who="LEONIDE"><speaker>LÉONIDE.</speaker>
+<sp who="LEONIDE"><hstage><speaker>LÉONIDE</speaker>.</hstage>
 	<l id="1425">Pour m’avoir méconnue, en suis-je moins sa mère ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1426" part="i">Vous, sa mère ?</l>
 </sp>
-<sp who="LEONIDE"><speaker>LÉONIDE.</speaker>
+<sp who="LEONIDE"><hstage><speaker>LÉONIDE</speaker>.</hstage>
 	<l id="1426" part="f">Oui, monsieur. Si cet aveu lui nuit,</l>
 	<l id="1427">Je consens, avec joie, à n’en faire aucun bruit.</l>
 	<l id="1428">Après l’avoir pleurée, et cru sa mort certaine,</l>
@@ -2019,18 +2019,18 @@
 	<l id="1435">J’implore vos bontés dans le dernier besoin.</l>
 	<l id="1436">Pardon, si jusqu’à vous ma douleur est venue !</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1437">Rhodope est votre fille, et vous a méconnue !</l>
 	<l id="1438">Est-il bien vrai ? Vos yeux en sont-ils les témoins,</l>
 	<l id="1439">Et n’y mêlez-vous rien, ou du plus ou du moins ?</l>
 	<l id="1440">Quelles fausses raisons colorent cet outrage ?</l>
 </sp>
-<sp who="LEONIDE"><speaker>LÉONIDE.</speaker>
+<sp who="LEONIDE"><hstage><speaker>LÉONIDE</speaker>.</hstage>
 	<l id="1441">Je suis pauvre, elle est riche ; en faut-il davantage ?</l>
 	<l id="1442">Elle a peur que ma vue infecte sa maison.</l>
 	<l id="1443" part="i">C’est tout.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE, à part.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>, à part.</hstage>
 	<l id="1443" part="f">La pauvre femme a peut-être raison.</l>
 	<l id="1444">Rhodope n’est pas seule, en sa bonne fortune,</l>
 	<l id="1445">Qui d’un pauvre parent fuit la vue importune.</l>
@@ -2049,22 +2049,22 @@
 	<l id="1457">Rhodope de son sort elle seule est la cause :</l>
 	<l id="1458">Le jour qu’elle respire est votre unique don.</l>
 </sp>
-<sp who="LEONIDE"><speaker>LÉONIDE.</speaker>
+<sp who="LEONIDE"><hstage><speaker>LÉONIDE</speaker>.</hstage>
 	<l id="1459" part="i">Est-ce un juste sujet de ne me pas voir ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1459" part="f">Non.</l>
 	<l id="1460">Elle a dû vous voyant avoir l’âme ravie.</l>
 	<l id="1461">Eh ! Que ne doit-on pas à qui l’on doit la vie ?...</l>
 	<l id="1462">Bientôt de ses raisons je vais être éclairci.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Ésope, Léonide, Licas.</head>
-<sp who="LICAS"><speaker>LICAS.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>Ésope, Léonide, Licas.</cast>
+<sp who="LICAS"><hstage><speaker>LICAS</speaker>.</hstage>
 	<l id="1463">Rhodope suit mes pas, et va se rendre ici.</l>
 	<l id="1464">Je n’ai pu l’empêcher de prendre cette peine.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE, à Licas.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>, à Licas.</hstage>
 	<l id="1465">Conduisez cette femme à la chambre prochaine ;</l>
 	<l id="1466">Et, surtout, ayez soin de la placer si bien,</l>
 	<l id="1467">Que de tous nos discours elle ne perde rien.</l>
@@ -2073,19 +2073,19 @@
 </sp>
 <stage>Licas et Léonide sortent.</stage>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X.  Ésope, Rhodope.</head>
-<sp who="RHODOPE"><speaker>RHODOPE.</speaker>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><cast> Ésope, Rhodope.</cast>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker>.</hstage>
 	<l id="1469">Je viens savoir de vous à quoi je vous suis bonne.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1470" part="i">Je m’en allais vous voir.</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE.</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker>.</hstage>
 	<l id="1470" part="f">Et moi je vous préviens,</l>
 	<l id="1471">Sûre que vos moments sont plus chers que les miens.</l>
 	<l id="1472" part="i">Que vous plaît-il ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1472" part="f">Vous dire une fable nouvelle,</l>
 	<l id="1473">Que bien des courtisans m’ont paru trouver belle ;</l>
 	<l id="1474">Mais étant la plupart ou flatteurs ou jaloux,</l>
@@ -2094,11 +2094,11 @@
 	<l id="1477">Et j’en crois plus le cœur que je n’en crois la bouche.</l>
 	<l id="1478">Si le vôtre s’émeut, je serai satisfait.</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE.</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker>.</hstage>
 	<l id="1479">J’en dirai mon avis, comme j’ai toujours fait,</l>
 	<l id="1480">Sans vanité pour moi, pour vous sans flatterie.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1481">C’est ce que je demande et de quoi je vous prie.</l>
 <stage>LE FLEUVE ET SA SOURCE</stage>
 	<l id="1482">Un fleuve, enflé d’orgueil de l’abondance d’eau</l>
@@ -2113,7 +2113,7 @@
 	<l id="1491">Sentez-vous qu’en secret votre cœur se remue ?</l>
 	<l id="1492" part="i">Vous pleurez ?</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE.</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker>.</hstage>
 	<l id="1492" part="f">Est-ce à tort ?... je suis au désespoir !</l>
 	<l id="1493">J’ai trahi la nature, oublié mon devoir,</l>
 	<l id="1494">Sacrifié ma gloire à des chimères vaines,</l>
@@ -2123,10 +2123,10 @@
 	<l id="1498">Ayant reçu le jour d’une esclave étrangère,</l>
 	<l id="1499">Par orgueil comme lui, j’ai méconnu ma mère.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1500" part="i">Vous, Rhodope ?</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE.</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker>.</hstage>
 	<l id="1500" part="f">Moi-même. Est-il rien de si bas ?</l>
 	<l id="1501">Surprise d’un accueil qu’elle n’attendait pas :</l>
 	<l id="1502">Eh bien ! M’a-t-elle dit, en versant quelques larmes,</l>
@@ -2147,34 +2147,34 @@
 	<l id="1517">De lui voir avec moi partager mon bonheur.</l>
 	<l id="1518">Calmez l’émotion où me met votre fable.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1519">Ce que vous m’avez dit, Rhodope, est-il croyable ?</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE.</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker>.</hstage>
 	<l id="1520">Non, il n’est pas croyable, à vous parler sans fard,</l>
 	<l id="1521">Qu’un enfant pour sa mère ait eu si peu d’égard.</l>
 	<l id="1522">Si mon crime fut grand, mon remords est extrême.</l>
 	<l id="1523">Envoyez après elle, ou bien j’y vais moi-même.</l>
 	<l id="1524">Je ne puis sans la voir demeurer plus longtemps.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1525">Est-ce d’un cœur touché que part ce que j’entends ?</l>
 	<l id="1526">Ne me faites-vous point une promesse vaine ?</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE.</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker>.</hstage>
 	<l id="1527">Quel plaisir prenez-vous à prolonger ma peine ?</l>
 	<l id="1528">Les moments sont trop chers pour les perdre en discours.</l>
 	<l id="1529">Ma mère à qui tout manque a besoin de secours.</l>
 	<l id="1530">Je dois à sa misère une prompte assistance.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1531">J’entrevois dans ce zèle un peu de bienséance :</l>
 	<l id="1532">Un amour tendre et pur ne vous fait point agir ;</l>
 	<l id="1533">C’est la crainte du blâme et la peur de rougir.</l>
 	<l id="1534">Votre faute est secrète et deviendrait publique,</l>
 	<l id="1535">Et la nature agit moins que la politique.</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE.</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker>.</hstage>
 	<l id="1536">Mon cœur de vos mépris, désespéré, confus,</l>
 	<l id="1537">Quelque rudes qu’ils soient, en mérite encor plus.</l>
 	<l id="1538">Soupçonnez d’artifice un repentir sincère,</l>
@@ -2190,20 +2190,20 @@
 <stage>Elle veut sortir.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Ésope, Rhodope, Léonide, Licas.</head>
-<sp who="LEONIDE"><speaker>LÉONIDE, à part.</speaker>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><cast>Ésope, Rhodope, Léonide, Licas.</cast>
+<sp who="LEONIDE"><hstage><speaker>LÉONIDE</speaker>, à part.</hstage>
 	<l id="1547" part="f">Ce que j’entends me perce les entrailles.</l>
 	<l id="1548">Mon cœur est pénétré des plus sensibles coups.</l>
 <stage>Haut.</stage>
 	<l id="1549" part="i">Venez, ma chère fille !</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE.</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker>.</hstage>
 	<l id="1549" part="f">Eh ! Ma mère, est-ce vous ?</l>
 	<l id="1550">Après ce que j’ai fait, puis-je vous être chère,</l>
 	<l id="1551">Et reconnaissez-vous qui méconnaît sa mère ?</l>
 	<l id="1552">Quel prix vous recevez de m’avoir mise au jour !</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1553">Je vous ai fait pleurer, et je pleure à mon tour.</l>
 	<l id="1554">Consolez-vous, Rhodope ; une si belle faute</l>
 	<l id="1555">Vous donne plus d’éclat qu’elle ne vous en ôte.</l>
@@ -2223,8 +2223,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Arsinoé, Laïs.</head>
-<sp who="LAIS"><speaker>LAÏS.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Arsinoé, Laïs.</cast>
+<sp who="LAIS"><hstage><speaker>LAÏS</speaker>.</hstage>
 	<l id="1566">Au plus riche des rois vous voilà presque unie ;</l>
 	<l id="1567">Il n’y manque plus rien que la cérémonie,</l>
 	<l id="1568">Et dans un beau fauteuil, assise à son côté,</l>
@@ -2233,40 +2233,40 @@
 	<l id="1571">Mais moi, madame, moi, demain, que deviendrai-je ?</l>
 	<l id="1572" part="i">Je voudrais bien...</l>
 </sp>
-<sp who="ARSINOE"><speaker>ARSINOÉ.</speaker>
+<sp who="ARSINOE"><hstage><speaker>ARSINOÉ</speaker>.</hstage>
 	<l id="1572" part="f">J’entends ce que tu voudrais bien,</l>
 	<l id="1573">Et ton bonheur, Laïs, suivrait de près le mien.</l>
 	<l id="1574" part="i">Mais j’y vois un obstacle.</l>
 </sp>
-<sp who="LAIS"><speaker>LAÏS.</speaker>
+<sp who="LAIS"><hstage><speaker>LAÏS</speaker>.</hstage>
 	<l id="1574" part="m">Eh ! Quel est-il ?</l>
 </sp>
-<sp who="ARSINOE"><speaker>ARSINOÉ.</speaker>
+<sp who="ARSINOE"><hstage><speaker>ARSINOÉ</speaker>.</hstage>
 	<l id="1574" part="f">Rhodope :</l>
 	<l id="1575">Elle a fait ce matin sa paix avec Ésope.</l>
 	<l id="1576">Tu sais en quelle estime il est auprès du roi,</l>
 	<l id="1577">Et je songeais à lui pour l’attacher à toi.</l>
 </sp>
-<sp who="LAIS"><speaker>LAÏS.</speaker>
+<sp who="LAIS"><hstage><speaker>LAÏS</speaker>.</hstage>
 	<l id="1578" part="i">Qui ? Lui, madame ?</l>
 </sp>
-<sp who="ARSINOE"><speaker>ARSINOÉ.</speaker>
+<sp who="ARSINOE"><hstage><speaker>ARSINOÉ</speaker>.</hstage>
 	<l id="1578" part="f">Ésope est né dans l’indigence ;</l>
 	<l id="1579">Mais, Laïs, ses vertus corrigent sa naissance.</l>
 	<l id="1580">Quel honneur n’a-t-il point de ne devoir qu’à lui</l>
 	<l id="1581">Le poste glorieux qu’il occupe aujourd’hui ?</l>
 	<l id="1582">Ésope sans naissance est dans une posture...</l>
 </sp>
-<sp who="LAIS"><speaker>LAÏS.</speaker>
+<sp who="LAIS"><hstage><speaker>LAÏS</speaker>.</hstage>
 	<l id="1583">Avez-vous parcouru sa bizarre figure ?</l>
 	<l id="1584">Je renonce à vos biens, si le plus grand de tous</l>
 	<l id="1585">Consiste à me donner Ésope pour époux.</l>
 	<l id="1586" part="i">Je n’en veux vraiment point.</l>
 </sp>
-<sp who="ARSINOE"><speaker>ARSINOÉ.</speaker>
+<sp who="ARSINOE"><hstage><speaker>ARSINOÉ</speaker>.</hstage>
 	<l id="1586" part="f">Connais-tu bien Ésope ?</l>
 </sp>
-<sp who="LAIS"><speaker>LAÏS.</speaker>
+<sp who="LAIS"><hstage><speaker>LAÏS</speaker>.</hstage>
 	<l id="1587">Il ne faut pour le voir prendre aucun microscope.</l>
 	<l id="1588">De son hideux aspect on est d’abord frappé.</l>
 	<l id="1589">Hors l’esprit qu’il a droit, il a tout éclopé ;</l>
@@ -2276,10 +2276,10 @@
 	<l id="1593">Je le veux, si je puis, bien conditionné,</l>
 	<l id="1594" part="i">Que rien n’y manque.</l>
 </sp>
-<sp who="ARSINOE"><speaker>ARSINOÉ.</speaker>
+<sp who="ARSINOE"><hstage><speaker>ARSINOÉ</speaker>.</hstage>
 	<l id="1594" part="f">Ésope a l’esprit net, affable.</l>
 </sp>
-<sp who="LAIS"><speaker>LAÏS.</speaker>
+<sp who="LAIS"><hstage><speaker>LAÏS</speaker>.</hstage>
 	<l id="1595">L’esprit net, il est vrai, le corps indéchiffrable.</l>
 	<l id="1596">C’est d’une fort belle âme un fort vilain étui.</l>
 	<l id="1597">Que ferait-il de moi ? Que ferais-je de lui ?</l>
@@ -2297,13 +2297,13 @@
 	<l id="1609">J’aime mieux mourir fille, et c’est dire beaucoup.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Ésope, Arsinoé, Laïs.</head>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Ésope, Arsinoé, Laïs.</cast>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1610">Vous me voyez confus d’oser vous faire attendre,</l>
 	<l id="1611">Moi qui dois à votre ordre avec respect me rendre ;</l>
 	<l id="1612">Mais enfermé, madame, au cabinet du roi...</l>
 </sp>
-<sp who="ARSINOE"><speaker>ARSINOÉ.</speaker>
+<sp who="ARSINOE"><hstage><speaker>ARSINOÉ</speaker>.</hstage>
 	<l id="1613">Eh ! Qui de vos bontés sait mieux le prix que moi ?</l>
 	<l id="1614">Pouvez-vous m’en donner de plus sensibles marques ?</l>
 	<l id="1615">Destinée à l’hymen du plus grand des monarques,</l>
@@ -2311,7 +2311,7 @@
 	<l id="1617">À vos soins empressés qu’à mes faibles appas.</l>
 	<l id="1618">Vous avez seul vers moi fait pencher la balance.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1619">Eh ! Puis-je avoir pour vous trop de reconnaissance ?</l>
 	<l id="1620">La qualité de reine est due à vos vertus ;</l>
 	<l id="1621">Mais plût aux Dieux, Madame, avoir pu faire plus !</l>
@@ -2350,7 +2350,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="ARSINOE"><speaker>ARSINOÉ.</speaker>
+<sp who="ARSINOE"><hstage><speaker>ARSINOÉ</speaker>.</hstage>
 	<l id="1653">Il est vrai qu’un bienfait n’est jamais sans salaire,</l>
 	<l id="1654">N’eût-on que le plaisir que l’on goûte à le faire.</l>
 	<l id="1655">Épouse de Crésus, que mon sort sera doux,</l>
@@ -2361,8 +2361,8 @@
 <stage>Elle sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Ésope, Laïs.</head>
-<sp who="ESOPE"><speaker>ÉSOPE, arrêtant Laïs, qui veut suivre Arsinoé</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Ésope, Laïs.</cast>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>, arrêtant Laïs, qui veut suivre Arsinoé</hstage>
 	<l id="1660">J’ai fait, belle Laïs, ce que vous m’avez dit :</l>
 	<l id="1661">Tantôt, d’un air galant, votre main dans la mienne,</l>
 	<l id="1662">Vous m’avez demandé quelqu’un qui vous convienne ;</l>
@@ -2370,7 +2370,7 @@
 	<l id="1664">Je crois être celui qui vous convient le mieux.</l>
 	<l id="1665">Si le parti vous plaît, la main est toute prête.</l>
 </sp>
-<sp who="LAIS"><speaker>LAÏS.</speaker>
+<sp who="LAIS"><hstage><speaker>LAÏS</speaker>.</hstage>
 	<l id="1666">Moi, monsieur, de Rhodope enlever la conquête !</l>
 	<l id="1667">Que dirait-elle ? Non, je rends grâce à vos soins ;</l>
 	<l id="1668">Vous lui convenez plus, et je vous conviens moins.</l>
@@ -2381,7 +2381,7 @@
 	<l id="1673">S’il vous faut, comme un autre, éprouver ce supplice,</l>
 	<l id="1674">Je vous honore trop pour en être complice.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1675">Allez ; c’est être sage, et l’être au dernier point</l>
 	<l id="1676">Que de ne s’unir pas à ce qu’on n’aime point.</l>
 	<l id="1677">Je voulais éprouver quelle était votre pente.</l>
@@ -2389,8 +2389,8 @@
 	<l id="1679" part="i">C’est le sort le plus doux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Ésope, Cléon.</head>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Ésope, Cléon.</cast>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="1679" part="f">Eh ! Bonjour, mon patron.</l>
 <stage>Ils s’embrassent.</stage>
 	<l id="1680">Baisez-moi, je vous prie... encore une fois... bon.</l>
@@ -2398,13 +2398,13 @@
 	<l id="1682">Vous ferez, j’en suis sûr, l’épitaphe du monde.</l>
 	<l id="1683">Jamais homme, à mon gré, ne se porta si bien.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1684">Ma santé, par malheur, ne vous est bonne à rien.</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="1685">Puis-je compter sur vous pour me rendre un service ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1686">Pouvez-vous en douter, et me rendre justice ?</l>
 	<l id="1687">M’en offrir un moyen, c’est flatter mon désir :</l>
 	<l id="1688">Le plaisir d’obliger est mon plus grand plaisir.</l>
@@ -2413,7 +2413,7 @@
 	<l id="1691">Rien ne m’est plus sensible et ne me touche tant</l>
 	<l id="1692">Que lorsque d’avec moi l’on s’en va mécontent.</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="1693">J’ai tablé là-dessus, et viens vous mettre en œuvre.</l>
 	<l id="1694">Je suis homme de guerre, et j’en sais la manœuvre.</l>
 	<l id="1695">Expert en ce métier, je distingue d’abord</l>
@@ -2424,11 +2424,11 @@
 	<l id="1700">C’est sur vous, mon patron, que je jette les yeux.</l>
 	<l id="1701">Je vous préfère à tous, tant je vous crois fidèle.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1702">Pour le couler à fond ? La préférence est belle !</l>
 	<l id="1703">Pourquoi chercher à nuire à ce brigadier-là ?</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="1704">Pour mettre un habile homme en la place qu’il a.</l>
 	<l id="1705">J’en sais un (avec vous je m’explique sans feindre)</l>
 	<l id="1706">Qu’on ne ferait pas mieux, quand on le ferait peindre ;</l>
@@ -2438,16 +2438,16 @@
 	<l id="1710">Qu’on ait vu de longtemps à la cour où nous sommes :</l>
 	<l id="1711">C’est le meilleur présent qu’on puisse faire au roi.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1712">Eh ! Quel est, s’il vous plaît, cet habile homme ?</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="1713" part="i">Moi.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1713" part="m">Vous ?</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="1713" part="f">Oui. Je vous surprends de ce que je me nomme ?</l>
 	<l id="1714">Eh ! Qui sait mieux que moi que je suis habile homme ?</l>
 	<l id="1715">La modestie est belle enchâssée à propos ;</l>
@@ -2456,7 +2456,7 @@
 	<l id="1718">Quand on a mes talents, rarement on s’écarte.</l>
 	<l id="1719">Me proposer au roi ce sera le ravir.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1720">Du meilleur de mon cœur je voudrais vous servir.</l>
 	<l id="1721">Vous ne pouvez jamais me causer plus de joie</l>
 	<l id="1722">Que de m’en procurer une équitable voie ;</l>
@@ -2466,16 +2466,16 @@
 	<l id="1726">Je n’ai point de pouvoir, quand il s’agit de nuire.</l>
 	<l id="1727">Ne me demandez point ce qui n’est pas permis.</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="1728">Il est permis, parbleu ! D’obliger ses amis,</l>
 	<l id="1729">Et je vous crois le mien, comme je suis le vôtre.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1730">Pour en obliger un faut-il en perdre un autre ?</l>
 	<l id="1731">Il n’est rien de si beau que d’être généreux.</l>
 	<l id="1732">Vous auriez du scrupule à faire un malheureux.</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="1733">Bon ! C’est bien à la cour que l’on a du scrupule ?</l>
 	<l id="1734">On cherche à s’avancer, sans voir qui l’on recule.</l>
 	<l id="1735">Il n’est point de moment où l’on ne soit au guet,</l>
@@ -2484,7 +2484,7 @@
 	<l id="1738">On l’applaudit toujours, quelque route qu’il suive.</l>
 	<l id="1739">Aller à la fortune est mon unique fin.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1740">Allez-y, croyez-moi, par un autre chemin.</l>
 	<l id="1741">Crésus, des potentats l’un des plus équitables,</l>
 	<l id="1742">À qui, depuis un an, j’ai dédié mes fables,</l>
@@ -2540,11 +2540,11 @@
 	<l id="1791">Vous irez par leur route aux emplois qu’ils ont eus.</l>
 	<l id="1792">C’est la plus juste voie et la plus raisonnable.</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="1793">N’avez-vous autre chose à m’offrir qu’une fable,</l>
 	<l id="1794" part="i">Le bon ami ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1794" part="f">Meilleur que vous ne le croyez.</l>
 	<l id="1795">C’est moi qui me dois plaindre, et c’est vous qui criez.</l>
 	<l id="1796">Je ne murmure point que pour votre service,</l>
@@ -2554,30 +2554,30 @@
 	<l id="1800">Qui de vous ou de moi mérite qu’on l’excuse,</l>
 	<l id="1801">Vous qui la demandez, ou moi qui la refuse ?</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="1802" part="i">Vous ne voulez donc pas me servir ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1802" part="f">J’y suis prêt,</l>
 	<l id="1803">Et même, s’il le faut, contre mon intérêt.</l>
 	<l id="1804">Ne me proposez rien dont pour vous je rougisse,</l>
 	<l id="1805">Et vous verrez alors si je rends bien service.</l>
 	<l id="1806">Vous seriez mal paré des dépouilles d’autrui.</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="1807" part="i">Savez-vous de quel sang j’eus l’honneur de naître ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1807" part="f">Oui.</l>
 	<l id="1808">Vous avez des aïeux dont la gloire est insigne.</l>
 	<l id="1809">Héritier de leur nom, tâchez d’en être digne ;</l>
 	<l id="1810" part="i">Tâchez...</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="1810" part="f">Point de leçons. Je suis, grâces aux dieux,</l>
 	<l id="1811">Plus habile que vous, quoique je sois moins vieux.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1812">Je le crois. J’ai de l’âge et n’ai point de science ;</l>
 	<l id="1813">Mais j’ai du train du monde un peu d’expérience.</l>
 	<l id="1814">À la guerre, et partout, la générosité</l>
@@ -2585,23 +2585,23 @@
 	<l id="1816">Et quiconque est formé d’un sang comme le vôtre,</l>
 	<l id="1817">Doit naturellement en avoir plus qu’un autre.</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="1818">Parlons net. Mon dessein est de perdre Ariston :</l>
 	<l id="1819" part="i">Voulez-vous m’y servir ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1819" part="f">Pour cela, monsieur, non.</l>
 	<l id="1820">Si c’est le seul motif qui vers moi vous amène,</l>
 	<l id="1821">C’est, à vous parler net, une visite vaine.</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="1822">Eh ! Vous figurez-vous, mon cher petit monsieur,</l>
 	<l id="1823">Qu’un ministre inutile ait un vrai serviteur ?</l>
 	<l id="1824">Lorsqu’à vous encenser tant de monde travaille,</l>
 	<l id="1825">Est-ce pour vos beaux yeux ou votre belle taille ?</l>
 	<l id="1826" part="i">Le présumez-vous ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1826" part="f">Non ; qui ferait ce projet</l>
 	<l id="1827">Aurait assurément grand tort sur mon sujet.</l>
 	<l id="1828">Autant que je l’ai pu pendant une heure entière,</l>
@@ -2622,22 +2622,22 @@
 	<l id="1843">Et le moindre alliage en corrompt le métal.</l>
 	<l id="1844">Un soldat comme vous s’imagine peut-être.</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="1845">Je ne suis point soldat, et nul ne m’a vu l’être.</l>
 	<l id="1846">Je suis bon colonel, et qui sert bien l’État.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1847">Monsieur le colonel, qui n’êtes point soldat,</l>
 	<l id="1848">Je ne sais ce que c’est que de rendre service</l>
 	<l id="1849">Contre la bienséance et contre la justice.</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="1850">Adieu, monsieur. Bientôt... je ne m’explique pas.</l>
 <stage>Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1851">Peut-on être si noble, avec un cœur si bas !</l>
 	<l id="1852">On dit que la noblesse a la vertu pour mère.</l>
 	<l id="1853">S’il est vrai, ses enfants ne lui ressemblent guère ;</l>
@@ -2645,15 +2645,15 @@
 	<l id="1855">Mais quel homme important en ce lieu me vient voir ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Ésope, M. Griffet.</head>
-<sp who="GRIFFET"><speaker>M. GRIFFET.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Ésope, M. Griffet.</cast>
+<sp who="GRIFFET"><hstage><speaker>M. GRIFFET</speaker>.</hstage>
 	<l id="1856">Vous voyez un vieillard d’une assez bonne pâte,</l>
 	<l id="1857">Qui va voir ses aïeux, sans pourtant avoir hâte,</l>
 	<l id="1858">Et qui souhaiterait être assez fortuné</l>
 	<l id="1859">Pour vous entretenir, sans être détourné.</l>
 	<l id="1860">C’est pour le bien public que je vous rends visite.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1861">Ah ! Pour le bien public il n’est rien qu’on ne</l>
 	<l id="1862" part="i">Quitte...</l>
 <stage>À Licas, en dehors.</stage>
@@ -2662,7 +2662,7 @@
 	<l id="1863">J’agirai de concert avec vous sur ce point.</l>
 	<l id="1864">Allons d’abord au fait : point d’inutiles termes.</l>
 </sp>
-<sp who="GRIFFET"><speaker>M. GRIFFET.</speaker>
+<sp who="GRIFFET"><hstage><speaker>M. GRIFFET</speaker>.</hstage>
 	<l id="1865">On doit le mois prochain renouveler les fermes ;</l>
 	<l id="1866">Et si par votre appui j’y pouvais avoir part,</l>
 	<l id="1867">Jamais homme pour vous n’aurait eu plus d’égard.</l>
@@ -2670,10 +2670,10 @@
 	<l id="1869">Je me crois le mérite et la vertu requise :</l>
 	<l id="1870">Il ne me manque rien qu’un patron obligeant.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1871" part="i">Et quelle est la vertu d’un fermier ?</l>
 </sp>
-<sp who="GRIFFET"><speaker>M. GRIFFET.</speaker>
+<sp who="GRIFFET"><hstage><speaker>M. GRIFFET</speaker>.</hstage>
 	<l id="1871" part="f">De l’argent.</l>
 	<l id="1872">Il ne fait point de cas des vertus inutiles,</l>
 	<l id="1873">Des soins infructueux et des veilles stériles.</l>
@@ -2684,13 +2684,13 @@
 	<l id="1878">La vertu toute nue a l’air trop indigent ;</l>
 	<l id="1879">Et c’est n’en point avoir que n’avoir point d’argent.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1880">Fort bien. Mais croyez-vous y trouver votre compte ?</l>
 	<l id="1881">Avez-vous calculé jusques où cela monte ?</l>
 	<l id="1882">Toute charge payée, y voyez-vous du bon ?</l>
 	<l id="1883" part="i">Parlez en conscience.</l>
 </sp>
-<sp who="GRIFFET"><speaker>M. GRIFFET.</speaker>
+<sp who="GRIFFET"><hstage><speaker>M. GRIFFET</speaker>.</hstage>
 	<l id="1883" part="f">En conscience, non.</l>
 	<l id="1884">Mais un homme d’esprit versé dans la finance,</l>
 	<l id="1885">Pour n’avoir rien à faire avec sa conscience,</l>
@@ -2708,40 +2708,40 @@
 	<l id="1897">Je sais trop quelle offrande à cette grâce est due.</l>
 	<l id="1898">Quoi que vous ordonniez, tout me semblera bon.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1899">Qu’est-ce que c’est encor que le tour du bâton ?</l>
 	<l id="1900">Je trouve cette phrase assez particulière.</l>
 </sp>
-<sp who="GRIFFET"><speaker>M. GRIFFET.</speaker>
+<sp who="GRIFFET"><hstage><speaker>M. GRIFFET</speaker>.</hstage>
 	<l id="1901">Vous voulez m’avertir qu’elle est trop familière :</l>
 	<l id="1902">J’ai regret avec vous de m’en être servi.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1903">Vous en avez regret, et moi j’en suis ravi.</l>
 	<l id="1904">Pour familière, non ; je vous en justifie.</l>
 	<l id="1905">Dites-moi seulement ce qu’elle signifie.</l>
 </sp>
-<sp who="GRIFFET"><speaker>M. GRIFFET.</speaker>
+<sp who="GRIFFET"><hstage><speaker>M. GRIFFET</speaker>.</hstage>
 	<l id="1906" part="i">Le tour du bâton ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1906" part="m">Oui.</l>
 </sp>
-<sp who="GRIFFET"><speaker>M. GRIFFET.</speaker>
+<sp who="GRIFFET"><hstage><speaker>M. GRIFFET</speaker>.</hstage>
 	<l id="1906" part="f">C’est un certain appas...</l>
 	<l id="1907">Un profit clandestin... vous ne l’ignorez pas !</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1908">J’ai là-dessus, vous dis-je, une ignorance extrême.</l>
 </sp>
-<sp who="GRIFFET"><speaker>M. GRIFFET.</speaker>
+<sp who="GRIFFET"><hstage><speaker>M. GRIFFET</speaker>.</hstage>
 	<l id="1909" part="i">Pardonnez-moi.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1909" part="f">Vraiment, pardonnez-moi vous-même.</l>
 	<l id="1910">C’est peut-être un jargon qu’on n’entend qu’en ces lieux ?</l>
 </sp>
-<sp who="GRIFFET"><speaker>M. GRIFFET.</speaker>
+<sp who="GRIFFET"><hstage><speaker>M. GRIFFET</speaker>.</hstage>
 	<l id="1911">C’est par tout l’univers ce qu’on entend le mieux.</l>
 	<l id="1912">Que l’on aille d’un grand implorer une grâce,</l>
 	<l id="1913">Sans le tour du bâton je doute qu’il la fasse ;</l>
@@ -2759,13 +2759,13 @@
 	<l id="1925">Dont le tour du bâton fait les trois quarts du zèle.</l>
 	<l id="1926">Vous êtes dans un poste à le savoir fort bien.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1927">Je vous jure pourtant que je n’en savais rien.</l>
 	<l id="1928">Je vois, par ses effets et ses métamorphoses,</l>
 	<l id="1929">Que le tour du bâton est propre à bien des choses ;</l>
 	<l id="1930">Mais je ne conçois point où l’on peut l’appliquer.</l>
 </sp>
-<sp who="GRIFFET"><speaker>M. GRIFFET.</speaker>
+<sp who="GRIFFET"><hstage><speaker>M. GRIFFET</speaker>.</hstage>
 	<l id="1931">Pour vous faire plaisir, je vais vous l’expliquer.</l>
 	<l id="1932">Rien n’est plus nécessaire au commerce des hommes ;</l>
 	<l id="1933">Et pour ne point sortir de la ferme où nous sommes,</l>
@@ -2785,34 +2785,34 @@
 	<l id="1947">Et voilà ce que c’est que le tour du bâton.</l>
 	<l id="1948">Son étymologie est sensible, palpable.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1949">Ce n’est pas le seul tour dont vous soyez capable.</l>
 	<l id="1950">Peu de fermiers, je crois, sont plus intelligents.</l>
 </sp>
-<sp who="GRIFFET"><speaker>M. GRIFFET.</speaker>
+<sp who="GRIFFET"><hstage><speaker>M. GRIFFET</speaker>.</hstage>
 	<l id="1951">J’en connais quelques-uns assez habiles gens ;</l>
 	<l id="1952">Mais qui ne feront point, tant ils sont débonnaires,</l>
 	<l id="1953">Ni le bien de l’État, ni leurs propres affaires.</l>
 	<l id="1954">Pour faire aller le peuple il faut être plus dur.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1955">Il est vrai : vous voulez le bien public, tout pur.</l>
 	<l id="1956" part="i">Vous avez l’appétit toujours bon ?</l>
 </sp>
-<sp who="GRIFFET"><speaker>M. GRIFFET.</speaker>
+<sp who="GRIFFET"><hstage><speaker>M. GRIFFET</speaker>.</hstage>
 	<l id="1956" part="f">Je dévore.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1957">Quel âge avez-vous bien pour travailler encore ?</l>
 	<l id="1958" part="i">Ne mentez point.</l>
 </sp>
-<sp who="GRIFFET"><speaker>M. GRIFFET.</speaker>
+<sp who="GRIFFET"><hstage><speaker>M. GRIFFET</speaker>.</hstage>
 	<l id="1958" part="f">Lundi j’eus quatre-vingt-deux ans.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1959">Vous avez des enfants et des petits-enfants ?</l>
 </sp>
-<sp who="GRIFFET"><speaker>M. GRIFFET.</speaker>
+<sp who="GRIFFET"><hstage><speaker>M. GRIFFET</speaker>.</hstage>
 	<l id="1960">Aucun : je suis garçon. Le ciel m’a fait la grâce,</l>
 	<l id="1961">De même qu’au Phénix, d’être seul de ma race.</l>
 	<l id="1962">Avec économie ayant toujours vécu,</l>
@@ -2821,19 +2821,19 @@
 	<l id="1965">J’ai trouvé de bien clair quinze cent mille livres,</l>
 	<l id="1966">Sans avoir un parent à qui laisser un sou.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1967" part="i">Vous ?</l>
 </sp>
-<sp who="GRIFFET"><speaker>M. GRIFFET.</speaker>
+<sp who="GRIFFET"><hstage><speaker>M. GRIFFET</speaker>.</hstage>
 	<l id="1967" part="m">Moi.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1967" part="m">Point d’enfanTs ?</l>
 </sp>
-<sp who="GRIFFET"><speaker>M. GRIFFET.</speaker>
+<sp who="GRIFFET"><hstage><speaker>M. GRIFFET</speaker>.</hstage>
 	<l id="1967" part="m">Non.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE, à part.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>, à part.</hstage>
 	<l id="1967" part="f">Peste soit du vieux fou !</l>
 	<l id="1968">Un homme de bon sens travaille en sa jeunesse,</l>
 	<l id="1969">Pour passer en repos une heureuse vieillesse ;</l>
@@ -2843,7 +2843,7 @@
 	<l id="1973">Et que sert d’amasser, à moins qu’on ne jouisse ?</l>
 	<l id="1974">C’est bien être ennemi de son propre bonheur.</l>
 </sp>
-<sp who="GRIFFET"><speaker>M. GRIFFET.</speaker>
+<sp who="GRIFFET"><hstage><speaker>M. GRIFFET</speaker>.</hstage>
 	<l id="1975">Je veux, si je le puis, mourir au lit d’honneur.</l>
 	<l id="1976">Quelque vieux que je sois, je me sens les pieds fermes.</l>
 	<l id="1977">J’ai rempli dignement tous les emplois des fermes.</l>
@@ -2851,7 +2851,7 @@
 	<l id="1979">Et je prétends aller jusqu’au non plus ultra ,</l>
 	<l id="1980" part="i">Être fermier.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1980" part="f">Eh quoi ! N’avez-vous rien à faire,</l>
 	<l id="1981">Et de plus sérieux, et de plus nécessaire ?</l>
 	<l id="1982">La mort toujours au guet avec son attirail,</l>
@@ -2863,17 +2863,17 @@
 	<l id="1988">Quel âge attendez-vous pour être raisonnable ?</l>
 	<l id="1989">Voulez-vous là-dessus écouter une fable ?</l>
 </sp>
-<sp who="GRIFFET"><speaker>M. GRIFFET.</speaker>
+<sp who="GRIFFET"><hstage><speaker>M. GRIFFET</speaker>.</hstage>
 	<l id="1990" part="i">Volontiers.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1990" part="f">Elle est longue ; aurez-vous le loisir ?</l>
 </sp>
-<sp who="GRIFFET"><speaker>M. GRIFFET.</speaker>
+<sp who="GRIFFET"><hstage><speaker>M. GRIFFET</speaker>.</hstage>
 	<l id="1991">Plus elle durera, plus j’aurai de plaisir.</l>
 	<l id="1992">Une fable un peu longue est une double grâce.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="1993">Vous y verrez des fous dont vous suivez la trace,</l>
 	<l id="1994">Et vous en verrez tant de toutes qualités,</l>
 	<l id="1995">Que vous réfléchirez sur vous-même. Écoutez.</l>
@@ -2987,15 +2987,15 @@
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Crésus, Tirrène, Trasibule, Gardes.</head>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Crésus, Tirrène, Trasibule, Gardes.</cast>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2098">Ce que vous m’apprenez a si peu d’apparence</l>
 	<l id="2099">Que je ne puis sans honte y donner de croyance.</l>
 	<l id="2100">Ésope me trahir, lui qui me sert si bien !</l>
 	<l id="2101">J’en serais assuré que je n’en croirais rien.</l>
 	<l id="2102">Je n’ai point de sujet qui me soit plus fidèle.</l>
 </sp>
-<sp who="TIRRÈNE"><speaker>TIRRÈNE.</speaker>
+<sp who="TIRRÈNE"><hstage><speaker>TIRRÈNE</speaker>.</hstage>
 	<l id="2103">Il se peut qu’on ait tort de soupçonner son zèle ;</l>
 	<l id="2104">Peut-être de l’envie est-ce un subtil poison :</l>
 	<l id="2105">Mais il se peut aussi, seigneur, qu’on ait raison,</l>
@@ -3003,7 +3003,7 @@
 	<l id="2107">De celui qu’on soupçonne il faut se rendre maître.</l>
 	<l id="2108" part="i">Donnez ordre, seigneur, qu’on l’arrête.</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2108" part="f">Qui ? Moi !</l>
 	<l id="2109">Que je sois insensible à ce que je lui dois !</l>
 	<l id="2110">Et qu’une ingratitude odieuse, effroyable</l>
@@ -3012,7 +3012,7 @@
 	<l id="2113">Dont vos yeux et les miens ont été les témoins ?</l>
 	<l id="2114">Pouvez-vous m’inspirer un sentiment si lâche ?</l>
 </sp>
-<sp who="TRASIBULE"><speaker>TRASIBULE.</speaker>
+<sp who="TRASIBULE"><hstage><speaker>TRASIBULE</speaker>.</hstage>
 	<l id="2115">Seigneur, à vous servir appliqué sans relâche,</l>
 	<l id="2116">J’aurais cru faire un crime à vous dissimuler</l>
 	<l id="2117">Ce que votre intérêt me défend de celer.</l>
@@ -3025,14 +3025,14 @@
 	<l id="2124">Mais, à parler sans haine et sans prévention,</l>
 	<l id="2125">Je crois dans sa cassette au moins un million.</l>
 </sp>
-<sp who="TIRRÈNE"><speaker>TIRRÈNE.</speaker>
+<sp who="TIRRÈNE"><hstage><speaker>TIRRÈNE</speaker>.</hstage>
 	<l id="2126">Un million ! Seigneur, il supprime le reste :</l>
 	<l id="2127">Dans la place d’Ésope on n’est point si modeste.</l>
 	<l id="2128">Quand on peut ce qu’on veut, on étend loin ses droits.</l>
 	<l id="2129">C’est peu d’un million, il en a plus de trois :</l>
 	<l id="2130">L’ambition, seigneur, n’a guère de limites.</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2131">Pensez bien, l’un et l’autre, à ce que vous me dites.</l>
 	<l id="2132">Ésope criminel, quels que soient ses remords,</l>
 	<l id="2133">Je vous donne à tous deux ce qu’il a de trésors ;</l>
@@ -3040,14 +3040,14 @@
 	<l id="2135">Je lui fais de vos biens un égal sacrifice.</l>
 	<l id="2136">La récompense est sûre, ou la punition.</l>
 </sp>
-<sp who="TRASIBULE"><speaker>TRASIBULE.</speaker>
+<sp who="TRASIBULE"><hstage><speaker>TRASIBULE</speaker>.</hstage>
 	<l id="2137">J’accepte avec plaisir cette condition.</l>
 </sp>
-<sp who="TIRRÈNE"><speaker>TIRRÈNE.</speaker>
+<sp who="TIRRÈNE"><hstage><speaker>TIRRÈNE</speaker>.</hstage>
 	<l id="2138">Je m’y soumets aussi, seigneur, et, par avance,</l>
 	<l id="2139" part="i">Je soutiens...</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2139" part="f">Vous direz le reste en sa présence.</l>
 	<l id="2140">Pour le rendre suspect, en vain l’on me prévient :</l>
 	<l id="2141">Je l’ai fait avertir, et je le vois qui vient.</l>
@@ -3055,13 +3055,13 @@
 	<l id="2143" part="i">Laissez-moi lui parler ; je vous l’ordonne.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Crésus, Ésope, Tirrène, Trasibule, Gardes.</head>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Crésus, Ésope, Tirrène, Trasibule, Gardes.</cast>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2143" part="f">Ésope,</l>
 	<l id="2144">On t’accuse en ce lieu de me manquer de foi.</l>
 	<l id="2145" part="i">Je t’en veux croire seul. Me trompes-tu, dis ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2145" part="f">Moi,</l>
 	<l id="2146">Seigneur ? De votre part ce soupçon m’est sensible !</l>
 	<l id="2147">Je ne vous ai point dit que je fusse infaillible.</l>
@@ -3070,41 +3070,41 @@
 	<l id="2150">Mais d’aucune action je ne me sens capable</l>
 	<l id="2151">Qui me puisse envers vous rendre un moment coupable.</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2152">Et si je te convaincs, quand je me fie à toi,</l>
 	<l id="2153">De me faire un secret contre la bonne foi,</l>
 	<l id="2154" part="i">Que diras-tu ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2154" part="f">Seigneur, ce discours m’inquiète.</l>
 	<l id="2155" part="i">Moi, des secrets pour vous !</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2155" part="f">Et dans une cassette,</l>
 	<l id="2156">Qui dans ton cabinet conduit souvent tes pas,</l>
 	<l id="2157">N’as-tu rien de caché que je ne sache pas ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2158">Eh ! Bons dieux ! Se peut-il que pour si peu de chose</l>
 	<l id="2159">Vous ayez du chagrin et que j’en sois la cause ?</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2160" part="i">Je la veux voir.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2160" part="f">Seigneur, daignez m’en dispenser.</l>
 	<l id="2161" part="i">J’ai mes raisons.</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2161" part="f">Qu’entends-je ? Et que puis-je penser ?</l>
 	<l id="2162">Quelles raisons as-tu que tu n’oses me dire ?</l>
 </sp>
-<sp who="TIRRÈNE"><speaker>TIRRÈNE.</speaker>
+<sp who="TIRRÈNE"><hstage><speaker>TIRRÈNE</speaker>.</hstage>
 	<l id="2163">Eh ! N’est-ce pas, seigneur, assez vous en instruire ?</l>
 	<l id="2164">Que voulez-vous de plus ? Interdit et contraint,</l>
 	<l id="2165">Le refus qu’il vous fait montre assez ce qu’il craint.</l>
 </sp>
-<sp who="TRASIBULE"><speaker>TRASIBULE.</speaker>
+<sp who="TRASIBULE"><hstage><speaker>TRASIBULE</speaker>.</hstage>
 	<l id="2166">Seigneur, de la parole il a perdu l’usage :</l>
 	<l id="2167">Vous faut-il de son crime un plus grand témoignage ?</l>
 	<l id="2168">S’il était innocent, pour sortir d’embarras,</l>
@@ -3112,10 +3112,10 @@
 	<l id="2170">Mais de sa trahison la preuve est si facile,</l>
 	<l id="2171">Qu’un si faible secours lui paraît inutile.</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2172">On t’accuse, on t’insulte, et tu ne réponds rien ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2173">Que dirais-je, seigneur, que vous ne sachiez bien ?</l>
 	<l id="2174">Quel que soit l’embarras où leur haine me jette :</l>
 	<l id="2175">Elle est de mon silence un mauvais interprète :</l>
@@ -3141,12 +3141,12 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2194">Parle : je ne suis point irrité contre toi,</l>
 	<l id="2195">Tu n’as aucun ami qui le soit plus que moi.</l>
 	<l id="2196">Ta vertu soupçonnée est tout ce qui m’irrite.</l>
 </sp>
-<sp who="TIRRÈNE"><speaker>TIRRÈNE.</speaker>
+<sp who="TIRRÈNE"><hstage><speaker>TIRRÈNE</speaker>.</hstage>
 	<l id="2197">En disant une fable il croit en être quitte.</l>
 	<l id="2198">C’est ainsi que du peuple obsédant les esprits,</l>
 	<l id="2199">Par sa fausse morale il en a tant surpris.</l>
@@ -3154,7 +3154,7 @@
 	<l id="2201">Il acquiert sourdement des trésors véritables.</l>
 	<l id="2202">Combien dans sa cassette en va-t-on découvrir !</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2203">Eh bien ! Seigneur, eh bien ! Il la faut faire ouvrir.</l>
 	<l id="2204">Quoique jusqu’à ce jour j’ose croire ma vie</l>
 	<l id="2205">À couvert des efforts de la plus noire envie,</l>
@@ -3162,13 +3162,13 @@
 	<l id="2207">Que jamais ce secret n’eût été jusqu’à vous.</l>
 	<l id="2208">Vous le voulez savoir, il faut vous satisfaire.</l>
 </sp>
-<sp who="TRASIBULE"><speaker>TRASIBULE.</speaker>
+<sp who="TRASIBULE"><hstage><speaker>TRASIBULE</speaker>.</hstage>
 	<l id="2209">Seigneur, s’il y va seul, il en va tout distraire,</l>
 	<l id="2210">Détourner les moyens de sa conviction,</l>
 	<l id="2211">Et, peut-être, en bijoux sauver un million :</l>
 	<l id="2212">Il peut en un moment faire tout disparaître.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2213">Pour ne rien détourner je veux bien n’y pas être.</l>
 	<l id="2214">En garde contre vous, comme vous contre moi,</l>
 	<l id="2215">Tout ce que je demande est que ce soit le roi</l>
@@ -3189,12 +3189,12 @@
 <stage>Les gardes sortent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Crésus, Ésope, Tirrène, Trasibule.</head>
-<sp who="TIRRÈNE"><speaker>TIRRÈNE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Crésus, Ésope, Tirrène, Trasibule.</cast>
+<sp who="TIRRÈNE"><hstage><speaker>TIRRÈNE</speaker>.</hstage>
 	<l id="2224" part="f">Seigneur, souvenez-vous du pacte :</l>
 	<l id="2225">La parole des rois jamais ne se rétracte.</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2226">Quand il en sera temps, je m’en souviendrai bien.</l>
 	<l id="2227">Ésope criminel, c’est à vous tout son bien.</l>
 	<l id="2228">Et, pour être aussi juste envers l’un qu’envers l’autre,</l>
@@ -3205,7 +3205,7 @@
 	<l id="2232">Ne me déguise point ce que je puis connaître.</l>
 	<l id="2233" part="i">Es-tu riche ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2233" part="f">Moi riche ? Eh ! Demandé-je à l’être ?</l>
 	<l id="2234">Loin que le bien, seigneur, me cause aucun souci,</l>
 	<l id="2235">N’ayant besoin de rien, je ne veux rien aussi.</l>
@@ -3215,46 +3215,46 @@
 	<l id="2239">Comme on voit un beau songe après être éveillé.</l>
 	<l id="2240">Soyez content de moi, je le suis du salaire.</l>
 </sp>
-<sp who="TRASIBULE"><speaker>TRASIBULE.</speaker>
+<sp who="TRASIBULE"><hstage><speaker>TRASIBULE</speaker>.</hstage>
 	<l id="2241">Vous allez sur le champ découvrir le contraire ;</l>
 	<l id="2242">Et ce que par votre ordre on apporte en ces lieux</l>
 	<l id="2243">Va lui fermer la bouche et vous ouvrir les yeux,</l>
 	<l id="2244" part="i">Seigneur.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Crésus, Ésope, Tirrène, Trasibule, Les Gardes, apportant une cassette.</head>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Crésus, Ésope, Tirrène, Trasibule, Les Gardes, apportant une cassette.</cast>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2244" part="f">C’est ton trésor, Ésope ; avant qu’on l’ouvre,</l>
 	<l id="2245">Et que ce qu’il renferme à mes yeux se découvre,</l>
 	<l id="2246">Fais-m’en, je t’en conjure, un sincère détail.</l>
 	<l id="2247">C’est le prix de tes soins, le fruit de ton travail :</l>
 	<l id="2248">Cette épreuve t’est rude et me fait violence.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2249">Cette épreuve à l’envie imposera silence ;</l>
 	<l id="2250">Et je ne puis, seigneur, en être mieux vengé</l>
 	<l id="2251">Qu’en la rendant témoin de tout le bien que j’ai.</l>
 	<l id="2252">Tout ce que je dirais lui semblerait frivole.</l>
 </sp>
-<sp who="TIRRÈNE"><speaker>TIRRÈNE.</speaker>
+<sp who="TIRRÈNE"><hstage><speaker>TIRRÈNE</speaker>.</hstage>
 	<l id="2253">Qu’attendez-vous, seigneur, à nous tenir parole ?</l>
 	<l id="2254">De sa fausse fierté faites-le repentir.</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2255">Eh bien ! Puisqu’on m’y force, il y faut consentir.</l>
 <stage>Après avoir ouvert la cassette, et vu ce qu’elle contient.</stage>
 	<l id="2256">Ouvrons... ciel ! Quel spectacle est-ce ici que l’on m’offre ?</l>
 	<l id="2257" part="i">Gardes.</l>
 </sp>
-<sp who="GARDE"><speaker>UN GARDE.</speaker>
+<sp who="GARDE"><hstage><speaker>UN GARDE</speaker>.</hstage>
 	<l id="2257" part="m">Seigneur !</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2257" part="f">Voyez ce qu’enferme ce coffre.</l>
 <stage>Le garde cherche dans le coffre, et n’y trouve que l’habit d’Ésope quand il était esclave.</stage>
 	<l id="2258">Est-ce là le trésor qu’on m’oblige à chercher ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2259">Oui, seigneur ; vous voyez ce que j’ai de plus cher,</l>
 	<l id="2260">C’est l’habit que j’avais quand par un sort propice,</l>
 	<l id="2261">Il vous plut me choisir pour me rendre service.</l>
@@ -3277,12 +3277,12 @@
 	<l id="2278">Que ferais-je à la cour, moi qui ne suis, seigneur,</l>
 	<l id="2279">Hypocrite, jaloux, médisant, ni flatteur ?</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2280">Pour ta retraite, non ; tu m’es trop nécessaire.</l>
 	<l id="2281">Mais pourquoi cet habit, et qu’en voulais-tu faire ?</l>
 	<l id="2282">Quel bizarre plaisir t’obligeait à le voir ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2283">L’orgueil suit de si près un extrême pouvoir,</l>
 	<l id="2284">Que souvent dans la place où j’avais l’honneur d’être</l>
 	<l id="2285">De ma faible raison je n’étais point le maître.</l>
@@ -3320,8 +3320,8 @@
 <stage>Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Ésope, Tirrène, Trasibule, gardes.</head>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Ésope, Tirrène, Trasibule, gardes.</cast>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2315">À votre tour, messieurs, vous ne dites plus rien ?</l>
 	<l id="2316">Tantôt vous souteniez, pour me tirer d’affaire,</l>
 	<l id="2317">Qu’une fable, à propos, eût été nécessaire ;</l>
@@ -3329,7 +3329,7 @@
 	<l id="2319">Ce que vous me direz qui puisse être à propos.</l>
 	<l id="2320">Que vous avais-je fait pour vouloir me détruire ?</l>
 </sp>
-<sp who="TIRRÈNE"><speaker>TIRRÈNE.</speaker>
+<sp who="TIRRÈNE"><hstage><speaker>TIRRÈNE</speaker>.</hstage>
 	<l id="2321">Eh ! Que vous faisons-nous en cherchant à vous nuire ?</l>
 	<l id="2322">Plus tous vos ennemis attaquent vos vertus,</l>
 	<l id="2323">Plus vous avez de gloire à les voir abattus.</l>
@@ -3339,11 +3339,11 @@
 	<l id="2327">N’a travaillé pour vous avec tant de succès.</l>
 	<l id="2328">Quel honneur plus parfait voulez-vous qu’on vous fasse ?</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2329">Il est vrai, j’oubliais à vous en rendre grâce :</l>
 	<l id="2330">Je dois être content de vos bontés pour moi.</l>
 </sp>
-<sp who="TRASIBULE"><speaker>TRASIBULE.</speaker>
+<sp who="TRASIBULE"><hstage><speaker>TRASIBULE</speaker>.</hstage>
 	<l id="2331">Est-ce un crime à punir que de servir son roi ?</l>
 	<l id="2332">Ayant su qu’un trésor, que l’on disait immense,</l>
 	<l id="2333">Pouvait de ce monarque affaiblir la puissance,</l>
@@ -3359,7 +3359,7 @@
 	<l id="2343">Nous ne possédons rien qui ne doive être à vous ;</l>
 	<l id="2344">Mais c’est un faible appât pour une âme si haute.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2345">Si mon mal n’est pas grand, ce n’est pas votre faute.</l>
 	<l id="2346">De votre intention pleinement éclairci,</l>
 	<l id="2347">La mienne est d’imiter l’exemple que voici :</l>
@@ -3377,32 +3377,32 @@
 	<l id="2358">Je dois à votre insulte une peine aussi grande ;</l>
 	<l id="2359" part="i">Et mon honneur...</l>
 </sp>
-<sp who="GARDE"><speaker>UN GARDE.</speaker>
+<sp who="GARDE"><hstage><speaker>UN GARDE</speaker>.</hstage>
 	<l id="2359" part="f">Rhodope est là qui vous demande :</l>
 	<l id="2360">Nous n’avons, sans votre ordre, osé la faire entrer.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2361">J’ignore quel sujet peut ici l’attirer...</l>
 	<l id="2362" part="i">Qu’elle entre.</l>
 </sp>
-<sp who="TIRRÈNE"><speaker>TIRRÈNE à Trasibule.</speaker>
+<sp who="TIRRÈNE"><hstage><speaker>TIRRÈNE</speaker> à Trasibule.</hstage>
 <stage>Tirrène, à Trasibule.</stage>
 	<l id="2362" part="f">Elle a pour nous une haine mortelle.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Ésope, Tirrène, Trasibule, Rhodope, gardes.</head>
-<sp who="RHODOPE"><speaker>RHODOPE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Ésope, Tirrène, Trasibule, Rhodope, gardes.</cast>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker>.</hstage>
 	<l id="2363">Ma mère attend votre ordre, et je l’attends comme elle.</l>
 	<l id="2364">Vous l’avez conviée à souper avec vous : il est tard.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2365">Ce plaisir m’aurait été bien doux ;</l>
 	<l id="2366">Mais qu’à la cour, Rhodope, on est près du naufrage !</l>
 	<l id="2367">Trasibule et Tirrène, à qui je fais ombrage,</l>
 	<l id="2368">Ont voulu m’accabler de leurs injustes coups.</l>
 	<l id="2369" part="i">Si je veux me venger, je le puis.</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE.</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker>.</hstage>
 	<l id="2369" part="f">Vengez-vous.</l>
 	<l id="2370">Tous deux dans leur patrie, et nous loin de la nôtre,</l>
 	<l id="2371">Ma faveur les irrite aussi bien que la vôtre.</l>
@@ -3413,40 +3413,40 @@
 	<l id="2376">Vous avez le pouvoir ; décidez, ordonnez.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Crésus, Ésope, Tirrène, Arsinoé, Trasibule, Rhodope, gardes.</head>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Crésus, Ésope, Tirrène, Arsinoé, Trasibule, Rhodope, gardes.</cast>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2377">Eh bien ! Ésope, à quoi les as-tu condamnés ?</l>
 	<l id="2378">Dans mes premiers transports me trouvant trop à craindre,</l>
 	<l id="2379">Je me suis retiré pour ne pas te contraindre.</l>
 	<l id="2380">As-tu vengé sur eux ton honneur offensé ?</l>
 	<l id="2381" part="i">Parle.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2381" part="f">Je n’ai, seigneur, encor rien prononcé.</l>
 	<l id="2382">Peut-être que mon cœur, pénétré de l’offense,</l>
 	<l id="2383">Sous le nom de justice userait de vengeance ;</l>
 	<l id="2384">Et que de ma rigueur, bien loin de me louer,</l>
 	<l id="2385">Vous n’hésiteriez pas à me désavouer.</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2386">Te désavouer ! Moi, qui t’estime, qui t’aime,</l>
 	<l id="2387">Et qui prends à ton sort plus de part que toi-même ?</l>
 	<l id="2388">Je suis en ta faveur prêt à souscrire à tout.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2389">Ils n’ont rien épargné pour me pousser à bout.</l>
 	<l id="2390">Permettez qu’à mon tour, seigneur, je les y pousse :</l>
 	<l id="2391">Un outrage est sensible, et la vengeance est douce.</l>
 	<l id="2392">La tienne est toute juste, ou l’on n’en vit jamais.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2393" part="i">Me la permettez-vous ?</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2393" part="f">Oui, je te la permets.</l>
 	<l id="2394">Venge-toi, tu le peux, tu le dois ; je l’ordonne.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2395">Puisque je puis user du pouvoir qu’on me donne,</l>
 	<l id="2396">Je les condamne donc, dussé-je être trahi,</l>
 	<l id="2397">À tâcher de m’aimer autant qu’ils m’ont haï.</l>
@@ -3467,10 +3467,10 @@
 	<l id="2412">Ils avaient de la joie à causer mon malheur,</l>
 	<l id="2413">Et j’aurais du chagrin si je causais le leur.</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2414">Non, je prétends, au moins, que leurs biens t’appartiennent.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2415">Que voulez-vous, seigneur, que sans biens ils deviennent ?</l>
 	<l id="2416">Être de qualité, sans du bien, c’est un sort,</l>
 	<l id="2417">Pour peu qu’on ait de cœur, plus cruel que la mort.</l>
@@ -3482,19 +3482,19 @@
 	<l id="2423">Donnez à vos bontés toute leur étendue.</l>
 	<l id="2424">Les rois, comme les dieux, sont faits pour pardonner.</l>
 </sp>
-<sp who="TIRRÈNE"><speaker>TIRRÈNE.</speaker>
+<sp who="TIRRÈNE"><hstage><speaker>TIRRÈNE</speaker>.</hstage>
 	<l id="2425">Ah ! C’en est trop, seigneur ; quoi qu’on puisse ordonner,</l>
 	<l id="2426">Quelque punition qui suive notre crime,</l>
 	<l id="2427">La plus dure à souffrir est la plus légitime.</l>
 	<l id="2428">De la bonté d’Ésope étonnés et confus,</l>
 	<l id="2429">Nous ne pouvons tenir contre tant de vertus.</l>
 </sp>
-<sp who="TRASIBULE"><speaker>TRASIBULE.</speaker>
+<sp who="TRASIBULE"><hstage><speaker>TRASIBULE</speaker>.</hstage>
 	<l id="2430">Oui, Seigneur, de son bien avides l’un et l’autre,</l>
 	<l id="2431">C’est à lui justement qu’appartient tout le nôtre.</l>
 	<l id="2432">Vous avez fait la loi, nous y sommes soumis.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2433">Non, laissez-moi, seigneur, acquérir deux amis.</l>
 	<l id="2434">Si jamais mon service eut le bien de vous plaire,</l>
 	<l id="2435">Accordez-moi, seigneur, leur grâce pour salaire :</l>
@@ -3503,7 +3503,7 @@
 	<l id="2438">Par leur confusion, leurs remords, leurs alarmes,</l>
 	<l id="2439" part="i">Leur crime n’est-il pas expié ?</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2439" part="f">Tu me charmes.</l>
 	<l id="2440">À remplir tes désirs je n’ai tant hésité</l>
 	<l id="2441">Que pour voir jusqu’au bout ta générosité...</l>
@@ -3518,18 +3518,18 @@
 	<l id="2448">Plus heureux d’être esclave en de si beaux liens</l>
 	<l id="2449">Que de me voir un jour maître des phrygiens.</l>
 </sp>
-<sp who="ARSINOE"><speaker>ARSINOÉ.</speaker>
+<sp who="ARSINOE"><hstage><speaker>ARSINOÉ</speaker>.</hstage>
 	<l id="2450">Quelle faveur pour moi qu’un pareil sacrifice !</l>
 	<l id="2451">D’Ésope, à qui je dois cet important service,</l>
 	<l id="2452">Faites que la fortune arrive au plus haut point.</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2453">Eh ! Quel bien puis-je faire à qui n’en cherche point ?</l>
 	<l id="2454">Je ne sais qu’un plaisir que je lui puisse faire :</l>
 	<l id="2455">Comme à toute ma cour, Rhodope a su lui plaire,</l>
 	<l id="2456">Et je veux que demain, au même autel que nous...</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2457">Nous avons, elle et moi, trop de respect pour vous,</l>
 	<l id="2458">Et le ciel entre nous, seigneur, met trop d’espace</l>
 	<l id="2459">Pour oser accepter une pareille grâce.</l>
@@ -3538,18 +3538,18 @@
 	<l id="2462">Quelques mois de délai, loin de fâcher Rhodope...</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Crésus, Ésope, Tirrène, Trasibule, Arsinoé, Rhodope, Atis, Gardes.</head>
-<sp who="ATIS"><speaker>ATIS</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>Crésus, Ésope, Tirrène, Trasibule, Arsinoé, Rhodope, Atis, Gardes.</cast>
+<sp who="ATIS"><hstage><speaker>ATIS</speaker></hstage>
 	<l id="2463">Seigneur, le peuple ému demande à voir Ésope.</l>
 	<l id="2464">On répand dans Sardis des bruits confus et sourds</l>
 	<l id="2465">Que, pour sa récompense, on attente à ses jours.</l>
 </sp>
-<sp who="CRESUS"><speaker>CRÉSUS.</speaker>
+<sp who="CRESUS"><hstage><speaker>CRÉSUS</speaker>.</hstage>
 	<l id="2466">À ce peuple agité viens te faire paraître.</l>
 	<l id="2467">Du jour de ton hymen je te laisse le maître ;</l>
 	<l id="2468">Mais pour moi c’est un terme assez long que demain.</l>
 </sp>
-<sp who="ESOPE"><speaker>ÉSOPE.</speaker>
+<sp who="ESOPE"><hstage><speaker>ÉSOPE</speaker>.</hstage>
 	<l id="2469">Unissez bien vos cœurs, en vous donnant la main.</l>
 	<l id="2470">Puissiez-vous tout un siècle, oubliés par les Parques</l>
 	<l id="2471">De la faveur des dieux sans cesse avoir des marques !</l>

@@ -100,7 +100,7 @@
 <body>
 <div1 type="acte" n="1"><head/>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="LOUIS"><speaker>LOUIS, seul.</speaker>
+<sp who="LOUIS"><hstage><speaker>LOUIS</speaker>, seul.</hstage>
 <p id="1">
 	<s id="1">Je suis bien fatigué ; l’inaction m’a rendu sensible à la moindre peine.</s>
 	<s id="2">Reposons-nous quelques instants, J’arriverai encore avant la nuit à Méréville, où je veux coucher...</s>
@@ -146,26 +146,26 @@
 	<l id="24">Ou méritons un sort plus doux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Louis, Le Vieillard.</head>
-<sp who="LE-VIEILLARD"><speaker>LE VIEILLARD.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Louis, Le Vieillard.</cast>
+<sp who="LE-VIEILLARD"><hstage><speaker>LE VIEILLARD</speaker>.</hstage>
 <p id="1">
 	<s id="1">Mon charitable Monsieur, une petite aumône, s’il vous plaît, au bonhomme Loreau, qui aura quatre-vingt-huit ans à la Saint-Christophe, fête de notre paroisse.</s>
 </p>
 </sp>
-<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<sp who="LOUIS"><hstage><speaker>LOUIS</speaker>.</hstage>
 <p id="2">
 	<s id="1">Ah !</s>
 	<s id="2">Mon père, comment pouvez-vous venir de si loin, dans un âge si avancé ?</s>
 	<s id="3">Car vous êtes sans doute de Mereville, à une lieue du bois ; je ne connais pas de village qui en soit plus près.</s>
 </p>
 </sp>
-<sp who="LE-VIEILLARD"><speaker>LE VIEILLARD.</speaker>
+<sp who="LE-VIEILLARD"><hstage><speaker>LE VIEILLARD</speaker>.</hstage>
 <p id="3">
 	<s id="1">Oui, de Méréville, mon cher Monsieur ; j’ai encore les jambes assez bonnes ; aussi c’est tout ce qui me reste ; étrennez-moi donc, s’il vous plaît.</s>
 	<s id="2">Je n’ai pas eu un liard de toute la journée, pas un pauvre liard.</s>
 </p>
 </sp>
-<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<sp who="LOUIS"><hstage><speaker>LOUIS</speaker>.</hstage>
 <p id="4">
 	<s id="1">Mon vénérable père, j’ai bien peu de chose à vous offrir, et j’en suis plus fâché que vous ne pouvez l’être.</s>
 	<s id="2">Je n’ai jamais mieux senti le malheur de l’indigence.</s>
@@ -174,12 +174,12 @@
 	<s id="5">Avez-vous conservé votre femme ?</s>
 </p>
 </sp>
-<sp who="LE-VIEILLARD"><speaker>LE VIEILLARD.</speaker>
+<sp who="LE-VIEILLARD"><hstage><speaker>LE VIEILLARD</speaker>.</hstage>
 <p id="5">
 	<s id="1">Je n’en ai jamais eue, mon bon Monsieur : oh ! si j’avais été accablé de tout l’embarras d’un ménage, de l’impatience que cause une femme, de l’inquiétude que laissent les enfants sur la conduite qu’ils tiendront un jour, je ne serais point parvenu à l’âge où vous me voyez ; mais il se fait tard ; je marche à pas comptés : ayez, je vous en conjure, pitié de ce pauvre vieux, qui ne vit que de la charité des bonnes âmes...</s>
 </p>
 </sp>
-<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<sp who="LOUIS"><hstage><speaker>LOUIS</speaker>.</hstage>
 <p id="6">
 	<s id="1">Tenez, recevez, je vous prie, cette faible marque du désir que j’aurais de vous aider...</s>
 </p>
@@ -189,7 +189,7 @@
 	<s id="1">Il est bien juste que le jour qui suit le plus heureux de ma vie, soit consacré à produire quelque douceur dans l’âme de cet infortuné.</s>
 </p>
 </sp>
-<sp who="LE-VIEILLARD"><speaker>LE VIEILLARD, qui a mis ses lunettes, et regarde de fort près.</speaker>
+<sp who="LE-VIEILLARD"><hstage><speaker>LE VIEILLARD</speaker>, qui a mis ses lunettes, et regarde de fort près.</hstage>
 <p id="8">
 	<s id="1">Père éternel !</s>
 	<s id="2">C’est un écu !</s>
@@ -237,7 +237,7 @@
 	<l id="58">Depuis qu’il a la Cure,</l>
 	<l id="59">Tout le bien qu’il nous vaut.</l>
 </sp>
-<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<sp who="LOUIS"><hstage><speaker>LOUIS</speaker>.</hstage>
 <p id="9">
 	<s id="1">Oh !</s>
 	<s id="2">Mon père, que vous m’étonnez !</s>
@@ -247,14 +247,14 @@
 </s>
 </p>
 </sp>
-<sp who="LE-VIEILLARD"><speaker>LE VIEILLARD.</speaker>
+<sp who="LE-VIEILLARD"><hstage><speaker>LE VIEILLARD</speaker>.</hstage>
 <p id="10">
 	<s id="1">Adieu, mon brave, mon charitable Monsieur : je n’oublierai jamais vos bontés, et de trois sois que je réciterai mon chapelet, à l’intention de mes bienfaicteurs, il y en aura toujours deux pour vous.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="LOUIS"><speaker>LOUIS, seul.</speaker>
+<sp who="LOUIS"><hstage><speaker>LOUIS</speaker>, seul.</hstage>
 <p id="1">
 	<s id="1">Oh !</s>
 	<s id="2">Si les riches sçavaient le profit que l’âme retire d’un écu bien employé, avec quel empressement ils renonceraient aux frivolités qui les occupent, et qui ne peuvent les satisfaire !</s>
@@ -290,17 +290,17 @@
 <stage>Louis, avant de se lever raccommode son sac.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Louis, Va-Le-Galop, Serre-Fort.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Louis, Va-Le-Galop, Serre-Fort.</cast>
 <stage>Louis ne voit les Cavaliers que lorsqu’ils parlent.</stage>
-<sp who="VA-LE-GALOP"><speaker>VA-LE-GALOP, à Serre-fort.</speaker>
+<sp who="VA-LE-GALOP"><hstage><speaker>VA-LE-GALOP</speaker>, à Serre-fort.</hstage>
 <stage>AIR : Menuet d’Exaudet.</stage>
 	<l id="80" part="i">Je crois que...</l>
 </sp>
-<sp who="SERRE-FORT"><speaker>SERRE-FORT.</speaker>
+<sp who="SERRE-FORT"><hstage><speaker>SERRE-FORT</speaker>.</hstage>
 	<l id="80" part="f">Oui, parbleu!..</l>
 <stage>Louis se lève.</stage>
 </sp>
-<sp who="VA-LE-GALOP"><speaker>VA-LE-GALOP.</speaker>
+<sp who="VA-LE-GALOP"><hstage><speaker>VA-LE-GALOP</speaker>.</hstage>
 	<l id="81">Vois-tu comme</l>
 	<l id="82">Il se leve à notre aspect ?</l>
 	<l id="83">Ceci paraît suspect...</l>
@@ -329,54 +329,54 @@
 	<s id="5">Montre-les.</s>
 </p>
 </sp>
-<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<sp who="LOUIS"><hstage><speaker>LOUIS</speaker>.</hstage>
 <p id="2">
 	<s id="1">Messieurs, j’appartenais à Monsieur le Comte de la Croix, et je viens de son Château de Monfort ; ce bon Seigneur m’a donné cinquante écus pour apprendre un métier,  je vais avec empressement annoncer cette heureuse nouvelle à ma mère : je n’ai de passeport que la vérité de ce que j’ai l’honneur de vous dire.</s>
 </p>
 </sp>
-<sp who="VA-LE-GALOP"><speaker>VA-LE-GALOP.</speaker>
+<sp who="VA-LE-GALOP"><hstage><speaker>VA-LE-GALOP</speaker>.</hstage>
 <p id="3">
 	<s id="1">Nous serions souvent la dupe de pareilles pièces.</s>
 	<s id="2">Vous pouvez, mon ami, être un fort honnête garçon, mais peut-être aussi ne nous parlez-vous de ces cinquante écus que pour nous étonner moins à la vue de l’argent que nous vous trouverions.</s>
 </p>
 </sp>
-<sp who="SERRE-FORT"><speaker>SERRE-FORT.</speaker>
+<sp who="SERRE-FORT"><hstage><speaker>SERRE-FORT</speaker>.</hstage>
 <p id="4">
 	<s id="1">Ce jeune homme a l’air de la candeur, et je crois que nous pouvons, sans autre examen, le laisser continuer sa route.</s>
 </p>
 </sp>
-<sp who="VA-LE-GALOP"><speaker>VA-LE-GALOP.</speaker>
+<sp who="VA-LE-GALOP"><hstage><speaker>VA-LE-GALOP</speaker>.</hstage>
 <p id="5">
 	<s id="1">Non pas, s’il vous plaît, mon cher camarade ; vous savez, comme moi, que sous l’apparence de l’honnêteté, nous avons découvert des grands fripons : d’ailleurs, on nous a donné de nouveaux ordres que nous devons suivre ; la sureté publique y est intéressée, et nous ne pouvons nous en écarter sans danger pour nous-mêmes.</s>
 </p>
 </sp>
-<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<sp who="LOUIS"><hstage><speaker>LOUIS</speaker>.</hstage>
 <p id="6">
 	<s id="1">Messieurs, il est tard, si j’osais vous prier...</s>
 </p>
 </sp>
-<sp who="VA-LE-GALOP"><speaker>VA-LE-GALOP.</speaker>
+<sp who="VA-LE-GALOP"><hstage><speaker>VA-LE-GALOP</speaker>.</hstage>
 <p id="7">
 	<s id="1">Nous serions souvent la dupe de pareilles pièces. Vous pouvez, mon ami, être un fort honnête garçon, mais peut-être aussi ne nous parlez-vous de ces cinquante écus que pour nous étonner moins à la vue de l’argent que nous vous trouverions.</s>
 </p>
 </sp>
-<sp who="SERRE-FORT"><speaker>SERRE-FORT.</speaker>
+<sp who="SERRE-FORT"><hstage><speaker>SERRE-FORT</speaker>.</hstage>
 <p id="8">
 	<s id="1">Ce jeune homme a l’air de la candeur, et je crois que nous pouvons, sans autre examen, le laisser continuer sa route.</s>
 </p>
 </sp>
-<sp who="VA-LE-GALOP"><speaker>VA-LE-GALOP.</speaker>
+<sp who="VA-LE-GALOP"><hstage><speaker>VA-LE-GALOP</speaker>.</hstage>
 <p id="9">
 	<s id="1">Non pas, s’il vous plaît, mon cher camarade ; vous savez, comme moi, que sous l’apparence de l’honnêteté, nous avons découvert des grands fripons : d’ailleurs, on nous a donné de nouveaux ordres que nous devons suivre ; la sureté publique y est intéressée, et nous ne pouvons nous en écarter sans danger pour nous-mêmes.</s>
 </p>
 </sp>
-<sp who="VA-LE-GALOP"><speaker>VA-LE-GALOP.</speaker>
+<sp who="VA-LE-GALOP"><hstage><speaker>VA-LE-GALOP</speaker>.</hstage>
 <p id="10">
 	<s id="1">Serre-fort, rassemble tous ces effets ; mets les six couverts dans ta poche, et nous partirons.</s>
 </p>
 <stage>Serre-fort remplit et referme le sac.</stage>
 </sp>
-<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<sp who="LOUIS"><hstage><speaker>LOUIS</speaker>.</hstage>
 <p id="11">
 	<s id="1">Ô mon cher maître !</s>
 	<s id="2">Ô ma tendre mère !</s>
@@ -385,7 +385,7 @@
 </p>
 <stage>Il pleure.</stage>
 </sp>
-<sp who="VA-LE-GALOP"><speaker>VA-LE-GALOP.</speaker>
+<sp who="VA-LE-GALOP"><hstage><speaker>VA-LE-GALOP</speaker>.</hstage>
 <p id="12">
 	<s id="1">Voilà bien ce qu’ils disent tous.</s>
 	<s id="2">Allons, allons, partons toujours: on verra cela en prison.</s>
@@ -393,8 +393,8 @@
 <stage>Ils s’approchent de lui.</stage>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE DERNIÈRE. Les Personnages précédents, Dumont.</head>
-<sp who="DUMONT"><speaker>DUMONT.</speaker>
+<div2 type="scene" n=""><head>SCÈNE DERNIÈRE.</head><cast>Les Personnages précédents, Dumont.</cast>
+<sp who="DUMONT"><hstage><speaker>DUMONT</speaker>.</hstage>
 <stage>AIR. De la petite Poste.</stage>
 	<l id="99">Ah ! Messieurs, ah ! Que j’ai couru !</l>
 	<l id="100">Mon cheval en sera fourbu;</l>
@@ -428,19 +428,19 @@
 	<s id="2">Le pauvre diable de cheval ne pouvait plus me porter, j’ai jetté mes bottes, et je suis venu plus vite que lui au galop.</s>
 </p>
 </sp>
-<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<sp who="LOUIS"><hstage><speaker>LOUIS</speaker>.</hstage>
 <p id="2">
 	<s id="1">Mon cher Maître me rend donc la vie ; car je l’aurais perdue avant de pouvoir me justifier.</s>
 	<s id="2">J’en consacrerai tous les instants au souvenir de ses bienfaits ; et vous, mon libérateur, partagés ma reconnaissance.</s>
 	<s id="3">Vous avez connu le prix d’un moment : un seul employé, avec moins d’ardeur, eût rendu mon sort bien cruel.</s>
 </p>
 </sp>
-<sp who="DUMONT"><speaker>DUMONT, aux Cavaliers.</speaker>
+<sp who="DUMONT"><hstage><speaker>DUMONT</speaker>, aux Cavaliers.</hstage>
 <p id="3">
 	<s id="1">Tenez, Messieurs, voilà le Certificat de Monsieur le Comte de Lacroix ; s’il vous faut d’autres renseignements, vous les aurez à Merevil, où je suis connu des Officiers de Justice; nous y souperons ; je les verrai, et ils vous répondront de moi.</s>
 </p>
 </sp>
-<sp who="VA-LE-GALOP"><speaker>VA-LE-GALOP prend et lit le Certificat.</speaker>
+<sp who="VA-LE-GALOP"><hstage><speaker>VA-LE-GALOP</speaker> prend et lit le Certificat.</hstage>
 <p id="4">
 	<s id="1">« Nous, Chevalier de l’Ordre Royal et Militaire de Saint-Louis, Brigadier des Armées du Roi, certifions à qui il appartiendra, que le nommé Louis Pernon de Sari, près  Autun, nous a très bien, et très fidèlement servi pendant l’espace d’une année ; qu’il n’est sorti de notre Maison qu’afin d’aller près de sa mère apprendre un métier, pour les frais duquel nous lui avons donné cent cinquante livres ; que nous apprenons, dans l’instant, qu’au moment de son départ, un enfant a eu l’idée de mettre dans son paquet six couverts d’argent à nos armes ; ce qu’il a exécuté sans être aperçu ; que sentant tous les dangers de cette indiscrète plaisanterie, nous avons fait partir sur le champ Dumont, notre valet-de-chambre, pour prévenir les suites qu’elles pourraient avoir, et répondre en notre nom, de la bonne conduite et des sentiments d’honneur de ce jeune homme ; en foi de quoi, nous avons signé le présent, scellé du sceau de nos armes.</s>
 	<s id="2">En notre Château de Montfort, le etc.</s>
@@ -460,7 +460,7 @@
 	<s id="1">La perte de votre temps, la frayeur que vous avez eue seront bien peu réparées par ces six francs ; faites-nous, mon cher ami, le plaisir de les recevoir.</s>
 </p>
 </sp>
-<sp who="LOUIS"><speaker>LOUIS.</speaker>
+<sp who="LOUIS"><hstage><speaker>LOUIS</speaker>.</hstage>
 <p id="9">
 	<s id="1">Messieurs, vous n’y pensez pas...</s>
 	<s id="2">Le Houzard, mon ancien camarade, est cause de tout ceci ; mais il ne l’avait pas prévu ; c’est un enfant, et je lui pardonne.</s>
@@ -468,27 +468,27 @@
 	<s id="4">Cependant, si cet argent est destiné au sentiment, donnez-le au bonhomme Loreau, le pauvre Vieillard de Merevil, avec qui je causais avant votre arrivée.</s>
 </p>
 </sp>
-<sp who="SERRE-FORT"><speaker>SERRE-FORT.</speaker>
+<sp who="SERRE-FORT"><hstage><speaker>SERRE-FORT</speaker>.</hstage>
 <p id="10">
 	<s id="1">Le père Loreau ! Il est mon voisin, et puisque vous nous refusez, nous serons charmés que votre générosité s’adresse à lui ; mais nous exigeons que vous lui fassiez vous-même ce petit présent.</s>
 </p>
 <stage>Louis reçoit les six francs.</stage>
 </sp>
-<sp who="DUMONT"><speaker>DUMONT.</speaker>
+<sp who="DUMONT"><hstage><speaker>DUMONT</speaker>.</hstage>
 <p id="11">
 	<s id="1">Il faut convenir que nous voici quatre bien honnêtes-gens ; la chose n’est pas ordinaire, et dans un bois encore...</s>
 	<s id="2">À la Ville beaucoup de sociétés fort étendues auraient peine à en offrir le même nombre. Ce n’est pas tout, Messieurs ; j’ai un nouvel ordre à exécuter : mon Maître, en me donnant ce Louis-d’or, m’a dit de le distribuer aux Cavaliers qui pourraient avoir arrêté notre jeune ami, s’ils entendaient raison.</s>
 	<s id="3">Si, par des chicanes de pure malice, ils ne cherchaient point à prolonger ses peines, et notre inquiétude ; l’argent vous appartient, comme vous voyez.</s>
 </p>
 </sp>
-<sp who="SERRE-FORT"><speaker>SERRE-FORT.</speaker>
+<sp who="SERRE-FORT"><hstage><speaker>SERRE-FORT</speaker>.</hstage>
 <p id="12">
 	<s id="1">Non, non, Monsieur...</s>
 	<s id="2">Eh !</s>
 	<s id="3">Qu’avons-nous fait pour cela ?</s>
 </p>
 </sp>
-<sp who="DUMONT"><speaker>DUMONT.</speaker>
+<sp who="DUMONT"><hstage><speaker>DUMONT</speaker>.</hstage>
 <p id="13">
 	<s id="1">Oh parbleu !</s>
 	<s id="2">Vous les prendrez : Monsieur le Comte est bon, mais absolu comme l’Empereur Turc : je n’oserais jamais lui dire que vous lui auriez fait l’affront de le réfuser...</s>
@@ -496,12 +496,12 @@
 </p>
 <stage>Il met l’argent dans leurs poches.</stage>
 </sp>
-<sp who="VA-LE-GALOP"><speaker>VA-LE-GALOP.</speaker>
+<sp who="VA-LE-GALOP"><hstage><speaker>VA-LE-GALOP</speaker>.</hstage>
 <p id="14">
 	<s id="1">Nous sommes honteux de recevoir une récompense que nous avons si peu méritée, et dont nous ne pouvons pas témoigner notre reconnaissance.</s>
 </p>
 </sp>
-<sp who="DUMONT"><speaker>DUMONT.</speaker>
+<sp who="DUMONT"><hstage><speaker>DUMONT</speaker>.</hstage>
 <p id="15">
 	<s id="1">Que ce bois était sombre, quand je l’ai parcouru ! Qu’il m’inspirait d’horreur! J’y respire à présent l’air le plus doux.... Comme les circonstances changent tout-à-coup notre situation.</s>
 </p>

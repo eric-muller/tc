@@ -75,8 +75,8 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Jonathas, Achas.</head>
-<sp who="ACHAS"><speaker>ACHAS.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Jonathas, Achas.</cast>
+<sp who="ACHAS"><hstage><speaker>ACHAS</speaker>.</hstage>
 	<l id="1">Quoi ? Saül, qui partout vainqueur des Philistins,</l>
 	<l id="2">D’Israël abattu releva les destins,</l>
 	<l id="3">Qui vit à le servir nos Tribus toujours prêtes,</l>
@@ -85,7 +85,7 @@
 	<l id="6">Attend-il qu’en son Camp, on le force aujourd’hui ?</l>
 	<l id="7">Et démentant ici sa conduite ordinaire...</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="8">Et ne connais-tu pas le trouble de mon Père ?</l>
 	<l id="9">Dans les divers transports dont il est combattu,</l>
 	<l id="10">De ses malheurs, du moins, sépare sa vertu.</l>
@@ -122,13 +122,13 @@
 	<l id="41">Cherche à venger sur lui le mépris de ses Lois,</l>
 	<l id="42">Et veut par son exemple effrayer tous les Rois.</l>
 </sp>
-<sp who="ACHAS"><speaker>ACHAS.</speaker>
+<sp who="ACHAS"><hstage><speaker>ACHAS</speaker>.</hstage>
 	<l id="43">J’ignore le succès que le Ciel lui destine ;</l>
 	<l id="44">Mais l’Empire, Seigneur, penche vers sa ruine :</l>
 	<l id="45">Pressé de tous côtés, Israël aujourd’hui</l>
 	<l id="46">Ne peut trouver qu’en vous sa gloire et son appui.</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="47">Ah ! Si pour détourner un si funeste orage,</l>
 	<l id="48">Il ne fallait, Achas, qu’écouter mon courage,</l>
 	<l id="49">Qu’au milieu des périls précipiter mes pas,</l>
@@ -144,7 +144,7 @@
 	<l id="59">L’espoir de son retour est tout ce qui le flatte,</l>
 	<l id="60">Tout le camp à la fois, presse, murmure, éclate...</l>
 </sp>
-<sp who="ACHAS"><speaker>ACHAS.</speaker>
+<sp who="ACHAS"><hstage><speaker>ACHAS</speaker>.</hstage>
 	<l id="61">D’un camp tout plein encore de vos faits glorieux,</l>
 	<l id="62">Le murmure, Seigneur, vous est injurieux ;</l>
 	<l id="63">Mais songez qu’il s’agit de sauver un Empire.</l>
@@ -154,7 +154,7 @@
 	<l id="67">Et par là Jonathas assurant la victoire,</l>
 	<l id="68">Même en la partageant augmentera sa gloire.</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="69">De sa gloire en ces lieux tu crois donc que jaloux,</l>
 	<l id="70">Je détourne un secours qui les rassure tous ?</l>
 	<l id="71">Non, non, mon amitié qu’un pareil soupçon blesse,</l>
@@ -186,14 +186,14 @@
 	<l id="97">Cependant le temps presse, et pour dernier secours,</l>
 	<l id="98">J’ai fait venir ma Sœur ici depuis deux jours.</l>
 </sp>
-<sp who="ACHAS"><speaker>ACHAS.</speaker>
+<sp who="ACHAS"><hstage><speaker>ACHAS</speaker>.</hstage>
 	<l id="99">Depuis ce même temps, éloigné de l’armée,</l>
 	<l id="100">J’en ai trouvé partout la nouvelle semée.</l>
 	<l id="101">Mais quel dessein, Seigneur, l’appelle dans ces lieux</l>
 	<l id="102">Où rien ne peut s’offrir qui ne blesse les yeux ?</l>
 	<l id="103" part="i">Où le fier appareil...</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="103" part="f">Comme toi, par avance,</l>
 	<l id="104">Du retour de David j’ai senti l’importance.</l>
 	<l id="105">Et comme par ma Sœur je puis mieux l’espérer,</l>
@@ -222,11 +222,11 @@
 	<l id="128" part="i">Conduit vers nous ses pas ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Jonathas, Michol, Achas, Élise.</head>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Jonathas, Michol, Achas, Élise.</cast>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="128" part="f">Que fait le Roi, Madame ?</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="129">Ah ! Venez avec moi combattre ses transports.</l>
 	<l id="130">C’est maintenant qu’il faut redoubler nos efforts.</l>
 	<l id="131">Des vengeances du Ciel déplorable victime,</l>
@@ -240,7 +240,7 @@
 	<l id="139">Hâtez-vous, craignez tout du trouble qui l’inspire,</l>
 	<l id="140">Et songez que sa chute est celle de l’Empire.</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="141">Vous-même de David assurer le retour.</l>
 	<l id="142">Venez faire parler la nature et l’amour.</l>
 	<l id="143">Je sais qu’Éliézer à vos ordres fidèle,</l>
@@ -252,7 +252,7 @@
 	<l id="149">En vain vous fléchiriez le cœur de votre Époux,</l>
 	<l id="150">Si nous n’avons du Roi désarmé le courroux.</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="151">Hélas ! De ce courroux injuste ou légitime,</l>
 	<l id="152">Je suis, Prince, je suis la première victime.</l>
 	<l id="153">Ciel arbitre des Rois, où me réduisez-vous ?</l>
@@ -262,15 +262,15 @@
 	<l id="157">Et dans ce triste état une sanglante loi</l>
 	<l id="158">Semble en les séparant les unir contre moi.</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="159">Madame, il n’est pas temps de répandre des larmes,</l>
 	<l id="160">Songez à prévenir de plus tristes alarmes.</l>
 	<l id="161">Allons où le devoir vous appelle avec moi,</l>
 	<l id="162">Ne tardons plus, courons. Mais on vient, c’est le Roi.</l>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE III. Saül, Jonathas, Michol, Achas, Asser et Élise.</head>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<div2 type="scene" n=""><head>SCÈNE III.</head><cast>Saül, Jonathas, Michol, Achas, Asser et Élise.</cast>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="163">Que vois-je ici ? Quel soin rassemble ma famille,</l>
 	<l id="164">Et présente à mes yeux Jonathas et ma Fille ?</l>
 <stage>À Asser.</stage>
@@ -281,13 +281,13 @@
 	<l id="168">Ah ! Sortons, et fuyons une indigne faiblesse.</l>
 	<l id="169">Mon dessein a besoin de toute ma fureur.</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="170" part="i">Mon Père, où courrez-vous ?</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="170" part="f">Où fuyez-vous, Seigneur ?</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="171">Pourquoi ne puis-je, hélas ! Fuyant plus loin encore,</l>
 	<l id="172">Dérober à vos yeux l’ennui qui me dévore,</l>
 	<l id="173">Et du Ciel sur moi seul épuiser le courroux</l>
@@ -297,7 +297,7 @@
 	<l id="177">Et de tant de grandeurs ne vous laisse pour fruit,</l>
 	<l id="178">Le malheur qui m’accable, et la mort qui me fuit.</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="179">Le Ciel sur vous, Seigneur, jette un œil moins sévère.</l>
 	<l id="180">Quel crime avez-vous fait ? Jadis dans sa colère,</l>
 	<l id="181">Lui-même il vous dicta ses ordres souverains,</l>
@@ -315,7 +315,7 @@
 	<l id="193">D’un ennemi vaincu vous devenez l’appui,</l>
 	<l id="194">Est-ce là le forfait qui vous trouble aujourd’hui ?</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="195">Des jugements d’un Dieu qui peut percer l’abîme ?</l>
 	<l id="196">Cette même clémence à ses yeux est un crime.</l>
 	<l id="197">Soit qu’il faille lui plaire, ou servir son courroux,</l>
@@ -329,14 +329,14 @@
 	<l id="205">Pourquoi venant lui-même au-devant de mes pas,</l>
 	<l id="206">M’offrirait-il des grandeurs que je ne cherchais pas ?</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="207">Mais, Seigneur, quels malheurs marquent votre disgrâce ;</l>
 	<l id="208">Et depuis quand l’Empire a-t-il changé de face ?</l>
 	<l id="209">Quel est votre ennemi ? Jadis le Philistin</l>
 	<l id="210">N’offrait à votre espoir qu’un triomphe certain :</l>
 	<l id="211" part="i">Pourquoi donc dans ce jour...</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="211" part="f">Hélas ! Que vous dirai-je ?</l>
 	<l id="212">Je crains Agag, je crains cette main sacrilège,</l>
 	<l id="213">Qui jadis au mépris des ordres immortels,</l>
@@ -348,7 +348,7 @@
 	<l id="219">Tout m’épouvante, et n’offre à mon âme abattue,</l>
 	<l id="220">Qu’une foule de maux, dont le moindre me tue.</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="221">Hé bien, de nos destins, sans hasarder vos jours,</l>
 	<l id="222">Souffrez, Seigneur, que seuls nous poursuivions le cours ;</l>
 	<l id="223">D’autant plus assurés au combat qui s’apprête,</l>
@@ -360,7 +360,7 @@
 	<l id="229">Que de ses envieux la fureur vous ravit ;</l>
 	<l id="230" part="i">Que par des nœuds sacrés...</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="230" part="f">Moi, rappeler David ?</l>
 	<l id="231">Vous voulez qu’en mon sein je recèle un perfide,</l>
 	<l id="232">Un rebelle, un ingrat, que dis-je ! Un parricide ?</l>
@@ -375,7 +375,7 @@
 	<l id="241">Puis-je après ses forfaits, et le nœud qui vous joint,</l>
 	<l id="242">Parmi mes ennemis ne vous confondre point ?</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="243">Je ne vous parle plus, Seigneur, comme à mon Père.</l>
 	<l id="244">Hélas ! Ce nom sacré ne vous touche plus guère ;</l>
 	<l id="245">Mais pleine de douleur, aussi bien que d’effroi,</l>
@@ -405,7 +405,7 @@
 	<l id="269">Ces monstres dont l’envie attira le courroux,</l>
 	<l id="270">S’enfuiront devant lui, s’il paraît devant vous.</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="271">Oui, Seigneur, écartez un soupçon qui l’outrage ;</l>
 	<l id="272">De ses persécuteurs votre haine est l’ouvrage,</l>
 	<l id="273">Leur envie alluma ce courroux éternel,</l>
@@ -422,7 +422,7 @@
 	<l id="284">Accordez un époux à ses vœux, à ses larmes ;</l>
 	<l id="285">À vous-même, aux destins d’Israël hasardez...</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="286">Hé bien, il faut vouloir ce que vous demandez.</l>
 	<l id="287">Immolons à David votre gloire et la mienne.</l>
 	<l id="288">Vous voulez son retour, je consens qu’il revienne ;</l>
@@ -433,7 +433,7 @@
 	<l id="293">Il justifie encore un si juste courroux,</l>
 	<l id="294">Sa perfidie au moins me vengera de vous.</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="295">Ah ! Dans mon Roi, Seigneur, je retrouve mon Père.</l>
 	<l id="296">Ainsi le Ciel s’apprête à finir ma misère.</l>
 	<l id="297">Sur nos sacrés Autels que d’encens va brûler !</l>
@@ -442,11 +442,11 @@
 	<l id="300" part="i">Mais, que vous veut Asser ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Saül, Jonathas, Michol, Asser, Achas.</head>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Saül, Jonathas, Michol, Asser, Achas.</cast>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="300" part="f">Que viens-tu nous apprendre ?</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="301">Ah ! Prévenez les maux qui menacent l’État.</l>
 	<l id="302">D’un Enfant d’Israël apprenez l’attentat.</l>
 	<l id="303">De l’Empire déjà partageant la conquête,</l>
@@ -460,13 +460,13 @@
 	<l id="311">De vos fiers ennemis n’excite le courage,</l>
 	<l id="312">Et n’éclaire entre vous un horrible carnage.</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="313" part="i">Ah ! Ciel !</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="313" part="m">Qu’entends-je ?</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="313" part="f">Hé bien, daignez ouvrir les yeux,</l>
 	<l id="314">Reconnaissez enfin ce Héros glorieux.</l>
 	<l id="315">C’est donc là pour son Roi cette ardeur qui le presse ?</l>
@@ -479,8 +479,8 @@
 	<l id="322">Si j’entraîne en mourant le perfide avec moi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Jonathas, Michol, Achas, Élise.</head>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Jonathas, Michol, Achas, Élise.</cast>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="323">De tout ce que j’entends, grand Dieu, que dois-je croire ?</l>
 	<l id="324">Quoi ? Jusques là David aurait trahi sa gloire ?</l>
 	<l id="325">Quoi ! De Sion en pleurs le triste souvenir,</l>
@@ -492,7 +492,7 @@
 	<l id="331">Hélas ! Puis-je penser que fidèle à sa flamme,</l>
 	<l id="332">Quand il immole tout, il épargne sa femme ?</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="333">Vous écoutez peut-être un injuste transport :</l>
 	<l id="334">D’Éliézer au moins attendez le rapport.</l>
 	<l id="335">Adieu, de mon côté je vais moi-même apprendre</l>
@@ -500,8 +500,8 @@
 	<l id="337">L’imposture sans doute aura pu le semer.</l>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE VI. Michol, Élise.</head>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<div2 type="scene" n=""><head>SCÈNE VI.</head><cast>Michol, Élise.</cast>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="338">Ah ! Courons sur leurs pas pour mieux m’en informer.</l>
 	<l id="339">Hélas ! De quels desseins faut-il qu’on le soupçonne ?</l>
 	<l id="340">Et toi, qui vois la crainte où mon cœur s’abandonne,</l>
@@ -511,8 +511,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Michol, Élise.</head>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Michol, Élise.</cast>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="343">Élise, ce rapport n’était que trop fidèle ;</l>
 	<l id="344">Et confirmant d’Asser la sanglante nouvelle,</l>
 	<l id="345">Éliézer déjà de retour dans ces lieux,</l>
@@ -522,11 +522,11 @@
 	<l id="349">Et le coup qu’à mon Père il adresse aujourd’hui,</l>
 	<l id="350">Doit me percer le cœur pour aller jusqu’à lui.</l>
 </sp>
-<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+<sp who="ÉLISE"><hstage><speaker>ÉLISE</speaker>.</hstage>
 	<l id="351">Quel est le fondement d’un discours qui m’étonne ?</l>
 	<l id="352" part="i">Ô Ciel ! Que dites-vous ?</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="352" part="f">Que l’ingrat m’abandonne.</l>
 	<l id="353">Par quel éclat trompeur d’amour et de vertu</l>
 	<l id="354">Au dernier des affronts, Ciel, me préparais-tu ?</l>
@@ -547,7 +547,7 @@
 	<l id="369">Que loin de s’indigner contre un perfide Époux,</l>
 	<l id="370">J’ai plus d’amour encor que je n’ai de courroux.</l>
 </sp>
-<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+<sp who="ÉLISE"><hstage><speaker>ÉLISE</speaker>.</hstage>
 	<l id="371">Quoi ! Sans chercher, Madame, aucune autre lumière,</l>
 	<l id="372">Votre âme au moindre bruit se livre toute entière,</l>
 	<l id="373">Et déjà croit David rangé sous d’autres Lois ?</l>
@@ -560,7 +560,7 @@
 	<l id="380">Mais sans doute pour lui le Ciel agit encore.</l>
 	<l id="381">Vous le verrez, Madame ; et loin de vous trahir...</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="382">En vain par tes discours tu prétends m’éblouir.</l>
 	<l id="383">Mais il faut détourner cet orage funeste.</l>
 	<l id="384">C’en est fait, commençons, le Ciel fera le reste.</l>
@@ -571,8 +571,8 @@
 	<l id="389">Quel est le nouveau trouble, ô Ciel, où je le vois ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Saül, Michol, Achas, Élise.</head>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Saül, Michol, Achas, Élise.</cast>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="390">Quoi ! Mes propres Sujets m’imposeront la loi ?</l>
 	<l id="391">Il ne vous manque plus, trop pleins de vos alarmes,</l>
 	<l id="392">Qu’à tourner contre moi la pointe de vos armes,</l>
@@ -582,8 +582,8 @@
 	<l id="396">Et soutenir ma gloire, et punir leur offense.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Saül, Michol, Élise.</head>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Saül, Michol, Élise.</cast>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="397">Ma Fille, vous voyez où me réduit le sort.</l>
 	<l id="398">Au sortir de ces lieux, plein d’un juste transport,</l>
 	<l id="399">J’allais, vous le savez, par l’effort de mes armes,</l>
@@ -592,7 +592,7 @@
 	<l id="402">Je n’ai trouvé que trouble et que frémissement.</l>
 	<l id="403">À quelle foi, grand Dieu, quelle fureur succède ?</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="404">Cédez, Seigneur, cédez au temps à qui tout cède.</l>
 	<l id="405">Sachez par un conseil prudent et généreux,</l>
 	<l id="406">De leur propre fureur sauver des malheureux.</l>
@@ -601,25 +601,25 @@
 	<l id="409">De ses engagements rompez tous les liens,</l>
 	<l id="410">Je puis vous en ouvrir d’infaillibles moyens.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="411">Qui moi ! J’irais, frappé d’une crainte servile,</l>
 	<l id="412">Contre ma gloire encor prendre un soin inutile ?</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="413">Non, non, C’est à mes pleurs que ce soin est permis.</l>
 	<l id="414" part="i">Souffrez que j’aille...</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="414" part="m">Où donc ?</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="414" part="f">Au Camp des Ennemis.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="415">Qu’entends-je, juste Ciel ! Ma surprise est extrême.</l>
 	<l id="416" part="i">Ma Fille dans leur Camp ? Vous ?</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="416" part="f">Oui, Seigneur, moi-même.</l>
 	<l id="417">Qui pourrait m’arrêter, et que redoutez-vous ?</l>
 	<l id="418">La présence, le nom, le rang de mon Époux,</l>
@@ -638,7 +638,7 @@
 	<l id="431">Plaignez mon infortune, et voyez sans colère</l>
 	<l id="432">Mes soins pour un Époux quand ils sauvent un Père.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="433">Non, non, qu’un choix plus digne de vous et de moi,</l>
 	<l id="434">Ma Fille, en d’autres mains remette votre foi.</l>
 	<l id="435">Et qui sait si du Ciel la haine redoublée</l>
@@ -646,7 +646,7 @@
 	<l id="437">Et d’Asser avec vous renouant le destin,</l>
 	<l id="438">Ne veut pas vous contraindre à lui donner la main ?</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="439">Que dites-vous ? Ô Ciel ! Et que viens-je d’entendre ?</l>
 	<l id="440">À quelque nouveau choix, moi, je pourrais prétendre ?</l>
 	<l id="441">Je mettrais dans mon lit l’implacable ennemi</l>
@@ -656,7 +656,7 @@
 	<l id="445">Et contre un nœud si saint quoi que l’on puisse oser,</l>
 	<l id="446">Ce n’est que par ma mort qu’on pourra le briser.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="447">Ah ! Craignez d’irriter un Père qui vous aime.</l>
 	<l id="448">Oubliez un Époux qui vous trahit lui-même ;</l>
 	<l id="449">Qui maintenant peut-être à l’aspect des faux Dieux,</l>
@@ -667,16 +667,16 @@
 	<l id="454" part="i">Ne vous souvient-il plus...</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Saül, Michol, Achas, Élise.</head>
-<sp who="ACHAS"><speaker>ACHAS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Saül, Michol, Achas, Élise.</cast>
+<sp who="ACHAS"><hstage><speaker>ACHAS</speaker>.</hstage>
 	<l id="454" part="f">Je rentre dans ces lieux,</l>
 	<l id="455">Seigneur, et tout le Camp par mille cris de joie</l>
 	<l id="456">Vous annonce un secours que le Ciel vous envoie.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="457">Que dis-tu ? Quel secours ? Où donc est Jonathas ?</l>
 </sp>
-<sp who="ACHAS"><speaker>ACHAS.</speaker>
+<sp who="ACHAS"><hstage><speaker>ACHAS</speaker>.</hstage>
 	<l id="458">Par votre ordre, Seigneur, je marchais sur ses pas,</l>
 	<l id="459">Lorsqu’un dessein secret l’éloignait de l’armée.</l>
 	<l id="460">Déjà sur son absence elle était alarmée,</l>
@@ -690,50 +690,50 @@
 	<l id="468">L’espérance succède aux plus vives alarmes.</l>
 	<l id="469">Enfin de leur effroi tous vos soldats remis...</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="470">Quoi ? Quelque espoir encor pourrait m’être permis ?</l>
 	<l id="471">Le bras de Dieu, servant le courroux qui me guide,</l>
 	<l id="472">Punirait des mutins, poursuivrait un perfide ?</l>
 	<l id="473">De l’honneur d’Israël le Ciel serait jaloux ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Saül, Jonathas, Achas, Asser, Michol, Élise.</head>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Saül, Jonathas, Achas, Asser, Michol, Élise.</cast>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="474">N’en doutez point, Seigneur, l’Éternel est pour vous.</l>
 	<l id="475">Ainsi dans ses desseins sa sagesse éclatante</l>
 	<l id="476">Dérobe sa conduite, et surprend notre attente.</l>
 	<l id="477">Les larmes d’Israël ne coulent point en vain.</l>
 	<l id="478">Le Ciel arme pour vous une invincible main.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="479">Quand pourrai-je baiser cette main salutaire,</l>
 	<l id="480">Mon Fils ? Mais quoi ? Parlez c’est trop longtemps se taire.</l>
 	<l id="481">Quels sont-ils ces secours par le Ciel envoyés ?</l>
 	<l id="482" part="i">Quel est l’heureux appui ?</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="482" part="f">Seigneur, vous le voyez.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Saül, Jonathas, David, Michol, Asser, Achas, Élise.</head>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Saül, Jonathas, David, Michol, Asser, Achas, Élise.</cast>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="483">Que vois-je ? Où suis-je ? Ô Ciel ! En croirai-je ma vue ?</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="484">Quel objet s’offre, Élise, à mon âme éperdue ?</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="485" part="i">David devant mes yeux !</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="485" part="f">Daigne encor le sauver,</l>
 	<l id="486" part="i">Ciel !</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="486" part="f">Jusques dans mon Camp oses-tu me braver ?</l>
 	<l id="487" part="i">Perfide.</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="487" part="f">Non, Seigneur. À ma gloire fidèle,</l>
 	<l id="488">N’attendez rien de moi qui soit indigne d’elle.</l>
 	<l id="489">Moins prompt à s’exposer à cet ardent courroux,</l>
@@ -743,7 +743,7 @@
 	<l id="493">Sûr qu’en Saül par là retrouvant un appui,</l>
 	<l id="494">J’excite son grand cœur à s’armer contre lui.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="495">Par quel égard frivole enchaînant ma justice,</l>
 	<l id="496">Crois-tu te dérober aux rigueurs du supplice ?</l>
 	<l id="497">Et quelle foi doit-on aux perfides mortels ?</l>
@@ -754,7 +754,7 @@
 	<l id="502">Brûlant de te plonger dans le sang de ton Roi,</l>
 	<l id="503">Prêt d’envahir un trône, où mon aspect te blesse...</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="504">Ah, Seigneur ! Est-ce à moi que ce discours s’adresse ?</l>
 	<l id="505">Et de ma foi toujours peut-on se défier ?</l>
 	<l id="506">Mais plutôt est-ce à moi de me justifier ?</l>
@@ -799,24 +799,24 @@
 	<l id="545">Dans leur proscription fidèles à leur roi,</l>
 	<l id="546">Viennent vaincre, Seigneur, ou mourir avec moi.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="547">Ô Ciel ! Dans quel état votre entretien me laisse ?</l>
 	<l id="548">Dans mon cœur tout à coup quelle étrange faiblesse ?</l>
 	<l id="549">Quoi, je sens ma fureur prête à s’évanouir ?</l>
 	<l id="550">Et de mon trouble encor je le laisse jouir ?</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="551">Que craignez-vous, Seigneur, d’une vertu si pure ?</l>
 	<l id="552">Achevez le triomphe, étouffez l’imposture.</l>
 	<l id="553">À ce trouble, du Ciel reconnaissez la voix,</l>
 	<l id="554">Et cette main de Dieu qui tient le cœur des Rois.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="555">Que me demandez-vous ? Ciel ! Quelle est votre envie ?</l>
 	<l id="556">Vous voulez qu’on m’arrache et l’Empire et la vie,</l>
 	<l id="557">Et loin de prévenir de funestes desseins....</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="558">De quel sang innocent ai-je souillé mes mains ?</l>
 	<l id="559">Par des liens sacrés attachés l’un à l’autre,</l>
 	<l id="560">Je pourrais commencer par répandre le vôtre ?</l>
@@ -847,7 +847,7 @@
 	<l id="585">Voir enfin sur ma foi vos doutes éclaircis,</l>
 	<l id="586" part="i">Mon sang versé, pour vous confirmer...</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="586" part="f">Ah ! Mon fils ?</l>
 	<l id="587">Vous me demandez grâce, et je suis seul coupable.</l>
 	<l id="588">Ô piété sincère ! Ô vertu qui m’accable !</l>
@@ -860,8 +860,8 @@
 	<l id="594">Que seul avec Asser on me laisse un moment.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Saül, Asser.</head>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Saül, Asser.</cast>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="595">De son retour, Asser, que faut-il que je pense ?</l>
 	<l id="596">Et dans quels temps le Ciel nous rend-il sa présence ?</l>
 	<l id="597">Lorsque de tout un camp prêt à se révolter,</l>
@@ -873,16 +873,16 @@
 	<l id="603">Mais tu ne me dis rien. Trop plein de ta surprise,</l>
 	<l id="604" part="i">Je vois...</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="604" part="f">Que voulez-vous, Seigneur, que je vous dise ?</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="605">Ce que je veux, Asser ? Est-ce à toi d’en douter ?</l>
 	<l id="606">Ton zèle maintenant ne peut trop éclater.</l>
 	<l id="607">Laisse un déguisement que ton respect affecte.</l>
 	<l id="608">Ose parler, ta foi ne peut m’être suspecte.</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="609">Continuez, Seigneur, un si noble dessein,</l>
 	<l id="610">Et recevez David jusques dans votre sein.</l>
 	<l id="611">J’ai vu couler pour lui de véritables larmes.</l>
@@ -892,7 +892,7 @@
 	<l id="615">Quoi que puisse ordonner enfin la destinée,</l>
 	<l id="616">Tout vous lie à la foi que vous avez donnée.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="617">À son nom seul, Asser, je pâlis, je frémis ;</l>
 	<l id="618">Seul il m’occupe plus que tous mes ennemis.</l>
 	<l id="619">Au bruit de ses exploits mon âme est éperdue.</l>
@@ -901,7 +901,7 @@
 	<l id="622">Et contre moi pour lui je suis prêt à m’armer.</l>
 	<l id="623">De mon aveuglement telle est la violence...</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="624">Ah ! Seigneur, s’il faut rompre un dangereux silence,</l>
 	<l id="625">Si mon cœur à son tour doit s’ouvrir à vos yeux,</l>
 	<l id="626">Croirai-je que David, ardent, ambitieux,</l>
@@ -928,7 +928,7 @@
 	<l id="647">De vos peuples chéri, tout votre camp l’adore ;</l>
 	<l id="648">Et pour le condamner qu’attendez-vous encore ?</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="649">Oui, c’est trop, cher Asser, abuser de ta foi.</l>
 	<l id="650">Mais pardonne une erreur qui n’accablait que moi.</l>
 	<l id="651">Prêt à l’abandonner au zèle qui t’anime,</l>
@@ -940,32 +940,32 @@
 	<l id="657">Fallut-il les combattre ou fléchir les genoux,</l>
 	<l id="658">Rompons un voile affreux entre le Ciel et nous.</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="659">Quoi donc, ignorez-vous qu’aux cris de nos Prophètes</l>
 	<l id="660">Le Ciel est toujours sourd ? Que leurs bouches muettes...</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="661">Ah ! Quoique jusqu’ici le Ciel ait pu celer,</l>
 	<l id="662">Par d’autres voix, Asser, il pourra nous parler ;</l>
 	<l id="663">Et pour savoir quel sort me garde sa justice,</l>
 	<l id="664">Il faut de l’enfer même employer l’artifice.</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="665" part="i">Ciel !</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="665" part="f">Sans vouloir moi-même encor te retenir,</l>
 	<l id="666">Cherche un de ces Mortels qui percent l’avenir ;</l>
 	<l id="667">Le veux de Samuel interroger la cendre.</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="668">Un tel dessein, Seigneur, a de quoi me surprendre ;</l>
 	<l id="669">Et quel que soit le sort de ces esprits heureux,</l>
 	<l id="670">Est-il un art enfin qui puisse agir sur eux !</l>
 	<l id="671">D’un pouvoir qui du Ciel perce tous les mystères,</l>
 	<l id="672">Quoi ? D’aveugles mortels seraient dépositaires ?</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="673">Ah ! Soit que de leur art le charme dangereux</l>
 	<l id="674">Contre le Ciel agisse, ou bien le Ciel par eux ;</l>
 	<l id="675">Au seul bruit de leurs voix on sent trembler la terre,</l>
@@ -975,7 +975,7 @@
 	<l id="679">Les jours les plus sereins deviennent des nuits sombres,</l>
 	<l id="680">Et du sein de la mort ils évoquent les Ombres.</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="681">Ordonnez, je suis prêt ; mais ne songez-vous pas</l>
 	<l id="682">Qu’un ordre de vos mains en purgea vos États,</l>
 	<l id="683">Et que par une loi sévèrement suivie,</l>
@@ -983,7 +983,7 @@
 	<l id="685">Ah ! Du moins retenu par votre propre loi,</l>
 	<l id="686">Daignez en d’autres soins disposer de ma foi.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="687">Et quel est, cher Asser, cet effroi qui t’inspire ?</l>
 	<l id="688">Un Prince, de ses lois reconnaît-il l’empire ?</l>
 	<l id="689">Ce pouvoir souverain d’où partent tant de droits,</l>
@@ -998,8 +998,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE I. David, Michol.</head>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>David, Michol.</cast>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="697">C’est donc ici, Madame, où le Roi dans mes mains</l>
 	<l id="698">Doit remettre aujourd’hui ses ordres souverains ?</l>
 	<l id="699">Mais quoi ? Lorsqu’à vos yeux son changement éclate,</l>
@@ -1008,24 +1008,24 @@
 	<l id="702">Quel effroi vous saisit ? Que dis-je ? Vous pleurez.</l>
 	<l id="703">Ô Ciel ! De quel accueil ma tendresse est suivie !</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="704">Triste effet des malheurs dont je suis poursuivie !</l>
 	<l id="705">Mon cœur d’un nouveau trouble est sans cesse agité.</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="706" part="i">Que craignez-vous ?</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="706" part="f">Je crains ce que j’ai souhaité.</l>
 	<l id="707">D’Israël en vos mains le Ciel met la défense,</l>
 	<l id="708">Je vous revois, Seigneur, enfin votre présence</l>
 	<l id="709">Dissipe les soupçons qui m’avaient pu troubler ;</l>
 	<l id="710">Mais en me rassurant, vous me faites trembler.</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="711">Qu’entends-je ? Quel langage ! Hé Quoi ? Lorsque j’espère...</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="712">Je vous aime, Seigneur, et je connais mon Père.</l>
 	<l id="713">Je crains quelque retour d’un cœur toujours jaloux,</l>
 	<l id="714">Je crains ce Camp nombreux trop déclaré pour vous,</l>
@@ -1034,7 +1034,7 @@
 	<l id="717">L’ennemi remettant son sort entre vos mains,</l>
 	<l id="718">Votre gloire, mes pleurs, voilà ce que je crains.</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="719">Ah ! Madame ! Saül triomphant et tranquille,</l>
 	<l id="720">À se laisser surprendre, il est vrai, trop facile,</l>
 	<l id="721">M’a pu loin de vos yeux forcer à me bannir.</l>
@@ -1050,7 +1050,7 @@
 	<l id="731">Dont la promesse encor présente à ma mémoire,</l>
 	<l id="732">Du sein de mes malheurs devait tirer ma gloire.</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="733">Hélas ! Si quelque espoir nous est encor permis,</l>
 	<l id="734">Si loin de vous compter parmi ses ennemis,</l>
 	<l id="735">Mon Père vous remet ses droits ou sa vengeance,</l>
@@ -1067,57 +1067,57 @@
 	<l id="746">Mais on ouvre, Seigneur, et j’entends quelque bruit.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. David, Michol, Asser.</head>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>David, Michol, Asser.</cast>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="747">Le Roi vous suit sans doute, et doit ici se rendre.</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="748">Par son ordre je viens le chercher ou l’attendre.</l>
 	<l id="749">Seigneur, il ne croit pas vous trouver dans ces lieux ;</l>
 	<l id="750">Je crains que votre aspect ne blesse encor ses yeux.</l>
 	<l id="751">Prenez pour lui parler un temps plus favorable,</l>
 	<l id="752">Et donnez ce relâche au tourment qui l’accable.</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="753">Et qu’a donc mon aspect qui puisse l’offenser ?</l>
 	<l id="754" part="i">Parlez, expliquez-vous.</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="754" part="f">Daignez m’en dispenser.</l>
 	<l id="755">Son dessein cependant n’a rien qui vous regarde.</l>
 	<l id="756">Par son ordre déjà j’ai dispersé la Garde,</l>
 	<l id="757">Écarté tout le monde ; et Saül par mes soins</l>
 	<l id="758">Croit pouvoir dans ces lieux me parler sans témoins.</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="759">J’ignore les secrets dont trop de confiance</l>
 	<l id="760">Va bientôt dans vos mains remettre l’importance ;</l>
 	<l id="761">Mais je serai surpris, vous ayant consulté,</l>
 	<l id="762">Si le soin de sa gloire est le seul écouté.</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="763">Contre un pareil soupçon ma foi me justifie.</l>
 	<l id="764">Du moins, Seigneur, du moins il faut que je le die,</l>
 	<l id="765">Jamais jusques ici contre mon Souverain</l>
 	<l id="766">Siceleg ne m’a vu les armes à la main.</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="767">Moins encore a-t-on vu l’ardeur qui vous excite,</l>
 	<l id="768">Chasser loin de ses murs le fier Amalécite ;</l>
 	<l id="769">Sur lui, non sur les Juifs, s’enrichir de butin,</l>
 	<l id="770">Et même en le servant tromper le Philistin.</l>
 	<l id="771">Près d’Achis pour Saül mon zèle égal au vôtre...</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="772">Les ménager tous deux, c’est trahir l’un et l’autre.</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="773">Je me trompe, et sans vous Israël confondu...</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="774" part="i">J’en ai sauvé l’honneur.</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="774" part="f">Dites plutôt vendu ;</l>
 	<l id="775">Et d’un crédule espoir trop souvent la victime...</l>
 	<l id="776">Mais je dois retenir un courroux légitime,</l>
@@ -1126,11 +1126,11 @@
 	<l id="779">Mais je veux voir Saül. Sa volonté connue</l>
 	<l id="780" part="i">Par lui-même...</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="780" part="f">Ah ! Daignez vous soustraire à sa vue,</l>
 	<l id="781">Seigneur ! Vous connaissez ses transports furieux.</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="782">Hé bien, vous le voulez, je vous laisse en ces lieux.</l>
 	<l id="783">Heureux lui-même enfin, que son sang l’attendrisse.</l>
 	<l id="784">Ma gloire dépend peu d’un indigne caprice.</l>
@@ -1138,17 +1138,17 @@
 	<l id="786">D’où peut-être dépend le destin d’Israël.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Michol, Asser.</head>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Michol, Asser.</cast>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="787" part="i">Seigneur...</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="787" part="f">Dans ce moment je n’ai rien à vous dire,</l>
 	<l id="788">Madame, à vos souhaits puisse Saül souscrire.</l>
 	<l id="789">Suivez votre dessein ; mais souffrez que pour moi,</l>
 	<l id="790">Me dégageant des soins confiés à ma foi...</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="791">Ah ! Laissez-vous toucher d’un soin plus légitime.</l>
 	<l id="792">Si jamais votre cœur jaloux de mon estime</l>
 	<l id="793">À quelque noble effort a voulu s’élever,</l>
@@ -1158,21 +1158,21 @@
 	<l id="797">Quel que puisse être en vous ce courroux affermi,</l>
 	<l id="798">Qu’il ait quelques vertus, et soit votre ennemi.</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="799">Madame, sans raison votre âme est alarmée.</l>
 	<l id="800">Pour lui votre Époux voit et le Peuple et l’Armée.</l>
 	<l id="801">Leur zèle dans le Camp vient de se signaler.</l>
 	<l id="802">Mais enfin le Roi vient, vous pouvez lui parler.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Saül, Michol, Asser.</head>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Saül, Michol, Asser.</cast>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="803">De vos desseins, Seigneur, que faut-il que j’augure ?</l>
 	<l id="804">Quand d’un Père attendri la bonté me rassure,</l>
 	<l id="805">Quel changement sensible à mon cœur étonné</l>
 	<l id="806">Suspend un entretien par vous-même ordonné ?</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="807">Chargé de mille soins dans mon inquiétude,</l>
 	<l id="808">Ma fille, j’ai besoin d’un peu de solitude.</l>
 	<l id="809">Votre présence même irrite mon tourment.</l>
@@ -1180,20 +1180,20 @@
 	<l id="811">Votre Époux informé de ce que je désire,</l>
 	<l id="812" part="i">Va bientôt...</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="812" part="f">Il suffit, Seigneur, je me retire.</l>
 	<l id="813">Puisse le Ciel lui seul vous inspirer ici.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Saül, Asser.</head>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Saül, Asser.</cast>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="814">Hé bien, tes soins, Asser, auraient-ils réussi ?</l>
 	<l id="815">Dis-moi, quel est le fruit que je dois en attendre ?</l>
 	<l id="816">Un si soudain retour a droit de me surprendre.</l>
 	<l id="817">Sans doute le succès a trahi ton ardeur.</l>
 	<l id="818" part="i">Tout enfin se refuse à mes désirs.</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="818" part="f">Seigneur,</l>
 	<l id="819">Dans ces antres profonds qu’ouvrent ces monts fertiles,</l>
 	<l id="820">De vos Juifs éperdus autrefois les asiles,</l>
@@ -1214,10 +1214,10 @@
 	<l id="835">Je ne vous dirai point combien à notre vue</l>
 	<l id="836">Elle a paru saisie, interdite, éperdue...</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="837" part="i">Où donc est-elle, Asser ?</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="837" part="f">Seigneur, j’ai cru devoir</l>
 	<l id="838">Sans elle dans ces lieux quelques moments vous voir.</l>
 	<l id="839">Auprès de cette Tente elle attend ma réponse.</l>
@@ -1227,23 +1227,23 @@
 	<l id="843">Qu’elle n’apprenne point que c’est lui qui l’implore ;</l>
 	<l id="844">Pour quelque temps au moins il faut qu’elle l’ignore.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="845">Et lui pourrai-je, Asser, cacher la vérité ?</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="846">Elle n’en peut, Seigneur, percer l’obscurité,</l>
 	<l id="847">Que l’Enfer conjuré ne daigne l’en instruire.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="848">Dans ces lieux en secret prends soin de la conduire.</l>
 	<l id="849">Va, je brûle de voir mon destin éclairci.</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="850">J’obéis, et bientôt vous l’allez voir ici.</l>
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="SAÜL"><speaker>SAÜL, seul.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>, seul.</hstage>
 	<l id="851">De mon cœur tout à coup quel mouvement s’empare ?</l>
 	<l id="852">Quelle horreur me saisit ! Par quel destin bizarre,</l>
 	<l id="853">Par de nouveaux objets à toute heure emporté,</l>
@@ -1278,8 +1278,8 @@
 	<l id="882">Qu’entends-je ? On entre ; Ô Ciel ! Elle vient. Je la vois.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Saül, La Pythonisse.</head>
-<sp who="LA-PYTHONISSE"><speaker>LA PYTHONISSE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Saül, La Pythonisse.</cast>
+<sp who="LA-PYTHONISSE"><hstage><speaker>LA PYTHONISSE</speaker>.</hstage>
 	<l id="883">Malgré tous les serments et la foi de mon guide,</l>
 	<l id="884">Tremblante dans ces lieux je porte un pas timide.</l>
 	<l id="885">Mon courage sur moi ne fait qu’un vain effort.</l>
@@ -1307,7 +1307,7 @@
 	<l id="907">Et que pour s’éclaircir d’un secret qui le touche,</l>
 	<l id="908">C’est lui-même qui va me parler par ta bouche.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="909">Je sais que contre vous un arrêt rigoureux,</l>
 	<l id="910">Du secours de votre art prive les malheureux.</l>
 	<l id="911">Si le soin d’un ami qu’a touché ma misère,</l>
@@ -1321,7 +1321,7 @@
 	<l id="919">Si leur soulagement veut un effort insigne,</l>
 	<l id="920">Jamais de vos secours mortel ne fut plus digne.</l>
 </sp>
-<sp who="LA-PYTHONISSE"><speaker>LA PYTHONISSE.</speaker>
+<sp who="LA-PYTHONISSE"><hstage><speaker>LA PYTHONISSE</speaker>.</hstage>
 	<l id="921">Il est des maux plus grands que tu dois t’épargner.</l>
 	<l id="922">Quitte un fatal dessein, laisse-moi m’éloigner ;</l>
 	<l id="923">Et content des malheurs dont ton âme soupire,</l>
@@ -1335,7 +1335,7 @@
 	<l id="931">Saül surtout jaloux de son pouvoir suprême,</l>
 	<l id="932" part="i">Ardent, prompt à punir...</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="932" part="f">J’en jure par lui-même,</l>
 	<l id="933">J’en atteste vos Dieux, un éternel oubli</l>
 	<l id="934">Va tenir ce secret dans l’ombre enseveli.</l>
@@ -1344,21 +1344,21 @@
 	<l id="937">Soyez sûre pourtant de trouver dans ma foi</l>
 	<l id="938">Un gage aussi sacré que le serment d’un Roi.</l>
 </sp>
-<sp who="LA-PYTHONISSE"><speaker>LA PYTHONISSE.</speaker>
+<sp who="LA-PYTHONISSE"><hstage><speaker>LA PYTHONISSE</speaker>.</hstage>
 	<l id="939">Parler. Que me veux-tu ? De cet ennui si sombre</l>
 	<l id="940" part="i">Quel est...</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="940" part="f">D’un mort illustre il faut évoquer l’Ombre.</l>
 	<l id="941">Sa perte m’a jeté dans un trouble cruel.</l>
 </sp>
-<sp who="LA-PYTHONISSE"><speaker>LA PYTHONISSE.</speaker>
+<sp who="LA-PYTHONISSE"><hstage><speaker>LA PYTHONISSE</speaker>.</hstage>
 	<l id="942" part="i">Et cet illustre mort quel est-il ?</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="942" part="f">Samuel.</l>
 </sp>
-<sp who="LA-PYTHONISSE"><speaker>LA PYTHONISSE.</speaker>
+<sp who="LA-PYTHONISSE"><hstage><speaker>LA PYTHONISSE</speaker>.</hstage>
 	<l id="943">Qu’entends-je, Samuel ! Quoi ce fameux Prophète,</l>
 	<l id="944">Du grand Dieu d’Israël le fidèle interprète,</l>
 	<l id="945">Qui des jours de Saül par sa main consacré,</l>
@@ -1370,11 +1370,11 @@
 	<l id="951">Se repentant du choix qui dans le rang suprême,</l>
 	<l id="952" part="i">De l’état le plus vil sut...</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="952" part="f">Hélas ! C’est lui-même.</l>
 	<l id="953" part="i">Daignez le rappeler.</l>
 </sp>
-<sp who="LA-PYTHONISSE"><speaker>LA PYTHONISSE.</speaker>
+<sp who="LA-PYTHONISSE"><hstage><speaker>LA PYTHONISSE</speaker>.</hstage>
 	<l id="953" part="f">Hé bien, tu vas le voir.</l>
 	<l id="954">De qui sert ta fureur, respecte le pouvoir.</l>
 	<l id="955">Écarte-toi, profane, et pour cette entrevue</l>
@@ -1420,45 +1420,45 @@
 	<l id="995">Ma mort seule est le prix que tant d’audace exige.</l>
 	<l id="996" part="i">Qu’ai-je fait ? Malheureuse !</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="996" part="f">Ah ! Ne crains rien, te dis-je,</l>
 	<l id="997">Mon malheur et ma foi garantiront tes jours.</l>
 	<l id="998">Achève. C’est à moi d’implorer tes secours.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Saül, Jonathas, La Pythonisse.</head>
-<sp who="JONATHAS"><speaker>JONATHAS, qui trouve de la résistance en entrant.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Saül, Jonathas, La Pythonisse.</cast>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>, qui trouve de la résistance en entrant.</hstage>
 	<l id="999">Tous vos efforts sont vains, et je veux voir mon Père.</l>
 </sp>
-<sp who="LA-PYTHONISSE"><speaker>LA PYTHONISSE.</speaker>
+<sp who="LA-PYTHONISSE"><hstage><speaker>LA PYTHONISSE</speaker>.</hstage>
 	<l id="1000">Ah ! Quel audacieux vient troubler ce mystère ?</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1001" part="i">Ciel ! C’est mon fils.</l>
 </sp>
-<sp who="LA-PYTHONISSE"><speaker>LA PYTHONISSE, à Saül.</speaker>
+<sp who="LA-PYTHONISSE"><hstage><speaker>LA PYTHONISSE</speaker>, à Saül.</hstage>
 	<l id="1001" part="f">Fuyons. Pour savoir vos destins,</l>
 	<l id="1002">Venez, et suivez-moi dans ces antres voisins.</l>
 <stage>Elle sort avec précipitation.</stage>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="1003" part="i">Où courez-vous, Seigneur ?</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1003" part="f">Et vous, quelle insolence</l>
 	<l id="1004" part="i">Vous a conduit ?...</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="1004" part="f">Souffrez, malgré votre défense,</l>
 	<l id="1005">Qu’un intérêt pressant m’amène dans ces lieux.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1006">Ah ! Sortez ; et surtout que ce qu’ont vu vos yeux</l>
 	<l id="1007">Demeure enseveli dans un profond mystère.</l>
 </sp>
 </div2>
 <div2 type="scene" n="9"><head>SCÈNE IX.</head>
-<sp who="JONATHAS"><speaker>JONATHAS, seul.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>, seul.</hstage>
 	<l id="1008">Que vois-je ? Quelle femme éperdue, étrangère ?</l>
 	<l id="1009">Sur les pas de Saül se dérobe à mes yeux !</l>
 	<l id="1010">Moi-même tout à coup que deviens-je en ces lieux ?</l>
@@ -1475,7 +1475,7 @@
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="SAÜL"><speaker>SAÜL, seul.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>, seul.</hstage>
 	<l id="1019">Qu’ai-je vu ? Tout mon sang dans mes veines se glace.</l>
 	<l id="1020">Juste Ciel ! Qu’ai-je ouï ? Quelle affreuse menace !</l>
 	<l id="1021">Quelle nouvelle horreur succède à tant d’effroi ?</l>
@@ -1485,8 +1485,8 @@
 	<l id="1025">Pourquoi... Mais quelqu’un vient. Ô mon Fils, est-ce vous ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Saül, Jonathas.</head>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Saül, Jonathas.</cast>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="1026">Quel est l’effroi, Seigneur, où vous nous jetez tous !</l>
 	<l id="1027">Quel dessein si longtemps vous cache à notre vue ?</l>
 	<l id="1028">Tout un camp alarmé, votre Fille éperdue,</l>
@@ -1495,19 +1495,19 @@
 	<l id="1031">Saül, loin de courir où la gloire l’appelle,</l>
 	<l id="1032" part="i">Veut-il...</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1032" part="f">Je veux savoir si vous m’êtes fidèle ;</l>
 	<l id="1033">Si pendant qu’à l’envi tout semble me trahir,</l>
 	<l id="1034">Mon fils dans mes malheurs est prêt à m’obéir.</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="1035">Moi ? Si je suis fidèle aux ordres de mon Père ?</l>
 	<l id="1036">Commandez seulement ; Seigneur, que faut-il faire ?</l>
 	<l id="1037">Faut-il moi seul ici, forçant vos ennemis,</l>
 	<l id="1038">Montrer à l’Univers ce que peut votre Fils ?</l>
 	<l id="1039" part="i">Faut-il...</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1039" part="f">De Philistins la frontière est couverte ;</l>
 	<l id="1040">Et l’Empire en un mot, mon Fils, court à sa perte ;</l>
 	<l id="1041">D’autant plus que cachant leur funeste dessein,</l>
@@ -1527,14 +1527,14 @@
 	<l id="1055">Tout confirme aujourd’hui ma juste défiance ;</l>
 	<l id="1056">Voilà ce que je veux de votre obéissance.</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="1057">Je vois tous les malheurs qui s’assemblent sur nous,</l>
 	<l id="1058">Mais pour me renvoyer quel temps choisissez-vous ?</l>
 	<l id="1059">Aux yeux de l’Univers une telle conduite</l>
 	<l id="1060">Ne semblerait plutôt que déguiser ma fuite.</l>
 	<l id="1061">Vous obéir, Seigneur, ce serait vous trahir,</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1062">Est-ce ainsi que mon fils est prêt à m’obéir ?</l>
 	<l id="1063">Puisque malgré les soins que j’ai pris pour le taire,</l>
 	<l id="1064">Vous cherchez à percer un funeste mystère,</l>
@@ -1542,37 +1542,37 @@
 	<l id="1066">Mais sachez à quel prix je vous laisse en ces lieux.</l>
 	<l id="1067">Sachez à quels efforts vous devez vous attendre.</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="1068">Parlez, me voilà prêt ; je puis tout entreprendre.</l>
 	<l id="1069">À vos ordres, Seigneur, ici tout m’asservit.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1070" part="i">Hé bien, il faut...</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="1070" part="m">Quoi donc ?</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1070" part="m">Immoler...</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="1070" part="m">Qui ?</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1070" part="f">David.</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="1071" part="i">Ciel ! Qu’est-ce que j’entends ?</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1071" part="f">Apprenez tout le reste.</l>
 	<l id="1072">Des volontés du Ciel l’entreprise funeste,</l>
 	<l id="1073">Samuel, en un mot, m’en a prescrit la loi.</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="1074" part="i">Samuel !</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1074" part="f">Oui, mon Fils, jugez de quel effroi</l>
 	<l id="1075">Mon âme à son aspect a demeuré saisie.</l>
 	<l id="1076">À des charmes puissants sa grande Ombre asservie,</l>
@@ -1615,19 +1615,19 @@
 	<l id="1113">Et par un signe affreux qui me glace d’effroi,</l>
 	<l id="1114">Semble en ouvrir la route, et m’appelle à soi.</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="1115">Ciel ! De combien d’horreurs vous venez me confondre ?</l>
 	<l id="1116">Que faut-il que je pense, et que puis-je répondre ?</l>
 	<l id="1117">Ah ! Seigneur ! Si le Ciel déclaré contre nous,</l>
 	<l id="1118" part="i">Veut aujourd’hui...</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1118" part="f">Mon Fils, prévenons son courroux.</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="1119">Quel est l’ennemi que votre âme redoute ?</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1120">Quoi ? Votre cœur sur lui forme encor quelque doute ?</l>
 	<l id="1121">Dans ses soupçons encor peut être balancé ?</l>
 	<l id="1122">Et ne reconnaît pas la race de Jessé ?</l>
@@ -1650,7 +1650,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="JONATHAS"><speaker>JONATHAS, seul.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>, seul.</hstage>
 	<l id="1139">Il me laisse. Ah grand Dieu ! Qu’est-ce donc qu’il espère ?</l>
 	<l id="1140">Qui moi, contre lui-même embrassant sa colère,</l>
 	<l id="1141">Que d’un ami si cher j’aille percer le flanc,</l>
@@ -1667,15 +1667,15 @@
 	<l id="1152">Allons, ne tardons plus... Mais le voici lui-même.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. David, Jonathas.</head>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>David, Jonathas.</cast>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="1153">Hé quoi, seigneur ? En vain de moments en moments</l>
 	<l id="1154">J’attends l’ordre du Roi. Par quels retardements ?</l>
 	<l id="1155">Sur quels nouveaux projets, et par quelle maxime ?</l>
 	<l id="1156">Déjà de Gelboé l’Aube a blanchi la cime,</l>
 	<l id="1157">Déjà le jour plus grand est venu nous frapper.</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="1158">D’un soin bien différent il faut vous occuper.</l>
 	<l id="1159">J’ai vu le Roi, Seigneur : tout a changé de face.</l>
 	<l id="1160">Du Ciel plus que jamais il ressent de disgrâce :</l>
@@ -1684,7 +1684,7 @@
 	<l id="1163">De ce Camp malheureux, Seigneur, tout vous écarte.</l>
 	<l id="1164" part="i">Que vous dirai-je enfin, partez.</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="1164" part="f">Moi ? Que je parte ?</l>
 	<l id="1165">Quand tout implore ici le secours de mon bras,</l>
 	<l id="1166">Qu’une indigne terreur précipite mes pas ?</l>
@@ -1696,21 +1696,21 @@
 	<l id="1172">Ah ! Songez dans quels lieux m’est offert un asile.</l>
 	<l id="1173">Quoi d’un Barbare encore embrassant les genoux...</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="1174">Vos jours en sûreté, bien plus que parmi nous,</l>
 	<l id="1175" part="i">Au Camp de ce Barbare...</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="1175" part="f">Ah ! Que voulez-vous dire ?</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="1176">Du péril qui vous presse il faut donc vous instruire,</l>
 	<l id="1177" part="i">Le Roi veut...</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="1177" part="m">Que veut-il ?</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="1177" part="f">Que servant sa fureur,</l>
 	<l id="1178">Cette main vous immole à sa noire terreur.</l>
 	<l id="1179">Un esprit éternel de trouble et de ténèbres,</l>
@@ -1720,12 +1720,12 @@
 	<l id="1183">La source des transports dont son âme est saisie,</l>
 	<l id="1184">Et d’où part l’attentat que sa main me confie.</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="1185">D’un pareil attentat je ne suis point surpris ;</l>
 	<l id="1186">De mes travaux, Seigneur, je reconnais le prix.</l>
 	<l id="1187" part="i">Et moi-même...</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="1187" part="f">Mon bras prêt à tout entre prendre,</l>
 	<l id="1188">Loin d’attaquer vos jours, s’arme pour les défendre.</l>
 	<l id="1189">C’est peu de condamner tous ses transports jaloux,</l>
@@ -1733,7 +1733,7 @@
 	<l id="1191">Cependant prévenons une funeste suite.</l>
 	<l id="1192">Partez enfin, mes soins couvriront votre fuite.</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="1193">Quoi donc, vous prétendez que je fuie un courroux</l>
 	<l id="1194">Dont le funeste éclat retomberait sur vous ;</l>
 	<l id="1195">Et qu’auteur d’un malheur qui comble tous les autres,</l>
@@ -1753,19 +1753,19 @@
 	<l id="1209">Je le connais, Seigneur, et sais jusqu’à quel point</l>
 	<l id="1210" part="i">Son courroux rallumé...</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="1210" part="f">Non, vous ne mourrez point.</l>
 	<l id="1211">J’en réponds. Je sais trop ce que l’honneur demande,</l>
 	<l id="1212" part="i">Ce que mon amitié....</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Jonathas, David, Un Israélite.</head>
-<sp who="L-ISRAÉLITE"><speaker>L’ISRAÉLITE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Jonathas, David, Un Israélite.</cast>
+<sp who="L-ISRAÉLITE"><hstage><speaker>L’ISRAÉLITE</speaker>.</hstage>
 	<l id="1212" part="f">Seigneur, le roi vous mande,</l>
 	<l id="1213">Et son ordre surtout pressant votre entretien,</l>
 	<l id="1214">Porte que sans le voir vous n’entrepreniez rien.</l>
 </sp>
-<sp who="JONATHAS"><speaker>JONATHAS.</speaker>
+<sp who="JONATHAS"><hstage><speaker>JONATHAS</speaker>.</hstage>
 	<l id="1215">Le Roi, dis-tu, me mande, et son ordre me presse.</l>
 	<l id="1216">Ah ! Je le reconnais ; et déjà sa tendresse</l>
 	<l id="1217">A remis dans son cœur des sentiments plus doux ;</l>
@@ -1778,7 +1778,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="DAVID"><speaker>DAVID, seul.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>, seul.</hstage>
     <l id="1223" part="f">À quoi dois-je m’attendre ?</l>
 	<l id="1224">Et quel est cet espoir qu’un ami veut me rendre ?</l>
 	<l id="1225">En est-il dont le cours puisse m’être permis,</l>
@@ -1796,30 +1796,30 @@
 	<l id="1237">Et loin de révoquer l’Arrêt qu’il a rendu...</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. David, Michol, Élise.</head>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>David, Michol, Élise.</cast>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="1238">Ah ! Fuyez de ces lieux, ou vous êtes perdu.</l>
 	<l id="1239">Fuyez ; et profitez du moment que vous laisse</l>
 	<l id="1240">Le soin d’assurer mieux leur fureur vengeresse.</l>
 	<l id="1241">De qui peut vous sauver on écarte le bras.</l>
 	<l id="1242">On vient, Seigneur, on vient d’arrêter Jonathas.</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="1243">Courons de ces cruels détourner la colère,</l>
 	<l id="1244" part="i">C’est sur moi seul...</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="1244" part="f">Ô Ciel : que prétendez-vous faire ?</l>
 	<l id="1245">Venez, ce n’est pas là, Seigneur, votre chemin.</l>
 	<l id="1246">Pourquoi vouloir tenter un courroux inhumain ;</l>
 	<l id="1247">Et servir contre vous des trames criminelles ?</l>
 	<l id="1248">Il est, pour vous sauver des Juifs encore fidèles.</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="1249">Non, non, tous vos efforts sont ici superflus.</l>
 	<l id="1250" part="i">Je dois le suivre.</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="1250" part="f">Et moi, je ne vous quitte plus.</l>
 	<l id="1251">Cruel, prétendez-vous que leur fureur jalouse</l>
 	<l id="1252">Vienne vous arracher des bras de votre Épouse ?</l>
@@ -1830,7 +1830,7 @@
 	<l id="1257">Père injuste et cruel ! Mais plus barbare Époux,</l>
 	<l id="1258">Poursuivez-vous sur moi ses fureurs contre vous ?</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="1259">Hé bien, il faut partir, madame, et vous en croire</l>
 	<l id="1260">Malgré tant de devoirs, en dépit de ma gloire.</l>
 	<l id="1261">Souillons tous ces exploits que rien n’avait ternis.</l>
@@ -1838,13 +1838,13 @@
 	<l id="1263">Partagez les hasards où mon destin me livre.</l>
 	<l id="1264" part="i">Madame, suivez-moi.</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="1264" part="f">Qui moi, Seigneur, vous suivre ?</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="1265">Pourriez-vous balancer à suivre votre Époux ?</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="1266">Ah ! De Saül, Seigneur, prévoyez le courroux.</l>
 	<l id="1267">D’un Frère qui vous sert le seul péril m’arrête,</l>
 	<l id="1268">Et c’est à moi, Seigneur, d’en garantir la tête.</l>
@@ -1855,21 +1855,21 @@
 	<l id="1273" part="i">Ô Ciel !</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Asser, Michol, David, Élise, Troupe de Gardes.</head>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Asser, Michol, David, Élise, Troupe de Gardes.</cast>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="1273" part="f">Je dois juger, Madame, à cet effroi,</l>
 	<l id="1274">Que mon abord vous dit les volontés du Roi.</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="1275">Je vous entends. Du Roi l’ordre cruel m’arrête.</l>
 	<l id="1276">Mais moi-même à ses pieds j’allais porter ma tête,</l>
 	<l id="1277">J’y cours enfin. Malgré les plus sacrés liens,</l>
 	<l id="1278">Qu’il immole des jours qui sauvèrent les siens.</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="1279">Plutôt de mille morts je cesserais de vivre.</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="1280">Ah ! Si je vous suis cher, gardez-vous de me suivre,</l>
 	<l id="1281">Son courroux me fait grâce, et je respire enfin.</l>
 	<l id="1282">Le Ciel même pour moi peut étendre sa main.</l>
@@ -1881,8 +1881,8 @@
 	<l id="1288">Adieu, Madame. Allons, Gardes, qu’on me conduise.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Michol, Élise.</head>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>Michol, Élise.</cast>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="1289">Ciel, que devient l’espoir et la foi d’Israël ;</l>
 	<l id="1290">Si tu permets d’Asser le triomphe cruel,</l>
 	<l id="1291">Si l’effet suit de près ses complots redoutables ?</l>
@@ -1896,15 +1896,15 @@
 	<l id="1299">Viens ; que de ses périls la nouvelle semée,</l>
 	<l id="1300">Arme pour lui ses Juifs et soulève l’armée.</l>
 </sp>
-<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+<sp who="ÉLISE"><hstage><speaker>ÉLISE</speaker>.</hstage>
 	<l id="1301">Hélas ! De quel espoir vos esprits rassurés...</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="1302" part="i">Viens, dis-je.</l>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Saül, Michol.</head>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><cast>Saül, Michol.</cast>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1302" part="f">Où courrez-vous, ma fille ? Demeurez.</l>
 	<l id="1303">Je sais pour un Époux toujours préoccupée,</l>
 	<l id="1304">Quel peut être le coup dont vous serez frappée :</l>
@@ -1915,7 +1915,7 @@
 	<l id="1309">En un mot, j’ai donné mes ordres absolus,</l>
 	<l id="1310">Et sans doute déjà le perfide n’est plus.</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="1311">Ah ! Craignez que sur vous tout son sang ne retombe,</l>
 	<l id="1312">Qu’avec lui tout l’Empire aujourd’hui ne succombe.</l>
 	<l id="1313">Cruels, qu’allez-vous faire ? Arrêtez, songez-vous</l>
@@ -1924,15 +1924,15 @@
 	<l id="1316">S’il en est temps, Seigneur, si sa tête proscrite</l>
 	<l id="1317">Peut échapper aux mains que vous venez d’armer...</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1318">On vient, et de son sort on va vous informer.</l>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Saül, Michol, Asser.</head>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><cast>Saül, Michol, Asser.</cast>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1319" part="i">Hé bien !</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="1319" part="f">J’allais, Seigneur, à vos ordres fidèle,</l>
 	<l id="1320">De vos gardes suivi fondre sur un rebelle,</l>
 	<l id="1321">Lorsque le camp craignant que du Prince arrêté</l>
@@ -1943,17 +1943,17 @@
 	<l id="1326">Contre David alors prévenant vos desseins,</l>
 	<l id="1327">Ne nous instruit que trop de leur intelligence.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1328" part="i">Ah ! Courons...</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="1328" part="f">Suspendez, Seigneur, votre vengeance.</l>
 	<l id="1329">De ses retranchements le Philistin sorti,</l>
 	<l id="1330">Force de toutes parts votre Camp investi ;</l>
 	<l id="1331">Tout s’ébranle, déjà commence le carnage.</l>
 	<l id="1332" part="i">Hâtez-vous.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1332" part="f">Ah ! Voilà les maux qu’on me présage.</l>
 	<l id="1333">Enfin, c’en est donc fait, l’Oracle s’accomplit ;</l>
 	<l id="1334">L’heure fatale approche, et mon sort se remplit.</l>
@@ -1969,8 +1969,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Michol, Élise.</head>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Michol, Élise.</cast>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="1343">Où vais-je ? Où suis-je, Élise ? Incertaine, éperdue,</l>
 	<l id="1344">Dans quels moments affreux, dans quels lieux retenue,</l>
 	<l id="1345">Ciel ? De quels mouvements mon cœur est-il combattu ?</l>
@@ -1982,7 +1982,7 @@
 	<l id="1351">Des malheurs d’Israël, je suis seule coupable.</l>
 	<l id="1352">Ciel ! Arrête sur moi le bras qui les accable.</l>
 </sp>
-<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+<sp who="ÉLISE"><hstage><speaker>ÉLISE</speaker>.</hstage>
 	<l id="1353">Madame, est-ce donc là ce généreux effort</l>
 	<l id="1354">Que vous vous promettiez contre les coups du sort ?</l>
 	<l id="1355">Et pourquoi voulez-vous qu’enfin inexorable,</l>
@@ -1992,7 +1992,7 @@
 	<l id="1359">Et si de Jonathas sa valeur secondée,</l>
 	<l id="1360">Ne va point avec lui relever la Judée ?</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="1361">Cris frappent les airs ? Quel tumulte, quel bruit</l>
 	<l id="1362">Menacent d’Israël d’une éternelle nuit !</l>
 	<l id="1363">Non, non, Saül succombe au destin des batailles ;</l>
@@ -2008,7 +2008,7 @@
 	<l id="1373">De tant de Rois ligués confonds le fier courroux,</l>
 	<l id="1374">Un souffle, si tu veux, les va dissiper tous.</l>
 </sp>
-<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+<sp who="ÉLISE"><hstage><speaker>ÉLISE</speaker>.</hstage>
 	<l id="1375">N’en doutez point, pour lui l’Éternel s’intéresse,</l>
 	<l id="1376">Sa bonté se mesure au péril qui le presse.</l>
 	<l id="1377">Et pourquoi prévenir un succès incertain ?</l>
@@ -2017,20 +2017,20 @@
 	<l id="1380">Et du moins attendez que l’on vous avertisse.</l>
 	<l id="1381" part="i">On vient, Madame, on vient.</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="1381" part="f">Ciel, qu’est-ce que je vois !</l>
 	<l id="1382">Dans ces lieux, chère Élise, Asser seul sans le Roi !</l>
 	<l id="1383">Quel affreux mouvement s’empare de mon âme !</l>
 	<l id="1384" part="i">Quelle horreur me saisit !</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Michol, Élise, Asser, Troupe de Gardes.</head>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Michol, Élise, Asser, Troupe de Gardes.</cast>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="1384" part="f">Ne craignez rien, Madame,</l>
 	<l id="1385">Ces Gardes que mes soins vous ont fait réserver,</l>
 	<l id="1386">Vont périr à vos yeux, ou sauront vous sauver.</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="1387">Ah ! Conduisez au Roi le secours qu’on m’amène,</l>
 	<l id="1388">Parmi tant de périls, dans l’effroi qui m’entraîne,</l>
 	<l id="1389">C’est pour lui que mon cœur se trouve combattu,</l>
@@ -2038,14 +2038,14 @@
 	<l id="1391">Je saurai la sauver d’une indigne mémoire.</l>
 	<l id="1392">Allez, ne craignez rien, j’aurai soin de ma gloire.</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="1393">Ah ! Pour vous garantir d’un opprobre éternel,</l>
 	<l id="1394">Trop de retardements me rendent criminel,</l>
 	<l id="1395">Vous voyez les malheurs où le péril vous livre.</l>
 	<l id="1396">Qu’attendez-vous encor ? Madame, il faut me suivre.</l>
 	<l id="1397">Allons venez ; vos jours à ma foi confiés...</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="1398">Jusqu’à la violence ainsi donc vous iriez ?</l>
 	<l id="1399">Vous pourriez n’écouter que votre seule rage,</l>
 	<l id="1400">Et du sort jusques là j’éprouverais l’outrage ?</l>
@@ -2056,8 +2056,8 @@
 	<l id="1405">Plutôt périr cent fois, que d’avoir consenti...</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Saül, Michol, Asser, Élise, Gardes.</head>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Saül, Michol, Asser, Élise, Gardes.</cast>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1406">Ma Fille, il en est temps, prenez votre parti.</l>
 	<l id="1407">Le Philistin triomphe. Ainsi le Ciel l’ordonne.</l>
 	<l id="1408">Vaincus et renversés, tout fuit, tout m’abandonne.</l>
@@ -2073,13 +2073,13 @@
 	<l id="1417">J’espère au moins qu’Asser ne me trahira pas ;</l>
 	<l id="1418">Viens, frappe ; c’est de toi que j’attends le trépas.</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="1419" part="i">De moi, Seigneur !</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="1419" part="f">Ô Ciel ! Qu’en osez-vous attendre ?</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1420">Et vous de vos efforts que pouvez-vous prétendre ?</l>
 	<l id="1421">Ah ! Laissez-moi du Ciel assouvir le courroux ;</l>
 	<l id="1422">C’est le dernier respect que j’exige de vous.</l>
@@ -2089,12 +2089,12 @@
 	<l id="1425">En m’accordant la mort que j’espère de toi,</l>
 	<l id="1426">Que Saül règne encore, et que je meurs ton Roi.</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="1427">De mon respect, ô Ciel ! Quelle épreuve sanglante ?</l>
 	<l id="1428">Que le demandez-vous ! Et quelle est votre attente ?</l>
 	<l id="1429">Sans vous trahir, Seigneur, puis-je vous contenter ?</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="1430">Et qui sur votre vie oserait attenter ?</l>
 	<l id="1431">Venez, venez plutôt, et dans quelque contrée</l>
 	<l id="1432">Sauvons, Seigneur, sauvons votre tête sacrée.</l>
@@ -2103,7 +2103,7 @@
 	<l id="1435">Par Asser en ces lieux cette garde conduite,</l>
 	<l id="1436">Invincible rempart, assure votre fuite.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1437">Hé voudrait-on qu’à fuir je fusse condamné ?</l>
 	<l id="1438">Que dis-je ? Il n’est plus temps. Partout environné,</l>
 	<l id="1439">Le ciel ne m’offre plus qu’une mort salutaire.</l>
@@ -2115,7 +2115,7 @@
 	<l id="1445">Et ta pitié cédant à de nobles efforts,</l>
 	<l id="1446">Laisse moi confondu dans la foule des morts.</l>
 </sp>
-<sp who="ASSER"><speaker>ASSER.</speaker>
+<sp who="ASSER"><hstage><speaker>ASSER</speaker>.</hstage>
 	<l id="1447">Je dois songer plutôt à me frapper moi-même,</l>
 	<l id="1448">Votre malheur est grand, mais le mien est extrême.</l>
 	<l id="1449">Peut-être seul auteur du coup qui m’a perdu,</l>
@@ -2126,46 +2126,46 @@
 	<l id="1454">À ma gloire du moins rendre ce que je dois.</l>
 <stage>Il sort.</stage>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1455" part="i">Je t’entends, et je cours sur tes pas...</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="1455" part="f">Ah, mon Père !</l>
 	<l id="1456" part="i">Ah, Seigneur !</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL, des Gardes, s’avancent.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>, des Gardes, s’avancent.</hstage>
 	<l id="1456" part="f">On m’arrête, et qu’est-ce qu’on espère ?</l>
 	<l id="1457" part="i">Quoi donc ? Tout me trahit ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Saül, Michol, Élise, Un Israélite.</head>
-<sp who="L-ISRAÉLITE"><speaker>L’ISRAÉLITE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Saül, Michol, Élise, Un Israélite.</cast>
+<sp who="L-ISRAÉLITE"><hstage><speaker>L’ISRAÉLITE</speaker>.</hstage>
 	<l id="1457" part="f">Seigneur, que faites-vous ?</l>
 	<l id="1458">D’où vous naît ce transport et cet ardent courroux,</l>
 	<l id="1459">Tandis que Jonathas brûlant pour votre gloire,</l>
 	<l id="1460">Aux Philistins encor dispute la victoire,</l>
 	<l id="1461">Signale sa valeur par des coups éclatants...</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1462">Quoi, mon Fils vit encor ? Ciel ? Qu’est-ce que j’entends ?</l>
 </sp>
-<sp who="L-ISRAÉLITE"><speaker>L’ISRAÉLITE.</speaker>
+<sp who="L-ISRAÉLITE"><hstage><speaker>L’ISRAÉLITE</speaker>.</hstage>
 	<l id="1463">Il vit, et son ardeur qui n’est que trop connue,</l>
 	<l id="1464">Par un secours puissant d’ailleurs est soutenue.</l>
 	<l id="1465">Un Dieu, de Jonathas semble être encor l’appui.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1466">Secourons-le, ou du moins ne mourons qu’avec lui.</l>
 	<l id="1467">Le plus affreux péril n’a rien qui m’épouvante.</l>
 	<l id="1468">Courons. Mais quel objet à mes yeux se présente ?</l>
 	<l id="1469">Ne me trompai-je point ? Et qu’est-ce que je vois !</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="1470" part="i">Dieu tout-puissant !</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Saül, Michol, David, Élise.</head>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Saül, Michol, David, Élise.</cast>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="1470" part="f">Daignez vous confier à moi,</l>
 	<l id="1471">Seigneur. De tant d’horreurs sauvé malgré vous-même,</l>
 	<l id="1472">Éprouvez jusqu’au bout cette faveur suprême.</l>
@@ -2174,31 +2174,31 @@
 	<l id="1475">Peut encor vous sauver, et vous, et la Princesse ;</l>
 	<l id="1476">Mais les moments sont chers et le péril vous presse.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1477">Ô vertu que j’admire autant que je la crains !</l>
 	<l id="1478">Redoutable instrument des décrets souverains !</l>
 	<l id="1479">Quoi ! Lorsque sur mon Fils, à mon âme éperdue...</l>
 	<l id="1480">Toute espérance encore allait être rendue...</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="1481">Ne demandez qu’au Ciel le sort de Jonathas.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1482" part="i">Achevez.</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="1482" part="f">Siceleg, Seigneur, vous tend les bras.</l>
 	<l id="1483">Je puis vous y conduire, allons, daignez me suivre,</l>
 	<l id="1484">Prévenez les malheurs où ce grand jour vous livre.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1485">Non, non de Jonathas je veux savoir le sort.</l>
 	<l id="1486">Allons, il n’est plus temps. Ô Ciel ! Mon fils est mort.</l>
 	<l id="1487" part="i">C’est Achas que je vois.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE DERNIÈRE. Saül, Michol, David, Élise, Achas.</head>
-<sp who="ACHAS"><speaker>ACHAS.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE DERNIÈRE.</head><cast>Saül, Michol, David, Élise, Achas.</cast>
+<sp who="ACHAS"><hstage><speaker>ACHAS</speaker>.</hstage>
 	<l id="1487" part="f">Sa désobéissance,</l>
 	<l id="1488">D’un Héros malheureux embrassait la défense,</l>
 	<l id="1489">Lorsque dans le combat que le Ciel a permis,</l>
@@ -2220,10 +2220,10 @@
 	<l id="1505">Et plus fier d’un péril qui les faisait pâlir,</l>
 	<l id="1506">Dans son triomphe alors semble s’ensevelir.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1507" part="i">Il est mort !</l>
 </sp>
-<sp who="ACHAS"><speaker>ACHAS.</speaker>
+<sp who="ACHAS"><hstage><speaker>ACHAS</speaker>.</hstage>
 	<l id="1507" part="f">Accablé lui-même de sa gloire,</l>
 	<l id="1508">Seigneur, l’ennemi doute encor de sa victoire.</l>
 	<l id="1509">Et moi, contre mon sein j’allais tourner mon bras,</l>
@@ -2238,14 +2238,14 @@
 	<l id="1518">Trop digne de régner, lui tienne lieu de Fils.</l>
 	<l id="1519" part="i">À ces mots... Ah ! Seigneur.</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL, se jette sur l’épée d’Achas, et s’en frappe.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>, se jette sur l’épée d’Achas, et s’en frappe.</hstage>
 	<l id="1519" part="f">Ô Justice sévère !</l>
 	<l id="1520">Avec le sang du Fils reçois celui du Père.</l>
 </sp>
-<sp who="MICHOL"><speaker>MICHOL.</speaker>
+<sp who="MICHOL"><hstage><speaker>MICHOL</speaker>.</hstage>
 	<l id="1521" part="i">Dieu puissant !</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1521" part="f">C’en est fait, l’Éternel est vengé,</l>
 	<l id="1522">Ma faute est expiée et mon cœur soulagé.</l>
 <stage>À David.</stage>
@@ -2262,13 +2262,13 @@
 	<l id="1533">Qu’avec le Sceptre enfin, Seigneur, ma Fille en vous,</l>
 	<l id="1534">Va retrouver un Frère, un père, et son Époux.</l>
 </sp>
-<sp who="DAVID"><speaker>DAVID.</speaker>
+<sp who="DAVID"><hstage><speaker>DAVID</speaker>.</hstage>
 	<l id="1535">Et quel est votre soin dans ce monde funeste ?</l>
 	<l id="1536">Ah ! J’atteste à vos yeux la puissance céleste,</l>
 	<l id="1537">Que pour elle à jamais mon amour éclatant,</l>
 	<l id="1538" part="i">Que ma foi...</l>
 </sp>
-<sp who="SAÜL"><speaker>SAÜL.</speaker>
+<sp who="SAÜL"><hstage><speaker>SAÜL</speaker>.</hstage>
 	<l id="1538" part="f">C’est assez, Seigneur, je meurs content.</l>
 	<l id="1539">Recevez mes adieux, ma Fille, je vous laisse.</l>
 <stage>À David.</stage>

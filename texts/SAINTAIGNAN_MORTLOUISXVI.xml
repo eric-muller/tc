@@ -102,8 +102,8 @@
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
 <stage>Le théâtre représente une salle d’un des comités de la Convention nationale.</stage>
-<div2 type="scene" n="1"><head>SCÈNE I. Lamoignon, Desèze, Tronchet.</head>
-<sp who="TRONCHET"><speaker>TRONCHET.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Lamoignon, Desèze, Tronchet.</cast>
+<sp who="TRONCHET"><hstage><speaker>TRONCHET</speaker>.</hstage>
 	<l id="1">Le voici, Lamoignon, ce jour si redoutable,</l>
 	<l id="2">Où du Sénat français l’arrêt irrévocable,</l>
 	<l id="3">Peut-être, de Louis, en prononçant la mort,</l>
@@ -113,13 +113,13 @@
 	<l id="7">Je crains que, sous son nom, dans ce jour usurpé,</l>
 	<l id="8">Par quelques scélérats, son vœu ne soit trompé.</l>
 </sp>
-<sp who="LAMOIGNON"><speaker>LAMOIGNON.</speaker>
+<sp who="LAMOIGNON"><hstage><speaker>LAMOIGNON</speaker>.</hstage>
 	<l id="9">Je le crains comme vous ; et ce Sénat perfide,</l>
 	<l id="10">S’il ne méditait pas un affreux régicide :</l>
 	<l id="11">(Quant à ce jugement tout le peuple est lié)</l>
 	<l id="12">À sa décision l’aurait associé.</l>
 </sp>
-<sp who="DESEZE"><speaker>DESÈZE.</speaker>
+<sp who="DESEZE"><hstage><speaker>DESÈZE</speaker>.</hstage>
 	<l id="13">Moi, j’ose espérer mieux ; non, je ne saurais croire</l>
 	<l id="14">Que d’un tel attentat on souille notre histoire.</l>
 	<l id="15">Les écarts monstrueux de quelques orateurs,</l>
@@ -129,7 +129,7 @@
 	<l id="19">Tout sentiment d’honneur n’est pas encore éteint ;</l>
 	<l id="20">Et pour un Thuriot, nous avons dix Kersaint.</l>
 </sp>
-<sp who="LAMOIGNON"><speaker>LAMOIGNON.</speaker>
+<sp who="LAMOIGNON"><hstage><speaker>LAMOIGNON</speaker>.</hstage>
 	<l id="21">Puissé-je me tromper ! Ah ! s’il faut qu’il périsse,</l>
 	<l id="22">Ciel, détourne sur moi l’horreur de son supplice !</l>
 	<l id="23">Trop heureux d’épargner, par mes obscurs malheurs,</l>
@@ -148,7 +148,7 @@
 	<l id="36">Lorsqu’il va s’engloutir, engloutit ses sujets ;</l>
 	<l id="37">Louis en offre, hélas, un trop funeste exemple !</l>
 </sp>
-<sp who="DESEZE"><speaker>DESÈZE.</speaker>
+<sp who="DESEZE"><hstage><speaker>DESÈZE</speaker>.</hstage>
 	<l id="38">Vous avez vu la cour ; je n’ai vu que le Temple.</l>
 	<l id="39">Pour le bras de Louis, ferme au sein des dangers,</l>
 	<l id="40">Le sceptre fut pesant.... et les fers sont légers ;</l>
@@ -167,28 +167,28 @@
 	<l id="53">À s’élancer vers Dieu son âme est toujours prête ;</l>
 	<l id="54">Au glaive, sans pâlir, il offrirait sa tête....</l>
 </sp>
-<sp who="TRONCHET"><speaker>TRONCHET.</speaker>
+<sp who="TRONCHET"><hstage><speaker>TRONCHET</speaker>.</hstage>
 	<l id="55" part="i">Il l’offrira.</l>
 </sp>
-<sp who="DESEZE"><speaker>DESÈZE.</speaker>
+<sp who="DESEZE"><hstage><speaker>DESÈZE</speaker>.</hstage>
 	<l id="55" part="f">Non, non, et le Sénat français,</l>
 	<l id="56">S’il ne croit pas au ciel, croit à ses intérêts.</l>
 </sp>
-<sp who="LAMOIGNON"><speaker>LAMOIGNON.</speaker>
+<sp who="LAMOIGNON"><hstage><speaker>LAMOIGNON</speaker>.</hstage>
 	<l id="57">On vient  : c’est d’Orléans. L’aspect de cet infâme</l>
 	<l id="58">D’un sentiment d’horreur a pénétré mon âme ;</l>
 	<l id="59">J’aperçois avec lui Robespierre et Marat.</l>
 	<l id="60">Cher collègues, fuyons ce groupe scélérat.</l>
 	<l id="61" part="i">Que ferions nous ici ?</l>
 </sp>
-<sp who="DESEZE"><speaker>DESÈZE.</speaker>
+<sp who="DESEZE"><hstage><speaker>DESÈZE</speaker>.</hstage>
 	<l id="61" part="f">Restons ; Kersaint s’avance.</l>
 	<l id="62">Je vois Garran, Villette amis de I’innocence ;</l>
 	<l id="63">Contre les factieux ils seront son support.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Les Précédents, Philippe d’Orléans, Barrère, Garran de Coulon, Kersaint, Charles Villette, Robespierre, Marat, Léquinion, Thuriot, Danton, et plusieurs autres députés.</head>
-<sp who="DESEZE"><speaker>DESÈZE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Les Précédents, Philippe d’Orléans, Barrère, Garran de Coulon, Kersaint, Charles Villette, Robespierre, Marat, Léquinion, Thuriot, Danton, et plusieurs autres députés.</cast>
+<sp who="DESEZE"><hstage><speaker>DESÈZE</speaker>.</hstage>
 	<l id="64">Louis, jugé coupable attend de vous son sort ;</l>
 	<l id="65">Je me tais ; du Sénat nous respectons l’ouvrage ;</l>
 	<l id="66">On ne nous verra point, apôtres du carnage,</l>
@@ -229,8 +229,8 @@
 <stage>Les conseils de Louis se retirent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Les Précédents, exceptés Lamoignon, Desèze et Tronchet.</head>
-<sp who="GARRAN-DE-COULON"><speaker>GARRAN DE COULON.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Les Précédents, exceptés Lamoignon, Desèze et Tronchet.</cast>
+<sp who="GARRAN-DE-COULON"><hstage><speaker>GARRAN DE COULON</speaker>.</hstage>
 	<l id="101">Que de la vérité l’éloquence est touchante,</l>
 	<l id="102">Pour le crime où l’erreur, sa voix est foudroyante.</l>
 	<l id="103">Ce conflit de pouvoirs a droit de m’effrayer.</l>
@@ -240,31 +240,31 @@
 	<l id="107">Je suis législateur, et, politiquement,</l>
 	<l id="108">Je promets de voter pour le bannissement.</l>
 </sp>
-<sp who="BARRERE"><speaker>BARRÈRE.</speaker>
+<sp who="BARRERE"><hstage><speaker>BARRÈRE</speaker>.</hstage>
 	<l id="109">Je voue à tout despote une guerre éternelle ;</l>
 	<l id="110">Cette guerre est à mort : elle doit être telle ;</l>
 	<l id="111">Et de la liberté l’arbre majestueux,</l>
 	<l id="112">Ne croîtra qu’arrosé de leur sang odieux.</l>
 </sp>
-<sp who="ROBESPIERRE"><speaker>ROBESPIERRE.</speaker>
+<sp who="ROBESPIERRE"><hstage><speaker>ROBESPIERRE</speaker>.</hstage>
 	<l id="113">Puissent, puissent ces rois qui viendront nous combattre,</l>
 	<l id="114">N’avoir tous qu’une tête, et moi, d’un coup l’abattre !</l>
 	<l id="115">Prométhée, en mes mains remets le feu sacré,</l>
 	<l id="116">Et de tous les tyrans le globe est délivré.</l>
 	<l id="117">Damien, ton noble sang bouillonne dans mes veines....</l>
 </sp>
-<sp who="PHILIPPE-D-ORLEANS"><speaker>D’ORLÉANS.</speaker>
+<sp who="PHILIPPE-D-ORLEANS"><hstage><speaker>D’ORLÉANS</speaker>.</hstage>
 	<l id="118">Le plus pur sang du peuple a pénétré les miennes.</l>
 	<l id="119">Et j’en ai pour garant le vertueux transport</l>
 	<l id="120">Qui du traître Capet me fait voter la mort.</l>
 </sp>
-<sp who="LEQUINIO"><speaker>LÉQUINIO.</speaker>
+<sp who="LEQUINIO"><hstage><speaker>LÉQUINIO</speaker>.</hstage>
 	<l id="121">La mort.... Non, non, pour moi, c’est trop peu que sa vie,</l>
 	<l id="122">Ma vengeance à ce prix serait mal assouvie.</l>
 	<l id="123">Qu’il vive, pour l’opprobre, et contemplant son bras</l>
 	<l id="124">Enchaîné pour jamais aux travaux des forçats.</l>
 </sp>
-<sp who="KERSAINT"><speaker>KERSAINT, avec la plus vive indignation.</speaker>
+<sp who="KERSAINT"><hstage><speaker>KERSAINT</speaker>, avec la plus vive indignation.</hstage>
 	<l id="125">Ciel ! Que viens-je d’entendre ! Est-ce un monstre farouche ?</l>
 	<l id="126">C’est un juge ; et l’écume est encor sur sa bouche,</l>
 	<l id="127">Je reste pour Louis : mais libre de son vœu,</l>
@@ -272,8 +272,8 @@
 <stage>Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Les Précédents, excepté Kersaint.</head>
-<sp who="CHARLES-VILETTE"><speaker>CHARLES VILLETTE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Les Précédents, excepté Kersaint.</cast>
+<sp who="CHARLES-VILETTE"><hstage><speaker>CHARLES VILLETTE</speaker>.</hstage>
 	<l id="129">Je vois législateurs, et non sans amertume ;</l>
 	<l id="130">Que la guerre civile en votre sein s’allume.</l>
 	<l id="131">Il semble qu’un génie atroce, malfaisant,</l>
@@ -309,20 +309,20 @@
 <stage>En regardant Marat.</stage>
 	<l id="160">Qu’il n’ait plus de caveau qui puisse le cacher.</l>
 </sp>
-<sp who="BARRERE"><speaker>BARRÈRE.</speaker>
+<sp who="BARRERE"><hstage><speaker>BARRÈRE</speaker>.</hstage>
 	<l id="161">Non, point d’ajournement ; que le tyran périsse,</l>
 	<l id="162">Que demain le soleil éclaire son supplice.</l>
 <stage>Il sort ; Léquinio, Thuriot, Danton, et plusieurs autres le suivent.</stage>
 </sp>
-<sp who="GARRAN-DE-COULON"><speaker>GARRAN DE COULON, à d’Orléans.</speaker>
+<sp who="GARRAN-DE-COULON"><hstage><speaker>GARRAN DE COULON</speaker>, à d’Orléans.</hstage>
 	<l id="163">Philippe, ton parti n’a pas encore vaincu ;</l>
 	<l id="164">J’en sais ici plus d’un qui croît à la vertu,</l>
 	<l id="165" part="i">Veut le bien.... le fera....</l>
 <stage>Il sort suivi de Charles Villette, et de plusieurs autres députés.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Philippe d’Orléans, Robespierre, Marat.</head>
-<sp who="PHILIPPE-D-ORLEANS"><speaker>D’ORLÉANS.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Philippe d’Orléans, Robespierre, Marat.</cast>
+<sp who="PHILIPPE-D-ORLEANS"><hstage><speaker>D’ORLÉANS</speaker>.</hstage>
 	<l id="165" part="f">De cet homme intraitable</l>
 	<l id="166">Toujours l’austérité m’a semblé redoutable :</l>
 	<l id="167">De mes complots le voile est trop tôt déchiré ;</l>
@@ -330,7 +330,7 @@
 	<l id="169">Le Sénat, déployant un ferme caractère,</l>
 	<l id="170">Portera-t-il le coup qui m’est plus nécessaire ?</l>
 </sp>
-<sp who="ROBESPIERRE"><speaker>ROBESPIERRE.</speaker>
+<sp who="ROBESPIERRE"><hstage><speaker>ROBESPIERRE</speaker>.</hstage>
 	<l id="171">Prince, il le portera. Que lui coûte un forfait ?</l>
 	<l id="172">L’or dans son sein versé, produira son effet.</l>
 	<l id="173">Mais je veux que perfide ou trop pusillanime,</l>
@@ -338,11 +338,11 @@
 	<l id="175">Ceux qui des assassins aidaient les attentats,</l>
 	<l id="176">Pour un meurtre de plus, pourront prêter leurs bras.</l>
 </sp>
-<sp who="PHILIPPE-D-ORLEANS"><speaker>D’ORLÉANS.</speaker>
+<sp who="PHILIPPE-D-ORLEANS"><hstage><speaker>D’ORLÉANS</speaker>.</hstage>
 	<l id="177">Je tremble, et du roi le supplice s’apprête,</l>
 	<l id="178">Que le peuple aux bourreaux ne dérobe sa tête.</l>
 </sp>
-<sp who="ROBESPIERRE"><speaker>ROBESPIERRE.</speaker>
+<sp who="ROBESPIERRE"><hstage><speaker>ROBESPIERRE</speaker>.</hstage>
 	<l id="179">Le peuple !.... Ah, le français vous est bien peu connu !</l>
 	<l id="180">Léger, faible, indolent, aisément prévenu,</l>
 	<l id="181">On lui montre, il croit voir un tyran sanguinaire</l>
@@ -351,7 +351,7 @@
 	<l id="184">Un jour fera couler et séchera ses pleurs.</l>
 	<l id="185">D’un si faible intérêt nous n’avons rien à craindre.</l>
 </sp>
-<sp who="MARAT"><speaker>MARAT.</speaker>
+<sp who="MARAT"><hstage><speaker>MARAT</speaker>.</hstage>
 	<l id="186">Et puis à l’ineptie on saura le contraindre,</l>
 	<l id="187">Commune, force armée, ils nous sont tous vendus.</l>
 	<l id="188">Nos braves fédérés en armes répandus,</l>
@@ -360,7 +360,7 @@
 	<l id="191">Par Santerre, en un mot l’échafaud préparé,</l>
 	<l id="192">Promet à nos desseins un succès assuré.</l>
 </sp>
-<sp who="PHILIPPE-D-ORLEANS"><speaker>D’ORLÉANS.</speaker>
+<sp who="PHILIPPE-D-ORLEANS"><hstage><speaker>D’ORLÉANS</speaker>.</hstage>
 	<l id="193">J’en accepte l’augure, et mon cœur s’abandonne</l>
 	<l id="194">À l’espoir qu’en ce jour votre amitié lui donne.</l>
 	<l id="195">Sur sa reconnaissance, ah ! Vous pouvez compter ;</l>
@@ -386,18 +386,18 @@
 	<l id="215" part="i">Que vient-il m’annoncer ?.....</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Les Précédents, Manuel.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Les Précédents, Manuel.</cast>
 <stage>Manuel entre d’un air rêveur. En voyant Philippe qui s’approche de lui, il se retire.</stage>
-<sp who="PHILIPPE-D-ORLEANS"><speaker>D’ORLÉANS.</speaker>
+<sp who="PHILIPPE-D-ORLEANS"><hstage><speaker>D’ORLÉANS</speaker>.</hstage>
 	<l id="215" part="f">Me trompai-je ? Il nous fuit !....</l>
 </sp>
-<sp who="MANUEL"><speaker>MANUEL.</speaker>
+<sp who="MANUEL"><hstage><speaker>MANUEL</speaker>.</hstage>
 	<l id="216" part="i">Je fuis....</l>
 </sp>
-<sp who="PHILIPPE-D-ORLEANS"><speaker>D’ORLÉANS.</speaker>
+<sp who="PHILIPPE-D-ORLEANS"><hstage><speaker>D’ORLÉANS</speaker>.</hstage>
 	<l id="216" part="m">Quoi ?</l>
 </sp>
-<sp who="MANUEL"><speaker>MANUEL.</speaker>
+<sp who="MANUEL"><hstage><speaker>MANUEL</speaker>.</hstage>
 	<l id="216" part="f">Le remord qui partout me poursuit</l>
 	<l id="217">Depuis que des grandeurs la soif insatiable,</l>
 	<l id="218">M’a fait de vos desseins le complice coupable.</l>
@@ -447,7 +447,7 @@
 	<l id="262">Sur ces tableaux cruels est sans cesse arrêtée,</l>
 	<l id="263">Je ne puis, je l’avoue, en écarter l’horreur.</l>
 </sp>
-<sp who="PHILIPPE-D-ORLEANS"><speaker>D’ORLÉANS.</speaker>
+<sp who="PHILIPPE-D-ORLEANS"><hstage><speaker>D’ORLÉANS</speaker>.</hstage>
 	<l id="264">Repoussez loin de vous une indigne terreur ;</l>
 	<l id="265">Soyez homme, et chassez jusqu’aux moindres vestiges</l>
 	<l id="266">De ces fantômes vains, de ces faibles prestiges.</l>
@@ -457,7 +457,7 @@
 	<l id="269">Puis délivré d’un roi qui nous portait ombrage,</l>
 	<l id="270">Sans crainte et sans remords consommons notre ouvrage.</l>
 </sp>
-<sp who="MANUEL"><speaker>MANUEL.</speaker>
+<sp who="MANUEL"><hstage><speaker>MANUEL</speaker>.</hstage>
 	<l id="271">Un dessein différent me fait suivre vos pas ;</l>
 	<l id="272">Si je puis le sauver, il ne périra pas.</l>
 	<l id="273">Philippe, je renonce aux grandeurs, aux richesses,</l>
@@ -465,11 +465,11 @@
 	<l id="275">Je ne suis vertueux, ni coupable à demi ;</l>
 	<l id="276">Dès ce jour, vois dans moi ton mortel ennemi.</l>
 </sp>
-<sp who="PHILIPPE-D-ORLEANS"><speaker>D’ORLÉANS.</speaker>
+<sp who="PHILIPPE-D-ORLEANS"><hstage><speaker>D’ORLÉANS</speaker>.</hstage>
 	<l id="277">Nous saurons réprimer l’excès de ton audace ;</l>
 	<l id="278" part="i">Crains les proscriptions.</l>
 </sp>
-<sp who="MANUEL"><speaker>MANUEL.</speaker>
+<sp who="MANUEL"><hstage><speaker>MANUEL</speaker>.</hstage>
 	<l id="278" part="f">Je brave ta menace.</l>
 	<l id="279">Puissai-je à ma patrie, en montrant tes complots,</l>
 	<l id="280">Épargner un grand crime, épargner de grands maux,</l>
@@ -477,10 +477,10 @@
 	<l id="282">Et que ma mort fasse oublier ma vie.</l>
 <stage>Il sort.</stage>
 </sp>
-<sp who="PHILIPPE-D-ORLEANS"><speaker>D’ORLÉANS, à Robespierre et à Marat.</speaker>
+<sp who="PHILIPPE-D-ORLEANS"><hstage><speaker>D’ORLÉANS</speaker>, à Robespierre et à Marat.</hstage>
 	<l id="283">C’en est fait, Robespierre ; et Philippe est perdu.</l>
 </sp>
-<sp who="ROBESPIERRE"><speaker>ROBESPIERRE.</speaker>
+<sp who="ROBESPIERRE"><hstage><speaker>ROBESPIERRE</speaker>.</hstage>
 	<l id="284">Ne vous souvient-il plus que tout nous est vendu.</l>
 <stage>Ils sortent.</stage>
 </sp>
@@ -488,12 +488,12 @@
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
 <stage>Le théâtre représente une des salles de l’appartement du roi dans la tour du Temple. On voit d’un côté, la porte d’un cabinet ; sur le devant de la scène sont des fauteuils, et une table sur laquelle est un globe.</stage>
-<div2 type="scene" n="1"><head>SCÈNE I. Deux Commissaires du Consiel de la Commune.</head>
-<sp who="PREMIER-COMMISSAIRE"><speaker>PREMIER COMMISSAIRE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Deux Commissaires du Consiel de la Commune.</cast>
+<sp who="PREMIER-COMMISSAIRE"><hstage><speaker>PREMIER COMMISSAIRE</speaker>.</hstage>
 	<l id="285">Tandis que de sa vie an Sénat on dispose,</l>
 	<l id="286">Que fait, dans sa prison, le despote ?</l>
 </sp>
-<sp who="DEUXIEME-COMMISSAIRE"><speaker>DEUXIÈME COMMISSAIRE.</speaker>
+<sp who="DEUXIEME-COMMISSAIRE"><hstage><speaker>DEUXIÈME COMMISSAIRE</speaker>.</hstage>
 	<l id="287">Il repose. Il repose ; et constant dans sa tranquillité,</l>
 	<l id="288">Son œil fixe la mort avec sérénité.</l>
 	<l id="289">Cependant l’Assemblée a, presque toute entière,</l>
@@ -506,13 +506,13 @@
 	<l id="296">Est, à nous asservir, de nouveau réservé.</l>
 	<l id="297">Oh ! d’un cœur vraiment libre, affreuse incertitude !</l>
 </sp>
-<sp who="PREMIER-COMMISSAIRE"><speaker>PREMIER COMMISSAIRE.</speaker>
+<sp who="PREMIER-COMMISSAIRE"><hstage><speaker>PREMIER COMMISSAIRE</speaker>.</hstage>
 	<l id="298" part="i">Je l’entends ; le voici.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Les Précédents, Louis XVI, Le Dauphin, deux autres Commissaires sortant du cabinet.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Les Précédents, Louis XVI, Le Dauphin, deux autres Commissaires sortant du cabinet.</cast>
 <stage>Ces deux derniers Commissaires confèrent un instant à part avec les autres. Ils se retirent ; et ceux qui restent se tiennent à l’écart.</stage>
-<sp who="LOUIS-XVI"><speaker>LOUIS, à son fils.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>, à son fils.</hstage>
 	<l id="298" part="f">Reprenons notre étude.</l>
 <stage>Ils s’asseyent ; Louis prend le globe dans sa main.</stage>
 	<l id="299">Nous avons vu la France où régnèrent longtemps</l>
@@ -543,20 +543,20 @@
 	<l id="324">Mais de notre leçon ne troublons plus le cours :</l>
 	<l id="325" part="i">Parcourons l’Angleterre.</l>
 </sp>
-<sp who="LE-DAUPHIN"><speaker>LE DAUPHIN.</speaker>
+<sp who="LE-DAUPHIN"><hstage><speaker>LE DAUPHIN</speaker>.</hstage>
 	<l id="325" part="f">Eh quoi ! Cette contrée,</l>
 	<l id="326">Qui porta sur son roi sa main dénaturée ?</l>
 	<l id="327">Ô ciel ! Ses habitants sont donc bien forcenés ?</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>.</hstage>
 	<l id="328" part="i">Ils le furent, mon fils.</l>
 </sp>
-<sp who="LE-DAUPHIN"><speaker>LE DAUPHIN.</speaker>
+<sp who="LE-DAUPHIN"><hstage><speaker>LE DAUPHIN</speaker>.</hstage>
 	<l id="328" part="f">Ah ! Cher papa, daignez</l>
 	<l id="329">De ce grand attentat me retracer l’histoire.</l>
 	<l id="330" part="i">Je frémis d’y penser....</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS à part.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker> à part.</hstage>
 	<l id="330" part="f">Ah ! Dieu ! S’il pouvait croire....</l>
 <stage>Il remet le globe sur la table.</stage>
 <stage>Haut.</stage>
@@ -588,11 +588,11 @@
 	<l id="354">Ô mon fils, de ton père ils vont trancher la tête....</l>
 	<l id="355">Sois plus heureux que moi. » Tu pleures, mon cher fils !</l>
 </sp>
-<sp who="LE-DAUPHIN"><speaker>LE DAUPHIN.</speaker>
+<sp who="LE-DAUPHIN"><hstage><speaker>LE DAUPHIN</speaker>.</hstage>
 	<l id="356">Il me semblait, papa, voir Charles dans Louis.</l>
 	<l id="357" part="i">Si j’étais cet enfant, ô ciel !</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS, vivement ému.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>, vivement ému.</hstage>
 	<l id="357" part="f">Que veux-tu dire ?</l>
 <stage>À part.</stage>
 	<l id="358">Il est trop vrai, peut-être, et c’est Dieu qui l’inspire.</l>
@@ -614,11 +614,11 @@
 	<l id="373">Il jouit de son crime et de sa perfidie ;</l>
 	<l id="374">Et dans son lit, paisible, il termine sa vie.</l>
 </sp>
-<sp who="LE-DAUPHIN"><speaker>LE DAUPHIN.</speaker>
+<sp who="LE-DAUPHIN"><hstage><speaker>LE DAUPHIN</speaker>.</hstage>
 	<l id="375">Un pareil attentat demeurer impuni !</l>
 	<l id="376">Juste ciel, ton tonnerre était donc amorti !</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>.</hstage>
 	<l id="377">Des pleurs de la vertu, des triomphes du vice,</l>
 	<l id="378">N’accusons pas, mon fils, la céleste justice.</l>
 	<l id="379">Elle éprouve les bons au milieu des fléaux ;</l>
@@ -636,33 +636,33 @@
 	<l id="391">Que préfériez-vous, mon cher fils, dites-moi,</l>
 	<l id="392">Ou le lit de Cromwel, ou l’échafaud du roi ?</l>
 </sp>
-<sp who="LE-DAUPHIN"><speaker>LE DAUPHIN vivement.</speaker>
+<sp who="LE-DAUPHIN"><hstage><speaker>LE DAUPHIN</speaker> vivement.</hstage>
 	<l id="393">Ah ! Papa, l’échafaud, la mort n’a rien d’horrible.</l>
 	<l id="394">La mort du criminel, est la seule terrible.</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS, transporté de joie.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>, transporté de joie.</hstage>
 	<l id="395">Embrasse-moi, mon fils, objet de mon amour.</l>
 	<l id="396">Grave bien dans ton cœur la leçon de ce jour.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Les Précédents; Lamoignon.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Les Précédents; Lamoignon.</cast>
 <stage>Il entre d’un air triste et pensif. Le Dauphin et les Commissaires se retirent.</stage>
-<sp who="LOUIS-XVI"><speaker>LOUIS, à son fils.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>, à son fils.</hstage>
 	<l id="397" part="i">C’est Lamoignon..... Sortez.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCENE IV. Louis, Lamoignon.</head>
-<sp who="LAMOIGNON"><speaker>LAMOIGNON.</speaker>
+<div2 type="scene" n="4"><head>SCENE IV.</head><cast>Louis, Lamoignon.</cast>
+<sp who="LAMOIGNON"><hstage><speaker>LAMOIGNON</speaker>.</hstage>
 	<l id="397" part="f">Prince, il faut du courage.</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>.</hstage>
 	<l id="398" part="i">J’en ai.</l>
 </sp>
-<sp who="LAMOIGNON"><speaker>LAMOIGNON.</speaker>
+<sp who="LAMOIGNON"><hstage><speaker>LAMOIGNON</speaker>.</hstage>
 	<l id="398" part="f">Les assassins ont assouvi leur rage,</l>
 	<l id="399">D’Orléans est vainqueur, et.... L’arrêt est porté.</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>.</hstage>
 	<l id="400">Tant mieux ; je sors enfin de ma perplexité.</l>
 	<l id="401">Pour moi depuis longtemps quel fléau que la vie ?</l>
 	<l id="402">Leur fureur m’en délivre, et mon âme affranchie,</l>
@@ -688,7 +688,7 @@
 	<l id="420">Regrette-moi, mon peuple, aime-moi, sois heureux,</l>
 	<l id="421">Tels sont les veux derniers que profère ma bouche !</l>
 </sp>
-<sp who="LAMOIGNON"><speaker>LAMOIGNON, se jetant à ses pieds.</speaker>
+<sp who="LAMOIGNON"><hstage><speaker>LAMOIGNON</speaker>, se jetant à ses pieds.</hstage>
 	<l id="422">Ô Louis, ô mon roi ! Quel monstre assez farouche,</l>
 	<l id="423">Pourrait et vous entendre, et ne pas s’attendrir ?</l>
 	<l id="424">À vos genoux sacrés, c’est à moi de mourir.</l>
@@ -697,18 +697,18 @@
 	<l id="427">Il appelle la mort, trop lente à le frapper.</l>
 	<l id="428">La tombe est le manteau qui doit l’envelopper.</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS, le relevant.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>, le relevant.</hstage>
 	<l id="429">Ô mon cher Lamoignon, ô mon ami fidèle !</l>
 	<l id="430">Des vertus aux humains conservez le modèle :</l>
 	<l id="431">Il est trop précieux, dans ce siècle pervers.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Les Précédents ; Desèze et Tronchet.</head>
-<sp who="LOUIS-XVI"><speaker>LOUIS.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Les Précédents ; Desèze et Tronchet.</cast>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>.</hstage>
 	<l id="432">Vous venez, chers amis, partageant mes revers,</l>
 	<l id="433">Dans mes derniers moments, soutenir ma constance.</l>
 </sp>
-<sp who="DESEZE"><speaker>DESÈZE.</speaker>
+<sp who="DESEZE"><hstage><speaker>DESÈZE</speaker>.</hstage>
 	<l id="434">Nous venons à votre âme apporter l’espérance.</l>
 	<l id="435">Le jugement fatal à peine était rendu,</l>
 	<l id="436">Nous sommes introduits ; mon collègue éperdu,</l>
@@ -750,7 +750,7 @@
 	<l id="472">En faveur de son roi réveilleront Paris.</l>
 	<l id="473" part="i">Qu’il ose se montrer....</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS, vivement.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>, vivement.</hstage>
 	<l id="473" part="f">Ami tendre et fidèle,</l>
 	<l id="474">Réprimez, croyez-moi, l’excès de votre zèle,</l>
 	<l id="475">Plutôt que d’exciter les plus légers combats.</l>
@@ -761,12 +761,12 @@
 	<l id="480">Que leurs torches, amis, s’éteignent dans mon sang.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Les Précédents ; Deux commissaires de la Commmune.</head>
-<sp who="PREMIER-COMMISSAIRE"><speaker>PREMIER COMMISSAIRE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Les Précédents ; Deux commissaires de la Commmune.</cast>
+<sp who="PREMIER-COMMISSAIRE"><hstage><speaker>PREMIER COMMISSAIRE</speaker>.</hstage>
 	<l id="481">Quand Louis condamné va subir son supplice,</l>
 	<l id="482">Tout défenseur ici n’est plus que son complice.</l>
 </sp>
-<sp who="LAMOIGNON"><speaker>LAMOIGNON, avec indignation.</speaker>
+<sp who="LAMOIGNON"><hstage><speaker>LAMOIGNON</speaker>, avec indignation.</hstage>
 	<l id="483">Son complice !.... Ah ! Ce mot convient mal à Louis !</l>
 	<l id="484">Le crime a des fauteurs, la vertu des amis.</l>
 	<l id="485">Toi qui devrais, des lois organe respectable,</l>
@@ -774,11 +774,11 @@
 	<l id="487">C’est ton roi que tu viens insulter aujourd’hui !....</l>
 	<l id="488">Vil insecte !.... Jamais fus-tu plus loin de lui ?</l>
 </sp>
-<sp who="PREMIER-COMMISSAIRE"><speaker>LE MÈME COMMISSAIRE.</speaker>
+<sp who="PREMIER-COMMISSAIRE"><hstage><speaker>LE MÈME COMMISSAIRE</speaker>.</hstage>
 	<l id="489">Je sais comme on punit un insolent esclave :</l>
 	<l id="490" part="i">Tu connaîtras bientôt mon pouvoir.</l>
 </sp>
-<sp who="LAMOIGNON"><speaker>LAMOIGNON.</speaker>
+<sp who="LAMOIGNON"><hstage><speaker>LAMOIGNON</speaker>.</hstage>
 	<l id="490" part="f">Je le brave.</l>
 	<l id="491">Par un fer assassin, si mon roi doit périr,</l>
 	<l id="492">Le suivre est dans mon cœur le plus ardent désir.</l>
@@ -788,7 +788,7 @@
 	<l id="496">Vivra pour ton amour, vivra pour ton bonheur.</l>
 	<l id="497">Cher prince, ah ! Permettez qu’à vos pieds que j’embrasse.</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS, le pressant dans ses bras.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>, le pressant dans ses bras.</hstage>
 	<l id="498">Illustre et tendre ami, c’est-là qu’est votre place.</l>
 <stage>À ses trois conseils, en montrant son cœur.</stage>
 	<l id="499">Tant qu’il respirera, vous y serez toujours.</l>
@@ -800,14 +800,14 @@
 	<l id="505">Recevez mon adieu.... c’est le dernier, sans doute,</l>
 	<l id="506">C’est celui de mon cœur. Ah !..... Combien il lui coûte...</l>
 </sp>
-<sp who="DESEZE"><speaker>DESÈZE.</speaker>
+<sp who="DESEZE"><hstage><speaker>DESÈZE</speaker>.</hstage>
 	<l id="507">Non, prince, espérez mieux, nous nous verrons encor ;</l>
 	<l id="508">Nous l’anéantirons, ce jugement de mort.</l>
 	<l id="509">Le peuple et le Sénat, d’un accord unanime,</l>
 	<l id="510">Verront, détesteront, répareront leur crime ;</l>
 	<l id="511" part="i">Vous nous serez rendu.</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>.</hstage>
 	<l id="511" part="f">Non, je l’espère peu,</l>
 	<l id="512">Mais on m’arrache à vous.... Ah, chers amis ! Adieu....</l>
 <stage>Louis et les Commissaires entrent dans le cabinet. Les défenseurs sortent.</stage>
@@ -816,8 +816,8 @@
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
 <stage>Même décoration qu’à l’acte précédent : Il est neuf heures du matin.</stage>
-<div2 type="scene" n="1"><head>SCÈNE I. Louis, Deux Commissaires.</head>
-<sp who="LOUIS-XVI"><speaker>LOUIS.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Louis, Deux Commissaires.</cast>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>.</hstage>
 	<l id="513">De témoins importuns, quoi ! Sans cesse entouré,</l>
 	<l id="514">Ne puis-je être à moi-même un seul instant livré ?</l>
 	<l id="515">Dans l’état où je suis, un repos salutaire,</l>
@@ -825,13 +825,13 @@
 	<l id="517">Ah ! de vos fonctions la triste austérité,</l>
 	<l id="518">Est-elle incompatible avec l’humanité ?</l>
 </sp>
-<sp who="PREMIER-COMMISSAIRE"><speaker>UN COMMISSAIRE.</speaker>
+<sp who="PREMIER-COMMISSAIRE"><hstage><speaker>UN COMMISSAIRE</speaker>.</hstage>
 	<l id="519">Non certes, nous sortons ; mais quand, par notre absence,</l>
 	<l id="520">Nous laissons une trêve à notre surveillance,</l>
 	<l id="521">Souffrez que de ce lieu, prudemment visité,</l>
 	<l id="522">Tout instrument de mort soit par nous écarté.</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>.</hstage>
 	<l id="523">Croyez-vous que je puisse, en ma rage insensée,</l>
 	<l id="524">D’un suicide affreux concevoir la pensée ?.....</l>
 	<l id="525">Que je fasse, au mépris des lois de l’Éternel,</l>
@@ -845,19 +845,19 @@
 	<l id="533">Louis, qui, dans son Dieu, met son unique appui,</l>
 	<l id="534">Demain saura mourir.... Et sait vivre aujourd’hui.</l>
 </sp>
-<sp who="DEUXIEME-COMMISSAIRE"><speaker>DEUXIÈME COMMISSAIRE.</speaker>
+<sp who="DEUXIEME-COMMISSAIRE"><hstage><speaker>DEUXIÈME COMMISSAIRE</speaker>.</hstage>
 	<l id="535">Ô sublime vertu ! Le cœur le plus sauvage,</l>
 	<l id="536">Peut-il, sans l’admirer, entendre ton langage ?</l>
 	<l id="537" part="i">Nous vous laissons, Louis.</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>.</hstage>
 	<l id="537" part="f">Mortels compatissants,</l>
 	<l id="538">J’adresse au Ciel pour vous mes vœux reconnoissants.</l>
 <stage>Ils sortent.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="LOUIS-XVI"><speaker>LOUIS seul.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker> seul.</hstage>
 	<l id="539">Je puis donc, délivré d’une affreuse contrainte,</l>
 	<l id="540">Respirer un moment, sans témoins et sans crainte.</l>
 	<l id="541">Je puis descendre en paix, dans ce cœur déchiré,</l>
@@ -917,28 +917,28 @@
 	<l id="595">J’entends du bruit, on ouvre. Ah ! Que vient on m’apprendre ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Louis, Le Ministre de la Justice, Deux Commissaires de la Commune.</head>
-<sp who="LE-MINISTRE"><speaker>LE MINISTRE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Louis, Le Ministre de la Justice, Deux Commissaires de la Commune.</cast>
+<sp who="LE-MINISTRE"><hstage><speaker>LE MINISTRE</speaker>.</hstage>
 	<l id="596">Vous n’avez plus, Louis, de sursis à prétendre ;</l>
 	<l id="597">Par le Sénat français, le jugement porté,</l>
 	<l id="598">Dans une heure au plus tard, doit être exécuté.</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>.</hstage>
 	<l id="599">Je vois, sans me troubler, le trépas qu’on m’apprête ;</l>
 	<l id="600">Mais avant qu’aux bourreaux je présente ma tête ;</l>
 	<l id="601">Qu’on me permettre au moins de dire dans ce lieu,</l>
 	<l id="602">À ma triste famille un éternel adieu !</l>
 </sp>
-<sp who="LE-MINISTRE"><speaker>LE MINISTRE.</speaker>
+<sp who="LE-MINISTRE"><hstage><speaker>LE MINISTRE</speaker>.</hstage>
 	<l id="603">Elle va s’approcher, et je l’ai prévenue.</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS, à part.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>, à part.</hstage>
 	<l id="604">Mon cœur, hélas ! Désire et craint cette entrevue.</l>
 <stage>Haut.</stage>
 	<l id="605">Me refusera-t-on, dans ce fatal moment,</l>
 	<l id="606">D’un ministre des cieux le secours consolant ?</l>
 </sp>
-<sp who="LE-MINISTRE"><speaker>LE MINISTRE.</speaker>
+<sp who="LE-MINISTRE"><hstage><speaker>LE MINISTRE</speaker>.</hstage>
 	<l id="607">Daignez fixer un choix, me le faire connaître,</l>
 	<l id="608" part="i">Vos vœux seront remplis.</l>
 <stage>Louis s’approche d’une table, écrit le nom et la demeure du prêtre, et remet le billet au ministre.</stage>
@@ -946,8 +946,8 @@
 <stage>Il se retire. Louis se promène quelques moments à grands pas, et passe dans son cabinet.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Deux Commissaires de la Commune.</head>
-<sp who="PREMIER-COMMISSAIRE"><speaker>PREMIER COMMISSAIRE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Deux Commissaires de la Commune.</cast>
+<sp who="PREMIER-COMMISSAIRE"><hstage><speaker>PREMIER COMMISSAIRE</speaker>.</hstage>
 	<l id="609">Au gré de nos projets, je vois tout réussir,</l>
 	<l id="610">Embrassons-nous, amis, le tyran va périr.</l>
 	<l id="611">Hier, de ses conseils, l’éloquence importune,</l>
@@ -957,7 +957,7 @@
 	<l id="615">Le Sénat, oubliant sa grandeur magnanime,</l>
 	<l id="616">Ravissait à nos coups cette illustre victime.</l>
 </sp>
-<sp who="DEUXIEME-COMMISSAIRE"><speaker>DEUXIÈME COMMISSAIRE.</speaker>
+<sp who="DEUXIEME-COMMISSAIRE"><hstage><speaker>DEUXIÈME COMMISSAIRE</speaker>.</hstage>
 	<l id="617">Je l’ai craint un moment ; mais grâce au ciel, enfin</l>
 	<l id="618">Notre pouvoir l’emporte, et n’aura plus de frein ;</l>
 	<l id="619">Si Chambon, si Roland, osent rester en place,</l>
@@ -966,26 +966,26 @@
 	<l id="622">Seuls de l’autorite, devons étre investis.</l>
 	<l id="623">On vient ; c’est du tyran la famille éplorée.</l>
 </sp>
-<sp who="PREMIER-COMMISSAIRE"><speaker>PREMIER COMMISSAIRE.</speaker>
+<sp who="PREMIER-COMMISSAIRE"><hstage><speaker>PREMIER COMMISSAIRE</speaker>.</hstage>
 	<l id="624">Bientôt la république en sera délivrée.</l>
 <stage>Ils sortent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Louis, Marie-Antoinette, Élisabeth, Les Enfants du Roi.</head>
-<sp who="MARIE-ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Louis, Marie-Antoinette, Élisabeth, Les Enfants du Roi.</cast>
+<sp who="MARIE-ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="625" part="i">Où peut-il être, ô ciel !...</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS, sortant du cabinet.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>, sortant du cabinet.</hstage>
 	<l id="625" part="m">Qu’entends-je ?...</l>
 </sp>
-<sp who="MARIE-ANTOINETTE"><speaker>ANTOINETTE, l’embrassant.</speaker>
+<sp who="MARIE-ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>, l’embrassant.</hstage>
 	<l id="625" part="f">Ah, cher époux !</l>
 </sp>
-<sp who="ELISABETH"><speaker>ÉLISABETH.</speaker>
+<sp who="ELISABETH"><hstage><speaker>ÉLISABETH</speaker>.</hstage>
 	<l id="626">Vos enfants, votre sœur, embrassent vos genoux.</l>
 <stage>Ils se jettent tous à ses pieds.</stage>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS, les relèvent.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>, les relèvent.</hstage>
 	<l id="627">Que vois-je ? Est-il possible, ô moment plein de charmes !</l>
 	<l id="628">Vous m’êtes tous rendus... Quoi ! Vous vers versez des larmes !</l>
 	<l id="629">Ces mots portent le trouble en vos cœurs éperdus !...</l>
@@ -1000,7 +1000,7 @@
 	<l id="638">Les objets adorés d’un vertueux amour ;</l>
 	<l id="639">Mais nous nous rejoindrons, j’en ai la confiance !</l>
 </sp>
-<sp who="MARIE-ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="MARIE-ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="640">Ô Louis, cette idée est ma seule espérance.</l>
 	<l id="641">Au milieu des horreurs de mon funeste sort,</l>
 	<l id="642">Et le jour et la nuit, je désire la mort ;</l>
@@ -1038,7 +1038,7 @@
 	<l id="673">Que les peuples tremblants apprennent à jamais</l>
 	<l id="674">À respecter les rois que le ciel leur a faits.</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>.</hstage>
 	<l id="675">Antoinette, ah ! bien loin d’allumer dans son âme,</l>
 	<l id="676">D’une aveugle fureur la criminelle flamme,</l>
 	<l id="677">Appliquez-vous sans cesse à lui bien enseigner,</l>
@@ -1046,7 +1046,7 @@
 	<l id="679">Que de son peuple un jour il se montre le père :</l>
 	<l id="680">Cette seule vengeance et digne de me plaire.</l>
 </sp>
-<sp who="MARIE-ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="MARIE-ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="681">Quel touchant héroïsme ! Ô Louis, cher époux</l>
 	<l id="682">Ah ! Combien Antoinette est moins grande que vous</l>
 	<l id="683">Aurais-je, juste ciel, par des excès coupables,</l>
@@ -1054,7 +1054,7 @@
 	<l id="685">Sur moi seule, grand Dieu, verse tout ton courroux ;</l>
 	<l id="686">Protége l’innocence, et sauve mon époux !</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>.</hstage>
 	<l id="687">Chère épouse, écartez cette cruelle image...</l>
 	<l id="688">Nos maux et mon trépas ne sont point votre ouvrage :</l>
 	<l id="689">Le ciel a tout conduit, son invisible main</l>
@@ -1066,15 +1066,15 @@
 <stage>Il les embrasse tour-à-tour.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI et DERNIÈRE. Les Précédents; Le Confesseur du Roi, Santerre, détachement de la garde nationale.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI et DERNIÈRE.</head><cast>Les Précédents; Le Confesseur du Roi, Santerre, détachement de la garde nationale.</cast>
 <stage>Ils se tiennent dans l’enfoncement.</stage>
-<sp who="MARIE-ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="MARIE-ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="695" part="i">Ciel ! Que vois-je !...</l>
 </sp>
-<sp who="LE-CONFESSEUR"><speaker>LE CONFESSEUR.</speaker>
+<sp who="LE-CONFESSEUR"><hstage><speaker>LE CONFESSEUR</speaker>.</hstage>
 	<l id="695" part="m">Ô Louis !...</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>.</hstage>
 	<l id="695" part="f">Approchez-vous, mon père,</l>
 	<l id="696">Mon cœur vous attendait, c’est en vous que j’espère.</l>
 <stage>à Santerre.</stage>
@@ -1084,17 +1084,17 @@
 <stage>à Antoinette.</stage>
 	<l id="700">Venez... Elle chancelle, et ne peut plus m’entendre. Antoinette !...</l>
 </sp>
-<sp who="MARIE-ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="MARIE-ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="701" part="i">J’expire !...</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>.</hstage>
 	<l id="701" part="f">Ah ! Reprenez vos sens...</l>
 	<l id="702">N’ajoutez pas encore à mes affreux tourments.</l>
 	<l id="703">Faut-il que ce soit moi, dans ce moment terrible,</l>
 	<l id="704">Qui cherche à consoler votre cœur trop sensible ?</l>
 	<l id="705">De grâce, épargnez-vous des transport superflus...</l>
 </sp>
-<sp who="MARIE-ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="MARIE-ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="706">Ô ciel, c’en est donc fait !... Je ne le verrai plus...</l>
 <stage>À la garde avec violence.</stage>
 	<l id="707">C’est vous dont la fureur, lâchement effrénée ;</l>
@@ -1116,7 +1116,7 @@
 	<l id="723">Dieu même, en traits de sang, sur votre front perfide,</l>
 	<l id="724">Imprimera ces mots : Fuyez un parricide.</l>
 </sp>
-<sp who="LE-DAUPHIN"><speaker>LE DAUPHIN.</speaker>
+<sp who="LE-DAUPHIN"><hstage><speaker>LE DAUPHIN</speaker>.</hstage>
 	<l id="725">Loin d’irriter des cœurs qu’il faudrait attendrir,</l>
 	<l id="726">Oh ! Maman, laissez-nous le soin de les fléchir !</l>
 <stage>À sa sœur.</stage>
@@ -1125,62 +1125,62 @@
 	<l id="728">Ah ! D’un père innocent ne tranchez pas la tête !</l>
 	<l id="729" part="i">Coupez plutôt la mienne...</l>
 </sp>
-<sp who="LA-PRINCESSE"><speaker>LA PRINCESSE.</speaker>
+<sp who="LA-PRINCESSE"><hstage><speaker>LA PRINCESSE</speaker>.</hstage>
 	<l id="729" part="m">Et puis la mienne...</l>
 </sp>
-<sp who="LE-DAUPHIN"><speaker>LE DAUPHIN.</speaker>
+<sp who="LE-DAUPHIN"><hstage><speaker>LE DAUPHIN</speaker>.</hstage>
 	<l id="729" part="f">Hélas !</l>
 	<l id="730">Daignez à l’Assemblée accompagner mes pas...</l>
 <stage>Santerre à quelques Soldats.</stage>
 	<l id="731" part="i">Emmenez ces enfants.....</l>
 </sp>
-<sp who="LE-DAUPHIN"><speaker>LE DAUPHIN.</speaker>
+<sp who="LE-DAUPHIN"><hstage><speaker>LE DAUPHIN</speaker>.</hstage>
 	<l id="731" part="f">À vos pieds que j’embrasse,</l>
 	<l id="732">Ne me refusez pas cette dernière grâce.....</l>
 </sp>
-<sp who="SANTERRE"><speaker>SANTERRE.</speaker>
+<sp who="SANTERRE"><hstage><speaker>SANTERRE</speaker>.</hstage>
 	<l id="733" part="i">Soldats, qu’on les emporte.....</l>
 <stage>On les emporte.</stage>
 </sp>
-<sp who="MARIE-ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="MARIE-ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="733" part="f">Ah ! Cruels, arrêtez !...</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>.</hstage>
 	<l id="734" part="i">Mon fils....</l>
 </sp>
-<sp who="LA-PRINCESSE"><speaker>LA PRINCESSE.</speaker>
+<sp who="LA-PRINCESSE"><hstage><speaker>LA PRINCESSE</speaker>.</hstage>
 	<l id="734" part="m">On nous sépare...</l>
 </sp>
-<sp who="LE-DAUPHIN"><speaker>LE DAUPHIN, à ses parents.</speaker>
+<sp who="LE-DAUPHIN"><hstage><speaker>LE DAUPHIN</speaker>, à ses parents.</hstage>
 	<l id="734" part="f">Et quoi, vous nous quittez !</l>
 <stage>On l’entraîne de force.</stage>
 </sp>
-<sp who="SANTERRE"><speaker>SANTERRE, à Louis.</speaker>
+<sp who="SANTERRE"><hstage><speaker>SANTERRE</speaker>, à Louis.</hstage>
 	<l id="735" part="i">Marchons, il en est temps...</l>
 <stage>À quelques soldats, montrant Antoinette et Elisabeth.</stage>
 	<l id="735" part="f">Soldats, veillez sur elles</l>
 </sp>
-<sp who="MARIE-ANTOINETTE"><speaker>ANTOINETTE, se précipitant sur la garde.</speaker>
+<sp who="MARIE-ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>, se précipitant sur la garde.</hstage>
 	<l id="736">Non, je puis affronter vos cohortes cruelles.</l>
 	<l id="737" part="i">Entends-moi, cher époux...</l>
 </sp>
-<sp who="ELISABETH"><speaker>ÉLISABETH.</speaker>
+<sp who="ELISABETH"><hstage><speaker>ÉLISABETH</speaker>.</hstage>
 	<l id="737" part="m">Louis... Mon frère...</l>
 </sp>
-<sp who="LOUIS-XVI"><speaker>LOUIS, sortant précipitamment.</speaker>
+<sp who="LOUIS-XVI"><hstage><speaker>LOUIS</speaker>, sortant précipitamment.</hstage>
 	<l id="737" part="f">Adieu...</l>
 </sp>
-<sp who="MARIE-ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="MARIE-ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="738">Il nous fuit... Se peut-il ?... On l’entraîne... Ah ! Grand Dieu !</l>
 	<l id="739" part="i">Suivons ses pas... Courons...</l>
 <stage>Louis disparaît, Antoinette tombe dans le sein d’Elisabeth.</stage>
 	<l id="739" part="m">Je me meurs...</l>
 </sp>
-<sp who="ELISABETH"><speaker>ÉLISABETH.</speaker>
+<sp who="ELISABETH"><hstage><speaker>ÉLISABETH</speaker>.</hstage>
 	<l id="739" part="f">Antoinette...</l>
 <stage>Elles s’évanouissent l’une et l’autre.</stage>
 </sp>
-<sp who="SANTERRE"><speaker>SANTERRE.</speaker>
+<sp who="SANTERRE"><hstage><speaker>SANTERRE</speaker>.</hstage>
 	<l id="740">Profitons de l’état où la douleur les jette.</l>
 <stage>À quelques soldats.</stage>
 	<l id="741" part="i">Qu’on les transporte ailleurs...</l>

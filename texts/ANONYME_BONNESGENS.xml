@@ -101,12 +101,12 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head/>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Guillaume, Sa Femme.</head>
-<sp who="GUILLAUME"><speaker>GUILLAUME.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Guillaume, Sa Femme.</cast>
+<sp who="GUILLAUME"><hstage><speaker>GUILLAUME</speaker>.</hstage>
 	<l id="1">C’est ici, l’an passé, que nous vîmes le Roi...</l>
 	<l id="2">Te rappelles-tu bien sa physionomie ?</l>
 </sp>
-<sp who="MADAME-GUILLAUME"><speaker>MADAME GUILLAUME.</speaker>
+<sp who="MADAME-GUILLAUME"><hstage><speaker>MADAME GUILLAUME</speaker>.</hstage>
 	<l id="3">Je le vois là tout comme toi.</l>
 	<l id="4">Ce fut le jour le plus beau de ma vie.</l>
 	<l id="5">Comment veux-tu que je l’oublie ?...</l>
@@ -117,7 +117,7 @@
 	<l id="10">Ainsi que ses enfants il traite ses sujets ;</l>
 	<l id="11">A pleines mains, sur eux, il répand les bienfaits.</l>
 </sp>
-<sp who="GUILLAUME"><speaker>GUILLAUME.</speaker>
+<sp who="GUILLAUME"><hstage><speaker>GUILLAUME</speaker>.</hstage>
 	<l id="12">Tu dis bien vrai, ma bonne amie.</l>
 	<l id="13">Un Roi puissant, un Roi vainqueur</l>
 	<l id="14">Au souvenir échappe avec toute sa gloire ;</l>
@@ -133,7 +133,7 @@
 	<l id="24">Voilà le Prince intéressant.</l>
 	<l id="25">Voilà celui que je remarque.</l>
 </sp>
-<sp who="MADAME-GUILLAUME"><speaker>MADAME GUILLAUME.</speaker>	
+<sp who="MADAME-GUILLAUME"><hstage><speaker>MADAME GUILLAUME</speaker>.</hstage>	
 	<l id="26">Avec quelle douceur, Guillaume, il nous parla !</l>
 	<l id="27">« Mes amis que faites-vous là ?</l>
 	<l id="28">- Nés d’honnêtes parents, avec peu de fortune,</l>
@@ -153,7 +153,7 @@
 	<l id="42">« Tenez. Voilà trente ducats ;</l>
 	<l id="43">Dans un temps plus heureux je vous ferais plus riches. »</l>
 </sp>
-<sp who="GUILLAUME"><speaker>GUILLAUME.</speaker>
+<sp who="GUILLAUME"><hstage><speaker>GUILLAUME</speaker>.</hstage>
 	<l id="44">Juges, après cela, si je l’aime à demi ;</l>
 	<l id="45">Aussi, peut-il le dire, en pensant à Guillaume :</l>
 	<l id="46">Dans ma Cour, ni dans mon Royaume,</l>
@@ -167,11 +167,11 @@
 	<l id="54">Un geste, un mot, la plus légere avance</l>
 	<l id="55">En venant d’eux a tant de prix !</l>
 </sp>
-<sp who="MADAME-GUILLAUME"><speaker>MADAME GUILLAUME.</speaker>
+<sp who="MADAME-GUILLAUME"><hstage><speaker>MADAME GUILLAUME</speaker>.</hstage>
 	<l id="56">D’un bien qui coûte peu, pourquoi sont-ils avares ?</l>
 	<l id="57">Pourquoi de leurs bontés les traits sont-ils si rares ?</l>
 </sp>
-<sp who="GUILLAUME"><speaker>GUILLAUME.</speaker>
+<sp who="GUILLAUME"><hstage><speaker>GUILLAUME</speaker>.</hstage>
 	<l id="58">La fortune les éblouit ;</l>
 	<l id="59">Puis la tête s’égaye, et puis le cœur la suit.</l>
 	<l id="60">D’un bon vin de Hongrie une trop forte dose</l>
@@ -190,7 +190,7 @@
 	<l id="73">Jusques en sa moindre action.</l>
 	<l id="74">Est empreinte la bonhomie.</l>
 </sp>
-<sp who="MADAME-GUILLAUME"><speaker>MADAME GUILLAUME.</speaker>
+<sp who="MADAME-GUILLAUME"><hstage><speaker>MADAME GUILLAUME</speaker>.</hstage>
 	<l id="75">Oui, la pipe à la bouche, avec son habit brun,</l>
 	<l id="76">Il fait honneur à la Nature ;</l>
 	<l id="77">Il dédaigne les airs, le faste, la dorure,</l>
@@ -199,7 +199,7 @@
 	<l id="80">Que fait-il à présent ? Le Ciel, comblant nos vœux,</l>
 	<l id="81">Rend-il ses jours pareils à ceux qu’il nous prépare ?</l>
 </sp>
-<sp who="GUILLAUME"><speaker>GUILLAUME.</speaker>
+<sp who="GUILLAUME"><hstage><speaker>GUILLAUME</speaker>.</hstage>
 	<l id="82">Helas ! Non ; il n’est pas heureux ;</l>
 	<l id="83">De tous côtés, on s’avance, on s’empare</l>
 	<l id="84">Des postes, où jadis il résista le mieux ;</l>
@@ -212,13 +212,13 @@
 	<l id="91">À trois milles d’ici campent les deux armées,</l>
 	<l id="92">Et, pour lui, du combat on craint l’événement</l>
 </sp>
-<sp who="MADAME-GUILLAUME"><speaker>MADAME GUILLAUME.</speaker>
+<sp who="MADAME-GUILLAUME"><hstage><speaker>MADAME GUILLAUME</speaker>.</hstage>
 	<l id="93">À ce triste récit mon âme se déchire.</l>
 	<l id="94">Que d’amertume je ressens !</l>
 	<l id="95">On a bien raison de le dire :</l>
 	<l id="96">Il n’est point de bonheur pour les honnêtes gens.</l>
 </sp>
-<sp who="GUILLAUME"><speaker>GUILLAUME.</speaker>
+<sp who="GUILLAUME"><hstage><speaker>GUILLAUME</speaker>.</hstage>
 	<l id="97">La douleur te rend trop injuste ;</l>
 	<l id="98">À notre faible tête, à tous ces songes vains</l>
 	<l id="99">Penses-tu que le Ciel s’ajuste ?</l>
@@ -241,24 +241,24 @@
 	<l id="116">Mais quel est ce guerrier ? Ah ! Grands Dieux ! C’est le Roi</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Le Roi, Guillaume, Sa Femme.</head>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Le Roi, Guillaume, Sa Femme.</cast>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="117">Que dites-vous, et quelle est cette idée ?</l>
 </sp>
-<sp who="GUILLAUME"><speaker>GUILLAUME.</speaker>
+<sp who="GUILLAUME"><hstage><speaker>GUILLAUME</speaker>.</hstage>
 	<l id="118">Ah ! Je vous reconnais, Seigneur,</l>
 	<l id="119">Je ne me trompe pas... Votre image sacrée</l>
 	<l id="120">Par la reconnaissance en mon cœur est gravée.</l>
 	<l id="121">Et ce sentiment-là ne produit point d’erreur.</l>
 </sp>
-<sp who="MADAME-GUILLAUME"><speaker>MADAME GUILLAUME.</speaker>
+<sp who="MADAME-GUILLAUME"><hstage><speaker>MADAME GUILLAUME</speaker>.</hstage>
 	<l id="122">C’est ici que dans l’autre année</l>
 	<l id="123">Je vous connus par vos bienfaits ;</l>
 	<l id="124">Seigneur, vous êtes si bon Maître,</l>
 	<l id="125">Qu’il n’est pas un seul polonais,</l>
 	<l id="126">Qui puisse autrement vous connaître.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="127">Je prétendais dissimuler,</l>
 	<l id="128">Avec vous, mes amis, ce serait une offense :</l>
 	<l id="129">Sans crainte je puis vous parler,</l>
@@ -269,14 +269,14 @@
 	<l id="134">Combien, depuis ce temps, j’éprouve de disgrâces !</l>
 	<l id="135" part="i">Que je suis malheureux !</l>
 </sp>
-<sp who="MADAME-GUILLAUME"><speaker>MADAME GUILLAUME.</speaker>
+<sp who="MADAME-GUILLAUME"><hstage><speaker>MADAME GUILLAUME</speaker>.</hstage>
 	<l id="135" part="f">Nous le sommes donc tous.</l>
 	<l id="136">Quand nous avons un Souverain aimable,</l>
 	<l id="137">Et qu’un sort rigoureux l’accable,</l>
 	<l id="138">Nous tombons sous les mêmes coups.</l>
 	<l id="139">Mais ce malheur serait-il sans remède ?</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="140">À l’ennemi vainqueur il faut bien que je cède.</l>
 	<l id="141">J’ai combattu jusqu’au dernier instant,</l>
 	<l id="142">Mais, presque seul, en ce danger pressant.</l>
@@ -302,7 +302,7 @@
 	<l id="162">Par des détours obscurs, des routes ignorées</l>
 	<l id="163">Je suis enfin parvenu jusqu’ici.</l>
 </sp>
-<sp who="GUILLAUME"><speaker>GUILLAUME.</speaker>
+<sp who="GUILLAUME"><hstage><speaker>GUILLAUME</speaker>.</hstage>
 	<l id="164">Pour vous servir, que peut tenter mon zèle ?</l>
 	<l id="165">Je n’ai ni fortune, ni rang ;</l>
 	<l id="166">Je ne puis vous offrir que ma hutte et mon sang ;</l>
@@ -313,7 +313,7 @@
 	<l id="171">Mais j’ose vous jurer, que dans tous vos États,</l>
 	<l id="172">Il n’en est point de plus fidèle.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="173">Mon ami, c’est penser en Roi :</l>
 	<l id="174">Quand je t’ennoblirais, que ferais-je pour toi ?</l>
 	<l id="175">C’est des vertus la splendeur, ou le nombre,</l>
@@ -322,7 +322,7 @@
 	<l id="178">Je ne puis te donner que l’ombre</l>
 	<l id="179">Du bien que possède ton cœur.</l>
 </sp>
-<sp who="GUILLAUME"><speaker>GUILLAUME.</speaker>
+<sp who="GUILLAUME"><hstage><speaker>GUILLAUME</speaker>.</hstage>
 	<l id="180">À l’instant la nuit arrivée,</l>
 	<l id="181">Mon Prince nous vous sauverons,</l>
 	<l id="182">J’ai parmi les roseaux une barque cachée,</l>
@@ -332,7 +332,7 @@
 	<l id="186">Heureux de posséder ce frêle bâtiment,</l>
 	<l id="187">Je le préférerais à tous les biens du monde.</l>
 </sp>
-<sp who="MADAME-GUILLAUME"><speaker>MADAME GUILLAUME.</speaker>
+<sp who="MADAME-GUILLAUME"><hstage><speaker>MADAME GUILLAUME</speaker>.</hstage>
 	<l id="188">Seigneur, dérobez-vous aux regards curieux,</l>
 	<l id="189">Et soignez des jours précieux,</l>
 	<l id="190">Dont votre amour nous doit le compte ;</l>
@@ -342,7 +342,7 @@
 	<l id="194">De l’offre il est tout le mérite,</l>
 	<l id="195">Et vous en connaissez le prix.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="196">Ah ! Mes enfants ! Mon âme est pénétrée.</l>
 	<l id="197">Tendre amitié, des Rois trop ignorée,</l>
 	<l id="198">Du sort le plus affreux tu détruis les horreurs :</l>
@@ -352,12 +352,12 @@
 	<l id="202">Oui, c’est dans mes malheurs que je me livre aux traits</l>
 	<l id="203">De la volupté la plus pure.</l>
 </sp>
-<sp who="MADAME-GUILLAUME"><speaker>MADAME GUILLAUME, à son mari.</speaker>
+<sp who="MADAME-GUILLAUME"><hstage><speaker>MADAME GUILLAUME</speaker>, à son mari.</hstage>
 	<l id="204">Allez, suivez le Roi ; je demeure aux aguets.</l>
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="MADAME-GUILLAUME"><speaker>MADAME GUILLAUME, seule.</speaker>
+<sp who="MADAME-GUILLAUME"><hstage><speaker>MADAME GUILLAUME</speaker>, seule.</hstage>
 	<l id="205">Quelle adorable bienfaisance !</l>
 	<l id="206">Si nous ne l’avons plus, perdons toute espérance</l>
 	<l id="207">De le voir remplacé jamais.</l>
@@ -392,8 +392,8 @@
 	<l id="236">Protégez les vertus que vous avez fait naître.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Madame Guillaume, Arlequin, Capitaine de Hussards ; Deux Hussards.</head>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Madame Guillaume, Arlequin, Capitaine de Hussards ; Deux Hussards.</cast>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="237">C’est un vilain Monsieur, à mon gré, qu’un Héros :</l>
 	<l id="238">Dans le sang il se baigne, et puis s’en désaltère ;</l>
 	<l id="239">J’aime mieux un verre de bière,</l>
@@ -410,10 +410,10 @@
 	<l id="250">Je suis touché, mais touché de manière</l>
 	<l id="251">Que je pleurerais trop, si je ne riais pas.</l>
 </sp>
-<sp who="UN-HUSSARD"><speaker>UN HUSSARD.</speaker>
+<sp who="UN-HUSSARD"><hstage><speaker>UN HUSSARD</speaker>.</hstage>
 	<l id="252">C’est l’honneur qui conduit nos pas...</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="253">Oui ; mais l’honneur est d’être sage.</l>
 	<l id="254">Du véritable honneur la raison est le gage ;</l>
 	<l id="255">Et nous couper jambes et bras,</l>
@@ -432,42 +432,42 @@
 	<l id="268">Écoutez donc, Madame chose...</l>
 	<l id="269">Diable ! C’est un minois et de lys et de rose.</l>
 </sp>
-<sp who="MADAME-GUILLAUME"><speaker>MADAME GUILLAUME.</speaker>
+<sp who="MADAME-GUILLAUME"><hstage><speaker>MADAME GUILLAUME</speaker>.</hstage>
 	<l id="270" part="i">Voudriez-vous vous rafraîchir ?</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="270" part="f">Beaucoup.</l>
 	<l id="271">Nous avons parcouru forêt, montagne et plaine :</l>
 	<l id="272">Nous sommes tous diablement desséché.</l>
 	<l id="273" part="i">À propos, les chevaux ?</l>
 </sp>
-<sp who="UN-HUSSARD"><speaker>UN HUSSARD.</speaker>
+<sp who="UN-HUSSARD"><hstage><speaker>UN HUSSARD</speaker>.</hstage>
 	<l id="273" part="f">N’en soyez point en peine.</l>
 	<l id="274">Je les ai moi-même attachés ;</l>
 	<l id="275">Et j’en réponds, mon Capitaine.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="276" part="i">Avez-vous du vin ?</l>
 </sp>
-<sp who="MADAME-GUILLAUME"><speaker>MADAME GUILLAUME.</speaker>
+<sp who="MADAME-GUILLAUME"><hstage><speaker>MADAME GUILLAUME</speaker>.</hstage>
 	<l id="276" part="m">Non.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="276" part="m">Et de la bière ?</l>
 </sp>
-<sp who="MADAME-GUILLAUME"><speaker>MADAME GUILLAUME.</speaker>
+<sp who="MADAME-GUILLAUME"><hstage><speaker>MADAME GUILLAUME</speaker>.</hstage>
 	<l id="276" part="f">Oui;</l>
 	<l id="277">Mais je crains fort, Monsieur, qu’elle ne soit pas bonne.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="278">Enfin, telle qu’elle est, il faut qu’on nous la donne,</l>
 	<l id="279">Et que vous l’apportiez ici.</l>
 </sp>
-<sp who="UN-HUSSARD"><speaker>UN HUSSARD.</speaker>
+<sp who="UN-HUSSARD"><hstage><speaker>UN HUSSARD</speaker>.</hstage>
 	<l id="280">Si vous vouliez vous mettre à table,</l>
 	<l id="281">On entrerait dans la maison.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="282">La chose n’est pas proposable :</l>
 	<l id="283">En avons-nous le temps ? Vous savez bien que non.</l>
 	<l id="284">Écoutez-moi, ma bonne femme...</l>
@@ -488,7 +488,7 @@
 <stage>Il se redresse.</stage>
 	<l id="298">Entre cent mille on ne peut s’y méprendre.</l>
 </sp>
-<sp who="MADAME-GUILLAUME"><speaker>MADAME GUILLAUME, d’un ton ingénu.</speaker>
+<sp who="MADAME-GUILLAUME"><hstage><speaker>MADAME GUILLAUME</speaker>, d’un ton ingénu.</hstage>
 	<l id="299">À tous ces beaux discours je ne puis rien comprendre.</l>
 	<l id="300">C’est bien au Village, oui-dà,</l>
 	<l id="301">Que vous pourrez les faire entendre !</l>
@@ -509,41 +509,41 @@
 	<l id="316">Un ruban bleu croisait là sur sa veste :</l>
 	<l id="317" part="i">Je n’ai rien vu de plus.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="317" part="f">Oh ! C’est assez, vraiment ;</l>
 	<l id="318">Allez-nous chercher la bouteille.</l>
 <stage>Elle sort un instant.</stage>
 </sp>
-<sp who="UN-HUSSARD"><speaker>UN HUSSARD.</speaker>
+<sp who="UN-HUSSARD"><hstage><speaker>UN HUSSARD</speaker>.</hstage>
 	<l id="319">Notre affaire tourne à merveille,</l>
 	<l id="320">Nous le tenons ; c’est lui certainement.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="321">J’en suis presque fâché ; car il est si bon homme.</l>
 </sp>
-<sp who="UN-HUSSARD"><speaker>UN HUSSARD.</speaker>
+<sp who="UN-HUSSARD"><hstage><speaker>UN HUSSARD</speaker>.</hstage>
 	<l id="322">Mais dix mille ducats, faisant cent mille francs...</l>
 	<l id="323">Maugrebleu ! Pour pareille somme,</l>
 	<l id="324">Je livrerais tous mes parents.</l>
 </sp>
-<sp who="MADAME-GUILLAUME"><speaker>MADAME GUILLAUME.</speaker>
+<sp who="MADAME-GUILLAUME"><hstage><speaker>MADAME GUILLAUME</speaker>.</hstage>
 	<l id="325">Tenez, Messieurs, voilà des verres blancs.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="326">Un suffisait ; nous buvons dans le même :</l>
 	<l id="327">Nous sommes tous de braves gens,</l>
 	<l id="328">Qui nous aimons d’une tendresse extrême.</l>
 <stage>Il boit.</stage>
 	<l id="329">Elle est bonne, sans compliments.</l>
 </sp>
-<sp who="MADAME-GUILLAUME"><speaker>MADAME GUILLAUME.</speaker>
+<sp who="MADAME-GUILLAUME"><hstage><speaker>MADAME GUILLAUME</speaker>.</hstage>
 	<l id="330">Voudriez-vous un peu de crème ?...</l>
 	<l id="331">De n’avoir rien de mieux je suis au désespoir,</l>
 	<l id="332">C’est du pain de notre ménage,</l>
 	<l id="333">Vous le trouverez dur et noir...</l>
 	<l id="334">Et puis un reste de fromage.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="335">Grand-merci ; c’est un vrai régal :</l>
 	<l id="336">Pour des hussards un repas de chanoines.</l>
 	<l id="337">Hors l’amour, qui chez tous est ardent et brutal,</l>
@@ -552,26 +552,26 @@
 <stage>Ils achèvent la bouteille, et Arlequin dit :</stage>
 	<l id="340">Allons, mes chers amis, remontons à cheval.</l>
 </sp>
-<sp who="UN-HUSSARD"><speaker>UN HUSSARD.</speaker>
+<sp who="UN-HUSSARD"><hstage><speaker>UN HUSSARD</speaker>.</hstage>
 	<l id="341">Adieu donc, la charmante hôtesse.</l>
 	<l id="342">Si j’étais moins pressé, je vous dirais deux mots.</l>
 	<l id="343">Heureux l’epoux dont la vive tendresse</l>
 	<l id="344">Vous fera quinze ou vingt marmots !</l>
 </sp>
-<sp who="SECOND-HUSSARD"><speaker>UN HUSSARD.</speaker>
+<sp who="SECOND-HUSSARD"><hstage><speaker>UN HUSSARD</speaker>.</hstage>
 	<l id="345">La bière est forte et nous monte aux cerveaux.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="346">Bonsoir, beaux yeux : bonsoir, gentille bouche,</l>
 	<l id="347">Dont la moindre douceur calmerait tous mes maux.</l>
 	<l id="348">Chè d’gioïa de partager la couche</l>
 	<l id="349">De ce petit bec amoureux !</l>
 	<l id="350">Comme un sachet elle sent l’ambre.</l>
 </sp>
-<sp who="MADAME-GUILLAUME"><speaker>MADAME GUILLAUME.</speaker>
+<sp who="MADAME-GUILLAUME"><hstage><speaker>MADAME GUILLAUME</speaker>.</hstage>
 	<l id="351">Monsieur, je vous salue, et fais pour vous des vœux.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="352">Je voulais vous payer, mais mon valet-de-chambre;</l>
 	<l id="353">(C’est bien le plus distrait coquin;</l>
 	<l id="354">Il mérite deux cents taloches;)</l>
@@ -586,7 +586,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="MADAME-GUILLAUME"><speaker>MADAME GUILLAUME, seule.</speaker>
+<sp who="MADAME-GUILLAUME"><hstage><speaker>MADAME GUILLAUME</speaker>, seule.</hstage>
 	<l id="363">J’ai bien donné le change ; aussi l’ont-ils bien pris...</l>
 	<l id="364">Déjà l’obscurité m’empêche de les suivre ;</l>
 	<l id="365" part="i">Comme le cœur me bat !</l>
@@ -596,17 +596,17 @@
 	<l id="367">Il est temps que je vous délivre.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE DERNIÈRE. Le Roi, en habit de Paysan, Guillaume, Sa Femme.</head>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE DERNIÈRE.</head><cast>Le Roi, en habit de Paysan, Guillaume, Sa Femme.</cast>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="368">Vous avez eu plus peur que moi.</l>
 </sp>
-<sp who="MADAME-GUILLAUME"><speaker>MADAME GUILLAUME.</speaker>
+<sp who="MADAME-GUILLAUME"><hstage><speaker>MADAME GUILLAUME</speaker>.</hstage>
 	<l id="369">Vous n’en aviez que pour vous-même,</l>
 	<l id="370">Et moi j’en avais pour mon Roi :</l>
 	<l id="371">À ce degré, ce que l’on aime</l>
 	<l id="372">Intéresse bien plus que soi.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="373">Les bonnes Gens ! Mon cœur leur voue</l>
 	<l id="374">Les plus vrais sentiments, les plus tendres égards ;</l>
 	<l id="375">Tandis que l’une se dévoue</l>
@@ -614,7 +614,7 @@
 	<l id="377">De notre niche entendant les hussards,</l>
 	<l id="378" part="i">L’autre, pour moi, tremblait.</l>
 </sp>
-<sp who="GUILLAUME"><speaker>GUILLAUME.</speaker>
+<sp who="GUILLAUME"><hstage><speaker>GUILLAUME</speaker>.</hstage>
 	<l id="378" part="f">Oui, je l’avoue.</l>
 	<l id="379">Le désir de voir, par mes soins,</l>
 	<l id="380">Venir à bien votre aventure,</l>
@@ -623,12 +623,12 @@
 	<l id="383">Éloignons-nous, Seigneur ; différer davantage,</l>
 	<l id="384">C’est à d’autres périls nous voir encor livrés.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="385">Nous partirons, quand vous voudrez :</l>
 	<l id="386">J’ai mis mon habit de voyage.</l>
 	<l id="387">Comment me trouvez-vous, avec cet équipage ?</l>
 </sp>
-<sp who="MADAME-GUILLAUME"><speaker>MADAME GUILLAUME.</speaker>
+<sp who="MADAME-GUILLAUME"><hstage><speaker>MADAME GUILLAUME</speaker>.</hstage>
 	<l id="388">Ah ! Seigneur, bien ou mal vêtu,</l>
 	<l id="389">Vous occupez le rang suprême ;</l>
 	<l id="390">Votre cœur est toujours le même,</l>

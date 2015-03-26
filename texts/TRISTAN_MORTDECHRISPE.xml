@@ -82,7 +82,7 @@
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1">Doux cruels tyrans de mon âme insensée,</l>
 	<l id="2">Qui mettez, tant de trouble en ma triste pensée.</l>
 	<l id="3">Chères impressions qui causés ma douleur,</l>
@@ -147,20 +147,20 @@
 	<l id="62">Fauste ne peut te faire une faveur plus grande.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Cornélie, Fauste.</head>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Cornélie, Fauste.</cast>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="63" part="i">Madame.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="63" part="f">On a toujours quelque fâcheux propos,</l>
 	<l id="64">Ne peut-on me laisser un moment en repos ?</l>
 	<l id="65">Qu’as-tu donc à me dire ? Et qu’est-ce qu’on demande ?</l>
 	<l id="66">Ton importunité n’en sera pas plus grande.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="67" part="i">Chrispe est à cette porte.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="67" part="f">Ha Chrispe, il peut entrer :</l>
 	<l id="68">Mais suis-je en un état à me pouvoir montrer ?</l>
 	<l id="69">Demeure Cornélie ; ô Dieux ! À cette vue</l>
@@ -169,10 +169,10 @@
 	<l id="72">Retourne, et lui dis que... Mais non ne lui dis rien.</l>
 	<l id="73" part="i">Va donc ; arrête encore.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="73" part="f">Entrera-t-il, Madame ?</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="74">Dis-lui qu’il peut entrer : rassure-toi mon âme,</l>
 	<l id="75">Dissipe promptement cette confusion,</l>
 	<l id="76">J’ai besoin de ta force en cette occasion,</l>
@@ -180,8 +180,8 @@
 	<l id="78">On te voudra ravir, mais tiens-moi compagnie.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Fauste, Chrispe.</head>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Fauste, Chrispe.</cast>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="79">Et bien, jeune César, c’est par votre vertu</l>
 	<l id="80">Que l’empire aujourd’hui voit son Hydre abattu :</l>
 	<l id="81">Vous avez fait cesser nos matières de larmes,</l>
@@ -195,7 +195,7 @@
 	<l id="89">Car de si grands Exploits, et qui dont sans exemples,</l>
 	<l id="90">Ont vraiment mérité des autels et des Temples.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="91">Madame, tout l’honneur de cet heureux destin,</l>
 	<l id="92">Se doit attribuer au sage Constantin ;</l>
 	<l id="93">Pour faire des progrès dont la Terre s’étonne,</l>
@@ -209,22 +209,22 @@
 	<l id="101">Il s’est voulu servir de mon obéissance,</l>
 	<l id="102">Et ses commandements ont fait voir sa puissance.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="103">Ses Ordres font ainsi trembler les révoltés,</l>
 	<l id="104">Quand par un si grand Prince ils sont exécutés :</l>
 	<l id="105">Mais je douterais fort qu’entre les mains d’un autre</l>
 	<l id="106">Ils eussent un succès, qui fut pareil au vôtre.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="107">C’est en continuant les traits de vos bontés.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="108">Je ne vous flatte point, ce sont des vérités.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="109">Votre âme à m’obliger est trop accoutumée.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="110">Je ne parle de vous qu’après la Renommée:</l>
 	<l id="111">Mais contez-moi comment le tout est arrivé,</l>
 	<l id="112">Et de quelle façon Licine s’est sauvé.</l>
@@ -232,7 +232,7 @@
 	<l id="114">Ne vous préparez point à me payer d’excuses,</l>
 	<l id="115">Mon désir curieux ne se doit point trahir.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="116">Puisqu’il vous plaît, Madame, il faut vous obéir.</l>
 	<l id="117">Licine à la campagne exprimait tant d’audace,</l>
 	<l id="118">Qu’il en faisait trembler tous les monts de la Thrace :</l>
@@ -296,18 +296,18 @@
 	<l id="175">Je poussai jusqu’à lui de peur qu’on l’enlevât,</l>
 	<l id="176">Et lui donnai du temps afin qu’il se sauvât.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="177">Quoi ? Pour nos ennemis avoir tant de clémence ?</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="178">Madame, je vous dis la chose en confidence :</l>
 	<l id="179">Et je sais des raisons qui vous feront juger</l>
 	<l id="180">Qu’en cela je commis un crime fort léger.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="181">Un ennemi si grand est toujours redoutable.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="182">Cette dernière chute entièrement l’accable :</l>
 	<l id="183">Que peut-il désormais sans ressource et sans bien</l>
 	<l id="184">Que demander la vie en ne demandant rien ?</l>
@@ -338,17 +338,17 @@
 	<l id="209">Elle vient à vos pieds étaler tous les charmes</l>
 	<l id="210">Qu’une vive douleur mêle en de belles larmes.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="211">On ma dit qu’elle avait quelqu’éclat dans les yeux.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="212">On pourrait l’appeler un chef d’œuvre des cieux.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="213">Ne serait-elle point de ces beautés muettes,</l>
 	<l id="214">Que l’on dirait plutôt moins vives que portraites ?</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="215">Point du tout, son esprit en ses adversités,</l>
 	<l id="216">À l’envi de ses yeux fait briller des clartés :</l>
 	<l id="217">Rien ne peut égaler l’ennui qui la désole,</l>
@@ -358,11 +358,11 @@
 	<l id="221">L’art dont elle s’exprime est un charme agréable</l>
 	<l id="222">Qui rend de sa douleur toute âme inconsolable.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="223">Ceux que nos intérêts touchent sensiblement,</l>
 	<l id="224">S’en pourront consoler assez facilement.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="225">Madame, en peu de temps vous en ferez l’épreuve,</l>
 	<l id="226">Et vous verrez bientôt l’orpheline et la veuve.</l>
 	<l id="227">Dont les illustres cœurs transis et désolés,</l>
@@ -370,11 +370,11 @@
 	<l id="229">Car si peu que le vôtre à leurs maux compatisse,</l>
 	<l id="230">Il peut de Constantin désarmer la justice.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="231">Pourrait-on sans pécher leur être officieux ?</l>
 	<l id="232">Désarmer les vertus, c’est offenser les Dieux.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="233">Les Dieux font bons, Madame, et sont pour leur puissance</l>
 	<l id="234">Moins craints et respectés, qu’aimés pour leur clémence,</l>
 	<l id="235">Les Rois que pour enfants ils daignent adopter,</l>
@@ -382,10 +382,10 @@
 	<l id="237">Ont-ils tant de pouvoir pour être inexorables,</l>
 	<l id="238">Et n’essuyer jamais les pleurs des misérables ?</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="239">Parlez, en leur faveur ; de moi je n’y puis rien,</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="240">Vous pouvez tout, Madame, et vous les savez bien,</l>
 	<l id="241">C’est par vous seulement que l’Empereur respire,</l>
 	<l id="242">Vous êtes le bon ange et l’âme de l’Empire.</l>
@@ -399,21 +399,21 @@
 	<l id="249">Et qui sur ma parole en ce débris funeste,</l>
 	<l id="250">Sondent en vos bontés, tout l’espoir qui leur reste.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="251">Comment ? À vous entendre on dirait qu’aujourd’hui</l>
 	<l id="252">Chrispe n’aurait plus rien à demander pour lui.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="253">Ce bien que je demande avecque tant d’instance,</l>
 	<l id="254">Sera de mes travaux toute la récompense,</l>
 	<l id="255">Et vous m’avancerez par ce trait de pitié</l>
 	<l id="256">Tout ce que m’a promis votre sainte amitié.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="257">Un Prince comme vous, si vaillant et si sage,</l>
 	<l id="258">Ne doit rien demander à son désavantage.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="259">Madame si les miens sont traités doucement,</l>
 	<l id="260">Je fuis la caution de leur ressentiment,</l>
 	<l id="261">Je puis vous assurer que la reconnaissance</l>
@@ -427,20 +427,20 @@
 	<l id="269">Puis ce dernier pardon que demandent nos larmes,</l>
 	<l id="270">Le rendra plus soumis que la force des armes.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="271">La victoire est certaine et cela ne l’est pas:</l>
 	<l id="272">Nous pourrions vous revoir dans de grands embarras,</l>
 	<l id="273">De grands rois tous les jours la Fortune se joue.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="274">La Fortune est changeante, il est vrai, je l’avoue,</l>
 	<l id="275">Mais elle n’a plus lieu de nous mettre en danger,</l>
 	<l id="276">Nous l’empêcherons bien désormais de changer.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="277">Oui bien, si nous savons user de la Victoire.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="278">En saurait-on user avecque plus de gloire ?</l>
 	<l id="279">Par ce trait de douceur, le nom de Constantin</l>
 	<l id="280">S’épandra désormais du couchant au matin ;</l>
@@ -448,10 +448,10 @@
 <note type="L">Lustre : Terme de supputation parmi les Romains : c’est un espace de cinq ans. [F]</note> 
 	<l id="282">Ferez passer le vôtre à plus de mille lustres.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="283">Vous voulez me séduire avec ses vanités.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="284">Ces honneurs sont certains, ce sont des vérités,</l>
 <note type="L">Nue : On dit qu’on exalte quelqu’un par dessus la nue ; quand on le loue hyperboliquement. On dit aussi qu’un poète, qu’un orateur, s’élèvent au dessus des nues ; quand ils ont un style élevé, des pensées sublimes. [F]</note>
 	<l id="285">Pour faire que vos noms s’élèvent sur la nue,</l>
@@ -471,25 +471,25 @@
 	<l id="299">Qui fera redevable envers votre bonté</l>
 	<l id="300">De l’honneur et du bien, comme de la clarté ?</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="301">Allez, sur cette affaire il faut que je m’emploie.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="302">Ô que cette faveur me va donner de joie !</l>
 	<l id="303">Que vous m’obligerez servant ces malheureux !</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="304">Je ferai tout pour vous, et rien pour l’amour d’eux.</l>
 	<l id="305">Mon esprit n’agira que par votre prière.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="306">Et bien, je prends sur moi la dette toute entière.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="307">Fauste, à quoi te résoudras-tu ?</l>
 	<l id="308">Entre l’amour et la vertu</l>
 	<l id="309">Qui tiennent aujourd’hui ton âme balancée ?</l>
@@ -575,28 +575,28 @@
 	<l id="378">Ma flamme sera grande et se maintiendra pure.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCENE II. Faust, Cornelie.</head>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<div2 type="scene" n="2"><head>SCENE II.</head><cast>Faust, Cornelie.</cast>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="379">Madame, vos soupçons ne sont pas mal conçus,</l>
 	<l id="380">On vient de m’informer pleinement là-dessus ;</l>
 	<l id="381">Christe brûle d’amour pour la jeune Constance,</l>
 	<l id="382">Et même leurs esprits sont en intelligence.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="383">Quoi ! Chrispe aime Constance ? Et l’on s’en aperçoit ?</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="384">Il lui rend tous les jours des soins qu’elle reçoit.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="385">Croit-il innocemment que Constantin l’endure ?</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="386">L’étroite parenté leur sert de couverture :</l>
 	<l id="387">Visitant la Princesse en cette adversité</l>
 	<l id="388">Son amour peut passer pour générosité.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="389">Nous lèverons le masque à sa trompeuse flamme :</l>
 	<l id="390">Nom saurons éclairer jusqu’au fonds de son âme,</l>
 	<l id="391">Et nous lui ferons voir, s’il prétend s’échapper,</l>
@@ -607,18 +607,18 @@
 	<l id="396">D’un monstre furieux que nous avons dompté ?</l>
 	<l id="397">Qui t’a donc apporté cette belle nouvelle ?</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="398">Léonce mon neveu qui suit Chrispe chez elle,</l>
 	<l id="399">Et qui va de sa part enchanter ses ennuis,</l>
 	<l id="400">Lui portant les matins ou des fleurs, ou des fruits,</l>
 	<l id="401">Et qui l’a vu soutient aux pieds de cette belle</l>
 	<l id="402">Mêler ses pleurs aux siens, et se plaindre avec elle.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="403">Puisque sur ton parent tu prends tant de pouvoir,</l>
 	<l id="404">Fais qu’il t’apprenne tout et me fais tout savoir.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="405">Lorsque je suis entrée, il me venait d’apprendre</l>
 	<l id="406">Que ce couple d’amants ici se venait rendre,</l>
 	<l id="407">À dessein de vous voir, et vous solliciter</l>
@@ -626,7 +626,7 @@
 	<l id="409">Et sans doute aujourd’hui que le Conseil s’assemble,</l>
 	<l id="410">Après vous avoir vue, ils viendront ensemble.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="411">Ils n’ont pas mis encor mon esprit à leur point,</l>
 	<l id="412">Je les servirai fort, je n’y manquerai point.</l>
 	<l id="413">Il aurait toutefois à combattre l’orage,</l>
@@ -635,8 +635,8 @@
 	<l id="416">Ils ont mal pris leur temps, ils ne me verront pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Chrispe, Constance.</head>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Chrispe, Constance.</cast>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="417">Je vous le jure encore, ô ma belle parente,</l>
 <note type="L">Fortune : Terme du polythéisme gréco-romain. Divinité qui présidait aux hasards de la vie. Le temple de la Fortune. Les anciens représentaient la Fortune sous forme d’une femme, tantôt assise et tantôt debout, ayant un gouvernail, avec une roue à côté d’elle, pour marquer son inconstance, et tenant dans sa main une corne d’abondance. [L]</note>
 	<l id="418">Que je raffermirai votre fortune errante,</l>
@@ -670,7 +670,7 @@
 	<l id="446">Elle est à vous servir à peu près disposée,</l>
 	<l id="447">Et nous mettrons bientôt la chose au dernier point.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="448">Seigneur, en cet espoir ne vous trompez vous point ?</l>
 	<l id="449">J’ai connu dans ses yeux une secrète haine</l>
 	<l id="450">Qui rejetait ma plainte, et me souffrait à peine,</l>
@@ -678,49 +678,49 @@
 	<l id="452">Qu’elle ne prenait point de plaisir à me voir ;</l>
 	<l id="453">J’ai peur d’en recevoir quelque mauvais visage.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="454">Madame, sans sujet vous prenez cet ombrage.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="455">Son orgueil me pourrait traiter de haut en bas,</l>
 	<l id="456">Et je suis d’une humeur à ne le souffrir pas :</l>
 	<l id="457">Car bien que j’eusse en tête une forte partie,</l>
 	<l id="458">À peine un trait piquant serait sans répartie.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="459">Vouloir d’une affligée accroître la douleur ?</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="460">On appréhende tout étant dans le malheur.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="461">Pour avoir ces pensers Fauste est trop généreuse.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="462">Constance pour tout craindre est assez malheureuse,</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="463">Madame, votre peur vous le fait figurer.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="464">Seigneur, votre désir vous fait tout espérer.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="465">Mais on vient de sa part nous dire quelque chose.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Constance, Chrispe, Cornélie.</head>
-<sp who="CONSTANCE"><speaker>CORNÉLIE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Constance, Chrispe, Cornélie.</cast>
+<sp who="CONSTANCE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 <note type="L">Cabinet : Le lieu le plus retiré dans le plus bel appartement des Palais, des grandes maisons. Signifie aussi une pièce d’appartement, où l’on étudie, où l’on se séquestre du reste du monde, et où l’on serre ce qu’on a de plus précieux. [F]</note>
 	<l id="466">Seigneur, l’Impératrice au Cabinet repose ;</l>
 	<l id="467">Un grand mal sur le champ vient de la travailler.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="468">Nous n’entrerons donc pas de peur de l’éveiller.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Constance, Chrispe.</head>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Constance, Chrispe.</cast>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="469">Hé bien, Seigneur, hé bien ? Où sont vos espérances ?</l>
 	<l id="470">Direz-vous que j’ai vu de fausses apparences ?</l>
 	<l id="471">J’ai fait un jugement dont vos sens font témoins ;</l>
@@ -732,42 +732,42 @@
 	<l id="477">Je ne pourrai sortir d’un sort si déplorable.</l>
 	<l id="478">Vous ne fléchirez point cette âme inexorable.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="479">Pour ce trait de malheur ne nous rebutons pas,</l>
 	<l id="480">Un astre plus heureux y conduira nos pas ;</l>
 	<l id="481">Et lorsque sa santé sera mieux affermie,</l>
 	<l id="482">Nom pourrons par nos soins fléchir cette ennemie.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="483">Il sera malaisé de pouvoir l’adoucir,</l>
 	<l id="484">Seigneur, c’est un dessein qui ne peut réussir.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="485">Ne désespérons pas de notre destinée.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="486">Sa haine pour Constance est trop enracinée.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="487">Qui rendrait contre vous ces esprits animés ?</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="488">Je crois qu’elle me hait parce que vous m’aimez.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="489">S’il était véritable, ô charmante princesse,</l>
 	<l id="490">Sa haine contre vous, n’aurait jamais de cesse,</l>
 	<l id="491">Puisque qu’étant embrasé pour un objet si beau,</l>
 	<l id="492">J’ai fait vou de l’aimer jusques dans le tombeau.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="493">Durant le peu de temps que vous m’y présentâtes</l>
 	<l id="494">Elle pâlit toujours quand vous me regardâtes ;</l>
 	<l id="495">Fut toujours inquiète, et fit assez juger</l>
 	<l id="496">Que me servir ainsi n’était pas l’obliger ;</l>
 	<l id="497" part="i">D’où peut venir cela ?</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="497" part="f">C’est qu’elle est glorieuse</l>
 	<l id="498">Pleine de vanité, hautaine, impérieuse,</l>
 	<l id="499">Et quelle s’imagine ayant l’autorité</l>
@@ -783,23 +783,23 @@
 	<l id="509">Quand on l’obséderait, je romprais tous ces charmes</l>
 	<l id="510">Si j’avais devant lui répandu quelques larmes.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="511">Acheter à ce prix la fin de nos malheurs ?</l>
 	<l id="512">Ce serait trop, Seigneur, il vous coûtait des pleurs :</l>
 	<l id="513">Il se contentera des miens qui sont vulgaires,</l>
 	<l id="514">Il plaît à mon malheur qu’ils ne me coûtent guère.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="515">Dieux ! Mais préparons nous, Constantin va passer,</l>
 	<l id="516">Il serait à propos encor de le presser,</l>
 	<l id="517">Il faudrait sur le champ lui faire une harangue.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="518">Ô sainte Piété, viens inspirer ma langue.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Constance, Constantin, Chrispe.</head>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Constance, Constantin, Chrispe.</cast>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="519">Nos importunités, plaisent aux Immortels</l>
 	<l id="520">Lorsque nos voux pressants assiègent leurs autels ;</l>
 	<l id="521">Parce que cet effort marquant notre espérance,</l>
@@ -835,7 +835,7 @@
 	<l id="551">Elle que ses ennuis, ou la fin du malheur</l>
 	<l id="552">S’en vont faire mourir de joie ou de douleur.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="553">À ma nièce, cessez ; je ne puis vous entendre ;</l>
 	<l id="554">À l’objet de vos pleurs je me trouve trop tendre,</l>
 	<l id="555">Mais je suis endurci pour ce père inhumain,</l>
@@ -864,41 +864,41 @@
 	<l id="577">J’aurai seul désormais la puissance absolue ;</l>
 	<l id="578">Qu’on ne m’en parle plus, la chose est résolue.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="579" part="i">Seigneur, considérez...</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="579" part="f">C’est en vain battre l’air.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="580">Retirez-vous, Madame, et me laissez parler.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VIII. Constantin, Chrispe.</head>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VIII.</head><cast>Constantin, Chrispe.</cast>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="581" part="i">C’en est fait, C’en est fait.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="581" part="f">Quoi, Seigneur, point de grâce ?</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="582">Tu veux en m’exposant que je la satisfasse ?</l>
 	<l id="583">Pour un fils bien-aimé c’est trop peu me chérir.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="584">Moi ? T’exposer ? Seigneur ? J’aimerais mieux mourir.</l>
 	<l id="585">Je ne pourrais ici te parler de Clémence</l>
 	<l id="586">Si tu ne l’exerçais avec toute assurance :</l>
 	<l id="587">Et tu connaîtrais bien, s’il te plaît m’écouter,</l>
 	<l id="588">Que ton autorité n’a rien à redouter.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="589">Parle donc, et m’en donne une raison bien ample,</l>
 	<l id="590">Apprends-moi pour le moins à faillir par exemple :</l>
 	<l id="591">Cherche dans notre siècle, ou dans l’Antiquité</l>
 	<l id="592">Un trait si favorable à la témérité.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 <note type="C">Jean Racine traita précisément ce sujet dans la tragédie nommé « Alexandre le Grand » représentée pour la première fois le 4 décembre par le troupe de Molière au Théâtre du Palais-Royal.</note>
 	<l id="593">Alexandre vainquit un Prince de l’Indie</l>
 	<l id="594">Qui pour l’oser combattre eut l’âme bien hardie.</l>
@@ -929,7 +929,7 @@
 	<l id="619">Mais garde que ta gloire aille du même rang,</l>
 	<l id="620">Tu pourras la tâcher en répandant ton sang.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="621">Que de maux apparents mêlés en ta requête !</l>
 	<l id="622">Elle remet mon sort du calme à la tempête&gt;</l>
 	<l id="623">Me retire du port pour m’en rendre éloigné,</l>
@@ -945,7 +945,7 @@
 	<l id="633">Afin qu’elle guérisse, et qu’essuyant ses larmes</l>
 	<l id="634">Elle bénisse encor la douceur de mes armes.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="635">Ô Père le meilleur d’entre tous les humains,</l>
 	<l id="636">Souffrez pour ce bienfait que je baise vos mains ?</l>
 	<l id="637">Quoi, répondre, Seigneur; à ma secrète envie,</l>
@@ -953,7 +953,7 @@
 	<l id="639">Mon plus ardent souhait, et mon sort le plus doux.</l>
 	<l id="640">C’est de pouvoir un jour la prodiguer pour vous.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="641">Je sais bien que mon fils m’aime avec tendresse,</l>
 	<l id="642">Mais il faut qu’on se serve ici de quelque adresse,</l>
 	<l id="643">Fauste pour t’obliger m’a parlé d’un pardon,</l>
@@ -966,8 +966,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Constantin, Lactance.</head>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Constantin, Lactance.</cast>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="649">Toi qui me fus donné pour mon soulagement</l>
 	<l id="650">Esprit où la doctrine est joint au jugement,</l>
 	<l id="651">Et mêlant au savoir une admirable adresse,</l>
@@ -978,10 +978,10 @@
 	<l id="656">Et quelle s’adoucisse au miel de ta parole/</l>
 	<l id="657" part="i">Ah !</l>
 </sp>
-<sp who="LACTANCE"><speaker>LACTANCE.</speaker>
+<sp who="LACTANCE"><hstage><speaker>LACTANCE</speaker>.</hstage>
 	<l id="657" part="f">Qu’avez-vous, Seigneur, qui vous fait soupirer ?</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="658">J’ai ce que sans frémir je ne puis déclarer :</l>
 	<l id="659">Je n’aperçois partout que de tristes présages</l>
 	<l id="660">Qui de l’ire du Ciel m’apportent les messages ;</l>
@@ -995,10 +995,10 @@
 	<l id="668">Et d’un aboi plaintif m’imprime sa tristesse :</l>
 	<l id="669">Puis je suis effrayé d’un songe que j’ai fait.</l>
 </sp>
-<sp who="LACTANCE"><speaker>LACTANCE.</speaker>
+<sp who="LACTANCE"><hstage><speaker>LACTANCE</speaker>.</hstage>
 	<l id="670">Ces augures parfois ne sont pas sans effet.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="671">Il m’a semblé la nuit qu’achevant la campagne</l>
 	<l id="672">Encor tout fatigué des exploits d’Allemagne,</l>
 	<l id="673">Je voulais reposer dessus des gazons verts</l>
@@ -1032,7 +1032,7 @@
 	<l id="701">J’en répandis des pleurs, j’en poussai des soupirs,</l>
 	<l id="702">Et vins à m’éveiller dans ces grands déplaisirs.</l>
 </sp>
-<sp who="LACTANCE"><speaker>LACTANCE.</speaker>
+<sp who="LACTANCE"><hstage><speaker>LACTANCE</speaker>.</hstage>
 	<l id="703">Ce songe est effroyable, et j’en ai fait un autre</l>
 	<l id="704">D’aussi mauvais présage, et qui répond au vôtre :</l>
 	<l id="705">Chrispe sans doute est l’aigle ardente à vous servir,</l>
@@ -1072,7 +1072,7 @@
 	<l id="739">Conservez, ce héros qui marchant sur vos traces.</l>
 	<l id="740">N’a son doux élément que dans vos bonnes grâces.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="741">Tous mes autres enfants me sont beaucoup moins chers,</l>
 	<l id="742">J’en atteste le Ciel, et le Dieu que je sers :</l>
 	<l id="743">Mais par où puis-je faire une perte si grande ?</l>
@@ -1080,7 +1080,7 @@
 	<l id="745">En l’état où je suis, Chrispe est hors des hasards,</l>
 	<l id="746">Sa vie est à l’abri des piques et des dards.</l>
 </sp>
-<sp who="LACTANCE"><speaker>LACTANCE.</speaker>
+<sp who="LACTANCE"><hstage><speaker>LACTANCE</speaker>.</hstage>
 <note type="L">Bellone : dieu qui personnifie la guerre et accompagne Mars.</note>
 	<l id="747">Il est en sûreté des dangers dont Bellone</l>
 	<l id="748">Pourrait au champ de Mars menacer sa personne ;</l>
@@ -1095,13 +1095,13 @@
 	<l id="757">Et si cet arbrisseau se trouvait arraché,</l>
 	<l id="758">Celui qui le dressa serait bientôt séché.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="759">Chrispe est en sûreté, jamais nul artifice,</l>
 	<l id="760">Ni... Mais éloigne-toi voici l’Impératrice.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Fauste, Constantin.</head>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Fauste, Constantin.</cast>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="761">Seigneur, vous rendrez-vous à l’importunité</l>
 	<l id="762">Oui veut qu’on vous offense avec impunité,</l>
 	<l id="763">Et que pardonnant tout par une fausse gloire</l>
@@ -1113,7 +1113,7 @@
 	<l id="769">Il faut remettre encor le harnais sur le dos,</l>
 	<l id="770">Et ne goûter jamais un moment de repos.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="771">Ce discours me rejette en une peine extrême,</l>
 	<l id="772">Il est embarrassant et contraire à soi-même,</l>
 	<l id="773">C’est vouloir une chose, et ne la vouloir pas,</l>
@@ -1123,7 +1123,7 @@
 	<l id="777">Pourquoi me parliez-vous de leur donner la paix ?</l>
 	<l id="778">N’êtes-vous plus d’accord avecque vos souhaits ?</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="779">Seigneur, le plus souvent la première pensée</l>
 	<l id="780">Dans le meilleur esprit n’est pas la plus sensée ;</l>
 	<l id="781">Quoi qu’elle semble bonne à force d’y songer,</l>
@@ -1139,20 +1139,20 @@
 	<l id="790">Non plus en Empereur, mais en homme privé :</l>
 	<l id="791">C’est tout ce que de vous il se devait promettre.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="792">Il faut entièrement le perdre ou le remettre ;</l>
 	<l id="793">La gloire me défend de faire rien de bas,</l>
 	<l id="794">Pardonner à demi, c’est ne pardonner pas.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="795">J’aimerais mieux aux miens assurer la Couronne,</l>
 	<l id="796">Punissant un tyran qui jamais ne pardonne.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="797">Notre Chrispe s’oppose à ses derniers malheurs,</l>
 	<l id="798">Et pour la parenté me conjure avec pleurs.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="799">Chrispe est comme un enfant qui voit un fer reluire,</l>
 	<l id="800">Et qui le veut avoir quoi qu’il lui puisse nuire ;</l>
 	<l id="801">Mais on doit sagement combattre son désir,</l>
@@ -1164,22 +1164,22 @@
 	<l id="807">Et comme il tient de vous la lumière et la vie,</l>
 	<l id="808">C’est à vous qu’appartient de régler son envie.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="809">Sans l’avis du Conseil nous n’en résoudrons rien.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="810">Conseillez-vous en donc avec des gens de bien.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Fauste, Cornélie.	</head>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Fauste, Cornélie.	</cast>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="811">Ah ! Cette cruauté me perce jusqu’à l’âme,</l>
 	<l id="812" part="i">Est-il rien de pareil ?</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="812" part="f">Ne pleurez point, Madame,</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="813">Ah ! Ce trait de rigueur me blesse au dernier point :</l>
 	<l id="814">Et tu me dis encor que je ne pleure point ;</l>
 	<l id="815">Ne vois-tu pas que Chrispe en faveur de Constance,</l>
@@ -1199,10 +1199,10 @@
 	<l id="829">Se met dedans les fers pour nous mieux oppresser,</l>
 	<l id="830">Et lui-même se tue afin de nous blesser ?</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="831" part="i">On ouvre, j’oi du bruit.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="831" part="f">Ah ! Mon trouble est extrême,</l>
 	<l id="832">Que je le haiS, grands Dieux, ou plutôt que je l’aime</l>
 	<l id="833">Que n’ai-je des appas à changer son dessein ?</l>
@@ -1213,8 +1213,8 @@
 	<l id="838">Mais, j’ai besoin de toi, ne te retire pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Fauste, Chrispe, Cornélie.</head>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Fauste, Chrispe, Cornélie.</cast>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="839">Chrispe dont l’univers fait ses chères délices,</l>
 	<l id="840">Faut-il pour qui vous aime inventer des supplices ?</l>
 	<l id="841">Faut-il qu’un si grand Prince et si considéré</l>
@@ -1229,27 +1229,27 @@
 	<l id="849">Et tout ce qui du Ciel attire le courroux,</l>
 	<l id="850">A plus de retenue, et de bonté que vous.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="851" part="i">Moi, Madame, et comment ?</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="851" part="f">Aussi je vous déteste</l>
 	<l id="852">Beaucoup plus que la mort, beaucoup moins que la peste ;</l>
 	<l id="853">J’ai plus d’horreur de vous que des feux, que des fers,</l>
 	<l id="854">Et de tous les serpents qui rampent aux enfers.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="855">Quelle en est la raison, veuillez donc me l’apprendre.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="856">Ah ! Ne me parlez plus, je ne puis vous entendre,</l>
 	<l id="857">N’aurai-je point le bien que l’on me laisse en paix ?</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="858">Puis qu’il vous plaît ainsi, Madame, je m’en vais,</l>
 	<l id="859">Mais je ne pense pas vous avoir offensée.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="860">Ah ! Chrispe, revenez, ma colère est passée :</l>
 	<l id="861">Et quelque procédé qui me doive toucher</l>
 	<l id="862">Je ne dirai plus rien qui vous puisse fâcher.</l>
@@ -1259,34 +1259,34 @@
 	<l id="866">De toutes les faveurs que l’on peut espérer,</l>
 	<l id="867">Pourvu que par serment votre âme enfin s’engage.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="868" part="i">À quoi?</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="868" part="f">C’est—... je ne puis en dire davantage,</l>
 	<l id="869">Il m’a pris tout à coup des éblouissements ;</l>
 	<l id="870">Voilà qui vous dira quels font mes sentiments ?</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="871" part="i">Madame.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="871" part="f">Cornélie, achevez de lui dire,</l>
 	<l id="872">Cette incommodité veut que je me retire.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Cornélie, Chrispe.</head>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Cornélie, Chrispe.</cast>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="873" part="i">•Quelle peine ô grands Dieux ?</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="873" part="f">Dites, je vous attends :</l>
 	<l id="874">Mais je ne puis ici perdre beaucoup de temps.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="875" part="i">Seigneur...</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="875" part="f">Vit-on jamais une telle merveille ?</l>
 	<l id="876">Je ne sais si je dors, je ne sais si je veille :</l>
 	<l id="877">Vois-je des yeux de l’âme on bien de ceux du corps,</l>
@@ -1296,17 +1296,17 @@
 	<l id="881">Et m’ayant protesté que tout est pour mon bien,</l>
 	<l id="882">On me dit que j’écoute et l’on ne me dit rien.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="883">Seigneur, vous savez bien les excès de tendresse</l>
 	<l id="884">Qu’a toujours eu pour vous cette grande Princesse ;</l>
 	<l id="885">C’est pourquoi votre esprit se devrait détacher</l>
 	<l id="886">De tous les procédés qui la peuvent fâcher :</l>
 	<l id="887">Voila ce qui la trouble et dont elle est touchée.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="888">Mais sachons, Cornélie, en quoi je l’ai fâchée.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="889">C’est que possible elle a des déplaisirs secrets,</l>
 	<l id="890">De ce que vous méfiant en d’autres intérêts,</l>
 	<l id="891">Bien loin de retrancher le mal par sa racine,</l>
@@ -1314,7 +1314,7 @@
 	<l id="893">Elle n’en vent point voir relever la maison ;</l>
 	<l id="894">De ce nouveau dépit c’est toute la raison.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="895">Ah ! Ce n’est point cela ; cette grande saillie</l>
 	<l id="896">Vient d’un autre motif, dites tout, Cornélie :</l>
 	<l id="897">Cet esprit qui s’emporte en ce dérèglement,</l>
@@ -1324,7 +1324,7 @@
 	<l id="901">Vous devriez satisfaire à son commandement,</l>
 	<l id="902">Et me dire la chose un peu plus clairement.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="903">L’ordre que j’ai reçu, Seigneur, c’est de vous dire</l>
 	<l id="904">Qu’il ne tiendra qu’à vous de gouverner l’Empire ;</l>
 	<l id="905">Admirant aujourd’hui vos exploits triomphant,</l>
@@ -1336,7 +1336,7 @@
 	<l id="911">Il faut abandonner toute cette famille,</l>
 	<l id="912">Et ne voir jamais plus Constance, ni sa fille.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="913">Constance ni sa fille ! Ô trait injurieux !</l>
 	<l id="914">Je les verrai toujours tant que j’aurai des yeux.</l>
 	<l id="915">Comment, elle veut donc que dans cette aventure</l>
@@ -1364,33 +1364,33 @@
 	<l id="937">Seigneur, dispensez-moi de faire ce rapport,</l>
 	<l id="938">Fâchant l’Impératrice, il peut vous faire tort.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="939">Elle m’en fait assez alors qu’elle s’attache</l>
 	<l id="940">À mettre sur ma gloire une éternelle tâche :</l>
 	<l id="941">Dites-lui, dites-lui, qu’il n’en faut plus parler,</l>
 	<l id="942">Mon cour est un rocher qu’un ne peut ébranler.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Cornélie, Fauste.</head>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Cornélie, Fauste.</cast>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="943">Je ne porterai point ces mauvaises nouvelles,</l>
 	<l id="944">Son discours m’a laissé dans des transes mortelles,</l>
 	<l id="945" part="i">Madame !</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="945" part="m">Cornélie, et bien ?</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="945" part="f">C’est temps perdu.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="946">J’étais en cet endroit d’où j’ai tout entendu ;</l>
 	<l id="947">Qu’il est audacieux et qu’il est téméraire.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="948" part="i">Il s’emporte un peu trop.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="948" part="f">Je ris de sa colère,</l>
 	<l id="949">Il faut qu’elle se passe, il faut qu’humilié</l>
 	<l id="950">Il me vienne prier que tout soit oublié.</l>
@@ -1413,17 +1413,17 @@
 	<l id="967">Je veux à mes enfants laisser l’État tranquille,</l>
 	<l id="968">Et dompter hautement ce lion indocile.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="969">Madame, c’est un joug qu’à peine il recevra.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="970">Je l’y forcerai bien, s’il ne plie il rompra,</l>
 	<l id="971">Il quittera l’Empire, ou changera de flamme.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="972" part="i">Mais il est Fils d’Auguste.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="972" part="f">Et moi j’en suis la femme,</l>
 	<l id="973">Et nous verrons bientôt, s’il me veut mettre au pis,</l>
 	<l id="974">Lequel l’emportera de la femme, on du fils.</l>
@@ -1431,67 +1431,67 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Constantin, Fauste.</head>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Constantin, Fauste.</cast>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="975">Quoi je ne saurai point d’où cette humeur procède ?</l>
 	<l id="976">L’ennui qui vous afflige, est-ce un mal sans remède ?</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="977">C’est un mal pour le moins à guérir mal aisé ?</l>
 	<l id="978">Puisque même d’Auguste il est autorisé,</l>
 	<l id="979">C’est un mal qui se forme, et qui venant a croître ?</l>
 	<l id="980">Pourra faire périr ceux qui l’auront fait naître.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="981">La prière de Chrispe en est le fondement.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="982">L’indulgence d’Auguste en fait l’accroissement.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="983">Ce mal n’est pas si grand que Fauste se figure.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="984">Puisse l’événement tromper ma conjecture.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="985" part="i">Mais qu’appréhendez-vous ?</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="985" part="f">Des malheurs infinis,</l>
 	<l id="986">Vos peuples revoltés, vos enfants désunis ;</l>
 	<l id="987">Une guerre civile, un trouble épouvantable,</l>
 	<l id="988">Mille changements, un destin lamentable.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="989">Nous saurons détourner un si funeste sort.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="990">Oui tant que vous vivrez mais après votre mort ?</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="991">Chrispe prendra toujours l’intérêt de son frère•.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="992">Je crains avec raison qu’il fasse le contraire.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="993">Et sur quel fondement craignez-vous ce danger ?</l>
 	<l id="994" part="i">Chrispe est-il si méchant ?</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="994" part="f">Non, mais il peut changer.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="995">On voit fort peu changer des âmes si bien nées.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="996">Si l’a-t-on vu changer en fort peu de journées.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="997">Je ne m’aperçois point d’un si grand changement.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="998">La Cour avec regret fait ce discernement.</l>
 	<l id="999">Chrispe nous honorait avant que la victoire</l>
 	<l id="1000">Eut éclairé son front des rayons de le Gloire,</l>
@@ -1513,16 +1513,16 @@
 	<l id="1016">Qu’il est maître absolu de nous et de l’Empire,</l>
 	<l id="1017">Et qu’il se hâtera de nous fermer les yeux.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="1018">Fut-il maître de tout, il nous traiterait mieux.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="1019">L’ambition rendrait son âme inexorable.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="1020">Fauste, sa piété nous serait favorable.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1021">Jamais la piété ne peut accompagner</l>
 	<l id="1022">Un cœur préoccupé du dessein de régner,</l>
 	<l id="1023">Car l’avide désir de prendre une couronne</l>
@@ -1538,18 +1538,18 @@
 	<l id="1033">Licine aura bientôt suborné son esprit</l>
 	<l id="1034">Pour lui faire achever le coup qu’il entrepris</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="1035">Ce n’est pas un parti qu’il faille qu’il embrasse ;</l>
 	<l id="1036">Par quel raisonnement jugez-vous qu’il y passe ?</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1037">Par l’amour qui le pousse à le voir refabli,</l>
 	<l id="1038">Et fait que pour Constiance il m’est tout en oubli.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="1039">Quoi, Chrispe est-il touché de la jeune Constance ?</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1040">Pour elle toute seule il vous fait cette instance.</l>
 	<l id="1041">Si le bandeau d’amour ne lui couvrait les yeux</l>
 	<l id="1042">Il verrait sous des fleurs un serpent furieux ;</l>
@@ -1575,7 +1575,7 @@
 	<l id="1061">Et sans leur prompt secours je ne puis éviter</l>
 	<l id="1062">Les maux où le Destin me va précipiter.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="1063">Ah ! Ne vous troublez point de ces grandes alarmes</l>
 	<l id="1064">Mon cour pénétré par le cours de vos larmes :</l>
 	<l id="1065">De tout autre intérêt vos pleurs m’ont détaché,</l>
@@ -1588,7 +1588,7 @@
 	<l id="1072">Soyez toujours se mère, et jamais sa marâtre</l> 
 	<l id="1073">Ne lui retranchez rien de votre affection.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1074">Seigneur, laissez moi faire en cette occasion,</l>
 	<l id="1075">Je tiens qu’il faut un peu lui tenir la main haute,</l>
 	<l id="1076">Afin que son esprit reconnaisse sa faute,</l>
@@ -1596,8 +1596,8 @@
 	<l id="1078">S’étant si bien trouvé de les avoir suivis.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Chrispe, Fauste.</head>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Chrispe, Fauste.</cast>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="1079">Je viens de vous rendre grâce ô divine princesse</l>
 	<l id="1080">D’avoir fait que des miens enfin la crainte cesse :</l>
 	<l id="1081">Votre esprit balançant la pitié de mes pleurs,</l>
@@ -1605,79 +1605,79 @@
 	<l id="1083">Encor qu’il s’y portât avec quelque répugnance,</l>
 	<l id="1084">A fait à la rigueur succéder la clémence.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1085">À quoi tend ce discours confus et mal tissu ?</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="1086">À vous remercier d’un bien que j’ai reçu :</l>
 	<l id="1087">Car bien que Constantin m’aime, et me considère,</l>
 	<l id="1088">J’avais besoin de vous pour fléchir ce bon père,</l>
 	<l id="1089">Vous seule avez sauvé Licine du trépas.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1090">Lui sauvé ? Point du tout, ne vous abusez pas.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="1091">Un Courrier dépêché porte cette houueUe.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1092">Cette nouvelle est fausse, il faut qu’on le rappelle.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="1093">Licine l’apprendra comme une vérité.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1094">Il peut la recevoir comme un conte inventé.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="1095">Assez distinctement on me l’a fait entendre.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1096">Quelqu’un par ce discours vous a voulu surprendre.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="1097">L’Empereur me l’a dit avec tant de bonté.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1098">L’Empereur vous l’a dit ? Il s’est fort méconté :</l>
 	<l id="1099">Il n’y pensait donc pas ; c’est par quelque surprise ;</l>
 	<l id="1100">S’il s’abuse si fort, il faut qu’il se ravise.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="1101">J’attends de sa promesse un effet bien certain.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1102">Si c’est là votre espoir, vous espérez en vain.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="1103">On peut sur sa parole encore plus prétendre.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1104">En cette occasion l’on en doit rien attendre.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 <note type="L">Pléger : Cautionner en justice, répondre pour quelqu’un, et s’obliger de payer le jugé.</note>
 	<l id="1105">L’Honneur plégeant sa foi, m’assure sur ce point.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1106">Moi, je suis caution qu’il ne le fera point.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="1107">J’en vais tout de ce pas rafraîchir sa mémoire.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1108">C’est une illusion que vous lui ferez croire.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="1109">Je sais par quels serments il s’y trouve obligé.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1110">L’intérêt de l’en rend désengagé.</l>
 </sp>
-<sp who="CHRISPE"><speaker>CHRISPE.</speaker>
+<sp who="CHRISPE"><hstage><speaker>CHRISPE</speaker>.</hstage>
 	<l id="1111" part="i">Nous verrons.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1111" part="f">Voyez donc... As-tu vu, Cornélie,</l>
 	<l id="1112">Quelle confusion succède à sa folie ?</l>
 	<l id="1113">Il pourra discerner d’un jugement plus sain</l>
@@ -1685,18 +1685,18 @@
 	<l id="1115">Ici son insolence est un peu réprimée,</l>
 	<l id="1116">Assez, hautainement je me suis exprimée.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 <note type="C">Dans l’édition originale Cornélie n’est pas dans la liste des personnage en tête de la scène.</note>
 	<l id="1117">En vous parlant, Madame, il semblait tout transi.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1118">Constance est absente, il n’étoit pas ici,</l>
 	<l id="1119">Ce n’est que la moitié d’un tout qui m’est funeste,</l>
 	<l id="1120">Ce n’en est qu’une part, mais en voici le reste.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Constance, Fauste.</head>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Constance, Fauste.</cast>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="1121">Je ne viens plus, Madame, avec de tièdes pleurs</l>
 	<l id="1122">Vous demander la fin de nos longues douleurs ;</l>
 	<l id="1123">Avec un teint plus gai je dois vous rendre grâces</l>
@@ -1706,44 +1706,44 @@
 	<l id="1127">Car ces rares bontés adoucissant les choses</l>
 	<l id="1128">S’en vont bientôt changer nos épines en roses.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1129">Encor que vos destins soient si bien disposez,</l>
 	<l id="1130">Vous n’aurez, pas les fleurs que vous vous proposez.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="1131">Tous les voux que je forme en mon âme craintive</l>
 	<l id="1132">Sont que la haine meure et que mon père vive,</l>
 	<l id="1133">Que jamais la Discorde et le trouble mutin</l>
 	<l id="1134">N’éloigne ses désirs de ceux de Constantin ;</l>
 	<l id="1135">Bref qu’en leur union la paix soit infinie.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1136">Mais vous à quel objet voulez-vous être unie ?</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="1137">Moi Madame ? À l’honneur comme à vos intérêts,</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1138">Point, point, nous avons su quelqu’un de vos secrets.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="1139">Je n’ai point de secrets qu’il faille que je cache,</l>
 	<l id="1140">Ils sont fort innocents je veux bien qu’on les sache.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1141">Quoi que vous les cachiez ils sont fort apparents,</l>
 	<l id="1142">Vous travaillez pour vous plus que pour vos parents :</l>
 	<l id="1143">Prenant un soin pour eux, vous en avez un autre,</l>
 	<l id="1144">D’abattre une maison pour agrandir la vôtre.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="1145" part="i">D’abattre une maison ?</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1145" part="f">Oui, oui, mais c’est en vain.</l>
 	<l id="1146">Nous ferons hautement avorter ce dessein.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="1147">Madame, ces effets d’une haine visible</l>
 	<l id="1148">Sont encore des traits d’un malheur invincible,</l>
 	<l id="1149">Qui par notre constance a semblé s’irriter</l>
@@ -1751,7 +1751,7 @@
 	<l id="1151">Il faut, sans murmurer, souffrir sa violence,</l>
 	<l id="1152">Puisque votre pouvoir nous impose silence.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1153">Que peut-on à cela vous répondre, sinon</l>
 	<l id="1154">Qu’il nous est bien aise de porter votre nom :</l>
 	<l id="1155">Puisque dansée succès, il est vrai que Constance</l>
@@ -1771,101 +1771,101 @@
 	<l id="1169">Quoi ? Du nom de malheur ce succès, appeler ?</l>
 	<l id="1170">De semblables malheurs on se peut consoler.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="1171">Madame, à ce discours je ne puis rien entendre.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1172">Auguste et le conseil l’ont fort bien su comprendre ;</l>
 	<l id="1173">Chrispe vous rend des soins et vous fait les doux yeux,</l>
 	<l id="1174">Vous obsède à toute heure et vous fuite en tous lieux ;</l>
 	<l id="1175">Il vous promet beaucoup, mais sachez qu’il se moque.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="1176">S’il se moque de moi, la chose est réciproque.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1177" part="i">En pouvez-•vous douter ?</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="1177" part="f">Je n’en ai feint de peur.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1178" part="i">Il est asseez adroit.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="1178" part="f">Mais il n’est point trompeur.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1179" part="i">Il tient un rang bien haut</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="1179" part="f">Je suis de la famille.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1180" part="i">Il est fils d’Empereur.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="1180" part="f">Et n’en suis-je pas fille ?</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1181">On voit en ces Césars de l’inégalité.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="1182">La Fortune en a mis, mais non pas l’Équìté.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1183">L’un de ces Empereurs a pu l’autre soumettre.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="1184">L’autre de sa valeur se pouvait tout promettre.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1185">Il n’a pas en campagne eu les Dieux pour amis.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="1186">Il n’est pour rien moins que ceux qui l’ont soumis.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1187">Les vaincus aux vainqueurs ne sont pas comparables.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="1188">La Vertu rend parfois les malheurs vénérables.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1189">Cependant hors du trône on voit cette vertu.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="1190">Elle peut éclater sous un trône abattu.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1191">Enfin quoi qu’il en soit, Constance n’est point née</l>
 <note type="L">Hyménée : divinité fabuleuse des païens, qu’ils croient présider aux mariage. (...) signifie aussi poétiquement le mariage. [F]</note>
 	<l id="1192">Pour prétendre avec Chrispe au lien d’Hymenée ;</l>
 	<l id="1193">Nous ne souffrirons point qu’il soit fait son époux.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="1194">Vous souffrirez au moins qu’il m’aime mieux que vous.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 <note type="L">Dam : En langage ordinaire, signifiait autrefois, perte et dommages, et n’est plus en usage qu’en cette phrase : s’il lui arrive du mal à son dam, pour dire ce sera lui qui en souffrira le dommage. [F]</note>
 	<l id="1195">À son dam s’il vous aime, interdit de le faire.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="1196">À son dam beaucoup plus s’il agit au contraire.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1197">Une peut vous aimer qu’avec beaucoup d’erreur.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="1198">Ni vous aimer aussi qu’avec beaucoup d’horreur.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1199">Ah ! Sortez promptement engeance de vipère.</l>
 </sp>
-<sp who="CONSTANCE"><speaker>CONSTANCE.</speaker>
+<sp who="CONSTANCE"><hstage><speaker>CONSTANCE</speaker>.</hstage>
 	<l id="1200">On ne m’accuse point d’avoir perdu mon père.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE, seule.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>, seule.</hstage>
 	<l id="1201">Quel fantôme a fait bruit ? Et quel spectre a passé ?</l>
 	<l id="1202">Dors-tu point ? Est-ce à toi que l’on s’est adressé ?</l>
 	<l id="1203">Et peut-on appliquer ce que l’on vient de dire</l>
@@ -1878,10 +1878,10 @@
 	<l id="1210">Après avoir choqué ma gloire et mon amour ?</l>
 	<l id="1211">À moi, que sur le champ cette impudente expire,</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="1212" part="i">Madame.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1212" part="f">Ce n’est rien, allez qu’on se retire.</l>
 	<l id="1213">Connaissant Constantin et sa mauvaise humeur,</l>
 	<l id="1214">Il ne faut pas ici faire de la rumeur ;</l>
@@ -1973,24 +1973,24 @@
 	<l id="1300">Tu crèveras bientôt du venin que tu jettes.</l>
 	<l id="1301" part="i">Filles !</l>
 </sp>
-<sp who="UNE DES FILLES"><speaker>UNE DES FILLES.</speaker>
+<sp who="UNE DES FILLES"><hstage><speaker>UNE DES FILLES</speaker>.</hstage>
 	<l id="1301" part="f">Avançons-nous, on nous vient d’appeler.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1302">Ce n’est qu’à Cornélie à qui je veux parler ;</l>
 	<l id="1303" part="i">As-tu vu ton parent ?</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="1303" part="f">Il est ici, Madame.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1304" part="i">Mais me veut-il servir ?</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="1304" part="f">Oui, mais il craint le blâme,</l>
 	<l id="1305">Il balançait encor la gloire, et l’intérêt.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1306">Presse, et le fais pencher du coôté qui me plaît,</l>
 	<l id="1307">Hâte une heureuse crise en mon esprit malade ;</l>
 	<l id="1308">Il faut que le raison bientôt le persuade :</l>
@@ -2001,7 +2001,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="1313">Ô Dieux quelle faveur ! Ô Cieux qu’ai-je entendu !</l>
 	<l id="1314">Mon cour dans cette joie est encor suspendu.</l>
 	<l id="1315">Essayons de lui faire acquitter sa promesse,</l>
@@ -2011,11 +2011,11 @@
 	<l id="1318" part="i">Léonce est-il par là ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Léonce, Cornelie.</head>
-<sp who="LÉONCE"><speaker>LÉONCE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Léonce, Cornelie.</cast>
+<sp who="LÉONCE"><hstage><speaker>LÉONCE</speaker>.</hstage>
 	<l id="1318" part="f">Adarne le voici.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="1319">hé bien ? Me veux-tu croire, ou suivre ton caprice ?</l>
 	<l id="1320">Prends-tu part pour Chrispe, ou pour l’Impératrice ?</l>
 	<l id="1321">Du plomb avecque l’or fais-tu comparaison ?</l>
@@ -2023,7 +2023,7 @@
 	<l id="1323">Es-tu pour ta fortune, ou de glace ou de flamme ?</l>
 	<l id="1324">Mes avis sont-ils point passés jusqu’en ton âme ?</l>
 </sp>
-<sp who="LÉONCE"><speaker>LÉONCE.</speaker>
+<sp who="LÉONCE"><hstage><speaker>LÉONCE</speaker>.</hstage>
 	<l id="1325">Madame, à vos avis j’ai mûrement pensé,</l>
 	<l id="1326">Mais mon esprit encor se trouve balancé ;</l>
 	<l id="1327">J’aime ce jeune Prince, et j’ai peine à rien faire</l>
@@ -2031,7 +2031,7 @@
 	<l id="1329">Peut-on mieux acquérir du bien qu’en le servant ?</l>
 	<l id="1330">N’est-il pas adoré comme un Soleil levant ?</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="1331">Léonce sen ce discours dépourvu de Science,</l>
 	<l id="1332">On voit que la jeunesse a peu d’expérience,</l>
 	<l id="1333">Et qu’en ton âge encor nos esprits innocents</l>
@@ -2065,13 +2065,13 @@
 	<l id="1361">Et qui n’est pas habile à la prendre aux cheveux,</l>
 	<l id="1362">Après l’occasion fait d’inutiles voux.</l>
 </sp>
-<sp who="LÉONCE"><speaker>LÉONCE.</speaker>
+<sp who="LÉONCE"><hstage><speaker>LÉONCE</speaker>.</hstage>
 	<l id="1363">Madame, ce discours montre mon ignorance,</l>
 	<l id="1364">Je veux sur vos conseils fonder mon espérance,</l>
 	<l id="1365">Et je croirai faillir avec impunité,</l>
 	<l id="1366">Servant aveuglement une Divinité.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="1367">Entre donc là-dedans ; dis à l’Impératrice</l>
 	<l id="1368">Que tu veux les yeux clos embrasser son service :</l>
 	<l id="1369">Dès l’heure, ta fortune est sans comparaison,</l>
@@ -2081,7 +2081,7 @@
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="FAUSTE"><speaker>FAUSTE, seule.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>, seule.</hstage>
 <poem tpe="stances">
 <lg n="1">
 	<l id="1371">Poison subtil, esprit de douleur et de mort,</l>
@@ -2139,8 +2139,8 @@
 	<l id="1414">C’est possible déjà ce qui l’amène ici.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Constantin, Fauste.</head>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Constantin, Fauste.</cast>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="1415">Vos derniers procédez, ont bien montré, Madame,</l>
 	<l id="1416">Que toute femme est faible, et fait toujours la femme,</l>
 	<l id="1417">Et qu’au moindre sujet de mécontentement,</l>
@@ -2154,11 +2154,11 @@
 	<l id="1425">Nous y mettrons bon ordre, et vous ferons bien voir</l>
 	<l id="1426">Que qui vit sans bonté doit vivre sans pouvoir.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1427">Seigneur, s’il vous plaisait d’entendre ma défense,</l>
 	<l id="1428">Possible que l’excuse amoindrirait l’offense.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="1429">Quand par vos actions vous osez me choquer,</l>
 	<l id="1430">Les frivoles raisons ne vous peuvent manquer :</l>
 	<l id="1431">Mon cour qui hait à mort l’artifice et les ruses,</l>
@@ -2166,7 +2166,7 @@
 	<l id="1433">Mais pouvez vous jamais pour aucune raison</l>
 	<l id="1434">Mettre par ces éclats du trouble en ma maison ?</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1435">Jamais en son courroux une femme d’Auguste</l>
 	<l id="1436">Ne saurait éclater sur un sujet plus juste :</l>
 	<l id="1437">Si l’exemple est nouveau du trait de ma fureur,</l>
@@ -2181,29 +2181,29 @@
 	<l id="1445">L’une a commis le crime, et l’autre l’a puni,</l>
 	<l id="1446">Constance a commencé, depuis Fauste a fini.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="1447">Quel étrange réplique, et quelle extravagance ?</l>
 	<l id="1448">Quand je parle de Chrispe on répond de Constance ?</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1449">Seigneur, pour votre fils si je l’ai mal traité,</l>
 	<l id="1450">Il n’en doit accuser que sa légèreté ;</l>
 	<l id="1451">Lui qu’on voit s’emporter d’une aveugle conduite.</l>
 	<l id="1452">Et de qui le projet est à craindre en sa suite.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="1453">C’est une fausse erreur qu’on lui veut imposer.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1454">Quoi ? D’adorer Constance ? Et vouloir l’épouser ?</l>
 	<l id="1455">Ce n’est point une erreur, on voit qu’il s’y prépare.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="1456">Que voulez-vous qu’il aime, une fille barbare ?</l>
 	<l id="1457">Une esclave étrangère, un objet de courroux,</l>
 	<l id="1458">Dont un jour les enfants règneraient après nous ?</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1459">Seigneur, jamais esclave et jamais inconnue,</l>
 	<l id="1460">Qui serait par nos choix en son lit parvenue,</l>
 	<l id="1461">Vint-elle du Sarmate ou du peuple noirci,</l>
@@ -2217,39 +2217,39 @@
 	<l id="1469">Mais si le Ciel nous aime, il doit faire un effort</l>
 	<l id="1470">Pour éloigner de nous et la honte et la mort.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="1471">Nous verrons, nous verrons : mais qui mène Lactance ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Constantin, Fauste, Lactance, Un capitaine des gardes.</head> 
-<sp who="LACTANCE"><speaker>LACTANCE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Constantin, Fauste, Lactance, Un capitaine des gardes.</cast> 
+<sp who="LACTANCE"><hstage><speaker>LACTANCE</speaker>.</hstage>
 	<l id="1472">Seigneur accourez, vite au quartier de Constance.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="1473" part="i">Que s’y passe-t-il donc ?</l>
 </sp>
-<sp who="LACTANCE"><speaker>LACTANCE.</speaker>
+<sp who="LACTANCE"><hstage><speaker>LACTANCE</speaker>.</hstage>
 	<l id="1473" part="f">Ah Sire ! Des malheurs</l>
 	<l id="1474">Qui vous obligeront à fondre tout en pleurs.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="1475">C’est quelque trait de Fauste : ah méchante ! Ah cruelle !</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Fauste, Capitaine des gardes.</head>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Fauste, Capitaine des gardes.</cast>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1476">Arrête, et nous apprends qu’elle est cette nouvelle.</l>
 </sp>
-<sp who="CAPITAINE DES GARDES"><speaker>CAPITAINE DES GARDES.</speaker>
+<sp who="CAPITAINE DES GARDES"><hstage><speaker>CAPITAINE DES GARDES</speaker>.</hstage>
 	<l id="1477">Madame, en un moment deux astres de la Cour</l>
 	<l id="1478">Ont perdu pour jamais la lumière du jour :</l>
 	<l id="1479">Ô que cet accident a détruit d’espérances !</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1480">Qui sont ces deux soleils, sont-ce les deux Constances ?</l>
 	<l id="1481">L’état en leur salut avait grand intérêt.</l>
 </sp>
-<sp who="CAPITAINE DES GARDES"><speaker>CAPITAINE DES GARDES.</speaker>
+<sp who="CAPITAINE DES GARDES"><hstage><speaker>CAPITAINE DES GARDES</speaker>.</hstage>
 	<l id="1482">Voici le tout, Madame, écoutez, s’il vous plaît.</l>
 	<l id="1483">Chrispe était venu voir Constance dans sa chambre,</l>
 	<l id="1484">Elle avait à la main des gants parfumés d’ambre,</l>
@@ -2265,10 +2265,10 @@
 	<l id="1494">Et l’a considéré de près en le baisant.</l>
 	<l id="1495" part="i">Chrispe comme surpris...</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1495" part="f">Ah ! Ma crainte est extrême.</l>
 </sp>
-<sp who="CAPITAINE DES GARDES"><speaker>CAPITAINE DES GARDES.</speaker>
+<sp who="CAPITAINE DES GARDES"><hstage><speaker>CAPITAINE DES GARDES</speaker>.</hstage>
 	<l id="1496">Prenant aussi les gants les a sentis de même :</l>
 	<l id="1497">Et comme si jamais il ne les avait vus,</l>
 	<l id="1498">A loué la beauté dont ils étaient pourvus.</l>
@@ -2301,13 +2301,13 @@
 	<l id="1525">À ce mot en mourant ils se sont embrassés :</l>
 	<l id="1526" part="i">Pour marque du poison—...</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1526" part="f">C’est assez, c’est assez.</l>
 </sp>
-<sp who="CAPITAINE DES GARDES"><speaker>CAPITAINE DES GARDES.</speaker>
+<sp who="CAPITAINE DES GARDES"><hstage><speaker>CAPITAINE DES GARDES</speaker>.</hstage>
 	<l id="1527">Un sang tout violet a couvert leur visage.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1528">Tu m’en as trop appris, n’en dis pas davantage :</l>
 	<l id="1529">Je fuis sur ce récit trop tendre de moitié,</l>
 	<l id="1530">Il m’aurait bien suffi d’en ouï la moitié :</l>
@@ -2359,8 +2359,8 @@
 	<l id="1576">Au milieu des damnés, te servir de furie.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Cornélie, Fauste.</head>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Cornélie, Fauste.</cast>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="1577">Rassurez-vous, Madame, et calmez vos esprits,</l>
 	<l id="1578">Le fidèle Léonce a failli d’être pris :</l>
 <note type="L">Tibre : Fleuve célèbre d’Italie, naît dans les Appenins, en Toscane, (...) coule généralement au Sud, arrose la Toscane, la territoire romain, baigne Rome et Ostie (...) et se jette dans la Mer Tyrrénienne sous Ostie par deux bras, après un cours d’environ 370 Km. [B]</note>
@@ -2372,39 +2372,39 @@
 	<l id="1584">En ce grand accident il n’est rien qui vous touche,</l>
 	<l id="1585">Vous pourrez tout nier avecque sûreté.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1586">Oui, mais e veux tout dire avec sincérité ;</l>
 	<l id="1587">Crois-tu que je souhaite une faute impunie,</l>
 	<l id="1588">Qui fait que je me porte une haine infinie,</l>
 	<l id="1589">Moi-même à Constantin je la veux découvrir,</l>
 	<l id="1590">J’ai mérité la mort, si je veux la souffrir.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="1591">Dieux ! Voici l’Empereur, quel trouble en son visage,</l>
 	<l id="1592">Employez cet esprit à calmer cet orage.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Constantin, Fauste, Probe.</head>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Constantin, Fauste, Probe.</cast>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="1593" part="i">Ah perfide !</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1593" part="f">Seigneur, ne vous emportez ps.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="1594" part="i">Qu’as-tu fait de mon fils ?</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1594" part="f">J’ai causé son trépas.</l>
 	<l id="1595">Mais l’ayant su parti, j’ai fait vou de le suivre.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="1596">Accompli donc ton vou, car tu ne dois plus vivre.</l>
 </sp>
-<sp who="FAUSTE"><speaker>FAUSTE.</speaker>
+<sp who="FAUSTE"><hstage><speaker>FAUSTE</speaker>.</hstage>
 	<l id="1597">Je vais vous satisfaire à tous deux de ce pas.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="1598">J’approuve ton dessein, meurs et ne tarde pas.</l>
 	<l id="1599">Ô tigresse enragée ! Ô femme impitoyable i</l>
 	<l id="1600">Digne fille d’un monstre aux siècles effroyable ?</l>
@@ -2425,7 +2425,7 @@
 	<l id="1615">Hâte-là de subir cette juste ordonnance,</l>
 	<l id="1616">Et reviens me le dire auecque diligence.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN, seul.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>, seul.</hstage>
 	<l id="1617">Ah ! Que le coup est grand dont je fuis atterré !</l>
 	<l id="1618">C’est vraiment un effort d’un bras démesuré,</l>
 	<l id="1619">Accablé sous le faix d’une charge pesante,</l>
@@ -2458,18 +2458,18 @@
 	<l id="1646">Et me fera tout vaincre à l’ombre de la Croix.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Constantin, Probe.</head>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Constantin, Probe.</cast>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="1647">Déjà Probe revient ; et bien cette méchante</l>
 	<l id="1648" part="i">Est-elle résolue ?</l>
 </sp>
-<sp who="PROBE"><speaker>PROBE.</speaker>
+<sp who="PROBE"><hstage><speaker>PROBE</speaker>.</hstage>
 	<l id="1648" part="f">Elle n’est plus vivante.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="1649">Quoi si tôt par le feu, le fer ou le cordeau ?</l>
 </sp>
-<sp who="PROBE"><speaker>PROBE.</speaker>
+<sp who="PROBE"><hstage><speaker>PROBE</speaker>.</hstage>
 	<l id="1650">Non Sire, elle a fini dans un bassin plein d’eau :</l>
 	<l id="1651">Comme elle est arrivée en la prochaine étuve</l>
 	<l id="1652">Elle même a donné l’eau chaude dans la cuve»</l>
@@ -2494,7 +2494,7 @@
 	<l id="1671">Au fonds de l’eau bouillante elle s’est abîmée,</l>
 	<l id="1672">Et l’on ria plus rien vu dans l’épaisse fumée.</l>
 </sp>
-<sp who="CONSTANTIN"><speaker>CONSTANTIN.</speaker>
+<sp who="CONSTANTIN"><hstage><speaker>CONSTANTIN</speaker>.</hstage>
 	<l id="1673">Il faut qu’on la retire, et que soudainement</l>
 	<l id="1674">On la fasse sans bruit porter au monument.</l>
 	<l id="1675">Elle avait des défauts, mais elle avait des charmes</l>

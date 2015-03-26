@@ -53,8 +53,8 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Araxe, Atis.</head>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Araxe, Atis.</cast>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1">En vain j’ai relevé ma fortune abattue,</l>
 	<l id="2">En vain de tant de gloire elle s’est revêtue,</l>
 	<l id="3">Son calme n’est pour moi qu’un calme dangereux,</l>
@@ -68,15 +68,15 @@
 	<l id="11">Je trouve dans moi-même un ennemi nouveau,</l>
 	<l id="12">Mon propre esprit me gêne, et devient mon bourreau.</l>
 </sp>
-<sp who="ATIS"><speaker>ATIS.</speaker>
+<sp who="ATIS"><hstage><speaker>ATIS</speaker>.</hstage>
 	<l id="13">Qu’est-ce que votre esprit se forme et se propose ?</l>
 	<l id="14">Et que désire-t-on quand on a toute chose ?</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="15">Hélas quand un esprit ne peut goûter son bien</l>
 	<l id="16">Même en possédant tout il ne possède rien.</l>
 </sp>
-<sp who="ATIS"><speaker>ATIS.</speaker>
+<sp who="ATIS"><hstage><speaker>ATIS</speaker>.</hstage>
 	<l id="17">On ne voit toutefois aucun signe d’orage,</l>
 	<l id="18">Et le Ciel est pour vous tranquille et sans nuage.</l>
 	<l id="19">Vous tenez à la Cour et la place et le rang</l>
@@ -86,7 +86,7 @@
 	<l id="23">Seriez-vous malheureux dans ces heureux instants</l>
 	<l id="24">Qu’un seul de vos regards rend les autres contents ?</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="25">Il est vrai qu’à me voir, parmi cette abondance</l>
 	<l id="26">On doit me croire heureux, si l’on croit l’apparence ;</l>
 	<l id="27">Mais ce qui me tient lieu de cent calamités</l>
@@ -96,14 +96,14 @@
 	<l id="31">Lors qu’avec ses faveurs, un trait de son courroux</l>
 	<l id="32">Nous donne un compagnon aussi puissant que nous.</l>
 </sp>
-<sp who="ATIS"><speaker>ATIS.</speaker>
+<sp who="ATIS"><hstage><speaker>ATIS</speaker>.</hstage>
 	<l id="33" part="i">Quoi Seigneur, Cléodate...</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="33" part="f">Oui Cléodate même</l>
 	<l id="34">Est celui que je crains quand il faut que je l’aime.</l>
 </sp>
-<sp who="ATIS"><speaker>ATIS.</speaker>
+<sp who="ATIS"><hstage><speaker>ATIS</speaker>.</hstage>
 	<l id="35">Seigneur, c’est toutefois par les soins qu’il a pris</l>
 	<l id="36">Que vous êtes en grâce auprès de Nitocris.</l>
 	<l id="37">Pour vous sa seule main fidèle et généreuse</l>
@@ -113,7 +113,7 @@
 	<l id="41">Enfin un Compagnon qui lui sera semblable</l>
 	<l id="42">Est plutôt un appui qu’un fardeau redoutable.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="43">Oui, sa seule amitié plus forte que le sort</l>
 	<l id="44">Dans mes jours orageux fut mon guide et mon port,</l>
 	<l id="45">Et pour ne pas montrer une âme trop ingrate</l>
@@ -151,10 +151,10 @@
 	<l id="77">C’est faiblesse d’esprit, c’est être malhabile,</l>
 	<l id="78">D’épargner un ami quand sa perte est utile.</l>
 </sp>
-<sp who="ATIS"><speaker>ATIS.</speaker>
+<sp who="ATIS"><hstage><speaker>ATIS</speaker>.</hstage>
 	<l id="79">Voulez-vous donc le perdre et le priver du jour ?</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="80">Je veux adroitement l’éloigner de la Cour,</l>
 	<l id="81">Et durant son absence ôter à sa fortune</l>
 	<l id="82">Tout ce qu’elle a de grand, et ce qui m’importune,</l>
@@ -162,56 +162,56 @@
 	<l id="84">Qu’il me doive bientôt autant que je lui dois.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Atis, Araxe, Cléodate.</head>
-<sp who="ATIS"><speaker>ATIS.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Atis, Araxe, Cléodate.</cast>
+<sp who="ATIS"><hstage><speaker>ATIS</speaker>.</hstage>
 	<l id="85" part="i">Le voici.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="85" part="m">Laisse-nous.</l>
 </sp>
-<sp who="ATIS"><speaker>ATIS en se retirant.</speaker>
+<sp who="ATIS"><hstage><speaker>ATIS</speaker> en se retirant.</hstage>
 	<l id="85" part="f">Dieux quelle ingratitude !</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="86">Vous paraissez atteint de quelque inquiétude,</l>
 	<l id="87">Auriez-vous des douleurs, seriez-vous en danger,</l>
 	<l id="88">Sans que notre amitié me les fît partager ?</l>
 	<l id="89">C’est m’avoir déjà fait une injure trop grande</l>
 	<l id="90">Que d’avoir enduré que je vous le demande.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="91">Il est vrai, je l’avoue, un furieux tourment</l>
 	<l id="92">Me suit de tous côtés, me presse incessamment ;</l>
 	<l id="93">Enfin privé de force et presque sans remède</l>
 	<l id="94">Je vous viens maintenant implorer à mon aide.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="95">Je suis prêt, Cléodate, où faut-il donc courir ?</l>
 	<l id="96">Faut-il vivre pour vous, ou bien faut-il mourir ?</l>
 	<l id="97">J’embrasse également ou la mort ou la vie.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="98">Vous pouvez sans péril contenter mon envie</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="99">Mais enfin quel tourment vous travaille si fort ?</l>
 	<l id="100" part="i">En quoi vous puis-je aider ?</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="100" part="f">Enfin par un effort</l>
 	<l id="101">À quoi l’on donnera de la gloire ou du blâme</l>
 	<l id="102">Selon la passion que chacun a dans l’âme,</l>
 	<l id="103">À moi-même propice ou cruel à mon tour</l>
 	<l id="104">Je me suis résolu d’abandonner la Cour.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="105">D’abandonner la Cour ! Ô dieux, quelle surprise !</l>
 	<l id="106">Cléodate en ce rang ferait cette entreprise !</l>
 	<l id="107">Cléodate est assis dans le siège des Dieux,</l>
 	<l id="108">Et lassé de la gloire il veut quitter les Cieux !</l>
 	<l id="109" part="i">Non, non, je ne saurais...</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="109" part="f">Non, non, laisse-moi faire,</l>
 	<l id="110">Au dessein que je fais ne te rend point contraire.</l>
 	<l id="111">Je sais que ta raison m’en voudra divertir,</l>
@@ -231,7 +231,7 @@
 	<l id="125">Et qu’il vaut mieux céder une si belle place</l>
 	<l id="126">Que si tu me l’ôtais ou que je te l’ôtasse.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="127">Je sais que ton dessein est grand et généreux,</l>
 	<l id="128">Et qu’avec tes vertus il peut te rendre heureux,</l>
 	<l id="129">Je sais bien que la Cour si sujette aux orages,</l>
@@ -250,7 +250,7 @@
 	<l id="142">M’opposer à tes veux de peur de te déplaire.</l>
 	<l id="143">Mais au moins ne fais rien de trop précipité.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="144">Le Conseil en est pris, le sort en est jeté.</l>
 	<l id="145">La Reine a déjà su de ma plainte secrète</l>
 	<l id="146">Que mon plus grand bonheur consiste en ma retraite,</l>
@@ -261,47 +261,47 @@
 	<l id="151">C’est de faire à la Reine approuver mon départ</l>
 	<l id="152">Si son intention se portait autre part.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="153">C’est à tes ennemis, c’est à leur artifice</l>
 	<l id="154">Que tu dois demander ce funeste service.</l>
 	<l id="155">Moi dont le bras armé voudrait te retenir</l>
 	<l id="156">Je m’irais employer à te faire bannir !</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="157">Si le bannissement est ma plus douce attente</l>
 	<l id="158">Peux-tu mieux me servir qu’en ce qui me contente ?</l>
 	<l id="159">Qu’importe en quoi l’on serve un cœur persécuté</l>
 	<l id="160">Pourvu que l’on le serve, et qu’on l’ait contenté.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="161">Il faut donc malgré moi plaire à ta frénésie,</l>
 	<l id="162">Et te servir enfin selon ta fantaisie.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="163">Mais ne me promets pas pour nuire à mon dessein.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="164" part="i">Doutez-vous de ma foi ?</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="164" part="f">Non, non, j’en suis certain.</l>
 	<l id="165">Mais en cette rencontre où tu sembles me plaindre,</l>
 	<l id="166">Un ami croit sans blâme, et nous tromper et feindre.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="167">Non, je ne feindrai point, et je te le promets</l>
 	<l id="168">De suivre exactement tes vœux et tes souhaits.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="169">Si j’avais mis ton sort aussi haut qu’il doit être,</l>
 	<l id="170">Ainsi ton amitié m’en pourrait reconnaître.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="171">Mais ne saurai-je point le sujet malheureux</l>
 	<l id="172">Qui te rendra toi-même injuste et rigoureux ?</l>
 	<l id="173">Faut-il que je l’ignore et que tu m’y contraignes ?</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="174">Tu le sauras, Araxe, afin que tu me plaignes,</l>
 	<l id="175">Et que selon mes vœux ton propre jugement</l>
 	<l id="176">Me condamne plutôt à mon bannissement.</l>
@@ -311,17 +311,17 @@
 	<l id="180">Non pas même l’espoir qui pourrait le nourrir.</l>
 	<l id="181">Mais laissons là le mal et songeons aux remèdes.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="182" part="i">Mais enfin qu’aimes-tu ?</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="182" part="f">La princesse des Mèdes.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 <note type="C">Dans le vers suivant le texte porte Alciane, ce ne peut être qu’Axiane. </note>
 	<l id="183" part="i">Axiane !</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="183" part="f">Elle-même avecque ses appas</l>
 	<l id="184">Elle me fait la guerre et ne le pense pas.</l>
 	<l id="185">Mon cœur comme un captif qui redoute son Maître</l>
@@ -353,11 +353,11 @@
 	<l id="211">Que si l’éloignement ne peut me secourir</l>
 	<l id="212">Je mourrai de douleur, et ce sera guérir.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="213">Depuis quand cet amour est-il dedans ton âme,</l>
 	<l id="214">Qu’on en n’a jamais vu le moindre trait de flamme ?</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="215">Hélas ! Trois ans entiers ont achevé leur cours</l>
 	<l id="216">Depuis qui je combats ces fatales amours.</l>
 	<l id="217">Quand le Scythe ennuyé de sa stérile terre</l>
@@ -400,7 +400,7 @@
 	<l id="254">Il fallut approuver le dessein qui me tue.</l>
 	<l id="255">Voilà mon sort, Araxe, est-il à souhaiter ?</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="256">Avecque ton amour il est à redouter.</l>
 	<l id="257">Je le confesse enfin ta fuite est nécessaire.</l>
 	<l id="258">C’est ainsi qu’on peut vaincre un si grand adversaire.</l>
@@ -411,68 +411,68 @@
 	<l id="263">Ou si tes ennemis voulaient te la fermer</l>
 	<l id="264">J’y suis pour te défendre, et pour les désarmer.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="265">J’emporte au moins ce bien de ma faveur extrême</l>
 	<l id="266">Que tous mes ennemis consistent en moi-même,</l>
 	<l id="267">Et c’est en ce seul point que mon destin me plaît.</l>
 	<l id="268">Mais la Reine revient, écoutons notre arrêt.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Nitocris, Axiane, Alcine, Cléodate, Araxe.</head>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Nitocris, Axiane, Alcine, Cléodate, Araxe.</cast>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="269">J’ai d’un œil attentif regardé votre affaire,</l>
 	<l id="270">Et je sais contenter quiconque sait me plaire.</l>
 	<l id="271">Mais enfin j’ai jugé quoi que vous prétendiez,</l>
 	<l id="272">Que vous ne saviez pas ce que vous demandiez.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="273" part="i">Quoi Madame !</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="273" part="f">Il suffit, m’en parler davantage</l>
 	<l id="274">Ce n’est pas m’obliger, c’est me faire un outrage.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="275" part="i">Madame.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="275" part="f">On vous oblige avec un tel refus.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE à l’écart.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker> à l’écart.</hstage>
 	<l id="276" part="i">Qu’ai-je ouï !</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS en se retirant.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker> en se retirant.</hstage>
 	<l id="276" part="f">Demeurez, et ne contestez plus.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE en s’en allant et montrant Axiane.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker> en s’en allant et montrant Axiane.</hstage>
 	<l id="277">Araxe il faut mourir si ta force ne m’aide,</l>
 	<l id="278">Mon mal devient plus grand, plus j’en vois le remède.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Alcine, Axiane.</head>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Alcine, Axiane.</cast>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="279">Mais d’où vient qu’Axiane a l’esprit si changé</l>
 	<l id="280">Depuis que Cléodate a demandé congé ?</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="281" part="i">Hélas ! Tu dois savoir...</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="281" part="f">Quoi ! Que voulez-vous dire ?</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="282">Ha que ne dit-on pas lorsque le cœur soupire ?</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="283">Tel discours, tel soupir est souvent un témoin</l>
 	<l id="284">Que l’amour est au cœur ou qu’il n’en est pas loin ;</l>
 	<l id="285">Et même à Cléodate étant si redevable</l>
 	<l id="286">Croire que vous l’aimez c’est vous croire équitable.</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="287">Oui j’aime ses vertus qui sont de grands appas.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="288">Vous aimez ses vertus, et vous ne l’aimez pas !</l>
 	<l id="289">Vous soupirez pourtant, et quoi qu’on puisse dire</l>
 	<l id="290">Pour les seules vertus rarement on soupire ;</l>
@@ -481,7 +481,7 @@
 	<l id="293">Ne dissimulez point, l’amour n’est pas faiblesse</l>
 	<l id="294" part="i">Quand son objet est noble.</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="294" part="f">Enfin je le confesse ;</l>
 	<l id="295">Lorsque par un dessein propice ou rigoureux</l>
 	<l id="296">On aime la vertu d’un homme généreux,</l>
@@ -506,27 +506,27 @@
 	<l id="315">Et s’il juge mon cœur et grand et généreux</l>
 	<l id="316">Il doit en sa faveur le juger amoureux.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="317">Qui sait s’il n’aime pas ? Au moins les grandes âmes</l>
 	<l id="318">Font gloire de brûler dans de si belles flammes.</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="319">Au moins c’est un effet que l’amour produit peu</l>
 	<l id="320">Que de quitter les lieux où le cœur est en feu ;</l>
 	<l id="321">Et l’âme un peu constante en ses prisons réduite</l>
 	<l id="322">Aime mieux y mourir que de prendre la fuite.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="323">Mais en le retenant peut-on vous obliger ?</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="324">Si tu connais l’amour je t’en laisse juger.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="NITOCRIS"><speaker>NITOCRIS seule.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker> seule.</hstage>
 	<l id="325">Ô toi qui rends partout mes armes fortunées,</l>
 	<l id="326">Qui soumis à mes lois des têtes couronnées,</l>
 	<l id="327">Puissance souveraine es-tu faible à ton tour</l>
@@ -575,20 +575,20 @@
 	<l id="370" part="i">Mais qu’Araxe veut-il.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Nitocris, Araxe.</head>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Nitocris, Araxe.</cast>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="370" part="f">Je viens ici, Madame,</l>
 	<l id="371" part="i">Poussé par Cléodate.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="371" part="f">Hé quoi veut-il par vous</l>
 	<l id="372">Solliciter sa perte, et mon juste courroux.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="373">Au moins il veut partir, et quoi que l’on en pense</l>
 	<l id="374">Il croit que sa retraite est une récompense.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="375">Ô dieux qu’on a de peine à demeurer heureux ?</l>
 	<l id="376">Mais c’est trop me braver, qu’il parte, je le veux,</l>
 	<l id="377">Il est de mon repos ainsi que de ma gloire</l>
@@ -611,13 +611,13 @@
 	<l id="394">Trouvent de tous côtés d’injustes interprètes.</l>
 	<l id="395" part="i">Dites à Cléodate...</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="395" part="f">Il est bien résolu.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="396">Quoi de choquer ici mon pouvoir absolu ?</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="397">Mais si votre refus comme je l’appréhende</l>
 	<l id="398">Lui fait prendre de soi le congé qu’il demande ?</l>
 	<l id="399">Pour moi j’approuverais de le laisser partir,</l>
@@ -631,23 +631,23 @@
 	<l id="407">On retient quelquefois ces esprits orgueilleux</l>
 	<l id="408">En leur faisant savoir qu’on peut se passer d’eux.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS se retire.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker> se retire.</hstage>
 	<l id="409">Il y faudra penser, l’affaire le mérite.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Araxe, Atis.</head>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Araxe, Atis.</cast>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="410">Il faut gagner pourtant ce que je sollicite,</l>
 	<l id="411">Et vaincre par adresse ou par autorité</l>
 	<l id="412">L’obstacle injurieux de ma félicité.</l>
 </sp>
-<sp who="ATIS"><speaker>ATIS.</speaker>
+<sp who="ATIS"><hstage><speaker>ATIS</speaker>.</hstage>
 	<l id="413">Mais gardez que sur vous ne fonde la tempête,</l>
 	<l id="414">Tandis que vous croyez la pousser sur sa tête.</l>
 	<l id="415">Vous voyez que la Reine a d’autres sentiments.</l>
 	<l id="416" part="i">Pourquoi presser si fort ?</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="416" part="f">Pour vaincre mes tourments.</l>
 	<l id="417">Il faut te dire enfin pour ma propre allégeance</l>
 	<l id="418">Jusqu’où ma vanité porte mon espérance.</l>
@@ -678,13 +678,13 @@
 	<l id="443">Tel aime ses amis plus que soi mille fois</l>
 	<l id="444">Qui les détesterait s’ils devenaient ses Rois.</l>
 </sp>
-<sp who="ATIS"><speaker>ATIS.</speaker>
+<sp who="ATIS"><hstage><speaker>ATIS</speaker>.</hstage>
 	<l id="445">Vous ne pensez donc plus à la Princesse Alcine,</l>
 	<l id="446">Ce n’est donc plus son œil dont l’amour vous domine,</l>
 	<l id="447">Et cette passion dont vous sembliez charmé</l>
 	<l id="448">N’était donc qu’un portrait d’un amour enflammé.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="449">Il faut, il faut pourtant lui laisser toujours croire</l>
 	<l id="450">Que de son seul amour je fais toute ma gloire.</l>
 	<l id="451">Comme Alcine gouverne et la Reine et son cœur,</l>
@@ -710,20 +710,20 @@
 	<l id="471">Enfin c’est être lâche, enfin c’est se trahir</l>
 	<l id="472">Que de pouvoir régner et vouloir obéir.</l>
 </sp>
-<sp who="ATIS"><speaker>ATIS.</speaker>
+<sp who="ATIS"><hstage><speaker>ATIS</speaker>.</hstage>
 	<l id="473" part="i">Alcine vient ici.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Araxe, Alcine.</head>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Araxe, Alcine.</cast>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="473" part="f">Je cherche ici la Reine.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="474">Et moi je l’y rencontre, Alcine me l’amène,</l>
 	<l id="475">Et par tous les endroits où reluisent ses yeux</l>
 	<l id="476">Je trouve en même temps et mes Rois et mes Dieux.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="477">C’est pour moi, dites-vous, que votre âme soupire !</l>
 	<l id="478">Votre cœur est trop bas s’il veut moins qu’un Empire ;</l>
 	<l id="479">C’est pour le trône seul qu’il forme des désirs,</l>
@@ -733,11 +733,11 @@
 	<l id="483">Vous faites bien, Araxe, et si l’on doit aimer,</l>
 	<l id="484">Le trône est la beauté qui doit nous enflammer.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="485">Quel tonnerre ai-je ouï ! Quel plus rude martyre !</l>
 	<l id="486">Que dites-vous, Madame, ou que voulez-vous dire ?</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="487">Ce que me répondrait votre cœur innocent</l>
 	<l id="488">S’il pouvait se résoudre à dire ce qu’il sent.</l>
 	<l id="489">Vous pouvez l’avouer sans en craindre aucun blâme.</l>
@@ -745,7 +745,7 @@
 	<l id="491">Et si je suis au cœur d’un Prince si parfait,</l>
 	<l id="492">Je vois ce qu’on y trame et tout ce qui s’y fait.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="493">Me confonde le Ciel si jamais la nature</l>
 	<l id="494">Vit naître dans le monde une amitié plus pure.</l>
 	<l id="495">Le sceptre a des appas pour les ambitieux,</l>
@@ -759,7 +759,7 @@
 	<l id="503">Et je vous ferai voir si l’on aime un vainqueur</l>
 	<l id="504">Alors que pour lui plaire on se perce le cœur.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="505">Si vous m’obéissez, je serais trop cruelle,</l>
 	<l id="506">Si vous me refusiez, vous seriez un rebelle,</l>
 	<l id="507">Quoi qu’il en soit, Araxe, après tant de combats,</l>
@@ -767,7 +767,7 @@
 	<l id="509">Et lorsqu’on veut mourir pour montrer que l’on aime,</l>
 	<l id="510">Araxe, l’on en prend le congé de soi-même.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="511">Mais aussi refuser le congé de mourir,</l>
 	<l id="512">C’est commander de vivre à qui voudrait périr ;</l>
 	<l id="513">Et c’est donner sans doute une preuve assez grande</l>
@@ -785,24 +785,24 @@
 	<l id="525">Ha ! C’est trop, cher Atis, tâche à lui faire croire</l>
 	<l id="526">Ce qu’elle devrait voir, que l’aimer est ma gloire.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE un peu à l’écart.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker> un peu à l’écart.</hstage>
 	<l id="527">Il me gagne peut-être avec un faux transport.</l>
 	<l id="528">Qu’on est faible, bons Dieux, quand l’amour est trop fort !</l>
 	<l id="529">Hé bien je suspendrai ma colère et ma haine.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="530" part="i">Ainsi j’espérerai.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="530" part="f">Mais je vais chez la Reine.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="531">Et moi je vais languir, jusqu’à ce que les Dieux</l>
 	<l id="532">M’ouvrent entièrement ou l’Enfer, ou les Cieux.</l>
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="ALCINE"><speaker>ALCINE seule.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker> seule.</hstage>
 	<l id="533">À quelle extrémité me suis-je transportée ?</l>
 	<l id="534">Et jusqu’où le soupçon m’a-t-il précipitée ?</l>
 	<l id="535">Mais à qui le soupçon dont un cœur est gêné,</l>
@@ -831,14 +831,14 @@
 	<l id="558">N’entre en victorieux dans l’esprit de la Reine.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Nitocris, Alcine, Axiane.</head>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Nitocris, Alcine, Axiane.</cast>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="559" part="i">Araxe.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="559" part="m">Il est sorti.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="559" part="f">Qui ne s’étonnerait</l>
 	<l id="560">De l’étrange dessein que son ami conçoit ?</l>
 	<l id="561">Quelles justes raisons peut avoir Cléodate</l>
@@ -846,13 +846,13 @@
 	<l id="563">Où sa vertu le met plus haut que ses souhaits,</l>
 	<l id="564">Et n’a pas moins d’amis que j’ai de bons sujets ?</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="565" part="i">Je m’en étonne.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="565" part="f">Et moi je ne saurais le croire.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="566">Il est vrai toutefois qu’il veut quitter sa gloire.</l>
 	<l id="567">Mais enfin vous savez ce que j’ai résolu,</l>
 	<l id="568">Que mon esprit est las du pouvoir absolu,</l>
@@ -875,7 +875,7 @@
 	<l id="585">Dites donc votre avis, et sans que l’on me flatte</l>
 	<l id="586">Lequel dois-je choisir, Araxe, ou Cléodate ?</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="587">La justice elle-même en cet événement</l>
 	<l id="588">Aurait beaucoup de peine à rendre un jugement,</l>
 	<l id="589">Et de quelque côté que penche un choix auguste,</l>
@@ -915,7 +915,7 @@
 	<l id="623">Puisque Araxe est aimable et sort du sang des Rois,</l>
 	<l id="624">Araxe est donc celui dont je ferais le choix.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="625">Vos raisons ont sans doute un charme qui m’emporte,</l>
 	<l id="626">Et vous pourriez encore en dire une plus forte.</l>
 	<l id="627">Il est bien vrai qu’Araxe est sorti de ces Rois</l>
@@ -965,40 +965,40 @@
 	<l id="671">Puisque enfin Cléodate a les vertus des Rois,</l>
 	<l id="672">Cléodate est celui dont je ferais le choix.</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="673">Araxe a fait depuis tant d’actes magnanimes</l>
 	<l id="674">Qu’on pense avoir songé ce qu’on sait de ses crimes</l>
 	<l id="675">Et ce Prince fameux qu’on ne peut plus haïr</l>
 	<l id="676">Mérite de régner à force d’obéir.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="677">Mais au moins Cléodate en tous lieux indomptable,</l>
 	<l id="678">Vainqueur des attentats, n’en fut jamais coupable.</l>
 	<l id="679">Il fut Dieu tutélaire en ce tragique lieu,</l>
 	<l id="680">Et peut en être Roi s’il lui servit de Dieu.</l>
 	<l id="681">Le refuseriez-vous, lui que chacun révère ?</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="682">La Reine m’apprendra ce que je voudrais faire,</l>
 	<l id="683">Et nous allons savoir avec son jugement</l>
 	<l id="684">Qui de vous ou de moi parle plus sainement.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="685">Je ferai, je ferai ce que le Ciel m’inspire,</l>
 	<l id="686">Je sauverai ma gloire, et celle de l’Empire.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Cléodate, Achate.</head>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Cléodate, Achate.</cast>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="687" part="i">Quoi la Reine y consent ?</l>
 </sp>
-<sp who="ACHATE"><speaker>ACHATE.</speaker>
+<sp who="ACHATE"><hstage><speaker>ACHATE</speaker>.</hstage>
 	<l id="687" part="f">Oui vous pouvez partir,</l>
 	<l id="688">Et bientôt vous en plaindre et vous en repentir.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE seul.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker> seul.</hstage>
 	<l id="689">Dieux qu’ai-je demandé ! Mais il faut se contraindre.</l>
 	<l id="690">Enfin je l’ai voulu ; de qui puis-je me plaindre ?</l>
 	<l id="691">Hélas que notre esprit sans conduite et sans lois</l>
@@ -1057,15 +1057,15 @@
 	<l id="744">Je me plaindrais aussi qu’on me l’eût refusé.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Cléodate, Axiane.</head>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Cléodate, Axiane.</cast>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="745">Hélas... Mais je dois tout aux bontés de la Reine,</l>
 	<l id="746" part="i">Étouffons notre amour.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="746" part="f">La voici. Quelle peine ?</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="747">Tu veux donc renoncer à ton propre bonheur ?</l>
 	<l id="748">Tu veux abandonner et la gloire et l’honneur ?</l>
 	<l id="749">Quelles fortes raisons peuvent te faire croire</l>
@@ -1075,35 +1075,35 @@
 	<l id="753">Et la tranquillité des fortunes privées</l>
 	<l id="754">Déplaît en peu de temps aux âmes relevées.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="755">Il faut de mon destin con tenter le courroux,</l>
 	<l id="756">Si je ne fuis bientôt, je mourrai devant vous.</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="757">Mais si la Reine a fait un dessein tout contraire,</l>
 	<l id="758">Peux-tu lui résister, et ne pas lui déplaire ?</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="759">La Reine aurait changé de résolution !</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="760">Oui, la Reine témoigne une autre intention.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="761" part="i">Que je demeurerai !</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="761" part="f">Je le crois, Cléodate,</l>
 	<l id="762">Mais ne murmure point où ton bonheur éclate,</l>
 	<l id="763">Elle t’aime sans doute ; et par un digne choix</l>
 	<l id="764">Elle veut te placer dans le nombre des Rois.</l>
 	<l id="765" part="i">Quel sort serait plus noble ?</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="765" part="f">Ou quel sort serait pire ?</l>
 	<l id="766">Je n’ai pas respiré, qu’il faut que je soupire.</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="767">Si la Cour a pour toi quelque secret tourment</l>
 	<l id="768">Qui t’oblige à penser à ton éloignement,</l>
 	<l id="769">Est-il enfin si fort ce mal qui te possède</l>
@@ -1115,39 +1115,39 @@
 	<l id="775">Et je te dois assez et de bien et d’honneur</l>
 	<l id="776">Pour t’exciter au moins d’attendre ton bonheur.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="777">Vous avez trop de soin d’une âme infortunée</l>
 	<l id="778">Qui ferait son tourment de se voir couronnée.</l>
 	<l id="779">C’était à vous servir que mon sort était doux,</l>
 	<l id="780">Ce serait... Mais que dis-je ? Ou bien que dites-vous ?</l>
 	<l id="781" part="i">La Reine m’aimerait !</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="781" part="f">Et t’offre une Couronne,</l>
 	<l id="782">Je crois qu’un tel avis ne déplaît à personne.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="783">Je reçois toutefois un avis si fatal</l>
 	<l id="784">Comme on reçoit la mort quand on la croit un mal.</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="785">Qui t’oblige à tenir cet étrange langage ?</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="786">Beaucoup d’aveuglement, et beaucoup de courage.</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="787">Qui pourrait contenter tes vœux et tes désirs,</l>
 	<l id="788">Si tu mets la Couronne entre tes déplaisirs ?</l>
 	<l id="789">Quoi n’aimerais-tu pas une adorable Reine ?</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="790">En l’état où je suis j’ai mérité sa haine.</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="791" part="i">Aimes-tu donc ailleurs ?</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="791" part="f">Non, non, j’aime en ce lieu.</l>
 	<l id="792">J’aime, pour achever il faudrait être un Dieu.</l>
 	<l id="793">S’il est vrai toutefois qu’une Reine adorable</l>
@@ -1163,7 +1163,7 @@
 	<l id="803">Les uns pour adorer ce qui les fait souffrir,</l>
 	<l id="804">Les Rois pour être heureux, et moi pour en mourir.</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="805">Non, non, ne pense pas qu’injuste ou dédaigneuse</l>
 	<l id="806">Je condamne un amour qui me rend orgueilleuse</l>
 	<l id="807">Si des Rois le plus grand, et le plus redouté</l>
@@ -1185,7 +1185,7 @@
 	<l id="823">Et de prendre d’une autre équitable en son choix</l>
 	<l id="824">Le sceptre et la grandeur que je lui donnerais.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="825">Pour ne me pas donner ces ordres impossibles,</l>
 	<l id="826">Apprenez que vos yeux sont des Rois invincibles.</l>
 	<l id="827">Quoi j’osai vous aimer n’étant pas assuré</l>
@@ -1203,7 +1203,7 @@
 	<l id="839">Pour peu que l’on le flatte, il brûle, il s’enhardit,</l>
 	<l id="840">Il se flatte lui-même, et croit plus qu’on ne dit.</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="841">J’excuse librement cet amour qui t’enchante</l>
 	<l id="842">Pourvu que ta fortune en demeure contente ;</l>
 	<l id="843">Mais si ce même amour t’ôtait du rang des Rois</l>
@@ -1235,7 +1235,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="CLEODATE"><speaker>CLÉODATE seul.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker> seul.</hstage>
 	<l id="869">Ha que diversement votre main redoutable</l>
 	<l id="870">Sait se jouer, grands Dieux, du sort d’un misérable !</l>
 	<l id="871">J’aime, je suis aimé, l’on m’offre un grand pouvoir,</l>
@@ -1264,8 +1264,8 @@
 	<l id="894">Ce sage confident des secrets de la Reine.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Achate, Cléodate.</head>
-<sp who="ACHATE"><speaker>ACHATE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Achate, Cléodate.</cast>
+<sp who="ACHATE"><hstage><speaker>ACHATE</speaker>.</hstage>
 	<l id="895">Seigneur, la Reine usant du pouvoir souverain,</l>
 	<l id="896">Touchant votre départ a changé de dessein.</l>
 	<l id="897">Bref elle vous attend pour une conférence</l>
@@ -1273,15 +1273,15 @@
 	<l id="899">Elle y veut votre avis, enfin répondez-y,</l>
 	<l id="900">Comme étant assuré de n’être pas haï.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="901">Au moins j’y répondrai comme un sujet fidèle.</l>
 </sp>
-<sp who="ACHATE"><speaker>ACHATE.</speaker>
+<sp who="ACHATE"><hstage><speaker>ACHATE</speaker>.</hstage>
 	<l id="902">Mais on ouvre, Seigneur, Araxe est avec elle.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Nitocris, Araxe, Cléodate.</head>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Nitocris, Araxe, Cléodate.</cast>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="903">Que chacun se retire, Alcine, et vous aussi,</l>
 	<l id="904">Araxe et Cléodate ont seuls affaire ici.</l>
 	<l id="905">Vous savez à quel point de puissance et de gloire</l>
@@ -1314,7 +1314,7 @@
 	<l id="932">Vous aimerez aussi le choix que j’aurai fait.</l>
 	<l id="933" part="i">Parlez, parlez, Araxe.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="933" part="f">On serait téméraire</l>
 	<l id="934">D’être d’un sentiment qui vous serait contraire ;</l>
 	<l id="935">Et le conseil de l’homme est-il considéré</l>
@@ -1340,10 +1340,10 @@
 	<l id="955">Sachant que par un Dieu votre esprit inspiré,</l>
 	<l id="956">Ne peut faire qu’un choix digne d’être adoré.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="957" part="i">Cléodate parlez.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="957" part="f">Votre dessein est juste,</l>
 	<l id="958">Comme tout ce qui part de votre esprit auguste ;</l>
 	<l id="959">Vos vœux seront toujours nos Maîtres et nos Rois,</l>
@@ -1405,25 +1405,25 @@
 	<l id="1015">Si l’Empire est un faix qui semble vous charger,</l>
 	<l id="1016">Il le faut porter seul pour le trouver léger.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1017">Je sais vos sentiments, c’est assez pour cette heure,</l>
 	<l id="1018">Cependant obéis, Cléodate, et demeure ;</l>
 	<l id="1019">Et si pour toi la Cour est un lieu sans appas,</l>
 	<l id="1020">Apprends à demeurer où tu ne te plais pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Cléodate, Araxe.</head>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Cléodate, Araxe.</cast>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1021">Que la Reine me fait un bien incomparable !</l>
 	<l id="1022">Et qu’en te retenant elle m’est favorable !</l>
 	<l id="1023">Enfin ses volontés que tu dois respecter</l>
 	<l id="1024">Me laisse un ami que tu voulais m’ôter.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="1025">Enfin ses volontés sont de nouvelles armes</l>
 	<l id="1026">Qu’elle donne au destin qui m’arrache des larmes.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1027">Tu te crois misérable, et pourtant si tu veux</l>
 	<l id="1028">Il ne tiendra qu’à toi que tu ne sois heureux.</l>
 	<l id="1029">Veux-tu que je te parle avec cette franchise</l>
@@ -1445,20 +1445,20 @@
 	<l id="1045">Et pour mieux te payer et mieux te satisfaire,</l>
 	<l id="1046">Je puis te faire entrer au trône de son frère.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="1047" part="i">Vous le pourriez, Araxe !</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1047" part="f">Oui suivant mes desseins</l>
 	<l id="1048">Je puis faire tomber son sceptre entre tes mains.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="1049">Moi j’aimerais un sceptre acquis avec un crime !</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1050">Tout ce qui mène au trône est juste et légitime.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="1051">Ha ! Que ce sentiment qui me remplit d’effroi</l>
 	<l id="1052">Est indigne d’un cœur qui prétend être Roi.</l>
 	<l id="1053">J’ai conseillé la Reine en sujet qui l’honore,</l>
@@ -1468,49 +1468,49 @@
 	<l id="1057">Et ma fidélité de foi récompensée</l>
 	<l id="1058">Ne se plaindra jamais que l’amour l’ait blessée.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1059">Tu ne sais pas aimer, ou bien tu n’aimes pas.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="1060">Quoi ! Lorsqu’on sait aimer, fait-on des attentats ?</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1061">Tu veux être absolu, tu le fais bien paraître,</l>
 	<l id="1062">Et crains que ton ami ne devienne ton Maître.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="1063">Mes amis sont mes biens, mes amis sont mes Rois,</l>
 	<l id="1064">Tant qu’ils respecteront la Justice et ses droits ;</l>
 	<l id="1065">Enfin j’aime partout les desseins magnanimes,</l>
 	<l id="1066">Mais je n’ai point d’amis où l’on aime les crimes.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1067">Voulez-vous m’attaquer avecque ce discours ?</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="1068">Je voudrais vous servir aux dépens de mes jours.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1069">Certes vous m’en donnez un fort grand témoignage.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="1070">Vous ai-je abandonné prêt à faire naufrage ?</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1071">Vous vanter de ce bien c’est me l’avoir ravi.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="1072">C’est vous faire savoir que je vous ai servi.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1073">Le sort a fait ce bien que vous avez cru faire.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="1074">Implorez donc le sort s’il peut vous satisfaire.</l>
 	<l id="1075">Pour moi je vous promets du zèle et de la foi</l>
 	<l id="1076">Si le destin permet que vous soyez mon Roi.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1077">Et moi, quoi que la terre ou le Ciel me destine,</l>
 	<l id="1078">Ou Monarque, ou sujet, j’ai conclu ta ruine ;</l>
 	<l id="1079">Je ne veux point d’amis qui soient si généreux,</l>
@@ -1519,19 +1519,19 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Nitocris, Achate, Alcine.</head>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Nitocris, Achate, Alcine.</cast>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1081">Mais, Achate, a-t-il su ce que j’ai dedans l’âme ?</l>
 	<l id="1082" part="i">A-t-il su mon dessein ?</l>
 </sp>
-<sp who="ACHATE"><speaker>ACHATE.</speaker>
+<sp who="ACHATE"><hstage><speaker>ACHATE</speaker>.</hstage>
 	<l id="1082" part="f">N’en doutez point, Madame.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1083">Toutefois son conseil puissamment disputé</l>
 	<l id="1084">N’est pas sorti d’un cœur que le trône ait flatté.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="1085">Au moins il est sorti d’un cœur noble et fidèle</l>
 	<l id="1086">Qui dit les sentiments que lui donne son zèle.</l>
 	<l id="1087">Au moins il vous fait voir qu’il est sans intérêt,</l>
@@ -1539,7 +1539,7 @@
 	<l id="1089">Et que s’il possédait la grandeur souveraine,</l>
 	<l id="1090">Il y vivrait en Roi dont vous seriez la Reine.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1091">Cependant ses conseils qui me gagnent le cœur</l>
 	<l id="1092">Ôtent presque à l’amour le titre de vainqueur :</l>
 	<l id="1093">Et toujours sans dessein incertaine et flottante</l>
@@ -1551,7 +1551,7 @@
 	<l id="1099">De sorte qu’en mon cœur agité comme il est</l>
 	<l id="1100">L’amour se meurt sans cesse, et sans cesse renaît.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="1101">Pensez-vous que le Ciel qui des Princes dispose</l>
 	<l id="1102">En vain aux Potentats inspire quelque chose ?</l>
 	<l id="1103">Non, non, par votre amour il montre clairement</l>
@@ -1561,19 +1561,19 @@
 	<l id="1107">Le Ciel qui vous chérit, le Ciel veut témoigner</l>
 	<l id="1108">Que pour votre bonheur c’est lui qui doit régner.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1109">Mais enfin si le Ciel, où le sceptre se donne,</l>
 	<l id="1110">Voulait que Cléodate eût part à ma Couronne,</l>
 	<l id="1111">Il ne combattrait pas mon esprit inconstant</l>
 	<l id="1112">Par les fortes raisons que Cléodate rend.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="1113">Trop souvent du vrai bien pour qui notre âme est née,</l>
 	<l id="1114">Par de fausses raisons elle s’est détournée ;</l>
 	<l id="1115">Et le Ciel à vos yeux les veut représenter</l>
 	<l id="1116">Afin de les combattre, afin de les dompter.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1117">Je ne puis discerner, sage et prudent Achate,</l>
 	<l id="1118">Si son discours est vrai, mais au moins il me flatte ;</l>
 	<l id="1119">Mais qui n’est pas flatté par les impressions</l>
@@ -1585,49 +1585,49 @@
 	<l id="1124">Ce que m’ont inspiré le Ciel et le destin.</l>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE II. Nitocris, Araxe, Alcine.</head>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<div2 type="scene" n=""><head>SCÈNE II.</head><cast>Nitocris, Araxe, Alcine.</cast>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1125">Araxe, ton avis est la loi nécessaire</l>
 	<l id="1126">Que je veux m’imposer, et que j’ai dû me faire.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1127">Quiconque estimera votre tranquillité</l>
 	<l id="1128">Donnera ce conseil à votre majesté.</l>
 	<l id="1129">Plaise aux Dieux que l’État toujours d’intelligence</l>
 	<l id="1130">Imite mon respect et mon obéissance.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1131">Cléodate est celui sur qui les justes Dieux</l>
 	<l id="1132">M’ont fait porter enfin et l’esprit et les yeux.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1133">Cléodate Madame ! Il est incomparable,</l>
 	<l id="1134">Et vous ne pouvez faire un choix plus adorable ;</l>
 	<l id="1135">Il est digne d’avoir un rang entre les Rois,</l>
 	<l id="1136">Si pourtant son esprit peut souffrir votre choix.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1137" part="i">S’il peut souffrir mon choix !</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1137" part="f">Au moins je l’appréhende.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1138">Expliquez-vous, Araxe, et je vous le commande.</l>
 	<l id="1139">S’il peut souffrir mon choix ! Parlez, expliquez-vous,</l>
 	<l id="1140">Et surtout gardez-vous de parler en jaloux.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1141">Permettez donc plutôt que je perde la vie,</l>
 	<l id="1142">De peur qu’un zèle ardent ne passe pour envie.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="1143">Pour ne pas achever, vous avez trop parlé,</l>
 	<l id="1144">Parlez, parlez, Araxe, envieux ou zélé.</l>
 	<l id="1145">Quoi vous craindrez l’envie ainsi que quelque peine,</l>
 	<l id="1146">Et vous ne craindrez pas la fureur d’une Reine !</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1147">Je parlerai, Madame, et je suivrai vos lois</l>
 	<l id="1148">Puisque vous le voulez et qu’enfin je le dois.</l>
 	<l id="1149">Cléodate est charmé des beautés d’Axiane,</l>
@@ -1635,14 +1635,14 @@
 	<l id="1151">Et pour elle soumis, et pour elle inhumain</l>
 	<l id="1152">Jusque sur les Autels il porterait la main.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1153" part="i">Cléodate aimerait Axiane !</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1153" part="f">Il l’adore,</l>
 	<l id="1154">Et s’il pouvait plus faire, il ferait plus encore.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1155">Hé bien, Araxe, il aime, il s’est laissé charmer,</l>
 	<l id="1156">Est-ce un crime, est-ce un mal que l’on doive blâmer ?</l>
 	<l id="1157">S’il eût aimé la Reine avant que de connaître</l>
@@ -1658,7 +1658,7 @@
 	<l id="1167">Et quelque humilité qu’on semble témoigner</l>
 	<l id="1168">Bientôt le plus soumis se résout à régner.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1169">Je ne condamne point un amour magnanime,</l>
 	<l id="1170">Tout adorable objet rend l’amour légitime ;</l>
 	<l id="1171">Mais je condamne au moins ses injustes desseins,</l>
@@ -1684,28 +1684,28 @@
 	<l id="1191">Pour gagner Axiane il ose tout tenter,</l>
 	<l id="1192">Et par un crime heureux il veut la mériter.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1193">Quel témoin avez-vous contre cette pratique ?</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1194">On prend peu de témoins d’un dessein si tragique.</l>
 	<l id="1195">Et contre les grands maux que l’on peut redouter</l>
 	<l id="1196">L’apparence est la voix que l’on doit écouter.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1197" part="i">Achate.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1197" part="m">Elle lui parle.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1197" part="f">Allez, et qu’on le garde.</l>
 	<l id="1198">Lorsque l’on se néglige, Araxe, on se hasarde.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1199">Assurez-vous, Madame, et pour vous et pour nous.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1200">Oui je m’assurerai, mais ce sera de vous,</l>
 	<l id="1201">Si d’un crime si grand Cléodate est coupable,</l>
 	<l id="1202">Je saurai vous traiter en Princesse équitable ;</l>
@@ -1720,26 +1720,26 @@
 	<l id="1211">La noire calomnie étoufferait sa voix</l>
 	<l id="1212">Et ne régnerait pas dans la cour des grands Rois.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1213">Quand je veux vous servir me croyez-vous un traître ?</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1214">Araxe, le succès le fera reconnaître.</l>
 	<l id="1215">Qui n’est pas en péril s’il dépend du succès ?</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1216">Croyez que l’équité jugera ce procès</l>
 	<l id="1217" part="i">Allez, retirez-vous.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1217" part="f">Que mon sort est étrange.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Nitocris, Alcine.</head>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Nitocris, Alcine.</cast>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1218">Ainsi des lâchetés ma justice se venge.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="1219">Mais pardonnez, Madame, à mon zèle indiscret,</l>
 	<l id="1220">S’il ne peut se borner, ni se tenir secret.</l>
 	<l id="1221">Si vous devez traiter comme en cette aventure</l>
@@ -1751,7 +1751,7 @@
 	<l id="1227">Il est peu de sujets d’une si haute foi</l>
 	<l id="1228">Qui ne s’aiment autant qu’ils respectent leur Roi.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1229">Je sais ce que je fais, et jamais ma puissance</l>
 	<l id="1230">Aveugle et sans raison n’attaqua l’innocence.</l>
 	<l id="1231">Il est toujours, Araxe, à regret fléchissant,</l>
@@ -1763,28 +1763,28 @@
 	<l id="1237">N’est-ce pas attenter que de vouloir détruire</l>
 	<l id="1238">Et l’appui de ma gloire, et l’appui de l’Empire ?</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="1239">Oui c’est un attentat, mais votre Majesté</l>
 	<l id="1240">Croira-t-elle un soupçon comme une vérité ?</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1241">Ses vieilles trahisons confirment les nouvelles,</l>
 	<l id="1242">Et je n’écoute rien pour un chef de rebelles.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="1243">Mais la justice même est un monstre odieux</l>
 	<l id="1244">Quand elle est sans oreille aussi bien que sans yeux.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1245">Bien qu’Araxe soit tel que l’État l’appréhende,</l>
 	<l id="1246">Je ne m’étonne pas qu’Alcine le défende.</l>
 	<l id="1247">Je vois visiblement ce que ton cœur ressent,</l>
 	<l id="1248">Et ce que nous aimons nous paraît innocent.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="1249">Moi, moi, je l’aimerais ? Que dites-vous Madame ?</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1250">Je sais bien qu’il te trompe, et qu’il est dans ton âme.</l>
 	<l id="1251">Cache ta passion, feins, je te le permets,</l>
 	<l id="1252">Mais crois que j’ai des yeux où je ne suis jamais.</l>
@@ -1792,11 +1792,11 @@
 	<l id="1254">Et crains enfin un traître à l’instant qu’il te flatte.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Nitocris, Achate.</head>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Nitocris, Achate.</cast>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1255" part="i">A-t-on suivi mon ordre ?</l>
 </sp>
-<sp who="ACHATE"><speaker>ACHATE.</speaker>
+<sp who="ACHATE"><hstage><speaker>ACHATE</speaker>.</hstage>
 	<l id="1255" part="f">Il est exécuté.</l>
 	<l id="1256">L’on cherche Cléodate, Araxe est arrêté.</l>
 	<l id="1257">Mais souffrez que je parle avec cette franchise</l>
@@ -1806,14 +1806,14 @@
 	<l id="1261">Si ce qu’Araxe a dit n’est pas une imposture</l>
 	<l id="1262">Qui pourra de son cœur effacer cette injure ?</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1263">Mais s’il est imposteur, ai-je assez promptement</l>
 	<l id="1264">Contre sa lâcheté rendu ce jugement ?</l>
 </sp>
-<sp who="ACHATE"><speaker>ACHATE.</speaker>
+<sp who="ACHATE"><hstage><speaker>ACHATE</speaker>.</hstage>
 	<l id="1265">On ne saurait trop tôt châtier un coupable.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1266">J’ai donc trop différé de paraître équitable.</l>
 	<l id="1267">Mais s’il ne suffit pas qu’un Monarque parfait</l>
 	<l id="1268">Agisse justement si quelqu’un ne le sait,</l>
@@ -1843,10 +1843,10 @@
 	<l id="1292">Qui perdrait ce qu’il aime en faveur de l’État.</l>
 	<l id="1293" part="i">Mais ne viendra-t-il point ?</l>
 </sp>
-<sp who="ACHATE"><speaker>ACHATE.</speaker>
+<sp who="ACHATE"><hstage><speaker>ACHATE</speaker>.</hstage>
 	<l id="1293" part="f">On le cherche, Madame.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1294">Que de soins différents repassent dans mon âme !</l>
 	<l id="1295">L’imposture d’Araxe à me nuire obstiné</l>
 	<l id="1296">Se change en un soupçon dans mon esprit gêné.</l>
@@ -1855,40 +1855,40 @@
 	<l id="1299">Mais c’est un songe affreux qui travaille le cœur,</l>
 	<l id="1300">C’est un fantôme vain, c’est un rien qui fait peur.</l>
 </sp>
-<sp who="ACHATE"><speaker>ACHATE.</speaker>
+<sp who="ACHATE"><hstage><speaker>ACHATE</speaker>.</hstage>
 	<l id="1301" part="i">Mais voici Cléodate.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1301" part="f">À quels maux je m’expose !</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Nitocris, Cléodate.</head>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Nitocris, Cléodate.</cast>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1302">Je te veux seulement demander une chose,</l>
 	<l id="1303">Je te veux demander de même qu’un grand bien,</l>
 	<l id="1304">Que de la vérité tu ne me caches rien.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="1305">Si votre Majesté demandait le contraire</l>
 	<l id="1306">Je ne sais si mon cœur pourrait vous satisfaire.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1307" part="i">Aimes-tu ? Réponds-moi.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="1307" part="m">Si j’aime !</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1307" part="f">Réponds-moi,</l>
 	<l id="1308">Lorsqu’on hésite ainsi, l’on veut manquer de foi.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="1309">Plutôt le juste Ciel me punisse en profane.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1310">Mais enfin aimes-tu la Princesse Axiane ?</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="1311">Oui, Madame, je l’aime, et les Cieux irrités</l>
 	<l id="1312">Mêlent cette amertume à mes prospérités,</l>
 	<l id="1313">Lorsque j’ai demandé dans ma peine secrète</l>
@@ -1900,7 +1900,7 @@
 	<l id="1319">Et par ce libre aveu d’un injuste transport</l>
 	<l id="1320">Je cherche pour vous plaire ou l’exil ou la mort.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1321">Donc sans qu’il soit besoin de me faire outrage</l>
 	<l id="1322">Si pour toi mon esprit s’expliquait davantage,</l>
 	<l id="1323">Cet amour qui t’arrête en ses douces prisons</l>
@@ -1928,7 +1928,7 @@
 	<l id="1345">Les filles de son rang, quoi qu’elles se proposent,</l>
 	<l id="1346">Sont les biens des États, dont les États disposent.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="1347">Je vous ai dit que j’aime, hélas sans le savoir,</l>
 	<l id="1348">Car enfin est-ce aimer que d’aimer sans espoir ?</l>
 	<l id="1349">Non, non, je n’attends rien d’une flamme si vaine,</l>
@@ -1956,11 +1956,11 @@
 	<l id="1371">Si lors qu’il me confond et qu’il me fait rougir</l>
 	<l id="1372">Pour votre propre gloire il me faisait agir.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1373">Mais si je veux ma honte, et si je veux ma peine,</l>
 	<l id="1374">Est-ce à toi de régler le destin de ta Reine ?</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="1375">Mais il est d’un sujet qui respecte vos lois</l>
 	<l id="1376">De résister aux Rois pour la gloire des Rois.</l>
 	<l id="1377">Pardonnez donc, Madame, à cette ardeur extrême</l>
@@ -1976,26 +1976,26 @@
 	<l id="1387">Je manque en une chose où je puis recourir,</l>
 	<l id="1388">C’est ce que je vis encore et qu’il fallait mourir.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1389">Si tu fis pour ma gloire et pour mon avantage</l>
 	<l id="1390">Tout ce que pouvait un illustre courage,</l>
 	<l id="1391">Pourquoi ne veux-tu pas dans l’état où je suis</l>
 	<l id="1392">Que je fasse pour toi autant que je le puis ?</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="1393">Le devoir de sujet, cette loi que j’honore,</l>
 	<l id="1394">M’oblige incessamment à faire plus encore.</l>
 	<l id="1395">Mais un autre devoir où les Rois sont soumis</l>
 	<l id="1396">Veut que vous fassiez moins qu’il ne vous est permis.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1397">Tiens-toi donc au devoir et pour y satisfaire,</l>
 	<l id="1398">Regarde incessamment à qui tu peux déplaire.</l>
 	<l id="1399" part="i">Va j’ai l’esprit content.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Achate, Nitocris.</head>
-<sp who="ACHATE"><speaker>ACHATE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Achate, Nitocris.</cast>
+<sp who="ACHATE"><hstage><speaker>ACHATE</speaker>.</hstage>
 	<l id="1399" part="f">Enfin vous le voyez,</l>
 	<l id="1400">Araxe a moins failli que vous ne le croyez,</l>
 	<l id="1401">Tout ce qu’il vous a dit n’est pas une imposture,</l>
@@ -2003,7 +2003,7 @@
 	<l id="1403">Madame, cependant, Araxe est arrêté,</l>
 	<l id="1404">Et s’il est innocent, c’est un Prince irrité.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1405">Innocent ou coupable, on lui fera justice.</l>
 	<l id="1406">Mais va-t-en le trouver, sonde son artifice,</l>
 	<l id="1407">Sers-toi de ton esprit pour connaître le sien,</l>
@@ -2011,7 +2011,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII.</head>
-<sp who="NITOCRIS"><speaker>NITOCRIS seule.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker> seule.</hstage>
 	<l id="1409">Ha que j’éprouve bien parmi tant d’avantages</l>
 	<l id="1410">Que le trône est un Ciel jusqu’où vont les orages,</l>
 	<l id="1411">Ou que c’est un Autel sur un globe attaché</l>
@@ -2074,37 +2074,37 @@
 	<l id="1468">Avec plus de plaisir qu’un amour outragé ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Nitocris, Alcine.</head>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Nitocris, Alcine.</cast>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1469" part="i">Que veut-on ?</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="1469" part="f">S’il est vrai ce que l’on nous assure,</l>
 	<l id="1470">Le frère d’Axiane est dans la sépulture.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1471" part="i">Le Roi de la Médie !</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="1471" part="f">On m’a dit qu’il est mort.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1472">J’en ai de la douleur, et j’attends même sort.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Alchate, Alcine.</head>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Alchate, Alcine.</cast>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="1473">Araxe a-t-il commis ces fautes effroyables ?</l>
 </sp>
-<sp who="ACHATE"><speaker>ACHATE.</speaker>
+<sp who="ACHATE"><hstage><speaker>ACHATE</speaker>.</hstage>
 	<l id="1474">Il parle en innocent comme tous les coupables.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="1475">Mais où retournez-vous ? Ne puis-je le savoir ?</l>
 </sp>
-<sp who="ACHATE"><speaker>ACHATE.</speaker>
+<sp who="ACHATE"><hstage><speaker>ACHATE</speaker>.</hstage>
 	<l id="1476">Je vais le retrouver, la Reine le veut voir</l>
 	<l id="1477">Depuis qu’elle a reçu les Députés des Mèdes,</l>
 	<l id="1478">Il semble que son mal surpasse les remèdes,</l>
@@ -2115,27 +2115,27 @@
 	<l id="1483">Que ne peut un dépit si vif et si pressant</l>
 	<l id="1484">Alors qu’il se rencontre avec un bras puissant ?</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="1485">En effet, Cléodate aura peu de semblables.</l>
 </sp>
-<sp who="ACHATE"><speaker>ACHATE.</speaker>
+<sp who="ACHATE"><hstage><speaker>ACHATE</speaker>.</hstage>
 	<l id="1486">En effet, on voit peu de ces cœurs adorables.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="1487">Quelques-uns les prendraient pour des esprits blessés.</l>
 </sp>
-<sp who="ACHATE"><speaker>ACHATE.</speaker>
+<sp who="ACHATE"><hstage><speaker>ACHATE</speaker>.</hstage>
 	<l id="1488">Les seuls ambitieux les croiront insensés.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="1489">Enfin pour refuser un sceptre qu’on apporte,</l>
 	<l id="1490">Il faut avoir une âme ou bien faible ou bien forte.</l>
 </sp>
-<sp who="ACHATE"><speaker>ACHATE.</speaker>
+<sp who="ACHATE"><hstage><speaker>ACHATE</speaker>.</hstage>
 	<l id="1491">Chacun en jugera selon sa passion.</l>
 	<l id="1492">Mais il faut m’acquitter de ma commission.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE seule.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker> seule.</hstage>
 	<l id="1493">Que l’extrême fureur dure peu dans une âme</l>
 	<l id="1494">Lorsque l’amour y jette un rayon de sa flamme !</l>
 	<l id="1495">Hélas ! J’ai souhaité comme pour me venger</l>
@@ -2161,11 +2161,11 @@
 	<l id="1515" part="i">Mais la Reine...</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Nitocris, Cléodate, Alcine.</head>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Nitocris, Cléodate, Alcine.</cast>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1515" part="f">On saura ce que j’ai projeté.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="1516">Avez-vous des soupçons de ma fidélité ?</l>
 	<l id="1517">Croyez-vous que la mort d’un Prince magnanime</l>
 	<l id="1518">À mon transport aveugle ajoute quelque crime ?</l>
@@ -2174,15 +2174,15 @@
 	<l id="1521">Enfin, lorsqu’on m’attaque avec tant d’injustices</l>
 	<l id="1522">Croirez-vous l’imposture et non pas mes services.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1523">Au moins ta liberté montre assez clairement,</l>
 	<l id="1524">Que mon esprit douteux suspend son jugement.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="1525">Ha ! Madame, ce doute honore l’imposture,</l>
 	<l id="1526">Et fait à l’innocence une mortelle injure.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1527">S’il blesse l’innocence, il répare ce tort</l>
 	<l id="1528">En rendant son triomphe et plus noble et plus fort.</l>
 	<l id="1529">Mais obéis, va voir Axiane, et l’amène.</l>
@@ -2196,12 +2196,12 @@
 	<l id="1537">Ô Dieux, que la fureur ressemble à l’injustice !</l>
 	<l id="1538" part="i">Mais Araxe vient-il.</l>
 </sp>
-<sp who="ALCINE"><speaker>ALCINE.</speaker>
+<sp who="ALCINE"><hstage><speaker>ALCINE</speaker>.</hstage>
 	<l id="1538" part="f">Ô Ciel soit-lui propice ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Nitocris, Araxe.</head>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Nitocris, Araxe.</cast>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1539">Mais il entre, sortez, je veux l’interroger.</l>
 	<l id="1540">Achate éloignez-vous, et m’en laisser juger.</l>
 	<l id="1541">Araxe parle-moi, mais avec confidence,</l>
@@ -2224,7 +2224,7 @@
 	<l id="1557">Au moins prends assurance en la joy d’une Reine,</l>
 	<l id="1558">Que rougir devant moi sera ta seule peine.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1559">J’ai pensé vous servir de vous représenter</l>
 	<l id="1560">Ce que tant de raisons me faisaient redouter,</l>
 	<l id="1561">Mais si c’est un forfait qui regarde l’Empire</l>
@@ -2232,7 +2232,7 @@
 	<l id="1563">J’ai failli, je l’avoue, et ne m’en repends pas,</l>
 	<l id="1564">Puisque c’est pour sauver et vous et vos États.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1565">Quoi, n’est-ce pas assez de la première injure ?</l>
 	<l id="1566">Voulez-vous à l’audace ajouter l’imposture ?</l>
 	<l id="1567">Usez de ma bonté lorsque vous le pouvez,</l>
@@ -2242,7 +2242,7 @@
 	<l id="1571">Et que les Dieux n’ont point d’espace limité</l>
 	<l id="1572">Entre vous et la mort sinon ma volonté.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1573">Je sais que je dépends de votre bras auguste,</l>
 	<l id="1574">Je sais qu’il est puissant, mais je sais qu’il est juste ;</l>
 	<l id="1575">Comment pourra-t-on rendre un Roi victorieux</l>
@@ -2256,19 +2256,19 @@
 	<l id="1583">Il faut pour leur repos que les plus justes Rois</l>
 	<l id="1584">Laissent la liberté d’accuser quelquefois.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1585">Ne vous ruinez point avecque cette audace,</l>
 	<l id="1586">Pour la dernière fois je vous offre ma grâce,</l>
 	<l id="1587">Un mot de résistance allume mon courroux,</l>
 	<l id="1588">Voulez-vous des témoins, on les prendra chez vous.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1589" part="i">Ha Madame !</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1589" part="m">Achevez.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1589" part="f">Quoi que je puisse faire</l>
 	<l id="1590">Je ne crains pas la mort, je crains de vous déplaire.</l>
 	<l id="1591">Je cède à ce rayon de la divinité</l>
@@ -2300,8 +2300,8 @@
 	<l id="1616">Je n’aurais pas aimé, je serais innocent.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Nitocris, Achate.</head>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Nitocris, Achate.</cast>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1617">Sortez, et qu’il demeure en la chambre prochaine.</l>
 	<l id="1618">Vous le voyez, Achate, et sa faute est certaine,</l>
 	<l id="1619">Et par un artifice insolent, odieux,</l>
@@ -2313,15 +2313,15 @@
 	<l id="1625">Et vois par les conseils que Cléodate donne,</l>
 	<l id="1626">Qu’il aime en bon sujet le bien de ma Couronne.</l>
 </sp>
-<sp who="ACHATE"><speaker>ACHATE.</speaker>
+<sp who="ACHATE"><hstage><speaker>ACHATE</speaker>.</hstage>
 	<l id="1627">C’est là le sentiment que ma fidélité</l>
 	<l id="1628">S’efforça d’inspirer à votre Majesté.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1629">Il faut donc faire voir ma force et mon courage,</l>
 	<l id="1630">Mais, hélas ! J’entreprends un difficile ouvrage.</l>
 </sp>
-<sp who="ACHATE"><speaker>ACHATE.</speaker>
+<sp who="ACHATE"><hstage><speaker>ACHATE</speaker>.</hstage>
 	<l id="1631">Pour gagner sur soi-même un pouvoir souverain</l>
 	<l id="1632">Il faut être longtemps à soi-même inhumain.</l>
 	<l id="1633">Comme les autres biens d’une valeur extrême</l>
@@ -2365,14 +2365,14 @@
 	<l id="1671">Et sans nous exposer à recevoir des lois</l>
 	<l id="1672">Régnons enfin sur ceux que nous ferions nos Rois.</l>
 </sp>
-<sp who="ACHATE"><speaker>ACHATE.</speaker>
+<sp who="ACHATE"><hstage><speaker>ACHATE</speaker>.</hstage>
 	<l id="1673">Ha que cette victoire est digne d’une Reine !</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1674">Que ferai-je d’Araxe ? Enfin j’en suis en peine,</l>
 	<l id="1675">Et tout ce qu’il a fait excite mon courroux.</l>
 </sp>
-<sp who="ACHATE"><speaker>ACHATE.</speaker>
+<sp who="ACHATE"><hstage><speaker>ACHATE</speaker>.</hstage>
 	<l id="1676">En faveur du triomphe obtenu dessus vous,</l>
 	<l id="1677">Comme au jour solennel d’une grande victoire</l>
 	<l id="1678">Délivrez un coupable, et lui rendez sa gloire.</l>
@@ -2383,12 +2383,12 @@
 	<l id="1683">Alcine est de son rang, elle l’acceptera,</l>
 	<l id="1684">Et pour sa garantir Araxe l’aimera.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1685">Qu’on les fasse venir, essayons ces remèdes.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE DERNIÈRE. Nitocris, Axiane, Cléodate, Araxe, Alcine.</head>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE DERNIÈRE.</head><cast>Nitocris, Axiane, Cléodate, Araxe, Alcine.</cast>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1686">Mais voici Cléodate, et la Reine des Mèdes</l>
 	<l id="1687">Achève noblement le travail entrepris,</l>
 	<l id="1688">Et sois enfin toi seule, et ton bien et ton prix.</l>
@@ -2401,7 +2401,7 @@
 	<l id="1695">On m’oblige à porter votre esprit généreux</l>
 	<l id="1696">Au choix qu’ils veulent faire et pour vous et pour eux.</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="1697">Ils commencent bientôt à maltraiter leur Reine,</l>
 	<l id="1698">De la vouer peut-être à l’objet de sa haine.</l>
 	<l id="1699">Madame pardonnez à mon ressentiment,</l>
@@ -2415,7 +2415,7 @@
 	<l id="1707">Et pour vous rendre honneur je dois leur témoigner</l>
 	<l id="1708">Que j’ai par votre exemple appris à bien régner.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1709">Ce n’est pas une loi que leur main vous impose</l>
 	<l id="1710">C’est un juste dessein que leur crainte propose,</l>
 	<l id="1711">Et ce puissant destin qui veille incessamment</l>
@@ -2425,13 +2425,13 @@
 	<l id="1715">Par un présage heureux qu’ils seront bons sujets</l>
 	<l id="1716">Même sans y penser ils suivent vos projets.</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="1717">Je ne vous nierai pas qu’il est si magnanime</l>
 	<l id="1718">Qu’on doit à sa vertu bien plus que de l’estime.</l>
 	<l id="1719">Mais sachant vos desseins ainsi que votre choix</l>
 	<l id="1720">S’il était dans mon cœur, je vous le renvoierais.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1721">Enfin je vous le cède, ainsi qu’une victoire,</l>
 	<l id="1722">Et pour votre avantage, et pour ma propre gloire.</l>
 	<l id="1723">Vous pouvez noblement l’aimer à votre tour,</l>
@@ -2441,19 +2441,19 @@
 	<l id="1727">Il soutint votre trône, il le sut arrêter,</l>
 	<l id="1728">Et qui soutient un trône est digne d’y monter.</l>
 </sp>
-<sp who="AXIANE"><speaker>AXIANE.</speaker>
+<sp who="AXIANE"><hstage><speaker>AXIANE</speaker>.</hstage>
 	<l id="1729">Il faut suivre vos lois sur peine d’être ingrate,</l>
 	<l id="1730">Mais que puis-je donner au fameux Cléodate,</l>
 	<l id="1731">Je ne lui donne pas un trône qu’il sauva,</l>
 	<l id="1732">Madame, il le conquit lorsqu’il le conserva.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1733">Accepte, Cléodate, un sceptre qu’on te donne,</l>
 	<l id="1734">Tu ne pouvais manquer d’avoir une Couronne,</l>
 	<l id="1735">Et quoi qu’eût fait le Ciel, il ne t’eût rien donné</l>
 	<l id="1736">Si sa puissante main ne t’avait couronné.</l>
 </sp>
-<sp who="CLEODATE"><speaker>CLÉODATE.</speaker>
+<sp who="CLEODATE"><hstage><speaker>CLÉODATE</speaker>.</hstage>
 	<l id="1737">Puisque vous le voulez j’accepte la puissance,</l>
 	<l id="1738">Mais j’étais satisfait de mon obéissance ;</l>
 	<l id="1739">Et vous faites un Roi qu’après tant de bienfaits</l>
@@ -2463,7 +2463,7 @@
 	<l id="1743">Araxe a contre moi sans sujet attenté,</l>
 	<l id="1744">Je demande sa grâce à votre Majesté.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1745">Jamais ma volonté qui tâche d’être juste,</l>
 	<l id="1746">N’empêchera le cours d’une action auguste.</l>
 	<l id="1747">Araxe, des bontés toujours dignes des Rois</l>
@@ -2471,10 +2471,10 @@
 	<l id="1749">Et la prison fatale où ma loi te destine,</l>
 	<l id="1750">C’est le cœur amoureux de la Princesse Alcine.</l>
 </sp>
-<sp who="ARAXE"><speaker>ARAXE.</speaker>
+<sp who="ARAXE"><hstage><speaker>ARAXE</speaker>.</hstage>
 	<l id="1751">Qu’on reçoit aisément un jugement si doux.</l>
 </sp>
-<sp who="NITOCRIS"><speaker>NITOCRIS.</speaker>
+<sp who="NITOCRIS"><hstage><speaker>NITOCRIS</speaker>.</hstage>
 	<l id="1752">Ainsi je veux enfin favorable pour vous</l>
 	<l id="1753">Qu’on me connaisse moins par un beau diadème</l>
 	<l id="1754">Que par un grand triomphe obtenu sur moi-même,</l>

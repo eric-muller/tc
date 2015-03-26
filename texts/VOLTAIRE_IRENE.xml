@@ -84,15 +84,15 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Irène, Zoé.</head>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Irène, Zoé.</cast>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="1">Quel changement nouveau, quelle sombre terreur,</l>
 	<l id="2">Ont écarté de nous la cour et l’empereur ?</l>
 	<l id="3">Au palais des sept tours une garde inconnue</l>
 	<l id="4">Dans un silence morne étonne ici ma vue ;</l>
 	<l id="5">En un vaste désert on a changé la cour.</l>
 </sp>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="6">Aux murs de Constantin trop souvent un beau jour</l>
 	<l id="7">Est suivi des horreurs du plus funeste orage.</l>
 	<l id="8">La cour n’est pas longtemps le bruyant assemblage</l>
@@ -105,7 +105,7 @@
 	<l id="15">Mille ennemis cachés qu’on nous fait craindre encore,</l>
 	<l id="16">Sans doute en ce moment occupent Nicéphore.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="17">De ses chagrins secrets, qu’il veut dissimuler,</l>
 	<l id="18">Je connais trop la cause ; elle va m’accabler.</l>
 	<l id="19">Je sais par quels soupçons sa dureté jalouse</l>
@@ -130,7 +130,7 @@
 	<l id="38">Que mon devoir condamne, et qu’il me faut bannir.</l>
 	<l id="39">Ici l’air qu’on respire empoisonne ma vie.</l>
 </sp>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="40">De Nicéphore au moins la sombre jalousie</l>
 	<l id="41">Par d’indiscrets éclats n’a point manifesté</l>
 	<l id="42">Le sentiment honteux dont il est tourmenté :</l>
@@ -139,21 +139,21 @@
 	<l id="45">Vous cherchez à nourrir une injuste douleur.</l>
 	<l id="46" part="i">Que craignez-vous ?</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="46" part="f">Le ciel, Alexis, et mon cœur.</l>
 </sp>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="47">Mais Alexis Comnène aux champs de la Tauride</l>
 	<l id="48">Tout entier à la gloire, au devoir qui le guide,</l>
 	<l id="49">Sert l’empereur et vous sans vous inquiéter,</l>
 	<l id="50">Fidèle à ses serments jusqu’à vous éviter.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="51">Je sais que ce héros ne cherche que la gloire :</l>
 	<l id="52">Je ne saurais m’en plaindre. Il a par la victoire</l>
 	<l id="53">Raffermi cet empire ébranlé dès longtemps.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="54">Ah ! J’ai trop admiré ses exploits éclatants :</l>
 	<l id="55">Sa gloire de si loin m’a trop intéressée.</l>
 	<l id="56">César aura surpris au fond de ma pensée</l>
@@ -190,13 +190,13 @@
 	<l id="87">Mais on ouvre au palais... je vois Memnon paraître.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Irène, Zoé, Memnon.</head>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Irène, Zoé, Memnon.</cast>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="88">Eh bien ! En liberté puis-je voir votre maître ?</l>
 	<l id="89">Memnon, puis-je à mon tour être admise aujourd’hui</l>
 	<l id="90">Parmi les courtisans qu’il approche de lui ?</l>
 </sp>
-<sp who="MEMNON"><speaker>MEMNON</speaker>
+<sp who="MEMNON"><hstage><speaker>MEMNON</speaker></hstage>
 	<l id="91">Madame, j’avouerai qu’il veut à votre vue</l>
 	<l id="92">Dérober les chagrins de son âme abattue.</l>
 	<l id="93">Je ne suis point compté parmi les courtisans</l>
@@ -210,17 +210,17 @@
 	<l id="101">Qu’il vogue vers Byzance, et que César troublé</l>
 	<l id="102">Écoute en frémissant son conseil assemblé.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="103" part="i">Alexis, dites-vous ?</l>
 </sp>
-<sp who="MEMNON"><speaker>MEMNON</speaker>
+<sp who="MEMNON"><hstage><speaker>MEMNON</speaker></hstage>
 	<l id="103" part="f">Il revole au Bosphore.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="104">Il pourrait à ce point offenser Nicéphore !</l>
 	<l id="105" part="i">Revenir sans son ordre !</l>
 </sp>
-<sp who="MEMNON"><speaker>MEMNON</speaker>
+<sp who="MEMNON"><hstage><speaker>MEMNON</speaker></hstage>
 	<l id="105" part="f">On l’assure, et la cour</l>
 	<l id="106">S’alarme, se divise, et tremble à son retour.</l>
 	<l id="107">Il a brisé, dit-on, l’honorable esclavage</l>
@@ -244,13 +244,13 @@
 <stage>Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Irène, Zoé.</head>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Irène, Zoé.</cast>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="125">Qu’a-t-il osé me dire ? Et quel nouveau danger,</l>
 	<l id="126">Quel malheur imprévu vient encor m’affliger !</l>
 	<l id="127">Il ne s’explique point : je crains de le comprendre.</l>
 </sp>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="128">Memnon n’est qu’un guerrier prompt à tout entreprendre :</l>
 	<l id="129">Je le connais ; le sang d’assez près nous unit.</l>
 	<l id="130">Contre nos courtisans exhalant son dépit,</l>
@@ -265,7 +265,7 @@
 	<l id="139">Ne vous étonnez point quand sa sombre colère</l>
 	<l id="140">S’échappe en vous parlant, et peint son caractère.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="141">Mais Alexis revient... César est irrité :</l>
 	<l id="142">Le courtisan surpris murmure épouvanté.</l>
 	<l id="143">Les états convoqués dans Byzance incertaine,</l>
@@ -286,8 +286,8 @@
 	<l id="158">Trahissant ses serments... que vois-je ? Juste Dieu !</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE IV. Irène, Alexis, Zoé.</head>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<div2 type="scene" n="3"><head>SCÈNE IV.</head><cast>Irène, Alexis, Zoé.</cast>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="159">Daignez souffrir ma vue, et bannissez vos craintes...</l>
 	<l id="160">Je ne viens point troubler par d’inutiles plaintes</l>
 	<l id="161">Un cœur à qui le mien se doit sacrifier,</l>
@@ -307,7 +307,7 @@
 	<l id="175">Le suis-je encor par vous ? N’osez-vous reconnaître</l>
 	<l id="176">Dans le sang dont je suis le sang qui vous fit naître ?</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="177">Prince, que dites-vous ? Dans quel temps, dans quels lieux,</l>
 	<l id="178">Par ce retour fatal étonnez-vous mes yeux ?</l>
 	<l id="179">Vous connaissez trop bien quel joug m’a captivée,</l>
@@ -319,7 +319,7 @@
 	<l id="185">Vous n’avez pas prévu ce que vous hasardez.</l>
 	<l id="186">Vous me faites frémir : seigneur, vous vous perdez.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="187">Si je craignais pour vous je serais plus coupable ;</l>
 	<l id="188">Ma présence à César serait plus redoutable.</l>
 	<l id="189">Quoi donc ! Suis-je à Byzance ? Est-ce vous que je vois ?</l>
@@ -331,11 +331,11 @@
 	<l id="195">César a-t-il changé, dans sa sombre rudesse,</l>
 	<l id="196">L’esprit de l’occident et les mœurs de la Grèce ?</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="197">Du jour où Nicéphore ici reçut ma foi,</l>
 	<l id="198">Vous le savez assez, tout est changé pour moi.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="199">Hors mon cœur ; le destin le forma pour Irène :</l>
 	<l id="200">Il brave des césars la puissance et la haine.</l>
 	<l id="201">Il ne craindrait que vous ! Quoi ! Vos derniers sujets</l>
@@ -347,10 +347,10 @@
 	<l id="207">Enorgueilli surtout de cet hymen auguste,</l>
 	<l id="208">L’excès de son bonheur le rend-il plus injuste ?</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="209" part="i">Il est mon souverain.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="209" part="f">Non : il n’était pas né</l>
 	<l id="210">Pour me ravir le bien qui m’était destiné :</l>
 	<l id="211">Il n’en était pas digne ; et le sang des Comnènes</l>
@@ -368,24 +368,24 @@
 	<l id="223">Mais si le ciel est juste, il se souvient peut-être</l>
 	<l id="224">Qu’il devait à l’empire un moins barbare maître.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="225">Trop vains regrets ! Je suis esclave de ma foi.</l>
 	<l id="226">Seigneur, je l’ai donnée, elle n’est plus à moi.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="227" part="i">Ah ! Vous me la deviez.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="227" part="f">Et c’est à vous de croire</l>
 	<l id="228">Qu’il ne m’est pas permis d’en garder la mémoire.</l>
 	<l id="229">Je fais des vœux pour vous, et vous m’épouvantez.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Irène, Alexis, Zoé, un garde.</head>
-<sp who="GARDE"><speaker>LE GARDE</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Irène, Alexis, Zoé, un garde.</cast>
+<sp who="GARDE"><hstage><speaker>LE GARDE</speaker></hstage>
 	<l id="230" part="i">Seigneur, César vous mande.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="230" part="f">Il me verra : sortez.</l>
 <stage>À Irène.</stage>
 	<l id="231">Il me verra, madame ; une telle entrevue</l>
@@ -396,8 +396,8 @@
 <stage>Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Irène, Zoé.</head>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Irène, Zoé.</cast>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="236">De quel saisissement mon âme est pénétrée !</l>
 	<l id="237">Que je sens à la fois de faiblesse et d’horreur !</l>
 	<l id="238">Chaque mot qu’il m’a dit me remplit de terreur.</l>
@@ -407,13 +407,13 @@
 	<l id="242">Ont de tant de héros vu l’horrible destin.</l>
 	<l id="243">Interroge Memnon ; prends pitié de ma crainte.</l>
 </sp>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="244">J’irai, j’observerai cette terrible enceinte.</l>
 	<l id="245">Mais je tremble pour vous : un maître soupçonneux</l>
 	<l id="246">Vous condamne peut-être, et vous proscrit tous deux.</l>
 	<l id="247">Parmi tant de dangers que prétendez-vous faire ?</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="248">Garder à mon époux ma foi pure et sincère ;</l>
 	<l id="249">Vaincre un fatal amour, si son feu rallumé</l>
 	<l id="250">Renaissait dans ce cœur autrefois enflammé ;</l>
@@ -425,8 +425,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Alexis, Memnon.</head>
-<sp who="MEMNON"><speaker>MEMNON</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Alexis, Memnon.</cast>
+<sp who="MEMNON"><hstage><speaker>MEMNON</speaker></hstage>
 	<l id="255">Oui, vous êtes mandé ; mais César délibère.</l>
 	<l id="256">Dans son inquiétude il consulte, il diffère,</l>
 	<l id="257">Avec ses vils flatteurs en secret enfermé.</l>
@@ -452,7 +452,7 @@
 	<l id="277">Il se trompe... seigneur, quel secret embarras,</l>
 	<l id="278">Quand j’ai tout disposé, semble arrêter vos pas ?</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="279">Le remords... il faut bien que mon cœur te l’avoue.</l>
 	<l id="280">Quelques exploits heureux dont l’Europe me loue,</l>
 	<l id="281">Ma naissance, mon rang, la faveur du sénat,</l>
@@ -466,18 +466,18 @@
 	<l id="289">La honte est attachée à ce nom dangereux.</l>
 	<l id="290">Me verrai-je emporté plus loin que je ne veux ?</l>
 </sp>
-<sp who="MEMNON"><speaker>MEMNON</speaker>
+<sp who="MEMNON"><hstage><speaker>MEMNON</speaker></hstage>
 	<l id="291">La honte ! Elle est pour vous de servir sous un</l>
 	<l id="292" part="i">Maître.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="292" part="f">J’ose être son rival : je crains le nom de traître.</l>
 </sp>
-<sp who="MEMNON"><speaker>MEMNON</speaker>
+<sp who="MEMNON"><hstage><speaker>MEMNON</speaker></hstage>
 	<l id="293">Soyez son ennemi dans les champs de l’honneur,</l>
 	<l id="294">Disputez-lui l’empire, et soyez son vainqueur.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="295">Crois-tu que le Bosphore, et la superbe Thrace,</l>
 	<l id="296">Et ces grecs inconstants serviraient tant d’audace ?</l>
 	<l id="297">Je sais que les états sont pleins de sénateurs</l>
@@ -485,7 +485,7 @@
 	<l id="299">Ils pourraient soutenir ma sanglante querelle :</l>
 	<l id="300" part="i">Mais le peuple ?</l>
 </sp>
-<sp who="MEMNON"><speaker>MEMNON</speaker>
+<sp who="MEMNON"><hstage><speaker>MEMNON</speaker></hstage>
 	<l id="300" part="f">Il vous aime : au trône il vous appelle.</l>
 	<l id="301">Sa fougue est passagère, elle éclate à grand bruit ;</l>
 	<l id="302">Un instant la fait naître, un instant la détruit.</l>
@@ -518,22 +518,22 @@
 	<l id="329">Recueillez les débris de leurs sceptres brisés ;</l>
 	<l id="330">Vous régnez aujourd’hui, seigneur, si vous l’osez.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="331">Ami, tu me connais : j’ose tout pour Irène :</l>
 	<l id="332">Seule elle m’a banni, seule elle me ramène ;</l>
 	<l id="333">Seule sur mon esprit encore irrésolu</l>
 	<l id="334">Irène a conservé son pouvoir absolu.</l>
 	<l id="335">Rien ne me retient plus : on la menace, et j’aime.</l>
 </sp>
-<sp who="MEMNON"><speaker>MEMNON</speaker>
+<sp who="MEMNON"><hstage><speaker>MEMNON</speaker></hstage>
 	<l id="336">Je me trompe, seigneur, ou l’empereur lui-même</l>
 	<l id="337">Vient vous dicter ses lois dans ce lieu retiré.</l>
 	<l id="338" part="i">L’attendrez-vous encore ?</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="338" part="f">Oui, je lui répondrai.</l>
 </sp>
-<sp who="MEMNON"><speaker>MEMNON</speaker>
+<sp who="MEMNON"><hstage><speaker>MEMNON</speaker></hstage>
 	<l id="339">Déjà paraît sa garde : elle m’est confiée.</l>
 	<l id="340">Si de votre ennemi la haine étudiée</l>
 	<l id="341">A conçu contre vous quelques secrets desseins,</l>
@@ -542,8 +542,8 @@
 <stage>Il se retire dans le fond, et se met à la tête de la garde.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Nicéphore, suivi de deux officiers ; Alexis, Memnon, gardes, au fond.</head>
-<sp who="NICÉPHORE"><speaker>NICÉPHORE</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Nicéphore, suivi de deux officiers ; Alexis, Memnon, gardes, au fond.</cast>
+<sp who="NICÉPHORE"><hstage><speaker>NICÉPHORE</speaker></hstage>
 	<l id="343" part="f">Prince, votre présence</l>
 	<l id="344">A jeté dans ma cour un peu de défiance.</l>
 	<l id="345">Aux bords du Pont-Euxin vous m’avez bien servi ;</l>
@@ -553,13 +553,13 @@
 	<l id="349">Vous ne deviez paraître aux murs de Constantin</l>
 	<l id="350">Que sur un ordre exprès émané de ma main.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="351">Je ne le croyais pas... les états de l’empire</l>
 	<l id="352">Connaissent peu ces lois que vous voulez prescrire ;</l>
 	<l id="353">Et j’ai pu, sans faillir, remplir la volonté</l>
 	<l id="354">D’un corps auguste et saint, et par vous respecté.</l>
 </sp>
-<sp who="NICÉPHORE"><speaker>NICÉPHORE</speaker>
+<sp who="NICÉPHORE"><hstage><speaker>NICÉPHORE</speaker></hstage>
 	<l id="355">Je le protégerai tant qu’il sera fidèle ;</l>
 	<l id="356">Soyez-le, croyez-moi ; mais puisqu’il vous rappelle,</l>
 	<l id="357">C’est moi qui vous renvoie aux bords du Pont-Euxin.</l>
@@ -570,7 +570,7 @@
 	<l id="362">Vous ne le serez pas avec impunité...</l>
 	<l id="363">Voilà ce que César a prétendu vous dire.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="364">Les grands de qui la voix vous a donné l’empire,</l>
 	<l id="365">Qui m’ont fait de l’état le premier après vous,</l>
 	<l id="366">Seigneur, pourront fléchir ce violent courroux.</l>
@@ -581,10 +581,10 @@
 	<l id="371">Vous ne m’ôterez point un droit inviolable</l>
 	<l id="372">Que la loi de l’état ne ravit qu’au coupable.</l>
 </sp>
-<sp who="NICÉPHORE"><speaker>NICÉPHORE</speaker>
+<sp who="NICÉPHORE"><hstage><speaker>NICÉPHORE</speaker></hstage>
 	<l id="373" part="i">Vous osez le prétendre ?</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="373" part="f">Un simple citoyen</l>
 	<l id="374">L’oserait, le devrait ; et mon droit est le sien,</l>
 	<l id="375">Celui de tout mortel, dont le sort qui m’outrage</l>
@@ -596,39 +596,39 @@
 	<l id="381">Le sang de Nicéphore autrefois inconnu,</l>
 	<l id="382">Au rang de mes aïeux aujourd’hui parvenu.</l>
 </sp>
-<sp who="NICÉPHORE"><speaker>NICÉPHORE</speaker>
+<sp who="NICÉPHORE"><hstage><speaker>NICÉPHORE</speaker></hstage>
 	<l id="383">Je connais votre race, et plus, votre arrogance.</l>
 	<l id="384">Pour la dernière fois redoutez ma vengeance.</l>
 	<l id="385" part="i">N’obéirez-vous point ?</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="385" part="m">Non, seigneur.</l>
 </sp>
-<sp who="NICÉPHORE"><speaker>NICÉPHORE</speaker>
+<sp who="NICÉPHORE"><hstage><speaker>NICÉPHORE</speaker></hstage>
 	<l id="385" part="f">C’est assez.</l>
 <stage>Il appelle Memnon à lui par un signe, et lui donne un billet dans le fond du théâtre.</stage>
 	<l id="386">Servez l’empire et moi, vous qui m’obéissez.</l>
 <stage>Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Alexis, Memnon.</head>
-<sp who="MEMNON"><speaker>MEMNON</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Alexis, Memnon.</cast>
+<sp who="MEMNON"><hstage><speaker>MEMNON</speaker></hstage>
 	<l id="387" part="i">Moi, servir Nicéphore !</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS, après avoir observé le lieu où il se trouve.</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker>, après avoir observé le lieu où il se trouve.</hstage>
 	<l id="387" part="f">Il faut d’abord m’apprendre</l>
 	<l id="388">Ce que dit ce billet que l’on vient de te rendre.</l>
 </sp>
-<sp who="MEMNON"><speaker>MEMNON</speaker>
+<sp who="MEMNON"><hstage><speaker>MEMNON</speaker></hstage>
 	<l id="389" part="i">Voyez.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS, après avoir lu une partie du billet de sang-froid.</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker>, après avoir lu une partie du billet de sang-froid.</hstage>
 	<l id="389" part="f">Dans son conseil l’arrêt était porté !</l>
 	<l id="390">Et j’aurais dû m’attendre à cette atrocité !</l>
 	<l id="391">Il se flattait qu’en maître il condamnait Comnène.</l>
 	<l id="392" part="i">Il a signé ma mort.</l>
 </sp>
-<sp who="MEMNON"><speaker>MEMNON</speaker>
+<sp who="MEMNON"><hstage><speaker>MEMNON</speaker></hstage>
 	<l id="392" part="f">Il a signé la sienne.</l>
 	<l id="393">D’esclaves entouré, ce tyran ténébreux,</l>
 	<l id="394">Ce despote aveuglé m’a cru lâche comme eux :</l>
@@ -638,33 +638,33 @@
 	<l id="398">Pensent régner sans lois, et parler en sultans !</l>
 	<l id="399">Mais achevez, lisez cet ordre impitoyable.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS, relisant.</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker>, relisant.</hstage>
 	<l id="400">Plus que je ne pensais ce despote est coupable :</l>
 	<l id="401">Irène prisonnière ! Est-il bien vrai, Memnon ?</l>
 </sp>
-<sp who="MEMNON"><speaker>MEMNON</speaker>
+<sp who="MEMNON"><hstage><speaker>MEMNON</speaker></hstage>
 	<l id="402">Le tombeau, pour les grands, est près de la prison.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="403">Ô ciel !... de tes projets Irène est-elle instruite ?</l>
 </sp>
-<sp who="MEMNON"><speaker>MEMNON</speaker>
+<sp who="MEMNON"><hstage><speaker>MEMNON</speaker></hstage>
 	<l id="404">Elle en peut soupçonner et la cause et la suite :</l>
 	<l id="405" part="i">Le reste est inconnu.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="405" part="f">Gardons de l’affliger,</l>
 	<l id="406">Et surtout, cher ami, cachons-lui son danger.</l>
 	<l id="407">L’entreprise bientôt doit être découverte ;</l>
 	<l id="408">Mais c’est quand on saura ma victoire ou ma perte.</l>
 </sp>
-<sp who="MEMNON"><speaker>MEMNON</speaker>
+<sp who="MEMNON"><hstage><speaker>MEMNON</speaker></hstage>
 	<l id="409">Nos amis vont se joindre à ces braves soldats.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="410" part="i">Sont-ils prêts à marcher ?</l>
 </sp>
-<sp who="MEMNON"><speaker>MEMNON</speaker>
+<sp who="MEMNON"><hstage><speaker>MEMNON</speaker></hstage>
 	<l id="410" part="f">Seigneur, n’en doutez pas :</l>
 	<l id="411">Leur troupe en ce moment va s’ouvrir un passage.</l>
 	<l id="412">Croyez que l’amitié, le zèle, et le courage,</l>
@@ -674,7 +674,7 @@
 	<l id="416">L’empereur va lui-même en défendre l’entrée :</l>
 	<l id="417">Du peuple soulevé j’entends déjà les cris.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="418">Nous n’avons qu’un moment ; je règne, ou je péris :</l>
 	<l id="419">Le sort en est jeté. Prévenons Nicéphore.</l>
 <stage>Aux soldats.</stage>
@@ -686,8 +686,8 @@
 	<l id="425" part="i">Marchons sans balancer.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Alexis, Irène, Memnon.</head>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Alexis, Irène, Memnon.</cast>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="425" part="f">Où courez-vous ? Ô ciel !</l>
 	<l id="426">Alexis ! Arrêtez : que faites-vous ? Cruel !</l>
 	<l id="427">Demeurez ; rendez-vous à mes soins légitimes ;</l>
@@ -703,14 +703,14 @@
 	<l id="437">Ils vous cherchent tous deux dans ces périls</l>
 	<l id="438" part="i">Pressants. Seigneur, écoutez-les.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="438" part="f">Irène, il n’est plus temps :</l>
 	<l id="439">La querelle est trop grande : elle est trop engagée.</l>
 	<l id="440">Je les écouterai quand vous serez vengée.</l>
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="441">Il me fuit ! Que deviens-je ? Ô ciel ! Et quel moment !</l>
 	<l id="442">Mon époux va périr ou frapper mon amant !</l>
 	<l id="443">Je me jette en tes bras, ô dieu qui m’as fait naître !</l>
@@ -731,14 +731,14 @@
 	<l id="458">Dieu, qui sais pardonner, veille sur Alexis.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Irène, Zoé.</head>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Irène, Zoé.</cast>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="459" part="i">Ils sont aux mains ; rentrez.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="459" part="m">Et mon père ?</l>
 </sp>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="459" part="f">Il arrive ;</l>
 	<l id="460">Il fend les flots du peuple, et la foule craintive</l>
 	<l id="461">De femmes, de vieillards, d’enfants, qui dans leurs bras</l>
@@ -753,7 +753,7 @@
 	<l id="470">Mais ne vous perdez pas en voulant la sauver :</l>
 	<l id="471">Attendez du combat au moins quelque nouvelle.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="472">Non, Zoé ; le ciel veut que je tombe avec elle :</l>
 	<l id="473">Non, je ne dois point vivre en nos murs embrasés,</l>
 	<l id="474">Au milieu des tombeaux que mes mains ont creusés.</l>
@@ -761,8 +761,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Irène, Zoé.</head>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Irène, Zoé.</cast>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="475">Votre unique parti, madame, était d’attendre</l>
 	<l id="476">L’irrévocable arrêt que le destin va rendre :</l>
 	<l id="477">Une scythe aurait pu, dans les rangs des soldats,</l>
@@ -780,7 +780,7 @@
 	<l id="489">Autant elle chérit un héros opprimé.</l>
 	<l id="490" part="i">Il vaincra, puisqu’on l’aime.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="490" part="f">Eh ! Que sert d’être aimé ?</l>
 	<l id="491">On est plus malheureux. Je sens trop que moi-même</l>
 	<l id="492">Je crains de rechercher s’il est vrai que je l’aime,</l>
@@ -790,7 +790,7 @@
 	<l id="496">Combien dans ce palais j’ai rassemblé de crimes.</l>
 	<l id="497" part="i">Ils sont tous mon ouvrage !</l>
 </sp>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="497" part="f">À vos justes douleurs</l>
 	<l id="498">Voulez-vous du remords ajouter les terreurs ?</l>
 	<l id="499">Votre père a quitté la retraite sacrée</l>
@@ -803,21 +803,21 @@
 	<l id="506">Que le destin refuse à vos afflictions :</l>
 	<l id="507" part="i">Jetez-vous dans ses bras.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="507" part="f">M’en trouvera-t-il digne ?</l>
 	<l id="508">Aurai-je mérité que cet effort insigne</l>
 	<l id="509">Le ramène à sa fille en ce cruel séjour,</l>
 	<l id="510">Qu’il affronte pour moi les horreurs de la cour ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Irène, Léonce, Zoé.</head>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Irène, Léonce, Zoé.</cast>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="511">Est-ce vous qu’en ces lieux mon désespoir contemple ?</l>
 	<l id="512">Soutien des malheureux, mon père ! Mon exemple !</l>
 	<l id="513">Quoi ! Vous quittez pour moi le séjour de la paix !</l>
 	<l id="514">Hélas ! Qu’avez-vous vu dans celui des forfaits ?</l>
 </sp>
-<sp who="LÉONCE"><speaker>LÉONCE</speaker>
+<sp who="LÉONCE"><hstage><speaker>LÉONCE</speaker></hstage>
 	<l id="515">Les murs de Constantin sont un champ de carnage.</l>
 	<l id="516">J’ignore, grâce aux cieux, quel étonnant orage,</l>
 	<l id="517">Quels intérêts de cour, et quelles factions,</l>
@@ -836,13 +836,13 @@
 	<l id="530">De ce trône avili renversés tour à tour...</l>
 	<l id="531">Celui de Dieu, ma fille, est seul inébranlable.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="532">On vient mettre le comble à l’horreur qui m’accable ;</l>
 	<l id="533">Et voilà des guerriers qui m’annoncent mon sort.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Irène, Léonce, Zoé, Memnon, suite.</head>
-<sp who="MEMNON"><speaker>MEMNON</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Irène, Léonce, Zoé, Memnon, suite.</cast>
+<sp who="MEMNON"><hstage><speaker>MEMNON</speaker></hstage>
 	<l id="534">Il n’est plus de tyran : c’en est fait, il est mort ;</l>
 	<l id="535">Je l’ai vu. C’est en vain qu’étouffant sa colère,</l>
 	<l id="536">Et tenant sous ses pieds ce fatal adversaire,</l>
@@ -868,11 +868,11 @@
 <stage>Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Irène, Léonce, Zoé.</head>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Irène, Léonce, Zoé.</cast>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="555" part="i">Que dois-je faire ? Ô Dieu !</l>
 </sp>
-<sp who="LÉONCE"><speaker>LÉONCE</speaker>
+<sp who="LÉONCE"><hstage><speaker>LÉONCE</speaker></hstage>
 	<l id="555" part="f">Croire un père et le suivre.</l>
 	<l id="556">Dans ce séjour de sang vous ne pouvez plus vivre</l>
 	<l id="557">Sans vous rendre exécrable à la postérité.</l>
@@ -893,7 +893,7 @@
 	<l id="572">Je ne vous parle point d’un père qui vous aime ;</l>
 	<l id="573">C’est vous que j’en veux croire ; écoutez votre cœur.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="574">J’écoute vos conseils ; ils sont justes, seigneur ;</l>
 	<l id="575">Ils sont sacrés : je sais qu’un respectable usage</l>
 	<l id="576">Prescrit la solitude à mon fatal veuvage.</l>
@@ -902,7 +902,7 @@
 	<l id="579">J’ai trop besoin de fuir et ce monde que j’aime,</l>
 	<l id="580">Et son prestige horrible... et de me fuir moi-même.</l>
 </sp>
-<sp who="LÉONCE"><speaker>LÉONCE</speaker>
+<sp who="LÉONCE"><hstage><speaker>LÉONCE</speaker></hstage>
 	<l id="581">Venez donc, cher appui de ma caducité ;</l>
 	<l id="582">Oubliez avec moi tout ce que j’ai quitté :</l>
 	<l id="583">Croyez qu’il est encore, au sein de la retraite,</l>
@@ -914,14 +914,14 @@
 	<l id="589">Que vous accomplirez dans ces tristes remparts</l>
 	<l id="590">Les devoirs imposés aux veuves des césars.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="591">Ces devoirs, il est vrai, peuvent sembler austères :</l>
 	<l id="592">Mais, s’ils sont rigoureux, ils me sont nécessaires.</l>
 </sp>
-<sp who="LÉONCE"><speaker>LÉONCE</speaker>
+<sp who="LÉONCE"><hstage><speaker>LÉONCE</speaker></hstage>
 	<l id="593">Qu’Alexis pour jamais soit oublié de nous.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="594">Quand je dois l’oublier, pourquoi m’en parlez-vous ?</l>
 	<l id="595">Je sais que j’aurais dû vous demander pour grâce</l>
 	<l id="596">Ces fers que vous m’offrez, et qu’il faut que j’embrasse.</l>
@@ -936,17 +936,17 @@
 	<l id="605">J’en fais entre vos mains un serment solennel...</l>
 	<l id="606">Je descends de ce trône, et je marche à l’autel.</l>
 </sp>
-<sp who="LÉONCE"><speaker>LÉONCE</speaker>
+<sp who="LÉONCE"><hstage><speaker>LÉONCE</speaker></hstage>
 	<l id="607">Adieu : souvenez-vous de ce serment terrible.</l>
 <stage>Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Irène, Zoé.</head>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Irène, Zoé.</cast>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="608">Quel est ce joug nouveau qu’à votre cœur sensible</l>
 	<l id="609">Un père impose encore en ce jour effrayant ?</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="610">Oui, je le veux remplir ce rigoureux serment ;</l>
 	<l id="611">Oui, je veux consommer mon fatal sacrifice.</l>
 	<l id="612">Je change de prison, je change de supplice.</l>
@@ -956,7 +956,7 @@
 	<l id="616">Oseras-tu me suivre au fond de ces retraites</l>
 	<l id="617">Où mes jours malheureux vont être ensevelis ?</l>
 </sp>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="618">Les miens dans tous les temps vous sont assujettis.</l>
 	<l id="619">Je vois que notre sexe est né pour l’esclavage ;</l>
 	<l id="620">Sur le trône, en tout temps, ce fut votre partage :</l>
@@ -969,7 +969,7 @@
 	<l id="627">Les usages, les lois, l’opinion publique,</l>
 	<l id="628">Le devoir, tout vous tient sous un joug tyrannique.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="629">Je porterai ma chaîne... il ne m’est plus permis</l>
 	<l id="630">D’oser m’intéresser aux destins d’Alexis :</l>
 	<l id="631">Je ne puis respirer le même air qu’il respire.</l>
@@ -990,8 +990,8 @@
 	<l id="645" part="i">Ciel !</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Irène, Alexis, gardes, qui se retirent après avoir mis un trophée aux pieds d’Irène.</head>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Irène, Alexis, gardes, qui se retirent après avoir mis un trophée aux pieds d’Irène.</cast>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="645" part="f">Je mets à vos pieds, en ce jour de terreur,</l>
 	<l id="646">Tout ce que je vous dois, un empire et mon cœur.</l>
 	<l id="647">Je n’ai point disputé cet empire funeste ;</l>
@@ -1001,11 +1001,11 @@
 	<l id="651">Régnez, puisque je règne, et que ce jour commence</l>
 	<l id="652">Mon bonheur et le vôtre, et celui de Byzance.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="653">Quel bonheur effroyable ! Ah, prince ! Oubliez-vous</l>
 	<l id="654">Que vous êtes couvert du sang de mon époux ?</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="655">Oui ! Je veux de la terre effacer sa mémoire ;</l>
 	<l id="656">Que son nom soit perdu dans l’éclat de ma gloire ;</l>
 	<l id="657">Que l’empire romain, dans sa félicité,</l>
@@ -1021,13 +1021,13 @@
 	<l id="667">Ramenez les beaux jours où l’heureuse Livie</l>
 	<l id="668">Fit adorer Auguste à la terre asservie.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="669">Alexis ! Alexis ! Ne nous abusons pas :</l>
 	<l id="670">Les forfaits et la mort ont marché sur nos pas ;</l>
 	<l id="671">Le sang crie ; il s’élève, il demande justice.</l>
 	<l id="672">Meurtrier de césar, suis-je votre complice ?</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="673">Ce sang sauvait le vôtre, et vous m’en punissez !</l>
 	<l id="674">Qui ? Moi ? Je suis coupable à vos yeux offensés !</l>
 	<l id="675">Un despote jaloux, un maître impitoyable,</l>
@@ -1037,7 +1037,7 @@
 	<l id="679">Contre votre tyran quand j’osais vous défendre,</l>
 	<l id="680">À votre ingratitude aurais-je dû m’attendre ?</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="681">Je n’étais point ingrate : un jour vous apprendrez</l>
 	<l id="682">Les malheureux combats de mes sens déchirés ;</l>
 	<l id="683">Vous plaindrez une femme en qui, dès son enfance,</l>
@@ -1047,31 +1047,31 @@
 	<l id="687">Vous saurez qu’il en coûte alors qu’on sacrifie</l>
 	<l id="688">À des devoirs sacrés le bonheur de sa vie.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="689">Quoi ! Vous pleurez, Irène ! Et vous m’abandonnez !</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="690">À nous fuir pour jamais nous sommes condamnés.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="691">Eh ! Qui donc nous condamne ? Une loi fanatique !</l>
 	<l id="692">Un respect insensé pour un usage antique,</l>
 	<l id="693">Embrassé par un peuple amoureux des erreurs,</l>
 	<l id="694">Méprisé des césars, et surtout des vainqueurs !</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="695">Nicéphore au tombeau me retient asservie,</l>
 	<l id="696">Et sa mort nous sépare encor plus que sa vie.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="697">Chère et fatale Irène, arbitre de mon sort,</l>
 	<l id="698">Vous vengez Nicéphore et me donnez la mort.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="699">Vivez, régnez sans moi, rendez heureux l’empire :</l>
 	<l id="700">Le destin vous seconde ; il veut qu’une autre expire.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="701">Et vous daignez parler avec tant de bonté !</l>
 	<l id="702">Et vous vous obstinez à tant de cruauté !</l>
 	<l id="703">Que m’offriraient de pis la haine et la colère ?</l>
@@ -1079,10 +1079,10 @@
 	<l id="705">Un père, je le vois, vous contraint de me fuir :</l>
 	<l id="706">À quel autre auriez-vous promis de vous trahir ?</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="707" part="i">À moi-même, Alexis.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="707" part="f">Non, je ne le puis croire,</l>
 	<l id="708">Vous n’avez point cherché cette affreuse victoire ;</l>
 	<l id="709">Vous ne renoncez point au sang dont vous sortez,</l>
@@ -1105,17 +1105,17 @@
 	<l id="726">Persécute son sang, son maître, et son vengeur.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Irène, Alexis, Zoé.</head>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Irène, Alexis, Zoé.</cast>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="727">Madame, on vous attend : Léonce votre père,</l>
 	<l id="728">Le ministre du dieu qui règne au sanctuaire,</l>
 	<l id="729">Sont prêts à vous conduire, hélas ! Selon vos vœux,</l>
 	<l id="730">À cet auguste asile... heureux ou malheureux.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="731" part="i">Tout est prêt : je vous suis...</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="731" part="f">Et moi, je vous devance ;</l>
 	<l id="732">Je vais de ces ingrats réprimer l’insolence,</l>
 	<l id="733">M’assurer à leurs yeux du prix de mes travaux,</l>
@@ -1123,7 +1123,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII.</head>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="735">Que vais-je devenir ? Comment échapperai-je</l>
 	<l id="736">Au précipice horrible, au redoutable piége,</l>
 	<l id="737">Où mes pas égarés sont conduits malgré moi ?</l>
@@ -1142,23 +1142,23 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Irène, Zoé.</head>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Irène, Zoé.</cast>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="749">Quoi ! Vous n’avez osé, timide et confondue,</l>
 	<l id="750">D’un père et d’un amant soutenir l’entrevue !</l>
 	<l id="751">Ah ! Madame ! En secret auriez-vous pu sentir</l>
 	<l id="752">De ce départ fatal un juste repentir ?</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="753" part="i">Moi !</l>
 </sp>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="753" part="f">Souvent le danger dont on bravait l’image,</l>
 	<l id="754">Au moment qu’il approche, étonne le courage :</l>
 	<l id="755">La nature s’effraye, et nos secrets penchants</l>
 	<l id="756">Se réveillent dans nous, plus forts et plus puissants.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="757">Non, je n’ai point changé ; je suis toujours la même ;</l>
 	<l id="758">Je m’abandonne entière à mon père qui m’aime.</l>
 	<l id="759">Il est vrai, je n’ai pu, dans ce fatal moment,</l>
@@ -1175,7 +1175,7 @@
 	<l id="770">Mes sentiments, ma crainte, et les maux que j’endure.</l>
 	<l id="771" part="i">Ah ! Que fait Alexis ?</l>
 </sp>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="771" part="f">Il veut en souverain</l>
 	<l id="772">Vous replacer au trône, et vous donner sa main.</l>
 	<l id="773">À Léonce, au pontife, il s’expliquait en maître ;</l>
@@ -1183,14 +1183,14 @@
 	<l id="775">Il ne souffrira point que vous osiez jamais</l>
 	<l id="776">Disposer de vous-même, et sortir du palais.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="777">Ciel, qui lis dans mon cœur, qui vois mon sacrifice,</l>
 	<l id="778">Tu ne souffriras pas que je sois sa complice !</l>
 </sp>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="779">Que vous êtes en proie à de tristes combats !</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="780">Tu les connais ; plains-moi, ne me condamne pas.</l>
 	<l id="781">Tout ce que peut tenter une faible mortelle,</l>
 	<l id="782">Pour se punir soi-même, et pour régner sur elle,</l>
@@ -1200,23 +1200,23 @@
 	<l id="786">Il repousse mes mains vers son trône étendues ;</l>
 	<l id="787" part="i">Il s’éloigne.</l>
 </sp>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="787" part="f">Et pourtant, libre dans vos ennuis,</l>
 	<l id="788" part="i">Vous fuyez votre amant.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="788" part="f">Peut-être je ne puis.</l>
 </sp>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="789">Je vous vois résister au feu qui vous dévore.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="790">En voulant l’étouffer, l’allumerais-je encore ?</l>
 </sp>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="791">Alexis ne veut vivre et régner que pour vous.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="792">Non, jamais Alexis ne sera mon époux.</l>
 	<l id="793">Eh bien ! Si dans la Grèce un usage barbare,</l>
 	<l id="794">Contraire à ceux de Rome, indignement sépare</l>
@@ -1226,20 +1226,20 @@
 	<l id="798">Que du haut de son trône ait prononcé Dieu même ?</l>
 	<l id="799">Contre vous de sa foudre a-t-il voulu s’armer ?</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="800">Oui : tu vois quel mortel il me défend d’aimer.</l>
 </sp>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="801">Ainsi, loin du palais où vous fûtes nourrie,</l>
 	<l id="802">Vous allez, belle Irène, enterrer votre vie !</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="803">Je ne sais où je vais... humains ! Faibles humains !</l>
 	<l id="804">Réglons-nous notre sort ? Est-il entre nos mains ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Irène, Léonce, Zoé.</head>
-<sp who="LÉONCE"><speaker>LÉONCE</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Irène, Léonce, Zoé.</cast>
+<sp who="LÉONCE"><hstage><speaker>LÉONCE</speaker></hstage>
 	<l id="805">Ma fille, il faut me suivre, et fuir en diligence</l>
 	<l id="806">Ce séjour odieux fatal à l’innocence.</l>
 	<l id="807">Cessez de redouter, en marchant sur mes pas,</l>
@@ -1257,17 +1257,17 @@
 	<l id="819">Vous avez trop appris qu’elle est à dédaigner :</l>
 	<l id="820">C’est loin du trône enfin que vous allez régner.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="821">Je vous l’ai déjà dit, sans regret je le quitte.</l>
 	<l id="822">Le nouveau césar vient ; je pars, et je l’évite.</l>
 <stage>Elle sort.</stage>
 </sp>
-<sp who="LÉONCE"><speaker>LÉONCE</speaker>
+<sp who="LÉONCE"><hstage><speaker>LÉONCE</speaker></hstage>
 	<l id="823" part="i">Je ne vous quitte pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Alexis, Léonce.</head>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Alexis, Léonce.</cast>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="823" part="f">C’en est trop ; arrêtez :</l>
 	<l id="824">Pour la dernière fois, père injuste, écoutez ;</l>
 	<l id="825">Écoutez votre maître à qui le sang vous lie,</l>
@@ -1295,7 +1295,7 @@
 	<l id="847">Embrassez un fils tendre, et né pour vous chérir,</l>
 	<l id="848">Ou craignez un vengeur armé pour vous punir.</l>
 </sp>
-<sp who="LÉONCE"><speaker>LÉONCE</speaker>
+<sp who="LÉONCE"><hstage><speaker>LÉONCE</speaker></hstage>
 	<l id="849">Ne soyez l’un ni l’autre, et tâchez d’être juste.</l>
 	<l id="850">Rapidement porté jusqu’à ce trône auguste,</l>
 	<l id="851">Méritez vos succès... écoutez-moi, seigneur :</l>
@@ -1320,7 +1320,7 @@
 	<l id="870">Teint du sang d’un époux et de celui d’un père :</l>
 	<l id="871" part="i">Frappez...</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS, en se détournant.</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker>, en se détournant.</hstage>
 	<l id="871" part="f">Je ne le puis... et, malgré mon courroux,</l>
 	<l id="872">Ce cœur que vous percez s’est attendri sur vous.</l>
 	<l id="873">La dureté du vôtre est-elle inaltérable ?</l>
@@ -1339,17 +1339,17 @@
 	<l id="886">D’un affreux préjugé laissez là l’imposture ;</l>
 	<l id="887" part="i">Cessez...</l>
 </sp>
-<sp who="LÉONCE"><speaker>LÉONCE</speaker>
+<sp who="LÉONCE"><hstage><speaker>LÉONCE</speaker></hstage>
 	<l id="887" part="f">Dans quelle erreur votre esprit est plongé ?</l>
 	<l id="888">La voix de l’univers est-elle un préjugé ?</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="889">Vous disputez, Léonce, et moi je suis sensible.</l>
 </sp>
-<sp who="LÉONCE"><speaker>LÉONCE</speaker>
+<sp who="LÉONCE"><hstage><speaker>LÉONCE</speaker></hstage>
 	<l id="890">Je le suis comme vous... le ciel est inflexible.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="891">Vous le faites parler : vous me forcez, cruel,</l>
 	<l id="892">À combattre à la fois et mon père et le ciel.</l>
 	<l id="893">Plus de sang va couler pour cette injuste Irène,</l>
@@ -1365,34 +1365,34 @@
 	<l id="903">De l’hymen qu’on réprouve allumer les flambeaux</l>
 	<l id="904">Au milieu des débris, du sang, et des tombeaux.</l>
 </sp>
-<sp who="LÉONCE"><speaker>LÉONCE</speaker>
+<sp who="LÉONCE"><hstage><speaker>LÉONCE</speaker></hstage>
 	<l id="905">Voilà donc les horreurs où la grandeur suprême,</l>
 	<l id="906">Alors qu’elle est sans frein, s’abandonne elle-même !</l>
 	<l id="907" part="i">Je vous plains de régner.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="907" part="f">Je me suis emporté :</l>
 	<l id="908">Je le sens, j’en rougis ; mais votre cruauté,</l>
 	<l id="909">Tranquille en me frappant, barbare avec étude,</l>
 	<l id="910">Insulte avec plus d’art, et porte un coup plus rude.</l>
 	<l id="911" part="i">Retirez-vous ; fuyez.</l>
 </sp>
-<sp who="LÉONCE"><speaker>LÉONCE</speaker>
+<sp who="LÉONCE"><hstage><speaker>LÉONCE</speaker></hstage>
 	<l id="911" part="f">J’attendrai donc, seigneur,</l>
 	<l id="912">Que l’équité m’appelle, et parle à votre cœur.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="913">Non, vous n’attendrez point : décidez tout à l’heure</l>
 	<l id="914">S’il faut que je me venge, ou s’il faut que je meure.</l>
 </sp>
-<sp who="LÉONCE"><speaker>LÉONCE</speaker>
+<sp who="LÉONCE"><hstage><speaker>LÉONCE</speaker></hstage>
 	<l id="915">Voilà mon sang, vous dis-je, et je l’offre à vos coups.</l>
 	<l id="916">Respectez mon devoir ; il est plus fort que vous.</l>
 <stage>Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="917">Que son sort est heureux ! Assis sur le rivage,</l>
 	<l id="918">Il regarde en pitié ce turbulent orage</l>
 	<l id="919">Qui de mon triste règne a commencé le cours.</l>
@@ -1412,11 +1412,11 @@
 	<l id="933" part="i">Entrons.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Alexis, Zoé.</head>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Alexis, Zoé.</cast>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="933" part="f">Eh bien ! Zoé, que venez-vous m’apprendre ?</l>
 </sp>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="934">Dans son appartement gardez-vous de vous rendre.</l>
 	<l id="935">Léonce et le pontife épouvantent son cœur ;</l>
 	<l id="936">Leur voix sainte et funeste y porte la terreur :</l>
@@ -1435,13 +1435,13 @@
 	<l id="949">De la laisser remplir ces devoirs déplorables</l>
 	<l id="950">Que des maîtres sacrés jugent inviolables.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="951">Des maîtres où je suis ! ... j’ai cru n’en avoir plus.</l>
 	<l id="952" part="i">À moi, gardes, venez.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Alexis, Zoé, Memnon, gardes.</head>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Alexis, Zoé, Memnon, gardes.</cast>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="952" part="f">Mes ordres absolus</l>
 	<l id="953">Sont que de cette enceinte aucun mortel ne sorte :</l>
 	<l id="954">Qu’on soit armé partout ; qu’on veille à cette porte.</l>
@@ -1465,7 +1465,7 @@
 	<l id="971">Plus criminels que moi dans ce triste séjour,</l>
 	<l id="972">Les cruels n’avaient pas l’excuse de l’amour.</l>
 </sp>
-<sp who="MEMNON"><speaker>MEMNON</speaker>
+<sp who="MEMNON"><hstage><speaker>MEMNON</speaker></hstage>
 	<l id="973">César, y pensez-vous ? Ce vieillard intraitable,</l>
 	<l id="974">Opiniâtre, altier, est pourtant respectable.</l>
 	<l id="975">Il est de ces vertus que, forcés d’estimer,</l>
@@ -1473,7 +1473,7 @@
 	<l id="977">Eh ! Ne craignez-vous point, par cette violence,</l>
 	<l id="978">De faire au cœur d’Irène une mortelle offense ?</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="979">Non ; j’y suis résolu... je vous dois ma grandeur,</l>
 	<l id="980">Et mon trône, et ma gloire... il manque le bonheur.</l>
 	<l id="981">Je succombe, en régnant, au destin qui m’outrage :</l>
@@ -1482,8 +1482,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Alexis, Memnon.</head>
-<sp who="MEMNON"><speaker>MEMNON</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Alexis, Memnon.</cast>
+<sp who="MEMNON"><hstage><speaker>MEMNON</speaker></hstage>
 	<l id="983">Oui, quelquefois, sans doute, il est plus difficile</l>
 	<l id="984">De s’assurer chez soi d’un sort pur et tranquille</l>
 	<l id="985">Que de trouver la gloire au milieu des combats</l>
@@ -1491,7 +1491,7 @@
 	<l id="987">Je vous l’ai dit : Irène, en sa juste colère,</l>
 	<l id="988">Ne pardonnera point l’attentat sur son père.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="989">Mais quoi ! Laisser près d’elle un maître impérieux</l>
 	<l id="990">Qui lui reprochera le pouvoir de ses yeux ;</l>
 	<l id="991">Qui, lui faisant surtout un crime de me plaire,</l>
@@ -1503,15 +1503,15 @@
 	<l id="997">Et que ce maître altier, qui veut donner la loi,</l>
 	<l id="998">Soit aux pieds de sa fille, et la serve avec moi.</l>
 </sp>
-<sp who="MEMNON"><speaker>MEMNON</speaker>
+<sp who="MEMNON"><hstage><speaker>MEMNON</speaker></hstage>
 	<l id="999">Vous vous trompiez, César ; j’ai prévu vos alarmes ;</l>
 	<l id="1000">Vous avez contre vous tourné vos propres armes.</l>
 	<l id="1001">C’en est fait ; je vous plains.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="1002" part="i">Tu m’as donc obéi ?</l>
 </sp>
-<sp who="MEMNON"><speaker>MEMNON</speaker>
+<sp who="MEMNON"><hstage><speaker>MEMNON</speaker></hstage>
 	<l id="1002" part="f">C’était avec regret ; mais je vous ai servi :</l>
 	<l id="1003">J’ai saisi ce vieillard ; et César qui soupire</l>
 	<l id="1004">Des faiblesses d’amour m’apprend quel est l’empire.</l>
@@ -1520,7 +1520,7 @@
 	<l id="1007">Eh ! Pourquoi consulter, dans de telles alarmes,</l>
 	<l id="1008">Un vieux soldat blanchi dans les horreurs des armes ?</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="1009">Ah ! Cher et sage ami, que tes yeux éclairés</l>
 	<l id="1010">Ont bien prévu l’effet de mes vœux égarés !</l>
 	<l id="1011">Que tu connais ce cœur si contraire à soi-même,</l>
@@ -1530,8 +1530,8 @@
 <stage>Memnon sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Alexis, Zoé.</head>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Alexis, Zoé.</cast>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="1015">Venez, venez, Zoé, vous que chérit Irène ;</l>
 	<l id="1016">Jugez si mon amour a mérité sa haine,</l>
 	<l id="1017">Si je voulais en maître, en vainqueur, en césar,</l>
@@ -1553,7 +1553,7 @@
 	<l id="1033">Si mon profond respect ne peut que l’indigner ;</l>
 	<l id="1034">Enfin si je l’offense en la faisant régner.</l>
 </sp>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="1035">Ce matin, je l’avoue, en proie à ses alarmes,</l>
 	<l id="1036">Votre nom prononcé faisait couler ses larmes :</l>
 	<l id="1037">Mais depuis que Léonce ici vous a parlé,</l>
@@ -1569,7 +1569,7 @@
 	<l id="1047">Ne pouvant repousser de sa sombre pensée</l>
 	<l id="1048">Le douloureux fardeau qui la tient oppressée.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="1049">Hélas ! Elle vous aime, et sans doute me craint.</l>
 	<l id="1050">Si dans mon désespoir votre amitié me plaint,</l>
 	<l id="1051">Si vous pouvez beaucoup sur ce cœur noble et tendre,</l>
@@ -1580,26 +1580,26 @@
 	<l id="1056">Elle étend à son choix, ou resserre sa chaîne :</l>
 	<l id="1057" part="i">Qu’elle dise un seul mot.</l>
 </sp>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="1057" part="f">Jusques en ce séjour</l>
 	<l id="1058">Je la vois avancer par ce secret détour.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="1059" part="i">C’est elle-même, ô ciel !</l>
 </sp>
-<sp who="ZOÉ"><speaker>ZOÉ</speaker>
+<sp who="ZOÉ"><hstage><speaker>ZOÉ</speaker></hstage>
 	<l id="1059" part="f">À la terre attachée,</l>
 	<l id="1060">Sa vue à notre aspect s’égare effarouchée ;</l>
 	<l id="1061">Elle avance vers vous, mais sans vous regarder ;</l>
 	<l id="1062">Je ne sais quelle horreur semble la posséder.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="1063">Irène, est-ce bien vous ? Quoi ! Loin de me répondre,</l>
 	<l id="1064">À peine d’un regard elle veut me confondre !</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Alexis, Irène, Zoé.</head>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Alexis, Irène, Zoé.</cast>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 <stage>Un des soldats qui l’accompagnent lui approche un fauteuil.</stage>
 	<l id="1065">Un siége... je succombe. En ces lieux écartés</l>
 	<l id="1066">Attendez-moi, soldats... Alexis, écoutez.</l>
@@ -1628,7 +1628,7 @@
 	<l id="1088">Sur mon sort avec vous que sa bouche prononce :</l>
 	<l id="1089" part="i">Puis-je y compter ?</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="1089" part="f">J’y cours, sans rien examiner.</l>
 	<l id="1090">Ah ! Si j’osais penser qu’on pût me pardonner,</l>
 	<l id="1091">Je mourrais à vos pieds de l’excès de ma joie.</l>
@@ -1652,11 +1652,11 @@
 	<l id="1109">Le ciel vous l’arracha ; pour vous elle était née.</l>
 	<l id="1110" part="i">Allez, prince.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="1110" part="f">Ah ! Grand dieu, témoin de ses bontés,</l>
 	<l id="1111" part="i">Je serai digne enfin de mon bonheur !</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="1111" part="f">Partez.</l>
 <stage>Il sort.</stage>
 <stage>En pleurant.</stage>
@@ -1664,7 +1664,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="IRÈNE"><speaker>IRÈNE, se levant.</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker>, se levant.</hstage>
 	<l id="1113">Qu’ai-je dit ? Qu’ai-je fait ! Et qu’est-ce que j’espère ?</l>
 	<l id="1114">Je ne me connais plus... tandis qu’il me parlait,</l>
 	<l id="1115">Au seul son de sa voix tout mon cœur s’échappait :</l>
@@ -1711,39 +1711,39 @@
 <stage>Elle tombe dans un fauteuil.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Irène, mourante ; Alexis, Léonce, Memnon, suite.</head>
-<sp who="ALEXIS"><speaker>ALEXIS</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Irène, mourante ; Alexis, Léonce, Memnon, suite.</cast>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker></hstage>
 	<l id="1154">Je vous ramène un père, et je me suis flatté</l>
 	<l id="1155">Que nous pourrions fléchir sa dure austérité ;</l>
 	<l id="1156">Que sa justice enfin, me jugeant moins coupable,</l>
 	<l id="1157">Daignerait... juste dieu ! Quel spectacle effroyable !</l>
 	<l id="1158" part="i">Irène, chère Irène !</l>
 </sp>
-<sp who="LÉONCE"><speaker>LÉONCE</speaker>
+<sp who="LÉONCE"><hstage><speaker>LÉONCE</speaker></hstage>
 	<l id="1158" part="f">Ô ma fille ! Ô fureur !</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS, se jetant aux genoux d’Irène.</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker>, se jetant aux genoux d’Irène.</hstage>
 	<l id="1159" part="i">Quel démon t’inspirait ?</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE, à Alexis, à Léonce.</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker>, à Alexis, à Léonce.</hstage>
 	<l id="1159" part="f">Mon amour, votre honneur.</l>
 	<l id="1160">J’adorais Alexis, et je m’en suis punie.</l>
 <stage>Alexis veut se tuer ; Memnon l’arrête.s</stage>
 </sp>
-<sp who="LÉONCE"><speaker>LÉONCE</speaker>
+<sp who="LÉONCE"><hstage><speaker>LÉONCE</speaker></hstage>
 	<l id="1161">Ah ! Mon zèle funeste eut trop de barbarie.</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE, lui tendant les mains.</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker>, lui tendant les mains.</hstage>
 	<l id="1162">Souvenez-vous de moi... plaignez tous deux mon sort...</l>
 	<l id="1163">Ciel ! Prends soin d’Alexis, et pardonne ma mort.</l>
 </sp>
-<sp who="ALEXIS"><speaker>ALEXIS, à genoux d’un côté.</speaker>
+<sp who="ALEXIS"><hstage><speaker>ALEXIS</speaker>, à genoux d’un côté.</hstage>
 	<l id="1164" part="i">Irène ! Irène ! Ah, dieu !</l>
 </sp>
-<sp who="LÉONCE"><speaker>LÉONCE, à genoux de l’autre côté.</speaker>
+<sp who="LÉONCE"><hstage><speaker>LÉONCE</speaker>, à genoux de l’autre côté.</hstage>
 	<l id="1165" partt="f">Déplorable victime !</l>
 </sp>
-<sp who="IRÈNE"><speaker>IRÈNE</speaker>
+<sp who="IRÈNE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="1166">Pardonne, Dieu clément ! Ma mort est-elle un crime ?</l>
 </sp>
 </div2>

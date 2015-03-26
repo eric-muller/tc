@@ -74,8 +74,8 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Agrippine, Cornélie.</head>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Agrippine, Cornélie.</cast>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1">Je te vais retracer le tableau de sa gloire,</l>
 	<l id="2">Mais feins encor après d’ignorer son histoire,</l>
 	<l id="3">Et pour me rendre heureuse une seconde fois,</l>
@@ -85,11 +85,11 @@
 	<l id="7">Mais ne te fais-je point de discours superflus ?</l>
 	<l id="8" part="i">Je t’en parle sans cesse.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="8" part="f">Il ne m’en souvient plus.</l>
 	<l id="9" part="i">Et j’attends</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="9" part="f">Apprends donc comme ce jeune Alcide</l>
 	<l id="10">Fut des Géants du Rhin le superbe homicide,</l>
 	<l id="11">Et comme à ses côtés faisant marcher la Mort,</l>
@@ -133,11 +133,11 @@
 	<l id="49">Dans un livre d’airain la superbe Victoire</l>
 	<l id="50">Graver Germanicus aux fastes de la Gloire !</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="51">Votre époux, soumettant les Germains à ses lois,</l>
 	<l id="52">Ne voulut que leur nom pour prix de ses exploits.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="53">Du Couchant à l’Aurore ayant porté la guerre,</l>
 	<l id="54">Notre héros parut aux deux bouts de la Terre,</l>
 	<l id="55">En un clin d’œil si prompt, qu’on peut dire aujourd’hui</l>
@@ -173,10 +173,10 @@
 	<l id="85">Et que par les horreurs de la fin de sa vie,</l>
 	<l id="86">Je m’excite à haïr ceux qui l’ont poursuivie.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="87" part="i">C’est accroître vos maux.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="87" part="f">Ne me refuse pas</l>
 	<l id="88">D’écouter le récit d’un si sanglant trépas,</l>
 	<l id="89">Ou mon cœur déchiré de bourreaux invisibles,</l>
@@ -210,10 +210,10 @@
 	<l id="117">La Terre en trembla même, afin que l’on pût dire</l>
 	<l id="118">Que sa fièvre causait des frissons à l’Empire.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="119">Jamais la mort ne vint d’un pas si diligent.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="120">Et Pison toutefois le trouve encor trop lent ;</l>
 	<l id="121">Pour le précipiter, joignant le sortilège,</l>
 	<l id="122">Du poison, sans horreur, il monte au sacrilège,</l>
@@ -222,20 +222,20 @@
 	<l id="125">Ainsi l’Enfer, les Cieux, la Nature, et l’Envie,</l>
 	<l id="126">Unirent leurs fureurs contre une seule vie.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="127">Ha ! Ne condamnez point la lâcheté du sort !</l>
 	<l id="128">Pour perdre un si grand homme il faut plus d’une mort,</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="129">D’un rouge ténébreux sa chair ensanglantée</l>
 	<l id="130">Fut le triste témoin, que Nature irritée</l>
 	<l id="131">Produisit du poison, afin de se purger</l>
 	<l id="132">Du crime dont à Rome on eût pu la charger.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="133">Le Auteurs de sa mort méritaient ses supplices.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="134">Je saurai les punir avecque leurs complices ;</l>
 	<l id="135">Pison est déjà mort, et bientôt l’Empereur,</l>
 	<l id="136">Livilla, Séjanus, sentiront ma fureur :</l>
@@ -245,8 +245,8 @@
 	<l id="140">Qui de tous mes enfants ne m’ont laissé qu’un fils!</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Séjanus, Agrippine, Cornélie.</head>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Séjanus, Agrippine, Cornélie.</cast>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="141">Madame, la nouvelle en est trop assurée ;</l>
 <note type="L">Caprée : Capri, île au large de Naples</note>
 	<l id="142">L’Empereur ce matin est sorti de Caprée,</l>
@@ -255,7 +255,7 @@
 	<l id="145">Et l’on croit que demain, nous verrons à nos portes</l>
 	<l id="146">Trois de ses légions, et cinquante cohortes.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="147">C’est un sujet de joie, et non pas de douleur :</l>
 	<l id="148">Ennuyé de l’attendre il court à son malheur,</l>
 	<l id="149">Et n’approche de Rome en homme de courage,</l>
@@ -265,7 +265,7 @@
 	<l id="153">Mais gardons qu’échappant au couteau du ministre,</l>
 	<l id="154">Sa fuite ne devienne un présage sinistre.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="155">Sans avancer nos jours, pour avancer sa mort,</l>
 	<l id="156">Regardons son naufrage à couvert dans le port ;</l>
 	<l id="157">Et gauchissons de sorte en montant à l’Empire,</l>
@@ -281,7 +281,7 @@
 	<l id="167">Prononcez son arrêt irrévocablement ;</l>
 	<l id="168">Mais parmi tant d’écueils, hâtons-nous lentement.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="169">Conduis ma destinée ! Aussi bien la Fortune,</l>
 	<l id="170">Triomphants, ou vaincus, nous doit être commune :</l>
 	<l id="171">Mais sache, si de moi tu prétends disposer,</l>
@@ -292,11 +292,11 @@
 	<l id="176">Ils me doivent secours, puisqu’ils sont mes aïeux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Agrippine, Cornélie.</head>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Agrippine, Cornélie.</cast>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="177" part="i">Qu’en dis-tu, Cornélie ? Enfin...</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="177" part="f">Enfin, Madame,</l>
 	<l id="178">Du traître Séjanus deviendrez-vous la femme ?</l>
 	<l id="179">Faut-il que l’assassin de votre cher époux,</l>
@@ -310,7 +310,7 @@
 	<l id="187">Voilà comme il se plaint, ce héros outragé,</l>
 	<l id="188">Que sa veuve en dix ans n’a pas encor vengé.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="189">Moi, de mes ennemis je deviendrais la mère !</l>
 	<l id="190">Moi qui les dois punir du crime de leur père !</l>
 	<l id="191">Rouge encor de mon sang, il viendrait l’assassin,</l>
@@ -347,18 +347,18 @@
 	<l id="222">Elle hait ma rencontre, et la sienne m’offense.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Livilla, Séjanus, Térentius.</head>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Livilla, Séjanus, Térentius.</cast>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="223">J’ai beau voir en triomphe un Empereur Romain,</l>
 	<l id="224">S’avancer contre nous le tonnerre à la main,</l>
 	<l id="225">Ce n’est pas l’ennemi que je crains davantage.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="226">Ha ! Dites-moi son nom. Cette longueur m’outrage ;</l>
 	<l id="227">Vous le plaindrez plutôt que vous ne le craindrez,</l>
 	<l id="228">Et j’attends, pour agir, ce que vous résoudrez.</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="229">Écoute! Auparavant qu’un refus m’ait blessée,</l>
 	<l id="230">Sur tout ce que tu crains applique ta pensée,</l>
 	<l id="231">Propose-toi le fer, la flamme et le poison,</l>
@@ -366,23 +366,23 @@
 	<l id="233">Et t’informe de lui, quoi que je te demande,</l>
 	<l id="234">S’il est prêt d’accorder tout ce qu’il appréhende.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="235">Il est tout prêt, Madame, à remplir vos souhaits.</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="236">Encore un coup, prends garde à ce que tu promets ;</l>
 	<l id="237">Ce que je veux sera peut-être ta ruine.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="238" part="i">N’importe, parlez, c’est ?...</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="238" part="f">C’est la mort d’Agrippine.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="239">D’Agrippine ? Madame, hélas ! Y pensez-vous ?</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="240">D’Agrippine, ma sœur, qui conspire avec nous ;</l>
 	<l id="241">Mon mari sous ma haine est tombé pour victime,</l>
 	<l id="242">Mon cœur après cela ne connaît plus de crime ;</l>
@@ -390,10 +390,10 @@
 	<l id="244">Il osa me pousser à ce noble dessein :</l>
 	<l id="245">Et toi, perfide amant, dont l’amour me diffame</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="246">Tremperai-je ma main dans le sang d’une femme ?</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="247">Je fais, pour m’animer, à ce coup plein d’effroi,</l>
 	<l id="248">Des efforts bien plus grands que tu n’en fais sur toi ;</l>
 	<l id="249">J’entends de toutes part le sexe et la Nature,</l>
@@ -415,12 +415,12 @@
 	<l id="265">Donc pour me conserver, conservant ta personne,</l>
 	<l id="266">Sauve-moi des frayeurs que sa rage me donne.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="267">Non, non, détrompez-vous de ces vaines frayeurs,</l>
 	<l id="268">Elle croit l’Empereur cause de ses malheurs ;</l>
 	<l id="269" part="i">Je l’ai persuadée.</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="269" part="f">Elle feint de le croire ;</l>
 	<l id="270">Pour un temps sur sa haine elle endort sa mémoire,</l>
 	<l id="271">Mais crains-la d’autant plus qu’elle craint de s’ouvrir,</l>
@@ -448,7 +448,7 @@
 	<l id="293">Ose donc, ou permets quand on joindra notre âme,</l>
 	<l id="294">Que je sois ton mari, si tu n’es que ma femme.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="295">Du précipice affreux prêt à nous engloutir,</l>
 	<l id="296">Agrippine et son rang nous peuvent garantir ;</l>
 	<l id="297">Prodiguons sa puissance à terrasser Tibère ;</l>
@@ -456,35 +456,35 @@
 	<l id="299">Nous trouverons par elle un trône dans le port,</l>
 	<l id="300">Et serons en état de songer à sa mort.</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="301">Tu m’en donnes parole ? Hé bien, je suis contente,</l>
 	<l id="302">L’espoir que j’en aurai flattera mon attente;</l>
 	<l id="303">À Jupiter vengeur je vais offrir des vœux,</l>
 	<l id="304">Si pourtant d’un tel coup j’ose parler aux Dieux ;</l>
 	<l id="305">Car le crime est bien grand de massacrer Tibère.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="306">Tibère, ce tyran qui fit mourir ton père.</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="307">Ha ! Le traître en mourra ! Fais, fais-moi souvenir,</l>
 	<l id="308">Quand d’injustes remords viendront m’entretenir,</l>
 	<l id="309">Afin de s’opposer au meurtre de Tibère,</l>
 	<l id="310">Que Tibère est celui qui fit mourir mon père.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Séjanus, Térentius.</head>
-<sp who="TÉRENTIUS"><speaker>TÉRENTIUS.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Séjanus, Térentius.</cast>
+<sp who="TÉRENTIUS"><hstage><speaker>TÉRENTIUS</speaker>.</hstage>
 	<l id="311">Immoler Agrippine à l’objet de ton feu,</l>
 	<l id="312">La victime sera plus noble que le Dieu.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="313">Que vous connaissez mal le sujet qui m’enflamme !</l>
 </sp>
-<sp who="TÉRENTIUS"><speaker>TÉRENTIUS.</speaker>
+<sp who="TÉRENTIUS"><hstage><speaker>TÉRENTIUS</speaker>.</hstage>
 	<l id="314" part="i">Quoi ! Livilla n’est point...</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="314" part="f">Non, je la hais dans l’âme ;</l>
 	<l id="315">Et quoi qu’elle m’adore, et qu’elle ait à mes vœux</l>
 	<l id="316">Immolé son époux, son frère et ses neveux,</l>
@@ -508,10 +508,10 @@
 	<l id="334">Doit bientôt à son sort unir ma destinée,</l>
 	<l id="335">Un Diadème au front en sera le lien.</l>
 </sp>
-<sp who="TÉRENTIUS"><speaker>TÉRENTIUS.</speaker>
+<sp who="TÉRENTIUS"><hstage><speaker>TÉRENTIUS</speaker>.</hstage>
 	<l id="336">Le cœur d’une Amazone était digne du tien.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="337">Tel jaloux de mon rang tenterait ma ruine,</l>
 	<l id="338">Qui n’osera choquer un époux d’Agrippine;</l>
 	<l id="339">Ce nœud m’affermira dans le trône usurpé ;</l>
@@ -527,18 +527,18 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Tibère, Nerva.</head>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Tibère, Nerva.</cast>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="347">Oui, la Couronne enferme et cache beaucoup plus</l>
 	<l id="348">De pointes sous le front qu’il n’en parait dessus !</l>
 	<l id="349">De ma triste grandeur j’ai vu Rome idolâtre :</l>
 	<l id="350">Mais que j’ai pour régner d’ennemis à combattre!</l>
 </sp>
-<sp who="NERVA"><speaker>NERVA.</speaker>
+<sp who="NERVA"><hstage><speaker>NERVA</speaker>.</hstage>
 	<l id="351">C’est trop te défier de ton noble destin ;</l>
 	<l id="352">Agrippine te hait, mais elle est femme enfin.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="353">Que de justes frayeurs s’emparent de mon âme !</l>
 	<l id="354">Le grand Germanicus me combat dans sa femme !</l>
 	<l id="355">De ce Prince au tombeau, le nom ressuscité</l>
@@ -553,23 +553,23 @@
 	<l id="363">Et le perfide encor pour braver mes desseins,</l>
 	<l id="364">Me combat à couvert dans le cœur des Romains.</l>
 </sp>
-<sp who="NERVA"><speaker>NERVA.</speaker>
+<sp who="NERVA"><hstage><speaker>NERVA</speaker>.</hstage>
 	<l id="365">D’un tout si dangereux perds le dangereux reste !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="366">Je sais bien qu’Agrippine à mes jours est funeste :</l>
 	<l id="367">Mais si, sans l’achever, ma haine l’entreprend,</l>
 	<l id="368">Le courroux qui l’anime en deviendra plus grand,</l>
 	<l id="369">Et si dans le Sénat on la trouve innocente,</l>
 	<l id="370">Je la force à venger cette injure sanglante.</l>
 </sp>
-<sp who="NERVA"><speaker>NERVA.</speaker>
+<sp who="NERVA"><hstage><speaker>NERVA</speaker>.</hstage>
 	<l id="371">Que me dis-tu, Seigneur ? Elle est coupable ?</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="372" part="i">En quoi ?</l>
 </sp>
-<sp who="NERVA"><speaker>NERVA.</speaker>
+<sp who="NERVA"><hstage><speaker>NERVA</speaker>.</hstage>
 	<l id="372" part="f">D’être, ou d’avoir été plus puissante que toi.</l>
 	<l id="373">Elle ramène au choc les bandes alarmées,</l>
 	<l id="374">Casse ou nomme à son gré les Empereurs d’armées,</l>
@@ -584,19 +584,19 @@
 	<l id="383">Rarement un grand Roi que l’on peut envier</l>
 	<l id="384">Échappe du poison donné par l’héritier.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="385">Ô Ciel ! Si tu veux perdre un Empereur de Rome,</l>
 	<l id="386">Que son trépas au moins soit l’ouvrage d’un homme !</l>
 </sp>
-<sp who="NERVA"><speaker>NERVA.</speaker>
+<sp who="NERVA"><hstage><speaker>NERVA</speaker>.</hstage>
 	<l id="387">César, pour prévenir ses desseins furieux...</l>
 	<l id="388">Elle est dans ton Palais. Qu’on l’égorge à tes yeux !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="389">L’équité nous oblige à plus de retenue,</l>
 	<l id="390">On ne l’a qu’accusée, et non pas convaincue.</l>
 </sp>
-<sp who="NERVA"><speaker>NERVA.</speaker>
+<sp who="NERVA"><hstage><speaker>NERVA</speaker>.</hstage>
 	<l id="391">Le Sceptre qu’en tes mains dispute son renom,</l>
 	<l id="392">Dans tes mains ébranlé, ne tient plus qu’à ton nom ;</l>
 	<l id="393">Cours le prix d’une gloire en gloire sans seconde,</l>
@@ -613,15 +613,15 @@
 	<l id="404">Est un crime d’État qu’on ne pardonne point :</l>
 	<l id="405" part="i">César, il la faut perdre.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="405" part="f">Oui, Nerva, je la donne</l>
 	<l id="406">Sans rien examiner au bien de ma Couronne,</l>
 	<l id="407" part="i">Elle mourra !</l>
 </sp>
-<sp who="NERVA"><speaker>NERVA.</speaker>
+<sp who="NERVA"><hstage><speaker>NERVA</speaker>.</hstage>
 	<l id="407" part="m">César...</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="407" part="f">Elle mourra... Mais Dieux!</l>
 	<l id="408">Comment me dérober au peuple furieux ?</l>
 	<l id="409">Car si de ce combat j’emporte la victoire,</l>
@@ -629,13 +629,13 @@
 	<l id="411">C’est un foudre grondant, suspendu, prêt à choir,</l>
 	<l id="412">Qu’au dessus de ma tête il ne faut pas mouvoir.</l>
 </sp>
-<sp who="NERVA"><speaker>NERVA.</speaker>
+<sp who="NERVA"><hstage><speaker>NERVA</speaker>.</hstage>
 	<l id="413">Non, Seigneur, non, sa perte est sûre et facile.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="414">Il faut donc l’engager à sortir de la ville...</l>
 </sp>
-<sp who="NERVA"><speaker>NERVA.</speaker>
+<sp who="NERVA"><hstage><speaker>NERVA</speaker>.</hstage>
 	<l id="415">Elle irait, la superbe, en cent climats divers</l>
 	<l id="416">Promener la révolte aux bouts de l’Univers,</l>
 	<l id="417">Et jetant du discord la semence féconde,</l>
@@ -645,7 +645,7 @@
 	<l id="421">Provoquerait la Paix à te faire la guerre,</l>
 	<l id="422">Et sur toi seul enfin renverserait la Terre.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="423">Pour l’empêcher d’agir, il faut la rassurer ;</l>
 	<l id="424">Si son crime paraît, feindre de l’ignorer ;</l>
 	<l id="425">Et puis, quand nous aurons le secours que j’espère,</l>
@@ -658,8 +658,8 @@
 	<l id="432">Mais écoute-nous feindre à qui feindra le mieux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Tibère, Agrippine, Séjanus, Nerva, Térentius.</head>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Tibère, Agrippine, Séjanus, Nerva, Térentius.</cast>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="433">Ton retour imprévu, tes gardes redoublées,</l>
 	<l id="434">Trois fortes légions près de Rome assemblées,</l>
 	<l id="435">M’ont fait avec raison craindre quelque attentat</l>
@@ -669,7 +669,7 @@
 	<l id="439">J’amène à ton secours mes proches, mes amis,</l>
 	<l id="440">Et tous ceux que mon rang me peut avoir soumis</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE, bas à Nerva.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>, bas à Nerva.</hstage>
 	<l id="441" part="i">L’impudente. Nerva !...</l>
 <stage>Haut.</stage>
 	<l id="441" part="f">Généreuse Princesse</l>
@@ -685,7 +685,7 @@
 	<l id="451">C’est un traître, un mutin, qu’en vassal plein de cœur,</l>
 	<l id="452">J’immolerai moi-même au nouvel Empereur.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="453">Qui renonce à sa gloire en offrant sa Couronne,</l>
 	<l id="454">Il en acquiert, César, plus qu’il n’en abandonne ;</l>
 	<l id="455">Tu m’estimes beaucoup de me la présenter,</l>
@@ -693,7 +693,7 @@
 	<l id="457">C’est en la refusant qu’on s’en doit rendre digne,</l>
 	<l id="458">Je veux que l’Univers en juge par ce signe.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="459">Auguste, ton aïeul, contre les droits du sang</l>
 	<l id="460">M’adopta pour monter après lui dans son rang ;</l>
 	<l id="461">Quoi qu’avecque ton sexe il connut ton audace,</l>
@@ -712,51 +712,51 @@
 	<l id="473">Je le veux élever par droit héréditaire,</l>
 	<l id="474">Après un interrègne au trône de son père.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="475">Fille du grand César que je dois imiter,</l>
 	<l id="476">Je le cède au héros qu’il crût le mériter,</l>
 	<l id="477">Pour montrer par un choix aussi grand, aussi juste,</l>
 	<l id="478">Que je suis et du sang et dans l’esprit d’Auguste.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="479">Et par cette raison son esprit et son sang</l>
 	<l id="480">Sont des droits à ton fils pour monter à mon rang ;</l>
 	<l id="481">J’en ai le Diadème, et d’une foi sincère,</l>
 	<l id="482">Je le veux rendre au fils, l’ayant reçu du père.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="483">Avec un Diadème, on n’attache pas bien</l>
 	<l id="484">Un cœur tout généreux qui veut aimer pour rien.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="485">Pour te la conserver, j’ai reçu la Couronne ;</l>
 	<l id="486" part="i">Je te la rends, Princesse.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="486" part="f">Et moi je te la donne.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="487">Mais comme j’en dispose au gré de tes parents,</l>
 	<l id="488" part="i">C’est moi qui te la donne.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="488" part="f">Et moi je te la rends.</l>
 	<l id="489">As-tu droit d’espérer que cette âme hautaine</l>
 	<l id="490">En générosité succombe sous la tienne ?</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="491">Écoute dans ton sein ton cœur te démentir.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="492">Qui choisit par raison ne peut se repentir.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="493">Tu me hais et tu veux éteindre par envie</l>
 	<l id="494">La plus belle action dont éclate ma vie ;</l>
 	<l id="495">Ah ! Pardonne à l’honneur du monarque des Rois.</l>
 	<l id="496">Ou de ton père en nous respecte au moins le choix !</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="497">Aux siècles à venir quelque jour à ta gloire,</l>
 	<l id="498">Nos neveux étonnés apprendront dans l’Histoire</l>
 	<l id="499">Qu’un Roi de sa Couronne a dépouillé son front ;</l>
@@ -766,11 +766,11 @@
 	<l id="503">Et que l’ordre des Dieux lui voulut désigner,</l>
 	<l id="504">De peur qu’un si bon Roi ne cessât de régner.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="505">Règne, je te l’ordonne, et, régnant, fais connaître</l>
 	<l id="506">Que tu sais m’obéir encor comme à ton maître.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="507">Règne, je te l’ordonne, et respectant ma loi,</l>
 	<l id="508">Obéis, pour montrer que tu n’es plus mon Roi ;</l>
 	<l id="509">Règne, et puisque tu veux me rendre Souveraine,</l>
@@ -778,19 +778,19 @@
 	<l id="511">Reprends donc ta Couronne ; aussi bien couronner</l>
 	<l id="512">Celle qui te commande est ne lui rien donner.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="513">Tâche, mon Séjanus, d’ébranler sa constance,</l>
 	<l id="514">Toi qui lis dans mon cœur, et vois ce que je pense,</l>
 	<l id="515">Tu lui découvriras les secrets de mon cœur,</l>
 	<l id="516">Et les vastes desseins que j’ai pour sa grandeur.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Séjanus, Agrippine, Térentius.</head>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Séjanus, Agrippine, Térentius.</cast>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="517">Lorsque contre soi-même avec nous il conspire,</l>
 	<l id="518">Quelle raison vous meut à refuser l’Empire ?</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="519">Alors que dans ton sein mon portrait fut tracé,</l>
 	<l id="520">Le portrait de Tibère en fût-il effacé ?</l>
 	<l id="521">Ou désaccoutumé du visage d’un traître,</l>
@@ -829,8 +829,8 @@
 	<l id="554">Et confirme toujours mon refus à Tibère.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Séjanus, Térentius</head>
-<sp who="TÉRENTIUS"><speaker>TÉRENTIUS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Séjanus, Térentius</cast>
+<sp who="TÉRENTIUS"><hstage><speaker>TÉRENTIUS</speaker>.</hstage>
 	<l id="555">Par les cuisants soucis où flotte l’Empereur,</l>
 	<l id="556">Du péril où tu cours mesure la grandeur,</l>
 	<l id="557">Crains que dans le complot, comme un sage interprète,</l>
@@ -850,17 +850,17 @@
 	<l id="571">Donc pour sauver ta tête abandonne la Cour,</l>
 	<l id="572">Tu connais la Fortune et son funeste amour.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="573">Mettre les voiles bas n’ayant point perdu l’ourse,</l>
 	<l id="574">Je suis trop ébranlé pour retenir ma course,</l>
 	<l id="575">Je veux monter au trône, ou m’en voir accabler :</l>
 	<l id="576">Car je ne puis si tard commencer à trembler.</l>
 </sp>
-<sp who="TÉRENTIUS"><speaker>TÉRENTIUS.</speaker>
+<sp who="TÉRENTIUS"><hstage><speaker>TÉRENTIUS</speaker>.</hstage>
 	<l id="577">Superbe, ta naissance y met un tel obstacle,</l>
 	<l id="578">Que pour monter au trône il te faut un miracle.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="579">Mon sang n’est point royal, mais l’héritier d’un Roi</l>
 	<l id="580">Porte-t-il un visage autrement fait que moi ?</l>
 	<l id="581">Encor qu’un toit de chaume eût couvert ma naissance</l>
@@ -880,10 +880,10 @@
 	<l id="595">Là n’étant point borné du nombre ni du choix,</l>
 	<l id="596">Pour quatre dictateurs j’y rencontre cent Rois.</l>
 </sp>
-<sp who="TÉRENTIUS"><speaker>TÉRENTIUS.</speaker>
+<sp who="TÉRENTIUS"><hstage><speaker>TÉRENTIUS</speaker>.</hstage>
 	<l id="597">Mais le crime est affreux de massacrer son maître ?</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="598">Mais on devient au moins un magnifique traître ;</l>
 	<l id="599">Quel plaisir sous ses pieds de tenir aux abois</l>
 	<l id="600">Celui qui sous les siens fait gémir tant de Rois ;</l>
@@ -892,10 +892,10 @@
 	<l id="603">Mettre aux fers un César, et penser dans son cœur :</l>
 	<l id="604">« Cet Esclave jadis était mon Empereur. »</l>
 </sp>
-<sp who="TÉRENTIUS"><speaker>TÉRENTIUS.</speaker>
+<sp who="TÉRENTIUS"><hstage><speaker>TÉRENTIUS</speaker>.</hstage>
 	<l id="605">Peut-être en l’abattant tomberas-tu toi-même.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="606">Pourvu que je l’entraîne avec son diadème,</l>
 	<l id="607">Je mourrai satisfait, me voyant terrassé</l>
 	<l id="608">Sous le pompeux débris d’un trône renversé :</l>
@@ -904,18 +904,18 @@
 	<l id="611">Aux malheurs de la vie on n’est point enchaîné,</l>
 	<l id="612">Et l’âme est dans la main du plus infortuné.</l>
 </sp>
-<sp who="TÉRENTIUS"><speaker>TÉRENTIUS.</speaker>
+<sp who="TÉRENTIUS"><hstage><speaker>TÉRENTIUS</speaker>.</hstage>
 	<l id="613">Mais n’as-tu point d’horreur pour un tel parricide ?</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="614">Je marche sur les pas d’Alexandre et d’Alcide,</l>
 	<l id="615">Penses-tu qu’un vain nom de traître, de voleur,</l>
 	<l id="616">Aux hommes demi-Dieux doive abattre le cœur ?</l>
 </sp>
-<sp who="TÉRENTIUS"><speaker>TÉRENTIUS.</speaker>
+<sp who="TÉRENTIUS"><hstage><speaker>TÉRENTIUS</speaker>.</hstage>
 	<l id="617">Mais d’un coup si douteux peux-tu prévoir l’issue ?</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="618">De courage et d’esprit cette trame est tissue :</l>
 	<l id="619">Si César massacré, quelques nouveaux Titans</l>
 	<l id="620">Élevés par mon crime au Trône où je prétends,</l>
@@ -924,28 +924,28 @@
 	<l id="623">Et je lui ferai voir que par des coups si grands</l>
 	<l id="624">Rome n’a point perdu, mais changé ses tyrans.</l>
 </sp>
-<sp who="TÉRENTIUS"><speaker>TÉRENTIUS.</speaker>
+<sp who="TÉRENTIUS"><hstage><speaker>TÉRENTIUS</speaker>.</hstage>
 	<l id="625">Tu connais cependant que Rome est monarchique,</l>
 	<l id="626">Qu’elle ne peut durer dans l’aristocratique,</l>
 	<l id="627">Et que l’Aigle Romaine aura peine à monter,</l>
 	<l id="628">Quand elle aura sur soi plus d’un homme à porter.</l>
 	<l id="629">Respecte et crains des Dieux l’effroyable tonnerre !</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="630">Il ne tombe jamais en hiver sur la terre :</l>
 	<l id="631">J’ai six mois pour le moins à me moquer des Dieux,</l>
 	<l id="632">Ensuite je ferai ma paix avec les Cieux.</l>
 </sp>
-<sp who="TÉRENTIUS"><speaker>TÉRENTIUS.</speaker>
+<sp who="TÉRENTIUS"><hstage><speaker>TÉRENTIUS</speaker>.</hstage>
 	<l id="633">Ces Dieux renverseront tout ce que tu proposes.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="634">Un peu d’encens brûlé rajuste bien des choses.</l>
 </sp>
-<sp who="TÉRENTIUS"><speaker>TÉRENTIUS.</speaker>
+<sp who="TÉRENTIUS"><hstage><speaker>TÉRENTIUS</speaker>.</hstage>
 	<l id="635" part="i">Qui les craint, ne craint rien.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="635" part="f">Ces enfants de l’effroi,</l>
 	<l id="636">Ces beaux riens qu’on adore, et sans savoir pourquoi,</l>
 	<l id="637">Ces altérés du sang des bêtes qu’on assomme,</l>
@@ -953,42 +953,42 @@
 	<l id="639">Des plus fermes États ce fantasque soutien,</l>
 	<l id="640">Va, va, Térentius, qui les craint, ne craint rien.</l>
 </sp>
-<sp who="TÉRENTIUS"><speaker>TÉRENTIUS.</speaker>
+<sp who="TÉRENTIUS"><hstage><speaker>TÉRENTIUS</speaker>.</hstage>
 	<l id="641">Mais s’il n’en était point ! Cette Machine ronde ?</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="642">Oui, mais s’il en était, serais-je encor au monde ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Séjanus, Térentius, Livilla.</head>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Séjanus, Térentius, Livilla.</cast>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="643">Quoi ! Tu restes à Rome, et la foudre grondant</l>
 	<l id="644">Ne pourra t’éveiller, si ce n’est en tombant ?</l>
 	<l id="645" part="i">Fuis, fuis, tout est perdu.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="645" part="f">L’Empereur sait la trame ?</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="646" part="i">Tout est perdu, te dis-je !</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="646" part="f">Ah ! Poursuivez, Madame !</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="647" part="i">Tu n’as plus qu’un moment.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="647" part="f">Mais de grâce, pourquoi?</l>
 	<l id="648" part="i">Tibère...</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="648" part="f">Au nom des Dieux, Séjanus, sauve-toi !</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="649">Apprenez-nous au moins qui vous rend si troubléeB?</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="650">J’ai honte de l’effroi dont je suis accablée ;</l>
 	<l id="651">Mais on peut bien trembler quand le Ciel tremble aussi</l>
 	<l id="652">Écoute donc sur quoi je m’épouvante ainsi :</l>
@@ -1008,7 +1008,7 @@
 	<l id="665">Il n’a tonné qu’à droite, et durant cet extase</l>
 	<l id="666">J’ai vu nos Dieux foyers renversés de leur base.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="667">Quoi ! Ces présages vains étonnent ton courroux ?</l>
 	<l id="668">Ils sont contre Tibère, et non pas contre nous.</l>
 	<l id="669">Si les Dieux aux mortels découvraient leurs mystères,</l>
@@ -1020,15 +1020,15 @@
 	<l id="675">Nous poursuivrons Tibère avec tant de courroux,</l>
 	<l id="676">Que l’on verra suer le Destin contre nous.</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="677">Le Destin grave tout sur des tables de cuivre,</l>
 	<l id="678">On ne déchire pas les feuillets d’un tel Livre.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="679">Achevons donc le crime où ce Dieu nous astreint,</l>
 	<l id="680">C’est lui qui le commet, puisqu’il nous y contraint.</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="681">Mon esprit est remis, et ton noble courage,</l>
 	<l id="682">Quoi qu’annonce le Ciel, est un heureux présage.</l>
 <note type="L">Argus : personnage de la mythologie gréco-romaine, c’était un géant qui avait cent yeux dont cinquante ouverts pendant que cinquante étaient fermé et dormaient.</note>
@@ -1040,8 +1040,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Agrippine, Cornélie.</head>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Agrippine, Cornélie.</cast>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="687">Sanglante Ombre qui passe et repasse à mes yeux,</l>
 	<l id="688">Fantôme dont le vol me poursuit en tous lieux,</l>
 	<l id="689">Tes travaux, ton trépas, ta lamentable histoire,</l>
@@ -1049,10 +1049,10 @@
 	<l id="691">Ah ! Trêve, cher époux ! Si tu veux m’affliger,</l>
 	<l id="692">Prête-moi pour le moins le temps de te venger.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="693">Il vient vous consoler de sa cruelle absence.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="694">Il vient, il vient plutôt me demander vengeance,</l>
 	<l id="695">Te souvient-il du temps qu’au fort de ses douleurs,</l>
 	<l id="696">Couronné dans son lit de ses amis en pleurs,</l>
@@ -1082,16 +1082,16 @@
 	<l id="720">Il demanda vengeance et ne l’obtiendrait pas !</l>
 	<l id="721" part="i">Un si lâche refus...</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="721" part="m">L’aimez-vous ?</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="721" part="f">Je l’adore.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="722">Madame, cependant Tibère vit encore.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="723">Attends encor un peu, mon déplorable époux</l>
 	<l id="724">Tu le verras bientôt expirant sous mes coups,</l>
 	<l id="725">Et ravi par le sort aux mains de la Nature,</l>
@@ -1134,10 +1134,10 @@
 	<l id="762">De laisser, quoi que femme, un grand nom dans l’Histoire ;</l>
 	<l id="763">Mais le discours sied mal à qui cherche du sang.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="764" part="i">Vous !</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="764" part="f">Oui, moi, de César je veux percer le flanc,</l>
 	<l id="765">Et jusques sur son Trône hérissé d’hallebardes.</l>
 	<l id="766">Je veux, le massacrant au milieu de ses gardes,</l>
@@ -1145,28 +1145,28 @@
 	<l id="768">Tout le sang corrompu dont se forme un tyran !</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Tibère, Agrippine, Cornélie, Troupe de gardes.</head>
-<sp who="TIBÈRE"><speaker>TIBÈRE, la surprenant.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Tibère, Agrippine, Cornélie, Troupe de gardes.</cast>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>, la surprenant.</hstage>
 	<l id="769" part="i">Poursuivez...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="769" part="m">Quoi, Seigneur ?</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="769" part="f">Le propos détestable</l>
 	<l id="770" part="i">Où je vous ai surprise.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="770" part="f">Ah ! Ce propos damnable</l>
 	<l id="771">D’une si grande horreur tous mes sens travailla,</l>
 	<l id="772">Que l’objet du fantôme en sursaut m’éveilla.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="773">Quoi ! Cela n’est qu’un songe, et l’horrible blasphème</l>
 	<l id="774">Qui choque des Césars la Majesté suprême</l>
 	<l id="775" part="i">Ne fut dit qu’en dormant ?</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="775" part="f">Non, César, qu’en dormant;</l>
 	<l id="776">Mais les Dieux qui, pour lors, nous parlent clairement,</l>
 	<l id="777">Par de certains effets, dont ils meuvent les causes,</l>
@@ -1195,10 +1195,10 @@
 	<l id="800">Tout le sang corrompu dont se forme un tyran ! »</l>
 	<l id="801">J’en étais là, Seigneur, quand tu m’as entendue.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="802">La réponse est d’esprit et n’est pas mal conçue.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="803">Ha ! César, il n’est plus d’asile en ta maison.</l>
 	<l id="804">Quoi ! Tu tiens pour suspects de fer et de poison</l>
 	<l id="805">Jusques à tes parents, avec qui la Nature</l>
@@ -1215,47 +1215,47 @@
 <stage>Séjanus entre sans être vu d’Agrippine ni de Tibère.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Tibère, Agrippine, Séjanus.</head>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE continue sans voir Séjanus.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Tibère, Agrippine, Séjanus.</cast>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker> continue sans voir Séjanus.</hstage>
 	<l id="815" part="f">Séjanus te trahit,</l>
 	<l id="816">Il empiète à pas lents ton trône, et l’envahit,</l>
 	<l id="817">Il gagne à son parti les familles puissantes,</l>
 	<l id="818">Il se porte héritier des maisons opulentes,</l>
 	<l id="819">Il brigue contre toi la faveur du Sénat.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS, bas.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>, bas.</hstage>
 	<l id="820" part="i">Ô Dieux ! Elle m’accuse !</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="820" part="f">Il renverse l’État,</l>
 	<l id="821">Il sème de l’argent parmi la populace.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS, bas à Agrippine en se jetant aux pieds de l’Empereur.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>, bas à Agrippine en se jetant aux pieds de l’Empereur.</hstage>
 	<l id="822">Nous périrons, Madame, et sans implorer grâce !</l>
 	<l id="823" part="i">Oui, Seigneur, il est vrai, j’ai conjuré !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="823" part="f">Qui ? Toi !</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="824">On peut te dire pis encor de lui, de moi...</l>
 	<l id="825">Mais à de tels rapports il est d’un Prince sage</l>
 	<l id="826">De ne pas écouter un faible témoignage.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS, bas.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>, bas.</hstage>
 	<l id="827">Imprudent ! Qu’ai-je fait? Tout est désespéré !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="828">Mais enfin, Séjanus lui-même a conjuré ?</l>
 	<l id="829" part="i">Il l’avoue ?</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="829" part="m">Oui, Seigneur.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="829" part="f">L’eussiez-vous cru, Princesse ?</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="830">J’ai conjuré cent fois ta profonde sagesse,</l>
 	<l id="831">De ne point écouter ces lâches ennemis</l>
 	<l id="832">Qui te rendent suspects Agrippine et son fils.</l>
@@ -1268,10 +1268,10 @@
 	<l id="839">Je t’en conjure encor par l’amour des Romains,</l>
 	<l id="840">Et par ces tristes pleurs dont je mouille tes mains !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="841" part="i">Comment ?</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="841" part="f">Tes Légions qui s’approchent de Rome</l>
 	<l id="842">Réveillent en sursaut la Ville d’un grand somme ;</l>
 	<l id="843">Elle croit que tu veux abreuver ses remparts</l>
@@ -1286,7 +1286,7 @@
 	<l id="852">Menace insolemment de perdre tout respect.</l>
 	<l id="853">Étouffe en son berceau la révolte naissante.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 <stage>Il arrête Agrippine qui veut sortir.</stage>
 	<l id="854">Agrippine arrêtez ! Si le désordre augmente</l>
 	<l id="855">Un désaveu public aux yeux de ces mutins,</l>
@@ -1299,21 +1299,21 @@
 	<l id="861">C’est pour l’intimider, les rayons de ma vue,</l>
 	<l id="862">Comme ceux du Soleil, résoudront cette nue.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="863">Il serait à propos qu’on te vit escorté :</l>
 	<l id="864">De grands desseins par là souvent ont avorté.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Séjanus, Agrippine, Cornélie.</head>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Séjanus, Agrippine, Cornélie.</cast>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="865" part="i">Que vous m’avez fait peur !</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="865" part="f">Que vous m’avez troublée !</l>
 	<l id="866">Je sens mon âme encor de surprise accablée !</l>
 	<l id="867">Confesser au tyran la conjuration !</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="868">Mais ! Vous, lui révéler la conspiration !</l>
 	<l id="869">J’ai cru que votre cœur vous prenait pour un autre ;</l>
 	<l id="870">J’en ai senti mon front rougir au lieu du vôtre,</l>
@@ -1326,13 +1326,13 @@
 	<l id="877">Et vous justifiant, quoi que mon ennemie,</l>
 	<l id="878">Combler par mon trépas votre nom d’infamie !</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="879">Vous m’offensez, cruel, par cet emportement,</l>
 	<l id="880">Mon amour en dépôt vous tient lieu de serment,</l>
 	<l id="881">Puisque c’est une loi du Dieu qui nous assemble,</l>
 	<l id="882">Que si vous périssez, nous périssions ensemble.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="883">Si j’ai de grands soupçons, ce n’est pas sans sujet :</l>
 	<l id="884">Ce que j’espère est grand et mon sort est abject !</l>
 	<l id="885">Vous faites relever le bonheur de ma vie</l>
@@ -1346,14 +1346,14 @@
 	<l id="893">Et cette peur, hélas ! Doit bien être soufferte</l>
 	<l id="894">En celui que menace une si grande perte.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 <note>Vers équivoques. (note de l’édition 1654)</note>
 	<l id="895">Non, croyez, Séjanus, avec tous les humains,</l>
 	<l id="896">Que je ne puis sans vous achever mes desseins,</l>
 	<l id="897">Et que vous connaîtrez dans peu comme moi-même</l>
 	<l id="898">Si véritablement Agrippine vous aime.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="899">Enfin, quoi que César puisse faire aujourd’hui,</l>
 	<l id="900">La peur dont j’ai tremblé retombera sur lui.</l>
 	<l id="901">Il faut que je me rende auprès de sa personne,</l>
@@ -1368,8 +1368,8 @@
 	<l id="910">Dedans son île infâme entraîne encor Tibère.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Agrippine, Cornélie, Livilla.</head>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Agrippine, Cornélie, Livilla.</cast>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="911">La Discorde allumant son tragique flambeau,</l>
 	<l id="912">Vous consacre, Madame, un spectacle assez beau,</l>
 	<l id="913">Et je viens comme sœur prendre part à la joie</l>
@@ -1379,80 +1379,80 @@
 	<l id="917">Et ce transport subit, aveugle et plein de zèle,</l>
 	<l id="918">Témoigne que les Dieux sont de votre querelle...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="919">Les Dieux sont obligés de venger mon époux,</l>
 	<l id="920">Si les Dieux ici-bas doivent justice à tous ;</l>
 	<l id="921">Deux partis ont chargé leur balance équitable :</l>
 	<l id="922">Agrippine outragée, et Tibère coupable.</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="923">Pour se bien acquitter, ils vous couronneront.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="924">Ils s’acquitteront bien quand ils me vengeront ;</l>
 	<l id="925">C’est la mort que je veux, non le rang du monarque.</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="926">Se joindre à Séjanus n’en est pas une marque !</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="927">Je fais encore pis : je me joins avec vous.</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="928">Vous nous aviez longtemps caché votre courroux !</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="929">Je règle à mon devoir les transports de mon âme.</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="930">Au devoir, en effet, vous réglez votre flamme :</l>
 	<l id="931">Car comme l’amour seul est le prix de l’amour,</l>
 	<l id="932">Séjanus vous aimant, vous l’aimez à son tour.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="933">Il vous sied mieux qu’à moi d’aimer un adultère,</l>
 	<l id="934">Après l’assassinat d’un époux et d’un frère.</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="935">Sont-ils ressuscités pour vous le révéler ?</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="936">S’ils sortaient du cercueil, ils vous feraient trembler !</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="937">Cette ardeur dont j’embrasse et presse leur vengeance,</l>
 	<l id="938">De l’Envie et de vous sauve mon innocence.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="939">Si sans exception votre main les vengeait,</l>
 	<l id="940">Vous verseriez du sang qui vous affaiblirait :</l>
 	<l id="941">Mais quand vous vengerez leurs Ombres magnanimes.</l>
 	<l id="942">Vous leur déroberez tout au moins deux victimes.</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="943">Vous pourriez m’attendrir par de telles douleurs,</l>
 	<l id="944">Qu’enfin j’accorderais Séjanus à vos pleurs.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="945">Si m’en faisant le don, vous faites un miracle,</l>
 	<l id="946">J’en promets à vos yeux le tragique spectacle :</l>
 	<l id="947">Mais il vous est utile, et vous le garderez</l>
 	<l id="948">Pour le premier époux, dont vous vous lasserez.</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="949">Quiconque ose inventer ce crime abominable,</l>
 	<l id="950">Du crime qu’il invente il a l’esprit capable !...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="951">Votre langue s’emporte ! Apaisez sa fureur...</l>
 	<l id="952">Ce n’est pas le moyen d’acquérir un vainqueur</l>
 	<l id="953">Que vous dites m’aimer avec tant de constance,</l>
 	<l id="954">Car s’il m’aime, il reçoit la moitié de l’offense.</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="955">Séjanus vaut beaucoup ! Vous devez l’estimer?</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="956">Son mérite est trop grand pour pouvoir m’exprimer :</l>
 	<l id="957">Mais Tibère étant mort, que nous avons en butte,</l>
 	<l id="958">Séjanus à son tour sera notre dispute :</l>
@@ -1465,7 +1465,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="LIVILLA"><speaker>LIVILLA, seule.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>, seule.</hstage>
 	<l id="965">Dites, dites le vôtre, Agrippine infidèle,</l>
 	<l id="966">Qui de Germanicus oubliant la querelle,</l>
 	<l id="967">Devenez, sans respect des droits de l’amitié,</l>
@@ -1498,8 +1498,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Tibère Séjanus.</head>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Tibère Séjanus.</cast>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="993">Enfin Rome est soumise et mes troupes logées</l>
 	<l id="994">Sont autour du Palais en bataille rangées,</l>
 	<l id="995">Et je puis foudroyer d’un bras victorieux</l>
@@ -1507,13 +1507,13 @@
 	<l id="997">Je dois par Agrippine ouvrir leurs sépultures,</l>
 	<l id="998">Sa mort décidera toutes nos aventures.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="999">Seigneur, daigne en son sang le tien considérer !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1000">Quand j’ai de mauvais sang, je me le fais tirer.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1001">Prends garde aussi de perdre Agrippine innocente</l>
 	<l id="1002">D’un coup si dangereux la suite m’épouvante ;</l>
 	<l id="1003">Rome publie à faux, par de si prompts effets,</l>
@@ -1521,17 +1521,17 @@
 	<l id="1005">Tu chasses le témoin de qui l’aspect t’affronte,</l>
 	<l id="1006">Et punis la vertu dont l’éclat te fait honte.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1007">Quoi ! La craindre, et n’oser mettre un terme à ses jours !</l>
 	<l id="1008">Ou bien la laisser vivre, et la craindre toujours ?</l>
 	<l id="1009">L’un m’est trop dangereux, l’autre m’est impossible.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1010">Seigneur, comme elle rend son abord accessible,</l>
 	<l id="1011">Qu’un espion fidèle évente ses secrets :</l>
 	<l id="1012" part="i">Je m’offre à cet emploi.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1012" part="f">Je l’ai mandée exprès.</l>
 	<l id="1013">Ce langage muet des yeux avecque l’âme</l>
 	<l id="1014">Me pourra découvrir le complot qu’elle trame ;</l>
@@ -1545,8 +1545,8 @@
 	<l id="1022">À la faire parler observe ma prudence.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Tibère, Séjanus, Agrippine, Cornélie.</head>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Tibère, Séjanus, Agrippine, Cornélie.</cast>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1023">Quoi, barbare ! Vouloir ton père assassiner</l>
 	<l id="1024">Au moment glorieux qu’il te va couronner ?</l>
 	<l id="1025">N’appréhendes tu point, âme fière, âme ingrate,</l>
@@ -1554,34 +1554,34 @@
 	<l id="1027">Et qu’en l’air cette main qui m’assassinera</l>
 	<l id="1028">Ne rencontre la main qui te couronnera ?</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1029" part="i">Moi, Seigneur ?</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1029" part="m">Toi, perfide !</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1029" part="f">Enfin, qui le dépose ?</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1030">Demande à Séjanus, il en sait quelque chose.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1031">J’étais présent, Madame, à ce triste rapport.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1032">D’où vient qu’à ce discours tu te troubles si fort ?</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1033">Pour paraître innocente, il faut être coupable :</l>
 	<l id="1034">D’une prompte réplique on est bien plus capable,</l>
 	<l id="1035">Parce que l’on apporte au complot déclaré,</l>
 	<l id="1036">Contre l’accusateur un esprit préparé.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1037" part="i">Défends, défends-toi mieux.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1037" part="f">Je pourrais l’entreprendre :</l>
 	<l id="1038">Mais je t’offenserais si j’osais me défendre ;</l>
 	<l id="1039">Ce serait une preuve à la postérité</l>
@@ -1597,69 +1597,69 @@
 	<l id="1049">Car tout Rome connaît qu’il veut par ma ruine</l>
 	<l id="1050">Élever sa maison sur celle d’Agrippine.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1051">Tout ce déguisement ne te peut garantir ;</l>
 	<l id="1052">Ton jour est arrivé, Superbe, il faut partir,</l>
 	<l id="1053">Et l’État en péril a besoin de ta tête.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1054">Faut il tendre le col ? Qu’on frappe, je suis prête !</l>
 	<l id="1055">Tibère étant ici, je vois l’exécuteur...</l>
 	<l id="1056">Mais apprends-moi mon crime et mon accusateur ?</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1057">Tu débauches le peuple à force de largesses,</l>
 	<l id="1058">Tu gagnes dans le camp mes soldats par promesses,</l>
 	<l id="1059">Tu parais en public, tu montes au Sénat,</l>
 	<l id="1060">Tu brigues pour les tiens les charges de l’État.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1061">Tibère ne reproche à mon âme royale</l>
 	<l id="1062">Que d’être généreuse, affable et libérale,</l>
 	<l id="1063">Et comme criminelle, à mort il me poursuit !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1064">La Vertu devient crime en faisant trop de bruit.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1065">Elle passe du moins pour cela sous ton règne.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1066">Mon amour paternel à tes fils le témoigne.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1067">Cet amour paternel les a tous glorieux</l>
 	<l id="1068">Élevés de ta table à la table des Dieux ;</l>
 	<l id="1069">Et si de beaux festins tu régales les nôtres,</l>
 	<l id="1070">Qu’après ceux de Tibère ils n’en goûtent plus d’autres!</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1071">Romains, j’ai la bonté d’être le protecteur</l>
 	<l id="1072">De celle qui me tient pour un empoisonneur ;</l>
 	<l id="1073" part="i">Je suis enfant d’Auguste.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1073" part="f">Il m’en souvient, Tibère !</l>
 	<l id="1074">Tu naquis en ce temps qu’à mon bienheureux père</l>
 	<l id="1075">Toute chose à l’envi succédant à la fois,</l>
 	<l id="1076">Fortune lui donnait des enfants à trois mois.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1077">Si je ne tiens de lui le jour que je respire,</l>
 	<l id="1078">Au moins, comme à son fils, il m’a laissé l’Empire.</l>
 	<l id="1079">Et ce sage Empereur nous rendit par son choix,</l>
 	<l id="1080">Toi l’esclave soumise, moi le maître des lois.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1081">Ne fais point vanité d’un choix illégitime ;</l>
 	<l id="1082">Son orgueil te choisit, et non pas son estime ;</l>
 	<l id="1083">Il te donna l’Empire, afin que l’Univers</l>
 	<l id="1084">Regrettât le malheur d’avoir changé ses fers.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1085">Parricide, ton père éprouve ton audace.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1086">Tu respectes mon père en détruisant sa race,</l>
 	<l id="1087">Tu lui bâtis un temple, et consacrant ce lieu.</l>
 	<l id="1088">Tu n’y fais immoler que les parents du Dieu;</l>
@@ -1685,23 +1685,23 @@
 	<l id="1108">Et de son corps sanglant rempli ton vain tombeau.</l>
 	<l id="1109">Que si le Ciel injuste est sourd à ma requête...</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1110">Ton bras, à son défaut, attaquera ma tête ?</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1111">Qui m’empêche, Tyran, si c’était mon dessein,</l>
 	<l id="1112">De plonger tout à l’heure un poignard dans ton sein ?</l>
 <stage>Elle tire un poignard qu’elle jette aux pieds de l’Empereur.</stage>
 	<l id="1113">Mais vis en sûreté, la veuve d’un Alcide</l>
 	<l id="1114">Rougirait de combattre un monstre si timide.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1115">En découvrant ainsi ta noire intention,</l>
 	<l id="1116">Et travaillant toi-même à ta conviction,</l>
 <note>Géhenne : lieu de douleurs extrêmes où se retrouvent les pêcheurs après leur mort. Peur être assimiler aux Enfers. </note>
 	<l id="1117" part="i">Tu t’épargnes la géhenne.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1117" part="f">Ah ! Si je suis blâmable,</l>
 	<l id="1118">Mon orgueil, non pas moi, de mon crime est coupable !</l>
 	<l id="1119">Et mon cœur échauffé de ce sang glorieux,</l>
@@ -1711,7 +1711,7 @@
 	<l id="1123">Et sans voir que mon Prince est mon accusateur,</l>
 	<l id="1124">Il révolte ma voix contre mon Empereur.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1125">Ah ! Si mon sang t’émeut, il mérite ta grâce.</l>
 	<l id="1126">L’orgueil n’est pas un crime aux enfants de ma race ;</l>
 	<l id="1127">Mais comme d’un soupçon la noirceur s’effaçant</l>
@@ -1726,8 +1726,8 @@
 	<l id="1136">Et sa fleur sans éclore en bouton s’y flétrit.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III.  Agrippine, Séjanus, Cornélie.</head>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast> Agrippine, Séjanus, Cornélie.</cast>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1137">Ô qu’il est à propos de savoir se contraindre !</l>
 	<l id="1138">Mais comment se forcer, quand on ne saurait craindre ?</l>
 	<l id="1139">Dans mon abaissement incapable d’effroi,</l>
@@ -1740,15 +1740,15 @@
 	<l id="1146">Je ne puis m’abaisser à flatter mon esclave.</l>
 	<l id="1147" part="i">Quoi ! Mon fils à Caprée !</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1147" part="m">Ô Ciel !</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1147" part="f">Ah  Séjanus !</l>
 	<l id="1148">La fureur me saisit, je ne me connais plus...</l>
 	<l id="1149" part="i">Vois-tu pas son dessein ?</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1149" part="f">Ce rusé politique</l>
 	<l id="1150">Le cache aux yeux de Rome et de la République ;</l>
 	<l id="1151">Son amitié travaille à le faire oublier :</l>
@@ -1789,7 +1789,7 @@
 	<l id="1185">Vous leur restituerez ce fameux héritage</l>
 	<l id="1186">Que leur père mourant leur laissait en partage.</l>
 </sp>
-<sp who="CORNÉLIE"><speaker>CORNÉLIE.</speaker>
+<sp who="CORNÉLIE"><hstage><speaker>CORNÉLIE</speaker>.</hstage>
 	<l id="1187">Si leur âme en suspens semble encor hésiter,</l>
 	<l id="1188">Vous saurez par ces mots leur courage exciter.</l>
 	<l id="1189">« Quoi vous, mes compagnons, dont l’ardente colère</l>
@@ -1811,36 +1811,36 @@
 	<l id="1205">Ce discours achevé, du haut de leur tribune,</l>
 	<l id="1206">Avec un front égal attendez la Fortune.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE, à Séjanus.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>, à Séjanus.</hstage>
 	<l id="1207">Mais sans que de l’État nous déchirions le flanc,</l>
 	<l id="1208">Que le sang de Tibère épargne tant de sang !</l>
 	<l id="1209">Laisse-moi l’attaquer seule en face de Rome,</l>
 	<l id="1210">Il ne mérite pas de tomber sous un homme.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1211">Madame, en ma faveur, ne vous exposez point !</l>
 	<l id="1212">Attendons au parti le soldat qui se joint ;</l>
 	<l id="1213">Du plus sûr au plus prompt ne faites point d’échange.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1214">Périsse l’Univers, pourvu que je me venge !</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1215">Oui, vous serez vengée, oui, Madame, et bientôt.</l>
 	<l id="1216">Votre aïeul, dans le Ciel, le demande assez haut,</l>
 	<l id="1217">Et du fond des Enfers votre époux vous le crie :</l>
 	<l id="1218">Mais pour un malheureux conservez votre vie,</l>
 	<l id="1219" part="i">Vous me l’avez promis !</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1219" part="f">Oui, va, je m’en souviens !</l>
 	<l id="1220">Mais une Ombre qui crie empêche nos liens,</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1221">Hé quoi ! Germanicus peut-il trouver étrange</l>
 	<l id="1222">Que sa veuve se donne à celui qui le venge ?</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1223">Non, sa veuve à son gré te fera son époux,</l>
 	<l id="1224">Tu seras son rival sans qu’il en soit jaloux ;</l>
 	<l id="1225">Il joindra de son nom la force à ton audace,</l>
@@ -1855,7 +1855,7 @@
 	<l id="1233">Mes faveurs envers toi pour lors seront si grandes,</l>
 	<l id="1234">Que je t’épouserai si tu me le demandes.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1235">Quoi ! Vous m’aimez, Madame, et je l’apprends de vous !</l>
 	<l id="1236">Quoi ! Je puis espérer d’être un jour votre époux !</l>
 	<l id="1237">Et l’excès du plaisir dont mes sens sont la proie</l>
@@ -1865,17 +1865,17 @@
 	<l id="1241">Du moins je vous dirai jusqu’au soupir extrême ;</l>
 	<l id="1242">Voyez mourir d’amour Séjanus qui vous aime !</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1243">Adieu ! Ma sœur approche, ôte-lui les soupçons</l>
 	<l id="1244">Qu’elle pourrait avoir que nous la trahissons.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1245">Ah ! Madame, elle peut nous avoir écoutée,</l>
 	<l id="1246">Elle marche à grands pas et paraît transportée.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Séjanus, Livilla.</head>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Séjanus, Livilla.</cast>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="1247">« Si le sort ne veut pas que je meure d’amour,</l>
 	<l id="1248">Ni que sans votre aveu je sois privé du jour,</l>
 	<l id="1249">Du moins je vous dirai jusqu’au soupir extrême :</l>
@@ -1899,7 +1899,7 @@
 	<l id="1267">Et pour me rendre un crime encor plus déplaisant,</l>
 	<l id="1268">Traître, rends-moi l’amour dont je t’ai fait présent !</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1269">Comment agir, Madame, avec une Princesse</l>
 	<l id="1270">Dont il faut ménager l’esprit avec adresse ;</l>
 	<l id="1271">À qui tous nos desseins paraîtraient furieux,</l>
@@ -1911,7 +1911,7 @@
 	<l id="1277">Les larmes dont je feins vouloir prendre son âme,</l>
 	<l id="1278">Lui montrent ma douleur bien plutôt que ma flamme.</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="1279">Ô Dieux ! Qu’on a de peine à prononcer l’arrêt,</l>
 	<l id="1280">Quand on veut condamner un ennemi qui plaît !</l>
 	<l id="1281">Je t’abhorre, je t’aime, et ma raison confuse,</l>
@@ -1929,16 +1929,16 @@
 	<l id="1293">Adieu ! Vois l’Empereur, assiège sa personne,</l>
 	<l id="1294">Qu’en tous lieux ton aspect l’épouvante et l’étonne.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1295">Je sais que l’Empereur ne peut être averti</l>
 	<l id="1296">Du nom des conjurés qui forment le parti,</l>
 	<l id="1297">Cependant plus ma course approche la barrière,</l>
 	<l id="1298">Plus mon âme recule et me tire en arrière.</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="1299">Va, va, ne tremble point ! Aucun ne te trahit.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1300">Une secrète horreur tout mon sang envahit :</l>
 	<l id="1301">Je ne sais quoi me parle, et je ne puis l’entendre,</l>
 	<l id="1302">Ma raison dans mon cœur s’efforce de descendre ;</l>
@@ -1951,7 +1951,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="1309">L’intrigue est découvert, les lâches m’ont trahie !</l>
 	<l id="1310">Ils m’en ont fait l’affront, ils en perdront la vie ;</l>
 	<l id="1311">D’un esprit satisfait je les verrai mourir,</l>
@@ -1970,22 +1970,22 @@
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Tibère, Livilla, Furnie.</head>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Tibère, Livilla, Furnie.</cast>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1323">Un homme qu’en dormant la Fortune éleva...</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="1324">Que de l’obscurité ton amitié sauva...</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1325">Séjanus, dont la tête, unie à ma personne,</l>
 	<l id="1326">Emplissait avec moi le rond de ma Couronne,</l>
 	<l id="1327">En vouloir à mes jours ! Il en mourra l’ingrat !</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="1328">Par sa punition, assure ton État.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1329">Je veux qu’en son trépas la Parque s’étudie</l>
 	<l id="1330">À prolonger sa peine au delà de sa vie ;</l>
 	<l id="1331">Qu’il meure et qu’un sanglot ne lui soit pas permis,</l>
@@ -1993,13 +1993,13 @@
 	<l id="1333">Et qu’il soit trop peu d’un pour la douleur entière</l>
 	<l id="1334">Dont il doit servir seul d’espace et de matière !</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="1335">À quelque extrémité qu’aille son châtiment,</l>
 	<l id="1336">Tu te venges d’un traître encor trop doucement :</l>
 	<l id="1337">Mais ! Seigneur, sans péril le pourras-tu détruire,</l>
 	<l id="1338">Et n’est-il plus, le lâche, en état de te nuire ?</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1339">Il est pris, le Superbe, on instruit son procès,</l>
 	<l id="1340">Et je le vois trembler de son dernier accès;</l>
 	<l id="1341">Aussitôt que ta bouche à l’État secourable,</l>
@@ -2017,13 +2017,13 @@
 	<l id="1353">Vient d’entrer au Sénat pour sortir au supplice ;</l>
 	<l id="1354">Il n’a plus d’autres lieux à voir qu’un précipice.</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="1355">Seigneur, et d’Agrippine en a-t-on résolu ?</l>
 	<l id="1356">Tu dois l’exterminer de pouvoir absolu :</l>
 	<l id="1357">Cet esprit insolent d’un trop heureux mensonge,</l>
 	<l id="1358">Croit t’avoir sur son crime endormi par un songe.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1359">Ce songe fabuleux ne m’a point endormi,</l>
 	<l id="1360">Au dessein de la perdre, il m’a plus affermi ;</l>
 	<l id="1361">De l’attentat qui trouble une âme embarrassée,</l>
@@ -2040,8 +2040,8 @@
 	<l id="1372">Quand il la surprendra, lui fasse plus de mal.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Nerva, Tibère, Livilla.</head>
-<sp who="NERVA"><speaker>NERVA.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Nerva, Tibère, Livilla.</cast>
+<sp who="NERVA"><hstage><speaker>NERVA</speaker>.</hstage>
 	<l id="1373">Seigneur, il est jugé; quand on a lu ta lettre,</l>
 	<l id="1374">Sans que pour lui personne ait osé s’entremettre,</l>
 	<l id="1375">Comme si son malheur était contagieux,</l>
@@ -2060,50 +2060,50 @@
 	<l id="1387">Ce coupable est déjà dans la cour descendu,</l>
 	<l id="1388">Où par l’exécuteur ton ordre est attendu.</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="1389">César, au nom des Dieux, commande qu’on l’amène !</l>
 	<l id="1390">Il importe à ta vie, il importe à ma haine,</l>
 	<l id="1391">Qu’avant le coup fatal nous puissions nous parler;</l>
 	<l id="1392">Car j’ai d’autres secrets encor à révéler</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1393" part="i">Fais qu’il monte, Nerva.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Tibère, Livilla.</head>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Tibère, Livilla.</cast>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="1393" part="f">Cette haute indulgence</l>
 	<l id="1394">Me surprend et m’oblige à la reconnaissance;</l>
 	<l id="1395">Ainsi donc que César demeure satisfait,</l>
 	<l id="1396">Et que ma courtoisie égale son bienfait,</l>
 	<l id="1397">Je lui veux découvrir le plus grand des complices.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1398">Par son nom, Livilla, couronne tes services.</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="1399">Ouvre les yeux sur moi, Tyran, c’est Livilla !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1400">La fureur de ma bru passerait jusques-là !</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="1401">Appelles-tu fureur un acte de justice ?</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1402">Donc de mon assassin, ma fille est la complice ?</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="1403">Non, je ne la suis pas, Tibère, il est le mien ;</l>
 	<l id="1404">J’ai formé l’attentat, mais le malheur est sien.</l>
 	<l id="1405">Du massacre d’un monstre il sort assez d’estime,</l>
 	<l id="1406">Pour disputer l’honneur d’en avoir fait le crime :</l>
 	<l id="1407">Oui, ce fut moi, Tyran, qui l’armai contre toi !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1408">La Femme de mon fils conspirer contre moi !</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="1409">Moi, femme de ton fils, moi fille de ton frère,</l>
 	<l id="1410">J’allais te poignarder, toi mon oncle et mon père,</l>
 	<l id="1411">Par cent crimes en un, me donner le renom</l>
@@ -2133,7 +2133,7 @@
 	<l id="1435">Ose donc, ose donc quelque chose de grand,</l>
 	<l id="1436">Je brûle de mourir par les mains d’un tyran.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1437">Oui, tu mourras perfide; et quoi que je t’immole,</l>
 	<l id="1438">Pour punir ta fureur, je te tiendrai parole;</l>
 	<l id="1439">Tu verras son supplice, il accroîtra ton deuil,</l>
@@ -2146,8 +2146,8 @@
 	<l id="1446">Ne pouvant s’assouvir, augmente sa tristesse.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Livilla, Furnie.</head>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Livilla, Furnie.</cast>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="1447">Hé! bien, Furnie, hé bien ? Le voilà ce grand jour,</l>
 	<l id="1448">Dont la lumière éteinte éteindra mon amour;</l>
 	<l id="1449">Mais elle m’abandonne et n’oserait m’entendre,</l>
@@ -2156,8 +2156,8 @@
 	<l id="1452">Les vivants ont horreur de s’approcher de moi</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Livilla, Séjanus, Nerva.</head>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Livilla, Séjanus, Nerva.</cast>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="1453">Enfin, sur le penchant de ta proche ruine,</l>
 	<l id="1454">Ni l’amour de César, ni l’amour d’Agrippine,</l>
 	<l id="1455">Ni pour tes intérêts tout le peuple assemblé,</l>
@@ -2167,13 +2167,13 @@
 	<l id="1459">Ton trépas est juré, Livilla l’entreprend,</l>
 	<l id="1460">Et la main d’une femme a fait un coup si grand.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1461">Nous devant assembler sous la loi d’hyménée.</l>
 	<l id="1462">Me pouvais-je promettre une autre destinée?</l>
 	<l id="1463">Vous êtes trop savante à perdre vos époux !...</l>
 	<l id="1464">On se joint à la mort, quand on se joint à vous.</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="1465">Ton amour m’enseigna ce crime abominable ;</l>
 	<l id="1466">Peut-on être innocent, lors qu’on aime un coupable ?</l>
 	<l id="1467">J’eus recours aux forfaits pour t’attacher à moi !...</l>
@@ -2185,12 +2185,12 @@
 	<l id="1473">Précipiter le vol de mon heure fatale,</l>
 	<l id="1474">Que de te voir heureux aux bras de ma rivale.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1475">La mort, dont vous pensez croître mon désespoir,</l>
 	<l id="1476">Délivrera mes yeux de l’horreur de vous voir :</l>
 	<l id="1477">Nous serons séparés, est-ce un mal dont je tremble!</l>
 </sp>
-<sp who="LIVILLA"><speaker>LIVILLA.</speaker>
+<sp who="LIVILLA"><hstage><speaker>LIVILLA</speaker>.</hstage>
 	<l id="1478">Tu te trompes encor, nous partirons ensemble !</l>
 	<l id="1479">La Parque au lieu de rompre allongera nos fers ;</l>
 	<l id="1480">Je t’accompagnerai jusques dans les Enfers ;</l>
@@ -2208,20 +2208,20 @@
 	<l id="1492">Ainsi que de ton cœur me chassent de ces lieux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Agrippine, Séjanus, Nerva.</head>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Agrippine, Séjanus, Nerva.</cast>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1493">Demeure, Séjanus ! On te l’ordonne, arrête :</l>
 	<l id="1494">Je te viens annoncer qu’il faut perdre la tête ;</l>
 	<l id="1495">Rome en foule déjà court au lieu de ta mort.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1496">D’un courage au-dessus des injures du sort,</l>
 	<l id="1497">Je tiens qu’il est si beau de choir pour votre cause,</l>
 	<l id="1498">Qu’un si noble malheur borne tout ce que j’ose ;</l>
 	<l id="1499">Et déjà mes travaux sont trop bien reconnus,</l>
 	<l id="1500">S’il est vrai qu’Agrippine ait pleuré Séjanus.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1501">Moi pleurer Séjanus ? Moi te pleurer, Perfide ?</l>
 	<l id="1502">Je verrai d’un œil sec la mort d’un parricide.</l>
 	<l id="1503">Je voulais, Séjanus, quand tu t’offris à moi,</l>
@@ -2229,7 +2229,7 @@
 	<l id="1505">Et feignant tous les jours de t’engager mon âme,</l>
 	<l id="1506">Tous les jours en secret je dévidais ta trame...</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1507">Il est d’un grand courage et d’un cœur généreux,</l>
 	<l id="1508">De ne point insulter au sort d’un malheureux :</l>
 	<l id="1509">Mais j’en sais le motif ; pour effacer la trace</l>
@@ -2239,7 +2239,7 @@
 	<l id="1513">Madame, ce n’est pas connaître mon génie,</l>
 	<l id="1514">Car j’aurais fort bien su mourir sans compagnie.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1515">Ne t’imagines pas que par un feint discours</l>
 	<l id="1516">Je tâche vainement à prolonger mes jours !</l>
 	<l id="1517">Car puisqu’à l’Empereur ta trame est découverte,</l>
@@ -2249,11 +2249,11 @@
 	<l id="1521">Et goûter à longs traits l’orgueilleuse malice</l>
 	<l id="1522">D’avoir par ma présence augmenté ton supplice.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1523">De ma mortalité je suis fort convaincu ;</l>
 	<l id="1524">Hé! bien, je dois mourir, parce que j’ai vécu.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1525">Mais as-tu de la mort contemplé le visage ?</l>
 	<l id="1526">Conçois-tu bien l’horreur de cet affreux passage ?</l>
 	<l id="1527">Connais-tu le désordre où tombent leurs accords,</l>
@@ -2264,17 +2264,17 @@
 	<l id="1532">La Nature épouvante une âme qui s’enfuit ?</l>
 	<l id="1533">Voilà de ton destin le terme épouvantable.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1534">Puisqu’il en est le terme, il n’a rien d’effroyable.</l>
 	<l id="1535">La mort rend insensible à ses propres horreurs.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1536">Mais une mort honteuse étonne les grands cœurs!</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1537">Mais la mort nous guérit de ces vaines chimères !</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1538">Mais ta mort pour le moins passera les vulgaires :</l>
 	<l id="1539">Écoute les malheurs de ton dernier soleil :</l>
 	<l id="1540">Car je sais de ta fin le terrible appareil ;</l>
@@ -2296,22 +2296,22 @@
 	<l id="1556">Promènera ta mort en chacun de tes sens :</l>
 	<l id="1557">D’un si triste spectacle es-tu donc à l’épreuve ?</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1558">Cela n’est que la mort et n’a rien qui m’émeuve !</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1559">Et cette incertitude où mène le trépas ?</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1560">Étais-je malheureux, lorsque je n’étais pas?</l>
 	<l id="1561">Une heure après la mort, notre âme évanouie</l>
 	<l id="1562">Sera ce qu’elle était une heure avant la vie.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1563">Mais il faut, t’annonçant ce que tu vas souffrir</l>
 	<l id="1564">Que tu meures cent fois avant que de mourir.</l>
 </sp>
-<sp who="SÉJANUS"><speaker>SÉJANUS.</speaker>
+<sp who="SÉJANUS"><hstage><speaker>SÉJANUS</speaker>.</hstage>
 	<l id="1565">J’ai beau plonger mon âme et mes regards funèbres</l>
 	<l id="1566">Dans ce vaste néant et ces longues ténèbres,</l>
 	<l id="1567">J’y rencontre partout un état sans douleur,</l>
@@ -2330,21 +2330,21 @@
 	<l id="1580">Et si vous en doutez, venez me voir mourir.</l>
 	<l id="1581" part="i">Marchez, Gardes!</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1581" part="f">Marchez ! Je te rends grâce, ô Rome !</l>
 	<l id="1582">D’avoir d’un si grand cœur partagé ce grand Homme ;</l>
 	<l id="1583">Car je suis sûre, au moins, d’avoir vengé le sort</l>
 	<l id="1584">Du grand Germanicus par une grande mort.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Tibère Agrippine.</head>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Tibère Agrippine.</cast>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1585">Je vous cherche, Madame, avec impatience,</l>
 	<l id="1586">Et viens vous faire part du fruit de ma vengeance</l>
 	<l id="1587">Séjanus par sa mort vous va faire raison,</l>
 	<l id="1588">Et venger hautement cette illustre Maison.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1589">César, je te rends grâce et te suis obligée,</l>
 	<l id="1590">Du traître Séjanus enfin tu m’as vengée!</l>
 	<l id="1591">Tu payes mon époux de ce que je lui dois :</l>
@@ -2364,32 +2364,32 @@
 	<l id="1605">Et d’une main cruelle en desserrant ta vue,</l>
 	<l id="1606">Te contraindre de voir que c’est moi qui te tue !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1607" part="i">Ha ! C’est trop, Agrippine !</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1607" part="f">Ah ! c’est encor trop peu</l>
 	<l id="1608">Il faut que ton esprit aveuglé de son feu,</l>
 	<l id="1609">Tombant pour me punir dans un transport infâme,</l>
 	<l id="1610">Comble tes lâchetés du meurtre d’une femme.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1611">Mais je t’ai convaincue, et ton crime avéré</l>
 	<l id="1612">Rend ton arrêt sans tache et mon front assuré.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1613">Comme je sais, Tyran, ce que ton cœur estime,</l>
 	<l id="1614">Que le crime te plaît à cause qu’il est crime,</l>
 	<l id="1615">Si le trépas m’est dû, j’empêche ton transport</l>
 	<l id="1616">De goûter le plaisir d’en commettre à ma mort.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1617">Moi ! Te donner la mort ! J’admire ton audace !</l>
 	<l id="1618">Depuis quand avec nous es-tu rentrée en grâce ?</l>
 	<l id="1619">Pour allonger tes maux, je te veux voir nourrir</l>
 	<l id="1620">Un trépas éternel dans la peur de mourir.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1621">Enfin, lâche Empereur, j’aperçois ta faiblesse</l>
 	<l id="1622">À travers l’épaisseur de toute ta sagesse,</l>
 	<l id="1623">Et du déguisement dont fait ta vanité</l>
@@ -2407,44 +2407,44 @@
 	<l id="1635">Qui fera, pour venger les maux que j’ai soufferts,</l>
 	<l id="1636">Rejaillir jusqu’à moi ton sang dans les Enfers !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1637">Qu’on l’ôte de mes yeux, cette ingrate vipère !</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1638">On te nommait ainsi, quand tu perdis ton père !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1639">Enfin persécuté de mes proches parents,</l>
 	<l id="1640">Et dedans ma famille au milieu des serpents,</l>
 	<l id="1641">J’imiterai, Superbe, Hercule en ce rencontre.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 <note>Hercule : demi-dieu de la mythologie et second prénom de l’auteur.</note>
 	<l id="1642">Ô ! Le digne rapport d’Hercule avec un Monstre !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1643">Qu’on égorge les siens, hormis Caligula !</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1644">Pour ta perte, il suffit de sauver celui-là.</l>
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII.</head>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1645">D’elle et de Séjanus, les âmes déloyales</l>
 	<l id="1646">Arriveront ensemble aux plaines infernales ;</l>
 	<l id="1647">Mais pour Térentius, à l’un et l’autre uni,</l>
 	<l id="1648">Perdant tout ce qu’il aime, il est assez puni.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE DERNIÈRE. Tibère, Nerva.</head>
-<sp who="NERVA"><speaker>NERVA.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE DERNIÈRE.</head><cast>Tibère, Nerva.</cast>
+<sp who="NERVA"><hstage><speaker>NERVA</speaker>.</hstage>
 	<l id="1649" part="i">César !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1649" part="m">Hé bien, Nerva?</l>
 </sp>
-<sp who="NERVA"><speaker>NERVA.</speaker>
+<sp who="NERVA"><hstage><speaker>NERVA</speaker>.</hstage>
 	<l id="1649" part="f">J’ai vu la catastrophe</l>
 	<l id="1650">D’une femme sans peur, d’un soldat philosophe;</l>
 	<l id="1651">Séjanus a d’un cœur qui ne s’est point soumis,</l>
@@ -2453,13 +2453,13 @@
 	<l id="1654">N’a pas d’un seul soupir offensé sa mémoire.</l>
 	<l id="1655">Enfin, plus les bourreaux qui les ont menacés...</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1656" part="i">Sont-ils morts l’un et l’autre?</l>
 </sp>
-<sp who="NERVA"><speaker>NERVA.</speaker>
+<sp who="NERVA"><hstage><speaker>NERVA</speaker>.</hstage>
 	<l id="1656" part="m">Ils sont morts.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1656" part="f">C’est assez.</l>
 </sp>
 </div2>

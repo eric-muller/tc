@@ -101,7 +101,7 @@
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="LA-SULTANE"><speaker>LA SULTANE seule.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker> seule.</hstage>
 	<l id="1">Sage dispensateur du bon et mauvais sort,</l>
 	<l id="2">Qui tiens entre tes mains et ma vie et ma mort ;</l>
 	<l id="3">Souverain Protecteur des âmes affligées,</l>
@@ -212,15 +212,15 @@
 	<l id="106">Il faudra néanmoins que l’un soit malheureux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. La Sultane, L’Aga des Janissaires.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>La Sultane, L’Aga des Janissaires.</cast>
 <note>L’original porte La Sultane comme locuteur, préférons Un esclave.</note>
-<sp who="UN-ESCLAVE"><speaker>UN ESCLAVE.</speaker>
+<sp who="UN-ESCLAVE"><hstage><speaker>UN ESCLAVE</speaker>.</hstage>
 	<l id="107" part="i">Madame, l’Aga vient.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="107" part="f">Sachons ce qu’il désire.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="108">Je viens plaindre une perte importante à l’Empire ;</l>
 	<l id="109">Madame, et dans le deuil dont je suis abattu,</l>
 	<l id="110">Suivre votre conseil comme votre vertu ;</l>
@@ -229,7 +229,7 @@
 	<l id="113">J’aimais trop Achomat, pour être à son tourment,</l>
 	<l id="114">Sans beaucoup de douleur, et sans ressentiment.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="115">Trop généreux ami, ta tristesse m’oblige,</l>
 	<l id="116">Et puisque tu prends part au malheur qui m’afflige,</l>
 	<l id="117">Je sens mon déplaisir décroître de moitié</l>
@@ -248,7 +248,7 @@
 	<l id="129">Et pour comble de maux n’a pas même permis</l>
 	<l id="130">Que tu fusses du moins vengé par tes amis.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="131">Madame, si ce bras peut vous rendre service,</l>
 	<l id="132">Si vous avez dessein que Bajazet périsse,</l>
 	<l id="133">Commandez seulement, et j’ose me vanter</l>
@@ -284,7 +284,7 @@
 	<l id="163">Votre vengeance doit égaler sa malice,</l>
 	<l id="164">Dans son crime il fut prompt, soyons prompt au supplice.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="165">Ne viens point remuer d’un soin industrieux,</l>
 	<l id="166">La cendre d’Achomat pour aveugler mes yeux,</l>
 	<l id="167">Un prince à son sujet ne fait jamais d’injure,</l>
@@ -294,7 +294,7 @@
 	<l id="171">Et lors plus que jamais nous devenons coupables,</l>
 	<l id="172">Quand nous les estimons nous être aussi semblables.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="173">Voulez-vous donc traiter comme Divinité</l>
 	<l id="174">Celui qui pour l’horreur quitte l’humanité ?</l>
 	<l id="175">Et doit-on appeler sa cruauté justice,</l>
@@ -306,7 +306,7 @@
 	<l id="181">Et quand leur rage fait des crimes infinis,</l>
 	<l id="182">C’est par nous seulement qu’il les veut voir punis.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="183">Mais généreux Aga, que veux-tu que je fasse,</l>
 	<l id="184">Quoique pour s’assurer il ait détruit ma race,</l>
 	<l id="185">Je me souviens toujours qu’il me donna sa foi,</l>
@@ -314,7 +314,7 @@
 	<l id="187">Qu’il est mon Souverain, et qu’à présent il m’aime,</l>
 	<l id="188">Puisque de son amour je tiens le Diadème.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="189">Mais aussi cet honneur, il le tient d’Achomat,</l>
 	<l id="190">C’est lui seul qui toujours conserva son État,</l>
 	<l id="191">Lui seul fut son soutien, et sans son assistance</l>
@@ -324,7 +324,7 @@
 	<l id="195">Et malgré nos efforts des infâmes supplices</l>
 	<l id="196">Firent sa récompense, après tous ses services.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="197">Il m’en souvient aussi, mais mon juste courroux</l>
 	<l id="198">Ne peut avoir d’effet contraire à mon époux.</l>
 	<l id="199">Toujours un si beau nom revient en ma pensée</l>
@@ -336,7 +336,7 @@
 	<l id="205">Et qui mit deux esprits dedans un même cœur,</l>
 	<l id="206">Il faut que malgré moi je quitte ma rigueur.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="207">Ce nœud est-il plus fort que celui de nature,</l>
 	<l id="208">Pour vous faire sitôt oublier une injure ?</l>
 	<l id="209">L’intérêt d’un ingrat parce qu’il est amant,</l>
@@ -356,74 +356,74 @@
 	<l id="223">Mais pour suivre un tyran vous dédaignez un père,</l>
 	<l id="224">Songez que tôt ou tard, il lui faut satisfaire.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="225" part="i">Comment donc cher Aga ?</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="225" part="f">Je vous l’ai déjà dit,</l>
 	<l id="226">Perdez avec honneur celui qui le perdit :</l>
 	<l id="227">Ainsi vous punirez celui qui vous offense,</l>
 	<l id="228">Et d’un affront sanglant vous perdrez la vengeance.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="229">Quel conseil est le tien pour un cœur amoureux ?</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="230">Un conseil qui doit rendre un père plus heureux.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="231">Un conseil qui m’instruit à perdre ce que j’aime.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="232" part="i">À perdre qui vous nuit.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="232" part="f">À me nuire moi-même</l>
 	<l id="233">Non, Bajazet mourant ne peut le soulager ;</l>
 	<l id="234">Achomat n’aime point ce qui peut m’affliger.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="235">Mais devez-vous aimer un qui vous déshonore,</l>
 	<l id="236" par="i">Un tyran qui vous perd ?</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="236" part="f">Lui-même je l’adore.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="237" part="i">Il vous ravit un père.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="237" part="f">Il le mit au tombeau.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="238" part="i">Il fut son ennemi.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="238" part="f">Dis qu’il fut son bourreau</l>
 	<l id="239">Mais cependant je l’aime, et ce nom d’Hyménée</l>
 	<l id="240">A chassé la fureur qu’un trépas m’a donnée ;</l>
 	<l id="241">Je ne puis m’en dédire, et mon affection</l>
 	<l id="242">Fait comme mon plaisir ; toute ma passion.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="243">Ah ! Madame, écoutez la voix de la nature.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="244">Elle-même me guide en cette procédure.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="245">Suivez donc son conseil, punissez un ingrat,</l>
 	<l id="246">Perdez un infidèle, et vengez Achomat.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="247">Mais le puis-je venger en commettant un crime ?</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="248">La vengeance d’un Père est toujours légitime ;</l>
 	<l id="249">Si ce juste conseil offense votre amour,</l>
 	<l id="250">Songez que l’on doit tout, à qui l’on doit le jour.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="251">Il est vrai l’on doit tout à qui l’on doit la vie,</l>
 	<l id="252">Aussi je cède enfin à son illustre envie,</l>
 	<l id="253">Et me repends déjà d’avoir tant combattu,</l>
@@ -437,7 +437,7 @@
 	<l id="261">Qu’il vienne, et que bientôt par un ordre nouveau</l>
 	<l id="262">Il sera dans le Trône, et son père au Tombeau.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="263">Mais de peur qu’un soupçon dans son âme incertaine,</l>
 	<l id="264">Ne trompât notre attente et ne la rendit vaine,</l>
 	<l id="265">Cherchons de ses amis, dont la sincérité</l>
@@ -449,7 +449,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="LA-SULTANE"><speaker>LA SULTANE seule.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker> seule.</hstage>
 	<l id="271">Méprisons ces honneurs, et ce beau nom de femme,</l>
 	<l id="272">Le feu de ma colère est plus fort que sa flamme :</l>
 	<l id="273">C’est lui qui d’Achomat éteignit le flambeau,</l>
@@ -484,50 +484,50 @@
 	<l id="302">Venir trouver la mort en mes embrassements.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Corchut, La Sultane.</head>
-<sp who="CORCHUT"><speaker>CORCHUT.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Corchut, La Sultane.</cast>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>.</hstage>
 	<l id="303">Quel est donc l’accident qui vous met en colère ?</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="304">J’en ai trop de sujet ; après la mort d’un père</l>
 	<l id="305">Peut-on avoir l’esprit justement en repos ?</l>
 	<l id="306">L’image de sa mort me trouble à tout propos,</l>
 	<l id="307">Sans cesse il m’en revient une idée importune,</l>
 	<l id="308">Qui trouble mes plaisirs et ma bonne fortune.</l>
 </sp>
-<sp who="CORCHUT"><speaker>CORCHUT.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>.</hstage>
 	<l id="309">Mais vous trouvez aussi dans l’amour d’un époux,</l>
 	<l id="310">Pour vous en consoler des moyens assez doux.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="311">Des moyens assez doux, ah ! Corchut au contraire,</l>
 	<l id="312">Peut-il me consoler ayant tué mon père ?</l>
 </sp>
-<sp who="CORCHUT"><speaker>CORCHUT.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>.</hstage>
 	<l id="313">Qui vous a fait du mal vous en pourra guérir.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="314">Ce sera donc Corchut en me faisant mourir,</l>
 	<l id="315">La perte que j’ai faite étant irréparable,</l>
 	<l id="316">La mort seule à mes maux peut être secourable.</l>
 </sp>
-<sp who="CORCHUT"><speaker>CORCHUT.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>.</hstage>
 	<l id="317">Peu de monde en la mort a rencontré son bien.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="318">Peu de monde a senti du mal comme le mien.</l>
 	<l id="319">La mort aux plus heureux est un pas difficile,</l>
 	<l id="320">Mais c’est des malheureux le véritable Asile,</l>
 	<l id="321">C’est par son seul moyen qu’ils sont en sûreté.</l>
 </sp>
-<sp who="CORCHUT"><speaker>CORCHUT.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>.</hstage>
 	<l id="322">Oui lorsque le malheur est à l’extrémité ;</l>
 	<l id="323" part="i">Mais...</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="323" part="f">Mais le mien est tel étant irréparable.</l>
 </sp>
-<sp who="CORCHUT"><speaker>CORCHUT.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>.</hstage>
 	<l id="324">Mais il ne tient qu’à vous d’être moins misérable,</l>
 	<l id="325">Oubliez Achomat, et quittez votre ennui,</l>
 	<l id="326">Ayez plus de bonté pour vous, et moins pour lui.</l>
@@ -539,24 +539,24 @@
 	<l id="332">Voulant vous consulter avant sur cette affaire.</l>
 	<l id="333">C’est dont il m’a prié de vous venir parler.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="334">Sur ce point important je veux le conseiller,</l>
 	<l id="335" part="i">Où pourrai-je le voir ?</l>
 </sp>
-<sp who="CORCHUT"><speaker>CORCHUT.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>.</hstage>
 	<l id="335" part="f">Dedans le Sérail même.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="336">Je lui veux aujourd’hui montrer combien je l’aime.</l>
 	<l id="337">Je l’y verrai tantôt, allez l’en avertir.</l>
 	<l id="338" part="i">Mais vite, s’il vous plaît.</l>
 </sp>
-<sp who="CORCHUT"><speaker>CORCHUT.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>.</hstage>
 	<l id="338" part="f">Madame, il va venir.</l>
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="LA-SULTANE"><speaker>LA SULTANE seule.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker> seule.</hstage>
 	<l id="339">Quand nous savons choisir des projets légitimes,</l>
 	<l id="340">Le Ciel discerne bien la justice des crimes.</l>
 	<l id="341">Et pour lors qu’aux vertus notre âme donne accès,</l>
@@ -581,8 +581,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Corchut, Selim.</head>
-<sp who="CORCHUT"><speaker>CORCHUT.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Corchut, Selim.</cast>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>.</hstage>
 	<l id="359">Deux pensers différents dont mon cœur est la proie.</l>
 	<l id="360">Me donnent de la crainte autant que de la joie.</l>
 	<l id="361">Mon esprit agité de ces deux passions,</l>
@@ -604,7 +604,7 @@
 	<l id="377">Jamais il ne hait, ou bien n’aime à demi :</l>
 	<l id="378">Et quand il n’aime pas, il est grand ennemi.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="379">Dans l’état où je suis j’aurais droit de me plaindre,</l>
 	<l id="380">Si tout ce que je vois ne m’empêchait de craindre :</l>
 	<l id="381">Bajazet est mon père, il saura pardonner</l>
@@ -651,7 +651,7 @@
 	<l id="421">Il ne punira pas comme un usurpateur,</l>
 	<l id="422">Celui qui ne voulut qu’être son successeur.</l>
 </sp>
-<sp who="CORCHUT"><speaker>CORCHUT.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>.</hstage>
 	<l id="423">Qui demande pardon, selon cette maxime,</l>
 	<l id="424">Fait voir qu’il a lui-même horreur pour un tel crime ;</l>
 	<l id="425">Et lors pour sûrement établir ses desseins</l>
@@ -699,7 +699,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="SÉLIM"><speaker>SÉLIM, seul.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>, seul.</hstage>
 	<l id="467">Imprudente chaleur d’une âme audacieuse,</l>
 	<l id="468">Et trop ambitieuse,</l>
 	<l id="469">À quel point réduis-tu mes jours ?</l>
@@ -740,49 +740,49 @@
 	<l id="504">L’empire qu’y tenait ton injuste pouvoir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Selim, L’Esclave de Selim.</head>
-<sp who="L-ESCLAVE"><speaker>L’ESCLAVE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Selim, L’Esclave de Selim.</cast>
+<sp who="L-ESCLAVE"><hstage><speaker>L’ESCLAVE</speaker>.</hstage>
 	<l id="505">Je venais t’avertir que la Sultane Reine</l>
 	<l id="506" part="i">Te demande, Seigneur.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="506" part="f">Elle prend trop de peine :</l>
 	<l id="507" part="i">Je vais la recevoir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Selim, La Sultane.</head>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Selim, La Sultane.</cast>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="507" part="f">Mais ô Dieu la voici.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="508">Enfin j’ai le bonheur de te revoir ici.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="509">Madame vous voyez ce Prince misérable,</l>
 	<l id="510">Que trop de libertés, ont rendu détestable,</l>
 	<l id="511">Et qui prêt aujourd’hui de terminer ses jours,</l>
 	<l id="512">Viens chercher son salut dedans votre secours.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="513">Il le peut mieux trouver en son propre courage ;</l>
 	<l id="514">Et de m’offrir à lui, c’est lui faire un outrage.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="515">Mon courage pourrait me mettre en sûreté ;</l>
 	<l id="516">Lui qui dans mes malheurs m’a seul précipité,</l>
 	<l id="517">Qui m’a fait l’ennemi de toute ma Patrie.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="518">Mais dites bien plutôt qu’il vous sauve la vie ;</l>
 	<l id="519">Qu’il vous fait respirer, que vous êtes sans fers,</l>
 	<l id="520">Et seul exempt des maux que nous avons soufferts.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="521">Moi seul exempt de fers, moi seul exempt de peine,</l>
 	<l id="522">Qui d’un Roi, qui d’un père ai méritai la haine :</l>
 	<l id="523" part="i">Ah ! Madame...</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="523" part="f">Oui vous seul, puisque son amitié</l>
 	<l id="524">Vous nuirait au-delà de son inimitié.</l>
 	<l id="525">Ignores-vous encor les faveurs de ce Prince,</l>
@@ -796,10 +796,10 @@
 	<l id="533">Qu’attendrez-vous Selim de cette âme barbare,</l>
 	<l id="534">Où le vice est commun, et la vertu si rare ?</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="535">J’attendrai mon pardon, ou bien mon châtiment.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="536">Attendre son supplice ? Indigne sentiment !</l>
 	<l id="537">Convertissez plutôt cette amour en furie,</l>
 	<l id="538">Et perdez un Tyran pour sauver la Patrie.</l>
@@ -807,7 +807,7 @@
 	<l id="540">Assouvissons sur lui notre juste courroux,</l>
 	<l id="541">Vengeons notre pays, vengeons notre misère.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="542">Voulez-vous éprouver si j’aime encor mon père ?</l>
 	<l id="543">Madame, ces discours sont ici superflus,</l>
 	<l id="544">Si je l’ai méprisé, je ne m’en souviens plus :</l>
@@ -816,14 +816,14 @@
 	<l id="547">C’est là le seul sujet qui m’amène vers lui,</l>
 	<l id="548">Et non pas le dessein de croître son ennui.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="549">Donc à ce que je vois vous me croyez trompeuse ?</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="550">Non, mais je connais trop votre âme vertueuse,</l>
 	<l id="551">Et combien chèrement vous aimez votre époux.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="552">Je jure par le Dieu que nous adorons tous,</l>
 	<l id="553">Par l’amour d’Achomat, que je parle sans feinte ;</l>
 	<l id="554">Croyez-moi donc Selim, n’ayez point cette crainte ;</l>
@@ -832,10 +832,10 @@
 	<l id="557">Il faut venger Selim, le pays et vous-même,</l>
 	<l id="558" part="i">Il faut nous venger tous.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="558" part="f">Ô perfidie extrême !</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="559">Quoi vous refusez donc ainsi d’y consentir ?</l>
 	<l id="560">Vous aimez mieux user d’un lâche repentir,</l>
 	<l id="561">Pour rentrer au Sérail, et sauver votre vie,</l>
@@ -848,26 +848,26 @@
 	<l id="568">Le Tyran veut vous perdre, et vous faire mourir :</l>
 	<l id="569">Il veut par un poison abréger votre vie.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="570">Il le peut justement s’il en a quelque envie,</l>
 	<l id="571" part="i">Je l’ai trop mérité.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="571" part="f">Quel lâche sentiment ?</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="572">Je vous le dis encore, il le peut justement,</l>
 	<l id="573" part="i">Je l’ai trop mérité.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="573" part="f">Respects illégitimes !</l>
 	<l id="574" part="i">Quoi s’il vous veut punir...</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="574" part="f">Il le peut pour mes crimes ;</l>
 	<l id="575" part="i">Que dis-je, il le doit même.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="575" part="f">Ah trop lâche dessein !</l>
 	<l id="576">Je porterai plutôt un poignard dans son sein,</l>
 	<l id="577">Que de souffrir jamais un si triste spectacle.</l>
@@ -879,7 +879,7 @@
 	<l id="583">Vous aimez mieux la mort, mais je la préviendrai ;</l>
 	<l id="584">Et dussé-je avec lui périr, je le perdrai.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="585">Madame, permettez que je vous fasse entendre,</l>
 	<l id="586">Quelle juste raison m’oblige à le défendre ;</l>
 	<l id="587">Écoutez mes raisons, après condamnez-moi</l>
@@ -905,7 +905,7 @@
 	<l id="607">C’est aux Rois de vouloir, c’est à nous d’obéir,</l>
 	<l id="608">Et quiconque est sujet ne les doit point trahir.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="609">Ce n’est pas les trahir, Selim, c’est nous défendre,</l>
 	<l id="610">Pour sauver son pays on peut tout entreprendre,</l>
 	<l id="611">Et personne ne doit même épargner son sang,</l>
@@ -919,7 +919,7 @@
 	<l id="619">Si vous voulez mourir, que ce soit pour l’État,</l>
 	<l id="620">Et perdez-vous du moins par un noble attentat.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="621">Sauvons-le, sauvons-nous, Madame, je vous cède,</l>
 	<l id="622">Je veux à vos malheurs apporter du remède,</l>
 	<l id="623">Je suivrai mon honneur si je suis mon devoir,</l>
@@ -933,7 +933,7 @@
 	<l id="631">Et le soin que tantôt il témoignait de moi,</l>
 	<l id="632">Me montre qu’il n’est pas trop porté pour le Roi.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="633">En effet, je m’en vais lui proposer l’affaire ;</l>
 	<l id="634">Remuez cependant l’esprit du Janissaire,</l>
 	<l id="635">Et songez qu’il nous faut emprunter aujourd’hui,</l>
@@ -941,7 +941,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="SÉLIM"><speaker>SÉLIM, seul.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>, seul.</hstage>
 	<l id="637">Je ne t’écoute plus, ô voix de la nature.</l>
 	<l id="638">T’écouter en ce point c’est te faire une injure :</l>
 	<l id="639">Car parlant pour un Roi qui trahit son pays,</l>
@@ -960,50 +960,50 @@
 	<l id="652">De briser ton portrait qui n’a pas ta bonté.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE VI. L’Aga des Janissaires, Haly, L’Esclave de Haly.</head>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE VI.</head><cast>L’Aga des Janissaires, Haly, L’Esclave de Haly.</cast>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="653" part="i">Mais sais-tu que c’est lui ?</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="653" part="f">Ne t’en mets plus en peine.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="654">Quoi tu l’as vu parler à la Sultane Reine ?</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="655" part="i">Chez le Prince Corchut.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="655" part="f">Ne te trompes-tu point ?</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="656">L’esclave que voici t’en sera le témoin.</l>
 </sp>
-<sp who="L-ESCLAVE"><speaker>L’ESCLAVE.</speaker>
+<sp who="L-ESCLAVE"><hstage><speaker>L’ESCLAVE</speaker>.</hstage>
 	<l id="657">Oui Seigneur, c’est Selim, je sais que c’est lui-même.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="658">Ô bonheur sans pareil ! Félicité suprême,</l>
 	<l id="659">Il est de mon devoir de l’aller visiter :</l>
 	<l id="660">Pardonne cher ami si j’ose te quitter.</l>
 <stage>Il sort.</stage>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="661">Pourquoi si promptement lui veut-il quelque chose.</l>
 	<l id="662" part="i">Ne sais-tu...</l>
 </sp>
-<sp who="L-ESCLAVE"><speaker>L’ESCLAVE.</speaker>
+<sp who="L-ESCLAVE"><hstage><speaker>L’ESCLAVE</speaker>.</hstage>
 	<l id="662" part="f">Je ne puis en deviner la cause,</l>
 	<l id="663">J’ai vu dans un instant dissiper son ennui.</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="664">J’essaierai tantôt à savoir tout de lui.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Haly, L’Aga.</head>
-<sp who="HALY"><speaker>HALY.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Haly, L’Aga.</cast>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="665">J’approuve ce parti, mais touchant l’entreprise,</l>
 	<l id="666">Comme un de tes amis, j’ai peur d’une surprise,</l>
 	<l id="667">Et j’appréhende fort qu’un causeur indiscret</l>
@@ -1013,7 +1013,7 @@
 	<l id="671">Et ne t’embarque point inconsidérément.</l>
 	<l id="672" part="i">Dans un si grand danger.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="672" part="f">Je songe incessamment</l>
 	<l id="673">À tes fortes raisons : mais lorsque j’y médite,</l>
 	<l id="674">Un mouvement secret à me venger m’excite,</l>
@@ -1036,13 +1036,13 @@
 	<l id="691">Bon Dieu qu’elle a d’appas pour un cœur généreux,</l>
 	<l id="692">Puisque c’est le moyen qui le peut rendre heureux !</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="693">Quel bonheur est celui dont tu fais tant d’estime ?</l>
 	<l id="694">Appelles-tu bonheur le châtiment d’un crime ?</l>
 	<l id="695">Et si l’on veut punir ton infidélité,</l>
 	<l id="696">Béniras-tu ce fruit de ta témérité</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="697">Lorsque je m’engageai si fort dans cette affaire,</l>
 	<l id="698">Je pensai mûrement à ce que j’allais faire ;</l>
 <note>Sens : On dit de même façon : sens rassis. Lorsque, forcé par la rencontre des choses, il revient à son sens rassis, et ne trouve rien en ses mains de cette haute fortune dont il embrassait une vaine image, BOSSUET Panégérique de Ste Thérèse I. [L]</note>
@@ -1051,18 +1051,18 @@
 	<l id="701">Que tout mal en ce cas m’étais bien supportable ;</l>
 	<l id="702">Et qu’une telle mort m’était trop honorable.</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="703">Parfois nous estimons facile à supporter</l>
 	<l id="704">Un mal dont le penser ne peut nous rebuter.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="705">Mais ami, cette mort ayant une autre cause</l>
 	<l id="706">Que l’infidélité que ton esprit suppose,</l>
 	<l id="707">Ce serait sans raison qu’un triste repentir</l>
 	<l id="708">Vint troubler mon repos d’un nouveau déplaisir,</l>
 	<l id="709">Et cette cause enfin est autre que tu penses.</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="710">Non elle ne l’est pas du moins aux apparences :</l>
 	<l id="711">Et c’est aussi pourquoi je plaindrais ton trépas</l>
 	<l id="712">Mourant pour le pays, qu’on ne le saurait pas</l>
@@ -1071,7 +1071,7 @@
 	<l id="715">Que le peuple dirait pour tout remerciement,</l>
 	<l id="716">Il méritait assez un pareil traitement.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="717">Tu crois donc que la mort qui ne me peut déplaire,</l>
 	<l id="718">Trouve sa récompense en l’esprit du vulgaire.</l>
 	<l id="719">Selon ses sentiments, que je suis généreux,</l>
@@ -1093,52 +1093,52 @@
 	<l id="735">Je vais revoir Selim : dis-moi donc promptement</l>
 	<l id="736">Quel est sur ce sujet ton dernier sentiment.</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="737">Je te suivrai partout, si tu veux le permettre ;</l>
 	<l id="738">Mais l’exécution, à quel temps la remettre.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="739">Je n’en sais rien, Selim... mais le voici :</l>
 	<l id="740">De grâce, cher ami, retire-toi d’ici,</l>
 	<l id="741">Je veux l’entretenir un peu sur cette affaire.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Selim, L’Aga.</head>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Selim, L’Aga.</cast>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="742" part="i">Ô Dieu !</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="742" part="m">Seigneur, un mot.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="742" part="f">Va si tu me veux plaire :</l>
 	<l id="743">De grâce laisse-moi m’entretenir tout seul.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 <note>L’original porte tant deuil, il manque de, pour la métrique.</note>
 	<l id="744">Quel fâcheux accident lui donne tant de deuil.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="745">Mais parle promptement, que me voulais-tu dire ?</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="746">Ce que j’ai fait Seigneur, en faveur de l’Empire,</l>
 	<l id="747" part="i">J’ai...</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="747" part="f">Mais ne pourrais-tu différer un moment ?</l>
 	<l id="748">Viens tantôt me trouver à mon appartement.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="749">Oui, j’irai vous y voir, Seigneur, si bon vous semble.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="750">Viens avecques loisir nous parlerons ensemble,</l>
 	<l id="751">Aussi bien sur un point veux-je t’entretenir.</l>
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="SÉLIM"><speaker>SÉLIM, seul.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>, seul.</hstage>
 	<l id="752">Mais de quoi lui parler ? Ah triste souvenir ?</l>
 	<l id="753">Dure nécessité qui me rends misérable,</l>
 	<l id="754">Au point que mon bonheur semblait incomparable.</l>
@@ -1168,11 +1168,11 @@
 	<l id="778">Dieu faites que son cœur me soit plus secourable.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Izaïde, Selim.</head>
-<sp who="IZAÏDE"><speaker>IZAÏDE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Izaïde, Selim.</cast>
+<sp who="IZAÏDE"><hstage><speaker>IZAÏDE</speaker>.</hstage>
 	<l id="779" part="i">Qu’a résolu Selim ?</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="779" part="f">De faire son devoir,</l>
 	<l id="780">Ne pouvant justement suivre votre vouloir,</l>
 	<l id="781">Oui Madame, et plutôt m’ôter la vie,</l>
@@ -1184,7 +1184,7 @@
 	<l id="787">Moi-même apporterai ma tête à vos genoux,</l>
 	<l id="788">Et bénirai mon mal, le recevant de vous.</l>
 </sp>
-<sp who="IZAÏDE"><speaker>IZAÏDE.</speaker>
+<sp who="IZAÏDE"><hstage><speaker>IZAÏDE</speaker>.</hstage>
 	<l id="789">Donc tu m’aimes Seigneur, à l’égal de toi-même ?</l>
 	<l id="790">Sont-ce là des effets de ton amour extrême ?</l>
 	<l id="791">Quand en as-tu produit ? Pour moi je n’en vois point,</l>
@@ -1194,65 +1194,65 @@
 	<l id="795">Si tu m’aimes encor suis mon commandement,</l>
 	<l id="796">Ou je ne croirai pas que tu sois mon Amant.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="797">Madame, plût à Dieu que vous vissiez mon âme</l>
 	<l id="798">Dans l’état où l’ont mis mon honneur et ma flamme</l>
 	<l id="799">Vous connaîtriez alors si mon amour est feint.</l>
 </sp>
-<sp who="IZAÏDE"><speaker>IZAÏDE.</speaker>
+<sp who="IZAÏDE"><hstage><speaker>IZAÏDE</speaker>.</hstage>
 	<l id="800">Hé bien s-il n’est pas vrai que tu ne m’aimes point ;</l>
 	<l id="801">Si ton cœur a pour moi de l’amour véritable,</l>
 	<l id="802" part="i">Qu’il quitte son dessein.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="802" part="f">Il est trop raisonnable.</l>
 </sp>
-<sp who="IZAÏDE"><speaker>IZAÏDE.</speaker>
+<sp who="IZAÏDE"><hstage><speaker>IZAÏDE</speaker>.</hstage>
 	<l id="803" part="i">Quoi, de trahir son Roi ?</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="803" part="f">De chasser votre ennui.</l>
 </sp>
-<sp who="IZAÏDE"><speaker>IZAÏDE.</speaker>
+<sp who="IZAÏDE"><hstage><speaker>IZAÏDE</speaker>.</hstage>
 	<l id="804" part="i">De détruire l’État ?</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="804" part="f">De lui servir d’appui.</l>
 </sp>
-<sp who="IZAÏDE"><speaker>IZAÏDE.</speaker>
+<sp who="IZAÏDE"><hstage><speaker>IZAÏDE</speaker>.</hstage>
 	<l id="805" part="i">Trahir son Souverain ?</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="805" part="f">Se défaire d’un traître.</l>
 </sp>
-<sp who="IZAÏDE"><speaker>IZAÏDE.</speaker>
+<sp who="IZAÏDE"><hstage><speaker>IZAÏDE</speaker>.</hstage>
 	<l id="806" part="i">Mais d’un grand Potentat ?</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="806" part="f">Mais indigne de l’être.</l>
 </sp>
-<sp who="IZAÏDE"><speaker>IZAÏDE.</speaker>
+<sp who="IZAÏDE"><hstage><speaker>IZAÏDE</speaker>.</hstage>
 	<l id="807">Affliger son pays, le privant d’Empereur ?</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="808">Le délivrer plutôt des mains d’un suborneur.</l>
 </sp>
-<sp who="IZAÏDE"><speaker>IZAÏDE.</speaker>
+<sp who="IZAÏDE"><hstage><speaker>IZAÏDE</speaker>.</hstage>
 	<l id="809" part="i">Mais le priver d’un Chef ?</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="809" part="f">L’honorer d’un plus digne.</l>
 </sp>
-<sp who="IZAÏDE"><speaker>IZAÏDE.</speaker>
+<sp who="IZAÏDE"><hstage><speaker>IZAÏDE</speaker>.</hstage>
 	<l id="810" part="i">S’opposer à son bien ?</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="810" part="f">Empêcher sa ruine.</l>
 </sp>
-<sp who="IZAÏDE"><speaker>IZAÏDE.</speaker>
+<sp who="IZAÏDE"><hstage><speaker>IZAÏDE</speaker>.</hstage>
 	<l id="811">Détruire son pays ; ah quel crime Seigneur !</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="812">Mais faire le devoir de son Libérateur,</l>
 	<l id="813">Est-ce là l’affliger ? Est-ce là le détruire,</l>
 	<l id="814">Si je perds un Tyran qui ne sert qu’à lui nuire ?</l>
@@ -1268,7 +1268,7 @@
 	<l id="824">Puisque tout son bonheur dépend de son amour.</l>
 	<l id="825">Ce sont là les devoirs qu’il désire vous rendre.</l>
 </sp>
-<sp who="IZAÏDE"><speaker>IZAÏDE.</speaker>
+<sp who="IZAÏDE"><hstage><speaker>IZAÏDE</speaker>.</hstage>
 	<l id="826">Tu forges des malheurs que je ne puis comprendre ;</l>
 	<l id="827">Ton bel esprit Seigneur, à te nuire obstiné,</l>
 	<l id="828">Te fait croire des maux qu’il s’est imaginé.</l>
@@ -1293,7 +1293,7 @@
 	<l id="847">Notre vie est par eux, et notre liberté</l>
 	<l id="848">Doit se déterminer suivant leur volonté.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="849">Oui, nous devons céder à leurs desseins Augustes</l>
 	<l id="850">Mais lorsque leur esprit a des désirs injustes</l>
 	<l id="851">Ils cessent d’être Rois, et leur autorité</l>
@@ -1315,7 +1315,7 @@
 	<l id="867">Prêtez, prêtez l’oreille à des conseils plus saints,</l>
 	<l id="868">Et prenez aujourd’hui de plus justes desseins.</l>
 </sp>
-<sp who="IZAÏDE"><speaker>IZAÏDE.</speaker>
+<sp who="IZAÏDE"><hstage><speaker>IZAÏDE</speaker>.</hstage>
 	<l id="869">Je n’ai point de désirs qui ne soient raisonnables ;</l>
 	<l id="870">Quitte les tiens Seigneur, qui sont plus détestables :</l>
 	<l id="871">Ne fais point de dessein sur la tête d’un Roi,</l>
@@ -1329,7 +1329,7 @@
 	<l id="879">Quel progrès as-tu fait par ce grand attentat,</l>
 	<l id="880">Qu’en cette qualité ennemi de l’État ?</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="881">Madame, l’attentat que mon cœur se propose,</l>
 	<l id="882">A bien une plus belle et bien plus noble cause ;</l>
 	<l id="883">Ce dessein ne vient point de mon ambition :</l>
@@ -1343,11 +1343,11 @@
 	<l id="891">Et toujours l’équité de ses grands jugements,</l>
 	<l id="892">Ordonne à l’un le prix, à l’autre les tourments.</l>
 </sp>
-<sp who="IZAÏDE"><speaker>IZAÏDE.</speaker>
+<sp who="IZAÏDE"><hstage><speaker>IZAÏDE</speaker>.</hstage>
 	<l id="893">Mais ce Dieu Souverain, puisqu’il est équitable,</l>
 	<l id="894">Punirait Bajazet s’il le trouvait coupable.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="895">Il le punit assez, inspirant en nos cœurs</l>
 	<l id="896">Le dessein de venger sur lui tant de rigueurs.</l>
 	<l id="897">Il n’agit pas toujours, mais sa bonté suprême</l>
@@ -1355,20 +1355,20 @@
 	<l id="899">Il remet en ses mains son bon et mauvais sort,</l>
 	<l id="900">Et lui donne à choisir ou sa vie, ou sa mort.</l>
 </sp>
-<sp who="IZAÏDE"><speaker>IZAÏDE.</speaker>
+<sp who="IZAÏDE"><hstage><speaker>IZAÏDE</speaker>.</hstage>
 	<l id="901">Puis que tous mes conseils n’ont rien pu sur ton âme,</l>
 	<l id="902">Au nom de notre Hymen, au nom de notre flamme,</l>
 	<l id="903" part="i">Rejette ce dessein.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="903" part="f">Le conseil en est pris,</l>
 	<l id="904">L’Empire veut un bien dont sa tête est le prix.</l>
 </sp>
-<sp who="IZAÏDE"><speaker>IZAÏDE.</speaker>
+<sp who="IZAÏDE"><hstage><speaker>IZAÏDE</speaker>.</hstage>
 	<l id="905">Songe qu’il est ton père, et que son mal te touche,</l>
 	<l id="906">Que tu es une branche, et qu’il en est la souche.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="907">Je ne l’ignore pas, et ce dur souvenir</l>
 	<l id="908">M’oblige davantage à le devoir punir.</l>
 	<l id="909">Je prends trop d’intérêt à l’honneur de ma race,</l>
@@ -1381,19 +1381,19 @@
 	<l id="916">Voyez si c’est justice, ou si c’est trahison.</l>
 	<l id="917">Corchut à ce projet a donné son suffrage.</l>
 </sp>
-<sp who="IZAÏDE"><speaker>IZAÏDE.</speaker>
+<sp who="IZAÏDE"><hstage><speaker>IZAÏDE</speaker>.</hstage>
 	<l id="918">Suis donc tes sentiments je suivrai mon courage,</l>
 	<l id="919">Meurs et je vais mourir ; à Dieu cruel, à Dieu.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="920">Ah ! Souffre que plutôt j’expire sur le lieu,</l>
 <stage>Elle rentre.</stage>
 	<l id="921">Madame ; elle s’enfuit où sa fureur l’amène,</l>
 	<l id="922">Je m’en vais de ce pas voir la Sultane Reine.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Bajazet, Haly, Herzegoglis.</head>
-<sp who="BAJAZET"><speaker>BAJAZET.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Bajazet, Haly, Herzegoglis.</cast>
+<sp who="BAJAZET"><hstage><speaker>BAJAZET</speaker>.</hstage>
 	<l id="923">Ciel peux-tu conspirer pour l’intérêt d’un traître ?</l>
 	<l id="924">Donc dedans mes États je ne suis plus le Maître,</l>
 	<l id="925">Et des hommes sans foi suivant leurs sentiments,</l>
@@ -1411,7 +1411,7 @@
 	<l id="937">Et sans considérer ni ton rang, ni ta foi,</l>
 	<l id="938">Massacre indignement, et ton père, et ton Roi.</l>
 </sp>
-<sp who="HERZEGOGLIS"><speaker>HERZEGOGLIS.</speaker>
+<sp who="HERZEGOGLIS"><hstage><speaker>HERZEGOGLIS</speaker>.</hstage>
 	<l id="939">Accuse-toi toi seul de l’horrible tempête,</l>
 	<l id="940">Que depuis quelques jours a menacé ta tête.</l>
 	<l id="941">Un mort d’un fils vivant emprunte le secours,</l>
@@ -1425,7 +1425,7 @@
 	<l id="947">Et ta puissance enfin se voyant couronnée,</l>
 	<l id="948">Devait aimer celui qui te l’avait donnée.</l>
 </sp>
-<sp who="BAJAZET"><speaker>BAJAZET.</speaker>
+<sp who="BAJAZET"><hstage><speaker>BAJAZET</speaker>.</hstage>
 	<l id="949">Qui nous élève au Trône y doit nous maintenir,</l>
 	<l id="950">S’il se révolte après, on doit plus l’en punir :</l>
 	<l id="951">Même cette action qu’on estime service,</l>
@@ -1433,7 +1433,7 @@
 	<l id="953">Puisqu’il fait voir après par ce lâche projet</l>
 	<l id="954">Qu’il agissait en Maître, et non pas en sujet.</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="955">Je l’avoue, il est vrai, dans des hommes semblables</l>
 	<l id="956">Les crimes sont plus grands, quand ils sont véritables :</l>
 	<l id="957">Mais c’en est un plus grand d’accuser sans raison,</l>
@@ -1455,7 +1455,7 @@
 	<l id="973">Si les heureux succès qu’ils donnent aux États,</l>
 	<l id="974">Font naître les soupçons des plus noirs attentats.</l>
 </sp>
-<sp who="BAJAZET"><speaker>BAJAZET.</speaker>
+<sp who="BAJAZET"><hstage><speaker>BAJAZET</speaker>.</hstage>
 	<l id="975">Achomat eut fini ses jours sans violence,</l>
 	<l id="976">S’il eut pu se sentir heureux sans insolence,</l>
 	<l id="977">Et content des honneurs dûs à sa qualité,</l>
@@ -1484,8 +1484,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Bajazet, L’Aga, Haly, Herzegoglis.</head>
-<sp who="BAJAZET"><speaker>BAJAZET.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Bajazet, L’Aga, Haly, Herzegoglis.</cast>
+<sp who="BAJAZET"><hstage><speaker>BAJAZET</speaker>.</hstage>
 	<l id="999">Puisque tu veux enfin que je sorte du Trône,</l>
 	<l id="1000">Souffre que je dispose au moins de la Couronne,</l>
 	<l id="1001">Et que n’étant plus Roi pour te donner des Lois,</l>
@@ -1519,7 +1519,7 @@
 	<l id="1029">C’est, Achmet, chers amis, je crois que c’est assez,</l>
 	<l id="1030">Espérez tout de lui si vous le connaissez.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="1031">Si ton choix dépendait de ma seule puissance,</l>
 	<l id="1032">Tu serais satisfait par mon obéissance,</l>
 	<l id="1033">J’aurais sans contredit suivi ta volonté,</l>
@@ -1542,14 +1542,14 @@
 	<l id="1049">Mais aussi souviens-toi qu’un acte de vertu</l>
 	<l id="1050">Est de céder parfois lorsqu’on a combattu.</l>
 </sp>
-<sp who="BAJAZET"><speaker>BAJAZET.</speaker>
+<sp who="BAJAZET"><hstage><speaker>BAJAZET</speaker>.</hstage>
 	<l id="1051">Ils sauront mon vouloir au plus tard dans une heure,</l>
 	<l id="1052" part="i">Adieu.</l>
 <stage>L’Aga rentre.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Bajazet, Haly, Herzegoglis.</head>
-<sp who="BAJAZET"><speaker>BAJAZET.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Bajazet, Haly, Herzegoglis.</cast>
+<sp who="BAJAZET"><hstage><speaker>BAJAZET</speaker>.</hstage>
 	<l id="1052" part="f">Qu’Herzegoglis avecques toi demeure.</l>
 	<l id="1053">Au pitoyable état où le destin m’a mis,</l>
 	<l id="1054">Que résoudrai-je enfin mes chers et vrais amis.</l>
@@ -1600,17 +1600,17 @@
 	<l id="1097">Veillez par vos conseils ma vieillesse assister,</l>
 	<l id="1098">Et dites si je dois céder ou résister.</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="1099">Grand Roi dans ce malheur, combien qu’il soit extrême,</l>
 	<l id="1100">Tu pourrais mieux que nous te conseiller toi-même :</l>
 	<l id="1101">Mais afin d’obéir à ton commandement,</l>
 	<l id="1102">Je dirai sur ce point quel est mon sentiment.</l>
 </sp>
-<sp who="BAJAZET"><speaker>BAJAZET.</speaker>
+<sp who="BAJAZET"><hstage><speaker>BAJAZET</speaker>.</hstage>
 	<l id="1103">Parle et qu’Herzegoglis réponde à tes maximes,</l>
 	<l id="1104">S’il ne les trouve pas être assez légitimes.</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="1105">Ces soldats qui pour mieux monter en un haut rang,</l>
 	<l id="1106">Nourris d’un lait Chrétien en répandent le sang,</l>
 	<l id="1107">Qui tuent leurs parents pour conserver les nôtres,</l>
@@ -1682,7 +1682,7 @@
 	<l id="1171">Et ton grand jugement nous fera reconnaître,</l>
 	<l id="1172">Qu’en cessant d’être Roi, tu mérites de l’être.</l>
 </sp>
-<sp who="HERZEGOGLIS"><speaker>HERZEGOGLIS.</speaker>
+<sp who="HERZEGOGLIS"><hstage><speaker>HERZEGOGLIS</speaker>.</hstage>
 	<l id="1173">Depuis le temps qu’on voit régner les Ottomans,</l>
 	<l id="1174">L’on n’a point vu Seigneur de pareils sentiments.</l>
 	<l id="1175">Quelque ardeur qu’aux combats nous ayons vu paraître,</l>
@@ -1763,7 +1763,7 @@
 	<l id="1249">Et dedans cet éclat les Trônes sont des Cieux,</l>
 	<l id="1250">Où ce n’est qu’en tremblant qu’on peut porter les yeux.</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="1251">Mais comme un Médecin cherchant un bon remède,</l>
 	<l id="1252">Pour chasser loin d’un corps le mal qui le possède,</l>
 	<l id="1253">Donne pour l’affranchir des rigueurs du trépas</l>
@@ -1821,7 +1821,7 @@
 	<l id="1305">Et tu n’ignores pas que l’on dit en tout lieu,</l>
 	<l id="1306">Que quand le peuple parle, il est la voix de Dieu.</l>
 </sp>
-<sp who="HERZEGOGLIS"><speaker>HERZEGOGLIS.</speaker>
+<sp who="HERZEGOGLIS"><hstage><speaker>HERZEGOGLIS</speaker>.</hstage>
 	<l id="1307">Il est dans les États de certaines maximes,</l>
 	<l id="1308">Qu’on ne saurait choquer sans commettre des crimes.</l>
 	<l id="1309">L’insolence autrement prenant un libre cours,</l>
@@ -1885,7 +1885,7 @@
 	<l id="1367">Il se sert de leur voix pour faire un tel ouvrage,</l>
 	<l id="1368">Et leur image sert à faire leur image.</l>
 </sp>
-<sp who="BAJAZET"><speaker>BAJAZET.</speaker>
+<sp who="BAJAZET"><hstage><speaker>BAJAZET</speaker>.</hstage>
 	<l id="1369">Je connais en tous deux et le zèle et l’ardeur,</l>
 	<l id="1370">Qui vous fait disputer pour ma seule grandeur ;</l>
 	<l id="1371">Mais depuis qu’en tous lieux par notre Monarchie,</l>
@@ -1897,10 +1897,10 @@
 	<l id="1377">Je veux laisser l’État comme je l’ai reçu,</l>
 	<l id="1378">À celui que pour Roi j’aurai moi-même élu.</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="1379" part="i">Seigneur ils sont puissants.</l>
 </sp>
-<sp who="BAJAZET"><speaker>BAJAZET.</speaker>
+<sp who="BAJAZET"><hstage><speaker>BAJAZET</speaker>.</hstage>
 	<l id="1379" part="f">N’importe mon courage</l>
 	<l id="1380">Sait comment amortir les effets de leur rage ;</l>
 	<l id="1381">Insolents ennemis de votre propre bien,</l>
@@ -1922,121 +1922,121 @@
 	<l id="1397">Un Roi ne peut des siens recevoir un bienfait,</l>
 	<l id="1398">Et pour peu qu’il fléchit il tombe tout à fait.</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="1399" part="i">Seigneur.</l>
 </sp>
-<sp who="BAJAZET"><speaker>BAJAZET.</speaker>
+<sp who="BAJAZET"><hstage><speaker>BAJAZET</speaker>.</hstage>
 	<l id="1399" part="f">Je n’entends plus tes étranges maximes,</l>
 	<l id="1400">Qui font ici passer pour remède des crimes.</l>
 	<l id="1401">Et pour me bien venger de leur noir attentat,</l>
 	<l id="1402">Je me perdrai plutôt avec eux et l’État.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. L’Aga, La Sultane, Selim, Achmet.</head>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>L’Aga, La Sultane, Selim, Achmet.</cast>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1403">Mais s’il me cède enfin le Sceptre et la Couronne.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="1404">Non, ce n’est pas assez j’en veux à sa personne :</l>
 	<l id="1405" part="i">Il faut, il faut qu’il meure.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1405" part="f">Ah ! C’est trop attenter.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="1406">Selim le Sceptre seul peut bien vous contenter.</l>
 	<l id="1407">Mais songez qu’après vous il en faut satisfaire.</l>
 	<l id="1408">Vengez-vous de vos maux, je vengerai mon père.</l>
 	<l id="1409">Il le priva de vie, et je veux l’en priver.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="1410">Seigneur, songez aussi qu’il peut se relever.</l>
 	<l id="1411">Peut-être attendra-t-il l’occasion naissante,</l>
 	<l id="1412">Pour se venger sur toi de sa bonté présente.</l>
 	<l id="1413">Enfin quoi qu’il en soit tu dois le redouter.</l>
 </sp>
-<sp who="CORCHUT"><speaker>CORCHUT.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>.</hstage>
 	<l id="1414">Et ce sont des conseils que tu dois écouter.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1415">Tombant d’un lieu si haut, on ne doit point le craindre.</l>
 </sp>
-<sp who="CORCHUT"><speaker>CORCHUT.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>.</hstage>
 	<l id="1416">Quelque élevé qu’il soit, il y pourrait r’atteindre.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1417">Je me défendrai bien, quoi qu’il ait entrepris.</l>
 </sp>
-<sp who="CORCHUT"><speaker>CORCHUT.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>.</hstage>
 	<l id="1418">Il te surprendra lors, comme tu l’as surpris.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1419">Tous pour surprendre ainsi n’ont pas même fortune.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="1420">Mais enfin celle-là lui peut être commune.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1421">Un si rare bonheur n’arrive pas toujours.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="1422">Peut-être son destin prendra le même cours.</l>
 </sp>
-<sp who="ACHMET"><speaker>ACHMET, apercevant Selim s’arrête.</speaker>
+<sp who="ACHMET"><hstage><speaker>ACHMET</speaker>, apercevant Selim s’arrête.</hstage>
 	<l id="1423" part="i">Mes yeux, me trompez-vous ?</l>
 </sp>
-<sp who="CORCHUT"><speaker>CORCHUT, parlant à Sélim.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>, parlant à Sélim.</hstage>
 	<l id="1423" part="f">Mon frère que t’en semble ?</l>
 </sp>
-<sp who="ACHMET"><speaker>ACHMET, bas.</speaker>
+<sp who="ACHMET"><hstage><speaker>ACHMET</speaker>, bas.</hstage>
 	<l id="1424" part="i">Écoutons.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1424" part="f">Je ne puis vous celer que j’en tremble,</l>
 	<l id="1425">J’ai toujours du respect pour tous ceux de son rang.</l>
 	<l id="1426">Et j’ai peine à tremper mes mains dedans mon sang.</l>
 	<l id="1427">Que dirait-on de moi, si je perdais mon Père ?</l>
 </sp>
-<sp who="ACHMET"><speaker>ACHMET, bas.</speaker>
+<sp who="ACHMET"><hstage><speaker>ACHMET</speaker>, bas.</hstage>
 	<l id="1428" part="i">Ô Ciel !</l>
 </sp>
-<sp who="CORCHUT"><speaker>CORCHUT.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>.</hstage>
 	<l id="1428" part="f">Que tu ferais ce qu’un homme doit faire.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1429" part="i">Que plutôt sur ma tête...</l>
 </sp>
-<sp who="CORCHUT"><speaker>CORCHUT.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>.</hstage>
 	<l id="1429" part="f">Ah ! Nous sommes perdus</l>
 	<l id="1430" part="i">Je vois Achmet.</l>
 </sp>
-<sp who="ACHMET"><speaker>ACHMET.</speaker>
+<sp who="ACHMET"><hstage><speaker>ACHMET</speaker>.</hstage>
 	<l id="1430" part="m">Fuyons.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM; tirant son épée.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>; tirant son épée.</hstage>
 	<l id="1430" part="f">Nous sommes entendus.</l>
 	<l id="1431" part="i">Traître tu le payeras.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="1431" part="f">Quel excès de misère !</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM, revenant.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>, revenant.</hstage>
 	<l id="1432">Madame, il s’est soustrait à ma juste colère.</l>
 </sp>
-<sp who="LA-SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA-SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="1433">En cas que par adresse on n’en vint pas à bout.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="1434" part="i">Il faut user de force.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1434" part="f">Il faut user de tout.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Selim, Corchut, Haly, L’Aga.</head>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Selim, Corchut, Haly, L’Aga.</cast>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1435">Toujours ce Dieu vivant, qui de nos cœurs dispose,</l>
 	<l id="1436">Fait répondre l’effet aux bontés de la cause.</l>
 	<l id="1437">Et jamais dans le cours d’un si juste dessein,</l>
@@ -2053,7 +2053,7 @@
 	<l id="1448">Par l’effet de nos soins se trouva terminée,</l>
 	<l id="1449">Fais-nous savoir avant, comment c’est qu’il est mort.</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="1450">C’est par ses propres mains qu’il a fini son sort ;</l>
 	<l id="1451">Mais je vais plus au long te dire cette Histoire,</l>
 	<l id="1452">Qui d’une Reine Auguste éternise la gloire.</l>
@@ -2134,7 +2134,7 @@
 	<l id="1525">Qui désirant mourir pour vaincre nos malheurs,</l>
 	<l id="1526">Doit après son trépas revivre dans nos cœurs.</l>
 </sp>
-<sp who="CORCHUT"><speaker>CORCHUT.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>.</hstage>
 	<l id="1527">Que tes desseins, grand Dieu, sont différents des autres,</l>
 	<l id="1528">Et que tes jugements sont éloignés des nôtres :</l>
 	<l id="1529">Tu disposes de tout, et c’est bien vainement</l>
@@ -2144,7 +2144,7 @@
 	<l id="1533">Et souvent où l’on croit la fin de ses malheurs,</l>
 	<l id="1534">On rencontre un excès de maux et de douleurs.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1535">Loin de plaindre une fin si belle et glorieuse,</l>
 	<l id="1536">Je l’estime honorable, et la crois trop heureuse.</l>
 	<l id="1537">Et s’il m’était permis de me faire mon sort,</l>
@@ -2155,31 +2155,31 @@
 	<l id="1542">Jetons des cris de joie, et non pas de pitié,</l>
 	<l id="1543">Mais Achmet, que dit-il d’une telle aventure ?</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 <note>L’original porte Le Bassa, comme interlocuteur, il s’agit de Haly qui est bien le Bassa, mais pour les statistiques il convient de n’avoir qu’un seul nom pour un même locuteur.</note>
 	<l id="1544">Il croit en ce trépas recevoir une injure :</l>
 	<l id="1545">Il déteste, il enrage, et ses moindres desseins</l>
 	<l id="1546">Sont de s’ôter le cœur avec ses propres mains.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1547">J’y donnerai bon ordre, Aga, qu’on s’en saisisse,</l>
 	<l id="1548">Et qu’à ses lâchetés on égale un supplice.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="1549" part="i">Tu seras obéi.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1549" part="f">Dépêche promptement.</l>
 </sp>
-<sp who="CORCHUT"><speaker>CORCHUT.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>.</hstage>
 	<l id="1550">Suspends, suspends Seigneur, un peu ton jugement,</l>
 	<l id="1551">Conserve-toi le fils ayant perdu le père,</l>
 	<l id="1552">Et ralentis le feu de ta juste colère.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM, parlant à l’Aga.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>, parlant à l’Aga.</hstage>
 	<l id="1553" part="i">Fais ce que je commande, autrement ;</l>
 </sp>
-<sp who="CORCHUT"><speaker>CORCHUT.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>.</hstage>
 	<l id="1553" part="f">Ah ! Seigneur,</l>
 	<l id="1554">Suis de tels sentiments avec moins de fureur.</l>
 	<l id="1555">Conserve-toi qu sang qui te peut être utile ;</l>
@@ -2187,7 +2187,7 @@
 	<l id="1557">Que de choisir ainsi la mort d’un innocent,</l>
 	<l id="1558">Pour être le soutien d’un trône florissant.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1559">Peux-tu dire innocent un si lâche courage,</l>
 	<l id="1560">Qui jamais pour nous deux n’a témoigné que rage ?</l>
 	<l id="1561">Après ce qu’il a dit, et son peu de respect,</l>
@@ -2197,7 +2197,7 @@
 	<l id="1565">La perte est résolue, il en mourra l’ingrat,</l>
 	<l id="1566">Je préviendrai ma mort, et son assassinat.</l>
 </sp>
-<sp who="CORCHUT"><speaker>CORCHUT.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>.</hstage>
 	<l id="1567">Les premiers mouvements que lui donne la rage,</l>
 	<l id="1568">Ne doivent pas Seigneur, te faire de l’ombrage :</l>
 	<l id="1569">Et ces efforts de cœur étant si violents,</l>
@@ -2206,20 +2206,20 @@
 	<l id="1572">Au lieu de t’adoucir, j’irrite ra colère,</l>
 	<l id="1573" part="i">Je te quitte Seigneur, mais craint...</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1573" part="f">Bien, bien Corchut,</l>
 	<l id="1574">Je craindrai, c’est assez : crains toi, pour ton salut.</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="1575">Peux-tu souffrir, Seigneur, que même en ta présence</l>
 	<l id="1576">Il parle pour un traître avec tant de licence ?</l>
 	<l id="1577">Crois-moi, tous ces desseins ne sont pas sans sujet.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1578">J’appréhende aussi d’eux quelque lâche projet :</l>
 	<l id="1579" part="i">C’est à quoi je rêvais.</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="1579" part="f">Tu dois y prendre garde ;</l>
 	<l id="1580">Songes-y bien Seigneur, ce dessein te regarde,</l>
 	<l id="1581">Et pendant que tu peux encor t’en garantir,</l>
@@ -2229,7 +2229,7 @@
 	<l id="1585">On peut tout pour régner avecques sûreté,</l>
 	<l id="1586">Et tout pour ce dessein doit être exécuté.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1587">Je me défendrai bien de leurs lâches pratiques,</l>
 <note>Au déçu : loc. adv. En décevant. [L] L’expression signifie donc à l’insu de ses domestiques.</note>
 	<l id="1588">Va vite, et qu’au déçu de tous ses domestiques</l>
@@ -2271,7 +2271,7 @@
 </sp>
 </div2>
 <div2 type="scene" n=""><head>SCÈNE II.</head>
-<sp who="CORCHUT"><speaker>CORCHUT, paraît environné de gardes.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>, paraît environné de gardes.</hstage>
 	<l id="1623">Quelques grands déplaisirs que le sort vous envoie,</l>
 	<l id="1624">Souffrons avec beaucoup de joie</l>
 	<l id="1625">Ces tristes revers du destin :</l>
@@ -2331,16 +2331,16 @@
 	<l id="1678">M’apprend entièrement quel sera son message.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Haly, Corchut.</head>
-<sp who="HALY"><speaker>HALY.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Haly, Corchut.</cast>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="1679">Si l’on me voit ici, Seigneur, c’est malgré moi ;</l>
 	<l id="1680">Mais je suis obligé d’obéir à mon Roi.</l>
 	<l id="1681" part="i">Selim, Seigneur.</l>
 </sp>
-<sp who="CORCHUT"><speaker>CORCHUT.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>.</hstage>
 	<l id="1681" part="m">Hé bien.</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="1681" part="f">Selim veut votre tête.</l>
 	<l id="1682">Et si ma mort pouvait détourner la tempête,</l>
 	<l id="1683">Le Ciel me soit témoin, si je n’estimais pas</l>
@@ -2349,7 +2349,7 @@
 	<l id="1686">Et contre sa rigueur je ne vois point d’Asile.</l>
 	<l id="1687">Seigneur vous succombez à ce triste récit.</l>
 </sp>
-<sp who="CORCHUT"><speaker>CORCHUT.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>.</hstage>
 	<l id="1688">J’ai pâli, je l’avoue, à ce que tu m’as dit,</l>
 	<l id="1689">Quelque bien qu’en mourant espère un misérable,</l>
 	<l id="1690">La mort est toujours mort, et toujours effroyable ;</l>
@@ -2369,11 +2369,11 @@
 	<l id="1704">Que du moins par écrit je salue le Roi,</l>
 	<l id="1705">Sans faillir contre lui, tu me le peux permettre.</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="1706" part="i">Seigneur, vous le pouvez.</l>
 <note>L’original donne Selim comme locuteur qui suit, c’est Corchut.</note>
 </sp>
-<sp who="CORCHUT"><speaker>CORCHUT, ayant écrit la lettre.</speaker>
+<sp who="CORCHUT"><hstage><speaker>CORCHUT</speaker>, ayant écrit la lettre.</hstage>
 	<l id="1706" part="f">Porte-lui cette lettre,</l>
 	<l id="1707">Dis-lui puisqu’il le veut, que je meurs trop content,</l>
 	<l id="1708">Que je vais sans regret où le trépas m’attend.</l>
@@ -2409,13 +2409,13 @@
 	<l id="1738">Ce long retardement a mis ton Prince en peine ;</l>
 	<l id="1739">Achève et rend bientôt ton ordre exécuté.</l>
 </sp>
-<sp who="HALY"><speaker>HALY,  parlant aux quatre Muets.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>,  parlant aux quatre Muets.</hstage>
 	<l id="1740">Qu’on fasse son devoir avec fidélité.</l>
 <stage>On baisse la toile.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Selim, L’Aga.</head>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Selim, L’Aga.</cast>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="1741">Seigneur, Achmet est mort, et ce lâche courage</l>
 	<l id="1742">N’a jusques au tombeau fait paraître que rage ;</l>
 	<l id="1743">Il a dit en mourant que du creux des Enfers</l>
@@ -2429,7 +2429,7 @@
 	<l id="1751">Ce sont là des desseins qui n’auront point d’effet :</l>
 	<l id="1752">Il ne fera jamais plus qu’il a déjà fait.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1753">Qu’il fasse plus ou moins, j’ai de quoi me défendre,</l>
 	<l id="1754">Je peux plus surmonter, qu’il ne peut entreprendre.</l>
 	<l id="1755">Je viendrai bien à bout de ses plus grands projets,</l>
@@ -2438,29 +2438,29 @@
 	<l id="1758">Aussi n’est-ce pas là ce qui me met en peine ;</l>
 	<l id="1759" part="i">C’est.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="1759" part="f">Qui peut donc Seigneur te causer de l’ennui ?</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1760">Corchut, j’ai commandé qu’on se défit de lui.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="1761">S’il l’avait mérité tu ne dois point le plaindre.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1762">Le sujet n’est pas grand, c’est ce qui me fait craindre.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="1763" part="i">Ne le puis-je savoir ?</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1763" part="f">Écoute ; il s’est porté</l>
 	<l id="1764">Pour l’intérêt d’Achmet, et son trop de bonté</l>
 	<l id="1765">Qu’il témoignait avoir pour cet indigne frère,</l>
 	<l id="1766">Me l’a fait regarder comme mon adversaire.</l>
 	<l id="1767" part="i">J’ai souscrit à sa mort.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="1767" part="f">C’est par un juste Arrêt :</l>
 	<l id="1768">Osant pour un ingrat quitter ton intérêt.</l>
 	<l id="1769">Ton dessein est trop juste, et sa mort légitime,</l>
@@ -2472,7 +2472,7 @@
 	<l id="1775">Et Corchut a fait voir, l’excusant en son sang,</l>
 	<l id="1776">Que du crime d’Achmet il était partisan.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1777">On peut aimer quelqu’un sans en aimer le vice,</l>
 	<l id="1778">Et ne le punir pas sans être son complice :</l>
 	<l id="1779">Ainsi nous excusons souvent en un ami,</l>
@@ -2482,26 +2482,26 @@
 	<l id="1783">Il l’aimait comme frère, et non en criminel,</l>
 	<l id="1784">Et ne pouvant quitter cet amour fraternel.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="1785">Corchut pouvait-il bien excuser en son frère</l>
 	<l id="1786">Ce que par ses conseils on punit en son père ?</l>
 	<l id="1787">Lui était-il astreint par de plus forts liens ?</l>
 	<l id="1788">Que l’auteur de sa vie, et l’auteur de ses biens.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1789">Non, mais on punit l’un pour sauver cet Empire,</l>
 	<l id="1790">L’autre inutilement à son avis expire</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Selim, Haly, L’Aga.</head>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Selim, Haly, L’Aga.</cast>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1791">Mais le Bassa revient : hé bien en est-ce fait ?</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="1792">Oui Seigneur, et Corchut a payé son forfait :</l>
 	<l id="1793">Il m’a donné ceci, qu’il faut que je vous rende.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1794">C’est une lettre, ô Dieu ! Voyons ce qu’il nous mande !</l>
 <stage>Lisant le dessus.</stage>
 	<l id="1795">Corchut Prince Ottoman, à Selim Empereur.</l>
@@ -2513,24 +2513,24 @@
 	<l id="1800">N’eut pas mêmes horreur de répandre son sang ?</l>
 	<l id="1801" part="i">Voyons.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA, le repoussant.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>, le repoussant.</hstage>
 	<l id="1801" part="f">Si tu fais bien tu ne le dois point lire.</l>
 	<l id="1802" part="i">Seigneur.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1802" part="m">Donne.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="1802" part="m">Seigneur.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>.</hstage>
 	<l id="1802" part="f">Donne je le désire.</l>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="1803">Peut-être cet écrit croîtra ton désespoir.</l>
 	<l id="1804" part="i">Seigneur ne le lis point.</l>
 </sp>
-<sp who="SÉLIM"><speaker>SÉLIM, le prenant.</speaker>
+<sp who="SÉLIM"><hstage><speaker>SÉLIM</speaker>, le prenant.</hstage>
 	<l id="1804" part="f">Donne je le veux voir.</l>
 <stage>Il lit.</stage>
 	<l id="1805">Je meurs pour assurer ton Sceptre et ta personne,</l>
@@ -2588,10 +2588,10 @@
 	<l id="1856">Ce fer va te venger du mal que je t’ai fait.</l>
 <stage>Il tire son épée, puis il sort.</stage>
 </sp>
-<sp who="L-AGA"><speaker>L’AGA.</speaker>
+<sp who="L-AGA"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="1857">Quels violents transports que la douleur lui donne !</l>
 </sp>
-<sp who="HALY"><speaker>HALY.</speaker>
+<sp who="HALY"><hstage><speaker>HALY</speaker>.</hstage>
 	<l id="1858">Le remords le possède, et l’esprit l’abandonne ;</l>
 	<l id="1859">Suivons-le cher ami de peur que quelque effort,</l>
 	<l id="1860">Au milieu de son deuil, ne lui donne la mort.</l>

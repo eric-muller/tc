@@ -68,7 +68,7 @@
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, en colère, se retournant, à la cantonade.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, en colère, se retournant, à la cantonade.</hstage>
 <p id="1">
 	<s id="1">Vous en avez menti, messieurs les commis de la barrière, je ne dois rien : vous êtes des fripons.</s>
 	<s id="2">On est plus assuré au milieu des bois que dans ce maudit pays-ci : on ne saurait faire un pas qu’on ne trouve un filou.</s>
@@ -83,17 +83,17 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Arlequin, Mezzetin.</head>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Arlequin, Mezzetin.</cast>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="1">
 	<s id="1">Monsieur, n’êtes-vous pas un coupeur de bourses ?</s>
 </p>
 <stage>Au lieu de répondre, Mezzetin tourne autour de lui, l’examine en se moquant de lui ; et Arlequin fait des lazzis de frayeur. Le restant de cette scène consiste dans un jeu italien.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Colombine, Isabelle.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Colombine, Isabelle.</cast>
 <stage>Le théâtre change, et représente l’appartement de Colombine ; elle est à sa toilette, et Isabelle prélude sur un clavecin.</stage>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="1">
 	<s id="1">Holà, quelqu’un !</s>
 	<s id="2">N’ai-je là personne ?</s>
@@ -101,39 +101,39 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Colombine, Isabelle, Pierrot, Bagatelle.</head>
-<sp who="COLOMBINE"><speaker>COLOMBINE, à Bagatelle.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Colombine, Isabelle, Pierrot, Bagatelle.</cast>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>, à Bagatelle.</hstage>
 <p id="1">
 	<s id="1">D’où vient, petit garçon, qu’il faut vous appeler tant de fois ?</s>
 </p>
 </sp>
-<sp who="BAGATELLE"><speaker>BAGATELLE.</speaker>
+<sp who="BAGATELLE"><hstage><speaker>BAGATELLE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Mademoiselle, c’est que j’achevais ma main au lansquenet.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="3">
 	<s id="1">N’est-il venu personne me demander ?</s>
 </p>
 </sp>
-<sp who="BAGATELLE"><speaker>BAGATELLE.</speaker>
+<sp who="BAGATELLE"><hstage><speaker>BAGATELLE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Il est venu cinq ou six personnes ; mais j’ai oublié leurs noms et ce qu’elles m’ont dit.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Le petit étourdi !</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="6">
 	<s id="1">Monsieur le conseiller a dit qu’il allait revenir.</s>
 	<s id="2">Il est venu aussi cette grande femme qui a le visage si creux, qui vous viendra voir tantôt, quand elle aura été chez son libraire.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="7">
 	<s id="1">C’est notre bel esprit ; je la tiens quitte de sa visite dès à présent.</s>
 </p>
@@ -142,45 +142,45 @@
 	<s id="1">Venez çà ; allez chez ma couturière, et dites-lui que je veux avoir mon habit aujourd’hui.</s>
 </p>
 </sp>
-<sp who="BAGATELLE"><speaker>BAGATELLE.</speaker>
+<sp who="BAGATELLE"><hstage><speaker>BAGATELLE</speaker>.</hstage>
 <p id="9">
 	<s id="1">Ne lui dirai-je pas aussi de nous faire des culottes ?</s>
 	<s id="2">La mienne est toute déchirée entre les jambes, et ma chemise passe, révérence parler, par...</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="10">
 	<s id="1">Taisez-vous, petit sot, et faites ce que je vous dis.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Isabelle, Colombine.</head>
-<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Isabelle, Colombine.</cast>
+<sp who="ISABELLE"><hstage><speaker>ISABELLE</speaker>.</hstage>
 <p id="1">
 	<s id="1">Hé bien, cousine, as-tu bientôt mis la dernière main à ton visage ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Dis-moi, je te prie, comment me trouves-tu aujourd’hui ?</s>
 </p>
 </sp>
-<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+<sp who="ISABELLE"><hstage><speaker>ISABELLE</speaker>.</hstage>
 <p id="3">
 	<s id="1">À charmer.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="4">
 	<s id="1">J’ai beau arranger mes traits, il me semble qu’il y en a toujours quelqu’un qui se révolte contre mon économie.</s>
 </p>
 </sp>
-<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+<sp who="ISABELLE"><hstage><speaker>ISABELLE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Je t’assure que tu es d’un air à faire payer contribution à tous les cœurs de la ville.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="6">
 	<s id="1">Je sais bien, sans vanité, que j’ai quelque agrément ; mais avec un peu de beauté, et trois ou quatre mouches sur le nez, une fille ne va pas loin dans le siècle où nous sommes.</s>
 	<s id="2">Il faut de cela pour plaire ...</s>
@@ -191,7 +191,7 @@
 	<s id="2">Nous commençons tout doucement à monter en graine, et nous sommes assez fortes pour bien soutenir une thèse en mariage.</s>
 </p>
 </sp>
-<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+<sp who="ISABELLE"><hstage><speaker>ISABELLE</speaker>.</hstage>
 <p id="8">
 	<s id="1">J’en tombe d’accord.</s>
 	<s id="2">Crois-tu, cousine, que j’aie le cœur plus dur que toi ?</s>
@@ -200,7 +200,7 @@
 	<s id="5">Le mariage se décrie de jour en jour ; je crois, pour moi, que nous allons voir la fin du monde.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="9">
 	<s id="1">Que tu es folle !</s>
 	<s id="2">Quoique le mariage ne soit plus guère à la mode, les hommes ont beau faire, ils ne sauraient se passer de nous.</s>
@@ -208,63 +208,63 @@
 	<s id="4">L’homme est un animal qui veut être trompé.</s>
 </p>
 </sp>
-<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+<sp who="ISABELLE"><hstage><speaker>ISABELLE</speaker>.</hstage>
 <p id="10">
 	<s id="1">Je ne m’applique nuit et jour à autre chose.</s>
 	<s id="2">Je relève, avec art, les agréments que la nature m’a donnés : je joins à quelque brillant d’esprit les talents de la poésie et de la musique : pour mes manières, elles sont douces et insinuantes ; et, avec tout cela, point d’épouseurs.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="11">
 	<s id="1">Mais que prétendent donc tous ces petits messieurs-là ?</s>
 </p>
 </sp>
-<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+<sp who="ISABELLE"><hstage><speaker>ISABELLE</speaker>.</hstage>
 <p id="12">
 	<s id="1">C’est ce que je ne conçois pas.</s>
 	<s id="2">On sait bien qu’il y a de certaines avances qui accrochent quelquefois.</s>
 	<s id="3">Mais vous en aurez menti, messieurs les soupirants ; et si j’accorde quelque faveur, ce ne sera, ma foi, que par-devant notaire, et en vertu d’un bon parchemin bien signé.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="13">
 	<s id="1">Cependant ce n’est pas une chose si difficile que tu le penses, d’engager un homme.</s>
 	<s id="2">Savoir risquer un billet dans son temps, marcher sur le pied à l’un, tendre la main à l’autre, se brouiller avec celui-ci, se raccommoder avec celui-là : crois-moi, avec ce petit manège-là, il faut, bon gré, mal gré, que quelque bête donne dans les toiles.</s>
 </p>
 </sp>
-<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+<sp who="ISABELLE"><hstage><speaker>ISABELLE</speaker>.</hstage>
 <p id="14">
 	<s id="1">Il me semble que tu copies assez bien une coquette d’après nature.</s>
 	<s id="2">Prends-y garde, au moins : on ne fait plus guère de fortune à ce métier-là.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="15">
 	<s id="1">Bon !</s>
 	<s id="2">Il n’y a plus que les sottes qui se persuadent d’attraper des hommes par des airs composés.</s>
 	<s id="3">Cousine, le monde m’en a plus appris qu’à toi, et je te suis caution qu’une fille n’est piquante qu’autant qu’elle a pris sel dans la coquetterie.</s>
 </p>
 </sp>
-<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+<sp who="ISABELLE"><hstage><speaker>ISABELLE</speaker>.</hstage>
 <p id="16">
 	<s id="1">Vraiment !</s>
 	<s id="2">Ce ne sont pas là les maximes de ma mère, qui me prône tous les jours que la coquetterie est l’antipode du mariage ; et j’ai ouï dire cent fois à mon oncle qu’une fille coquette ressemble à ces vins pétillants dont tout le monde veut tâter, et dont personne ne veut acheter pour son ordinaire.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="17">
 	<s id="1">Voilà-t-il pas mes contes de grand’mères, qui condamnent dans leurs enfants les plaisirs que l’âge leur refuse !</s>
 	<s id="2">Je veux, moi, te donner des conseils pour le mariage, plus courts et plus faciles : et afin que tu les retiennes mieux, je vais te les lire en vers.</s>
 </p>
 </sp>
-<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+<sp who="ISABELLE"><hstage><speaker>ISABELLE</speaker>.</hstage>
 <p id="18">
 	<s id="1">En vers, ma petite !</s>
 	<s id="2">Ah !</s>
 	<s id="3">C’est ma folie.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="19">
 	<s id="1">N’en perds pas une syllabe.</s>
 </p>
@@ -286,12 +286,12 @@
 <note>Il faut écrire éperon. L’auteur a sacrifié ici l’orthographe à la mesure du vers.</note> 
 	<l id="12">Suivant que l’animal est vif ou paresseux.</l>
 </sp>
-<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+<sp who="ISABELLE"><hstage><speaker>ISABELLE</speaker>.</hstage>
 <p id="21">
 	<s id="1">Je ne sais pas comment sera le reste, mais le début est fort vif.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="22">
 	<s id="1">Rien ne se démentira.</s>
 </p>
@@ -308,13 +308,13 @@
 	<l id="22">On se désespère, on soupire ;</l>
 	<l id="23">Trac, l’oiseau rentre au trébuchet.</l>
 </sp>
-<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+<sp who="ISABELLE"><hstage><speaker>ISABELLE</speaker>.</hstage>
 <p id="23">
 	<s id="1">Au trébuchet !</s>
 	<s id="2">Un mari ne se prend pas comme un oiseau ; il faut bien d’autres piéges.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="24">
 	<s id="1">Je te dis qu’en amour ils sont si niais, qu’une fille qui sait un peu son métier en va duper trente à la fois.</s>
 </p>
@@ -323,12 +323,12 @@
 	<s id="1">Lui parle-t-on d’amour...</s>
 </p>
 </sp>
-<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+<sp who="ISABELLE"><hstage><speaker>ISABELLE</speaker>.</hstage>
 <p id="26">
 	<s id="1">Encore ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="27">
 	<s id="1">Voici le dernier.</s>
 	<s id="2">Dame !</s>
@@ -347,12 +347,12 @@
 	<l id="32">C’est jouer de malheur, après tant de souplesse,</l>
 	<l id="33">Si quelque dupe enfin ne tâte du contrat.</l>
 </sp>
-<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+<sp who="ISABELLE"><hstage><speaker>ISABELLE</speaker>.</hstage>
 <p id="28">
 	<s id="1">Savante comme tu l’es, tu devrais te mettre à montrer le coquettisme en ville : tu serais bientôt riche.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="29">
 	<s id="1">Je n’y gagnerais pas de l’eau : toutes les filles savent cela.</s>
 	<s id="2">Dans le fond, on n’a que de bonnes intentions.</s>
@@ -360,37 +360,37 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Colombine, Isabelle, Bagatelle.</head>
-<sp who="BAGATELLE"><speaker>BAGATELLE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Colombine, Isabelle, Bagatelle.</cast>
+<sp who="BAGATELLE"><hstage><speaker>BAGATELLE</speaker>.</hstage>
 <p id="1">
 	<s id="1">Mademoiselle, voilà monsieur le comte Octave.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Qu’il entre.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="è"><head>SCÈNE VII. Isabelle, Colombine.</head>
-<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+<div2 type="scene" n="è"><head>SCÈNE VII.</head><cast>Isabelle, Colombine.</cast>
+<sp who="ISABELLE"><hstage><speaker>ISABELLE</speaker>.</hstage>
 <p id="1">
 	<s id="1">Je te laisse avec lui ; car apparemment c’est un épouseur : et ma mère m’attend.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Bon !</s>
 	<s id="2">Ta mère t’attend : va, va, elle est la maîtresse, elle attendra tant qu’elle voudra : demeure ici ; tu en apprendras plus avec moi en un quart d’heure, que tu ne feras en toute ta vie avec ta mère.</s>
 	<s id="3">C’est une façon de mari.</s>
 </p>
 </sp>
-<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+<sp who="ISABELLE"><hstage><speaker>ISABELLE</speaker>.</hstage>
 <p id="3">
 	<s id="1">Tu l’aimeras donc ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Que tu es sotte !</s>
 	<s id="2">Ne t’ai-je pas dit cent fois que j’aime tout le monde sans aimer personne.</s>
@@ -401,35 +401,35 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Colombine, Isabelle, Octave, Mezzetin.</head>
-<sp who="OCTAVE"><speaker>OCTAVE.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Colombine, Isabelle, Octave, Mezzetin.</cast>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker>.</hstage>
 <p id="1">
 	<s id="1">Malgré la rigueur de votre père, je viens vous assurer, mademoiselle, que je perdrai plutôt la vie que l’espérance d’être un jour votre époux.</s>
 </p>
 </sp>
-<sp who="MEZZETIN"><speaker>MEZZETIN.</speaker>
+<sp who="MEZZETIN"><hstage><speaker>MEZZETIN</speaker>.</hstage>
 <p id="2">
 	<s id="1">Oui, mademoiselle, nous avons résolu cela : et s’il ne vous épouse, je vous épouserai, moi.</s> 
 </p>
 </sp>
-<sp who="ISABELLE"><speaker>ISABELLE, bas, à Colombine.</speaker>
+<sp who="ISABELLE"><hstage><speaker>ISABELLE</speaker>, bas, à Colombine.</hstage>
 <p id="3">
 	<s id="1">Cousine, voilà un gibier à trébuchet.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Vous savez, monsieur le Comte, quels sont mes sentiments pour vous : cela vous doit suffire.</s>
 	<s id="2">Ne parlons point d’amour, si ce n’est en chansons.</s>
 	<s id="3">Vous chantez bien : voilà ma cousine qui accompagne parfaitement du clavecin : je veux vous entendre ensemble.</s>
 </p>
 </sp>
-<sp who="OCTAVE"><speaker>OCTAVE.</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Mais, mademoiselle, chanter dans l’état où je suis ; pénétré de douleur, désespéré...</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="6">
 	<s id="1">Bon, bon !</s>
 	<s id="2">Si vous n’avez pas la force de chanter, vous soupirerez : c’est la langue la plus familière aux amants.</s>
@@ -437,49 +437,49 @@
 	<s id="4">Mezzetin, prenez bien garde que mon père ne vienne.</s>
 </p>
 </sp>
-<sp who="ISABELLE"><speaker>ISABELLE.</speaker>
+<sp who="ISABELLE"><hstage><speaker>ISABELLE</speaker>.</hstage>
 <p id="7">
 	<s id="1">Tu me mets là, cousine, à une rude épreuve.</s>
 </p>
 <stage>Octave chante ; Isabelle l’accompagne.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Colombine, Isabelle, Octave, Mezzetin, Trafiquet, Pierrot.</head>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET appelle en entrant sur la scène.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>Colombine, Isabelle, Octave, Mezzetin, Trafiquet, Pierrot.</cast>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker> appelle en entrant sur la scène.</hstage>
 <p id="1">
 	<s id="1">Holà, quelqu’un, Pierrot, Pierrot !</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="2">
 	<s id="1">Me voilà, me voilà, monsieur.</s>
 	<s id="2">Vous criez plus fort qu’un fiacre mal graissé.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET, sans voir Octave.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>, sans voir Octave.</hstage>
 <p id="3">
 	<s id="1">Avec qui diable es-tu donc ?</s>
 	<s id="2">Il faut toujours t’appeler vingt fois.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="4">
 	<s id="1">Je suis avec l’amour.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="5">
 	<s id="1">Oh, oh !</s>
 	<s id="2">Voilà du nouveau.</s>
 	<s id="3">Tu es donc amoureux ?</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="6">
 	<s id="1">Je ne dors ni ne veille ; je sens toujours là un tintamarre, comme s’il y avait un régiment de lutins.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="7">
 	<s id="1">Il faut entendre patience.</s>
 </p>
@@ -493,67 +493,67 @@
 </p>
 <stage>Octave et Mezzetin font une révérence.</stage>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="9">
 	<s id="1">Puisque monsieur vous l’a défendu, pourquoi y revenez-vous ?</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="10">
 	<s id="1">Est-ce que vous prétendez, mon petit monsieur, épouser ma fille malgré moi ?</s>
 </p>
 <stage>Octave et Mezzetin font une autre révérence.</stage>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="11">
 	<s id="1">Monsieur, n’allez pas souffrir cela ; on vous prendrait pour un insensé.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="12">
 	<s id="1">Mais, monsieur, encore une fois, je n’ai que faire de vos révérences : répondez à ce que je vous demande.</s>
 </p>
 <stage>Octave et Mezzetin sortent, après avoir fait encore une révérence.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Trafiquet, Colombine, Isabelle, Pierrot.</head>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><cast>Trafiquet, Colombine, Isabelle, Pierrot.</cast>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="1">
 	<s id="1">Vous ferez bien, messieurs de la révérence, de ne regarder ma porte qu’avec une lunette ; je vous saluerais d’une manière...</s>
 	<s id="2">Quelle plaisante conversation !</s>
 	<s id="3">Toujours des révérences !</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="2">
 	<s id="1">Va, va, tu n’as qu’à y revenir ; je te ferai danser un branle de sortie sans violons.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET, à Colombine.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>, à Colombine.</hstage>
 <p id="3">
 	<s id="1">Et vous, mademoiselle l’impertinente, ne vous ai-je pas défendu de le voir ?</s>
 	<s id="2">Savez-vous que quand je commande, je veux être obéi ?</s>
 </p>
 <stage>Colombine et Isabelle font une révérence.</stage>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="4">
 	<s id="1">Elles ont appris à danser du même maître.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="5">
 	<s id="1">Ne t’ai-je pas dit que je ne voulais pas que tu songeasses davantage à cet homme-là pour être ton époux ?</s>
 </p>
 <stage>Colombine et Isabelle font encore une révérence.</stage>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="6">
 	<s id="1">Fi !</s>
 	<s id="2">Ce n’est pas là votre fait.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="7">
 	<s id="1">Écoutez, ne m’échauffez pas les oreilles ; il y a des maisons à Paris où l’on réduit les filles désobéissantes.</s>
 	<s id="2">Merci de ma vie !</s>
@@ -561,13 +561,13 @@
 <stage>Colombine et Isabelle sortent en faisant une grande révérence.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Trafiquet, Pierrot.</head>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><cast>Trafiquet, Pierrot.</cast>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="8">
 	<s id="1">Ma foi, monsieur, il faut dire la vérité ; voilà des filles bien civiles.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="9">
 	<s id="1">Mais que veulent donc dire toutes ces cérémonies-là ?</s>
 	<s id="2">Voilà une nouvelle manière de répondre.</s>
@@ -587,41 +587,41 @@
 	<s id="2">Tu t’en mêles aussi ?</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="12">
 	<s id="1">Mais, monsieur, est-ce que vous voulez m’empêcher d’être civil ?</s>
 	<s id="2">Qu’est-ce que vous me voulez ?</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="13">
 	<s id="1">Je veux que tu passes chez monsieur Fesse-Mathieu, pour le prier de venir ici ; et que tu ailles de là dans la rue de la Huchette, savoir si le messager du Mans est arrivé.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="14">
 	<s id="1">Bon, bon, bon, monsieur.</s>
 	<s id="2">Vous attendez donc quelque panier de volaille ?</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="15">
 	<s id="1">J’attends le bailli de Laval, qui vient pour être mon gendre.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="16">
 	<s id="1">Quoi !</s>
 	<s id="2">Tout de bon ?</s>
 	<s id="3">Un homme du Maine pour être le mari de votre fille ?</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="17">
 	<s id="1">Assurément.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="18">
 	<s id="1">Fi !</s>
 	<s id="2">Monsieur, n’en faites rien ; il ne vient que des chapons de ce pays-là.</s>
@@ -629,19 +629,19 @@
 <stage>Scènes italiennes.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="12"><head>SCÈNE XII. Colombine, Pierrot.</head>
-<sp who="COLOMBINE"><speaker>COLOMBINE plie une lettre.</speaker>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head><cast>Colombine, Pierrot.</cast>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker> plie une lettre.</hstage>
 <p id="1">
 	<s id="1">Une bougie ?</s>
 	<s id="2">Est-ce que tu n’entends pas que je demande une bougie pour cacheter une lettre ?</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT, faisant des mines à Colombine.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>, faisant des mines à Colombine.</hstage>
 <p id="2">
 	<s id="1">Pardonnez-moi... mais... c’est que... en vérité... mademoiselle ; je m’en vais...</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="3">
 	<s id="1">Pour moi, je ne sais plus quelle maladie a attaqué le cerveau de cet animal-là : il ne voit plus, il n’entend plus ; il a assurément quelque chose de brouillé dans son timbre.</s>
 </p>
@@ -658,13 +658,13 @@
 	<s id="4">Parle, réponds ; dis donc à qui tu en as.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="6">
 	<s id="1">Je n’oserais ; je sens là un tourbillon, un étouffement de la nature... heurtant contre l’amour.</s>
 	<s id="2">Tenez, voilà une lettre qui vous dira tout cela.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="7">
 	<s id="1">Que signifie donc cette cérémonie-ci ?</s>
 	<s id="2">Je trouve cela assez plaisant.</s>
@@ -682,18 +682,18 @@
 	<s id="4">En vérité, je suis ravie d’avoir fait une pareille conquête.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="10">
 	<s id="1">Hé !</s>
 	<s id="2">Mademoiselle, je sais bien que mon mérite n’est pas capable de mériter ;... mais, d’un autre côté,... voilà que l’occasion,... votre beauté... Je ne suis pas bien riche ; mais, ma foi, je suis un bon garçon.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="11">
 	<s id="1">J’entends cela le mieux du monde ; mais je vous prie, monsieur Pierrot, d’étouffer un peu vos hoquets de tendresse, et d’aller porter cette lettre à monsieur de la Maltotière.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT, en s’en allant.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>, en s’en allant.</hstage>
 <p id="12">
 	<s id="1">Ah !</s>
 	<s id="2">Petit cocodrille !</s>
@@ -702,120 +702,120 @@
 </sp>
 </div2>
 <div2 type="scene" n="13"><head>SCÈNE XIII.</head>
-<sp who="COLOMBINE"><speaker>COLOMBINE, seule.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>, seule.</hstage>
 <p id="1">
 	<s id="1">La conquête de Pierrot n’est pas bien illustre : je sens néanmoins une secrète joie de voir que rien ne m’échappe.</s>
 	<s id="2">Quelque sévérité qu’affectent les femmes, elles ne sont jamais fâchées de s’entendre dire qu’on les aime.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="14"><head>SCÈNE XIV. Colombine, un Laquais.</head>
-<sp who="LE-LAQUAIS"><speaker>LE LAQUAIS, annonçant.</speaker>
+<div2 type="scene" n="14"><head>SCÈNE XIV.</head><cast>Colombine, un Laquais.</cast>
+<sp who="LE-LAQUAIS"><hstage><speaker>LE LAQUAIS</speaker>, annonçant.</hstage>
 <p id="1">
 	<s id="1">Mademoiselle, voilà monsieur le conseiller Nigaudin.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="15"><head>SCÈNE XV. Colombine, Nigaudin, en habit de ville et en épée ; un Laquais de Nigaudin.</head>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<div2 type="scene" n="15"><head>SCÈNE XV.</head><cast>Colombine, Nigaudin, en habit de ville et en épée ; un Laquais de Nigaudin.</cast>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="1">
 	<s id="1">En vérité, monsieur Nigaudin, j’ai lieu de louer votre diligence : nous ne devons partir pour la Comédie que dans deux heures, et je suis ravie de pouvoir pendant ce temps-là profiter de votre conversation.</s>
 </p>
 </sp>
-<sp who="NIGAUDIN"><speaker>NIGAUDIN, toussant.</speaker>
+<sp who="NIGAUDIN"><hstage><speaker>NIGAUDIN</speaker>, toussant.</hstage>
 <p id="2">
 	<s id="1">Mademoiselle, quand il s’agira de venir vous offrir ses hommages, on n’obtiendra point de défaut contre moi : en cas de rendez-vous auprès des dames, je ne me laisse jamais contumacer, et je me rends bien vite à l’ajournement personnel.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="3">
 	<s id="1">Ah, monsieur !</s>
 	<s id="2">Que vous dites les choses galamment !</s>
 	<s id="3">Vous avez un tour aisé et naturel dans les expressions, que les autres n’ont point ; et il semble toujours que vous demandiez le cœur, quelque indifférente chose que vous puissiez dire.</s>
 </p>
 </sp>
-<sp who="NIGAUDIN"><speaker>NIGAUDIN.</speaker>
+<sp who="NIGAUDIN"><hstage><speaker>NIGAUDIN</speaker>.</hstage>
 <p id="4">
 	<s id="1">Moi, mademoiselle ! Je ne vous demande rien ; vous me prenez donc pour un escroc ?</s>
 	<s id="2">Il est vrai que nous autres gens de robe, la plupart, nous avons la belle élocution à commandement.</s>
 	<s id="3">Tout franc, mademoiselle, les gens d’épée n’ont point le boute-dehors comme nous.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Fi !</s>
 	<s id="2">Ne me parlez point des gens d’épée ; ils n’auraient jamais rien à vous dire, s’ils ne vous étourdissaient de leurs bonnes fortunes, et s’ils ne vous faisaient le calcul du nombre des bouteilles qu’ils ont vidées.</s>
 	<s id="3">Pour moi, je ne conçois pas bien la manie de la plupart des femmes d’aujourd’hui ; on ne saurait leur plaire, si l’on ne revient de Flandre ou d’Allemagne, et si l’on ne rapporte à leurs pieds un cœur tout persillé de poudre à canon.</s>
 </p>
 </sp>
-<sp who="NIGAUDIN"><speaker>NIGAUDIN.</speaker>
+<sp who="NIGAUDIN"><hstage><speaker>NIGAUDIN</speaker>.</hstage>
 <p id="6">
 	<s id="1">Ma foi, il y a bien de l’entêtement ; car, entre nous, il n’y a point de gens qui tiennent une procédure si irrégulière auprès des dames que les gens de guerre : ils sont brusques et entreprenants sur le fait des faveurs, et n’observent jamais les délais fixés par l’ordonnance de l’amour.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="7">
 	<s id="1">Il est vrai qu’on n’est point en sûreté contre leurs entreprises ; et quand ils sont chez les dames, ils s’imaginent être dans un quartier d’hiver à vivre à discrétion.</s>
 </p>
 </sp>
-<sp who="NIGAUDIN"><speaker>NIGAUDIN.</speaker>
+<sp who="NIGAUDIN"><hstage><speaker>NIGAUDIN</speaker>.</hstage>
 <p id="8">
 	<s id="1">À propos de quartier d’hiver, mademoiselle, il me semble qu’ils sont venus cette année quinze jours plus tôt pour moi.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="9">
 	<s id="1">Pourquoi donc, monsieur ?</s>
 </p>
 </sp>
-<sp who="NIGAUDIN"><speaker>NIGAUDIN.</speaker>
+<sp who="NIGAUDIN"><hstage><speaker>NIGAUDIN</speaker>.</hstage>
 <p id="10">
 	<s id="1">J’avais hypothèque spéciale sur votre cœur, sans ce visage d’épetier qui est arrivé, et qui se prétend privilégié sur la chose : mais, ventrebleu !</s>
 	<s id="2">Nous verrons.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="11">
 	<s id="1">Eh !</s>
 	<s id="2">Que craint-on, monsieur, quand on est fait comme vous ?</s>
 </p>
 </sp>
-<sp who="NIGAUDIN"><speaker>NIGAUDIN.</speaker>
+<sp who="NIGAUDIN"><hstage><speaker>NIGAUDIN</speaker>.</hstage>
 <p id="12">
 	<s id="1">Il est vrai qu’un juge craint fort peu de chose ; mais la plupart de ces gens de guerre sont des brutaux qui usent d’abord des voies de fait.</s>
 	<s id="2">Nous autres, nous faisons notre affaire en douceur, et nous n’aimons pas le fracas de la brette.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="13">
 	<s id="1">Vous avez assez d’autres endroits pour vous faire distinguer.</s>
 </p>
 </sp>
-<sp who="NIGAUDIN"><speaker>NIGAUDIN.</speaker>
+<sp who="NIGAUDIN"><hstage><speaker>NIGAUDIN</speaker>.</hstage>
 <p id="14">
 	<s id="1">Ce n’est pas, ventrebleu !</s>
 	<s id="2">Qu’on n’ait du cœur. Je voudrais que vous me vissiez aux buvettes : je fais tout trembler ; et si tous mes confrères les praticiens me ressemblaient, il ne se recevrait pas le quart des nasardes qui se donnent tous les jours.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="15">
 	<s id="1">Je gagerais, à votre air, que vous opinez l’épée à la main ?</s>
 	<s id="2">Et je vous prendrais quelquefois pour un colonel de robe.</s>
 </p>
 </sp>
-<sp who="NIGAUDIN"><speaker>NIGAUDIN.</speaker>
+<sp who="NIGAUDIN"><hstage><speaker>NIGAUDIN</speaker>.</hstage>
 <p id="16">
 	<s id="1">Vous trouvez donc mon habit joli ?</s>
 	<s id="2">C’est un petit déshabillé de chasse que je me suis fait faire pour la cour.</s>
 	<s id="3">N’est-il pas vrai que l’épée me sied bien ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="17">
 	<s id="1">À charmer.</s>
 </p>
 </sp>
-<sp who="NIGAUDIN"><speaker>NIGAUDIN.</speaker>
+<sp who="NIGAUDIN"><hstage><speaker>NIGAUDIN</speaker>.</hstage>
 <p id="18">
 	<s id="1">Je sens quelquefois des convulsions de bravoure que je ne saurais retenir.</s>
 </p>
@@ -824,67 +824,67 @@
 	<s id="1">J’étais né pour la guerre : mais mon père, voyant que j’avais trop d’esprit pour ce métier-là, me mit dans notre présidial de Beauvais, et m’acheta une charge d’assesseur.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="20">
 	<s id="1">Ah, monsieur l’assesseur !</s>
 	<s id="2">Si vous débrouillez aussi bien un procès que vous savez vous faire jour dans un cœur, que vous êtes un juge éclairé !</s>
 </p>
 </sp>
-<sp who="NIGAUDIN"><speaker>NIGAUDIN.</speaker>
+<sp who="NIGAUDIN"><hstage><speaker>NIGAUDIN</speaker>.</hstage>
 <p id="21">
 	<s id="1">Tout franc, mademoiselle, je ne me plains pas de mes lumières, et je vous avoue que j’ai une pénétration d’esprit qui me surprend quelquefois.</s>
 	<s id="2">Je jugeai dernièrement un gros procès à l’audience, dont je n’avais pas entendu un mot.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="22">
 	<s id="1">Pas un mot !</s>
 	<s id="2">Et comment avez-vous pu rendre la justice ?</s>
 </p>
 </sp>
-<sp who="NIGAUDIN"><speaker>NIGAUDIN.</speaker>
+<sp who="NIGAUDIN"><hstage><speaker>NIGAUDIN</speaker>.</hstage>
 <p id="23">
 	<s id="1">Bon !</s>
 	<s id="2">Dans tous les procès, il n’y a qu’une routine.</s>
 	<s id="3">L’une des parties m’avait envoyé un carrosse de cent pistoles, et l’autre deux chevaux gris de six cents écus ; vous jugez bien qui avait le bon droit ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="24">
 	<s id="1">Oh !</s>
 	<s id="2">Je sais que deux chevaux gris mènent un procès bien rondement.</s>
 </p>
 </sp>
-<sp who="NIGAUDIN"><speaker>NIGAUDIN.</speaker>
+<sp who="NIGAUDIN"><hstage><speaker>NIGAUDIN</speaker>.</hstage>
 <p id="25">
 	<s id="1">Ma foi, vous avez raison ; les chevaux entraînèrent le carrosse.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="16"><head>SCÈNE XVI. Le Capitaine, Colombine, Nigaudin, Laquais de Nigaudin.</head>
-<sp who="LE-CAPITAINE"><speaker>LE CAPITAINE en dedans.</speaker>
+<div2 type="scene" n="16"><head>SCÈNE XVI.</head><cast>Le Capitaine, Colombine, Nigaudin, Laquais de Nigaudin.</cast>
+<sp who="LE-CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker> en dedans.</hstage>
 <p id="1">
 	<s id="1">Parbleu !</s>
 	<s id="2">Mon ami, je crois que tu ne me connais pas.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Ah, monsieur !</s>
 	<s id="2">Vous êtes perdu si cet homme-là vous trouve ici.</s>
 </p>
 </sp>
-<sp who="NIGAUDIN"><speaker>NIGAUDIN.</speaker>
+<sp who="NIGAUDIN"><hstage><speaker>NIGAUDIN</speaker>.</hstage>
 <p id="3">
 	<s id="1">Comment donc ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="4">
 	<s id="1">C’est un officier qui est jaloux à la fureur ; il a déjà tué cinq ou six hommes pour n’avoir fait que me regarder.</s>
 </p>
 </sp>
-<sp who="NIGAUDIN"><speaker>NIGAUDIN.</speaker>
+<sp who="NIGAUDIN"><hstage><speaker>NIGAUDIN</speaker>.</hstage>
 <p id="5">
 	<s id="1">Cinq ou six hommes !</s>
 	<s id="2">Voilà qui est bien brutal.</s>
@@ -893,56 +893,56 @@
 </p>
 <stage>Il se déshabille, et met son rabat.</stage>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="6">
 	<s id="1">Hé, que faites-vous, monsieur ?</s>
 	<s id="2">À quoi vous amusez-vous là ?</s>
 </p>
 </sp>
-<sp who="NIGAUDIN"><speaker>NIGAUDIN.</speaker>
+<sp who="NIGAUDIN"><hstage><speaker>NIGAUDIN</speaker>.</hstage>
 <p id="7">
 	<s id="1">Je sais bien ce que je fais.</s>
 	<s id="2">Il faudra qu’il soit bien lâche, s’il me bat sans épée.</s>
 	<s id="3">Pour plus grande sûreté, vite, qu’on me donne ma robe.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="8">
 	<s id="1">Votre robe !</s>
 	<s id="2">Et où est-elle ?</s>
 </p>
 </sp>
-<sp who="NIGAUDIN"><speaker>NIGAUDIN.</speaker>
+<sp who="NIGAUDIN"><hstage><speaker>NIGAUDIN</speaker>.</hstage>
 <p id="9">
 	<s id="1">Je ne vais jamais sans cela : on ne sait pas ce qui peut arriver.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="10">
 	<s id="1">Ah, monsieur !</s>
 	<s id="2">Ne vous y fiez pas ; vous auriez toutes les robes du Palais sur le corps, qu’il...</s>
 </p>
 </sp>
-<sp who="LE-CAPITAINE"><speaker>LE CAPITAINE, toujours en dedans.</speaker>
+<sp who="LE-CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker>, toujours en dedans.</hstage>
 <p id="11">
 	<s id="1">Par la mort !</s>
 	<s id="2">Par la tête !</s>
 	<s id="3">Si tu ne me laisses entrer, je mettrai le feu à la maison.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="12">
 	<s id="1">Que je suis malheureuse !</s>
 	<s id="2">Le voilà qui entre. Tenez, cachez-vous vite sous cette table-là, et ne remuez pas.</s>
 </p>
 </sp>
-<sp who="NIGAUDIN"><speaker>NIGAUDIN, se mettant sous la table.</speaker>
+<sp who="NIGAUDIN"><hstage><speaker>NIGAUDIN</speaker>, se mettant sous la table.</hstage>
 <p id="13">
 	<s id="1">Ah !</s>
 	<s id="2">Ma maudite toux me va trahir.</s>
 </p>
 </sp>
-<sp who="LE-CAPITAINE"><speaker>LE CAPITAINE entre sur la scène.</speaker>
+<sp who="LE-CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker> entre sur la scène.</hstage>
 <p id="14">
 	<s id="1">Comment !</s>
 	<s id="2">Mordi, mademoiselle : il est plus difficile d’entrer chez vous que de prendre trois demi-lunes l’épée à la main.</s>
@@ -952,12 +952,12 @@
 	<s id="6">Voilà qui est fait, je ne rends plus de visites qu’à des portes bâtardes.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="15">
 	<s id="1">Monsieur, je suis bien fâchée de l’accident de votre cravate : mais...</s>
 </p>
 </sp>
-<sp who="LE-CAPITAINE"><speaker>LE CAPITAINE.</speaker>
+<sp who="LE-CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker>.</hstage>
 <p id="16">
 	<s id="1">Mais, mademoiselle, on est bien aise de conserver le peu qu’on a de linge.</s>
 	<s id="2">Je suis revenu trente fois de l’assaut en meilleur équipage.</s>
@@ -968,13 +968,13 @@
 	<s id="1">Hem, plaît-il ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="18">
 	<s id="1">Ce n’est rien, monsieur...</s>
 	<s id="2">Que voilà un habit bien entendu !</s>
 </p>
 </sp>
-<sp who="LE-CAPITAINE"><speaker>LE CAPITAINE.</speaker>
+<sp who="LE-CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker>.</hstage>
 <p id="19">
 	<s id="1">Je ne suis pas mal fait, oui ; je dois ma taille à une douzaine de bouteilles de vin que je bois réglément par jour : un grand ventre sied bien à la tête d’un bataillon.</s>
 </p>
@@ -984,38 +984,38 @@
 	<s id="2">Qu’est-ce donc que j’entends ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="21">
 	<s id="1">Ce n’est rien, vous dis-je.</s>
 	<s id="2">Voilà vos inquiétudes qui vous prennent ; vous voudriez déjà être hors d’ici, et vous ne songez pas qu’il y a un siècle qu’on ne vous a vu.</s>
 </p>
 </sp>
-<sp who="LE-CAPITAINE"><speaker>LE CAPITAINE.</speaker>
+<sp who="LE-CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker>.</hstage>
 <p id="22">
 	<s id="1">J’y viendrais plus souvent : mais tout le genre humain y aborde.</s>
 	<s id="2">Voyez-vous, mademoiselle, je suis le gentilhomme de France du meilleur commerce ; mais, ventrebleu !</s>
 	<s id="3">Je ne m’accommode point de vos neutralités.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="23">
 	<s id="1">Mon Dieu !</s>
 	<s id="2">Monsieur, je ménage tout le monde pour des raisons particulières ; mais je sais donner la préférence à qui le mérite.</s>
 	<s id="3">Je me distingue en voyant des gens de cour ; les officiers me font plaisir ; je trouve des ressources avec les financiers : et pour peu qu’on aime les bagatelles, c’est le moins qu’on puisse avoir que deux ou trois petits abbés dans une maison.</s>
 </p>
 </sp>
-<sp who="LE-CAPITAINE"><speaker>LE CAPITAINE.</speaker>
+<sp who="LE-CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker>.</hstage>
 <p id="24">
 	<s id="1">Pour les abbés, passe : on sait bien que cette graine-là est nécessaire aux femmes : mais j’enrage de voir à vos trousses un tas de gens de robe, qui sont pour la plupart des croquants, à qui l’esprit n’a été donné que comme le sel aux jambons pour les conserver.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="25">
 	<s id="1">Bon ! L’été les femmes les souffrent faute d’officiers : mais ce sont des oiseaux de semestre qui disparaissent avec les hirondelles.</s>
 	<s id="2">Et puis les affaires viennent sans qu’on y pense ; on a tous les jours, malgré soi, des procès ; et vous savez qu’auprès d’un juge sensible, l’enjouement d’une jolie femme est toujours la meilleure pièce d’un sac.</s>
 </p>
 </sp>
-<sp who="LE-CAPITAINE"><speaker>LE CAPITAINE.</speaker>
+<sp who="LE-CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker>.</hstage>
 <p id="26">
 	<s id="1">Vous voyez entre autres un certain... Trigaudin... Nigaudin ; un petit friquet de chicane.</s>
 	<s id="2">Par la ventrebleu !</s>
@@ -1023,44 +1023,44 @@
 </p>
 <stage>Nigaudin tousse, et Colombine tousse aussi, de peur que le Capitaine ne l’entende.</stage>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="27">
 	<s id="1">Hé !</s>
 	<s id="2">Fi, monsieur, ne m’en parlez point ; je ne le saurais souffrir : c’est une éponge à sottises.</s> 
 </p>
 <stage>Elle tousse.</stage>
 </sp>
-<sp who="LE-CAPITAINE"><speaker>LE CAPITAINE.</speaker>
+<sp who="LE-CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker>.</hstage>
 <p id="28">
 	<s id="1">Qu’avez-vous donc, mademoiselle ?</s>
 	<s id="2">Vous me paraissez bien enrhumée.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="29">
 	<s id="1">Ce n’est rien, monsieur ; on ne peut pas toujours se porter si bien que vous.</s>
 	<s id="2">Mon Dieu !</s>
 	<s id="3">Que vous avez bon visage !</s>
 </p>
 </sp>
-<sp who="LE-CAPITAINE"><speaker>LE CAPITAINE.</speaker>
+<sp who="LE-CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker>.</hstage>
 <p id="30">
 	<s id="1">Je le crois, ma foi, qu’il est hon ; il y a plus de trente ans que je m’en sers jour et nuit ; je ne suis pas comme ces femmes qui le mettent le soir sur leur toilette.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="17"><head>SCÈNE XVII. Le Capitaine, Colombine, Nigaudin, sous la table, un Sergent.</head>
-<sp who="LE-SERGENT"><speaker>LE SERGENT.</speaker>
+<div2 type="scene" n="17"><head>SCÈNE XVII.</head><cast>Le Capitaine, Colombine, Nigaudin, sous la table, un Sergent.</cast>
+<sp who="LE-SERGENT"><hstage><speaker>LE SERGENT</speaker>.</hstage>
 <p id="1">
 	<s id="1">Mon capitaine, ne voulez-vous pas arrêter les parties de ce marchand a fourni les justaucorps de la compagnie ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="2">
 	<s id="1">C’est-à-dire, monsieur le capitaine, que vous ne manquez pas de moyens pour trouver de l’argent.</s>
 </p>
 </sp>
-<sp who="LE-CAPITAINE"><speaker>LE CAPITAINE.</speaker>
+<sp who="LE-CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker>.</hstage>
 <p id="3">
 	<s id="1">Je veux être un infâme, si j’ai le premier sou pour faire ma compagnie : ce qui me console, c’est que je dois beaucoup.</s>
 </p>
@@ -1071,49 +1071,49 @@
 	<s id="3">Pour une demoiselle, il me semble que vous avez là un vilain mâtin sous votre table.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Vous rêvez, je crois, avec vos mâtins.</s>
 </p>
 </sp>
-<sp who="LE-CAPITAINE"><speaker>LE CAPITAINE.</speaker>
+<sp who="LE-CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker>.</hstage>
 <p id="6">
 	<s id="1">Brin-d’amour ?</s>
 </p>
 </sp>
-<sp who="LE-SERGENT"><speaker>LE SERGENT.</speaker>
+<sp who="LE-SERGENT"><hstage><speaker>LE SERGENT</speaker>.</hstage>
 <p id="7">
 	<s id="1">Mon capitaine.</s>
 </p>
 </sp>
-<sp who="LE-CAPITAINE"><speaker>LE CAPITAINE.</speaker>
+<sp who="LE-CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker>.</hstage>
 <p id="8">
 	<s id="1">Chassez-moi ce chien de dessous cette table.</s>
 </p>
 </sp>
-<sp who="LE-SERGENT"><speaker>LE SERGENT, avec sa canne.</speaker>
+<sp who="LE-SERGENT"><hstage><speaker>LE SERGENT</speaker>, avec sa canne.</hstage>
 <p id="9">
 	<s id="1">Allons, tirez ; à la paille.</s>
 </p>
 <stage>Nigaudin sort.</stage>
 </sp>
-<sp who="LE-CAPITAINE"><speaker>LE CAPITAINE.</speaker>
+<sp who="LE-CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker>.</hstage>
 <p id="10">
 	<s id="1">Oh, oh !</s>
 	<s id="2">Mon petit ami, et que faites-vous donc ici, s’il vous plaît ?</s>
 </p>
 </sp>
-<sp who="NIGAUDIN"><speaker>NIGAUDIN.</speaker>
+<sp who="NIGAUDIN"><hstage><speaker>NIGAUDIN</speaker>.</hstage>
 <p id="11">
 	<s id="1">La Violette, laquais, prenez ma robe.</s>
 </p>
 </sp>
-<sp who="LE-CAPITAINE"><speaker>LE CAPITAINE.</speaker>
+<sp who="LE-CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker>.</hstage>
 <p id="12">
 	<s id="1">Mon petit ami, si vous ne dénichez au plus vite, je vous ferai amoureusement descendre par la fenêtre.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="13">
 	<s id="1">Monsieur le capitaine, vous êtes un extravagant de vous emporter sans raison.</s>
 	<s id="2">N’ai-je pas fait mon devoir de faire cacher monsieur pour vous épargner du chagrin ?</s>
@@ -1128,18 +1128,18 @@
 <stage>Elle sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="18"><head>SCÈNE XVIII. Le Capitaine, Nigaudin.</head>
-<sp who="NIGAUDIN"><speaker>NIGAUDIN.</speaker>
+<div2 type="scene" n="18"><head>SCÈNE XVIII.</head><cast>Le Capitaine, Nigaudin.</cast>
+<sp who="NIGAUDIN"><hstage><speaker>NIGAUDIN</speaker>.</hstage>
 <p id="1">
 	<s id="1">Adieu, monsieur ; nous ne serons pas toujours seul à seul ; et s’il vous tombe jamais quelque décret sur le corps, je vous apprendrai ce que c’est que de scandaliser un juge chez des femmes.</s>
 </p>
 </sp>
-<sp who="LE-CAPITAINE"><speaker>LE CAPITAINE.</speaker>
+<sp who="LE-CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Va, va, petit regrattier de la justice, je me moque de toi et de tes décrets ; je suis en garnison dans une bonne citadelle.</s>
 </p>
 </sp>
-<sp who="NIGAUDIN"><speaker>NIGAUDIN.</speaker>
+<sp who="NIGAUDIN"><hstage><speaker>NIGAUDIN</speaker>.</hstage>
 <p id="3">
 	<s id="1">On ne traite pas comme cela un conseiller assesseur, et je m’en plaindrai à votre citadelle.</s>
 </p>
@@ -1148,33 +1148,33 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Trafiquet, Pierrot.</head>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Trafiquet, Pierrot.</cast>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="1">
 	<s id="1">Monsieur, je viens de chez votre notaire ; il vous prie bien fort de l’excuser ; il ne saurait venir aujourd’hui.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="2">
 	<s id="1">Il faut prendre patience, pourvu qu’il vienne demain.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="3">
 	<s id="1">Ni demain non plus : il lui est survenu une petite affaire ; je ne crois pas qu’il puisse venir si tôt.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="4">
 	<s id="1">Et quelle est donc cette affaire ?</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="5">
 	<s id="1">C’est, monsieur, qu’il est mort.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="6">
 	<s id="1">Il est mort !</s>
 	<s id="2">Tu as raison ; je ne crois pas qu’il revienne de longtemps. C’est bien dommage ; c’était le seul honnête homme de notaire que j’aie encore trouvé.</s>
@@ -1182,114 +1182,114 @@
 	<s id="4">Dis-moi, as-tu des nouvelles de notre homme ?</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="7">
 	<s id="1">Ho !</s>
 	<s id="2">Oui, monsieur ; pour celui-là, on m’a dit qu’il était arrivé par le poulailler du Maine, et qu’il demeurait tout rasibus de chez nous.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="8">
 	<s id="1">Le ciel en soit loué !</s>
 	<s id="2">Je me déferai peut-être à la fin de ma fille, et je ne verrai plus dans ma maison des animaux de toute sorte d’espèces, et particulièrement cette assemblée de femmes, ou plutôt cette académie de folles qui s’y tenait.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="9">
 	<s id="1">Tout franc, monsieur, je commençais à être bien las de toutes ces visageresses, et j’étais résolu de prendre mon congé ou de vous donner le vôtre.</s>
 	<s id="2">Mais, monsieur, je voudrais bien vous lâcher un petit mot, tandis que je sommes sur la chose du mariage.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="10">
 	<s id="1">Parle, Pierrot ; que me veux-tu ?</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="11">
 	<s id="1">Monsieur, regardez-moi bien ; tel que vous me voyez, je me vais marier.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="12">
 	<s id="1">Toi, te marier !</s>
 	<s id="2">Es-tu fou ?</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="13">
 	<s id="1">Ce qui me console ; monsieur, c’est que celle que j’épouse est aussi folle que moi.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="14">
 	<s id="1">Et qui est donc cette malheureuse-là ?</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="15">
 	<s id="1">Oh !</s>
 	<s id="2">Monsieur, vous la connaissez bien ; c’est... mademoiselle votre fille.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="16">
 	<s id="1">Ma fille ?</s>
 	<s id="2">Ma fille Colombine ?</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="17">
 	<s id="1">Vraiment, monsieur, cela est tout prêt ; on n’attend plus que votre consentement et le sien.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="18">
 	<s id="1">Je ne sais, maraud, à quoi il tient que je ne t’assomme de coups.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="19">
 	<s id="1">Mais, monsieur, il ne faut pas se fâcher ; cela n’est pas si inégal.</s>
 	<s id="2">Je suis un garçon, une fois, et elle est une fille ; et puis, monsieur, je ne sais ce que c’est que de faire le blêche : vous me donnez quinze écus par an ; j’aime mieux n’en gagner que dix et être votre gendre.</s>
 	<s id="3">Voilà comme je parle, moi.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET lui donne des coups de canne.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker> lui donne des coups de canne.</hstage>
 <p id="20">
 	<s id="1">Et moi, voilà comme je réponds.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="21">
 	<s id="1">Eh !</s>
 	<s id="2">Fi donc, monsieur ; est-ce comme ça qu’on parle de mariage ?</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Arlequin, Trafiquet, Pierrot.</head>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Arlequin, Trafiquet, Pierrot.</cast>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="1">
 	<s id="1">Tenez, voilà votre diable de bailli ; est-ce qu’il est mieux fait que moi ?</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="2">
 	<s id="1">Je crois, monsieur, que vous avez plus d’impatience de me faire votre gendre, que je n’en ai de vous voir mon beau-père.</s>
 	<s id="2">Vous avez une fille : ergo vous êtes pourvu d’une drogue dont vous voudriez être défait ; car une fille, c’est une fleur qui se fane, si elle n’est cueillie dans sa saison ; c’est un quartaut de vin de Champagne qui jaunit, s’il n’est bu dans sa primeur.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="3">
 	<s id="1">Monsieur du quartaut, vous n’en aurez peut-être que la baissière.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="4">
 	<s id="1">J’espère, monsieur, que vous ne vous repentirez pas de l’affaire que vous faites ; car je puis vous assurer que je vous livre une fille toute neuve, et qui vous fera dans la suite un très bon usé.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="5">
 	<s id="1">Ah !</s>
 	<s id="2">Cette marchandise-là ne dure toujours que trop.</s>
@@ -1298,7 +1298,7 @@
 </p>
 <stage>Il tire son mouchoir, et laisse voir dans sa poche un pistolet et nue bouteille ; il fait tomber des dés et des cartes.</stage>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET, à part.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>, à part.</hstage>
 <p id="6">
 	<s id="1">Voilà cet homme si doux, qui ne joue et qui ne boit pas !</s>
 </p>
@@ -1308,80 +1308,80 @@
 </p>
 <stage>Il montre le pistolet.</stage>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="8">
 	<s id="1">Je porte toujours cela sur moi, car je n’aime pas à être contredit.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="9">
 	<s id="1">Vous m’assurez que sa dot ne court point de risque entre vos mains, et que vous ne jouez point ?</s>
 </p>
 <stage>Il montre les cartes qui sont à terre.</stage>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="10">
 	<s id="1">Fi, monsieur !</s>
 	<s id="2">Il n’y a que des fripons qui s’amusent à ce métier-là.</s>
 	<s id="3">Je porte quelquefois des cartes et des dés par complaisance ; mais je ne m’en sers qu’en compagnie, et je vous assure que si j’étais seul je ne jouerais jamais.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="11">
 	<s id="1">Je vous l’ai toujours dit, monsieur ; il n’y a que les mauvaises compagnies qui gâtent la jeunesse.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="12">
 	<s id="1">Pour du vin, vous n’en buvez pas ?</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="13">
 	<s id="1">La crapule me fait horreur.</s>
 	<s id="2">Est-ce que les honnêtes gens boivent du vin ?</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="14">
 	<s id="1">Je vois pourtant là quelque chose qui a assez la physionomie d’une bouteille.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="15">
 	<s id="1">Bon !</s>
 	<s id="2">Monsieur, vous avez la berlue.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="16">
 	<s id="1">Oui, parbleu !</s>
 	<s id="2">Il l’a ; ce n’est que de l’eau-de-vie que je porte à une femme de qualité qui est en couche.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="17">
 	<s id="1">Allons, allons, il faut passer par là-dessus : on ne fera pas un homme exprès pour moi.</s>
 	<s id="2">Apparemment vous n’épouserez pas ma fille sans la voir ?</s>
 	<s id="3">Pierrot, dis à Colombine qu’elle vienne saluer monsieur.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="18">
 	<s id="1">Elle n’est pas ici.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="19">
 	<s id="1">Elle n’est pas ici ?</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="20">
 	<s id="1">Non, monsieur ; j’ai vu un chevalier avec un abbé qui sont venus pour l’emprunter jusqu’à sept heures.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="21">
 	<s id="1">L’emprunter !</s>
 	<s id="2">Comment donc !</s>
@@ -1390,25 +1390,25 @@
 	<s id="5">Mon garçon, la fille de monsieur se prête donc quelquefois de main en main quand on la demande ?</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="22">
 	<s id="1">Oui, monsieur, tous les jours ; il y a tout plein d’honnête monde qui la vient prendre pour la divertir.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="23">
 	<s id="1">Oui, monsieur du beau-père !</s>
 	<s id="2">En tout cas, si dans six mois ou un an je ne m’accommodais pas de votre fille, en perdant quelque chose dessus, vous la reprendriez.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="24">
 	<s id="1">Il n’y a rien à perdre sur cette fille-là ; vous en trouverez toujours votre argent.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Trafiquet, Arlequin, Colombine, Pierrot.</head>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Trafiquet, Arlequin, Colombine, Pierrot.</cast>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="1">
 	<s id="1">On ne parle point du loup qu’on n’en voie la queue.</s>
 	<s id="2">Tenez, la voilà.</s>
@@ -1416,7 +1416,7 @@
 	<s id="4">Il n’y a point de fille à Paris si bien morigénée ; elle ne couche jamais en ville.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="2">
 	<s id="1">Ma fille, voilà le bailli en question : tu ne voudras peut-être pas lui ouvrir ton cœur en ma présence ?</s>
 	<s id="2">Monsieur, je ne vous rends pas un méchant office de vous laisser seul avec votre maîtresse.</s>
@@ -1425,131 +1425,131 @@
 <stage>Pierrot fait des mines en quittant Colombine.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Colombine, Trafiquet.</head>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, reculant.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Colombine, Trafiquet.</cast>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, reculant.</hstage>
 <p id="1">
 	<s id="1">Ne vous étonnez pas, mademoiselle, si vous me voyez reculer trois pas au frontispice de vos charmes : vous avez des yeux capables d’embraser tout le bailliage de mon cœur ; et depuis qu’on porte des bouches, on n’a jamais bouchonné un bouchon si bouchonnable.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Je suis confuse de vos civilités, monsieur ; et il faudrait avoir plus d’esprit que je n’en ai pour répondre à un compliment aussi bien tourné.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="3">
 	<s id="1">Il est vrai que pour des compliments, il n’y a personne dans notre province qui ose me prêter le collet.</s>
 	<s id="2">J’ai harangué une fois notre intendant pendant deux heures, avec tant d’éloquence, qu’il s’endormit tout debout, et ne s’éveilla qu’une heure après que j’eus fini.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="4">
 	<s id="1">De pareils efforts d’esprit sont bons pour la province ; mais à Paris on aime à parler terre à terre.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="5">
 	<s id="1">Bon !</s>
 	<s id="2">A-t-on de l’esprit à Paris ?</s>
 	<s id="3">Sitôt qu’il y a un fat dans un pays, on l’y envoie ; c’est le rendez-vous de tous les sots de la France ; et, de tous les Parisiens, je ne vois que les Normands et les Manceaux qui aient un peu de brillant.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="6">
 	<s id="1">À vous entendre parler, vous ne paraissez pas content des cavaliers de ce pays-ci ; et les dames, qu’en dites-vous ?</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="7">
 	<s id="1">La la ; elles sont d’assez bonne amitié : j’en ai trouvé quelques unes de jolies en mon chemin ; mais, tout franc, je n’en ai point encore vu une de votre calibre.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="8">
 	<s id="1">Il faut pourtant tomber d’accord qu’elles ont un tour d’esprit et des manières de se mettre que les femmes de province n’ont pas.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="9">
 	<s id="1">Oui-da, oui-da, je trouve qu’elles se coiffent raisonnablement haut, et je crois que leurs maris ne sont guère coiffés plus bas,</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="10">
 	<s id="1">Où passe-t-on le temps avec plus d’économie ?</s>
 	<s id="2">Aujourd’hui à l’Opéra, demain à la Comédie, un autre jour au bal ; on entrelace cela de parties de jeu et de promenades.</s>
 	<s id="3">Vous voyez bien qu’il n’y a point de lieu où une femme soit si façonnière.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="11">
 	<s id="1">Pour moi, je trouve cela le plus joli du monde ; mais que disent les maris à Paris ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="12">
 	<s id="1">Les maris disent ce qu’ils veulent, et les femmes font ce qui leur plaît ; c’est la mode du pays.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="13">
 	<s id="1">Les femmes feront durer cette mode-là le plus qu’elles pourront.</s>
 	<s id="2">Et, s’il vous plaît, quand une femme revient du bal à cinq heures du matin avec un cavalier, qu’elle éveille toute la maison, que disent les maris à Paris ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="14">
 	<s id="1">Ils ne disent rien ; dès que la femme est rentrée, ils se rendorment.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="15">
 	<s id="1">Un homme qui a le sommeil si bien en main n’a pas besoin d’être bercé.</s>
 	<s id="2">Mais, je vous prie, lorsqu’une femme vend ses pierreries pour faire l’équipage de quelque galant homme qui va à l’armée, que disent les maris à Paris ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="16">
 	<s id="1">Oh !</s>
 	<s id="2">Les Parisiens sont trop bons serviteurs du Roi pour trouver cela mauvais.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="17">
 	<s id="1">Je ne m’en dédis point, voila de bonnes gens que ces Parisiens-là.</s>
 	<s id="2">Vaille que vaille, puisque j’ai fait les frais du voyage, je vous épouserai ; mais à condition que, dès le lendemain de la noce, vous vous mettrez dans la carriole du Mans pour venir régenter les chapons de ma basse-cour : l’air de Paris donne trop de maux de tête.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="18">
 	<s id="1">Quelque loi que vous m’imposiez, elle me paraîtra toujours douce, pourvu que je sois sûre de passer avec vous le reste de mes jours : vous me tenez lieu de tout ; et du moment que je vous ai vu, j’ai senti pour vous...</s>
 	<s id="2">Ah !</s>
 	<s id="3">Ne m’obligez pas de m’expliquer ; j’en dirais peut-être plus que je ne veux.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="19">
 	<s id="1">Les filles de ce pays-ci sont faites avec des étoupes ; il ne faut qu’une étincelle...</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="20">
 	<s id="1">J’ai une grâce à vous demander : les filles, comme vous savez, ont beaucoup d’ambition sur le fait du mariage ; j’ai eu toute ma vie une noble horreur pour les baillis du Maine ; ne pourriez-vous point changer de charge, et vous faire homme de qualité ?</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="21">
 	<s id="1">Très volontiers ; rien n’est plus aisé : aussi bien je suis en pourparler avec un marquis de nos cantons qui s’en va à l’armée ; et, comme il a besoin d’argent, il veut me vendre sa charge de marquis avec sa pratique.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="22">
 	<s id="1">Oh, monsieur !</s>
 	<s id="2">Que cela me fera de plaisir !</s>
 	<s id="3">Mais, en achetant une charge de marquis, n’oubliez pas, s’il vous plaît, de vous faire donner les airs déhanchés de ces messieurs-là.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="23">
 	<s id="1">Oh !</s>
 	<s id="2">Je n’en ai que faire : quand on a été toute sa vie élevé dans le Bas-Maine, les airs de cour ne sont que trop familiers.</s>
@@ -1558,7 +1558,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="COLOMBINE"><speaker>COLOMBINE, seule.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>, seule.</hstage>
 <p id="1">
 	<s id="1">La sotte pécore qu’un homme qui a le mariage en tête !</s>
 	<s id="2">Une fille un peu savante sur l’article le manie comme un chamois.</s>
@@ -1568,42 +1568,42 @@
 <stage>Scènes italiennes.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Trafiquet, Colombine.</head>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Trafiquet, Colombine.</cast>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="1">
 	<s id="1">Je vous prie, mademoiselle ma fille, de ne point m’échauffer les oreilles ; je sais ce qu’il vous faut, et c’est à vous d’obéir quand je vous ai choisi un mari, entendez-vous ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Comme je suis une partie des plus intéressées dans l’affaire, je crois, mon père, que mon choix est du moins aussi nécessaire que le vôtre ; et je vous dirai franchement que cet homme-là n’est point fait pour moi.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="3">
 	<s id="1">N’est point fait pour vous !</s>
 	<s id="2">J’en suis d’avis ; il faut vous l’essayer.</s>
 	<s id="3">Mais voyez, je vous prie, comme cela fait la raisonneuse !</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Je vous dis encore une fois, mon père, laissez-moi mener cette affaire-là.</s>
 	<s id="2">Vous êtes plus vieux que moi, j’en conviens ; mais je me connais mieux en maris que vous.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="5">
 	<s id="1">Et que trouvez-vous, s’il vous plaît, à redire au mari que je vous propose ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="6">
 	<s id="1">Bon !</s>
 	<s id="2">C’est un homme qui se présente de front au mariage, et ne sait pas ce que c’est qu’un préliminaire d’amour.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="7">
 	<s id="1">Hé !</s>
 	<s id="2">De par tous les diables !</s>
@@ -1611,98 +1611,98 @@
 	<s id="4">Tant mieux, s’il entre tout de suite en matière ; en fait de mariage, je n’aime point à voir préluder.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="8">
 	<s id="1">Quoi !</s>
 	<s id="2">Mon père, vous voudriez...</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="9">
 	<s id="1">Oui, je le veux.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="10">
 	<s id="1">Vous prétendez qu’un homme que je n’ai jamais vu...</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="11">
 	<s id="1">Oui, je le prétends.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="12">
 	<s id="1">J’ai trop de raison pour...</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="13">
 	<s id="1">Si tu as de la raison tu dois m’obéir, et prendre le parti qui se présente.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Trafiquet, Colombine, Octave.</head>
-<stage>OCTAVE, dans le fond du théâtre, fait des mines à Colombine, sans être vu de Trafiquet.</stage>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Trafiquet, Colombine, Octave.</cast>
+<stage><speaker>OCTAVE</speaker>, dans le fond du théâtre, fait des mines à Colombine, sans être vu de Trafiquet.</stage>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="1">
 	<s id="1">Le parti qui se présente ?</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="2">
 	<s id="1">Oui, le parti qui se présente.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="3">
 	<s id="1">Assurément ?</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="4">
 	<s id="1">Oui, s’il vous plaît ; il ne faut point tant faire de gestes et de grimaces : est-ce qu’il lui manque quelque chose ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Je ne dis pas cela.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="6">
 	<s id="1">Est-il tortu ou bossu ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="7">
 	<s id="1">Je trouve sa taille dégagée et engageante.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="8">
 	<s id="1">Est-ce qu’il n’a point d’esprit ?</s>
 	<s id="2">Va, va, ce n’est pas le plus nécessaire en ménage.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="9">
 	<s id="1">Son esprit me charme, et je connais peu de gens qui en aient plus que lui.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="10">
 	<s id="1">Et pourquoi donc n’en veux-tu point ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="11">
 	<s id="1">Moi, je n’en veux pas !</s>
 	<s id="2">Il faudrait, mon père, que je fusse bien aveugle ou bien insensible pour, refuser un tel parti.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="12">
 	<s id="1">Oh !</s>
 	<s id="2">Que ne parles-tu donc ?</s>
@@ -1711,135 +1711,135 @@
 	<s id="5">Viens, ma fille, que je t’embrasse.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="13">
 	<s id="1">Que cet embrassement me fait de plaisir !</s>
 </p>
 <stage>Colombine, en embrassant Trafiquet, donne sa main à baiser à Octave.</stage>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="14">
 	<s id="1">Tu réponds dignement aux soins que j’ai pris de ton éducation.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="15">
 	<s id="1">J’aimerais mieux mourir, mon père, que de vous désobliger.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="16">
 	<s id="1">Tu me promets donc de ne plus songer à cet étourdi ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="17">
 	<s id="1">Je ne le verrai de ma vie ; c’est un homme que je ne puis souffrir.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="18">
 	<s id="1">Et moi, pour reconnaître ton obéissance, je te promets d’augmenter ton trousseau de six chemises, et d’aller te voir toutes les fêtes et dimanches quand tu seras au Maine.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="19">
 	<s id="1">Au Maine, mon père !</s>
 	<s id="2">Et que faire là ?</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="20">
 	<s id="1">Accompagner ton mari.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="21">
 	<s id="1">Mon mari !</s>
 	<s id="2">Ce n’est pas son dessein de quitter Paris.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="22">
 	<s id="1">Vraiment si ; il est bailli du Maine.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="23">
 	<s id="1">Octave est bailli du Maine !</s>
 	<s id="2">Depuis quand donc ?</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="24">
 	<s id="1">Que diable veux-tu donc dire avec ton Octave ?</s>
 	<s id="2">Je crois que tu es folle.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="25">
 	<s id="1">Quoi !</s>
 	<s id="2">Ce n’est pas Octave que vous voulez me donner pour mari ?</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="26">
 	<s id="1">Non, assurément.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="27">
 	<s id="1">Bon, bon !</s>
 	<s id="2">Vous voulez rire.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="28">
 	<s id="1">Je ne ris point, et je veux...</s>
 </p>
 <stage>Il aperçoit Octave qui lui fait une révérence et s’en va.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Trafiquet, Colombine.</head>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Trafiquet, Colombine.</cast>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="1">
 	<s id="1">C’est donc ainsi, coquine, que tu fais état de mes remontrances, et que tu te moques de moi !</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Mon père...</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="3">
 	<s id="1">Va, je t’abandonne.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Hé !</s>
 	<s id="2">Mon père...</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="5">
 	<s id="1">Je te déshérite.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE, d’un ton doux.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>, d’un ton doux.</hstage>
 <p id="6">
 	<s id="1">Mon petit papa !</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="7">
 	<s id="1">Je te donne ma malédiction, et tu mourras vieille fille.</s>
 </p>
 </sp>
 </div2>
 <div2 type="scene" n="9"><head>SCÈNE IX.</head>
-<sp who="COLOMBINE"><speaker>COLOMBINE, seule.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>, seule.</hstage>
 <p id="1">
 	<s id="1">Oh !</s>
 	<s id="2">Criez tant qu’il vous plaira.</s>
@@ -1847,13 +1847,13 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Colombine, Pierrot.</head>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><cast>Colombine, Pierrot.</cast>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="1">
 	<s id="1">Voici notre amoureux Pierrot ; il faut l’écouter un moment et nous en divertir.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT, sans voir Colombine.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>, sans voir Colombine.</hstage>
 <p id="2">
 	<s id="2">Enfin, Pierrot, te voilà dans le bourbier jusqu’au cou. De quoi t’avises-tu d’être amoureux ?</s>
 	<s id="3">Tu ne fais plus que quatre repas par jour ; tu ne saurais plus t’éveiller qu’à midi sonné : tu vois bien qu’en cet état-là tu ne peux pas faire longue vie.</s>
@@ -1864,34 +1864,34 @@
 </p>
 <stage>Il aperçoit Colombine.</stage>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="3">
 	<s id="1">Que dis-tu là ?</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="4">
 	<s id="1">Je dis...</s>
 	<s id="2">Je dis, mademoiselle, que quand je serai mort, je ne verrai plus goutte.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="5">
 	<s id="1">C’est donc à dire que ta folie te dure toujours ?</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="6">
 	<s id="1">Mademoiselle, assurément vous me ferez faire quelque mauvais coup : je me serais déjà jeté vingt fois par la fenêtre de notre grenier, s’il avait été seulement un étage plus bas.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="7">
 	<s id="1">Tu te moques, Pierrot ; quand on est bien amoureux, on n’est pas à un étage près.</s>
 	<s id="2">Je te conseille, de ce pas, d’aller faire ce saut-là pour l’amour de moi.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="8">
 	<s id="1">Allez, vilain petit porc-épic, le ciel vous punira.</s>
 	<s id="2">Ô amour !</s>
@@ -1901,13 +1901,13 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Colombine, un Laquais.</head>
-<sp who="LE-LAQUAIS"><speaker>LE LAQUAIS.</speaker>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><cast>Colombine, un Laquais.</cast>
+<sp who="LE-LAQUAIS"><hstage><speaker>LE LAQUAIS</speaker>.</hstage>
 <p id="1">
 	<s id="1">Mademoiselle, voilà la comtesse de Flamèche et la marquise de Bistoquet qui demandent à vous voir.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="2">
 	<s id="1">La comtesse de Flamèche et la marquise de Bistoquet !</s>
 	<s id="2">Je ne connais point cela.</s>
@@ -1915,33 +1915,33 @@
 	<s id="4">Il faut que ce soient des provinciales.</s>
 </p>
 </sp>
-<sp who="LE-LAQUAIS"><speaker>LE LAQUAIS.</speaker>
+<sp who="LE-LAQUAIS"><hstage><speaker>LE LAQUAIS</speaker>.</hstage>
 <p id="3">
 	<s id="1">Ce sont des dames qui disent qu’elles demeurent depuis peu dans le quartier.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Faites-les entrer.</s>
 	<s id="2">Voilà de ces chiennes de visites que l’on ne saurait éviter.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="12"><head>SCÈNE XII. Colombine, Mezzetin, en comtesse de Flamèche ; Pasquariel, en marquise de Bistoquet.</head>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head><cast>Colombine, Mezzetin, en comtesse de Flamèche ; Pasquariel, en marquise de Bistoquet.</cast>
 <stage>Octave envoie Mezzetin et Pasquariel sous ce déguisement, pour achever de dégoûter Colombine du bailli. Le laquais qui tient la queue de la Marquise, la tient fichée dans sa culotte, et de ses deux mains casse des noix. Colombine, Mezzetin et Pasquariel parlent tous trois ensemble.</stage>
-<sp who="MEZZETIN"><speaker>MEZZETIN.</speaker>
+<sp who="MEZZETIN"><hstage><speaker>MEZZETIN</speaker>.</hstage>
 <p id="1">
 	<s id="1">Hé !</s>
 	<s id="2">Bonjour, mademoiselle ; comment vous portez-vous ?</s>
 	<s id="3">Il y a mille ans que j’ai envie de vous venir voir, et de profiter de l’honneur de votre voisinage.</s>
 </p>
 </sp>
-<sp who="PASQUARIEL"><speaker>PASQUARIEL.</speaker>
+<sp who="PASQUARIEL"><hstage><speaker>PASQUARIEL</speaker>.</hstage>
 <p id="2">
 	<s id="1">On a dû vous dire, mademoiselle, que mon équipage s’est arrêté vingt fois à votre porte ; mais vous êtes introuvable, et toute des plus rares.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="3">
 	<s id="1">En vérité, mesdames, je suis dans la dernière confusion d’avoir si mai profité de l’honneur de votre visite.</s>
 	<s id="2">Holà !</s>
@@ -1949,13 +1949,13 @@
 </p>
 <stage>Elles se taisent toutes les trois, et recommencent à parler ensemble.</stage>
 </sp>
-<sp who="MEZZETIN"><speaker>MEZZETIN.</speaker>
+<sp who="MEZZETIN"><hstage><speaker>MEZZETIN</speaker>.</hstage>
 <p id="4">
 	<s id="1">Peut-on savoir, la belle, quels sont vos plaisirs ?</s>
 	<s id="2">Vous êtes toujours dans le grand monde ; on dit que c’est vous qui faites l’honneur du quartier.</s>
 </p>
 </sp>
-<sp who="PASQUARIEL"><speaker>PASQUARIEL.</speaker>
+<sp who="PASQUARIEL"><hstage><speaker>PASQUARIEL</speaker>.</hstage>
 <p id="5">
 	<s id="1">Mais voyez ce teint, je vous prie, madame la Comtesse.</s>
 </p>
@@ -1964,122 +1964,122 @@
 	<s id="1">Apparemment que vous l’avez pris du bon faiseur ; je n’ai jamais rien vu d’aussi charmant.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="7">
 	<s id="1">Je suis ravie, mesdames, d’avoir un voisinage aussi agréable que le vôtre.</s>
 	<s id="2">Quand vous voudrez, nous jouerons ensemble ; mais je vous avertis que je suis la plus malheureuse fille du monde.</s>
 </p>
 <stage>Elles se taisent encore.</stage>
 </sp>
-<sp who="MEZZETIN"><speaker>MEZZETIN.</speaker>
+<sp who="MEZZETIN"><hstage><speaker>MEZZETIN</speaker>.</hstage>
 <p id="8">
 	<s id="1">Nous faisons nos visites de quartier.</s>
 	<s id="2">Une charrette de foin a fait un embarras, ce qui nous a obligées de nous sauver chez Lamy, où nous avons bu chacune trois bouteilles de vin pour nous désennuyer.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="9">
 	<s id="1">Six bouteilles de vin à deux femmes !</s>
 </p>
 </sp>
-<sp who="PASQUARIEL"><speaker>PASQUARIEL.</speaker>
+<sp who="PASQUARIEL"><hstage><speaker>PASQUARIEL</speaker>.</hstage>
 <p id="10">
 	<s id="1">Il faut dire la vérité ; madame la Comtesse porte le vin comme un charme.</s>
 </p>
 </sp>
-<sp who="MEZZETIN"><speaker>MEZZETIN.</speaker>
+<sp who="MEZZETIN"><hstage><speaker>MEZZETIN</speaker>.</hstage>
 <p id="11">
 	<s id="1">Madame la Marquise veut qu’on lui rende justice, et qu’on lui dise qu’il n’y a point de Breton qu’elle ne boive par-dessous la jambe ; c’est bien le plus hardi vin de femme !</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="12">
 	<s id="1">Avec ces talents-là, mesdames, il est à présumer que vous êtes mariées en Bourgogne ou en Champagne.</s>
 </p>
 </sp>
-<sp who="MEZZETIN"><speaker>MEZZETIN.</speaker>
+<sp who="MEZZETIN"><hstage><speaker>MEZZETIN</speaker>.</hstage>
 <p id="13">
 	<s id="1">Vous ne vous trompez point.</s>
 	<s id="2">À propos de mariage, ma belle voisine, on m’a dit que vous couchiez la noce en joue.</s>
 	<s id="3">Une fille comme vous peut-elle se résoudre à cette vilenie-là ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="14">
 	<s id="1">Pour moi, madame, je ne trouve rien de vilain à faire tout ce que le monde fait, et ce que vous avez fait vous-même.</s>
 </p>
 </sp>
-<sp who="MEZZETIN"><speaker>MEZZETIN.</speaker>
+<sp who="MEZZETIN"><hstage><speaker>MEZZETIN</speaker>.</hstage>
 <p id="15">
 	<s id="1">Il est vrai ; mais je n’avais que quinze ans pour lors ; vous savez que c’est un âge terriblement scabreux pour une fille.</s>
 	<s id="2">Pourrez-vous abandonner votre taille aux accidents du mariage ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="16">
 	<s id="1">J’ai assez de peine à m’y résoudre ; mais que voulez-vous ?</s>
 	<s id="2">Il faut bien prendre le bénéfice avec les charges.</s>
 </p>
 </sp>
-<sp who="PASQUARIEL"><speaker>PASQUARIEL.</speaker>
+<sp who="PASQUARIEL"><hstage><speaker>PASQUARIEL</speaker>.</hstage>
 <p id="17">
 	<s id="1">Faites comme moi, mademoiselle ; depuis que j’ai épousé mon mari, nous ne couchons plus ensemble.</s>
 </p>
 </sp>
-<sp who="MEZZETIN"><speaker>MEZZETIN.</speaker>
+<sp who="MEZZETIN"><hstage><speaker>MEZZETIN</speaker>.</hstage>
 <p id="18">
 	<s id="1">Cela est fort bon pour vous, madame la Marquise, qui avez quantité d’enfants de votre premier lit ; mais une fille qui se marie est bien aise de savoir au juste à quoi elle est propre.</s>
 </p>
 </sp>
-<sp who="PASQUARIEL"><speaker>PASQUARIEL.</speaker>
+<sp who="PASQUARIEL"><hstage><speaker>PASQUARIEL</speaker>.</hstage>
 <p id="19">
 	<s id="1">Pour moi, je suis malheureuse en garçons ; je n’en saurais élever ; je n’en ai plus que dix-sept.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="20">
 	<s id="1">Dix-sept !</s>
 	<s id="2">En vérité, madame, l’état vous est bien obligé de lui donner tant de bons sujets.</s>
 </p>
 </sp>
-<sp who="MEZZETIN"><speaker>MEZZETIN.</speaker>
+<sp who="MEZZETIN"><hstage><speaker>MEZZETIN</speaker>.</hstage>
 <p id="21">
 	<s id="1">J’en aurais bien eu vingt-cinq ou trente, si tout était venu à profit ; mais les fausses couches ont fait de terribles brèches dans ma famille.</s>
 	<s id="2">Le dirait-on à ma taille ?</s>
 </p>
 <stage>Il se promène.</stage>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="1">
 	<s id="1">Elle est d’une finesse extraordinaire ; on croirait que vous allez rompre.</s>
 </p>
 </sp>
-<sp who="MEZZETIN"><speaker>MEZZETIN.</speaker>
+<sp who="MEZZETIN"><hstage><speaker>MEZZETIN</speaker>.</hstage>
 <p id="2">
 	<s id="1">Depuis deux ans, Dieu merci, j’en suis un peu la maîtresse ; j’ai obligé monsieur le Comte à faire lit à part ; car je suis présentement bien revenue de la bagatelle.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="3">
 	<s id="1">Et monsieur votre époux prendra-t-il toujours ce petit divorce en patience ?</s>
 </p>
 </sp>
-<sp who="MEZZETIN"><speaker>MEZZETIN.</speaker>
+<sp who="MEZZETIN"><hstage><speaker>MEZZETIN</speaker>.</hstage>
 <p id="4">
 	<s id="1">Madame, il fera comme il pourra.</s>
 </p>
 </sp>
-<sp who="PASQUARIEL"><speaker>PASQUARIEL.</speaker>
+<sp who="PASQUARIEL"><hstage><speaker>PASQUARIEL</speaker>.</hstage>
 <p id="5">
 	<s id="1">Peut-on savoir, ma chère, qui vous épousez ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="6">
 	<s id="1">Plusieurs partis me recherchent ; mais mon père me destine à un bailli du Maine, et...</s>
 </p>
 </sp>
-<sp who="PASQUARIEL"><speaker>PASQUARIEL.</speaker>
+<sp who="PASQUARIEL"><hstage><speaker>PASQUARIEL</speaker>.</hstage>
 <p id="7">
 	<s id="1">À un bailli !...</s>
 	<s id="2">À un bailli !...</s>
@@ -2091,13 +2091,13 @@
 	<s id="8">Quelle ordure !</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="8">
 	<s id="1">Comment donc, madame !</s>
 	<s id="2">Avez-vous des vapeurs ?</s>
 </p>
 </sp>
-<sp who="MEZZETIN"><speaker>MEZZETIN.</speaker>
+<sp who="MEZZETIN"><hstage><speaker>MEZZETIN</speaker>.</hstage>
 <p id="9">
 	<s id="1">Ah, mademoiselle !</s>
 	<s id="2">Vous ne deviez jamais lâcher le mot de bailli.</s>
@@ -2107,7 +2107,7 @@
 </p>
 <stage>Ils se jettent sur leurs siéges en faisant beaucoup de contorsions.</stage>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="10">
 	<s id="1">Ah !</s>
 	<s id="2">Que je suis malheureuse !</s>
@@ -2116,18 +2116,18 @@
 	<s id="5">Mes laquais, ma femme de chambre !</s>
 </p>
 </sp>
-<sp who="MEZZETIN_PASQUARIEL"><speaker>MEZZETIN et PASQUARIEL, ensemble.</speaker>
+<sp who="MEZZETIN_PASQUARIEL"><hstage><speaker>MEZZETIN</speaker> et <speaker>PASQUARIEL</speaker>, ensemble.</hstage>
 <p id="11">
 	<s id="1">Un bailli !</s>
 </p>
 <stage>À la porte ils font beaucoup de cérémonies pour passer.</stage>
 </sp>
-<sp who="PASQUARIEL"><speaker>PASQUARIEL.</speaker>
+<sp who="PASQUARIEL"><hstage><speaker>PASQUARIEL</speaker>.</hstage>
 <p id="12">
 	<s id="1">Non, madame, assurément je ne passerai pas, ou la peste m’étouffe !</s>
 </p>
 </sp>
-<sp who="MEZZETIN"><speaker>MEZZETIN.</speaker>
+<sp who="MEZZETIN"><hstage><speaker>MEZZETIN</speaker>.</hstage>
 <p id="13">
 	<s id="1">Si je passe la première, je veux que cinq cent mille diables me tordent le cou !</s>
 </p>
@@ -2135,7 +2135,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="13"><head>SCÈNE XIII.</head>
-<sp who="COLOMBINE"><speaker>COLOMBINE, seule.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>, seule.</hstage>
 <p id="1">
 	<s id="1">Non, je ne crois pas que de mémoire d’homme on ait reçu une visite aussi impertinente.</s>
 	<s id="2">Elles n’ont que faire de me tant dégoûter du bailli ; si je l’épouse, ce ne sera qu’à mon corps défendant.</s>
@@ -2143,9 +2143,9 @@
 <stage>Il y a ici quelques scènes italiennes, dans lesquelles Mezzetin et Pasquariel rendent compte à Octave du succès de leurs fourberies ; celui ci les engage à ne pas s’en tenir là, et l’on concerte de se déguiser en Bohémiens, d’aller trouver Arlequin, et de lui dire sa bonne aventure. Ces scènes préparent les scènes françaises suivantes.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="14"><head>SCÈNE XIV. Arlequin, Mezzetin, Pasquariel, Deux Bohémiens, suite de Bohémiens.</head>
+<div2 type="scene" n="14"><head>SCÈNE XIV.</head><cast>Arlequin, Mezzetin, Pasquariel, Deux Bohémiens, suite de Bohémiens.</cast>
 <stage>Mezzetin et Pasquariel, déguisés en Bohémiens, abordent Arlequin, dansent et chantent autour de lui.</stage>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="1">
 	<s id="1">Quand vous serez las de chanter, vous me direz peut-être ce que vous me voulez.</s>
 </p>
@@ -2156,25 +2156,25 @@
 </p>
 <stage>Il montre les deux Bohémiennes.</stage>
 </sp>
-<sp who="MEZZETIN"><speaker>MEZZETIN.</speaker>
+<sp who="MEZZETIN"><hstage><speaker>MEZZETIN</speaker>.</hstage>
 <p id="3">
 	<s id="1">Monsieur, ce sont des filles surnaturelles, qui connaissent les astres, les langues, et tout ce qu’il y a de plus extraordinaire au monde et hors du monde ; elles ne parlent qu’en vers : enfin, ce sont des filles d’un mérite sublime.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="4">
 	<s id="1">Puisque ces créatures -là savent tant de belles choses, elles pourront donc bien me déterminer sur un mariage ?</s>
 </p>
 </sp>
-<sp who="MEZZETIN"><speaker>MEZZETIN.</speaker>
+<sp who="MEZZETIN"><hstage><speaker>MEZZETIN</speaker>.</hstage>
 <p id="5">
 	<s id="1">Vous ne pouvez pas mieux vous adresser.</s>
 </p>
 <stage>Il s’en va en chantant avec sa troupe.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="15"><head>SCÈNE XV. Arlequin, les deux Bohémiennes.</head>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, se mettant an milieu d’elles.</speaker>
+<div2 type="scene" n="15"><head>SCÈNE XV.</head><cast>Arlequin, les deux Bohémiennes.</cast>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, se mettant an milieu d’elles.</hstage>
 	<l id="34">Mesdames, pour venir à la conclusion,</l>
 	<l id="35">Vous saurez que je sens une convulsion,</l>
 	<l id="36">Un appétit, nommé vapeurs de mariage ;</l>
@@ -2190,34 +2190,34 @@
 	<l id="42">Vous m’entendez donc bien : enfin, sans tant parler,</l>
 	<l id="43">(Car cela vous fait mal) devrais-je convoler ?</l>
 </sp>
-<sp who="PREMIÈRE-BOHEMIÉNNE"><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
+<sp who="PREMIÈRE-BOHEMIÉNNE"><hstage><speaker>PREMIÈRE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="44" part="i">Oui.</l>
 </sp>
-<sp who="SECONDE-BOHEMIÉNNE"><speaker>SECONDE BOHEMIÉNNE.</speaker>
+<sp who="SECONDE-BOHEMIÉNNE"><hstage><speaker>SECONDE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="44" part="m">Non.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="44" part="m">Comment ?</l>
 </sp>
-<sp who="PREMIÈRE-BOHEMIÉNNE"><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
+<sp who="PREMIÈRE-BOHEMIÉNNE"><hstage><speaker>PREMIÈRE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="44" part="m">Oui.</l>
 </sp>
-<sp who="SECONDE-BOHEMIÉNNE"><speaker>SECONDE BOHEMIÉNNE.</speaker>
+<sp who="SECONDE-BOHEMIÉNNE"><hstage><speaker>SECONDE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="44" part="m">Non.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="44" part="f">Quelle peste de gamme !</l>
 </sp>
-<sp who="PREMIÈRE-BOHEMIÉNNE"><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
+<sp who="PREMIÈRE-BOHEMIÉNNE"><hstage><speaker>PREMIÈRE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="45">C’est manquer de bon sens que de vivre sans femme.</l>
 </sp>
-<sp who="SECONDE-BOHEMIÉNNE"><speaker>SECONDE BOHEMIÉNNE.</speaker>
+<sp who="SECONDE-BOHEMIÉNNE"><hstage><speaker>SECONDE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="46">Et pour se marier, il faut être archi-fou.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="47">Celle-ci, par ma foi, lui rive bien son clou.</l>
 </sp>
-<sp who="PREMIÈRE-BOHEMIÉNNE"><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
+<sp who="PREMIÈRE-BOHEMIÉNNE"><hstage><speaker>PREMIÈRE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="48">Oui, l’hymen est des dieux le plus parfait ouvrage ;</l>
 	<l id="49">C’est le port assuré: dans le libertinage,</l>
 	<l id="50">Le nœud qui nous unit avec de doux accords,</l>
@@ -2227,13 +2227,13 @@
 	<l id="54">Des blessures du cœur l’appareil souverain,</l>
 	<l id="55">Et la forge, en un mot, de tout le genre humain.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="56">J’en connais bien pourtant de plus d’une fabrique,</l>
 	<l id="57">Qui ne furent jamais faits dans cette boutique ;</l>
 	<l id="58">Enfants du pur hasard ; et, sans aller plus loin,</l>
 	<l id="59">J’en trouverais peut-être ici plus d’un témoin.</l>
 </sp>
-<sp who="SECONDE-BOHEMIÉNNE"><speaker>SECONDE BOHEMIÉNNE.</speaker>
+<sp who="SECONDE-BOHEMIÉNNE"><hstage><speaker>SECONDE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="60">Non, l’hymen, quel qu’il soit, est un dur esclavage,</l>
 	<l id="61">Une mer où l’honneur bien souvent fait naufrage,</l>
 	<l id="62">Un grand chemin rempli de voleurs dangereux,</l>
@@ -2243,10 +2243,10 @@
 	<l id="66">C’est l’écueil du plaisir : pour tout dire en un mot,</l>
 	<l id="67">C’est une souricière où l’on attrape un sot.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, à la première Bohémienne.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, à la première Bohémienne.</hstage>
 	<l id="68">Cet avis, à mon goût, vaut bien l’autre, madame.</l>
 </sp>
-<sp who="PREMIÈRE-BOHEMIÉNNE"><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
+<sp who="PREMIÈRE-BOHEMIÉNNE"><hstage><speaker>PREMIÈRE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="69">Un homme ne saurait vivre content sans femme ;</l>
 	<l id="70">Sans elle une maison irait tout de travers :</l>
 	<l id="71">Elle sait du destin partager les revers ;</l>
@@ -2257,10 +2257,10 @@
 	<l id="75">La beauté fut son lot, l’esprit son apanage,</l>
 	<l id="76">La vertu son domaine, et l’honneur son partage.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="77">Oui, cela se disait du temps de Jean-de-Vert.</l>
 </sp>
-<sp who="SECONDE-BOHEMIÉNNE"><speaker>SECONDE BOHEMIÉNNE.</speaker>
+<sp who="SECONDE-BOHEMIÉNNE"><hstage><speaker>SECONDE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="78">Plutôt que prendre femme, épousez un désert :</l>
 	<l id="79">Par elle une maison va tout en décadence ;</l>
 	<l id="80">Elle ne met jamais de frein à sa dépense ;</l>
@@ -2272,12 +2272,12 @@
 	<l id="86">L’inconstance en tout temps ou l’escorte ou la suit,</l>
 	<l id="87">Et la vengeance, enfin, est toujours devant elle.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="88">Oh ! Vous avez raison ; je sais qu’une femelle</l>
 	<l id="89">Qui prétend se venger d’un époux offensif,</l>
 	<l id="90">Devient des animaux le plus vindicatif.</l>
 </sp>
-<sp who="PREMIÈRE-BOHEMIÉNNE"><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
+<sp who="PREMIÈRE-BOHEMIÉNNE"><hstage><speaker>PREMIÈRE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="91">Quand on la nomme un mal et doux et nécessaire,</l>
 	<l id="92">C’est qu’on lui voit toujours quelque vertu pour plaire ;</l>
 	<l id="93">Si le ciel ne l’a pas faite avec un beau corps,</l>
@@ -2289,11 +2289,11 @@
 	<l id="99">Dans une femme, enfin, toujours quelque mérite</l>
 	<l id="100">De ses petits défauts aisément nous racquitte.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="101">Qui nous racquittera, dites-nous, s’il vous plaît,</l>
 	<l id="102">Lorsque de notre honneur elle tire intérêt ?</l>
 </sp>
-<sp who="SECONDE-BOHEMIÉNNE"><speaker>SECONDE BOHEMIÉNNE.</speaker>
+<sp who="SECONDE-BOHEMIÉNNE"><hstage><speaker>SECONDE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="103">Si de quelques vertus les femmes sont pourvues,</l>
 	<l id="104">Ces vertus de défauts sont souvent corrompues ;</l>
 	<l id="105">La belle est toujours bête, ou croit qu’un teint fleuri</l>
@@ -2307,74 +2307,74 @@
 	<l id="113">C’est-à-dire attentive à l’amant qui languit,</l>
 	<l id="114">Et vous savez, casta quam nemo rogavit.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="115">Voilà, je vous l’avoue, un extrait de sorcière,</l>
 	<l id="116">Que les femmes devraient jeter dans la rivière :</l>
 	<l id="117" part="i">Elle en dit peu de bien.</l>
 </sp>
-<sp who="SECONDE-BOHEMIÉNNE"><speaker>SECONDE BOHEMIÉNNE.</speaker>
+<sp who="SECONDE-BOHEMIÉNNE"><hstage><speaker>SECONDE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="117" part="f">Touchez là, j’en dirai,</l>
 	<l id="118">Foi de fille d’honneur, sitôt que j’en saurai.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, à la première Bohémienne.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, à la première Bohémienne.</hstage>
 	<l id="119">Mais parlez-moi français ;... là, si je me marie,</l>
 	<l id="120" part="i">Ne serai-je point,... là...</l>
 </sp>
-<sp who="PREMIÈRE-BOHEMIÉNNE"><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
+<sp who="PREMIÈRE-BOHEMIÉNNE"><hstage><speaker>PREMIÈRE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="120" part="m">Quoi, là ?</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="120" part="f">Je vous en prie,</l>
 	<l id="121" part="i">Ne me déguisez rien.</l>
 </sp>
-<sp who="PREMIÈRE-BOHEMIÉNNE"><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
+<sp who="PREMIÈRE-BOHEMIÉNNE"><hstage><speaker>PREMIÈRE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="121" part="m">Quoi donc ?</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="121" part="f">Là, ce qu’était</l>
 	<l id="122">Peut-être votre époux dans le temps qu’il vivait.</l>
 </sp>
-<sp who="PREMIÈRE-BOHEMIÉNNE"><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
+<sp who="PREMIÈRE-BOHEMIÉNNE"><hstage><speaker>PREMIÈRE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="123">Voilà donc l’enclouure et le mot péremptoire :</l>
 	<l id="124">Sur ce point douloureux on en fait bien accroire,</l>
 	<l id="125">Et l’on en dit bien plus qu’on n’en fait à Paris ;</l>
 	<l id="126">Ce sont là des terreurs pour les petits esprits...</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="127" part="i">Et pour les grands parfois.</l>
 </sp>
-<sp who="PREMIÈRE-BOHEMIÉNNE"><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
+<sp who="PREMIÈRE-BOHEMIÉNNE"><hstage><speaker>PREMIÈRE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="127" part="f">Des visions cornues</l>
 	<l id="128">Que les hommes vont mettre en leurs têtes fourchues.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="129">Ce sont elles, morbleu, qui nous les plantent là,</l>
 	<l id="130" part="i">De par Belzébuth.</l>
 </sp>
-<sp who="PREMIÈRE-BOHEMIÉNNE"><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
+<sp who="PREMIÈRE-BOHEMIÉNNE"><hstage><speaker>PREMIÈRE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="130" part="f">Bon ! Approchez, venez çà ;</l>
 	<l id="131">Regardez-moi bien. Non, vous n’avez point la mine</l>
 	<l id="132">De recevoir échec de la gent féminine.</l>
 	<l id="133" part="i">Vous êtes beau, joli, bien fait...</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="133" part="f">Assurément.</l>
 </sp>
-<sp who="PREMIÈRE-BOHEMIÉNNE"><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
+<sp who="PREMIÈRE-BOHEMIÉNNE"><hstage><speaker>PREMIÈRE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="134">Vous avez de l’esprit, le port fier, l’air charmant ;</l>
 	<l id="135" part="i">Allez, ne craignez rien.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="135" part="f">Mauvaise sauvegarde</l>
 	<l id="136">Contre les accidents qu’une femme vous garde.</l>
 </sp>
-<sp who="SECONDE-BOHEMIÉNNE"><speaker>SECONDE BOHEMIÉNNE.</speaker>
+<sp who="SECONDE-BOHEMIÉNNE"><hstage><speaker>SECONDE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="137">Moi je dis, à vous voir seulement par le dos...</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="138" part="i">Ah, ciel ! Nous y voilà.</l>
 </sp>
-<sp who="SECONDE-BOHEMIÉNNE"><speaker>SECONDE BOHEMIÉNNE.</speaker>
+<sp who="SECONDE-BOHEMIÉNNE"><hstage><speaker>SECONDE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="138" part="f">Je vous dis en deux mots</l>
 	<l id="139">Que vous avez tout l’air, la physionomie,</l>
 	<l id="140">L’œil, le nez, la façon, la métoposcopie</l>
@@ -2383,15 +2383,15 @@
 	<l id="143">Vos aspects sont malins, vous avez le front large ;</l>
 	<l id="144">Vous me portez tout l’air d’en avoir une charge.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="145" part="i">Ah ! Je sens déjà là...</l>
 <stage>Il se touche la tête.</stage>
 </sp>
-<sp who="PREMIÈRE-BOHEMIÉNNE"><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
+<sp who="PREMIÈRE-BOHEMIÉNNE"><hstage><speaker>PREMIÈRE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="145" part="f">Animal défiant,</l>
 	<l id="146" part="i">Vous croyez donc...</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="146" part="f">Ma foi ! Je crois à l’ascendant.</l>
 	<l id="147">Ce grand front, cet aspect... Dans cette conjoncture,</l>
 	<l id="148">Je crains bien de payer un jour avec usure</l>
@@ -2403,57 +2403,57 @@
 	<l id="154">À bâtir sur son fonds que sur un étranger.</l>
 	<l id="155">Je ne tâterai point de la cérémonie.</l>
 </sp>
-<sp who="PREMIÈRE-BOHEMIÉNNE"><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
+<sp who="PREMIÈRE-BOHEMIÉNNE"><hstage><speaker>PREMIÈRE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="156">Vous n’en tâterez point ! Halte-là, je vous prie.</l>
 </sp>
-<sp who="SECONDE-BOHEMIÉNNE"><speaker>SECONDE BOHEMIÉNNE.</speaker>
+<sp who="SECONDE-BOHEMIÉNNE"><hstage><speaker>SECONDE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="157" part="i">Point de femme, morbleu !</l>
 </sp>
-<sp who="PREMIÈRE-BOHEMIÉNNE"><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
+<sp who="PREMIÈRE-BOHEMIÉNNE"><hstage><speaker>PREMIÈRE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="157" part="f">Si vous n’en prenez pas,</l>
 	<l id="158" part="i">Vous n’avez pas encor trois jours à vivre.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="158" part="f">Hélas !</l>
 </sp>
-<sp who="SECONDE-BOHEMIÉNNE"><speaker>SECONDE BOHEMIÉNNE.</speaker>
+<sp who="SECONDE-BOHEMIÉNNE"><hstage><speaker>SECONDE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="159">Et si vous en prenez, moi, je vous signifie</l>
 	<l id="160">Que demain, au plus tard, vous n’êtes pas en vie.</l>
 <stage>Elles le prennent chacune par une manche de son habit.</stage>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="161">C’en est fait, je suis mort ! Je n’en puis revenir.</l>
 	<l id="162">Prédiseuses du diable, ah ! Laissez-moi partir.</l>
 </sp>
-<sp who="PREMIÈRE-BOHEMIÉNNE"><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
+<sp who="PREMIÈRE-BOHEMIÉNNE"><hstage><speaker>PREMIÈRE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="163">Avant de vous quitter, il faut que je vous voie</l>
 	<l id="164" part="i">À côté d’une femme.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="164" part="f">Ah ! Plutôt qu’on me noie !</l>
 </sp>
-<sp who="SECONDE-BOHEMIÉNNE"><speaker>SECONDE BOHEMIÉNNE.</speaker>
+<sp who="SECONDE-BOHEMIÉNNE"><hstage><speaker>SECONDE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="165">Pour vous laisser, je veux vous mettre hors d’état</l>
 	<l id="166">De pouvoir à jamais sortir du célibat.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="167">N’en faites rien ; je suis le dernier de ma race.</l>
 </sp>
-<sp who="PREMIÈRE-BOHEMIÉNNE"><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
+<sp who="PREMIÈRE-BOHEMIÉNNE"><hstage><speaker>PREMIÈRE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="168" part="i">Que de bruit !</l>
 </sp>
-<sp who="SECONDE-BOHEMIÉNNE"><speaker>SECONDE BOHEMIÉNNE.</speaker>
+<sp who="SECONDE-BOHEMIÉNNE"><hstage><speaker>SECONDE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="168" part="m">Qu’on me suive.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="168" part="f">Hé ! Mesdames, de grâce !</l>
 	<l id="169">Un accord : je serai six mois de l’an garçon,</l>
 	<l id="170" part="i">Et six mois marié.</l>
 </sp>
-<sp who="PREMIÈRE-BOHEMIÉNNE"><speaker>PREMIÈRE BOHEMIÉNNE.</speaker>
+<sp who="PREMIÈRE-BOHEMIÉNNE"><hstage><speaker>PREMIÈRE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="170" part="m">Marchez.</l>
 </sp>
-<sp who="SECONDE-BOHEMIÉNNE"><speaker>SECONDE BOHEMIÉNNE.</speaker>
+<sp who="SECONDE-BOHEMIÉNNE"><hstage><speaker>SECONDE BOHEMIÉNNE</speaker>.</hstage>
 	<l id="170" part="f">Que de façon !</l>
 <stage>Elles le tiraillent de façon qu’elles emportent chacune une manche de son habit. Il crie au voleur. D’autres Bohémiens l’entourent, dansent autour de lui et le volent.</stage>
 </sp>
@@ -2461,64 +2461,64 @@
 </div1>
 <div1 type="" n="3"><head>ACTE III</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="COLOMBINE"><speaker>COLOMBINE, seule.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>, seule.</hstage>
 <p id="1">
 	<s id="1">Je n’entends point parler de notre bailli ; il faut que le traité de cette charge de marquis l’arrête chez quelque notaire.</s>
 	<s id="2">Il n’en est pas encore où il pense ; je lui garde le meilleur pour le dernier.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Colombine, un Laquais.</head>
-<sp who="LE-LAQUAIS"><speaker>LE LAQUAIS.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Colombine, un Laquais.</cast>
+<sp who="LE-LAQUAIS"><hstage><speaker>LE LAQUAIS</speaker>.</hstage>
 <p id="1">
 	<s id="1">Mademoiselle, voilà un bel esprit qui monte, madame Pindaret.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Colombine, Mme Pindaret.</head>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Colombine, Mme Pindaret.</cast>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="2">
 	<s id="1">Ah, ma chère belle !</s>
 	<s id="2">Que je suis heureuse de vous rencontrer !</s>
 	<s id="3">Car vous êtes la fille de France la plus introuvable.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="3">
 	<s id="1">On ne m’a point dit, madame, que vous m’ayez fait cet honneur-là.</s>
 	<s id="2">Il est vrai que j’ai le domestique du monde le plus brutal : qu’une femme de qualité me vienne voir, on ne m’en dit rien ; qu’une procureuse frappe à ma porte, on vient m’en faire la honte en pleine compagnie.</s>
 </p>
 </sp>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="4">
 	<s id="1">En vérité, mademoiselle, il faut que votre train soit travaillé d’un prodigieux dévoiement de mémoire ; oui, je crois que je suis venue ici plus de dix fois depuis les calendes du mois dernier.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Comment dites-vous cela, s’il vous plaît ?</s>
 	<s id="2">Les cal...</s>
 </p>
 </sp>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="6">
 	<s id="1">Les calendes, mademoiselle ; c’est la manière de compter des Romains, et la mienne.</s>
 	<s id="2">Si ma servante datait sa dépense autrement, elle ne coucherait pas chez moi deux jours de suite.</s>
 	<s id="3">Je veux de l’érudition jusque dans ma cuisine.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="7">
 	<s id="1">Que vous êtes heureuse, madame, de savoir tant de belles choses !</s>
 	<s id="2">Si j’avais l’avantage de vous voir souvent, je crois que je deviendrais une habile fille.</s>
 </p>
 </sp>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="8">
 	<s id="1">Il faut dire la vérité ; on se décrasse en ma compagnie, et tout le monde avoue que je n’ai point la conversation roturière.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="9">
 	<s id="1">Ah ! Que cela est bien dit !</s>
 	<s id="2">La conversation roturière !</s>
@@ -2526,18 +2526,18 @@
 	<s id="4">Si vous ne vous ménagez, vous n’en aurez jamais assez pour le reste de vos jours.</s>
 </p>
 </sp>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="10">
 	<s id="1">Bon !</s>
 	<s id="2">Cela ne coûte rien à une femme comme moi, qui se joue des auteurs ; j’entretiens commerce avec les anciens, et je fraye aussi avec les modernes.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="11">
 	<s id="1">Avec les anciens, madame !</s>
 </p>
 </sp>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="12">
 	<s id="1">Assurément, mademoiselle ; j’en attrape assez le vrai, et je veux vous faire voir quelle est ma lecture quotidienne.</s>
 	<s id="2">Laquais !</s>
@@ -2545,29 +2545,29 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Mme Pindaret, Colombine, un Laquais, de madame Pindaret.</head>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Mme Pindaret, Colombine, un Laquais, de madame Pindaret.</cast>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="1">
 	<s id="1">Donnez-moi mon Juvénal.</s>
 </p>
 </sp>
-<sp who="LE-LAQUAIS"><speaker>LE LAQUAIS.</speaker>
+<sp who="LE-LAQUAIS"><hstage><speaker>LE LAQUAIS</speaker>.</hstage>
 <p id="2">
 	<s id="1">Qu’est-ce que c’est, madame, que votre Juvénal ?</s>
 </p>
 </sp>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="3">
 	<s id="1">Ce livre in-quarto que je vous ai donné tantôt.</s>
 </p>
 </sp>
-<sp who="LE-LAQUAIS"><speaker>LE LAQUAIS.</speaker>
+<sp who="LE-LAQUAIS"><hstage><speaker>LE LAQUAIS</speaker>.</hstage>
 <p id="4">
 	<s id="1">À moi, madame, un quartaut !</s>
 	<s id="2">Vous ne m’avez donné ni quartaut ni bouteille.</s>
 </p>
 </sp>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="5">
 	<s id="1">Eh !</s>
 	<s id="2">Le petit ignorant !</s>
@@ -2575,99 +2575,99 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Mme Pindaret, Colombine.</head>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Mme Pindaret, Colombine.</cast>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="1">
 	<s id="1">Je prends toujours la précaution de me faire escorter de ce livre-là, quand je vais en visite de femmes, pour me dédommager des minuties de leur conversation.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Voilà ce qui s’appelle mettre à profit jusqu’à son ennui.</s>
 </p>
 </sp>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="3">
 	<s id="1">Êtes-vous comme moi, ma chère ?</s>
 	<s id="2">Toutes les visites de femmes me donnent la colique.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Non, madame, je ne suis point d’une complexion si délicate.</s>
 	<s id="2">À vous dire le vrai, j’aime beaucoup mieux la conversation des hommes, et je voudrais parfois qu’il n’y eût que moi de femme au monde.</s>
 </p>
 </sp>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="5">
 	<s id="1">Vous auriez de la chalandise.</s>
 	<s id="2">J’allai voir, il y a quelque temps, une marquise ; je ne fus qu’un quart d’heure avec elle, c’était pendant la canicule : sa conversation ne laissa pas de m’enrhumer si fort, que je me suis mise au gruau pendant trois semaines pour en revenir.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="6">
 	<s id="1">Cela étant, madame, quand vous allez en visite de marquise, de crainte de vous enrhumer une seconde fois, il faudrait faire porter un manteau fourré avec votre Juvénal.</s>
 </p>
 </sp>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="7">
 	<s id="1">Vous ne sauriez vous imaginer jusqu’où va l’ignorance de cette femme-là.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="8">
 	<s id="1">Une femme de qualité ignorante !</s>
 	<s id="2">Vous me surprenez.</s>
 </p>
 </sp>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="9">
 	<s id="1">Ignorantissime !</s>
 	<s id="2">Croiriez-vous ?...</s>
 	<s id="3">Mais non ; cela n’entre point dans l’esprit.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="10">
 	<s id="1">Mais encore ?</s>
 </p>
 </sp>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="11">
 	<s id="1">Croiriez-vous qu’elle ne put jamais me dire dans quelle olympiade mourut Épaminondas ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="12">
 	<s id="1">Ah, ciel !</s>
 	<s id="2">Quelle ignorance !</s>
 	<s id="3">En vérité, madame, vous fûtes bien heureuse d’en être quitte pour un rhume ; cela valait bien la peine de tomber en apoplexie.</s>
 </p>
 </sp>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="13">
 	<s id="1">Il ne tint qu’à moi.</s>
 	<s id="2">À propos, mademoiselle, avec-vous vu mon madrigal ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="14">
 	<s id="1">Non, madame ; cela n’est pas venu jusqu’à moi.</s>
 </p>
 </sp>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="15">
 	<s id="1">Vous n’êtes donc pas de ce monde ?</s>
 	<s id="2">C’est une pièce qui a déjà souffert la troisième édition, et qui a marié les trois filles de mon libraire.</s>
 	<s id="3">Je vais vous le lire.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="16">
 	<s id="1">Vous me ferez, je vous assure, un sensible plaisir.</s>
 </p>
 </sp>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET, parcourant plusieurs papiers.</speaker>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>, parcourant plusieurs papiers.</hstage>
 <p id="17">
 	<s id="1">Ce n’est pas cela ; c’est un rondeau sur une absence, que je laisse quelque temps mitonner sur le réchaud de la réflexion...</s>
 	<s id="2">Ni cela ; c’est la vie de Thémistocle, en vers burlesques.</s>
@@ -2683,13 +2683,13 @@
 	<s id="1">Vous entendez bien cela ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="20">
 	<s id="1">Oh !</s>
 	<s id="2">Oui, cela s’entend de reste ; peu s’en faut que je ne le sente.</s>
 </p>
 </sp>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET continue de lire.</speaker>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker> continue de lire.</hstage>
 	<l id="171">Quoi ! Pour avoir laissé sauver un prisonnier</l>
 	<l id="172">Qui n’a de voix que pour crier,</l>
 	<l id="173">Votre cœur fait la pirouette,</l>
@@ -2698,42 +2698,42 @@
 	<l id="176">Que ce cœur est si girouette,</l>
 	<l id="177">Qu’il change au moindre petit vent.</l>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="21">
 	<s id="1">Ah, madame !</s>
 	<s id="2">Quel merveilleux talent vous avez pour la poésie !</s>
 </p>
 </sp>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="22">
 	<s id="1">J’ai d’assez belles humanités, comme vous voyez ; mais je vais me donner à la physique.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="23">
 	<s id="1">À la physique, madame !</s>
 </p>
 </sp>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="24">
 	<s id="1">Oui, mademoiselle. C’est une des plus nobles sciences qu’il y ait ; elle a pour objet tout ce qui tombe sous les sens, et par conséquent, le corps humain, qui est la plus belle et la plus parfaite de toutes les structures humaines.</s>
 	<s id="2">Adieu, mademoiselle ; je sens que ma colique veut me reprendre.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="25">
 	<s id="1">Quoi !</s>
 	<s id="2">Si tôt, madame !</s>
 </p>
 </sp>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="26">
 	<s id="1">Je ne me prostitue jamais à une longue conversation, et j’aime les visites brèves et laconiques.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Arlequin, en marquis ridicule, Colombine, Mme Pindaret.</head>
-<sp who="ARELQUIN"><speaker>ARLEQUIN entre en chantant et dansant.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Arlequin, en marquis ridicule, Colombine, Mme Pindaret.</cast>
+<sp who="ARELQUIN"><hstage><speaker>ARLEQUIN</speaker> entre en chantant et dansant.</hstage>
 <p id="27">
 	<s id="1">Hé bien, morbleu !</s>
 	<s id="2">Madame, les airs de cour nous sont-ils naturels ?</s>
@@ -2751,38 +2751,38 @@
 	<s id="1">Je veux tracer un menuet avec vous.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="30">
 	<s id="1">Je vous prie, monsieur, de m’en dispenser ; je suis d’une fatigue outrée, et voilà huit nuits de suite que je cours le bal.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="31">
 	<s id="1">Il faut donc que madame danse à votre place ?</s>
 </p>
 </sp>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="32">
 	<s id="1">Moi, monsieur !</s>
 	<s id="2">Excusez-moi, s’il vous plaît ; je ne danse point, je fais des vers.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="33">
 	<s id="1">Parbleu !</s>
 	<s id="2">Madame, vous danserez en vers, ou vous crèverez en prose.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="34">
 	<s id="1">Allons, courage, madame ; voulez-vous qu’on envoie quérir votre Juvénal ?</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN danse avec madame Pindaret.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker> danse avec madame Pindaret.</hstage>
 	<l id="178">Madame Pindaret se laisse tomber.</l>
 	<l id="179">Voilà un vers à qui il manque un pied.</l>
 </sp>
-<sp who="MADAME-PINDARET"><speaker>MADAME PINDARET.</speaker>
+<sp who="MADAME-PINDARET"><hstage><speaker>MADAME PINDARET</speaker>.</hstage>
 <p id="35">
 	<s id="1">Ah, ah !</s>
 	<s id="2">Voilà un menuet qui m’a mise sur les dents.</s>
@@ -2791,24 +2791,24 @@
 	<s id="5">Souffrez, mademoiselle, que je vous quitte pour aller me mettre au lit.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="36">
 	<s id="1">Adieu, madame ; allez vous faire tirer trois palettes d’épigrammes de la veine poétique.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Arlequin, Colombine.</head>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Arlequin, Colombine.</cast>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="1">
 	<s id="1">Hé bien, mademoiselle, ne vous avais-je pas bien dit qu’il n’y avait guère de marquis plus ridicule que moi ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="2">
 	<s id="1">À vous sincèrement, pour un marquis de nouvelle impression, vous ne jouez pas mal votre rôle, et l’on croirait que vous l’auriez étudié toute votre vie.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="3">
 	<s id="1">Étudié !</s>
 	<s id="2">Moi, étudié !</s>
@@ -2819,12 +2819,12 @@
 	<s id="7">À peine sais-je écrire mon nom !</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Vous voulez vous divertir ; je sais ce que je dois croire, et j’appelle de votre modestie.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="5">
 	<s id="1">Cela est, parbleu, comme je vous le dis ; et je veux que le diable m’emporte si jamais j’ai eu d’autres livres qu’un almanach avec un Parfait Maréchal.</s>
 	<s id="2">Bon !</s>
@@ -2833,13 +2833,13 @@
 </p>
 <stage>Il se promène.</stage>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="6">
 	<s id="1">Mais où allez-vous donc ?</s>
 	<s id="2">Vous avez des inquiétudes horribles dans les jambes, et vous ne sauriez vous tenir un moment en place.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="7">
 	<s id="1">Ma foi, mademoiselle, il faut du plain-pied à un marquis.</s>
 	<s id="2">Je voudrais que vous vissiez à la Comédie le terrain que j’occupe sur le théâtre.</s>
@@ -2848,12 +2848,12 @@
 	<s id="5">Il n’y a que le théâtre de l’Opéra où je me trouve un peu en brassière ; je n’y saurais pirouetter à ma fantaisie.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="8">
 	<s id="1">C’est-à-dire que vous n’oseriez pas y faire le fanfaron comme ailleurs.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="9">
 	<s id="1">Je suis pourtant toujours sur le bord du théâtre.</s>
 	<s id="2">Il y a longtemps que j’ai secoué la pudeur de ces demi-gens de qualité qui commencent à se donner au public.</s>
@@ -2862,36 +2862,36 @@
 	<s id="5">Sur l’orchestre.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="10">
 	<s id="1">Je ne sais pas, pour moi, quel plaisir prennent certaines gens, à la Comédie, de venir étouffer un acteur jusque sur les chandelles.</s>
 	<s id="2">Comment voulez-vous qu’un pauvre diable de comédien se fasse entendre au bout d’une salle ?</s>
 	<s id="3">Il faut donc qu’il crève ?</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="11">
 	<s id="1">Parbleu !</s>
 	<s id="2">Qu’il crève s’il veut ; il est payé pour cela.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="12">
 	<s id="1">Mais, de bonne foi, monsieur le Marquis, croyez-vous que ce soit pour voir peigner votre perruque, prendre du tabac, et faire votre carrousel sur le théâtre, que le parterre donne ses quinze sols ?</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="13">
 	<s id="1">N’est-ce pas bien de l’honneur pour lui de voir des gens de qualité ?</s>
 	<s id="2">Ma foi, quand il n’aurait que ce plaisir-là, cela vaut bien une mauvaise comédie.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="14">
 	<s id="1">Assurément ; c’est ce qui fait qu’il s’est mis en droit de vous siffler aussi bien que les méchantes pièces.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="15">
 	<s id="1">Il est vrai que le parterre devient terriblement orgueilleux : ce sont ces Italiens qui ont achevé de le gâter.</s>
 	<s id="2">Savez-vous bien que cet été ils l’ont traité de monseigneur dans un placet ?</s>
@@ -2899,14 +2899,14 @@
 	<s id="4">J’enrage !</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="16">
 	<s id="1">Vous avez beau pester, le parterre fait du bien à tout le monde ; il redresse les auteurs, il tient les comédiens en haleine ; un fat ne se campe point impunément devant lui sur les bancs du théâtre : en un mot, c’est l’étrille de tous ceux qui exposent leurs sottises au public.</s>
 	<s id="2">Que ne vous mettez-vous dans les loges ?</s>
 	<s id="3">On ne vous examinera pas de si près.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="17">
 	<s id="1">Moi, dans les loges !</s>
 	<s id="2">Je vous baise les mains : je n’entends point la comédie dans une loge comme un sansonnet ; je veux, morbleu !</s>
@@ -2914,25 +2914,25 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Arlequin, Colombine, un Laquais.</head>
-<sp who="LE-LAQUAIS"><speaker>LE LAQUAIS.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Arlequin, Colombine, un Laquais.</cast>
+<sp who="LE-LAQUAIS"><hstage><speaker>LE LAQUAIS</speaker>.</hstage>
 <p id="18">
 	<s id="1">Mademoiselle, voilà votre couturière.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Arlequin, Colombine, Margot.</head>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>Arlequin, Colombine, Margot.</cast>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="1">
 	<s id="1">Hé bien, Margot, m’apportez-vous mon manteau ?</s>
 </p>
 </sp>
-<sp who="MARGOT"><speaker>MARGOT.</speaker>
+<sp who="MARGOT"><hstage><speaker>MARGOT</speaker>.</hstage>
 <p id="2">
 	<s id="1">Oui, mademoiselle j’espère qu’il vous habillera parfaitement bien : depuis que je travaille, je n’ai jamais vu d’habit si bien taillé.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="3">
 	<s id="1">Ni moi de fille si ragoûtante.</s>
 	<s id="2">Voilà, mordi !</s>
@@ -2940,22 +2940,22 @@
 	<s id="4">Écoutez, ma fille, où demeurez-vous ?</s>
 </p>
 </sp>
-<sp who="MARGOT"><speaker>MARGOT.</speaker>
+<sp who="MARGOT"><hstage><speaker>MARGOT</speaker>.</hstage>
 <p id="4">
 	<s id="1">Pas loin d’ici.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="5">
 	<s id="1">Tant mieux.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE prend le manteau.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker> prend le manteau.</hstage>
 <p id="6">
 	<s id="1">Vous voulez bien, monsieur le Marquis ; me permettre d’essayer mon manteau ?</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="7">
 	<s id="1">Oui-da, mademoiselle ; vous pouvez vous habiller jusqu’à la chemise inclusivement.</s>
 </p>
@@ -2966,103 +2966,103 @@
 </p>
 <stage>Il veut lever sa coiffe ; Margot se défend.</stage>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="9">
 	<s id="1">Allons donc, monsieur le Marquis, soyez sage.</s>
 	<s id="2">Que ne vous laissez-vous voir aussi, Margot, vous qui êtes si jolie ?</s>
 </p>
 </sp>
-<sp who="MARGOT"><speaker>MARGOT.</speaker>
+<sp who="MARGOT"><hstage><speaker>MARGOT</speaker>.</hstage>
 <p id="10">
 	<s id="1">Je n’oserais, mademoiselle.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="11">
 	<s id="1">Pourquoi ?</s>
 </p>
 </sp>
-<sp who="MARGOT"><speaker>MARGOT.</speaker>
+<sp who="MARGOT"><hstage><speaker>MARGOT</speaker>.</hstage>
 <p id="12">
 	<s id="1">C’est que monsieur Harpillon m’a défendu de regarder les hommes ; et il serait fâché s’il savait que je me fusse montrée.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="13">
 	<s id="1">Qui est donc ce monsieur Harpillon ?</s>
 </p>
 </sp>
-<sp who="MARGOT"><speaker>MARGOT.</speaker>
+<sp who="MARGOT"><hstage><speaker>MARGOT</speaker>.</hstage>
 <p id="14">
 	<s id="1">C’est un des gros fermiers, qui est mon parrain ; il fait du bien à toute notre famille, et il a déjà donné un bon emploi à mon grand frère.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="15">
 	<s id="1">J’entends, j’entends ; monsieur Harpillon a mis le frère dans un bureau, et mettra, s’il peut, la sœur en chambre.</s>
 </p>
 </sp>
-<sp who="MARGOT"><speaker>MARGOT.</speaker>
+<sp who="MARGOT"><hstage><speaker>MARGOT</speaker>.</hstage>
 <p id="16">
 	<s id="1">Oh !</s>
 	<s id="2">Monsieur, il n’y a point de ce que vous pensez à son fait : c’est un homme qui n’a que de bons desseins ; il m’a promis de m’épouser ; et pour preuve de cela, il m’a déjà envoyé une housse verte avec une bergame.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="17">
 	<s id="1">Fi !</s>
 	<s id="2">Une bergame à une fille comme vous !</s>
 	<s id="3">Si tu voulais, Margot, m’épouser à la Harpillon, j’irais moi jusqu’à une verdure.</s>
 </p>
 </sp>
-<sp who="MARGOT"><speaker>MARGOT.</speaker>
+<sp who="MARGOT"><hstage><speaker>MARGOT</speaker>.</hstage>
 <p id="18">
 	<s id="1">Je vous remercie, monsieur ; cela ferait jaser le monde.</s>
 	<s id="2">Tenez, monsieur, pour avoir été un jour promener avec mon cousin, vous ne sauriez croire quels contes on a faits.</s>
 	<s id="3">Il y a les plus maudites langues dans notre montée.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="19">
 	<s id="1">Écoutez, Margot, votre montée a peut-être raison, et il pourrait bien y avoir quelque chose à refaire à votre réputation.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="20">
 	<s id="1">Margot peut aller partout, monsieur le Marquis ; elle est sage, et j’en réponds corps pour corps.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="21">
 	<s id="1">La bonne caution !</s>
 	<s id="2">Croyez-moi, les environs de Paris sont terriblement dangereux.</s>
 	<s id="3">N’allez-vous point quelquefois au bois de Boulogne ?</s>
 </p>
 </sp>
-<sp who="MARGOT"><speaker>MARGOT.</speaker>
+<sp who="MARGOT"><hstage><speaker>MARGOT</speaker>.</hstage>
 <p id="22">
 	<s id="1">Dieu m’en garde, monsieur !</s>
 	<s id="2">Ma mère me l’a défendu, et m’a dit que c’était un vrai coupe-gorge pour une fille.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="23">
 	<s id="1">C’est peut-être là que votre mère a été égorgée.</s>
 	<s id="2">Ma foi, cette fille me plaît.</s>
 	<s id="3">Ma mie, me voudrais-tu tailler une chemise et quelques caleçons ?</s>
 </p>
 </sp>
-<sp who="MARGOT"><speaker>MARGOT.</speaker>
+<sp who="MARGOT"><hstage><speaker>MARGOT</speaker>.</hstage>
 <p id="24">
 	<s id="1">Je suis votre servante, monsieur ; on ne travaille point en homme au logis.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="25">
 	<s id="1">Hé bien, viens les faire chez moi.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="26">
 	<s id="1">Justement !</s>
 	<s id="2">On garde des filles de cet âge-là pour votre commodité !</s>
@@ -3070,64 +3070,64 @@
 	<s id="4">Mais il me semble, Margot, que ce manteau-là monte bien haut ; on ne voit point ma gorge.</s>
 </p>
 </sp>
-<sp who="MARGOT"><speaker>MARGOT.</speaker>
+<sp who="MARGOT"><hstage><speaker>MARGOT</speaker>.</hstage>
 <p id="27">
 	<s id="1">Ce n’est peut-être pas la faute du manteau, mademoiselle.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="28">
 	<s id="1">Taisez-vous, Margot ; vous êtes une sotte : tenez, remportez votre manteau ; j’y suis faite comme je ne sais quoi.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN à Margot.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker> à Margot.</hstage>
 <p id="29">
 	<s id="1">Plus je vois cette enfant-là, plus elle me plaît...</s>
 	<s id="2">Un petit mot : j’ai besoin d’une fille de chambre ; je crois que tu serais assez mon fait.</s>
 	<s id="3">Sais-tu raser ?</s>
 </p>
 </sp>
-<sp who="MARGOT"><speaker>MARGOT.</speaker>
+<sp who="MARGOT"><hstage><speaker>MARGOT</speaker>.</hstage>
 <p id="30">
 	<s id="1">Moi, raser !</s>
 	<s id="2">Je vois bien que vous êtes un gausseur: je mourrais de peur, si je touchais un homme seulement du bout du doigt.</s>
 	<s id="3">Adieu, mademoiselle ; dans un quart d’heure je vous rapporterai votre manteau avec de la gorge.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="31">
 	<s id="1">Adieu, adieu, petite nymphe du bois de Boulogne.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Arlequin, Colombine.</head>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><cast>Arlequin, Colombine.</cast>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="1">
 	<s id="1">Elle n’est, morbleu, pas sotte, et je m’aimerais presque autant que vous.</s>
 	<s id="2">Nous autres gens de qualité, nous aimons quelquefois à rabattre sur la grisette.</s>
 	<s id="3">Et de notre mariage qu’en dirons-nous ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Je vous dirai, monsieur le Marquis, qu’avant que de vous épouser, je vous demande encore une grâce.</s>
 	<s id="2">Nous sommes un certain nombre de filles qui avons fait serment de ne point prendre de mari qui n’ait été reçu auparavant dans notre académie.</s>
 	<s id="3">Il faut vous y faire recevoir.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="3">
 	<s id="1">Moi, dans votre académie de filles !</s>
 	<s id="2">Vous vous moquez ; j’ai des empêchements plus que légitimes.</s>
 	<s id="3">Et que faut-il faire pour cela ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Ne vous mettez pas en peine : on vous habillera en femme ; on vous fera peut-être faire serment d’être un époux commode, de laisser faire à votre femme tout ce qu’il lui plaira, de n’être point de ces maris coquets qui vivent de rapine, et laissent leurs femmes pour aller picorer sur le commun.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="5">
 	<s id="1">Quand on a de cette besogne-là toute taillée chez soi, on n’a guère envie d’aller travailler en ville.</s>
 	<s id="2">Allons, faisons ce qu’il vous plaira.</s>
@@ -3135,9 +3135,9 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Arlequin, Mezzetin, en Sibylle, plusieurs Fourbes de la suite de Mezzetin.</head>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><cast>Arlequin, Mezzetin, en Sibylle, plusieurs Fourbes de la suite de Mezzetin.</cast>
 <stage>Cette scène de travestissement d’Arlequin consiste en jeu purement italien ; les Fourbes chantent et dansent, pendant que Mezzetin dépouille Arlequin et l’habille en femme, et Mezzetin chante ce qui suit.</stage>
-<sp who="MEZZETIN"><speaker>MEZZETIN chante.</speaker>
+<sp who="MEZZETIN"><hstage><speaker>MEZZETIN</speaker> chante.</hstage>
 	<l id="180">Ô toi qui veux épouser Colombine,</l>
 	<l id="181">Reçois l’honneur que sa main te destine:</l>
 	<l id="182">Tu n’étais qu’un vilain magot,</l>
@@ -3147,10 +3147,10 @@
 	<l id="186">Gentille,</l>
 	<l id="187">Ou peu s’en faut.</l>
 </sp>
-<sp who="LE-CHŒUR"><speaker>LE CHŒUR.</speaker>
+<sp who="LE-CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 	<l id="188">Tu n’étais qu’un vilain magot, etc.</l>
 </sp>
-<sp who="MEZZETIN"><speaker>MEZZETIN.</speaker>
+<sp who="MEZZETIN"><hstage><speaker>MEZZETIN</speaker>.</hstage>
 	<l id="189">Reçois cette coiffure en malice féconde ;</l>
 	<l id="190">Avec cet ornement,</l>
 	<l id="191">Tu peux facilement</l>
@@ -3169,12 +3169,12 @@
 	<l id="203">Sur cette trogne hermaphrodite.</l>
 <stage>Deux Fourbes s’approchent d’Arlequin ; l’un tient un pot de rouge et l’autre un pot de blanc, et ils lui barbouillent les deux côtés du visage.</stage>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="1">
 	<s id="1">Je peux présentement résister à la pluie ; me voilà bien peint.</s>
 </p>
 </sp>
-<sp who="MEZZETIN"><speaker>MEZZETIN chante.</speaker>
+<sp who="MEZZETIN"><hstage><speaker>MEZZETIN</speaker> chante.</hstage>
 	<l id="204">Ah ! Qu’il est beau!... oh, oh !</l>
 	<l id="205">Le damoiseau</l>
 	<l id="206">Au museau</l>
@@ -3182,39 +3182,39 @@
 	<l id="208">Faisons le pied de veau :</l>
 	<l id="209">Ah !qu’il est beau !... oh, oh !</l>
 </sp>
-<sp who="LE-CHŒUR"><speaker>LE CHŒUR.</speaker>
+<sp who="LE-CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 	<l id="210">Ah ! Qu’il est beau !... oh, oh !</l>
 <stage>Ils s’en vont tous en chantant.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="12"><head>SCÈNE XII. Arlequin, Trafiquet, Colombine, Pierrot.</head>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head><cast>Arlequin, Trafiquet, Colombine, Pierrot.</cast>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="1">
 	<s id="1">Que veut donc dire, s’il vous plaît, cette mascarade-ci ?</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="2">
 	<s id="1">Monsieur, je vous prie de me dire si je suis mâle ou femelle ; car, ma foi, je n’y connais rien.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="3">
 	<s id="1">Vous êtes un fou, voilà ce que vous êtes.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT, riant.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>, riant.</hstage>
 <p id="4">
 	<s id="1">Ha, ha, ha !</s>
 	<s id="2">Essuyez-vous, monsieur le bailli, vous êtes tout barbouillé.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Je suis, mon père, disposée à vous obéir ; mais je ne crois pas que vous vouliez me donner pour mari un homme qui est capable de pareilles extravagances.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="6">
 	<s id="1">Oh, oh !</s>
 	<s id="2">Voilà qui est assez drôle.</s>
@@ -3223,36 +3223,36 @@
 	<s id="5">Voyez, ne me voilà-t-il pas bien désigné ?</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="7">
 	<s id="1">Moi, je vous ai fait faire ces extravagances-là ?</s>
 	<s id="2">Ma foi, monsieur le bailli, vous rêvez.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="8">
 	<s id="1">Monsieur, quand je vous ai dit que j’étais mieux le fait de votre fille que cet homme-là, est-ce que je me trompais ?</s>
 	<s id="2">Il faudra pourtant que vous y veniez.</s>
 </p>
 </sp>
-<sp who="TRAFIQUET"><speaker>TRAFIQUET.</speaker>
+<sp who="TRAFIQUET"><hstage><speaker>TRAFIQUET</speaker>.</hstage>
 <p id="9">
 	<s id="1">Ce que j’ai vu tantôt, et ce que je vois présentement, m’oblige de vous dire, monsieur le bailli, que vous pouvez, tout de ce pas, vous en retourner dans le Bas-Maine, manger vos chapons ; car pour ma fille, vous n’en croquerez que d’une dent.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="10">
 	<s id="1">Que d’une dent, monsieur le bailli, que d’une dent.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="11">
 	<s id="1">Allez-vous-en au diable, vous et votre fille, petit vilain grigou raccourci.</s>
 	<s id="2">Adieu, la belle ; je ne crois pas qu’il y ait au monde un animal plus méchant que vous.</s>
 	<s id="3">Il faut qu’un provincial ait bien le diable au corps, pour venir s’équiper d’une femme à Paris.</s>
 </p>
 </sp>
-<sp who="COLOMBINE"><speaker>COLOMBINE.</speaker>
+<sp who="COLOMBINE"><hstage><speaker>COLOMBINE</speaker>.</hstage>
 <p id="12">
 	<s id="1">Et qu’une fille à Paris soit bien près de ses pièces pour épouser un bailli du Bas-Maine.</s>
 </p>

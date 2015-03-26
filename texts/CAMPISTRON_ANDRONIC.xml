@@ -55,16 +55,16 @@
 	</front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Marcène, Crispe.</head>
-<sp who="MARCENE"><speaker>MARCENE</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Marcène, Crispe.</cast>
+<sp who="MARCENE"><hstage><speaker>MARCENE</speaker></hstage>
 	<l id="1">Quoi malgré nos chagrins et notre longue haine,</l>
 	<l id="2">Léon, dis-tu, demande à parler à Marcène ?</l>
 	<l id="3">À moi? Me dis-tu vrai ? Puis-je le croire ainsi ?</l>
 </sp>
-<sp who="CRISPE"><speaker>CRISPE</speaker>
+<sp who="CRISPE"><hstage><speaker>CRISPE</speaker></hstage>
 	<l id="4">Oui, Seigneur, et bientôt il se doit rendre ici.</l>
 </sp>
-<sp who="MARCENE"><speaker>MARCENE</speaker>
+<sp who="MARCENE"><hstage><speaker>MARCENE</speaker></hstage>
 	<l id="5">Est-il quelque intérêt assez fort sur son âme,</l>
 	<l id="6">Pour contraindre un moment le courroux qui l’enflamme,</l>
 	<l id="7">Après que si longtemps soigneux de m’offenser</l>
@@ -78,25 +78,25 @@
 	<l id="15">Je l’attendrai pourtant, et pour être éclairci</l>
 	<l id="16" part="i">Des sentiments secrets d’un homme...</l>
 </sp>
-<sp who="CRISPE"><speaker>CRISPE</speaker>
+<sp who="CRISPE"><hstage><speaker>CRISPE</speaker></hstage>
 	<l id="16" part="f">Le voici.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Marcène, Léon, Crispe.</head>
-<sp who="LEON"><speaker>LÉON</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Marcène, Léon, Crispe.</cast>
+<sp who="LEON"><hstage><speaker>LÉON</speaker></hstage>
 	<l id="17">Que l’on nous laisse seuls. Seigneur, puis-je prétendre.</l>
 <stage>Crispe se retire et l’on continue.</stage>
 	<l id="18">Qu’avec tranquillité vous daignerez m’entendre ;</l>
 	<l id="19">Et que vos soupçons interrompant le cours,</l>
 	<l id="20">Vous pourrez sans contraindre écouter mes discours ?</l>
 </sp>
-<sp who="MARCENE"><speaker>MARCENE</speaker>
+<sp who="MARCENE"><hstage><speaker>MARCENE</speaker></hstage>
 	<l id="21">Je ne puis vous celer ma surprise secrète ;</l>
 	<l id="22">Mais dans quelque embarras où ce discours me jette,</l>
 	<l id="23">Parlez, ne craignez rien, en vous ouvrant à moi ;</l>
 	<l id="24">Je le jure, Seigneur, fiez-vous à ma foi.</l>
 </sp>
-<sp who="LEON"><speaker>LÉON</speaker>
+<sp who="LEON"><hstage><speaker>LÉON</speaker></hstage>
 	<l id="25">Il suffit, ce serment a dissipé ma crainte,</l>
 	<l id="26">Et je vais m’expliquer sans détour et sans feinte.</l>
 	<l id="27">Depuis plus de vingt ans, vous le savez, Seigneur,</l>
@@ -143,7 +143,7 @@
 <note type="C">Le texte indique « presser » au lieu de « dresser »</note>
 	<l id="68">Un rempart qu’Andronic ne puisse renverser.</l>
 </sp>
-<sp who="MARCENE"><speaker>MARCENE</speaker>
+<sp who="MARCENE"><hstage><speaker>MARCENE</speaker></hstage>
 	<l id="69">Je ne sais si je puis avec quelque assurance,</l>
 	<l id="70">Seigneur, de vos discours bannir la défiance ;</l>
 	<l id="71">Mais personne en ces lieux ne peut nous écouter,</l>
@@ -210,7 +210,7 @@
 	<l id="131">Que le peuple triomphe, et loin de s’attendrir,</l>
 	<l id="132">Se plaint qu’on nous fait grâce, en nous faisant mourir.</l>
 </sp>
-<sp who="LEON"><speaker>LÉON</speaker>
+<sp who="LEON"><hstage><speaker>LÉON</speaker></hstage>
 	<l id="133">Oui, Seigneur, prévenons le retour ordinaire,</l>
 	<l id="134">Qui du sort indigné nous montre la colère,</l>
 	<l id="135">Occupons l’Empereur, ne le laissons jamais</l>
@@ -220,8 +220,8 @@
 	<l id="139">L’envoyé l’accompagne, et Martian aussi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Andronic, Marcène, Léon, Léonce, Martian.</head>
-<sp who="ANDRONIC"><speaker>ANDRONIC à Léonce</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Andronic, Marcène, Léon, Léonce, Martian.</cast>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker> à Léonce</hstage>
 	<l id="140">Je vais leur en parler, ils sont tous deux ici,</l>
 	<l id="141">Léonce, vous verrez avec combien de zèle</l>
 	<l id="142">Des peuples opprimés je défends la querelle.</l>
@@ -240,21 +240,21 @@
 	<l id="155">En faveur de vos soins, je puis tout oublier,</l>
 	<l id="156">Que je m’abaisse, enfin jusqu’à vous en prier.</l>
 </sp>
-<sp who="MARCENE"><speaker>MARCENE</speaker>
+<sp who="MARCENE"><hstage><speaker>MARCENE</speaker></hstage>
 	<l id="157" part="i">Ah ! Seigneur...</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="157" part="f">C’est assez. Il me reste à vous dire</l>
 	<l id="158">Que je dois être un jour le maître de l’Empire,</l>
 	<l id="159" part="i">Laissez-moi...</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Andronic, Léonce, Martian.</head>
-<sp who="LEONCE"><speaker>LÉONCE</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Andronic, Léonce, Martian.</cast>
+<sp who="LEONCE"><hstage><speaker>LÉONCE</speaker></hstage>
 	<l id="159" part="f">Sur l’espoir d’obtenir votre appui,</l>
 	<l id="160" part="i">Seigneur, nous nous flattons...</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="160" part="f">Eh, que puis-je aujourd’hui ?</l>
 	<l id="161">Hélas plus malheureux encore que vous ne l’êtes,</l>
 	<l id="162">Rien ne peut réparer les pertes que j’ai faites,</l>
@@ -266,22 +266,22 @@
 	<l id="168">Ce repos souhaité dont je ne jouis pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. L’Empereur, Andronic, Léonce, Martian,</head>Gardes.
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>L’Empereur, Andronic, Léonce, Martian,</cast>Gardes.
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="169">Seigneur, Léonce encore vous demande audience,</l>
 	<l id="170" part="i">Et vous avez daigné m’assurer...</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="170" part="f">Qu’il s’avance.</l>
 </sp>
-<sp who="LEONCE"><speaker>LÉONCE</speaker>
+<sp who="LEONCE"><hstage><speaker>LÉONCE</speaker></hstage>
 	<l id="171">Permettez-vous, Seigneur, qu’embrassant vos genoux,</l>
 	<l id="172" part="i">J’ose vous supplier d’écouter...</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="172" part="f">Levez-vous.</l>
 </sp>
-<sp who="LEONCE"><speaker>LÉONCE</speaker>
+<sp who="LEONCE"><hstage><speaker>LÉONCE</speaker></hstage>
 	<l id="173">Fais si bien, juste ciel, que ma plainte le touche !</l>
 	<l id="174">Tout un peuple, Seigneur, vous parle par ma bouche ;</l>
 	<l id="175">Un peuple qui toujours à vos ordres soumis</l>
@@ -344,7 +344,7 @@
 	<l id="232">Des cœurs intéressés à troubler vos États.</l>
 <note type="C">Le vers 232 commence par « de » au lieu de « des ».</note>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="233">Ainsi vous espérez avec cet artifice</l>
 	<l id="234">Dérober votre tête au plus juste supplice ?</l>
 	<l id="235">Que dis-je ? Vous voulez me prescrire des lois,</l>
@@ -359,12 +359,12 @@
 	<l id="244">Et vous saurez bientôt mes résolutions.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. L’Empereur, Andronic, Martian, Gardes.</head>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>L’Empereur, Andronic, Martian, Gardes.</cast>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="245">Eh bien, parlerez-vous encore pour ces rebelles,</l>
 	<l id="246" part="i">Prince.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="246" part="f">Vous n’avez point de sujets plus fidèles,</l>
 	<l id="247">Et malgré vos bontés pour les persécuteurs,</l>
 	<l id="248">Seigneur, vous frémirez d’apprendre leurs malheurs</l>
@@ -372,20 +372,20 @@
 	<l id="250">Égalaient le grand cœur, et les vertus guerrières</l>
 	<l id="251">Admira leur valeur, s’applaudit de leur foi.</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="252">Son exemple aujourd’hui ne conclut rien pour moi.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="253">Eh bien, puisque votre âme encore trop irritée</l>
 	<l id="254">Refuse à leurs soupirs la grâce méritée,</l>
 	<l id="255">Confiez-moi leur sort. Il faut que mes travaux</l>
 	<l id="256">Des bulgares trahis s’assurent le repos ;</l>
 	<l id="257" part="i">Il faut que j’aille...</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="257" part="m">Vous ?</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="257" part="f">Permettez que je parte,</l>
 	<l id="258">De ces lieux pour un temps, souffrez que je m’écarte,</l>
 	<l id="259">Tous m’en presse, Seigneur, un peuple que je plains,</l>
@@ -393,17 +393,17 @@
 	<l id="261">Le désir de calmer les troubles de l’Empire,</l>
 	<l id="262">Et bien d’autres raisons que je ne puis vous dire.</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="263">Vous sortir de Byzance, et quitter cette Cour ?</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="264">Oui, j’exige de vous cette marque d’amour,</l>
 	<l id="265">Me refuserez-vous une première grâce ?</l>
 	<l id="266">Seigneur, si le succès répond à mon audace,</l>
 	<l id="267">Vous connaîtrez bientôt par cet illustre emploi</l>
 	<l id="268">Ce que l’Empire un jour doit attendre de moi.</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="269">Je ne sais que juger d’un discours qui m’étonne,</l>
 	<l id="270">À quel bizarre soin votre cœur s’abandonne ?</l>
 	<l id="271">Pourquoi quitter des lieux où tout vous est soumis</l>
@@ -414,14 +414,14 @@
 	<l id="276">Prince, consultez-vous, je vous laisse y penser.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Andronic, Martian.</head>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Andronic, Martian.</cast>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="277">Le dessein en est pris, rien ne m’en peut distraire,</l>
 	<l id="278">Hâtons, cher Martian, un départ nécessaire,</l>
 	<l id="279">Abandonnons des lieux où je ne puis rien voir</l>
 	<l id="280">Qui ne me soit l’objet d’un mortel désespoir.</l>
 </sp>
-<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+<sp who="MARTIAN"><hstage><speaker>MARTIAN</speaker></hstage>
 	<l id="281">Eh quoi ! Vous flattez-vous que loin de cette ville,</l>
 	<l id="282">Que sous un autre ciel vous serez plus tranquille ?</l>
 	<l id="283">Non, Seigneur, vos chagrins ne vous quitteront pas,</l>
@@ -429,7 +429,7 @@
 	<l id="285">Et croyez-vous sentir en sortant de Byzance</l>
 	<l id="286">Des transports moins pressants et plus d’indifférence !</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="287">Non, non, d’autres repos, je n’ose me flatter,</l>
 	<l id="288">C’en est fait, mes tourments ne me sauraient quitter,</l>
 	<l id="289">Loin de guérir des traits dont mon âme est blessée</l>
@@ -457,7 +457,7 @@
 	<l id="311">Fuyons, n’exposons point ma tremblante vertu</l>
 	<l id="312">Au remords éternel d’avoir mal combattu.</l>
 </sp>
-<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+<sp who="MARTIAN"><hstage><speaker>MARTIAN</speaker></hstage>
 	<l id="313">Que je vous plains, Seigneur, que votre destinée</l>
 	<l id="314">Par ce funeste amour devient infortunée !</l>
 	<l id="315">Sans lui toujours content, révéré, glorieux,</l>
@@ -465,7 +465,7 @@
 	<l id="317">Votre cœur eut goûté dans une paix profonde</l>
 	<l id="318">L’heureux sort que le ciel donne aux maîtres du monde.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="319">Que dis-tu ? Je suis né pour être malheureux,</l>
 	<l id="320">L’amour ne fait point seul mon destin rigoureux.</l>
 	<l id="321">Eh quoi, pour pénétrer l’excès de ma misère,</l>
@@ -477,10 +477,10 @@
 	<l id="327">Et pour être né prince, il ne m’est pas permis,</l>
 	<l id="328">D’éprouver tout l’amour d’un père pour son fils.</l>
 </sp>
-<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+<sp who="MARTIAN"><hstage><speaker>MARTIAN</speaker></hstage>
 	<l id="329" part="i">Quoi Seigneur...</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="329" part="f">Dans ces lieux mon courage murmure,</l>
 	<l id="330">Et mon cœur n’est point fait pour une vie obscure,</l>
 	<l id="331">Dès l’enfance charmé des héros de mon sang</l>
@@ -525,13 +525,13 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Irène, Eudoxe.</head>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Irène, Eudoxe.</cast>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="369">Je ne le verrai point, non j’y suis résolue,</l>
 	<l id="370">M’osez-vous conseiller cette fatale vue :</l>
 	<l id="371">Eudoxe, ignorez-vous son destin et le mien ?</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker></hstage>
 	<l id="372">Pourquoi lui refuser un moment d’entretien ?</l>
 	<l id="373">Voulez-vous qu’irrité de votre résistance,</l>
 	<l id="374">Il ne se presse plus de sortir de Byzance ?</l>
@@ -539,7 +539,7 @@
 	<l id="376">Et puisque pour jamais il renonce à vous voir,</l>
 	<l id="377">Madame, accordez-lui la faveur qu’il demande.</l>
 </sp>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="378">Quels soupirs, quels regrets voulez-vous que j’entende ?</l>
 	<l id="379">Vous qui me dérobant à nos heureux climats</l>
 	<l id="380">Dans ces funestes lieux conduisîtes mes pas ;</l>
@@ -548,7 +548,7 @@
 	<l id="383">Qui peut-être succombe à mes mortels ennuis,</l>
 	<l id="384">Voulez-vous m’exposer au péril que je fuis ?</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker></hstage>
 	<l id="385">Madame, le péril est-il moins redoutable</l>
 	<l id="386">À ne pas écouter ce prince déplorable ?</l>
 	<l id="387">Résolu de vous faire entendre ses adieux,</l>
@@ -587,7 +587,7 @@
 	<l id="419">Voyez-le, et sans frémir de son destin cruel,</l>
 	<l id="420">Prononcez-lui l’arrêt d’un exil éternel.</l>
 </sp>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="421">Lui pourrai-je imposer une loi si funeste ?</l>
 	<l id="422">Ah ! Laissez-le moi fuir sans me charger du reste,</l>
 	<l id="423">J’ai causé ses malheurs, en causant son amour,</l>
@@ -625,7 +625,7 @@
 	<l id="455">En victime d’État, contrainte d’obéir,</l>
 	<l id="456">Pour conserver ma gloire il fallut me trahir.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker></hstage>
 	<l id="457">Eh ! Pourquoi rappelant vos disgrâces passées,</l>
 	<l id="458">Occuper votre esprit de ces tristes pensées ?</l>
 	<l id="459">Madame, faites-vous un généreux effort,</l>
@@ -633,7 +633,7 @@
 	<l id="461">Et sachez avec soin aux yeux de tout l’Empire,</l>
 	<l id="462" part="i">Les déplaisirs secrets...</l>
 </sp>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="462" part="f">Ah que m’osez-vous dire ?</l>
 	<l id="463">Qui jamais a caché ses chagrins mieux que moi,</l>
 	<l id="464">Et mieux subi du sort l’injurieuse loi ?</l>
@@ -646,33 +646,33 @@
 	<l id="471">Que vous dirai-je enfin ? Où ce cœur malheureux</l>
 	<l id="472">Est souvent malgré moi moins fort que je ne veux.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker></hstage>
 	<l id="473">Redoublez vos efforts, le temps, votre confiance</l>
 	<l id="474">De vos profonds ennuis vaincront la violence,</l>
 	<l id="475">Et le prince bientôt éloigné de vos yeux</l>
 	<l id="476" part="i">Vous pourrez...</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Irène, Eudoxe, Narcée.</head>
-<sp who="NARCÉE"><speaker>NARCÉE</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Irène, Eudoxe, Narcée.</cast>
+<sp who="NARCÉE"><hstage><speaker>NARCÉE</speaker></hstage>
 	<l id="476" part="f">Andronic s’avance vers ces lieux,</l>
 	<l id="477" part="i">Il vous cherche, Madame.</l>
 </sp>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="477" part="f">Ah ! Je n’ose l’attendre ;</l>
 	<l id="478">Eudoxe, vous pouvez lui parler et l’entendre,</l>
 	<l id="479">Voyez-le, dites lui qu’en l’état où je suis,</l>
 	<l id="480">Le fuir et le bannir est tout ce que je puis.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Irène, Andronic, Eudoxe, Narcée.</head>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Irène, Andronic, Eudoxe, Narcée.</cast>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="481">Vous me fuyez, Madame ? Ah ciel quelle injustice !</l>
 	<l id="482">Quoi, de tous mes malheurs vous rendez-vous complice ?</l>
 	<l id="483">Hélas ! Pour accabler un cœur infortuné</l>
 	<l id="484">Secondez-vous le sort à me nuire obstiné ?</l>
 </sp>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="485">Que demandez-vous, Prince ? Et que pourrez-vous dire ?</l>
 	<l id="486">Méprisez-vous les lois que je vous fais prescrire ?</l>
 	<l id="487">Quel est votre dessein de venir en ces lieux</l>
@@ -688,7 +688,7 @@
 	<l id="497">Et quels que sont les maux que vous avez à craindre,</l>
 	<l id="498">Qu’il ne m’est pas permis seulement de vous plaindre ?</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="499">Qu’entends-je, juste ciel ! De quoi m’accusez-vous ?</l>
 	<l id="500">Madame, qu’ai-je fait digne de ce courroux ?</l>
 	<l id="501">Viens-je vous demander que d’un œil pitoyable</l>
@@ -740,7 +740,7 @@
 	<l id="547">À vous donner mon sang, je borne mon bonheur,</l>
 	<l id="548">Puisqu’il m’est défendu de vous donner mon cœur.</l>
 </sp>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="549">En vain vous me flattez de ces fameux services,</l>
 	<l id="550">Mes vœux n’aspirent point à ces grands sacrifices,</l>
 	<l id="551">Quand vous aurez quitté ce funeste séjour,</l>
@@ -766,7 +766,7 @@
 	<l id="571">Faites-vous un bonheur sous de nouveaux climats,</l>
 	<l id="572">Qu’aux lieux où je serais vous ne trouveriez pas.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="573">Est-il temps ? Ce bonheur dont vous flattez mon âme,</l>
 	<l id="574">Hélas ! En vous perdant je l’ai perdu, Madame,</l>
 	<l id="575">Et je n’en connais plus où je ne puisse aspirer,</l>
@@ -782,7 +782,7 @@
 	<l id="585">Mes déplorables jours vont courir à leur terme,</l>
 	<l id="586" part="i">Régnez, et...</l>
 </sp>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="586" part="f">Croyez-vous ma constance si ferme ?</l>
 	<l id="587">Ce reproche cruel plus que tous les regrets</l>
 	<l id="588">Étonne mon courage et confond mes projets :</l>
@@ -794,17 +794,17 @@
 	<l id="594">Ah ! Pourquoi veniez-vous chercher encore ma vue ?</l>
 	<l id="595">Partez, Prince, c’est trop prolonger vos adieux.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker></hstage>
 	<l id="596">Ah ! Madame, je vois l’Empereur en ces lieux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. L’Empereur, Andronic, Irène, Eudoxe, Léon, Marcène.</head>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>L’Empereur, Andronic, Irène, Eudoxe, Léon, Marcène.</cast>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="597">Madame, quel était son discours et le vôtre ?</l>
 	<l id="598">Mon abord imprévu vous trouble l’un et l’autre,</l>
 	<l id="599">Je le vois, tous vos soins ne le peuvent cacher.</l>
 </sp>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="600">Andronic jusqu’ici m’était venu chercher ;</l>
 	<l id="601">Seigneur, il a jugé mon secours nécessaire</l>
 	<l id="602">Pour obtenir de vous un aveu qu’il espère,</l>
@@ -816,17 +816,17 @@
 	<l id="608">Puissiez-vous obtenir ce que vous demandez ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. L’Empereur, Andronic, Léon, Marcène.</head>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>L’Empereur, Andronic, Léon, Marcène.</cast>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="609">Quoi, Prince, vous cédez à votre impatience ?</l>
 	<l id="610">Vous êtes résolu d’abandonner Byzance ?</l>
 	<l id="611">Vous me faites encore presser d’y consentir ?</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="612">Oui, Seigneur, et déjà je brûle de partir,</l>
 	<l id="613">Je ne puis résister à l’ardeur qui m’entraîne.</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="614">Je n’entends qu’à regret un discours qui me gêne,</l>
 	<l id="615">Et j’aurais souhaité que ce fatal dessein,</l>
 	<l id="616">Prince, ne fut jamais entré dans votre sein ;</l>
@@ -838,29 +838,29 @@
 	<l id="622">Vous me parlez encore, d’un projet qui m’offense,</l>
 	<l id="623">Ne vous étonnez pas de mon juste refus.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="624" part="i">Ah ! Seigneur voulez-vous...</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="624" part="f">Ne me répliquez plus,</l>
 	<l id="625">Songez à m’obéir d’une âme plus soumise,</l>
 	<l id="626">Dans un profond oubli laissons cette entreprise,</l>
 	<l id="627">Et ne fomentez point des soupçons dangereux</l>
 	<l id="628">Dont nous pourrions un jour nous repentir tous deux.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="629">Eh bien, Seigneur, je sors ; mais c’est trop me contraindre,</l>
 	<l id="630">Dans l’état où je suis, je ne saurais plus feindre,</l>
 	<l id="631">Et d’un si dur refus les perfides auteurs,</l>
 	<l id="632">Ne pourraient bien un jour payer tous mes malheurs.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. L’Empereur, Léon, Marcène.</head>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>L’Empereur, Léon, Marcène.</cast>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="633">Quelle téméraire, quel discours, quelle audace !</l>
 	<l id="634" part="i">À mes yeux !</l>
 </sp>
-<sp who="LEON"><speaker>LÉON</speaker>
+<sp who="LEON"><hstage><speaker>LÉON</speaker></hstage>
 	<l id="634" part="f">Vous voyez, Seigneur, qu’il nous menace,</l>
 	<l id="635">Ses chagrins qu’il ne peut élever jusqu’à vous,</l>
 	<l id="636">Avec plus de fureur retomberont sur nous ;</l>
@@ -869,7 +869,7 @@
 	<l id="639">Que je prévois des maux pour nos fils malheureux ?</l>
 	<l id="640">Qu’Andronic leur prépare un destin rigoureux !</l>
 </sp>
-<sp who="MARCENE"><speaker>MARCENE</speaker>
+<sp who="MARCENE"><hstage><speaker>MARCENE</speaker></hstage>
 	<l id="641">Je ne m’alarme point de tout ce qu’il peut faire,</l>
 	<l id="642">Je prends peu garde au fils, s’il faut servir le père ;</l>
 	<l id="643">Andronic me dût-il accabler le premier,</l>
@@ -883,10 +883,10 @@
 	<l id="651">Et peut-être va-t-il par Léonce engagé,</l>
 	<l id="652">Désobéir encore, et partir sans congé ?</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="653" part="i">Lui partir sans congé ?</l>
 </sp>
-<sp who="MARCENE"><speaker>MARCENE</speaker>
+<sp who="MARCENE"><hstage><speaker>MARCENE</speaker></hstage>
 	<l id="653" part="f">Seigneur, je l’appréhende,</l>
 	<l id="654">C’est le seul Andronic que Léonce demande,</l>
 	<l id="655">Et pour mieux attirer ce prince ambitieux,</l>
@@ -900,7 +900,7 @@
 	<l id="663">Et publier partout que leurs soins, leur valeur,</l>
 	<l id="664">Conspirent au salut de votre successeur.</l>
 </sp>
-<sp who="LEON"><speaker>LÉON</speaker>
+<sp who="LEON"><hstage><speaker>LÉON</speaker></hstage>
 	<l id="665">Hélas ! En quel excès pourra-t-il se répandre</l>
 	<l id="666">S’il se trouve en état d’oser tout entreprendre,</l>
 	<l id="667">Mécontent et suivi de ces mêmes guerriers</l>
@@ -922,7 +922,7 @@
 	<l id="683">Tant qu’enfin sa valeur l’élevant jusqu’aux cieux,</l>
 	<l id="684">Il voit ses attentats devenir glorieux.</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="685">Ah ! Que vous m’étonnez ! Mais prévenons sa fuite,</l>
 	<l id="686">Sans cesse de plus près éclairons sa conduite,</l>
 	<l id="687">Veillez sur tous ses pas et redoublez vos soins,</l>
@@ -933,7 +933,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII.</head>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR, seul.</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker>, seul.</hstage>
 	<l id="691" part="f">Ce n’est pas tout. Dans ce fatal moment</l>
 	<l id="692">Je sens mon cœur troublé d’un autre mouvement,</l>
 	<l id="693">Ah ! Qu’Andronic encore et m’alarme et me gêne</l>
@@ -962,32 +962,32 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Andronic, Martian.</head>
-<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Andronic, Martian.</cast>
+<sp who="MARTIAN"><hstage><speaker>MARTIAN</speaker></hstage>
 	<l id="715" part="i">Seigneur, que faites-vous ?</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="715" part="f">Ah ! Ne m’en parlez plus,</l>
 	<l id="716">Martian, tes discours sont ici superflus ;</l>
 	<l id="717">Je suis trop irrité pour cesser de me plaindre.</l>
 </sp>
-<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+<sp who="MARTIAN"><hstage><speaker>MARTIAN</speaker></hstage>
 	<l id="718">Mais quoi ! Ne sauriez-vous un moment vous contraindre ?</l>
 	<l id="719">Modérez vos transports, est-ce dans le palais</l>
 	<l id="720">Qu’il faut faire si haut éclater vos regrets ?</l>
 	<l id="721" part="i">Peut-être on vous observe.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="721" part="f">As-tu trouvé Léonce !</l>
 	<l id="722">Est-il prêt ? Qu’a-t-il dit ? Et quelle est sa réponse ?</l>
 </sp>
-<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+<sp who="MARTIAN"><hstage><speaker>MARTIAN</speaker></hstage>
 	<l id="723">Il se fait de vos lois un souverain devoir ;</l>
 	<l id="724" part="i">Mais il vient.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Andronic, Léonce, Martian.</head>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Andronic, Léonce, Martian.</cast>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="724" part="f">C’est en vous que je mets mon espoir</l>
 	<l id="725">À des maux éternels la fortune me livre ;</l>
 	<l id="726">Ami, je suis perdu, si je ne puis vous suivre,</l>
@@ -998,7 +998,7 @@
 	<l id="731">Parlez, sortirons-nous de ces lieux ennemis ?</l>
 	<l id="732">Ce favorable espoir peut-il m’être permis ?</l>
 </sp>
-<sp who="LEONCE"><speaker>LÉONCE</speaker>
+<sp who="LEONCE"><hstage><speaker>LÉONCE</speaker></hstage>
 	<l id="733">Oui, Seigneur, tout est prêt, vous n’avez qu’à me suivre,</l>
 	<l id="734">Allons, que pour jamais la fuite vous délivre,</l>
 	<l id="735">Des chagrins, des périls qui menacent vos jours,</l>
@@ -1008,13 +1008,13 @@
 	<l id="739">Brisez un joug fatal, et que vos premiers coups ;</l>
 	<l id="740">Attirent tous les yeux et tous les cœurs à vous.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="741">Non, ne balançons plus, par trop de violence</l>
 	<l id="742">On a poussé mon cœur, et lassé ma confiance,</l>
 	<l id="743">Ouvrons des yeux enfin trop longtemps abusés,</l>
 	<l id="744">Rendons à notre tour les maux qu’on m’a causés.</l>
 </sp>
-<sp who="LEONCE"><speaker>LÉONCE</speaker>
+<sp who="LEONCE"><hstage><speaker>LÉONCE</speaker></hstage>
 	<l id="745">Vengez-vous, vengez-vous, nos peuples vous attendent,</l>
 	<l id="746">Ne leur refusez plus le bras qu’ils vous demandent</l>
 	<l id="747">Vous avez en vos mains le projet arrêté</l>
@@ -1040,10 +1040,10 @@
 	<l id="767">Loin de porter un cœur de remords combattu</l>
 	<l id="768">Au poids de la grandeur mesurent leur vertu.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="769">Mais pour ma fuite, ami, quel parti dois-je prendre ?</l>
 </sp>
-<sp who="LEONCE"><speaker>LÉONCE</speaker>
+<sp who="LEONCE"><hstage><speaker>LÉONCE</speaker></hstage>
 	<l id="770">Martian est instruit, et je cours vous attendre ;</l>
 	<l id="771">D’abord que l’Empereur congédiant la Cour</l>
 	<l id="772">Se sera retiré pour attendre le jour ;</l>
@@ -1057,8 +1057,8 @@
 	<l id="780">À remplir vos désirs, je vais tout préparer.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Andronic, Martian.</head>
-<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Andronic, Martian.</cast>
+<sp who="MARTIAN"><hstage><speaker>MARTIAN</speaker></hstage>
 	<l id="781">C’en est donc fait, Seigneur, et malgré ma prière</l>
 	<l id="782">Vous suivez les transports d’une aveugle colère !</l>
 	<l id="783">Il n’est rien désormais qui vous puisse arrêter,</l>
@@ -1069,7 +1069,7 @@
 	<l id="788">Et vous êtes perdu si vous êtes surpris ;</l>
 	<l id="789">Ne calmerez-vous point cette ardeur indiscrète.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="790">Ah ! Cruel, oses-tu condamner ma retraite ?</l>
 	<l id="791">Laisse, laisse-moi fuir, est-il quelque séjour</l>
 	<l id="792">Plus à craindre pour moi que cette affreuse Cour ?</l>
@@ -1110,10 +1110,10 @@
 	<l id="827">On veut me voir souffrir, et mes persécuteurs</l>
 	<l id="828">Ne seraient pas contents si je souffrais ailleurs.</l>
 </sp>
-<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+<sp who="MARTIAN"><hstage><speaker>MARTIAN</speaker></hstage>
 	<l id="829" part="i">Mais, Seigneur...</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="829" part="f">Je ne puis t’écouter davantage.</l>
 	<l id="830">Je me livre aux transports de cette secrète rage,</l>
 	<l id="831">Plus de conseils, il faut m’éloigner ou périr,</l>
@@ -1129,7 +1129,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="ANDRONIC"><speaker>ANDRONIC, seul.</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker>, seul.</hstage>
 	<l id="841">Enfin dans un instant ma fortune cruelle,</l>
 	<l id="842">Va prendre par ma fuite une face nouvelle,</l>
 	<l id="843">Si le ciel favorable aux vœux que je lui faits</l>
@@ -1149,32 +1149,32 @@
 	<l id="857" part="i">Enfin...</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Andronic, Martian.</head>
-<sp who="MARTIAN"><speaker>MARTIAN</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Andronic, Martian.</cast>
+<sp who="MARTIAN"><hstage><speaker>MARTIAN</speaker></hstage>
 	<l id="857" part="f">Venez, Seigneur, l’heure vous favorise,</l>
 	<l id="858" part="i">Partez...</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="858" part="f">Allons. Ô ciel conduits notre entreprise !</l>
 	<l id="859">Puissions-nous sans témoins abandonner les lieux !</l>
 	<l id="860">Mais on vient, l’Empereur se présente à mes yeux,</l>
 	<l id="861" part="i">Serais-je découvert ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. L’Empereur, Léon, Marcène, Andronic,  Martian, Crispe, Gelas, Gardes.</head>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>L’Empereur, Léon, Marcène, Andronic,  Martian, Crispe, Gelas, Gardes.</cast>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="861" part="f">Gardes, qu’on les saisisse.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="862">Ah ! Du moins par ma mort prévenons la justice.</l>
 <stage>Il se veut tuer, on le désarme.</stage>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="863">Mais, Prince, songez-vous qu’un dessein si cruel</l>
 	<l id="864">Vous peut faire à mes yeux passer pour criminel ?</l>
 	<l id="865">On ne s’immole point quand on n’a rien à craindre.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="866">Puisque vous savez tout, qu’est-il bon de feindre ?</l>
 	<l id="867">Si l’on n’eut pris le soin de vous en avertir</l>
 	<l id="868">M’aurait-on arrêté quand je croyais partir ?</l>
@@ -1185,7 +1185,7 @@
 	<l id="873">Pour condamner un fils que vous voyez perfide,</l>
 	<l id="874">Et sauver à vos mains l’horreur d’un parricide.</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="875">L’orgueil d’un criminel peut-il aller plus loin ?</l>
 	<l id="876">Qu’on l’ôte de mes yeux, qu’on le garde avec soin,</l>
 	<l id="877">Et qu’on fasse expirer au milieu des supplices</l>
@@ -1196,8 +1196,8 @@
 	<l id="882">Et rendre contre lui ma fureur légitime.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. L’Empereur, Marcène, Gardes.</head>
-<sp who="MARCENE"><speaker>MARCENE</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>L’Empereur, Marcène, Gardes.</cast>
+<sp who="MARCENE"><hstage><speaker>MARCENE</speaker></hstage>
 	<l id="883">Vous l’avez vu, Seigneur, sans nous, sans nos avis,</l>
 	<l id="884">Le perfide Léonce emmenait votre fils,</l>
 	<l id="885">Ils s’éloignaient tous deux : et ce palais tranquille</l>
@@ -1211,8 +1211,8 @@
 	<l id="893">Enfin ne craignez plus les efforts de leurs armes.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. L’Empereur, Irène, Eudoxe, Narcée, Marcène, Gardes.</head>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>L’Empereur, Irène, Eudoxe, Narcée, Marcène, Gardes.</cast>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="894">Qu’ai-je entendu, Seigneur, quel bruit, quelles alarmes,</l>
 	<l id="895">Quel danger imprévu ? Quel dessein odieux</l>
 	<l id="896">Trouble votre repos, vous attire en ces lieux ?</l>
@@ -1222,15 +1222,15 @@
 	<l id="900">Des soldats interdits, des gardes étonnés.</l>
 	<l id="901">Qui cause dans la Cour ce changement terrible ?</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="902">Madame, à mes périls vous êtes trop sensible,</l>
 	<l id="903">Je les ai détournés, ne craignez rien pour moi,</l>
 	<l id="904">Je puis punir un fils qui manque de foi.</l>
 </sp>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="905" part="i">Quoi, Seigneur...</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="905" part="f">Andronic méprisant ma colère</l>
 	<l id="906">Courait insolemment s’armer contre son père,</l>
 	<l id="907">Et malgré ma défense abandonner ces lieux,</l>
@@ -1242,14 +1242,14 @@
 	<l id="913">Il est en mon pouvoir, et ce prince coupable</l>
 	<l id="914">Doit servir aux mutins d’exemple mémorable.</l>
 </sp>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="915">Ah ! Pouvez-vous former ce funeste dessein ?</l>
 	<l id="916">Seigneur, et seriez-vous à ce point inhumain ?</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="917" part="i">Madame...</l>
 </sp>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="917" part="f">À cet excès pousser votre colère ?</l>
 	<l id="918">Quelle horreur... pardonnez à mon discours sincère ;</l>
 	<l id="919">Je crains pour vous, Seigneur, l’infaillible retour</l>
@@ -1268,7 +1268,7 @@
 	<l id="932">Ne tend qu’à prévenir un repentir vengeur,</l>
 	<l id="933">Qu’à vous sauver enfin d’une indigne mémoire.</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="934">Madame, c’est assez, j’aurai soin de ma gloire,</l>
 	<l id="935">Je vois ce que prétend le zèle officieux</l>
 	<l id="936">Qui vient à ce moment d’éclater à mes yeux,</l>
@@ -1277,7 +1277,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="9"><head>SCÈNE IX.</head>
-<sp who="MARCENE"><speaker>MARCENE, seul.</speaker>
+<sp who="MARCENE"><hstage><speaker>MARCENE</speaker>, seul.</hstage>
 	<l id="939">Enfin le prince est près de périr aujourd’hui,</l>
 	<l id="940">Aigrirons-nous encore l’Empereur contre lui ?</l>
 	<l id="941">Ou faut-il que nos soins s’opposent à sa perte ?</l>
@@ -1288,17 +1288,17 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Léon, Aspar.</head>
-<sp who="LEON"><speaker>LÉON</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Léon, Aspar.</cast>
+<sp who="LEON"><hstage><speaker>LÉON</speaker></hstage>
 	<l id="945">Oui, c’est vous que je cherche, et je viens vous instruire</l>
 	<l id="946">D’un ordre nécessaire au salut de l’Empire,</l>
 	<l id="947">L’Empereur à vous seul daigne le confier.</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker></hstage>
 	<l id="948">Il suis prêt pour lui plaire à tout sacrifier,</l>
 	<l id="949" part="i">Commandez.</l>
 </sp>
-<sp who="LEON"><speaker>LÉON</speaker>
+<sp who="LEON"><hstage><speaker>LÉON</speaker></hstage>
 	<l id="949" part="f">L’Empereur a déjà vu la lettre</l>
 	<l id="950">Qu’entre les mains du prince on a voulu remettre.</l>
 	<l id="951">Vous savez que celui qui l’avait entrepris</l>
@@ -1308,10 +1308,10 @@
 	<l id="955">Faites la rendre au Prince, et trompez-le si bien,</l>
 	<l id="956">Que de cet artifice il ne soupçonne rien.</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker></hstage>
 	<l id="957">Seigneur, reposez-vous sur la foi de mon zèle.</l>
 </sp>
-<sp who="LEON"><speaker>LÉON</speaker>
+<sp who="LEON"><hstage><speaker>LÉON</speaker></hstage>
 	<l id="958">Mais surtout employez un ministre fidèle,</l>
 	<l id="959">Instruisez-le avec soin quand vous le choisirez,</l>
 	<l id="960">Souvenez-vous enfin que vous en répondrez.</l>
@@ -1319,14 +1319,14 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="ASPAR"><speaker>ASPAR, seul.</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker>, seul.</hstage>
 	<l id="961" part="f">Ne craignez rien, je vous ferai connaître</l>
 	<l id="962">Qu’Aspar quand il choisit, ne choisit pas un traître :</l>
 	<l id="963">Mais je vois Andronic, il porte ici ses pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Andronic, Aspar, Gardes.</head>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Andronic, Aspar, Gardes.</cast>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="964">Qu’on me laisse un moment, qu’on ne me trouble pas.</l>
 <note type="C">Le vers 964 comporte 13 pieds, nous supprimons « et » devant « qu’on ne trouble ».</note>
 	<l id="965">Desseins mal concertés, malheureuse vengeance,</l>
@@ -1368,20 +1368,20 @@
 	<l id="1001" part="i">Mais que veut-on de moi ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Andronic, Gelas.</head>
-<sp who="GELAS"><speaker>GELAS</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Andronic, Gelas.</cast>
+<sp who="GELAS"><hstage><speaker>GELAS</speaker></hstage>
 	<l id="1001" part="f">Seigneur, c’est une lettre</l>
 	<l id="1002">Qu’en secret dans vos mains j’ai promis de remettre.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1003">N’avez-vous rien à dire ? Et ne puis-je savoir...</l>
 </sp>
-<sp who="GELAS"><speaker>GELAS</speaker>
+<sp who="GELAS"><hstage><speaker>GELAS</speaker></hstage>
 	<l id="1004">Non, Seigneur, je vous quitte, et j’ai fait mon devoir.</l>
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="ANDRONIC"><speaker>ANDRONIC, seul.</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker>, seul.</hstage>
 	<l id="1005">Est-il quelque remède au malheur qui m’accable ?</l>
 	<l id="1006">Le ciel me jette-t-il un regard favorable ?</l>
 	<l id="1007">Qui peut-être touché de mon sort inhumain ?</l>
@@ -1423,18 +1423,18 @@
 	<l id="1041" part="i">Hola, Gardes, quelqu’un.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Andronic, Aspar.</head>
-<sp who="ASPAR"><speaker>ASPAR</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Andronic, Aspar.</cast>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker></hstage>
 	<l id="1041" part="f">Seigneur, que faut-il faire ?</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1042">Sachez si je pourrais entretenir mon père ?</l>
 	<l id="1043">Si suspendant le cours de son ressentiment,</l>
 	<l id="1044">Il daignerait encore m’écouter un moment ?</l>
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII.</head>
-<sp who="ANDRONIC"><speaker>ANDRONIC, seul.</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker>, seul.</hstage>
 	<l id="1045">Que vais-je faire ? Ô ciel ! Quelle triste entrevue ?</l>
 	<l id="1046">Que dire à l’Empereur ? Quelle honte à sa vue ?</l>
 	<l id="1047">Je vais donc lâchement implorer la bonté</l>
@@ -1453,67 +1453,67 @@
 	<l id="1060">Quels terribles assauts tu livres à mon cœur ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Andronic, Aspar.</head>
-<sp who="ASPAR"><speaker>ASPAR</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Andronic, Aspar.</cast>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker></hstage>
 	<l id="1061">Préparez-vous, Seigneur, votre père s’approche.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1062">Dites plutôt mon roi. Quel combat ? Quel reproche ?</l>
 	<l id="1063">Je sens plus que jamais mon cœur se révolter.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. L’Empereur, Andronic, Aspar.</head>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>L’Empereur, Andronic, Aspar.</cast>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="1064">Qu’on nous laisse. À mes pieds viendra-t-il se jeter ?</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1065">Par où commencerai-je, et qu’est-ce que j’espère ?</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="1066">Je sens à son aspect redoubler ma colère.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1067">Allons, obéissons, et balançons plus ;</l>
 	<l id="1068">Vous me voyez, Seigneur, interdit et confus...</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="1069">Qu’attendez-vous de moi, Prince, quelle espérance</l>
 	<l id="1070">Vous a fait en ces lieux souhaiter ma présence ?</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1071">Ah ! Loin de m’accabler, Seigneur, rassurez-moi,</l>
 	<l id="1072">Mes esprits sont saisis et de trouble et d’effroi,</l>
 	<l id="1073">Mon courage abattu, succombe à ma tristesse.</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="1074">Un cœur comme le vôtre a-t-il tant de faiblesse ?</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1075">Souvenez-vous, Seigneur, que je suis votre fils.</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="1076">Et le plus dangereux de tous mes ennemis.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1077">Le croyez-vous, Seigneur ? Ah ciel ! Qu’osez-vous dire ?</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="1078">Ce qu’un juste courroux et la raison m’inspire.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1079" part="i">Que je suis malheureux !</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="1079" part="f">Bien moins que criminel.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1080">Ne quitterez-vous point ce sentiment cruel ?</l>
 	<l id="1081">Serez-vous pour un fils inflexible et sévère ?</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="1082">Avez-vous donc été plus tendre pour un père ?</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1083">Et quoi c’en est donc fait ? Il ne m’est plus permis,</l>
 	<l id="1084">Seigneur, de me donner le nom de votre fils ?</l>
 	<l id="1085">Et cependant hélas ! Dans ce moment funeste,</l>
@@ -1523,16 +1523,16 @@
 	<l id="1089">J’ose dans votre cœur avec cette défense</l>
 	<l id="1090">Me promettre toujours un reste d’innocence.</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="1091">C’est là ce qui vous rend plus coupable à mes yeux</l>
 	<l id="1092">Vous joignez à ce nom des noms trop odieux.</l>
 	<l id="1093">Ingrat, et sans frémir je ne puis reconnaître</l>
 	<l id="1094">Mon sang dans un rebelle, et mon fils dans un traître.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1095" part="i">Seigneur...</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="1095" part="f">Ce ne sont plus maintenant des soupçons,</l>
 	<l id="1096">Nous avons découvert toutes vos trahisons ;</l>
 	<l id="1097">Allez, Prince, marchez où l’honneur vous convie,</l>
@@ -1540,11 +1540,11 @@
 	<l id="1099">Dans ces nobles emplois signalez votre bras.</l>
 	<l id="1100" part="i">D’autres crimes encore...</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1100" part="f">Ah ! Ne le croyez pas,</l>
 	<l id="1101">Ne me reprochez point un crime imaginaire.</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="1102">Quoi, se rendre le chef d’un peuple téméraire,</l>
 	<l id="1103">Traiter secrètement avec des révoltés,</l>
 	<l id="1104">Sont-ce là, dites-moi, des crimes inventés ?</l>
@@ -1563,15 +1563,15 @@
 	<l id="1116">Où plutôt, sont-ce là toutes tes trahisons ?</l>
 	<l id="1117">Parle ; ton embarras suffit pour te confondre.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1118">Non, Seigneur, je ne puis ou je n’ose vous répondre,</l>
 	<l id="1119">Je suis moins criminel que je ne le parais,</l>
 	<l id="1120">Et vous ne savez pas encore tous mes secrets.</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="1121" part="i">Quoi ?</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1121" part="f">De vos favoris la farouche conduite</l>
 	<l id="1122">Pourrait justifier le dessein de ma fuite,</l>
 	<l id="1123">Sous le joug importun de leurs sévères lois,</l>
@@ -1587,10 +1587,10 @@
 	<l id="1133">Regardez-moi, Seigneur, avec des yeux de père ;</l>
 	<l id="1134">Mais hélas ! Je ne fais qu’aigrir votre colère.</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="1135">Prince, n’avez-vous rien à me dire de plus ?</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1136">Non, d’en avoir tant dit je suis même confus :</l>
 	<l id="1137">Ah ! Ce n’est point l’horreur d’un coup qui me menace</l>
 	<l id="1138">Qui me fait mendier une honteuse grâce,</l>
@@ -1600,10 +1600,10 @@
 	<l id="1142">Et la mort à mes yeux n’offre rien de terrible :</l>
 	<l id="1143">Si l’on m’eut contraint à cet indigne effort...</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="1144" part="i">C’est assez, je t’entends.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1144" part="f">Ordonnez de mon sort,</l>
 	<l id="1145">Hâtez le coup fatal d’une lente justice,</l>
 	<l id="1146">La vie est désormais mon plus cruel supplice,</l>
@@ -1613,7 +1613,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="10"><head>SCÈNE X.</head>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR, seul.</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker>, seul.</hstage>
 	<l id="1149">Ô ciel ! Jusqu’où l’emportera une aveugle insolence ?</l>
 	<l id="1150">C’est trop en ta faveur me faire violence,</l>
 	<l id="1151">Si l’on ne l’eut contraint à cet indigne effort,</l>
@@ -1673,7 +1673,7 @@
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="ANDRONIC"><speaker>ANDRONIC, seul.</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker>, seul.</hstage>
 	<l id="1203">Serais-je encore longtemps dans cet état cruel ?</l>
 	<l id="1204">Pourquoi laisse-t-on vivre un prince criminel ?</l>
 	<l id="1205">Cette lenteur funeste, et cette incertitude</l>
@@ -1690,19 +1690,19 @@
 	<l id="1216">Mais enfin voici l’ordre, et la mort que j’attends.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Andronic, Aspar, Gelas, Crispe.</head>
-<sp who="ASPAR"><speaker>ASPAR</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Andronic, Aspar, Gelas, Crispe.</cast>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker></hstage>
 	<l id="1217" part="i">Seigneur...</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1217" part="f">Je vous entends, on veut que je périsse.</l>
 	<l id="1218" part="i">Allons donc.</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker></hstage>
 	<l id="1218" part="f">Vous pouvez choisir votre supplice.</l>
 	<l id="1219" part="i">L’Empereur le permet.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1219" part="f">Sa bonté me surprend,</l>
 	<l id="1220">Je le croyais moins tendre, et mon crime trop grand,</l>
 	<l id="1221">Je n’abuserai point enfin de sa grâce,</l>
@@ -1711,8 +1711,8 @@
 	<l id="1224">Vous me trouverez prêt, revenez m’avertir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Andronic, Gelas, Crispe.</head>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Andronic, Gelas, Crispe.</cast>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1225">Mais hélas ! Quel transport, quel mouvement me presse ?</l>
 	<l id="1226">Que l’on me donne un siège ; il suffit, qu’on me laisse.</l>
 <stage>Crispe lui donne un siège.</stage>
@@ -1721,7 +1721,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="ANDRONIC"><speaker>ANDRONIC, seul.</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker>, seul.</hstage>
 	<l id="1229">Il est temps de s’armer d’une noble constance,</l>
 	<l id="1230">Où se termine, hélas ! toute mon espérance ?</l>
 	<l id="1231">Sorti du plus beau sang qu’adore l’univers,</l>
@@ -1766,30 +1766,30 @@
 	<l id="1270">Ne te lasse jamais d’embrasser sa défense.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Andronic, Aspar, Gelas.</head>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Andronic, Aspar, Gelas.</cast>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1271">Pourquoi me montrez-vous un visage interdit ?</l>
 	<l id="1272">Avez-vous fait, Aspar, ce que je vous ai dit ?</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker></hstage>
 	<l id="1273" part="i">Oui, Seigneur.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1273" part="m">Tout est prêt ?</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker></hstage>
 	<l id="1273" part="f">Je frémis de le dire.</l>
 </sp>
-<sp who="ANDRONIC"><speaker>ANDRONIC</speaker>
+<sp who="ANDRONIC"><hstage><speaker>ANDRONIC</speaker></hstage>
 	<l id="1274" part="i">Tout est prêt, allons donc.</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker></hstage>
 	<l id="1274" part="f">Ô vertu que j’admire.</l>
 	<l id="1275" part="i">Gelas, menez le prince.</l>
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="ASPAR"><speaker>ASPAR, seul.</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker>, seul.</hstage>
 	<l id="1275" part="f">Ah ! Dans son triste sort</l>
 	<l id="1276">Je lui cache des maux plus cruels que sa mort,</l>
 	<l id="1277">Sinistre événement ! Exemple redoutable !</l>
@@ -1797,40 +1797,40 @@
 	<l id="1279">De quels coups après toi sommes-nous menacés ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Irène, Narcée, Aspar.</head>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Irène, Narcée, Aspar.</cast>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="1280">Non, je ne puis me rendre à tes soins empressés,</l>
 	<l id="1281">Je veux voir Andronic en ce moment funeste,</l>
 	<l id="1282">Narcée, et lui donner tout le temps qui me reste :</l>
 	<l id="1283">Que fait le Prince, Aspar ? L’apprendrai-je à mon tour ?</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker></hstage>
 	<l id="1284" part="i">Madame...</l>
 </sp>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="1284" part="f">Expliquez-vous, parlez-moi sans détour.</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker></hstage>
 	<l id="1285">Auprès de l’Empereur un ordre exprès m’attire :</l>
 	<l id="1286" part="i">Vous saurez tout.</l>
 </sp>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="1286" part="f">Allez, prenez soin de lui dire</l>
 	<l id="1287">Que je suis en ces lieux, enfin que je l’attends,</l>
 	<l id="1288">Prête à lui révéler des secrets importants.</l>
 <note type="C">Dans le vers précédent, on lit ’relever’ au lieu de ’révéler’.</note>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Irène, Narcée.</head>
-<sp who="NARCÉE"><speaker>NARCÉE</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Irène, Narcée.</cast>
+<sp who="NARCÉE"><hstage><speaker>NARCÉE</speaker></hstage>
 	<l id="1289">Mais que prétendez-vous, et qu’est-ce que vous faites ?</l>
 	<l id="1290">Mais songez-vous à l’état où vous êtes ?</l>
 	<l id="1291">Hélas que je vous plains ! Mon cœur saisi d’effroi</l>
 	<l id="1292" part="i">Regarde votre sort...</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Irène, Eudoxe, Marcée.</head>
-<sp who="EUDOXE"><speaker>EUDOXE</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>Irène, Eudoxe, Marcée.</cast>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker></hstage>
 	<l id="1292" part="f">Ciel ! Qu’est-ce que je vois ?</l>
 	<l id="1293">Quel est votre dessein ? Vous m’avez donc trompé.</l>
 	<l id="1294">Quoi, Madame, à mes bras n’êtes-vous échappée</l>
@@ -1840,7 +1840,7 @@
 	<l id="1298">Que vous eussiez si mal ménagé votre gloire ?</l>
 	<l id="1299">Que dira l’avenir, tout l’Empire, un époux ?</l>
 </sp>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="1300">Ô ciel ! Par ces conseils quels temps choisissez-vous ?</l>
 	<l id="1301">Hélas ! En ma faveur soyez plus indulgente,</l>
 	<l id="1302">Je vais mourir, Eudoxe, et mourir innocente,</l>
@@ -1857,10 +1857,10 @@
 	<l id="1313">Le vase criminel et la liqueur funeste,</l>
 	<l id="1314">Qui de mes tristes jours va consommer le reste.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker></hstage>
 	<l id="1315">Ah ! Quittez ce dessein, et cherchez du secours.</l>
 </sp>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="1316">Voulez-vous de mes maux éterniser le cours ?</l>
 	<l id="1317">Non, non, qu’à l’Empereur je serve de victime,</l>
 	<l id="1318">Il croit son fils et moi noircis du même crime :</l>
@@ -1878,25 +1878,25 @@
 	<l id="1330">J’accomplisse à la fin toute ma destinée.</l>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Irène, Eudoxe, Narcée, Gelas.</head>
-<sp who="GELAS"><speaker>GELAS</speaker>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><cast>Irène, Eudoxe, Narcée, Gelas.</cast>
+<sp who="GELAS"><hstage><speaker>GELAS</speaker></hstage>
 	<l id="1331">Madame où courez-vous, et qu’allez-vous chercher ?</l>
 	<l id="1332">Ah ! Plutôt de ces lieux il faut vous arracher,</l>
 	<l id="1333">Évitez un objet qui déchire mon âme.</l>
 </sp>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="1334" part="i">Andronic est donc mort ?</l>
 </sp>
-<sp who="GELAS"><speaker>GELAS</speaker>
+<sp who="GELAS"><hstage><speaker>GELAS</speaker></hstage>
 	<l id="1334" part="f">Il ne vit plus, Madame,</l>
 	<l id="1335">Je viens en ce moment de le voir expirer,</l>
 	<l id="1336">Dans le bain que lui-même avait fait préparer.</l>
 </sp>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="1337">Soutenez-moi ! Je cède après ce coup funeste :</l>
 	<l id="1338">Et vous, du sort du prince apprenez-moi le reste.</l>
 </sp>
-<sp who="GELAS"><speaker>GELAS</speaker>
+<sp who="GELAS"><hstage><speaker>GELAS</speaker></hstage>
 	<l id="1339">Sans se plaindre un moment de son sort inhumain;</l>
 	<l id="1340">Il nous suit. Sans frémir il entre dans le bain,</l>
 	<l id="1341">Offre ses bras lui-même, en fait couper les veines,</l>
@@ -1908,12 +1908,12 @@
 	<l id="1347">Son âme avec son sang trop prompt à s’écouler,</l>
 	<l id="1348" part="i">Court au terme fatal...</l>
 </sp>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="1348" part="f">Je me sens accabler,</l>
 	<l id="1349">Donnez un peu de temps à mon âme abattue :</l>
 	<l id="1350">C’est assez : achevez un discours qui me tue.</l>
 </sp>
-<sp who="GELAS"><speaker>GELAS</speaker>
+<sp who="GELAS"><hstage><speaker>GELAS</speaker></hstage>
 	<l id="1351">Il lève au ciel les yeux pour la dernière fois,</l>
 	<l id="1352">Et prononce ces mots d’une mourante voix :</l>
 	<l id="1353">« Ô mort ! Des malheureux unique et sûr asile,</l>
@@ -1942,15 +1942,15 @@
 	<l id="1376">Je vais en d’autres lieux renfermer mes douleurs.</l>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Irène, Eudoxe, Narcée.</head>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><cast>Irène, Eudoxe, Narcée.</cast>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="1377">C’en est fait, à ces yeux la lumière est ravie,</l>
 	<l id="1378">Éclatés mes soupirs, sa mort vous justifie.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker></hstage>
 	<l id="1379" part="i">Quoi donc...</l>
 </sp>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="1379" part="f">Regrets, transports jusqu’ici retenus,</l>
 	<l id="1380">Paraissez, il est temps, je ne vous contraints plus.</l>
 	<l id="1381">Il est mort ! Ciel quel sang a-t-on osé répandre ?</l>
@@ -1966,8 +1966,8 @@
 	<l id="1391">Ma peine à son aspect vient de redoubler.</l>
 </sp>
 </div2>
-<div2 type="scene" n="12"><head>SCÈNE DERNIÈRE. L’Empereur, Irène, Eudoxe, Narcée.</head>
-<sp who="IRENE"><speaker>IRÈNE</speaker>
+<div2 type="scene" n="12"><head>SCÈNE DERNIÈRE.</head><cast>L’Empereur, Irène, Eudoxe, Narcée.</cast>
+<sp who="IRENE"><hstage><speaker>IRÈNE</speaker></hstage>
 	<l id="1392">Seigneur, avant ma mort, j’ai voulu vous parler,</l>
 	<l id="1393">Andronic est puni, je meurs empoisonnée,</l>
 	<l id="1394">Vous l’avez soupçonné, vous m’avez soupçonnée,</l>
@@ -1994,7 +1994,7 @@
 	<l id="1415">Ôtez-moi de ces lieux, et que je puisse au moins</l>
 	<l id="1416">N’avoir en expirant que vos yeux pour témoins.</l>
 </sp>
-<sp who="L-EMPEREUR"><speaker>L’EMPEREUR</speaker>
+<sp who="L-EMPEREUR"><hstage><speaker>L’EMPEREUR</speaker></hstage>
 	<l id="1417">Qu’entends-je ? Quel effroi, quelle pitié soudaine</l>
 	<l id="1418">S’empare de mon cœur, m’épouvante, et me gêne ?</l>
 	<l id="1419">Étaient-ils innocents ou coupables tous deux ?</l>

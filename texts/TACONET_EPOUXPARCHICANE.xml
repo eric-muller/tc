@@ -56,20 +56,20 @@
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
 <stage>Le Théâtre représente un gros Village : on voit d’un côté le Moulin à eau d’un meunier, et une ferme dans le lointain.</stage>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Michau, Antoinette.</head>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Michau, Antoinette.</cast>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="1">Enfin voici le jour où tout me favorise ;</l>
 	<l id="2">Nos pères vont ici terminer tout procès :</l>
 	<l id="3">L’Objet dont mon âme est éprise,</l>
 	<l id="4">Antoinette est le sceau d’une si douce paix.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="5">Cette paix flatte autant mon âme</l>
 	<l id="6">Que la vôtre y trouve d’appas.</l>
 	<l id="7">Je vous dirai bien plus: une secrète flamme</l>
 	<l id="8" part="i">Pour vous.... Mais ma pudeur...</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="8" part="f">Quel est cet embarras ?</l>
 	<l id="9">Si j’eus le bonheur de te plaire,</l>
 	<l id="10">Pourquoi, belle Antoinette, en ferais-tu mystère ?</l>
@@ -89,7 +89,7 @@
 	<l id="19">Mais tu ne réponds rien au transport qui me presse?</l>
 	<l id="20">Je serais fâché qu’il te blesse.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 <stage>Air. Noté, n°1;</stage>
 	<l id="21">Dans le silence de l’amour</l>
 	<l id="22">Il s’explique mieux qu’on ne pense;</l>
@@ -98,12 +98,12 @@
 	<l id="25">Mais un tendre cœur lit d’avance.</l>
 	<l id="26">Dans le silence de l’amour.</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="27">Ah ! Trop heureux Michau ! Que cet aveu me touche !</l>
 	<l id="28">Malgré tant de procès nourris,</l>
 	<l id="29">Antoinette et Michau vont donc se voir unis !</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="30">Oui, mon cœur aujourd’hui cesse d’être farouche.</l>
 <stage>Air: Et j’y pris bien du plaisir.</stage>
 	<l id="31">La forte délicatesse</l>
@@ -120,7 +120,7 @@
 	<l id="42">Je mentirais : sans nos parents sévères,</l>
 	<l id="43">Tu m’aurais fait plutôt le destin le plus doux.</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="44">Enfin me voilà ton époux :</l>
 	<l id="45">Nous verrons désormais s’accorder nos deux pères.</l>
 <stage>Air des Fleurs de Rhétorique.</stage>
@@ -134,7 +134,7 @@
 	<l id="53">Lon là,</l>
 	<l id="54">Si j’en fais bon usage.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 <stage>Air du Prévôt des Marchands.</stage>
 	<l id="55">Que j’aime à te voir satisfait</l>
 	<l id="56">Du choix que nos parents ont fait !</l>
@@ -143,22 +143,22 @@
 	<l id="59">Le mien dans cette conjoncture</l>
 	<l id="60">Ne demande qu’à voir le jour.</l>
 </sp>
-<sp who="MICHAU, ANTOINETTE"><speaker>DUO.</speaker>
+<sp who="MICHAU, ANTOINETTE"><hstage><speaker>DUO</speaker>.</hstage>
 <stage>Air Noté, N°2.</stage>
 	<l id="61">Vive, vive l’allégresse;</l>
 	<l id="62">Entre nous plus de procès.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="63">Mon cœur va payer les frais.</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="64">Le mien tiendra sa promesse.</l>
 </sp>
-<sp who="MICHAU, ANTOINETTE"><speaker>ENSEMBLE.</speaker>
+<sp who="MICHAU, ANTOINETTE"><hstage><speaker>ENSEMBLE</speaker>.</hstage>
 	<l id="65">Vive, vive l’allégresse ;</l>
 	<l id="66">Entre nous plus de procès.</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="67">Trop de peine,</l>
 	<l id="68">Trop de haine</l>
 	<l id="69">Conduit la chicane au port :</l>
@@ -168,13 +168,13 @@
 	<l id="73">Et le succès tardif</l>
 	<l id="74">Est à l’infinitif.</l>
 </sp>
-<sp who="MICHAU, ANTOINETTE"><speaker>ENSEMBLE.</speaker>
+<sp who="MICHAU, ANTOINETTE"><hstage><speaker>ENSEMBLE</speaker>.</hstage>
 	<l id="75">Vive, vive l’allégresse;</l>
 	<l id="76">Entre nous plus de procès.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Furibon, Michau, Antoinette.</head>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Furibon, Michau, Antoinette.</cast>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 <stage>Air : Où s’en vont ces gais Bergers ?</stage>
 	<l id="77">Oui, mon cœur en est charmé,</l>
 	<l id="78">Un tel parti m’honore,</l>
@@ -187,30 +187,30 @@
 	<l id="84">Vos cœurs ne sont-ils pas contents ?</l>
 	<l id="85">Avez-vous à présent à vous plaindre d’un père ?</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="86">Moi, je ne pense qu’au contraire.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="87">Moi j’ai les mêmes sentiments.</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 	<l id="88">Bon, tant mieux, je m’en félicite.</l>
 	<l id="89">Vos sœurs et vos frères sont tous</l>
 	<l id="90">Sur le même article que vous,</l>
 	<l id="91">Et chacun au mieux s’en acquitte.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE, les yeux baissés.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>, les yeux baissés.</hstage>
 	<l id="92">Obéir à son père est une loi prescrite ;</l>
 	<l id="93">C’est toujours un devoir pour nous :</l>
 	<l id="94">Mais lorsqu’on le remplit avec un tendre époux,</l>
 	<l id="95">Le devoir a bien du mérite.</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 <stage>Air : Voulez-vous être heureux amants.</stage>
 	<l id="96">Cependant pour notre dessein</l>
 	<l id="97">Je craignais de te voir débattre.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="98">Mon cher Michau s’y prit trop bien</l>
 	<l id="99">Pour que je puisse le combattre.</l>
 <stage>Air Noté, N°3</stage>
@@ -223,26 +223,26 @@
 	<l id="106">L’Amour qui muse</l>
 	<l id="107">Perd son crédit.</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 <stage>Air : La bonne aventure.</stage>
 	<l id="108">Quel plaisir quand notre cœur</l>
 	<l id="109">Aime avec usure !</l>
 	<l id="110">L’intérêt de notre ardeur</l>
 	<l id="111">N’altère point sa valeur.</l>
 </sp>
-<sp who="FURIBON, ANTOINETTE, MICHAU"><speaker>ENSEMBLE.</speaker>
+<sp who="FURIBON, ANTOINETTE, MICHAU"><hstage><speaker>ENSEMBLE</speaker>.</hstage>
 	<l id="112">La bonne aventure,</l>
 	<l id="113">Ô gai,</l>
 	<l id="114">La bonne aventure.</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 	<l id="115">Mais j’étais en peine de vous.</l>
 	<l id="116">On vient de commencer la danse:</l>
 	<l id="117">Chacun vous demande, et l’on pense</l>
 	<l id="118">A faire sauter les époux.</l>
 	<l id="119">Rendez-vous au salon; un peu de complaisance.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 <stage>Air : Manon dormait.</stage>
 	<l id="120">C’est de bon cœur</l>
 	<l id="121">Que j’y vais faire entrée;</l>
@@ -254,19 +254,19 @@
 <stage>Michau et Antoinette sortent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE III. Furibon, Patau.</head>
-<sp who="FURIBON"><speaker>FURIBON, à part.</speaker>
+<div2 type="scene" n=""><head>SCÈNE III.</head><cast>Furibon, Patau.</cast>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>, à part.</hstage>
 	<l id="127">Oui, oui, dansez, chantez, je battrai la mesure.</l>
 </sp>
-<sp who="PATAU"><speaker>PATAU.</speaker>
+<sp who="PATAU"><hstage><speaker>PATAU</speaker>.</hstage>
 	<l id="128">J’attendais leur sortie : or sus, la plume en main.</l>
 <stage>Il tire l’écritoire.</stage>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 	<l id="129">Il faut, mon cher Patau, prendre une route sûre,</l>
 	<l id="130">Pour assigner Michau demain de grand matin.</l>
 </sp>
-<sp who="PATAU"><speaker>PATAU.</speaker>
+<sp who="PATAU"><hstage><speaker>PATAU</speaker>.</hstage>
 	<l id="131">Suffit ; comptez sur mon adresse.</l>
 	<l id="132">Je suis connu dans le canton ;</l>
 	<l id="133">Mais quand j’aurais moins de renom,</l>
@@ -280,7 +280,7 @@
 	<l id="139">Entre mes mains, je vous jure,</l>
 	<l id="140">Procès dure, dure, dure.</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 <stage>Air : Quand la Mer rouge apparut.</stage>
 	<l id="141">Si le mien peut se gagner,</l>
 	<l id="142">Comme je l’espère,</l>
@@ -293,7 +293,7 @@
 	<l id="149">Pour que tu grapille</l>
 	<l id="150">En huissier qui brille.</l>
 </sp>
-<sp who="PATAU"><speaker>PATAU.</speaker>
+<sp who="PATAU"><hstage><speaker>PATAU</speaker>.</hstage>
 	<l id="151">Oh ! Vous vous moquez tout-à-fait.</l>
 	<l id="152">Je n’aspire qu’à votre estime.</l>
 	<l id="153">Qui moi, vous parler d’intérêt ?</l>
@@ -308,19 +308,19 @@
 	<l id="161">Le plus périt exploit</l>
 	<l id="162">Toujours me plaît.</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 	<l id="163">Je n’ai jamais douté de ton intelligence;</l>
 	<l id="164">Tu sais qu’il nous en saur dans cette circonstance.</l>
 </sp>
-<sp who="PATAU"><speaker>PATAU.</speaker>
+<sp who="PATAU"><hstage><speaker>PATAU</speaker>.</hstage>
 	<l id="165">Laissez faire à Patau, il n’en manquera pas.</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 	<l id="166">Ce que je crains en pareil cas,</l>
 	<l id="167">C’est ma fille, c’est sa tendresse:</l>
 	<l id="168">Elle est folle de son Michau.</l>
 </sp>
-<sp who="PATAU"><speaker>PATAU.</speaker>
+<sp who="PATAU"><hstage><speaker>PATAU</speaker>.</hstage>
 	<l id="169">Voyez-vous ça ! La bonne pièce !</l>
 	<l id="170">Vraiment c’est un petit cœur chaud:</l>
 	<l id="171">Tant mieux, nouvelle procédure;</l>
@@ -328,7 +328,7 @@
 	<l id="173">Des époux s’aimer ! Quelle injure !</l>
 	<l id="174">Oh ! nous en produirons bons et loyaux exploits.</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 	<l id="175">Je suis sûr de Catau, de Suson, de Nannette ;</l>
 	<l id="176">Charlotte, Madelon, toutes m’ont bien promis</l>
 	<l id="177">De me livrer mes ennemis:</l>
@@ -349,7 +349,7 @@
 	<l id="191">Je connais trop par quel moyen</l>
 	<l id="192">J’ai su m’adjuger cette ferme.</l>
 </sp>
-<sp who="PATAU"><speaker>PATAU.</speaker>
+<sp who="PATAU"><hstage><speaker>PATAU</speaker>.</hstage>
 	<l id="193">Laissons-là le scrupule, il n’est utile à rien.</l>
 <stage>Air: Tout roule aujourd’hui dans le Monde.</stage>
 	<l id="194">Bien ou mal acquis, il n’importe;</l>
@@ -363,29 +363,29 @@
 	<l id="202">Assignons, chicanons ; mais quelqu’un va paraître,</l>
 	<l id="203">Car j’entends murmurer au loin.</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 	<l id="204">Afin de voir qui ce peut être,</l>
 	<l id="205">Allons nous cacher dans ce coin.</l>
 <stage>Ils se retirent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Antoinette, Françoise.</head>
-<sp who="FRANÇOISE"><speaker>FRANÇOISE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Antoinette, Françoise.</cast>
+<sp who="FRANÇOISE"><hstage><speaker>FRANÇOISE</speaker>.</hstage>
 <stage>Air: De tous les Capucins du monde.</stage>
 	<l id="206">Pourquoi quitter la Compagnie.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="207">Tout ce tintamarre m’ennuie:</l>
 	<l id="208">Le grand Monde n’est pas ici</l>
 	<l id="209">L’amusement où je m’arrête,</l>
 	<l id="210">Et mon tendre cœur aujourd’hui</l>
 	<l id="211">Aimerait mieux le tête-à-tête.</l>
 </sp>
-<sp who="FRANÇOISE"><speaker>FRANÇOISE.</speaker>
+<sp who="FRANÇOISE"><hstage><speaker>FRANÇOISE</speaker>.</hstage>
 	<l id="212">Quand on est tous amis, qu’est-il donc tant besoin</l>
 	<l id="213">D’en agir avec la contrainte.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="214">Je n’ai point de plaisir sans crainte,</l>
 	<l id="215">Quand je le prends devant témoin.</l>
 <stage>Air Noté, N° 5.</stage>
@@ -396,62 +396,62 @@
 	<l id="220">D’un réduit paisible</l>
 	<l id="221">Sait tirer le fruit.</l>
 </sp>
-<sp who="FRANÇOISE"><speaker>FRANÇOISE.</speaker>
+<sp who="FRANÇOISE"><hstage><speaker>FRANÇOISE</speaker>.</hstage>
 	<l id="222">L’Amour a des charmes, sans doute :</l>
 	<l id="223">Vous en parlez d’un ton qui fait que je le goûte.</l>
 <stage>Air. Comment faire.</stage>
 	<l id="224">Votre époux vous aimera bien.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="225">Jusqu’à présent je n’en sais rien.</l>
 	<l id="226">Il est vrai qu’il me considère :</l>
 	<l id="227">Tantôt il vint me le jurer;</l>
 	<l id="228">Mais je voudrais m’en assurer.</l>
 	<l id="229">Comment faire ?</l>
 </sp>
-<sp who="FRANÇOISE"><speaker>FRANÇOISE.</speaker>
+<sp who="FRANÇOISE"><hstage><speaker>FRANÇOISE</speaker>.</hstage>
 <stage>Air: Lon, lan, là, derirette.</stage>
 	<l id="230">Ce soir, avant qu’il soit plus tard,</l>
 	<l id="231">Il faudrait le prendre à l’écart,</l>
 	<l id="232">Lon, lan, là, derirette.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="233" part="i">S’il refusait....</l>
 </sp>
-<sp who="FRANÇOISE"><speaker>FRANÇOISE.</speaker>
+<sp who="FRANÇOISE"><hstage><speaker>FRANÇOISE</speaker>.</hstage>
 	<l id="233" part="f">Oh ! que nenni,</l>
 	<l id="234">Lon, lan, là, deriri.</l>
 <stage>Air : Je ne suis né ni Roi ni Prince.</stage>
 	<l id="235">Le croyez-vous donc si novice ?</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="236">Ah ! Tu lui ferais injustice,</l>
 	<l id="237">De le soupçonner un moment</l>
 	<l id="238">D’imprudence ou de stratagème.</l>
 </sp>
-<sp who="FRANÇOISE"><speaker>FRANÇOISE.</speaker>
+<sp who="FRANÇOISE"><hstage><speaker>FRANÇOISE</speaker>.</hstage>
 	<l id="239">Tâchez qu’il vous prouve souvent</l>
 	<l id="240">Si c’est de la sorte qu’il aime.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Furibon, Antoinette, Ftançoise.</head>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Furibon, Antoinette, Ftançoise.</cast>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 <stage>Air : Vous avez bien de la bonté.</stage>
 	<l id="241">Mon cher Papa, me cherchez-vous</l>
 	<l id="242">Disposez d’Antoinette.</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON, à part.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>, à part.</hstage>
 	<l id="243">Ma fille, il s’agit entre nous</l>
 	<l id="244">D’une affaire secrète ;</l>
 	<l id="245">Mais je veux la cacher à tous:</l>
 	<l id="246">Toi seule as dans cette occurrence</l>
 	<l id="247">Ma confiance.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="248">Mon père, en vérité</l>
 	<l id="249">Vous avez bien de la bonté.</l>
 </sp>
-<sp who="FRANÇOISE"><speaker>FRANÇOISE, à part.</speaker>
+<sp who="FRANÇOISE"><hstage><speaker>FRANÇOISE</speaker>, à part.</hstage>
 	<l id="250">Notre Maître vient à sa fille</l>
 	<l id="251">Donner encor quelque leçon.</l>
 	<l id="252">Laissons-les ; je veux au salon</l>
@@ -460,22 +460,22 @@
 <stage>Elle sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Furibon, Antoinette.</head>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Furibon, Antoinette.</cast>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 	<l id="255">Nous sommes seuls ici; c’est un point nécessaire.</l>
 	<l id="256">Je ne t’ai rien caché sur différents sujets;</l>
 	<l id="257">Mais voici le plus beau, le plus grand des secrets</l>
 	<l id="258">Que te puisse apprendre ton père.</l>
 	<l id="259">Te sens-tu disposée à servir mes projets ?</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 <stage>Air : Réveillez-vous, Belle endormie.</stage>
 	<l id="260">Me voilà prête à vous entendre,</l>
 	<l id="261">Vous avez tout pouvoir sur moi ;</l>
 	<l id="262">Après vous je n’en laisse prendre</l>
 	<l id="263">Qu’à l’époux dont je suis la lois.</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 	<l id="264">Tu dois savoir ma haine extrême</l>
 	<l id="265">Pour le père et les fils, pour ton époux lui-même.</l>
 	<l id="266">En s’unissant à moi, je connais leurs desseins:</l>
@@ -494,7 +494,7 @@
 	<l id="279">Et par raison ou par finesse,</l>
 	<l id="280">Ensuite on vous séparera.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE, évanouie.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>, évanouie.</hstage>
 	<l id="281">Ah ! Je succombe de faiblesse.</l>
 <stage>Air : Sous un ormeau.</stage>
 <poem>
@@ -518,7 +518,7 @@
 </lg>
 </poem>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 <stage>Air : Ciel ! l’Univers va-t-il donc se dissoudre.</stage>
 	<l id="296">C’est justement l’espoir qui me lutine,</l>
 	<l id="297">Depuis long-temps il m’occupe en ces lieux</l>
@@ -532,10 +532,10 @@
 	<l id="305">Un autre va me servir aujourd’hui.</l>
 <stage>Il veut sortir.</stage>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE, l’arrêtant.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>, l’arrêtant.</hstage>
 	<l id="306" part="i">Ah ! mon père, arrêtez.</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 	<l id="306" part="f">Je vais de ce pas même</l>
 	<l id="307">Charger un autre du projet.</l>
 	<l id="308">Toi, si tu trahis mon secret,</l>
@@ -545,30 +545,30 @@
 	<l id="312">Tes sœurs avec mes vœux bien plus d’intelligence,</l>
 	<l id="313">M’assurent déjà du succès.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="314">Quoi, mes sœurs vont trahir l’amour et la nature ?</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 	<l id="315">Dès ce soir meme; qu’en dis-tu?</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE, pleurant.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>, pleurant.</hstage>
 	<l id="316">Je dis qu’elles n’ont pas une bonne teinture</l>
 	<l id="317">De l’hymen ni de sa vertu.</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 <stage>Air : De son joli Jardinet.</stage>
 	<l id="318">Je pardonne encor l’injure,</l>
 	<l id="319">Pourvu que tu dise ici,</l>
 	<l id="320">Oui, oui, oui, oui,</l>
 	<l id="321">Oui, oui, oui, oui.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="322">Je le voudrais, je vous jure ;</l>
 	<l id="323">Mais mon cœur dit tout de bon,</l>
 	<l id="324">Non, non, non, non,</l>
 	<l id="325">Non, non, non, non.</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 	<l id="326">Cela suffit ; ma mignonne,</l>
 	<l id="327">Vous verrez lorsque j’ordonne,</l>
 	<l id="328">Si je veux être obéi ;</l>
@@ -578,7 +578,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII.</head>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 <stage>Air : Margoton, mamie.</stage>
 	<l id="331">Peut-on voir paraître</l>
 	<l id="332">Plus de cruauté ?</l>
@@ -611,7 +611,7 @@
 <div1 type="acte" n="2"><head>ACTE II</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
 <stage>Le Théâtre représente une Nuit.</stage>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="354">Que mon inquiétude augmente,</l>
 	<l id="355">Quand je vois que chacun y prend si peu de part !</l>
 	<l id="356">Tous se sont réunis pour prendre leur départ.</l>
@@ -653,38 +653,38 @@
 	<l id="388">Pour moi des bons Maris les chagrins sont précoces.</l>
 	<l id="389">Serais-je fait cocu dès le jour de mes Noces ?</l>
 </sp>
-<sp who="THIBAUT"><speaker>THIBAUT, dans la coulisse.</speaker>
+<sp who="THIBAUT"><hstage><speaker>THIBAUT</speaker>, dans la coulisse.</hstage>
 <stage>Air : Voici les Dragons qui viennent.</stage>
 	<l id="390">Ah ! Quelle supercherie</l>
 	<l id="391">Pour Maître Michau !</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="392">N’entends-je pas que l’on crie ?</l>
 	<l id="393">Mais ce n’est point raillerie :</l>
 	<l id="394">Je vois Thibaut... (bis.)</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Michau, Thibaut.</head>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Michau, Thibaut.</cast>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="395">Qu’as-tu ? quel est donc ce désordre ?</l>
 	<l id="396">Antoinette est-elle avec toi ?</l>
 </sp>
-<sp who="THIBAUT"><speaker>THIBAUT.</speaker>
+<sp who="THIBAUT"><hstage><speaker>THIBAUT</speaker>.</hstage>
 	<l id="397">Qui votre femme ? Oh ! Par ma foi,</l>
 	<l id="398">Elle vous donne ici bien du fil à retordre.</l>
 	<l id="399">Quoi ! Vous ignorez le panneau ?</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="400" part="i">Oui.</l>
 </sp>
-<sp who="THIBAUT"><speaker>THIBAUT.</speaker>
+<sp who="THIBAUT"><hstage><speaker>THIBAUT</speaker>.</hstage>
 	<l id="400" part="f">Je tremble pour votre peau.</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 <stage>Air : Des Nymphes allaient par le coche.</stage>
 	<l id="401">Explique toi: que veux tu dire ?</l>
 </sp>
-<sp who="THIBAUT"><speaker>THIBAUT.</speaker>
+<sp who="THIBAUT"><hstage><speaker>THIBAUT</speaker>.</hstage>
 	<l id="402">À minuit chacun se retire,</l>
 	<l id="403">La Musique ivre allait ronfler :</l>
 	<l id="404">Moi bien fâché que l’on m’en prive,</l>
@@ -708,10 +708,10 @@
 	<l id="422">J’aurais fort bien pu l’arrêter ;</l>
 	<l id="423">Mais je voulais tout vous conter.</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="424">Que veut dire cette aventure ?</l>
 </sp>
-<sp who="THIBAUT"><speaker>THIBAUT.</speaker>
+<sp who="THIBAUT"><hstage><speaker>THIBAUT</speaker>.</hstage>
 	<l id="425">Je ne sais; mais dans le murmure</l>
 	<l id="426">J’entends parler de trahison.</l>
 	<l id="427">Votre beau-père en veut, dit-on,</l>
@@ -719,19 +719,19 @@
 	<l id="429">Pour chicaner après sur le bien de vos pères.</l>
 	<l id="430">N’auriez-vous pas chez vous aussi ?...</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="431">Je connais Furibon et mon erreur ensemble ;</l>
 	<l id="432">Mais j’entends quelque bruit.</l>
 </sp>
-<sp who="THIBAUT"><speaker>THIBAUT.</speaker>
+<sp who="THIBAUT"><hstage><speaker>THIBAUT</speaker>.</hstage>
 	<l id="433">Ne craignez rien ici.</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="434">Oh! je n’ai pas peur... Mais je tremble.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Antoinette, sortant de chez Michau, tenant une lanterne d’une main et un porte-feuille de l’autre, Michau, Thibaut, un peu éloignés.</head>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Antoinette, sortant de chez Michau, tenant une lanterne d’une main et un porte-feuille de l’autre, Michau, Thibaut, un peu éloignés.</cast>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 <stage>AIR : Point de bruit, etc.</stage>
 	<l id="435">Ah! grands Dieux !</l>
 	<l id="436">Quoi! c’est elle !</l>
@@ -750,25 +750,25 @@
 	<l id="449">Ma défaite.</l>
 	<l id="450">Antoinette ?</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="451">Qui me guette?</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="452">Est-ce ainsi</l>
 	<l id="453">Qu’on en use ?</l>
 	<l id="454">Par la ruse....</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="455">On t’abuse :</l>
 	<l id="456">Prends ceci.</l>
 <stage>Elle lui présente le Porte-feuille, et pose la lanterne sur un banc de pierre qui est à la porte du Moulin.</stage>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU, refusant le porte-feuille.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>, refusant le porte-feuille.</hstage>
 	<l id="457">Quoi ! Lorsque pour servir un chicaneur insigne</l>
 	<l id="458">Tu vas jusqu’à la trahison,</l>
 	<l id="459">Ne crois-tu pas avoir raison ?</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="460">Je permets ton courroux; mais je n’en suis pas digne,</l>
 	<l id="461">Et tu me gronde hors de saison.</l>
 <stage>Air : Ma commère, quand je danse.</stage>
@@ -781,7 +781,7 @@
 	<l id="468">On nous trahissait ensemble,</l>
 	<l id="469">Mais j’ai paré ce coup-là.</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="470">Quoi ! Mes frères trompés par tes sœurs elles-mêmes !</l>
 	<l id="471">Que diras-tu de ce beau coup ?</l>
 	<l id="472">Et je ne saurais pas punir ce stratagème !...</l>
@@ -789,7 +789,7 @@
 	<l id="474">Ou quelqu’autre chose de même :</l>
 	<l id="475">Déja le nom d’époux lui ressemble beaucoup.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 <stage>Air : Ah ! vous m’avez ravi mon âme.</stage>
 	<l id="476">N’accuse donc que la chicane.</l>
 	<l id="477">Mon père, il est vrai, se dément :</l>
@@ -807,11 +807,11 @@
 	<l id="488">Voilà ton porte-feuille ; et grâce à mon courage,</l>
 	<l id="489">Il ne manque rien à Michau.</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="490">Tu ne me connais pas, j’ai le sang bien plus chaud ;</l>
 	<l id="491">Je prétends venger cet outrage.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="492">Il ne te manque rien; à quoi bon cet éclat ?</l>
 	<l id="493">Si tu ne m’en crois pas, tu peux le voir encore.</l>
 <stage>Elle lui donne le Porte-feuille.</stage>
@@ -819,10 +819,10 @@
 	<l id="495">Vois ce parchemin que j’adore :</l>
 	<l id="496">Cher époux, c’est notre contrat.</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU, après avoir regardé le contrat qu’Antoinette tient.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>, après avoir regardé le contrat qu’Antoinette tient.</hstage>
 	<l id="497">Oui, j’y vois Furibon ; c’est un nom que j’abhorre.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 <stage>AIR : Le tout par nature.</stage>
 	<l id="498">Contre un lien si charmant</l>
 	<l id="499">Montre moins d’emportement.</l>
@@ -831,7 +831,7 @@
 	<l id="502">Toi qui le demandait tant ;</l>
 	<l id="503">Le tout par nature.</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 <stage>AIR des Troqueurs : On ne peut trop tôt. (Noté N°, 6.)</stage>
 	<l id="504">Oui, oui, je veux bien</l>
 	<l id="505">Calmer la tempête;</l>
@@ -850,18 +850,18 @@
 	<l id="518">Mette à ce moyen</l>
 	<l id="519">Un peu du sien.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE, mettant le Contrat dans sa poche.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>, mettant le Contrat dans sa poche.</hstage>
 	<l id="520">Mais j’entends la voix de quelque homme ;</l>
 	<l id="521">Retire-toi, mon cher Michau :</l>
 	<l id="522">J’irai te retrouver chez la tante à Thibaut.</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="523">Je m’en vais y dormir un somme.</l>
 <stage>Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE, reprend sa lanterne.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>, reprend sa lanterne.</hstage>
 	<l id="524">Mais je ne vois personne. Hélas !</l>
 	<l id="525">Auraient-ils rencontré mon père ?</l>
 	<l id="526">Ils vont se faire quelque affaire,</l>
@@ -887,19 +887,19 @@
 <stage>Elle dit ce dernier vers en s’endormant.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Antoinette, Furibon, Un Paysan tenant un flambeau.</head> 
-<sp who="FURIBON"><speaker>FURIBON, réveillant Antoinette.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Antoinette, Furibon, Un Paysan tenant un flambeau.</cast> 
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>, réveillant Antoinette.</hstage>
 	<l id="541">Antoinette ? Antoinette ? En ce lieu sans clarté ?</l>
 <note type="L">Pendard : Par exagération, celui, celle qui est digne de pendaison, qui ne vaut rien du tout. [F]</note>
 	<l id="542">Dis-moi : que fais-tu là pendarde ?</l>
 	<l id="543">En t’amusant à la moutarde,</l>
 	<l id="544">Fais-tu ce que je t’ai dicté ?</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="545">J’ai tout fait pour le mieux: on aurait vu mon zèle,</l>
 	<l id="546">Si le destin jaloux n’eût soufflé la chandelle.</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 <stage>Air : Un jour que j’avais mal dansé.</stage>
 	<l id="547">Ne crois pas par ce beau discours</l>
 	<l id="548">Me jouer ainsi de tes tours :</l>
@@ -908,14 +908,14 @@
 	<l id="551">Mais c’est lorsqu’il faut m’obéir,</l>
 	<l id="552">Que ton cœur n’y vois goutte.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 <stage>AIR : Voulez-vous être heureux amants ?</stage>
 	<l id="553">Le moyen d’être satisfait?</l>
 	<l id="554">Vous voulez ce qu’on ne peut faire.</l>
 	<l id="555">Désobliger n’est pas mon fait;</l>
 	<l id="556">J’ai toujours aimé le contraire.</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 <stage>AIR : Ma Mère, j’ai dix-sept ans.</stage>
 	<l id="557">Voilà donc le crédit</l>
 	<l id="558">Que ton père a sur ton esprit ;</l>
@@ -931,41 +931,41 @@
 	<l id="568">Quand on n’a pas plus d’esprit qu’eux !</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Michau, Furibon, Antoinette, Thibaut,Patau avec un flambeau.</head> 
-<sp who="MICHAU"><speaker>MICHAU, à Patau.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Michau, Furibon, Antoinette, Thibaut,Patau avec un flambeau.</cast> 
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>, à Patau.</hstage>
 	<l id="569">Jamais nuit ne fut plus obscure :</l>
 	<l id="570">Ma foi, sans vous je m’égarais.</l>
 </sp>
-<sp who="PATAU"><speaker>PATAU.</speaker>
+<sp who="PATAU"><hstage><speaker>PATAU</speaker>.</hstage>
 	<l id="571">Voici notre chemin.</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU, apercevant Furibon.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>, apercevant Furibon.</hstage>
 	<l id="572">Mais qu’est-ce que je vois ?</l>
 	<l id="573">Ciel ! Où m’amène-t-on ?</l>
 </sp>
-<sp who="PATAU"><speaker>PATAU.</speaker>
+<sp who="PATAU"><hstage><speaker>PATAU</speaker>.</hstage>
 	<l id="574">Oui, voilà l’enclouure.</l>
 	<l id="575">Je vous devais, ma foi, ce tour de ma façon.</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="576">Tiens, je m’acquitte aussi vis-à-vis d’un fripon.</l>
 <stage>Il lui donne un soufflet, et se sauve. Thibaut le suit, et emporte le flambeau du Paysan qui éclairait Furibon.</stage>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE, courant après eux.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>, courant après eux.</hstage>
 	<l id="577" part="i">Ah ! Cher époux !</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Furibon, Patau la main sur sa joue.</head>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Furibon, Patau la main sur sa joue.</cast>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 	<l id="577" part="f">Il faut les suivre :</l>
 	<l id="578">Mais, Patau, ne nous quittons pas.</l>
 	<l id="579">Ils ont pris le flambeau que portait Nicolas.</l>
 </sp>
-<sp who="PATAU"><speaker>PATAU.</speaker>
+<sp who="PATAU"><hstage><speaker>PATAU</speaker>.</hstage>
 	<l id="580">Je voudrais bien aussi que quelqu’un me délivre</l>
 	<l id="581">D’un soufflet qui ne me plaît pas.</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 	<l id="582">Un soufflet ? Bon, tant mieux: voilà de quoi poursuivre.</l>
 <stage>AIR : Nous autres bons Villageois.</stage>
 	<l id="583">Cher ami, ce soufflet-là</l>
@@ -976,46 +976,46 @@
 	<l id="588">Que l’on t’en donne un meilleur,</l>
 	<l id="589">Afin de les mieux excéder...</l>
 </sp>
-<sp who="PATAU"><speaker>PATAU.</speaker>
+<sp who="PATAU"><hstage><speaker>PATAU</speaker>.</hstage>
 	<l id="590">J’aime mieux ne pas plaider. (bis.)</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 <stage>AIR : N’y a plus d’Enfans.</stage>
 	<l id="591">Serais-tu fâché de la chose?</l>
 </sp>
-<sp who="PATAU"><speaker>PATAU.</speaker>
+<sp who="PATAU"><hstage><speaker>PATAU</speaker>.</hstage>
 	<l id="592">Tâchons de gagner notre cause,</l>
 	<l id="593">Sans qu’il m’en coûte quelque dent:</l>
 	<l id="594">J’ai déjà la fièvre à la joue.</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 	<l id="595">Pour un soufflet faire la moue!</l>
 	<l id="596">Tu fais l’enfant. (bis.)</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU, dans la coulisse.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>, dans la coulisse.</hstage>
 <stage>AIR de l’Anonyme.</stage>
 	<l id="597">Compagnons, montrez tous du courage:</l>
 	<l id="598">Cherchons bien, il doit être en ces lieux.</l>
 </sp>
-<sp who="PATAU"><speaker>PATAU.</speaker>
+<sp who="PATAU"><hstage><speaker>PATAU</speaker>.</hstage>
 	<l id="599">C’est Michau ; bonsoir, je déménage.</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 	<l id="600">Ne crains rien, nous serons bons pour eux:</l>
 	<l id="601">De valeur donnons un témoignage.</l>
 </sp>
-<sp who="PATAU"><speaker>PATAU.</speaker>
+<sp who="PATAU"><hstage><speaker>PATAU</speaker>.</hstage>
 	<l id="602">Serviteur; ils sont trop contre deux.</l>
 <stage>Il se sauve, Furibon le suit.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Michau, Antoinette, Thibaut avec un flambeau, Meuniers avec des gaules.</head>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Michau, Antoinette, Thibaut avec un flambeau, Meuniers avec des gaules.</cast>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 <stage>Sur l’Air précédent.</stage>
 	<l id="603">Compagnons, montrez tous du courage :</l>
 	<l id="604">Cherchons bien, il doit être en ces lieux.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE, à Michau.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>, à Michau.</hstage>
 <stage>Air : Mon joli petit Corbillon.</stage>
 	<l id="605">Ah ! Que votre fureur s’apaise :</l>
 	<l id="606">Vous m’allez voir expirer sous vos coups.</l>
@@ -1026,17 +1026,17 @@
 	<l id="611">Mon petit joli,</l>
 	<l id="612">Mon joli petit cher mari.</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="613">Je songe à venger mon injure,</l>
 	<l id="614">Mon père, vous-même, en un mot :</l>
 	<l id="615">On prend votre époux pour un sot :</l>
 	<l id="616">Le souffrirez-vous sans murmure ?</l>
 </sp>
-<sp who="THIBAUT"><speaker>THIBAUT.</speaker>
+<sp who="THIBAUT"><hstage><speaker>THIBAUT</speaker>.</hstage>
 	<l id="617">Il faudrait nous cacher par-là,</l>
 	<l id="618">Afin de les mieux reconnaître.</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="619">C’est bien dit, j’approuve cela.</l>
 <stage>Aux Meuniers.</stage>
 	<l id="620">Retirez-vous, amis: quand Thibaut sifflera,</l>
@@ -1044,8 +1044,8 @@
 <stage>Ils sortent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Michau, Antoinette, Thibaut.</head>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE, à Michau.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>Michau, Antoinette, Thibaut.</cast>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>, à Michau.</hstage>
 <stage>AIR : Je viens devant vous.</stage>
 	<l id="622">Je ne puis donc pas</l>
 	<l id="623">Calmer, hélas !</l>
@@ -1054,13 +1054,13 @@
 	<l id="626">Un cour qui vient vous embrasser ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Furibon, Patau dans le fond du Théâtre, les Acteurs précédents.</head>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><cast>Furibon, Patau dans le fond du Théâtre, les Acteurs précédents.</cast>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 <stage>Suite de l’Air.</stage>
 	<l id="627">Pouvez-vous y penser et vous taire ?</l>
 	<l id="628">Répondez, ma chère.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="629">Je ne pense à rien,</l>
 	<l id="630">Et voudrais bien</l>
 	<l id="631">Vous voir le faire.</l>
@@ -1077,69 +1077,69 @@
 	<l id="640">Pourquoi veux-tu, farouche,</l>
 	<l id="641">Le retirer si-tôt?</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON, arrache le Contrat à Antoinette.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>, arrache le Contrat à Antoinette.</hstage>
 	<l id="642">C’est trop vous pousser la fleurette.</l>
 	<l id="643">Avancez, Lubin, Nicolas.</l>
 <stage>Les Paysans viennent armés de fourches et de fléau.</stage>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="644">Ô Ciel ! Malheureuse Antoinette!</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="645">Accourez, gros Guillot, Mathurin, grand Thomas.</l>
 <stage>La suite de Michau paraît.</stage>
 	<l id="646">Nous verrons qui des deux aura sujet de rire.</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON, à Michau.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>, à Michau.</hstage>
 	<l id="647">Eh bien, oui, oui, nous le verrons.</l>
 	<l id="648">Je tiens votre contrat : trembles, je le déchire,</l>
 	<l id="649">Si tu ne chasses tes mitrons.</l>
 <stage>À Michau.</stage>
 </sp>
-<sp who="THIBAUT"><speaker>THIBAUT, levant le fléau.</speaker>
+<sp who="THIBAUT"><hstage><speaker>THIBAUT</speaker>, levant le fléau.</hstage>
 	<l id="650">Voulez-vous ?...</l>
 	<l id="651">Un moment, n’allons pas en jeune homme.</l>
 </sp>
-<sp who="PATAU"><speaker>PATAU, prenant le fléau d’un Paysan.</speaker>
+<sp who="PATAU"><hstage><speaker>PATAU</speaker>, prenant le fléau d’un Paysan.</hstage>
 	<l id="652">Donnez-moi ce fléau,que je vous les assomme</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="653" part="i">Arrêtez !...</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON, tenant le contrat.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>, tenant le contrat.</hstage>
 	<l id="653" part="m">Je déchire...</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="653" part="f">Ô funeste transport !</l>
 </sp>
-<sp who="PATAU"><speaker>PATAU.</speaker>
+<sp who="PATAU"><hstage><speaker>PATAU</speaker>.</hstage>
 	<l id="654" part="i">Ah! c’est trop barguiner, exploitons.</l>
 <stage>En voulant frapper Michau, Parau donne un coup de fléau à Furibon, qui lâche le Contrat pour porter les deux mains à sa tete; Patau se sauve avec les Paysans.</stage>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 	<l id="654" part="f">Je suis mort.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE, ramassant le Contrat.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>, ramassant le Contrat.</hstage>
 	<l id="655" part="i">Ciel !...</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="655" part="f">Prends notre Contrat. Allons, chère Antoinette,</l>
 	<l id="656">Je suis content ; il a son fait.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE, à Furibon, qui est assis sur le banc de pierre.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>, à Furibon, qui est assis sur le banc de pierre.</hstage>
 	<l id="657">Mon père, ah ! Juste Ciel ! Quelle bosse à la tête !</l>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Furibon assis, Michau, Thibaut, Meuniers.</head>
-<sp who="FURET"><speaker>FURET, se frottant les épaules.</speaker>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><cast>Furibon assis, Michau, Thibaut, Meuniers.</cast>
+<sp who="FURET"><hstage><speaker>FURET</speaker>, se frottant les épaules.</hstage>
 	<l id="658">Au secours ! Au secours !</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="659">Mais que veut donc Furet?</l>
 <stage>AIR : Ahi, ahi, ahi, Jeannette.</stage>
 	<l id="660">Qu’as-tu donc tant à crier?</l>
 </sp>
-<sp who="FURET"><speaker>FURET.</speaker>
+<sp who="FURET"><hstage><speaker>FURET</speaker>.</hstage>
 	<l id="661">Aisément on le devine.</l>
 	<l id="662">Quelqu’un vient de m’étriller,</l>
 	<l id="663">Mais d’une façon divine...</l>
@@ -1147,10 +1147,10 @@
 	<l id="665">Ahi, ahi, ahi, l’échine,</l>
 	<l id="666">L’échine, ahi, ahi, ahi.</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 	<l id="667">C’est Furet que j’entends! qu’as-tu donc, mon garçon ?</l>
 </sp>
-<sp who="FURET"><speaker>FURET.</speaker>
+<sp who="FURET"><hstage><speaker>FURET</speaker>.</hstage>
 	<l id="668">Chez certain Procureur, j’ai selon ma coutume</l>
 	<l id="669">Pris un paquet à votre nom.</l>
 	<l id="670">De Paris jusqu’ici le chemin fut très bon,</l>
@@ -1160,12 +1160,12 @@
 	<l id="674">Ensuite on m’a chassé tout net,</l>
 	<l id="675">En me retenant mon paquet.</l>
 </sp>
-<sp who="FURIBON"><speaker>FURIBON.</speaker>
+<sp who="FURIBON"><hstage><speaker>FURIBON</speaker>.</hstage>
 <stage>AIR : Belle Brune.</stage>
 	<l id="676">Ah ! La tête !</l>
 	<l id="677">Ah ! La tête !</l>
 </sp>
-<sp who="FURET"><speaker>FURET.</speaker>
+<sp who="FURET"><hstage><speaker>FURET</speaker>.</hstage>
 	<l id="678">On m’a pris</l>
 	<l id="679">Deux chapons cuits</l>
 	<l id="680">Dans un pâté de requête.</l>
@@ -1175,19 +1175,19 @@
 	<l id="684">Conduis-moi jusqu’à notre Ferme.</l>
 	<l id="685">Toi, Michau, dans peu tu verras...</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 	<l id="686">Va, va, je t’attends de pied ferme.</l>
 <stage>Furibon sort ; et Thibaut emmène les meuniers.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="12"><head>SCÈNE DERNIÈRE. Michau, Antoinette.</head>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<div2 type="scene" n="12"><head>SCÈNE DERNIÈRE.</head><cast>Michau, Antoinette.</cast>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 	<l id="687">Cher époux, n’aigrissons plus rien ;</l>
 	<l id="688">Le temps calmera cette affaire :</l>
 	<l id="689">Mais je veux que le chirurgien</l>
 	<l id="690">Aille du moins saigner mon père.</l>
 </sp>
-<sp who="MICHAU"><speaker>MICHAU.</speaker>
+<sp who="MICHAU"><hstage><speaker>MICHAU</speaker>.</hstage>
 <stage>AIR : Depuis, que je sais que la bonté ;</stage>
 	<l id="691">On ne saurait blâmer ton désir,</l>
 	<l id="692">Et la nature y prend du plaisir :</l>
@@ -1201,7 +1201,7 @@
 	<l id="700">Tient</l>
 	<l id="701">Le naturel du mien.</l>
 </sp>
-<sp who="ANTOINETTE"><speaker>ANTOINETTE.</speaker>
+<sp who="ANTOINETTE"><hstage><speaker>ANTOINETTE</speaker>.</hstage>
 <stage>AU PUBLIC.</stage>
 <stage>Même Air.</stage>
 	<l id="702">Messieurs, si notre pièce aujourd’hui</l>

@@ -58,7 +58,7 @@
 <div1 type="acte" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
 <stage>Le théâtre représente le double coupeau sur les deux ailes et le temple de Thémis, avec une mer immense qui occupe le fond. L’orchestre joue une tempête effroyable. éclairs, tonnerre, grêle et pluie convenables à un déluge. On voit venir de loin sur les ondes Arlequin, jambe deçà, jambe delà sur un tonneau. Le fracas cesse.</stage>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN-DEUCALION, sur le haut ton de la tragédie.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN-DEUCALION</speaker>, sur le haut ton de la tragédie.</hstage>
 	<l id="1">Quel horrible chaos et quel affreux mélange !</l>
 	<l id="2">Ô prodige inouï, qui joins le Tage au Gange !</l>
 	<l id="3">Neptune, ton courroux ne peut aller plus loin !</l>
@@ -211,21 +211,21 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Arlequin-Deucalion, une voix.</head>
-<sp who="LA VOIX"><speaker>LA VOIX d’un invisible.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Arlequin-Deucalion, une voix.</cast>
+<sp who="LA VOIX"><hstage><speaker>LA VOIX</speaker> d’un invisible.</hstage>
 <p id="1">
 	<s id="1">Coquin !</s>
 	<s id="2">Coquin !</s>
 	<s id="3">Maraud !</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, surpris.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, surpris.</hstage>
 <p id="2">
 	<s id="1">Qui m’en veut ?</s>
 	<s id="2">Qui va là ?</s>
 </p>
 </sp>
-<sp who="LA VOIX"><speaker>LA VOIX.</speaker>
+<sp who="LA VOIX"><hstage><speaker>LA VOIX</speaker>.</hstage>
 <p id="3">
 	<s id="1">À déjeuner !</s>
 	<s id="2">À déjeuner !</s>
@@ -235,7 +235,7 @@
 	<s id="6">Apporte !</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="4">
 	<s id="1">Ne voilà-t-il pas mes écornifleurs ?</s>
 	<s id="2">Décampons !</s>
@@ -247,38 +247,38 @@
 	<s id="3">Quel chien de coup !</s>
 </p>
 </sp>
-<sp who="LA VOIX"><speaker>LA VOIX.</speaker>
+<sp who="LA VOIX"><hstage><speaker>LA VOIX</speaker>.</hstage>
 <p id="6">
 	<s id="1">Apporte !</s>
 	<s id="2">Apporte !</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="7">
 	<s id="1">Que le diable t’emporte, toi-même !</s>
 	<s id="2">Qui vive !</s>
 </p>
 </sp>
-<sp who="LA VOIX"><speaker>LA VOIX.</speaker>
+<sp who="LA VOIX"><hstage><speaker>LA VOIX</speaker>.</hstage>
 <p id="8">
 	<s id="1">Vive le roi !</s>
 	<s id="2">Vive le roi !</s>
 </p>
 <stage>Plusieurs fois.</stage>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="9">
 	<s id="1">Grand merci : car il n’y a plus d’autre roi que moi.</s>
 	<s id="2">Montre-toi donc !</s>
 	<s id="3">Qui es-tu ?</s>
 </p>
 </sp>
-<sp who="LA VOIX"><speaker>LA VOIX.</speaker>
+<sp who="LA VOIX"><hstage><speaker>LA VOIX</speaker>.</hstage>
 <p id="10">
 	<s id="1">Perroquet mignon !</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="11">
 	<s id="1">Ah !</s>
 	<s id="2">C’est un perroquet qui a eu, comme moi, le bonheur d’échapper !</s>
@@ -319,9 +319,9 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Arlequin-Deucalion, Melpomène.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Arlequin-Deucalion, Melpomène.</cast>
 <stage>Melpomène entre à pas graves et se promène comme quelqu’un qui rêve profondément. Elle est vêtue en actrice à la romaine ; tient le poignard d’une main, attribut de la tragédie, et la trompette de l’autre, attribut du poème épique. Elle serpente majestueusement sur la scène, sans prendre garde à Deucalion, faisant des mines passionnées, poussant des ah ! Des hélas ! Des dieux ! Des qu’entends-je ! Et gesticulant à grand tour de bras.</stage>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, après avoir tourné longtemps autour d’elle, et l’avoir fixée comiquement.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, après avoir tourné longtemps autour d’elle, et l’avoir fixée comiquement.</hstage>
 <p id="1">
 	<s id="1">C’est Melpomène ; c’est la muse de la tragédie.</s>
 	<s id="2">Je ne la reconnaissais pas d’abord, à cause de cette trompette qui me la faisait confondre avec sa sœur Calliope.</s>
@@ -420,9 +420,9 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Thalie, Arlequin.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Thalie, Arlequin.</cast>
 <stage>Thalie entre en jouant des castagnettes, dansant, chantant, solfiant des airs légers, faisant des entrechats, etc.</stage>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <note type="C">Monsieur le commissaire : Arlequin apostrophe à cet endroit le commissaire qui assistait là d’office, de la part des comédiens français, pour verbaliser en cas de dialogue. L’opéra-comique n’ayant droit qu’à un personnage parlant en était réduit au seul monologue. (...) [note de Jules Troublat, 1886]</note>
 <p id="1">
 	<s id="1">La malpeste !</s>
@@ -459,7 +459,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="1">
 	<s id="1">Ouf, je n’en puis plus !</s>
 	<s id="2">J’ai perdu haleine.</s>
@@ -479,12 +479,12 @@
 <div2 type="scene" n="1"><head>SCÈNE I.</head> 
 <stage>Elle descend du haut du cintre, assise sur Pégase, qui se renvole et disparaît, dès qu’elle a sauté sur terre ; et, comme quelqu’un qui vient d’échapper du plus affreux danger par une voie extraordinaire autant qu’inespérée, elle va, vient et s’agite avec les émotions d’une femme hors d’elle-même. Après s’être enfin remise un peu de cette altération, elle pleure et se lamente en malheureuse qui se croit seule au monde, et tombe accablée enfin de douleur et de lassitude, sur un gazon, où elle s’endort.</stage>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Pyrrha, Apollon.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Pyrrha, Apollon.</cast>
 <note type="C">Issé : pastorale héroïque, représenté pour la première fois à l’opéra le 17 décembre 1697 ; paroles de La Mote, musqiue de Destouches. Elle n’avait d’abord que trois actes ; elle réapparut plus tard, le 14 octobre 1708, divisée en cinq actes. [note de Jules Troublat, 1886]</note>
 <stage>Apollon, une flûte allemande à la main, au lieu de lyre, entre en fredonnant des airs d’opéra, et tout à coup apercevant Pyrrha endormie, tombe en admiration, la considère, se passionne pour elle, s’en approche à pas lents, de peur de l’éveiller, embouche sa flûte, et joue le « Sommeil d’Issé ».</stage>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Apollon, Arlequin, Pyrrha.</head>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN abîmé dans ses pensées, ne voyant ni n’entendant rien.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Apollon, Arlequin, Pyrrha.</cast>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker> abîmé dans ses pensées, ne voyant ni n’entendant rien.</hstage>
 <stage>À part.</stage>
 <p id="1">
 	<s id="1">Quel chien de pays !</s>
@@ -563,9 +563,9 @@
 <stage>Il fait tomber une grêle de coups sur le dos d’Apollon, qui s’enfuit.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Arlequin, Pyrrha.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Arlequin, Pyrrha.</cast>
 <stage>Pyrrha, éveillée aux cris d’Apollon, se lève brusquement et voit son mari. Le mari regarde sa femme, comme un homme en extase. L’étonnement de la femme n’est pas moindre. La surprise réciproque donne lieu à une scène muette et comique.</stage>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN rompt enfin le silence et déclame :</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker> rompt enfin le silence et déclame :</hstage>
 <note type="C">Ces quatre vers sont la continuation de la parodie de la scène indiquée plus haut de « Rhadamiste et Zénobie ». [note de Jules Troublat, 1886]</note>
 	<l id="27">Victime d’un époux contre vous conjuré,</l>
 	<l id="28">Victime d’un amour gourmand, désespéré,</l>
@@ -707,7 +707,7 @@
 	<s id="2">Quand branlerons-nous d’ici ?</s>
 </p>
 </sp>
-<sp who="PYRRHA"><speaker>PYRRHA revient, le chapeau plein : Arlequin le vide, se le renfonce dans la tête, broche son destrier, lâche la bride et s’envole en criant :</speaker> 
+<sp who="PYRRHA"><hstage><speaker>PYRRHA</speaker> revient, le chapeau plein : Arlequin le vide, se le renfonce dans la tête, broche son destrier, lâche la bride et s’envole en criant :</hstage> 
 <note type="C">Parodie des quatre premiers vers des fameux  couplets de 1710, imputés à J.B. Rousseau qui eurent pour lui des conséquences si funestes [note de Jules Troublat, 1886]</note>
 	<l id="37">Quelle fureur trouble mes sens !</l>
 	<l id="38">Quel feu d’enfer en moi s’allume !</l>
@@ -716,7 +716,7 @@
 <stage>Les deux derniers vers se perdent dans les nues, où l’emporte Pégase.</stage>
 <stage>Pyrrha, qui le croit perdu, fait tous les gestes d’une femme au désespoir, et qui pense de nouveau être seule au monde.</stage>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, à la faveur d’un beau saut périlleux, dont Francisque se tirait en maître de l’art, retombe des nues sur le théâtre.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, à la faveur d’un beau saut périlleux, dont Francisque se tirait en maître de l’art, retombe des nues sur le théâtre.</hstage>
 <note type="C">Francisque est l’entrepreneur de l’Opéra-comique qui jouait les rôles d’Arlequin. [note de Jules Troublat, 1886]</note>
 <p id="15">
 	<s id="1">Ouf !</s>
@@ -753,8 +753,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Arlequin, Pyrrha.</head>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, à Pyrrha.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Arlequin, Pyrrha.</cast>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, à Pyrrha.</hstage>
 <p id="1">
 	<s id="1">Y entends-tu quelque chose ?</s>
 </p>
@@ -787,9 +787,9 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Apollon, Arlequin, Pyrrha.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Apollon, Arlequin, Pyrrha.</cast>
 <stage>Apollon, voyant Arlequin, veut fuir.</stage>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN l’arrête.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker> l’arrête.</hstage>
 <p id="1">
 	<s id="1">Faisons la paix, brave Apollon ; j’ai besoin de vous.</s>
 	<s id="2">Touchez là : point de rancune.</s>
@@ -823,8 +823,8 @@
 <stage>Il tire sa batte, Apollon s’enfuit.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Arlequin, Pyrrha.</head>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Arlequin, Pyrrha.</cast>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="1">
 	<s id="1">Je suis bien las de tout ceci, et du sot rôle d’avoir à parler seul.</s>
 	<s id="2">Depuis que je suis ici, je n’ai entendu jaspiller que le perroquet et Thémis, qui ne savaient l’un ni l’autre ce qu’ils disaient.</s>
@@ -943,8 +943,8 @@
 <stage>Il tire un polichinelle, qui, sur-le-champ, parle son baragouin. Il le laisse retomber, de frayeur, au fond du tonneau, posé sur une trappe, d’où le compère a ses aises pour faire parler polichinelle, dont l’organe n’était pas compris parmi les voix proscrites par l’arrêt du parlement ; ce que n’avaient pas prévu les comédiens dans leur requête et que le commissaire n’eut pas droit d’empêcher.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Arlequin, Polichinelle-Momus, Pyrrha.</head>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Arlequin, Polichinelle-Momus, Pyrrha.</cast>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="1">
 	<s id="1">En voici bien d’un autre !</s>
 </p>
@@ -955,13 +955,13 @@
 	<s id="2">Sa figure est bouffonne.</s>
 </p>
 </sp>
-<sp who="POLICHINELLE"><speaker>POLICHINELLE, en son baragouin.</speaker>
+<sp who="POLICHINELLE"><hstage><speaker>POLICHINELLE</speaker>, en son baragouin.</hstage>
 <p id="3">
 	<s id="1">Ma foi !</s>
 	<s id="2">L’ami, écoute donc, la tienne ne l’est guère moins.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="4">
 	<s id="1">Oh !</s>
 	<s id="2">Oh !</s>
@@ -970,22 +970,22 @@
 	<s id="5">Et qui es-tu ?</s>
 </p>
 </sp>
-<sp who="POLICHINELLE"><speaker>POLICHINELLE.</speaker>
+<sp who="POLICHINELLE"><hstage><speaker>POLICHINELLE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Parle avec plus de respect à un dieu.</s>
 	<s id="2">Je ne suis pas moins que Momus, le dieu des fous, et le fou des dieux.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, s’agenouillant.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, s’agenouillant.</hstage>
 <note type="L">Petites-maisons : on dit aussi qu’il mettre un homme aux petites-maisons quand il est fou ou quand il faut des extravagances.[F]</note>
 	<l id="41">Grand dieu des petites-maisons,</l>
 	<l id="42">qu’il vous plaise ici nous instruire !</l>
 </sp>
-<sp who="POLICHINELLE"><speaker>POLICHINELLE.</speaker>
+<sp who="POLICHINELLE"><hstage><speaker>POLICHINELLE</speaker>.</hstage>
 	<l id="43">Je suis tout prêt, tu n’as qu’à dire :</l>
 	<l id="44">Sur quoi veux-tu de mes leçons ?</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="45">Mon épouse et moi nous songeons</l>
 	<l id="46">Au moyen de pouvoir repeupler votre empire.</l>
 <p id="6">
@@ -994,7 +994,7 @@
 	<s id="3">Ô vous, qui avez si savamment inspiré tant de commentateurs, ne pourriez-vous pas nous donner la clef de cet oracle ?</s>
 </p>
 </sp>
-<sp who="POLICHINELLE"><speaker>POLICHINELLE.</speaker>
+<sp who="POLICHINELLE"><hstage><speaker>POLICHINELLE</speaker>.</hstage>
 	<l id="47">Rien n’est plus facile à faire ;</l>
 	<l id="48">Vous le saurez en deux mots :</l>
 	<l id="49">La terre est votre grand’mère,</l>
@@ -1005,7 +1005,7 @@
 	<s id="3">Toi, tu auras fait des garçons, que tu verras aussi sots que toi : elle, des filles, qui lui ressembleront.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="8">
 	<s id="1">Voilà parler, cela !</s>
 	<s id="2">Rien n’est plus simple.</s>
@@ -1014,46 +1014,46 @@
 	<s id="5">Je t’admire, d’avoir si bien dit, maître fou comme tu l’es.</s>
 </p>
 </sp>
-<sp who="POLICHINELLE"><speaker>POLICHINELLE.</speaker>
+<sp who="POLICHINELLE"><hstage><speaker>POLICHINELLE</speaker>.</hstage>
 <p id="9">
 	<s id="1">Il est bon là !</s>
 	<s id="2">Et qui est-ce qui ne se dément pas quelquefois ?</s>
 	<s id="3">Pourquoi le fou, de temps en temps, ne dirait-il pas de bonnes choses, puisque Le Sage, de temps en temps, en dit de si mauvaises ?</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="10">
 	<s id="1">Il a raison, et je commence à mieux penser d’Apollon et des muses, que je ne faisais.</s>
 	<s id="2">Ils font bien d’être muets ; il vaut mieux se taire que de mal parler.</s>
 	<s id="3">Et que me demandez-vous, seigneur Momus, pour votre droit d’avis ?</s>
 </p>	
 </sp>
-<sp who="POLICHINELLE"><speaker>POLICHINELLE.</speaker>
+<sp who="POLICHINELLE"><hstage><speaker>POLICHINELLE</speaker>.</hstage>
 <p id="11">
 	<s id="1">Une petite grâce, qui ne te coûtera guère.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="12">
 	<s id="1">Et quelle ?</s>
 </p>
 </sp>
-<sp who="POLICHINELLE"><speaker>POLICHINELLE.</speaker>
+<sp who="POLICHINELLE"><hstage><speaker>POLICHINELLE</speaker>.</hstage>
 <p id="13">
 	<s id="1">Fais-moi l’amitié de me jeter au fond de la mer.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="14">
 	<s id="1">Et pourquoi cette vapeur de misanthropie ?</s>
 </p>
 </sp>
-<sp who="POLICHINELLE"><speaker>POLICHINELLE.</speaker>
+<sp who="POLICHINELLE"><hstage><speaker>POLICHINELLE</speaker>.</hstage>
 <p id="15">
 	<s id="1">Je deviens honteux et las de mon baragouin.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="16">
 	<s id="1">Eh bien !</s>
 	<s id="2">Demeure ici !</s>
@@ -1062,20 +1062,20 @@
 	<s id="5">C’est le grand maître de langue ; il t’en enseignera une, propre à mieux prononcer tes oracles.</s>
 </p>
 </sp>
-<sp who="POLICHINELLE"><speaker>POLICHINELLE.</speaker>
+<sp who="POLICHINELLE"><hstage><speaker>POLICHINELLE</speaker>.</hstage>
 <p id="17">
 	<s id="1">Lui et les siens, ne m’apprendront qu’à dire des sottises : jette-moi dans la mer, encore une fois, par charité !</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="18">
 	<s id="1">Volontiers : aussi bien n’ai-je plus besoin de toi.</s>
 </p>
 <stage>Il jette à la mer la marionnette, qui baragouine un cri de joie en l’air.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Arlequin, Pyrrha.</head>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Arlequin, Pyrrha.</cast>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="1">
 	<s id="1">çà, çà, ma femme, ayons du monde : voici des pierres.</s>
 	<s id="2">Si l’on ne nous trompe, toutes communes qu’elles sont, elles vaudront mieux que la pierre philosophale, et que son grand œuvre.</s>
@@ -1087,8 +1087,8 @@
 <stage>Ils se mettent à l’opposite l’un de l’autre, chacun au devant d’une coulisse dans laquelle ils jettent leurs pierres. Il sort des garçons du côté d’Arlequin, et des filles du côté de Pyrrha. Les hommes se battent dès qu’ils se voient ; Arlequin les sépare et range ceux-ci à sa droite et celles-là à sa gauche.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Arlequin, Pyrrha, cinq hommes, un laboureur, un artisan, un homme d’épée, un robin et quatre femmes.</head>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, séparant encore les hommes prêts à se rebattre.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Arlequin, Pyrrha, cinq hommes, un laboureur, un artisan, un homme d’épée, un robin et quatre femmes.</cast>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, séparant encore les hommes prêts à se rebattre.</hstage>
 <p id="1">
 	<s id="1">Le joli présage pour l’amitié fraternelle !</s>
 	<s id="2">Vous ne vous tiendrez pas, canaille humaine !</s>

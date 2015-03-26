@@ -62,12 +62,12 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head/>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Ariste, Ooronte.</head>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Ariste, Ooronte.</cast>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="1">He ! quoi ! Pour votre fils toujours inexorable,</l>
 	<l id="2">N’adoucirez-vous point le malheur qui l’accable ?</l>
 </sp>
-<sp who="ORONTE"><speaker>ORONTE.</speaker>
+<sp who="ORONTE"><hstage><speaker>ORONTE</speaker>.</hstage>
 	<l id="3">Non ; pour lui pardonner, il m’a trop irrité.</l>
 	<l id="4">Devait-il me réduire à cette extrémité ?</l>
 	<l id="5">Fils indigne de moi par ton vil hyménée ,</l>
@@ -86,15 +86,15 @@
 	<l id="18">Ma rigueur envers lui n’est que trop légitime.</l>
 	<l id="19" part="i">En vain tous vos discours...</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="19" part="f">Ah ! Quelle dureté !</l>
 	<l id="20">N’est-ce donc pas assez qu’il soit déshérité ?</l>
 	<l id="21">Doit-il encor sentir le poids de votre haine !</l>
 </sp>
-<sp who="ORONTE"><speaker>ORONTE.</speaker>
+<sp who="ORONTE"><hstage><speaker>ORONTE</speaker>.</hstage>
 	<l id="22" part="i">Oui, je le hais sans doute.</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="22" part="f">Ô colère inhumaine !</l>
 	<l id="23">Funeste préjugé , dont le mortel poison</l>
 	<l id="24">Dans les cœurs aveuglés étouffe la raison !</l>
@@ -112,7 +112,7 @@
 	<l id="36">Blâmer cette douceur qui vous charmait en lui ;</l>
 	<l id="37">Car enfin l’Amour seul contre lui vous irrite.</l>
 </sp>
-<sp who="ORONTE"><speaker>ORONTE.</speaker>
+<sp who="ORONTE"><hstage><speaker>ORONTE</speaker>.</hstage>
 	<l id="38">Vous vous trompez, Monsieur ; c’est sa lâche conduite ;</l>
 	<l id="39">Ma colère n’est point un effet du penchant</l>
 	<l id="40">Qui le porte à brûler d’un amour innocent :</l>
@@ -128,7 +128,7 @@
 	<l id="50">Je ne pourrai jamais pardonner cette injure ;</l>
 	<l id="51" part="i">Et mon courroux sans cesse...</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="51" part="f">Ah ! Père trop cruel &gt;</l>
 	<l id="52">Souvenez-vous du moins quel est ce criminel.</l>
 	<l id="53">Ouvrez, ouvrez les yeux, et dans votre vengeance,</l>
@@ -138,14 +138,14 @@
 	<l id="57">Et ne permettez plus qu’une haine implacable</l>
 	<l id="58">Le punisse d’aimer une épouse estimable.</l>
 </sp>
-<sp who="ORONTE"><speaker>ORONTE.</speaker>
+<sp who="ORONTE"><hstage><speaker>ORONTE</speaker>.</hstage>
 	<l id="59">Une épouse estimable !... Ah ! Sa condition</l>
 	<l id="60">N’autorise que trop mon indignation.</l>
 	<l id="61">Pour haïr un ingrat, en faut-il davantage ?</l>
 	<l id="62">Le déshonneur qui suit un pareil mariage</l>
 	<l id="63" part="i">Peut-il se réparer ?</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="63" part="f">Sans doute, je dis plus,</l>
 	<l id="64">Se déshonore-t-on par l’amour des vertus ?</l>
 	<l id="65">Quel que soit à nos yeux le voile qui la cache,</l>
@@ -161,7 +161,7 @@
 	<l id="75">Et crut pouvoir par-là justifier un feu,</l>
 	<l id="76">Qui serait innocent, s’il avait votre aveu.</l>
 </sp>
-<sp who="ORONTE"><speaker>ORONTE.</speaker>
+<sp who="ORONTE"><hstage><speaker>ORONTE</speaker>.</hstage>
 	<l id="77">Je vois qu’en fa faveur votre cœur s’intéresse,</l>
 	<l id="78">Jusqu’au point d’excuser en lui ce qui me blesse.</l>
 	<l id="79">C’est me désobliger d’une étrange façon.</l>
@@ -172,7 +172,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="ARISTE"><speaker>ARISTE, seul.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>, seul.</hstage>
 	<l id="83" part="f">La colère l’aigrit.</l>
 	<l id="84">Mon zèle impatient peut-être en a trop dit.</l>
 	<l id="85">N’importe : poursuivons ce généreux ouvrage :</l>
@@ -180,27 +180,27 @@
 	<l id="87">Et par d’autres efforts ... Mais que vent ce valet ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Ariste, Un Valet.</head>
-<sp who="LE-VALET"><speaker>LE VALET.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Ariste, Un Valet.</cast>
+<sp who="LE-VALET"><hstage><speaker>LE VALET</speaker>.</hstage>
 	<l id="88">Un étranger, Monsieur, veut vous voir en secret.</l>
 	<l id="89" part="i">Peut-il entrer ?</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="89" part="f">Dis-lui qu’il s’en donne la peine.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Ariste, Valère.</head>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Ariste, Valère.</cast>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="90">Quoi Valère, c’est vous ? Quel sujet vous amène ?</l>
 </sp>
-<sp who="VALÈRE"><speaker>VALÈRE.</speaker>
+<sp who="VALÈRE"><hstage><speaker>VALÈRE</speaker>.</hstage>
 	<l id="91">Ami, vous en serez tout à l’heure éclairci</l>
 	<l id="92">Mais puis-je librement vous en parler ici ?</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="93" part="i">Parlez, vous le pouvez sans crainte.</l>
 </sp>
-<sp who="VALÈRE"><speaker>VALÈRE.</speaker>
+<sp who="VALÈRE"><hstage><speaker>VALÈRE</speaker>.</hstage>
 	<l id="93" part="f">Cher Ariste,</l>
 	<l id="94">Apprenez donc de moi combien mon sort est triste.</l>
 	<l id="95">Sachez l’état horrible où d’un père irrité</l>
@@ -216,14 +216,14 @@
 	<l id="105">La fortune toujours attachée à me nuire...</l>
 	<l id="106" part="i">Je ne puis achever.</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="106" part="f">Ciel ! Que voulez-vous dire ?</l>
 	<l id="107">Valère , poursuivez. Craignez-vous que mon cœur</l>
 	<l id="108">N’abandonne le vôtre à sa vive douleur ?</l>
 	<l id="109">Ou, que de vos secrets ma confiance abuse ?</l>
 	<l id="110"> Ce serait m’offenser sensiblement.</l>
 </sp>
-<sp who="VALÈRE"><speaker>VALÈRE.</speaker>
+<sp who="VALÈRE"><hstage><speaker>VALÈRE</speaker>.</hstage>
 	<l id="110" part="f">Excuse,</l>
 	<l id="111">Ami, de mon secret quand tu seras instruit,</l>
 	<l id="112">Quand tu sauras l’état où le sort m’a réduit,</l>
@@ -234,17 +234,17 @@
 	<l id="117">Victime d’une basse et noire ingratitude</l>
 	<l id="118" part="i">Le mien.... Ah !</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="118" part="f">Tirez-moi de cette inquiétude ;</l>
 	<l id="119" part="i">Achevez...</l>
 </sp>
-<sp who="VALÈRE"><speaker>VALÈRE.</speaker>
+<sp who="VALÈRE"><hstage><speaker>VALÈRE</speaker>.</hstage>
 	<l id="119" part="m">Mon épouse...</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="119" part="m">Et ! Bien ?</l>
 </sp>
-<sp who="VALÈRE"><speaker>VALÈRE.</speaker>
+<sp who="VALÈRE"><hstage><speaker>VALÈRE</speaker>.</hstage>
 	<l id="119" part="f">Dont les serments</l>
 	<l id="120">M’ont juré mille fois les feux les plus constants,</l>
 	<l id="121">Et pour qui prévenu d’une égale tendresse</l>
@@ -258,11 +258,11 @@
 	<l id="129">Cette épouse si chère aujourd’hui m’abandonne !</l>
 	<l id="130">Je frémis quand j’y songe, et mon âme soupçonne...</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="131">Ah ! Devez-vous douter de fa fidélité ?</l>
 	<l id="132" part="i">Jugez mieux de son cœur.</l>
 </sp>
-<sp who="VALÈRE"><speaker>VALÈRE.</speaker>
+<sp who="VALÈRE"><hstage><speaker>VALÈRE</speaker>.</hstage>
 	<l id="132" part="f">Non, d’une lâcheté</l>
 	<l id="133">Je ne puis en effet croire Alzate capable ;</l>
 	<l id="134">Cependant envers moi sa conduite est coupable.</l>
@@ -272,13 +272,13 @@
 	<l id="138">Ah ! Si pour un rival des feux illégitimes</l>
 	<l id="139" part="i">Allumés dans son âme...</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="139" part="f">Eh ! Valère, arrêtez.</l>
 	<l id="140">Ces soupçons peuvent-ils par vous être écoutés ?</l>
 	<l id="141">Osez-vous vous livrer à cette jalousie</l>
 	<l id="142" part="i">Sans être sûr...</l>
 </sp>
-<sp who="VALÈRE"><speaker>VALÈRE.</speaker>
+<sp who="VALÈRE"><hstage><speaker>VALÈRE</speaker>.</hstage>
 	<l id="142" part="f">Hélas ! Quelle est ma frénésie ?</l>
 	<l id="143">Moi, jaloux ! Qu’à ce point je sois empoisonné ,</l>
 	<l id="144">Ma raison jusques-là m’aurait abandonné !</l>
@@ -305,7 +305,7 @@
 	<l id="165">Ma force m’abandonne, et ma douleur extrême</l>
 	<l id="166">Me livre au désespoir en perdant ce que j’aime.</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="167">’Allez : attendez tout de ma vive amitié ;</l>
 	<l id="168">Votre malheureux sort est digne de pitié.</l>
 	<l id="169">Soyez sûr que mon zèle auprès de votre père</l>
@@ -316,23 +316,23 @@
 	<l id="174" part="i">Elle vient, laissez-nous.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Ariste, Eglé, Lisette.</head>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Ariste, Eglé, Lisette.</cast>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="174" part="f">J’allais chez vous, Madame :</l>
 	<l id="175">Je suis confus par vous de me voir prévenir.</l>
 </sp>
-<sp who="EGLÉ"><speaker>EGLÉ.</speaker>
+<sp who="EGLÉ"><hstage><speaker>EGLÉ</speaker>.</hstage>
 	<l id="176">Laissons les compliments : j’ai cru devoir venir.</l>
 	<l id="177">Vous consulter ici sur une grande affaire.</l>
 	<l id="178">Vous m’êtes attaché par un zèle sincère.</l>
 	<l id="179">Je me fais un devoir de suivre vos avis ;</l>
 	<l id="180">Et je vous compte au rang de mes meilleurs amis,</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="181">Cette distinction m’est trop avantageuse,</l>
 	<l id="182" part="i">Pour ne pas...</l>
 </sp>
-<sp who="EGLÉ"><speaker>EGLÉ.</speaker>
+<sp who="EGLÉ"><hstage><speaker>EGLÉ</speaker>.</hstage>
 	<l id="182" part="f">Ah ! Monsieur, que je suis malheureuse !</l>
 	<l id="183">Que je souffre de maux , depuis l’instant cruel,</l>
 	<l id="184">Qu’étouffant pour un fils mon amour maternel,</l>
@@ -347,18 +347,18 @@
 	<l id="193">Man cœur éprouve enfin les plus rudes alarmes ;</l>
 	<l id="194">Et mes yeux sont sans cesse arrosés de mes larmes.</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="195">Votre remords est juste , et j’y vois clairement</l>
 	<l id="196">De la nature en vous un doux pressentiment,</l>
 	<l id="197">Que bientôt à ce fils rendant plus de justice,</l>
 	<l id="198">Vous ne souffrirez pas, Madame, qu’il périsse.</l>
 </sp>
-<sp who="EGLÉ"><speaker>EGLÉ.</speaker>
+<sp who="EGLÉ"><hstage><speaker>EGLÉ</speaker>.</hstage>
 	<l id="199">Qu’il périsse, Monsieur, que j’endure sa mort !</l>
 	<l id="200">De grâce, instruisez-moi de son funeste sort ?</l>
 	<l id="201" part="i">Vit-il encore?</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="201" part="f">Il vit ; mais dans son infortune</l>
 	<l id="202">Il ne voit qu’à regret le jour qui l’importune,</l>
 	<l id="203">Depuis qu’il a perdu l’objet seul dont l’ardeur</l>
@@ -368,10 +368,10 @@
 	<l id="207">Et dans le désespoir où ce coup l’a réduit,</l>
 	<l id="208">De tant de cruauté sa mort sera le fruit.</l>
 </sp>
-<sp who="EGLÉ"><speaker>EGLÉ.</speaker>
+<sp who="EGLÉ"><hstage><speaker>EGLÉ</speaker>.</hstage>
 	<l id="209" part="i">Ciel ! Que me dites-vous ?</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="209" part="f">N’en doutez point, Madame,</l>
 	<l id="210">Si pourtant le remords qui s’élève en votre âme</l>
 	<l id="211">Vous fait plaindre le fort d’un fils dont les malheurs</l>
@@ -394,7 +394,7 @@
 	<l id="228">J’irai me joindre à vous, quand vous aurez parlé :</l>
 	<l id="229">Découvrez à ses yeux votre douleur secrète.</l>
 </sp>
-<sp who="EGLÉ"><speaker>EGLÉ.</speaker>
+<sp who="EGLÉ"><hstage><speaker>EGLÉ</speaker>.</hstage>
 	<l id="230">J’y consens, aidez-moi ; mais tu gémis, Lisette.</l>
 	<l id="231">Qu’il m’est doux de te voir partager mes ennuis !</l>
 	<l id="232">J’ai besoin de secours en l’état où je suis.</l>
@@ -408,7 +408,7 @@
 	<l id="240">Lui fera révoquer l’arrêt de sa fureur.</l>
 	<l id="241" part="i">Je l’espère du moins.</l>
 </sp>
-<sp who="LISETTE"><speaker>LISETTE.</speaker>
+<sp who="LISETTE"><hstage><speaker>LISETTE</speaker>.</hstage>
 	<l id="241" part="f">Oui sans doute, Madame.</l>
 	<l id="242">Vos pleurs le toucheront, il faudrait que son âme,</l>
 	<l id="243">Pour s’obstiner encor dans cette dureté, •</l>
@@ -420,7 +420,7 @@
 	<l id="249">Moi-même j’oserai défendre aussi sa cause ;</l>
 	<l id="250">Et peut-être mes pleurs y feront quelque chose.</l>
 </sp>
-<sp who="EGLÉ"><speaker>EGLÉ.</speaker>
+<sp who="EGLÉ"><hstage><speaker>EGLÉ</speaker>.</hstage>
 	<l id="251">Que j’aime à voir, Lisette, éclater cette ardeur !</l>
 	<l id="252">Ton zèle, pour Valère, est l’effet d’un bon cœur.</l>
 	<l id="253">Je t’en suis obligée, et saurai reconnaître</l>
@@ -430,7 +430,7 @@
 	<l id="257">Il se tienne caché de manière qu’il puisse</l>
 	<l id="258">Se présenter à nous dans le moment propice.</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="259">J’approuve ce projet : il est bien concerté,</l>
 	<l id="260">Madame ; mais avant qu’il soit exécuté,</l>
 	<l id="261">Si vous daignez m’en croire, il faudra, par avance,.</l>
@@ -442,43 +442,43 @@
 	<l id="267">Il tiendra sa parole, et Valère aujourd’hui</l>
 	<l id="268">Pourra sans crainte enfin se présenter à lui.</l>
 </sp>
-<sp who="EGLÉ"><speaker>EGLÉ.</speaker>
+<sp who="EGLÉ"><hstage><speaker>EGLÉ</speaker>.</hstage>
 	<l id="269">Je vous jure, Monsieur, d’y faire mon possible ;</l>
 	<l id="270">Le malheur de mon fils ne m’est que trop sensible.</l>
 	<l id="271">Mais faites-le venir ; je brûle de le voir.</l>
 	<l id="272">Dites-lui que sa mère est presque au désespoir</l>
 	<l id="273">D’avoir pu consentir un moment à sa peine.</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="274">Dans une heure, Madame, à vos pieds je l’amène.</l>
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="ARISTE"><speaker>ARISTE seul.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker> seul.</hstage>
 	<l id="275">Ce début m’encourage, et j’espère en ce jour</l>
 	<l id="276">Servir avec succès Valère et son amour ;</l>
 	<l id="277">Mais déjà sur vos pas vous revenez, Lisette.</l>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE VII. Ariste, Lisette.</head>
-<sp who="LISETTE"><speaker>LISETTE.</speaker>
+<div2 type="scene" n=""><head>SCÈNE VII.</head><cast>Ariste, Lisette.</cast>
+<sp who="LISETTE"><hstage><speaker>LISETTE</speaker>.</hstage>
 	<l id="278">Oui, je rentre, Monsieur, et mon ame inquiète</l>
 	<l id="279">Voudrait vous confier un important secret ;</l>
 	<l id="280" part="i">Si j’osais ...</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="280" part="f">Pensez-vous que je sois indiscret ?</l>
 </sp>
-<sp who="LISETTE"><speaker>LISETTE.</speaker>
+<sp who="LISETTE"><hstage><speaker>LISETTE</speaker>.</hstage>
 	<l id="281">Non, votre cœur sans doute est animé d’un zèle</l>
 	<l id="282">Pour vos amis toujours tendre , actif, et fidèle.</l>
 	<l id="283">Je tremble toutefois de vous importuner.</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="284">Non, ne me cachez rien : parlez fans vous gêner.</l>
 	<l id="285">Vous savez à quel point pour vous je m’intéresse.</l>
 </sp>
-<sp who="LISETTE"><speaker>LISETTE.</speaker>
+<sp who="LISETTE"><hstage><speaker>LISETTE</speaker>.</hstage>
 <stage>Bas.</stage>
 	<l id="286">Lui ferai-je l’aveu de toute ma faiblesse ?</l>
 <stage>Haut.</stage>
@@ -487,55 +487,55 @@
 	<l id="289">Je prévois le reproche où ce discours m’expose.</l>
 	<l id="290">Dois-je de mes chagrins vous apprendre la cause ?</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="291">Que dites-vous, Lisette, et qui peut en ce jour,</l>
 	<l id="292" part="i">Rendre votre destin si malheureux ?</l>
 </sp>
-<sp who="LISETTE"><speaker>LISETTE.</speaker>
+<sp who="LISETTE"><hstage><speaker>LISETTE</speaker>.</hstage>
 	<l id="292" part="f">L’amour</l>
 	<l id="293">D’un père et d’une mère il m’a ravi l’estime</l>
 	<l id="294">Le préjugé pourtant cause seul tout mon crime ;</l>
 	<l id="295">Et votre cœur sans doute approuvera mes feux,</l>
 	<l id="296">Quand vous saurez le nom de l’objet de mes v?ux.</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="297">Ah ! Ne différez plus, et rompez le silence.</l>
 	<l id="298">De ces retardements mon amitié s’offense.</l>
 </sp>
-<sp who="LISETTE"><speaker>LISETTE.</speaker>
+<sp who="LISETTE"><hstage><speaker>LISETTE</speaker>.</hstage>
 	<l id="299">Vous connaissez Valère, et vous plaignez mon sort.</l>
 	<l id="300" part="i">Je le plains encor plus, Monsieur...</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="300" part="f">Mais quel rapport</l>
 	<l id="301">Ses malheurs peuvent-ils avoir à votre affaire ?</l>
 </sp>
-<sp who="LISETTE"><speaker>LISETTE.</speaker>
+<sp who="LISETTE"><hstage><speaker>LISETTE</speaker>.</hstage>
 	<l id="302" part="i">Je suis ...Hélas !...</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="302" part="m">Parlez.</l>
 </sp>
-<sp who="LISETTE"><speaker>LISETTE.</speaker>
+<sp who="LISETTE"><hstage><speaker>LISETTE</speaker>.</hstage>
 	<l id="302" part="f">L’épouse de Valère.</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="303" part="i">î&gt;Ciel ! Est-il possible ?</l>
 </sp>
-<sp who="LISETTE"><speaker>LISETTE.</speaker>
+<sp who="LISETTE"><hstage><speaker>LISETTE</speaker>.</hstage>
 	<l id="303" part="f">Oui, Monsieur, je le suis,</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="304" part="i">Quoi vous êtes Alzate ?</l>
 </sp>
-<sp who="LISETTE"><speaker>LISETTE.</speaker>
+<sp who="LISETTE"><hstage><speaker>LISETTE</speaker>.</hstage>
 	<l id="304" part="m">Il est vrai.</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="304" part="f">Je ne puis,</l>
 	<l id="305">Madame, revenir de ma surprise extrême.</l>
 </sp>
-<sp who="ALZATE"><speaker>ALZATE.</speaker>
+<sp who="ALZATE"><hstage><speaker>ALZATE</speaker>.</hstage>
 	<l id="306">Ce que j’ai fait pour lui prouve à quel point je l’aime.</l>
 	<l id="307">J’ai cru de ses parents excitant la pitié</l>
 	<l id="308">Sous ce déguisement gagner leur amitié.</l>
@@ -586,11 +586,11 @@
 	<l id="353">Et maintenant peut-être il me traite en son âme,</l>
 	<l id="354" part="i">D’ingrate, de parjure...</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="354" part="f">Eh ! Pouvez-vous, Madame,</l>
 	<l id="355">Le penser d’un époux aussi tendre que lui ?</l>
 </sp>
-<sp who="ALZATE"><speaker>ALZATE.</speaker>
+<sp who="ALZATE"><hstage><speaker>ALZATE</speaker>.</hstage>
 	<l id="356">Ah ! Quand cela serait, je ne puis aujourd’hui</l>
 	<l id="357">Reprocher à son cœur un soupçon légitime.</l>
 	<l id="358">Ma démarche, Monsieur, doit lui paraître un crime.</l>
@@ -602,24 +602,24 @@
 	<l id="364">Je pourrais par mes soins vaincre la dureté.</l>
 	<l id="365" part="i">Dois-je encor m’en flatter ?</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="365" part="f">De Valère lui-même</l>
 	<l id="366">L’aspect va dissiper cette frayeur extrême.</l>
 	<l id="367" part="i">Il vous chérit toujours.</l>
 </sp>
-<sp who="ALZATE"><speaker>ALZATE.</speaker>
+<sp who="ALZATE"><hstage><speaker>ALZATE</speaker>.</hstage>
 	<l id="367" part="f">Mon époux est ici ?</l>
 	<l id="368" part="i">Ah ! Courons le chercher...</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="368" part="f">Madame, le voici.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Ariste, Valère, Alzate.</head>
-<sp who="VALÈRE"><speaker>VALÈRE.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Ariste, Valère, Alzate.</cast>
+<sp who="VALÈRE"><hstage><speaker>VALÈRE</speaker>.</hstage>
 	<l id="369" part="i">Que vois-je ? Ô Ciel ! Alzate ?</l>
 </sp>
-<sp who="ALZATE"><speaker>ALZATE.</speaker>
+<sp who="ALZATE"><hstage><speaker>ALZATE</speaker>.</hstage>
 	<l id="369" part="f">Oui, cher époux, c’est-elle,</l>
 	<l id="370">Que sa fuite a dû rendre à vos yeux criminelle ;</l>
 	<l id="371">Mais un mot suffira pour me justifier.</l>
@@ -629,7 +629,7 @@
 	<l id="375">Pour gagner leur estime, et fléchir leur courroux,</l>
 	<l id="376" part="i">J’ai tenté cette voie.</l>
 </sp>
-<sp who="VALÈRE"><speaker>VALÈRE.</speaker>
+<sp who="VALÈRE"><hstage><speaker>VALÈRE</speaker>.</hstage>
 	<l id="376" part="f">Ah ! Que m’apprenez-vous ?</l>
 <stage>Après une petite pause.</stage>
 	<l id="377">Confus, désespéré, je rougis, chère Alzate ,</l>
@@ -652,7 +652,7 @@
 	<l id="394">Oui, je jure à tes pieds, tendre épouse que j’aime,</l>
 	<l id="395" part="i">Que coupable envers toi...</l>
 </sp>
-<sp who="ALZATE"><speaker>ALZATE.</speaker>
+<sp who="ALZATE"><hstage><speaker>ALZATE</speaker>.</hstage>
 	<l id="395" part="f">Valère, levez-vous.</l>
 	<l id="396">C’est bien plutôt à moi d’embrasser vos genoux ;</l>
 	<l id="397">À moi qui par ma fuite et par mon imprudence</l>
@@ -673,7 +673,7 @@
 	<l id="412">Et jurons-nous sans cesse une éternelle ardeur.</l>
 	<l id="413">Nul autre bien ne peut contenter ma tendresse.</l>
 </sp>
-<sp who="VALÈRE"><speaker>VALÈRE.</speaker>
+<sp who="VALÈRE"><hstage><speaker>VALÈRE</speaker>.</hstage>
 	<l id="414">Qu’oses-tu dire, hélas ! Pardonne à ma faiblesse,</l>
 	<l id="415">Trop adorable Alzate, et connais mieux ma foi.</l>
 	<l id="416">Que ces épanchements ont de douceur pour moi !</l>
@@ -687,7 +687,7 @@
 	<l id="424">Te fléchira sans doute, et comblera nos vœux.</l>
 	<l id="425">L’épouse de ton fils pouvait-elle plus faire ?</l>
 </sp>
-<sp who="ALZATE"><speaker>ALZATE.</speaker>
+<sp who="ALZATE"><hstage><speaker>ALZATE</speaker>.</hstage>
 	<l id="426">Je n’en ai pas encore assez fait, cher Valère.</l>
 	<l id="427">J’aime mieux voir briser de si tendres liens,</l>
 	<l id="428">Que de vous voir privé pour jamais de vos biens.</l>
@@ -700,7 +700,7 @@
 	<l id="435">Ne pouvant vous nommer du tendre nom d’époux,</l>
 	<l id="436">J’irai vivre, ou plutôt, j’irai mourir pour vous.</l>
 </sp>
-<sp who="VALÈRE"><speaker>VALÈRE.</speaker>
+<sp who="VALÈRE"><hstage><speaker>VALÈRE</speaker>.</hstage>
 	<l id="437">Et moi, jusqu’au tombeau je jure de vous suivre.</l>
 	<l id="438">Alzate, votre époux sans vous pourrait-il vivre ?</l>
 	<l id="439">Le pouvez-vous penser, cruelle épouse, hélas !</l>
@@ -734,17 +734,17 @@
 	<l id="467">Je vivrai pour toi seule ; et j’en saisie serment :</l>
 	<l id="468">Chère épouse, ton cœur m’en jure-t-il autant ?</l>
 </sp>
-<sp who="ALZATE"><speaker>ALZATE.</speaker>
+<sp who="ALZATE"><hstage><speaker>ALZATE</speaker>.</hstage>
 	<l id="469">Oui, je vous le promets, et veux de ma tendresse</l>
 	<l id="470">Par cet embrassement garantir la promesse.</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="471">Que mon cœur est touché ! vivez, tendres époux ;</l>
 	<l id="472">Le Ciel à vos désirs prépare un sort plus doux.</l>
 	<l id="473">Allez : pour confirmer ce que je vous annonce,</l>
 	<l id="474">J’attends de votre mère une prompte réponse.</l>
 </sp>
-<sp who="VALÈRE"><speaker>VALÈRE.</speaker>
+<sp who="VALÈRE"><hstage><speaker>VALÈRE</speaker>.</hstage>
 	<l id="475">Ah ! Si notre sort change, et devient plus heureux,</l>
 	<l id="476">Nous devrons ce succès à vos soins généreux,</l>
 	<l id="477">Cher Ariste, et ce n’est qu’à votre amitié tendre</l>
@@ -754,7 +754,7 @@
 	<l id="481">Et qu’au fond de nos cœurs leur image tracée</l>
 	<l id="482">Par un oubli coupable en puisse être effacée.</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="483">Je ne mérite pas un retour si parfait.</l>
 	<l id="484">J’agis comme tout autre à ma place aurait fait,</l>
 	<l id="485">Et lorsque d’un ami j’adoucis la souffrance,</l>
@@ -766,7 +766,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="9"><head>SCÈNE IX.</head>
-<sp who="ARISTE"><speaker>ARISTE, seul.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>, seul.</hstage>
 	<l id="491">Ainsi l’ascendant d’un préjugé honteux.</l>
 	<l id="492">Force un père crédule à traverser leurs feux.</l>
 	<l id="493">Il pense que le cœur d’une actrice charmante</l>
@@ -784,18 +784,18 @@
 	<l id="505" part="i">Non, je veux...</l>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Ariste, Eglé, Liseette, Alzate.</head>
-<sp who="EGLÉ"><speaker>EGLÉ, s’avançant vers Ariste et l’interrompant •avec précipitation.</speaker>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><cast>Ariste, Eglé, Liseette, Alzate.</cast>
+<sp who="EGLÉ"><hstage><speaker>EGLÉ</speaker>, s’avançant vers Ariste et l’interrompant •avec précipitation.</hstage>
 	<l id="505" part="f">Ah ! Monsieur, prenez part à ma joie ;</l>
 	<l id="506">Valère de ses maux ne sera plus la proie.</l>
 	<l id="507">Oronte lui pardonne : à son fatal courroux</l>
 	<l id="508">Succède dans son cœur un sentiment plus doux.</l>
 	<l id="509">Il consent à le voir, et lui rend sa tendresse.</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="510">Et ne craignez-vous point qu’il manque à sa promesse ?</l>
 </sp>
-<sp who="EGLÉ"><speaker>EGLÉ.</speaker>
+<sp who="EGLÉ"><hstage><speaker>EGLÉ</speaker>.</hstage>
 	<l id="511">Non, je la crois sincère. À ses remords livré</l>
 	<l id="512">Des malheurs de son fils Oronte est pénétré.</l>
 	<l id="513">Mais bientôt, disiez-vous, Monsieur, par sa présence,</l>
@@ -808,7 +808,7 @@
 	<l id="520">Du préjugé cruel qui l’avait prévenu.</l>
 	<l id="521">Mais, Lisette, qu’as-tu ? Tu me parais émue.</l>
 </sp>
-<sp who="LISETTE"><speaker>LISETTE.</speaker>
+<sp who="LISETTE"><hstage><speaker>LISETTE</speaker>.</hstage>
 	<l id="522">Quoi, de leur pardonner vous seriez résolue ?</l>
 	<l id="523">Votre bonté succède à vos inimitiés ?</l>
 	<l id="524">Madame, il est donc temps que je fasse à vos pieds</l>
@@ -825,7 +825,7 @@
 	<l id="535">Pour vous en assurer, souffrez qu’à vos genoux</l>
 	<l id="536" part="i">Par de nouveaux serments...</l>
 </sp>
-<sp who="EGLÉ"><speaker>EGLÉ.</speaker>
+<sp who="EGLÉ"><hstage><speaker>EGLÉ</speaker>.</hstage>
 	<l id="536" part="f">Alzate, levez-vous :</l>
 	<l id="537">Embrassez votre mère. Oui, vous êtes ma fille :</l>
 	<l id="538">Vos vertus ne sauraient qu’honorer ma famille,</l>
@@ -838,7 +838,7 @@
 	<l id="545">Je reconnais en vous l’épouse de Valère,</l>
 	<l id="546">Et ce titre à mon cœur vous rend encor plus chère.</l>
 </sp>
-<sp who="ALZATE"><speaker>ALZATE.</speaker>
+<sp who="ALZATE"><hstage><speaker>ALZATE</speaker>.</hstage>
 	<l id="547">Ah ! Que d’un nom si doux mon cœur serait flatté !</l>
 	<l id="548">Mais je n’ose compter sur ma félicité ,</l>
 	<l id="549">Jusqu’à ce que je vois un inflexible père,</l>
@@ -848,15 +848,15 @@
 	<l id="553" part="i">Mais Valère paraît.</l>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Eglé, Valère, Ariste, Alzate.</head>
-<sp who="ALZATE"><speaker>ALZATE.</speaker>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><cast>Eglé, Valère, Ariste, Alzate.</cast>
+<sp who="ALZATE"><hstage><speaker>ALZATE</speaker>.</hstage>
 	<l id="553" part="f">Cher objet de ma flamme,</l>
 	<l id="554" part="i">Approchez : on sait tout.</l>
 </sp>
-<sp who="EGLÉ"><speaker>EGLÉ.</speaker>
+<sp who="EGLÉ"><hstage><speaker>EGLÉ</speaker>.</hstage>
 	<l id="554" part="m">Oui, mon fils.</l>
 </sp>
-<sp who="VALÈRE"><speaker>VALÈRE.</speaker>
+<sp who="VALÈRE"><hstage><speaker>VALÈRE</speaker>.</hstage>
 	<l id="554" part="f">Ah, Madame,</l>
 	<l id="555">Vous me permettez donc de paraître à vos yeux ;</l>
 	<l id="556">C’est votre ordre absolu qui m’appelle en ces lieux.</l>
@@ -874,7 +874,7 @@
 	<l id="568">Ce qu’il éprouve en lui, doit-il l’aigrir en moi ?</l>
 	<l id="569">Non, pour vous il n’est rien que mon père ne fasse.</l>
 </sp>
-<sp who="EGLÉ"><speaker>EGLÉ.</speaker>
+<sp who="EGLÉ"><hstage><speaker>EGLÉ</speaker>.</hstage>
 	<l id="570">Que n’ai-je point tenté pour obtenir ta grâce ?</l>
 	<l id="571">Je n’ai pas attendu que tes discours pressants</l>
 	<l id="572">Réchauffassent en moi des transports languissants,</l>
@@ -890,25 +890,25 @@
 	<l id="582">Ariste, secondez les efforts d’une mère.</l>
 </sp>
 </div2>
-<div2 type="scene" n="12"><head>SCÈNE XII. Eglé, Ariste, Oronte, Alzate.</head>
-<sp who="EGLÉ"><speaker>EGLÉ.</speaker>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head><cast>Eglé, Ariste, Oronte, Alzate.</cast>
+<sp who="EGLÉ"><hstage><speaker>EGLÉ</speaker>.</hstage>
 	<l id="583">Vous venez à propos : nous voulions vous  parler.</l>
 </sp>
-<sp who="ORONTE"><speaker>ORONTE.</speaker>
+<sp who="ORONTE"><hstage><speaker>ORONTE</speaker>.</hstage>
 	<l id="584" part="i">De quoi ?...</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="584" part="f">De votre fils : vous semblez vous troubler.</l>
 	<l id="585">M’écouterez-vous ? Quoi !... Ce nom seul vous attriste,</l>
 </sp>
-<sp who="ORONTE"><speaker>ORONTE.</speaker>
+<sp who="ORONTE"><hstage><speaker>ORONTE</speaker>.</hstage>
 	<l id="586">Ah ! Cessez de rouvrir mes blessures, Ariste,</l>
 	<l id="587">Et pour un fils ingrat n’allez pas rallumer</l>
 	<l id="588">Un amour mal éteint prêt à se renflammer,</l>
 	<l id="589">Qui, malgré son offense ; à son sort m’intéresse,</l>
 	<l id="590">Et me rendrait pour lui capable de faiblesse.</l>
 </sp>
-<sp who="ARISTE"><speaker>ARISTE.</speaker>
+<sp who="ARISTE"><hstage><speaker>ARISTE</speaker>.</hstage>
 	<l id="591">En est-ce une, Monsieur, de sortir de l’erreur</l>
 	<l id="592">Où la prévention entraîna votre cœur,</l>
 	<l id="593">Et de ratifier un hymen légitime ?</l>
@@ -920,14 +920,14 @@
 	<l id="599">Telle est la passion dont Valère est épris ;</l>
 	<l id="600">Et vous n’osez encor pardonner à ce fils ?</l>
 </sp>
-<sp who="ORONTE"><speaker>ORONTE.</speaker>
+<sp who="ORONTE"><hstage><speaker>ORONTE</speaker>.</hstage>
 	<l id="601">Je l’aime ; mais comment, en cette conjoncture,</l>
 	<l id="602">Satisfaire à la fois l’honneur et la nature ?</l>
 </sp>
-<sp who="ALZATE"><speaker>ALZATE.</speaker>
+<sp who="ALZATE"><hstage><speaker>ALZATE</speaker>.</hstage>
 	<l id="603" part="i">Je tremble.</l>
 </sp>
-<sp who="EGLÉ"><speaker>EGLÉ, à Oronte.</speaker>
+<sp who="EGLÉ"><hstage><speaker>EGLÉ</speaker>, à Oronte.</hstage>
 	<l id="603" part="f">Quel propos ! Vous repentiriez-vous</l>
 	<l id="604">D’avoir laissé tantôt fléchir votre courroux ?</l>
 	<l id="605">Quoi donc ? Un faux honneur, un préjugé frivole</l>
@@ -937,7 +937,7 @@
 	<l id="609">Épuise sur nous deux ta haine criminelle ;</l>
 	<l id="610" part="i">N’épargne ni le fils, ni la mère...</l>
 </sp>
-<sp who="ORONTE"><speaker>ORONTE.</speaker>
+<sp who="ORONTE"><hstage><speaker>ORONTE</speaker>.</hstage>
 	<l id="610" part="f">Ah ! Cruelle,</l>
 	<l id="611">Pouvez-vous me tenir un semblable discours ?</l>
 	<l id="612">Est-ce vous qui parlez ? Vous pour qui j’ai toujours</l>
@@ -954,12 +954,12 @@
 	<l id="623">Vous Eglé, vous Lisette, et vous Ariste aussi ?</l>
 	<l id="624">À quelle horreur hélas ! Suis-je réduit ici ?</l>
 </sp>
-<sp who="EGLÉ"><speaker>EGLÉ.</speaker>
+<sp who="EGLÉ"><hstage><speaker>EGLÉ</speaker>.</hstage>
 	<l id="625">Excusez les transports d’une mère inquiète.</l>
 	<l id="626">Consentez que Valère à vos genoux se jette ;</l>
 	<l id="627">Et ne différez plus la fin de ses malheurs.</l>
 </sp>
-<sp who="ORONTE"><speaker>ORONTE.</speaker>
+<sp who="ORONTE"><hstage><speaker>ORONTE</speaker>.</hstage>
 	<l id="628">Je lui pardonne tout ; mais, essuyez vos pleurs.</l>
 	<l id="629">Vos sanglots redoublés déchirent trop mon âme,</l>
 <stage>À Ariste.</stage>
@@ -967,8 +967,8 @@
 <stage>Ariste sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="13"><head>SCÈNE XIII. Eglé, Oronte , Alzate.</head>
-<sp who="ORONTE"><speaker>ORONTE, continuant.</speaker>
+<div2 type="scene" n="13"><head>SCÈNE XIII.</head><cast>Eglé, Oronte , Alzate.</cast>
+<sp who="ORONTE"><hstage><speaker>ORONTE</speaker>, continuant.</hstage>
 	<l id="630" part="f">Oui, Madame,</l>
 	<l id="631">Je l’attends avec joie, et lui rends en ce jour,</l>
 	<l id="632">Son épouse, ses biens, et même mon amour.</l>
@@ -977,16 +977,16 @@
 	<l id="634">Ordonnez ; je suis prêt... Mais que prétends-tu faire</l>
 	<l id="635" part="i">Lisette ?...</l>
 </sp>
-<sp who="ALZATE"><speaker>ALZATE.</speaker>
+<sp who="ALZATE"><hstage><speaker>ALZATE</speaker>.</hstage>
 	<l id="635" part="f">Mon devoir. Par cet abaissement,</l>
 	<l id="636">Et les pleurs que mes yeux versent, dans ce moment,</l>
 	<l id="637">Reconnaissez en moi cette épouse coupable</l>
 	<l id="638">D’avoir à votre fils pu paraître estimable.</l>
 </sp>
-<sp who="ORONTE"><speaker>ORONTE.</speaker>
+<sp who="ORONTE"><hstage><speaker>ORONTE</speaker>.</hstage>
 	<l id="639">Quoi ! Vous êtes ma fille, et vous serviez chez moi ?</l>
 </sp>
-<sp who="ALZATE"><speaker>ALZATE.</speaker>
+<sp who="ALZATE"><hstage><speaker>ALZATE</speaker>.</hstage>
 	<l id="640">Oui ; trop heureuse encor, vivant sous votre loi,</l>
 	<l id="641">Si je vois au courroux qui causa ma tristesse,</l>
 	<l id="642">De mon père aujourd’hui succéder la tendresse.</l>
@@ -997,13 +997,13 @@
 	<l id="647" part="i">Mais voici votre fils.</l>
 </sp>
 </div2>
-<div2 type="scene" n="14"><head>SCÈNE XIV ET DERNIÈRE. Eglé, Oronte, Valère, Ariste, Alzate.</head>
-<sp who="ALZATE"><speaker>ALZATE.</speaker>
+<div2 type="scene" n="14"><head>SCÈNE XIV ET DERNIÈRE.</head><cast>Eglé, Oronte, Valère, Ariste, Alzate.</cast>
+<sp who="ALZATE"><hstage><speaker>ALZATE</speaker>.</hstage>
 	<l id="647" part="f">Avancez, cher époux ;</l>
 	<l id="648">Venez de votre père embrasser les genoux ;</l>
 	<l id="649" part="i">Implorez, comme moi, ses bontés.</l>
 </sp>
-<sp who="VALÈRE"><speaker>VALÈRE.</speaker>
+<sp who="VALÈRE"><hstage><speaker>VALÈRE</speaker>.</hstage>
 	<l id="649" part="f">Ah ! Mon père,</l>
 	<l id="650">Permettez qu’à vos pieds l’infortuné Valère</l>
 	<l id="651">Ose vous faire entendre une timide voix ?</l>
@@ -1013,7 +1013,7 @@
 	<l id="655">Mais si vous persistiez dans vos inimitiés,</l>
 	<l id="656">C’en est fait : votre fils périrait à vos pieds.</l>
 </sp>
-<sp who="ORONTE"><speaker>ORONTE le relevant, après une longue pause.</speaker>
+<sp who="ORONTE"><hstage><speaker>ORONTE</speaker> le relevant, après une longue pause.</hstage>
 	<l id="657">Vivez ; si mon ardeur n’a point paru plus prompte,</l>
 	<l id="658">Ce silence, mon fils, est l’effet de ma honte.</l>
 	<l id="659">De remords déchiré mon cœur en ce moment</l>
@@ -1036,16 +1036,16 @@
 	<l id="676">Le juste désaveu de mes faux sentiments.</l>
 	<l id="677">Embrassez-moi, ma fille ; un père vous en prie.</l>
 </sp>
-<sp who="ALZATE"><speaker>ALZATE, l’embrassant.</speaker>
+<sp who="ALZATE"><hstage><speaker>ALZATE</speaker>, l’embrassant.</hstage>
 	<l id="678">Par ce retour, Monsieur, vous me rendez la vie.</l>
 	<l id="679">Je reconnais mon maître à ces tendres bontés.</l>
 </sp>
-<sp who="ORONTE"><speaker>ORONTE.</speaker>
+<sp who="ORONTE"><hstage><speaker>ORONTE</speaker>.</hstage>
 	<l id="680">Viens donc mettre le comble à mes félicités,</l>
 	<l id="681">Mon fils, et ne crains plus cette rigueur austère,</l>
 	<l id="682">Qu’efface pour jamais un repentir sincère.</l>
 </sp>
-<sp who="VALÈRE"><speaker>VALÈRE.</speaker>
+<sp who="VALÈRE"><hstage><speaker>VALÈRE</speaker>.</hstage>
 	<l id="683">Je vous retrouve enfin, et n’ai plus en ce jour</l>
 	<l id="684">De vœux à faire au Ciel qui me rend votre amour.</l>
 	<l id="685">Quel heureux changement ! Ah, mon père ! ah, Madame !</l>
@@ -1053,18 +1053,18 @@
 	<l id="687">De vous ouvrir mon cœur que ne m’est-il permis ?</l>
 	<l id="688">Vous verriez à quel point ce cœur vous est soumis.</l>
 </sp>
-<sp who="ORONTE"><speaker>ORONTE.</speaker>
+<sp who="ORONTE"><hstage><speaker>ORONTE</speaker>.</hstage>
 	<l id="689">De ces soumissions ma tendresse s’offense.</l>
 	<l id="690">Vous ne nous devez pas tant de reconnaissance.</l>
 	<l id="691">Je devrais bien plutôt me reprocher toujours</l>
 	<l id="692">D’avoir pu si longtemps abandonner vos jours</l>
 	<l id="693">Aux persécutions qu’un préjugé vulgaire...</l>
 </sp>
-<sp who="EGLÉ"><speaker>EGLÉ.</speaker>
+<sp who="EGLÉ"><hstage><speaker>EGLÉ</speaker>.</hstage>
 	<l id="694">Ah, Monsieur, oublions une injuste colère,</l>
 	<l id="695">Et songeons seulement à réparer leurs maux.</l>
 </sp>
-<sp who="ORONTE"><speaker>ORONTE.</speaker>
+<sp who="ORONTE"><hstage><speaker>ORONTE</speaker>.</hstage>
 	<l id="696">Oui je veux désormais qu’en des liens si beaux</l>
 	<l id="697">Ils coulent avec nous leur douce destinée.</l>
 	<l id="698">Allons ratifier un si tendre hyménée ;</l>

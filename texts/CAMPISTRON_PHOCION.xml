@@ -52,8 +52,8 @@
 	</front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Chrisis, Dione,Licas.</head> 
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Chrisis, Dione,Licas.</cast> 
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="1">Ah bien Lidias, eh bien, puis-je voir Agnonide,</l> 
 	<l id="2">L’avez-vous informé du destin qui me guide ?</l>
 	<l id="3">Sait-il que pour mon père une juste terreur</l>
@@ -61,15 +61,15 @@
 	<l id="5">Et qu’un ordre cruel m’empêchant de le suivre,</l>
 	<l id="6">Au comble des horreurs son absence me livre.</l>
 </sp>
-<sp who="LICAS"><speaker>LICAS</speaker>
+<sp who="LICAS"><hstage><speaker>LICAS</speaker></hstage>
 	<l id="7">Madame, par mes soins Agnonide est instruit</l>
 	<l id="8">De l’état déplorable où le sort vous réduit ;</l>
 	<l id="9">Votre douleur le touche, et prêt à vous entendre</l>
 	<l id="10">Il viendra dans ces lieux où vous pouvez l’attendre.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Chrisis, Dione.</head>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Chrisis, Dione.</cast>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="11">Quel accueil, quel discours, quel changement, grands dieux !</l> 
 	<l id="12">Puis-je me méconnaître ? Et suis-je dans ces lieux,</l>
 	<l id="13">Où mon père en ses mains tenant le sort d’Athènes,</l>
@@ -79,10 +79,10 @@
 	<l id="17">Qui marquant chaque jour son zèle et sa sagesse</l>
 	<l id="18">Firent l’étonnement et l’honneur de la Grèce.</l>
 </sp>
-<sp who="DIONE"><speaker>DIONE</speaker>
+<sp who="DIONE"><hstage><speaker>DIONE</speaker></hstage>
 	<l id="19" part="i">Madame...</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="19" part="f">Tu le vois, mille objets menaçants</l>
 	<l id="20">Confirment à l’envi les chagrins que je sens ;</l>
 	<l id="21">Ces indignes enfants de notre république,</l>
@@ -96,7 +96,7 @@
 	<l id="29">De venir jusqu’ici faire parler mes larmes,</l>
 	<l id="30">Pour fléchir un tyran, trop impuissantes armes.</l>
 </sp>
-<sp who="DIONE"><speaker>DIONE</speaker>
+<sp who="DIONE"><hstage><speaker>DIONE</speaker></hstage>
 	<l id="31">C’est ce tyran lui seul dont les lâches projets</l>
 	<l id="32">Ont troublé de vos jours le bonheur et la paix,</l>
 	<l id="33">Jaloux de Phocion, sa parricide envie,</l>
@@ -105,7 +105,7 @@
 	<l id="36">Un héros que la guerre a toujours respecté.</l>
 	<l id="37" part="i">Un héros...</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="37" part="f">Ah ! Finis cet éloge inutile,</l>
 	<l id="38">Réserve ces discours pour un temps plus tranquille,</l>
 	<l id="39">Et loin de retracer sa gloire et ses vertus,</l>
@@ -124,7 +124,7 @@
 	<l id="52">Qu’Athènes va tomber, si ta haine l’opprime,</l>
 	<l id="53">Et venger en tombant cette grande victime.</l>
 </sp>
-<sp who="DIONE"><speaker>DIONE</speaker>
+<sp who="DIONE"><hstage><speaker>DIONE</speaker></hstage>
 	<l id="54">Et qui peut se flatter que ce tyran plus doux,</l>
 	<l id="55">Reconnaîtra son crime, et suspendra ses coups :</l>
 	<l id="56">Madame, à ce retour je vois peu d’apparence ;</l>
@@ -141,7 +141,7 @@
 	<l id="67">De son sort incertain la gloire et le danger,</l>
 	<l id="68" part="i">Pouvez-vous !</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="68" part="f">Sa vertu digne d’être estimée,</l>
 	<l id="69">Par ce noble dessein me fut trop confirmée ;</l>
 	<l id="70">Il vint dans le moment que mes premiers malheurs</l>
@@ -165,30 +165,30 @@
 	<l id="88">Il me fit concevoir une faible espérance,</l>
 	<l id="89">Et partit assuré de ma reconnaissance.</l>
 </sp>
-<sp who="DIONE"><speaker>DIONE</speaker>
+<sp who="DIONE"><hstage><speaker>DIONE</speaker></hstage>
 	<l id="90">Mais, Madame, est-ce assez, et ne croyez-vous pas</l>
 	<l id="91">Qu’adorateur secret de vos divins appas,</l>
 	<l id="92">Quand pour vos intérêts il court tout entreprendre</l>
 	<l id="93">Il se propose un prix qu’il a doit de prétendre.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="94" part="i">Dione, que dis-tu ?</l>
 </sp>
-<sp who="DIONE"><speaker>DIONE</speaker>
+<sp who="DIONE"><hstage><speaker>DIONE</speaker></hstage>
 	<l id="94" part="f">Que son amour pour vous</l>
 	<l id="95">Mérite en sa faveur des sentiments plus doux.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="96" part="i">Hélas ! Crois-tu qu’il m’aime ?</l>
 </sp>
-<sp who="DIONE"><speaker>DIONE</speaker>
+<sp who="DIONE"><hstage><speaker>DIONE</speaker></hstage>
 	<l id="96" part="f">En doutez-vous encore,</l>
 	<l id="97">Ses yeux n’ont-ils pas dit que son cœur vous adore</l>
 	<l id="98">Ses regards, ses soupirs au défaut de sa voix,</l>
 	<l id="99">Du feu qui le consume ont parlé mille fois ?</l>
 	<l id="100">Vous l’avez vu vous-même, avouez-le Madame.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="101">Faut-il te faire voir jusqu’au fond de mon âme ?</l>
 	<l id="102">J’ai cru m’apercevoir dans tous nos entretiens,</l>
 	<l id="103">Que ses timides yeux tremblaient devant les miens,</l>
@@ -205,10 +205,10 @@
 	<l id="114">Mon cœur d’assez de maux est troublé chaque jour</l>
 	<l id="115">Sans qu’il éprouve encore les tourments de l’amour</l>
 </sp>
-<sp who="DIONE"><speaker>DIONE</speaker>
+<sp who="DIONE"><hstage><speaker>DIONE</speaker></hstage>
 	<l id="116">Pourquoi formez-vous de si tristes alarmes ?</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="117">Non, ces plaisirs parfaits, ces doux transports, ces charmes.</l> 
 	<l id="118">Que l’amour fait sentir aux cœurs qu’il a choisis,</l>
 	<l id="119">Ne sont point destinés à celui de Chrisis ;</l>
@@ -216,8 +216,8 @@
 	<l id="121">Pour permettre... Mais dieux ! Notre ennemi s’avance.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Chrisis, Agnonide, Dione, Clitus.</head>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Chrisis, Agnonide, Dione, Clitus.</cast>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="122">Enfin pour vous parler j’obtiens quelques moments</l>
 	<l id="123">Vos gardes sont touchés de mes gémissements,</l>
 	<l id="124">Il ne m’opposent plus de funeste barrière :</l>
@@ -234,7 +234,7 @@
 	<l id="135">Qu’une vertu sans cesse à nos yeux confirmée,</l>
 	<l id="136">Et dont la pureté passe la renommée.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="137">Madame, je le vois, votre aveugle douleur,</l>
 	<l id="138">Du sort de Phocion m’impute le malheur,</l>
 	<l id="139">J’oublierai toutefois cette cruelle injure,</l>
@@ -262,7 +262,7 @@
 	<l id="161">Par mon ordre à mes yeux périrait aujourd’hui,</l>
 	<l id="162">S’il fallait prononcer entre Athènes et lui.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="163">Puissent les dieux vengeurs me prendre pour victime,</l>
 	<l id="164">Si j’ose condamner cette noble maxime ;</l>
 	<l id="165">J’en connais la justice, et Phocion cent fois</l>
@@ -293,44 +293,44 @@
 	<l id="190">De ce vainqueur du monde a terminé la vie ;</l>
 	<l id="191" part="i">Et qui par le poison...</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="191" part="f">Ah ! Madame, arrêtez,</l>
 	<l id="192">N’outragez plus ce prince, et du moins respectez</l>
 	<l id="193">De ce nom, de son rang, l’auguste caractère.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="194">Eh quoi ! S’il le profane, est-ce à moi de m’en taire ?</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="195">Oui, l’on doit ces égards au sacré nom de roi.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="196">Ce nom dans un tyran n’est plus sacré pour moi.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="197">Appelez-vous tyran un prince légitime ?</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="198">Celui qui les soutient peut-il les demander ?</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="199">Si nous sommes tous deux tels que vous l’osez dire,</l>
 	<l id="200">Vous flattez-vous encore que Phocion respire ?</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="201">De vos fureurs les dieux ont pu le préserver.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="202">Si les dieux l’ont voulu, leur bras l’a pu sauver,</l>
 	<l id="203">Mais rarement les dieux prodiguent leurs miracles.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="204">Leur moindre volonté ne trouve point d’obstacles.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="205">Nous apprendrons bientôt qui de nous s’est trompé.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="206">Hélas ! Je cède au coup dont mon cœur est frappé ;</l>
 	<l id="207">Ma fierté ne peut plus soutenir la pensée</l>
 	<l id="208">Du parricide affreux dont je suis menacée.</l>
@@ -351,8 +351,8 @@
 	<l id="223" part="i">Adieu.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Agnonide, Clitus.</head>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Agnonide, Clitus.</cast>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="223" part="f">Que me dit-elle, et quelle est ton attente ?</l>
 	<l id="224">Mais non, je ne crains point sa menace impuissante,</l>
 	<l id="225">Et la foudre aujourd’hui dut-elle m’accabler,</l>
@@ -364,10 +364,10 @@
 	<l id="231">Et renversant les lois de cette république,</l>
 	<l id="232">Rappelons sa splendeur des premiers rois d’Attique.</l>
 </sp>
-<sp who="CLITUS"><speaker>CLITUS</speaker>
+<sp who="CLITUS"><hstage><speaker>CLITUS</speaker></hstage>
 	<l id="233" part="i">Mais, Seigneur, songez-vous.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="233" part="f">J’ai tout examiné.</l>
 	<l id="234">Je sais que mon projet peut être condamné ;</l>
 	<l id="235">Que ces timides cœurs dont la prudente adresse,</l>
@@ -395,12 +395,12 @@
 	<l id="257">Pour m’éloigner du rang que je me suis promis,</l>
 	<l id="258">Je le crains plus lui seul que tous mes ennemis.</l>
 </sp>
-<sp who="CLITUS"><speaker>CLITUS</speaker>
+<sp who="CLITUS"><hstage><speaker>CLITUS</speaker></hstage>
 	<l id="259">Chargé d’ans et de soins, dont le nombre l’accable</l>
 	<l id="260">Un seul homme, Seigneur, est-il si redoutable ?</l>
 	<l id="261" part="i">Et se peut-il enfin...</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="261" part="f">Eh ! Ne conçois-tu pas,</l>
 	<l id="262">Qu’un homme tel que lui fait le sort des États ?</l>
 	<l id="263">Quoique mille raisons à sa perte m’attachent,</l>
@@ -412,10 +412,10 @@
 	<l id="269">Que de leur feu divin ils ont soin d’éclairer,</l>
 	<l id="270">Et qu’un ennemi même est contraint d’admirer.</l>
 </sp>
-<sp who="CLITUS"><speaker>CLITUS</speaker>
+<sp who="CLITUS"><hstage><speaker>CLITUS</speaker></hstage>
 	<l id="271">Eh ! Faut-il donc, Seigneur, attenter à sa vie ?</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="272">Triste effet, cher Clitus, des fureurs de l’envie ;</l>
 	<l id="273">Avec moins de vertus Phocion sans secours,</l>
 	<l id="274">Tranquille dans ces murs eut vu couler ses jours,</l>
@@ -432,10 +432,10 @@
 	<l id="285">Qui sur tous mes périls me fait fermer les yeux,</l>
 	<l id="286">Et braver le courroux des hommes et des dieux.</l>
 </sp>
-<sp who="CLITUS"><speaker>CLITUS</speaker>
+<sp who="CLITUS"><hstage><speaker>CLITUS</speaker></hstage>
 	<l id="287">Mais, Seigneur, votre fils par sa fuite imprévue.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="288">Ah ! Ne m’en parle plus, ce souvenir me tue ;</l>
 	<l id="289">Finissons un discours qui me glace d’effroi,</l>
 	<l id="290">J’ignore quel dessein peut l’ignorer de moi ;</l>
@@ -457,29 +457,29 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Agnonide, Clitus.</head>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Agnonide, Clitus.</cast>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="305">Approche, viens Clitus, mes chagrins sont passés,</l>
 	<l id="306">Je vois mes vœux secrets par le ciel exaucés ;</l>
 	<l id="307">Dieux ! Avec quel transports mon cœur s’ouvre à la joie.</l>
 </sp>
-<sp who="CLITUS"><speaker>CLITUS</speaker>
+<sp who="CLITUS"><hstage><speaker>CLITUS</speaker></hstage>
 	<l id="308">Eh ! Quel est le bonheur que le ciel nous envoie ?</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="309">Je viens de recevoir un billet de mon fils.</l>
 </sp>
-<sp who="CLITUS"><speaker>CLITUS</speaker>
+<sp who="CLITUS"><hstage><speaker>CLITUS</speaker></hstage>
 	<l id="310" part="i">Ah ! Se peut-il ?</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="310" part="f">Licas en mes mains l’a remis.</l>
 </sp>
-<sp who="CLITUS"><speaker>CLITUS</speaker>
+<sp who="CLITUS"><hstage><speaker>CLITUS</speaker></hstage>
 	<l id="311">Savez-vous sous quel ciel Ascinous respire ?</l>
 <note type="C">Dans le vers précedent le mot « espire » est inconnu, nous écrivons « respire ».</note>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="312">Nous l’ignorons encore, on n’a pu m’en instruire ;</l>
 	<l id="313">Ce n’est que par les soins d’un esclave inconnu</l>
 	<l id="314">Que cet heureux écrit jusqu’à nous est venu ;</l>
@@ -506,10 +506,10 @@
 	<l id="333">N’en doute point, je crains qu’un destin malheureux</l>
 	<l id="334">Ne le ramène ici plutôt que je ne veux.</l>
 </sp>
-<sp who="CLITUS"><speaker>CLITUS</speaker>
+<sp who="CLITUS"><hstage><speaker>CLITUS</speaker></hstage>
 	<l id="335">D’un pareil sentiment je cherche en vain la cause.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="336">Clitus dans le dessein que mon cœur propose,</l>
 	<l id="337">Près d’opprimer l’Attique et de donner des lois,</l>
 	<l id="338">À des peuples nourris dans la haine des rois,</l>
@@ -534,14 +534,14 @@
 	<l id="357">L’invincible Thésée arrive dans ces lieux,</l>
 	<l id="358">Le reçut de son père à la face des Dieux.</l>
 </sp>
-<sp who="CLITUS"><speaker>CLITUS</speaker>
+<sp who="CLITUS"><hstage><speaker>CLITUS</speaker></hstage>
 	<l id="359">J’admire pour ce fils vos soins et vos tendresses,</l>
 	<l id="360">Mais Cassander, Seigneur, tiendra-t-il ses promesses ?</l>
 	<l id="361">Êtes-vous assuré d’obtenir son secours ?</l>
 	<l id="362">Enfin, de Phocion tranchera-t-il les jours ?</l>
 	<l id="363">Je crains que la pitié malgré vous ne l’arrête.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="364">Non, son appui m’est sûr et ma victime est prête,</l>
 	<l id="365">Mais quand il manquerait à ce qu’il m’a promis,</l>
 	<l id="366">À d’autres défenseurs mon destin est remis ;</l>
@@ -577,8 +577,8 @@
 	<l id="396">Sortons, et prévenons un plainte importune.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Chrisis, Dione.</head>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Chrisis, Dione.</cast>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="397">Arrêtez. Il me fuit, et ne m’écoute pas,</l>
 	<l id="398">Je ne sais quel dessein précipite ses pas ;</l>
 	<l id="399">Quel trouble me saisit ? Que faut-il que je pense,</l>
@@ -587,13 +587,13 @@
 	<l id="402">Et ne s’éloigne-t-il que pour cacher sa mort ?</l>
 	<l id="403">Dione, c’en est fait leur rage est assouvie.</l>
 </sp>
-<sp who="DIONE"><speaker>DIONE</speaker>
+<sp who="DIONE"><hstage><speaker>DIONE</speaker></hstage>
 	<l id="404">Non, Madame, l’amour vous répond de sa vie,</l>
 	<l id="405">Fiez-vous à ses soins ; ne vous souvient-il plus</l>
 	<l id="406">Du départ, des serments du jeune Alcinous,</l>
 	<l id="407">Sa valeur vous promet un succès moins contraire.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="408">Ah Dieux ! Sur quelle foi me dis-tu que j’espère,</l>
 	<l id="409">Alcinous peut-il en de barbares lieux</l>
 	<l id="410">S’opposer aux desseins d’un roi victorieux ?</l>
@@ -605,24 +605,24 @@
 	<l id="415">Athènes par leur mort est à jamais privée</l>
 	<l id="416">De toute la vertu qu’elle avait conservée.</l>
 </sp>
-<sp who="DIONE"><speaker>DIONE</speaker>
+<sp who="DIONE"><hstage><speaker>DIONE</speaker></hstage>
 	<l id="417" part="i">Mais songez...</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="417" part="f">Mon destin ne peut être adouci.</l>
 </sp>
-<sp who="DIONE"><speaker>DIONE</speaker>
+<sp who="DIONE"><hstage><speaker>DIONE</speaker></hstage>
 	<l id="418" part="i">Alcinous...</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="418" part="m">Eh bien ?</l>
 </sp>
-<sp who="DIONE"><speaker>DIONE</speaker>
+<sp who="DIONE"><hstage><speaker>DIONE</speaker></hstage>
 	<l id="418" part="f">Madame le voici.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Alcinous, Chrisis, Dione.</head>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Alcinous, Chrisis, Dione.</cast>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="419">De quel étonnement, grands dieux, suis-je frappée,</l>
 	<l id="420">Est-ce vous que je vois, ne suis-je point trompée ?</l>
 	<l id="421">Ah, Seigneur, dissipez le trouble de mon cœur,</l>
@@ -631,7 +631,7 @@
 	<l id="424">A-t-il d’un roi barbare évité la colère ?</l>
 	<l id="425">Puis-je enfin me flatter de son heureux retour ?</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="426">Madame, en doutez-vous, puisque je vois le jour ;</l>
 	<l id="427">Croyez-vous que soigneux de garantir ma tête,</l>
 	<l id="428">J’aurai vu sur lui seul éclater la tempête ;</l>
@@ -646,7 +646,7 @@
 	<l id="437">Et la fin de ce jour va l’offrir à vos yeux,</l>
 	<l id="438">Vengé de noirs desseins de tous ses envieux.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="439">Ce changement soudain, cette joie imprévue</l>
 	<l id="440">Jette un trouble nouveau dans mon âme éperdue,</l>
 	<l id="441">Et ma faible raison, mes esprits languissants</l>
@@ -655,7 +655,7 @@
 	<l id="444">Mais ne me cachez plus par quel heureux miracle</l>
 	<l id="445">Mon père m’est rendu, qui me l’a conservé ?</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="446">Je vous l’ai déjà dit. Sa vertu l’a sauvé :</l>
 	<l id="447">Sa fierté, sa sagesse et l’éclat de sa vie,</l>
 	<l id="448">Ont désarmé le bras qu’avait armé l’envie ;</l>
@@ -698,10 +698,10 @@
 	<l id="485">Tandis que par les miens trahi, persécuté,</l>
 	<l id="486">J’en donne un de constance et de fidélité. »</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="487">Ô force plus qu’humaine ! Ô merveilleux courage.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="488">Cassander étonné d’entendre ce langage,</l>
 	<l id="489">De mouvements divers en secret combattu,</l>
 	<l id="490">Est forcé malgré lui d’admirer sa vertu ;</l>
@@ -712,20 +712,20 @@
 	<l id="495">Ne la refuse pas. C’est un roi qui te prie,</l>
 	<l id="496">Et libre, va revoir et servir ta patrie.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="497">Ainsi de mes ennuis le cours est terminé.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="498">Et moi plus que jamais à souffrir condamné,</l>
 	<l id="499">Je frémis des malheurs que le sort me présente,</l>
 	<l id="500">Votre infortune cesse et la mienne s’augmente,</l>
 	<l id="501">Trop digne d’exciter votre compassion,</l>
 	<l id="502">Je suis plus malheureux que n’était Phocion.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="503">Vous, Seigneur, quel malheur peut troubler votre vie ?</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="504">Hélas, Madame, hélas ! Faut-il que je le die ?</l>
 	<l id="505">Cet aveu dangereux loin de me soulager,</l>
 	<l id="506">Dans un gouffre nouveau peut encore me plonger ;</l>
@@ -742,10 +742,10 @@
 	<l id="517">Et la crainte surtout d’aigrir votre courroux ;</l>
 	<l id="518">Tout ne vous dit-il pas que j’expire pour vous ?</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="519" part="i">Ah, Seigneur !</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="519" part="f">Cet aveu ne doit point vous surprendre,</l>
 	<l id="520">Madame, et longtemps vous devez vous attendre</l>
 	<l id="521">À voir un jour enfin éclater cette ardeur,</l>
@@ -775,29 +775,29 @@
 	<l id="545">Parlez, parlez sans crainte, et ne voyez en moi,</l>
 	<l id="546">Que mon cœur, mon respect, mon amour et ma foi.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="547" part="i">Hélas !</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="547" part="m">Achevez.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="547" part="m">Ciel !</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="547" part="f">Ah ! C’est trop vous contraindre,</l>
 	<l id="548">Quel serait mon bonheur si vous pouviez me plaindre ?</l>
 	<l id="549">Montrez-moi par pitié vos sentiments secrets.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="550">Pour chercher Phocion je sors de ce palais ;</l>
 	<l id="551">Je fuis les mouvements que le devoir m’inspire.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="552">Eh quoi ! Vous me laissez sans me vouloir rien dire ;</l>
 	<l id="553">Vous refusez un mot à mon empressement.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="554">Devez-vous demander d’autre éclaircissement :</l>
 	<l id="555">Voyez dans mes yeux ni mépris ni colère,</l>
 	<l id="556">Faut-il de ma pitié de marque plus sincère</l>
@@ -805,39 +805,39 @@
 	<l id="558">Et le cœur d’un amant s’y devait-il tromper ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Alcinous, Chrisis, Licas, Dione.</head>
-<sp who="LICAS"><speaker>LICAS</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Alcinous, Chrisis, Licas, Dione.</cast>
+<sp who="LICAS"><hstage><speaker>LICAS</speaker></hstage>
 	<l id="559">Madame, Phocion arrive dans Athènes.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="560">Ô moment fortuné qui termine mes peines !</l>
 	<l id="561">Raisons, devoir, amour précipitez mes pas ?</l>
 	<l id="562" part="i">Adieu, Seigneur.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="562" part="m">Je vais...</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="562" part="f">Non, ne me suivez pas.</l>
 	<l id="563" part="i">Demeurez.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="563" part="f">J’obéis après votre défense,</l>
 	<l id="564">Mais que je vais souffrir de mon obéissance !</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Alcinous, Licas.</head>
-<sp who="LICAS"><speaker>LICAS</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Alcinous, Licas.</cast>
+<sp who="LICAS"><hstage><speaker>LICAS</speaker></hstage>
 	<l id="565">Que vois-je ? Quel adieu ? Quel discours ? Ah, Seigneur,</l>
 	<l id="566">Vos regards, vos transports ont trahi votre cœur</l>
 	<l id="567">Vous aimez, juste ciel ! Que dira votre père ?</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="568">Ah dieux ! Lui voudras-tu révéler ce mystère</l>
 	<l id="569">Qu’il l’ignore à jamais. Eh quoi mon cher Licas,</l>
 	<l id="570" part="i">Pourrais-tu me trahir ?</l>
 </sp>
-<sp who="LICAS"><speaker>LICAS</speaker>
+<sp who="LICAS"><hstage><speaker>LICAS</speaker></hstage>
 	<l id="570" part="f">Non, ne le craignez pas,</l>
 	<l id="571">Dans les soins que de moi demandait votre enfance,</l>
 	<l id="572">Vous avez trop souvent senti ma complaisance,</l>
@@ -846,7 +846,7 @@
 	<l id="575">Vous prévoyez, Seigneur, quelle suite funeste</l>
 	<l id="576" part="i">Votre amour...</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="576" part="f">C’est assez, épargnez-moi le reste ;</l>
 	<l id="577">Dans cet heureux instant je ne veux rien prévoir</l>
 	<l id="578">Qui puisse traverser ma joie et mon espoir.</l>
@@ -854,8 +854,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Phocion, Chrisis, Dione.</head>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Phocion, Chrisis, Dione.</cast>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="579">Enfin nous sommes seuls. Embrassez-moi ma fille,</l>
 	<l id="580">Le Ciel me fait revoir ces murs et ma famille ;</l>
 	<l id="581">Seuls objets où mon cœur porta toujours ses vœux</l>
@@ -870,7 +870,7 @@
 	<l id="590">Nos barbares tyrans ont joui de vos pleurs.</l>
 	<l id="591">Contre eux, votre douleur n’avait point d’autres armes.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="592">Pourquoi rappelez-vous ces mortelles alarmes ?</l>
 	<l id="593">N’y songeons plus, Seigneur, mais vivez, je vous vois,</l>
 	<l id="594">Quelle gloire pour vous, et quel plaisir pour moi,</l>
@@ -878,7 +878,7 @@
 	<l id="596">Juste ciel ! Qu’il m’est doux de vous revoir encore,</l>
 	<l id="597">Tranquille et respecté chez les Athéniens.</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="598">Ah ! Que tu connais mal quels sont nos citoyens ;</l>
 	<l id="599">Des peuples inconstants, l’âme basse et commune</l>
 	<l id="600">Règle leurs sentiments au gré de la fortune;</l>
@@ -895,7 +895,7 @@
 	<l id="611">Et d’un tyran barbare aimant les injustices,</l>
 	<l id="612">La haine est le seul prix qu’il donne à mes services.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="613">Eh ! Laissez-le, Seigneur, ce peuple criminel,</l>
 	<l id="614">Il mérite de vous un mépris éternel ;</l>
 	<l id="615">Ne vous permettez plus la moindre inquiétude</l>
@@ -909,7 +909,7 @@
 	<l id="623">Que vos soins désormais soient pour votre famille,</l>
 	<l id="624" part="i">Que vivant avec vous...</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="624" part="f">Que dites-vous ma fille ?</l>
 	<l id="625">Nos soins les plus pressants, notre premier amour,</l>
 	<l id="626">Son dûs aux lieux sacrés où nous venons au jour,</l>
@@ -929,12 +929,12 @@
 	<l id="640">Sauvez notre amitié des fureurs de l’envie.</l>
 	<l id="641">Ah quel bonheur ! Grands dieux ! Que mon sort est charmant ;</l> 
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="642">Mais ciel ! Cléon vous cherche avec empressement.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Phocion, Chrisis, Cléon, Dione.</head>
-<sp who="CLEON"><speaker>CLÉON</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Phocion, Chrisis, Cléon, Dione.</cast>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker></hstage>
 	<l id="643">Je n’ai pu découvrir les desseins d’Agnonide,</l>
 	<l id="644">Mais, Seigneur, je crains tout de cette âme perfide.</l>
 <note type="C">Le vers précédent se termine par un point d’interrogation syntaxiquement non motivé.</note>
@@ -944,7 +944,7 @@
 	<l id="648">Du plaisir de son cœur l’assuré témoignage</l>
 	<l id="649">Ses funestes apprêts peuvent nous menacer.</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="650">Ce serait trop, Cléon, je ne le puis penser,</l>
 	<l id="651">Mais quand mes ennemis en voudraient à ma vie,</l>
 	<l id="652">Est-ce un malheur pour moi qu’elle me soit ravie,</l>
@@ -953,20 +953,20 @@
 	<l id="655">Je ne veux point survivre à la chute d’Athènes.</l>
 	<l id="656">Et voir loin du péril ses misères prochaines.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="657">Quel étrange dessein, Seigneur, quittez ces lieux,</l>
 	<l id="658" part="i">Éloignez-vous.</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="658" part="f">Cachez cette crainte à mes yeux :</l>
 	<l id="659">Ma fille, cet avis devrait moins vous surprendre,</l>
 	<l id="660">Quelque soit mon destin je dois ici l’attendre.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="661">Rendez-vous à mes soins, songez à vous, Seigneur,</l>
 	<l id="662">Quoi, mes pleurs ne sauraient émouvoir votre cœur.</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="663">Non, et ces lâches pleurs font honte à ma famille,</l>
 	<l id="664">Mes yeux n’osent en vous reconnaître ma fille ;</l>
 	<l id="665">J’en rougis. Si j’avais formé quelque attentat</l>
@@ -982,7 +982,7 @@
 	<l id="675">Pleurez la liberté, surtout pleurez le crime</l>
 	<l id="676">Des lâches ennemis dont je suis la victime.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="677">Malgré mes déplaisirs, je l’avouerai Seigneur,</l>
 	<l id="678">Vos généreux discours flattent encore mon cœur ;</l>
 	<l id="679">J’admire la vertu que vous faites paraître,</l>
@@ -991,16 +991,16 @@
 	<l id="682">Et dont la fermeté passe encore la valeur.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Phocion, Alcinous, Chrisis, Cléon, Dione.</head>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Phocion, Alcinous, Chrisis, Cléon, Dione.</cast>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="683">Seigneur, ma raison cède au coup qu’on vous prépare,</l>
 	<l id="684">Je frémis au seul bruit d’un projet si barbare ;</l>
 	<l id="685">Le peuple à haute voix demande votre mort.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="686" part="i">Juste ciel !</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="686" part="f">Prévenez leur criminel effort ;</l>
 	<l id="687">À leurs perfides coups dérobez votre tête :</l>
 	<l id="688">Fuyez, Seigneur, fuyez, évitez la tempête :</l>
@@ -1015,19 +1015,19 @@
 	<l id="697">Contre vos jours sacrés conspireraient en vain.</l>
 	<l id="698" part="i">Je jure...</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="698" part="f">Je conçois quel est votre dessein,</l>
 	<l id="699">Je sais pour dérober ma tête à cet orage</l>
 	<l id="700">À combien de périls l’amitié vous engage,</l>
 	<l id="701">Je le juge aisément pour tous vos soins passés,</l>
 	<l id="702">Mais il n’est plus temps, Seigneur, c’en est assez.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="703">Ah ! Que me dites-vous ? Quelle funeste envie</l>
 	<l id="704">Vous fait abandonner le soin de votre envie ?</l>
 	<l id="705" part="i">Suivez-moi...</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="705" part="f">Modérez cette bouillante ardeur ;</l>
 	<l id="706">Et du moins un moment écoutez-moi, Seigneur :</l>
 	<l id="707">Ne vous opposez point au peuple qui m’opprime,</l>
@@ -1045,28 +1045,28 @@
 	<l id="719">Loin d’aller à genoux mendier des asiles,</l>
 	<l id="720">Je méprise mes jours, puisqu’ils sont inutiles.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="721" part="i">Ô ciel !</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="721" part="f">Je vois Clitus, et je n’ignore pas</l>
 	<l id="722">Quel funeste dessein conduit ici ses pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Phocion, Alcinous, Chrisis, Clitus, Dione, Gardes.</head>
-<sp who="CLITUS"><speaker>CLITUS</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Phocion, Alcinous, Chrisis, Clitus, Dione, Gardes.</cast>
+<sp who="CLITUS"><hstage><speaker>CLITUS</speaker></hstage>
 	<l id="723" part="i">Seigneur, je suis chargé d’un ordre...</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="723" part="f">Téméraire !</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="724">Arrêtez. Où vous porte une aveugle colère ?</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="725" part="i">Laissez-moi...</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="725" part="f">L’immoler ce serait me trahir !</l>
 	<l id="726">Aux décrets de l’État j’ai juré d’obéir ;</l>
 	<l id="727">Je me suis fait toujours de cette obéissance</l>
@@ -1082,10 +1082,10 @@
 	<l id="737">J’obéis sans murmure, et s’il faut me venger,</l>
 	<l id="738">Je ne vois que les dieux qui s’en doivent charger.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="739" part="i">Ah ciel !</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="739" part="f">Ne craignez-rien : Je vous suivrai sans peine,</l>
 	<l id="740">Clitus ; j’assouvirai la fureur inhumaine</l>
 	<l id="741">De ces peuples ingrats qui demandent ma mort,</l>
@@ -1107,26 +1107,26 @@
 	<l id="757" part="i">Adieu.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Chrisis, Alcinous, Dione.</head>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Chrisis, Alcinous, Dione.</cast>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="757" part="f">Quel cœur, grands dieux dans cette extrêmité</l>
 	<l id="758">Porta jamais si loin son intrépidité ?</l>
 	<l id="759">Je l’envie et le plains. Je le pleure et l’admire.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="760">Et moi, Seigneur, et moi je ne puis vous rien dire,</l>
 	<l id="761">Vous savez mes malheurs, vous les connaissez tous,</l>
 	<l id="762">Et je dois seulement embrasser vos genoux.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="763" part="i">Ah ! Madame.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="763" part="f">Seigneur, soulagez ma misère,</l>
 	<l id="764">Je meurs, j’ai tout perdu quand j’ai perdu mon père ;</l>
 	<l id="765">Rendez-le moi, vous seul pouvez nous secourir.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="766">Pour vous le rendre, hélas ! Ne faut-il que mourir ?</l>
 	<l id="767">J’y volerai, Madame, et vous serez servie.</l>
 	<l id="768">J’exige seulement pour le prix de ma vie,</l>
@@ -1135,13 +1135,13 @@
 	<l id="771">Et qu’au moins si je meurs où mon amour m’entraîne,</l>
 	<l id="772">Mourant je ne sois point l’objet de votre haine.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="773">Que me demandez-vous ? Allez, Seigneur, allez,</l>
 	<l id="774">Mes yeux par mes malheurs ne sont point aveuglés ;</l>
 	<l id="775">Il ne confondent point l’innocence et le crime,</l>
 	<l id="776">L’un a toute ma haine, et l’autre mon estime.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="777">Après un tel aveu trop content de mon sort,</l>
 	<l id="778">Je cours pour Phocion faire un dernier effort,</l>
 	<l id="779">Je vais trouver mon père, et pour toucher son âme,</l>
@@ -1160,16 +1160,16 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Agnonide, Clitus.</head>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Agnonide, Clitus.</cast>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="791">J’ai peine je l’avoue, à te croire sincère,</l>
 	<l id="792">Mes vœux sont traversés par un fils téméraire ?</l>
 </sp>
-<sp who="CLITUS"><speaker>CLITUS</speaker>
+<sp who="CLITUS"><hstage><speaker>CLITUS</speaker></hstage>
 	<l id="793">N’en doutez point, Seigneur, enflammé de courroux,</l>
 	<l id="794">Ce fils impétueux s’est armé contre nous.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="795">De cet emportement qui peut être la cause ?</l>
 	<l id="796">Quel est donc le dessein que l’ingrat se propose ?</l>
 	<l id="797">Mais pourquoi l’accuser, un penchant généreux</l>
@@ -1186,10 +1186,10 @@
 	<l id="808">Pour jouir avec moi d’un crime plus utile ;</l>
 	<l id="809">Quoiqu’il en soit enfin je réponds de mon fils.</l>
 </sp>
-<sp who="CLITUS"><speaker>CLITUS</speaker>
+<sp who="CLITUS"><hstage><speaker>CLITUS</speaker></hstage>
 	<l id="810">C’en est donc fait. Vos soins vont recevoir leur prix.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 <note type="C">Les vers suivant semblent être pour Agnonide alors qu’il sont attribués à Clitus.</note>
 	<l id="811">Je n’en saurais douter, mon triomphe s’avance,</l>
 	<l id="812">Le succès de mes vœux passe mon espérance :</l>
@@ -1201,7 +1201,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="AGNONIDE"><speaker>AGNONIDE, seul.</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker>, seul.</hstage>
 	<l id="818">Jusques à ce moment mes soins ont réussi :</l>
 	<l id="819">Fortune, à mes desseins, sois encore favorable,</l>
 	<l id="820">Ton retour ordinaire, et presque inévitable,</l>
@@ -1221,8 +1221,8 @@
 	<l id="834">Et je me livre à ceux qui vont me couronner.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Agnonide, Phocion, Clitus, Gardes.</head>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Agnonide, Phocion, Clitus, Gardes.</cast>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="835">Arbitres de mon sort, dieux que votre enfance</l>
 <note type="C">Nous transcrivons enfance pour fance.</note>
 	<l id="836">Avec facilité confond notre prudence !</l>
@@ -1231,14 +1231,14 @@
 	<l id="839">Traité honteusement par un peuple perfide,</l>
 	<l id="840">Et pour comble d’horreur jugé par Agnonide.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="841">Ce mépris offensant ces transports de courroux,</l>
 	<l id="842">Démentent le grand nom d’un homme tel que vous.</l>
 	<l id="843">Mais loin de prolonger un discours inutile,</l>
 	<l id="844">Songez que désormais vous n’avez plus d’asile :</l>
 	<l id="845">Que je viens en ces lieux maître de votre sort.</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="846">C’en est donc fait. Ce jour est celui de ma mort ;</l>
 	<l id="847">Car ne présume pas qu’une telle menace</l>
 	<l id="848">Que ta fureur me porte à te demander grâce,</l>
@@ -1261,7 +1261,7 @@
 	<l id="865">J’en rougis. Je suis prêt à me désavouer ;</l>
 	<l id="866">Prononce, j’aime mieux mourir que me louer.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="867">Et ne comptez-vous point parmi vos faits augustes</l>
 	<l id="868">Pour un traître ennemi vos faiblesse injustes ?</l>
 	<l id="869">Pouvez-vous excuser vos soins pour Nicanor ?</l>
@@ -1271,7 +1271,7 @@
 	<l id="873">Si malgré vos avis le peuple furieux</l>
 	<l id="874">Ne l’eut surpris, défait et chassé de ces lieux.</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="875">Il est vrai, prévenu de la plus forte estime,</l>
 	<l id="876">Je n’ai pu soupçonner Nicanor d’un tel crime ;</l>
 	<l id="877">Mais punit-on jamais avec sévérité</l>
@@ -1283,7 +1283,7 @@
 	<l id="883">Et j’aimais mieux tomber sous ses perfides armes,</l>
 	<l id="884">Que d’immoler sa vie à de vaines alarmes.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="885">On vous eut applaudi si son noir attentat</l>
 	<l id="886">N’eut menacé que vous et non pas tout l’État ;</l>
 	<l id="887">Mais puisque vos conseils et votre négligence</l>
@@ -1296,15 +1296,15 @@
 	<l id="894">Par le honteux supplice aux traîtres destinés,</l>
 	<l id="895" part="i">Allez attendre.</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="895" part="m">Ô ciel !</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="895" part="f">Mais la haine publique</l>
 	<l id="896">Refuse à votre cendre un tombeau dans l’Attique ;</l>
 	<l id="897">Cette terre ne peut le garder dans son sein.</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="898">Dieux avez-vous permis cet horrible dessein ?</l>
 	<l id="899">Que dira l’univers instruit de ma fortune ?</l>
 	<l id="900">Livré, quoiqu’innocent, à la haine commune :</l>
@@ -1317,7 +1317,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="AGNONIDE"><speaker>AGNONIDE, seul.</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker>, seul.</hstage>
 	<l id="907">Je ne le cèle point, quand ma haine l’accable,</l>
 	<l id="908">J’admire malgré moi ce cœur inébranlable,</l>
 	<l id="909">Qui toujours préparé contre les coups du sort,</l>
@@ -1328,30 +1328,30 @@
 	<l id="914">D’avoir pu me contraindre à l’aveu que je fais.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Agnonide, Alcinous.</head>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Agnonide, Alcinous.</cast>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="915">Ah, Seigneur ! Qu’a-t-on fait, qu’ose-t-on entreprendre ?</l>
 	<l id="916">Phocion dans ses fers, quel sort doit-il attendre ?</l>
 	<l id="917">Quoi Cassander en vain a respecté ses jours,</l>
 	<l id="918">Puisqu’un peuple barbare en veut trancher le cours !</l>
 	<l id="919">Et vous-même, Seigneur, précipitez sa chute.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="920">J’accable un malheureux que le ciel persécute.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="921">Ah loin de l’accabler protégez sa vertu.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="922">Aveugle Alcinous que me demandes-tu ?</l>
 	<l id="923">Apprends que c’est moi seul qui l’entraîne au supplice,</l>
 	<l id="924">Que je joins contre lui l’audace et l’artifice ;</l>
 	<l id="925">Mais que c’est pour toi seul fils ingrat qu’il périt.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="926">Pour moi, grands dieux ! Quel trouble agite mon esprit.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="927">Oui, pour toi, fils ingrat, je le répète encore,</l>
 	<l id="928">Tu ne peux ignorer que ton père t’adore ;</l>
 	<l id="929">Ce tyrannique amour étouffant mon devoir,</l>
@@ -1361,7 +1361,7 @@
 	<l id="933">Tu recueilleras seul tout le fruit de sa mort ;</l>
 	<l id="934">Malheureux, est-ce toi qui dois plaindre son sort.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="935">Quoi, vous avez conduit cette injuste entreprise,</l>
 	<l id="936">Chaque mot, chaque instant ajoute à ma surprise,</l>
 	<l id="937">Hélas ! Que n’avez-vous, grands dieux, dans mon berceau</l>
@@ -1369,10 +1369,10 @@
 	<l id="939">Quand vous avez prévu qu’une plus longue vie</l>
 	<l id="940">D’un semblable attentat devait être suivie.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="941">Ciel ! De quels sentiments ton cœur est prévenu.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="942">Je le vois bien, ce cœur ne vous est pas connu.</l>
 	<l id="943">Hélas ! Y pensez-vous ? Quel funeste héritage</l>
 	<l id="944">Prétendez-vous, Seigneur, me laisser en partage ?</l>
@@ -1391,10 +1391,10 @@
 	<l id="957">Jaloux de ce héros que l’on veut immoler,</l>
 	<l id="958">Pour mourir comme lui je voudrais l’égaler.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="959" part="i">Quel discours !</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="959" part="f">Dans un fils peut-être il vous offense,</l>
 	<l id="960">Mais c’est le fruit des soins donnés à mon enfance,</l>
 	<l id="961">J’ose vous rappeler ce respect pour les lois,</l>
@@ -1405,7 +1405,7 @@
 	<l id="966">Accordez à mes vœux les jours de Phocion.</l>
 	<l id="967" part="i">Permettez...</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="967" part="f">Laissez-moi poursuivre mon ouvrage,</l>
 	<l id="968">Vainement voudrais-tu me presser davantage ;</l>
 	<l id="969">Tu n’auras point de part à ces coups inhumains</l>
@@ -1413,7 +1413,7 @@
 	<l id="971">Du trône à mes périls je vais t’ouvrir la route,</l>
 	<l id="972">Suis-la sans t’informer des crimes qu’il me coûte.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="973">Seigneur abandonnez cet horrible dessein</l>
 	<l id="974">Où vous m’allez plonger un poignard dans le sein !</l>
 	<l id="975">Si votre cœur pour moi devenu moins sévère,</l>
@@ -1422,27 +1422,27 @@
 	<l id="978">Et concevez par là Seigneur à quels regrets</l>
 	<l id="979" part="i">L’amour de Phocion...</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="979" part="f">Que pourras-tu m’apprendre,</l>
 	<l id="980" part="i">Quel aveu, quels secrets...</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="980" part="f">Que je vais vous surprendre ;</l>
 	<l id="981">Je n’ose qu’en tremblant lever les yeux sur vous,</l>
 	<l id="982">Vous m’allez accabler de tout votre courroux ;</l>
 	<l id="983">Mais dussai-je à jamais mériter votre haine...</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="984">Parle, c’est trop tenir mon esprit à la gêne.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="985">Vous voyez à vos pieds dans ce malheureux fils,</l>
 	<l id="986">Un amant enchanté des beautés de Chrisis.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="987" part="i">Ô ciel !</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="987" part="f">Je ne veux point, Seigneur, pour ma défense,</l>
 	<l id="988">Des astres sur les cœurs rappeler la puissance ;</l>
 	<l id="989">D’un ascendant secret l’effort impérieux,</l>
@@ -1476,14 +1476,14 @@
 	<l id="1017">Ce n’est point à régner que je mets mon bonheur,</l>
 	<l id="1018">Chrisis et ma vertu suffisent à mon cœur.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="1019" part="i">Levez-vous.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="1019" part="f">Se peut-il, Seigneur, que ma prière</l>
 	<l id="1020">Ait enfin obtenu la grâce de son père ?</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="1021">Que j’expire plutôt. Tes soins et ton amour,</l>
 	<l id="1022">M’animent encore plus à lui ravir le jour ;</l>
 	<l id="1023">Sa mort me va venger de ta perfide flamme,</l>
@@ -1491,13 +1491,13 @@
 	<l id="1025">Cesse donc de tenter des efforts superflus.</l>
 	<l id="1026" part="i">Va.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="1026" part="m">Mon père...</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="1026" part="f">Obéis, je ne t’écoute plus.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="1027">Et moi j’oserai tout puisqu’on me désespère,</l>
 	<l id="1028">Mais non, je garde encore du respect pour mon père ;</l>
 	<l id="1029">Il cesse de m’aimer, et je vois que son cœur</l>
@@ -1507,7 +1507,7 @@
 	<l id="1033">Dans mon sang innocent vous me verrez livrer</l>
 	<l id="1034">La honte que je souffre à ne la point sauver.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="1035">Meurs. Tes jours ne sont plus précieux à ton père,</l>
 	<l id="1036">Mais tu caches en vain ta fureur téméraire,</l>
 	<l id="1037">Au travers du respect que tu veux affecter,</l>
@@ -1518,8 +1518,8 @@
 	<l id="1042">Dans cet appartement ne l’abandonnez pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Alcinous, Licas, Gardes.</head>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Alcinous, Licas, Gardes.</cast>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="1043">Ciel que vois-je ? Ah ! Rends-moi la liberté ravie,</l>
 	<l id="1044">Père injuste et cruel, on m’arrache la vie.</l>
 <note type="C">On peut lire : « ou m’arraches la vie ».</note>
@@ -1530,21 +1530,21 @@
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="ALCINOUS"><speaker>ALCINOUS, seul.</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker>, seul.</hstage>
 	<l id="1047">Arcas ne revient point. Ciel ! Quelle impatience ?</l>
 	<l id="1048">De mes maux chaque instant aigrit la violence.</l>
 	<l id="1049" part="i">Il vient.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Arcas, Alcinous.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Arcas, Alcinous.</cast>
 	<note type="C">Dans la liste des personnages Agnonide apparait  au lieu d’Alcinous.</note>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="1049" part="f">Licas tient-il tout ce qu’il a promis ?</l>
 	<l id="1050">A-t-il à me servir proposé mes amis ?</l>
 	<l id="1051">Pour sauver Phocion, sont-ils prêts à me suivre ?</l>
 	<l id="1052">Dans le trouble où je suis je ne saurais plus vivre.</l>
 </sp>
-<sp who="ARCAS"><speaker>ARCAS</speaker>
+<sp who="ARCAS"><hstage><speaker>ARCAS</speaker></hstage>
 	<l id="1053">Oui, Seigneur, ils sont prêts à seconder vos vœux,</l>
 	<l id="1054">Ils brûlent comme vous d’un courroux généreux.</l>
 	<l id="1055">Licas a tout conduit, sa prudence et son zèle.</l>
@@ -1554,7 +1554,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="ALCINOUS"><speaker>ALCINOUS, seul.</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker>, seul.</hstage>
 	<l id="1059">Hélas ! Quelle infortune à la mienne est égale ?</l>
 	<l id="1060">Ordre injuste et cruel ! Contrainte trop fatale !</l>
 	<l id="1061">Déplorable Chrisis, peut-être en ces moments</l>
@@ -1571,50 +1571,50 @@
 	<l id="1072">D’un amant immolé pour la gloire et pour elle.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Alcinous, Arcas.</head>
-<sp who="ARCAS"><speaker>ARCAS</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Alcinous, Arcas.</cast>
+<sp who="ARCAS"><hstage><speaker>ARCAS</speaker></hstage>
 	<l id="1073">Venez, Seigneur, venez, voici l’heureux moment,</l>
 	<l id="1074">Où vous pourrez sortir de cet appartement,</l>
 	<l id="1075">Ne perdons point de temps, le poison se prépare.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="1076">Mourons, ou prévenons cet attentat barbare.</l>
 </sp>
-<sp who="ARCAS"><speaker>ARCAS</speaker>
+<sp who="ARCAS"><hstage><speaker>ARCAS</speaker></hstage>
 	<l id="1077">Fuyez, Seigneur, fuyez, votre père paraît.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Agnonide, Clitus, Arcas.</head>
-<sp who="AGNONIDE"><speaker>AGNONIDE à Arcas.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Agnonide, Clitus, Arcas.</cast>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker> à Arcas.</hstage>
 	<l id="1078" part="i">Faites venir mon fils.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Agnonide, Clitus.</head>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Agnonide, Clitus.</cast>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="1078" part="f">Clitus c’en est donc fait.</l>
 </sp>
-<sp who="CLITUS"><speaker>CLITUS</speaker>
+<sp who="CLITUS"><hstage><speaker>CLITUS</speaker></hstage>
 	<l id="1079">Oui, Seigneur, Phocion sans changer de visage</l>
 	<l id="1080">Vient de prendre à mes yeux le funeste breuvage ;</l>
 	<l id="1081">Mais avant que l’effet de ce mortel poison</l>
 	<l id="1082">Ait glacé ses esprits et troublé sa raison,</l>
 	<l id="1083" part="i">Il demande à vous voir.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="1083" part="f">Eh ! Qu’a-t-il à me dire ?</l>
 </sp>
-<sp who="CLITUS"><speaker>CLITUS</speaker>
+<sp who="CLITUS"><hstage><speaker>CLITUS</speaker></hstage>
 	<l id="1084">Je l’ignore, lui seul pourra vous en instruire :</l>
 	<l id="1085">Puis-je voir a-t-il dit, Agnonide un moment,</l>
 	<l id="1086">Qu’il n’appréhende rien de mon ressentiment.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="1087">Qu’il vienne, accordons-lui cette dernière grâce.</l>
 	<l id="1088" part="i">Je l’attendrai.</l>
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII.</head>
-<sp who="AGNONIDE"><speaker>AGNONIDE, seul.</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker>, seul.</hstage>
 	<l id="1088" part="f">L’effet répond à mon audace !</l>
 	<l id="1089">Achevons, assurons le sceptre dans mes mains,</l>
 	<l id="1090">Fermons, fermons mon cœur à des scrupules vains,</l>
@@ -1643,14 +1643,14 @@
 	<l id="1113">Mais Clitus revient seul, que dois-je soupçonner ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Agnonide, Clitus.</head>
-<sp who="CLITUS"><speaker>CLITUS</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Agnonide, Clitus.</cast>
+<sp who="CLITUS"><hstage><speaker>CLITUS</speaker></hstage>
 	<l id="1114">Seigneur, qu’en ce moment je vais vous étonner.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="1115" part="i">Comment ?</l>
 </sp>
-<sp who="CLITUS"><speaker>CLITUS</speaker>
+<sp who="CLITUS"><hstage><speaker>CLITUS</speaker></hstage>
 	<l id="1115" part="f">D’Alcinous je vous apprends la fuite,</l>
 	<l id="1116">Tous les gardes gagnés marchent sous sa conduite :</l>
 	<l id="1117">Le perfide Licas cédant à la pitié,</l>
@@ -1664,7 +1664,7 @@
 	<l id="1125">Et jurait à l’envi de courir à la mort,</l>
 	<l id="1126">Ou de changer bientôt son déplorable sort.</l>
 </sp>
-<sp who="AGNONIDE"><speaker>AGNONIDE</speaker>
+<sp who="AGNONIDE"><hstage><speaker>AGNONIDE</speaker></hstage>
 	<l id="1127">Dieux qu’est-ce que j’entends ! Quel étrange nouvelle.</l>
 	<l id="1128">Ô téméraire fils ! Ô Licas infidèle !</l>
 	<l id="1129">Mais je vais te punir. Cher Clitus, suis mes pas,</l>
@@ -1673,8 +1673,8 @@
 	<l id="1132">Des mutins, de Licas, et de mon fils lui-même.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Phocion, Cléon.</head>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>Phocion, Cléon.</cast>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="1133">Agnonide me fuit, et n’ose m’accorder,</l>
 	<l id="1134">Le dernier entretien que j’ai fait demander ;</l>
 	<l id="1135">Que le sort d’un tyran, justes dieux ! est à plaindre</l>
@@ -1682,7 +1682,7 @@
 	<l id="1137">Que le poison est lent, qui doit finir mon sort,</l>
 	<l id="1138">Dieu ! Que n’avancez-vous le moment de ma mort.</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker></hstage>
 	<l id="1139">Eh ! Que puis-je vous dire ?</l>
 <note type="C">Il manque un demi vers.</note>
 	<l id="1140">Mes yeux versent des pleurs, Seigneur, mon cœur soupire,</l>
@@ -1690,7 +1690,7 @@
 	<l id="1142">Ah ! Seigneur, quel discours attendez-vous de moi ?</l>
 	<l id="1143" part="i">Hélas !</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="1143" part="f">Ma destinée est celle de Socrate,</l>
 	<l id="1144">Immolé comme lui par ma patrie ingrate.</l>
 	<l id="1145">Que dis-je ? C’est le sort des généraux fameux</l>
@@ -1698,31 +1698,31 @@
 	<l id="1147" part="i">Mais dieux je vois ma fille.</l>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Phocion, Chrisis, Cléon, Dione.</head>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><cast>Phocion, Chrisis, Cléon, Dione.</cast>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="1147" part="f">Ah que votre présence</l>
 	<l id="1148">De mes vives douleurs suspend la violence ;</l>
 	<l id="1149">À l’aspect de mes pleurs les plus cruels soldats</l>
 	<l id="1150">N’ont osé m’outrager ni retenir mes pas.</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="1151" part="i">Ô ciel !</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="1151" part="f">Votre énnemi n’ose achever son crime,</l>
 	<l id="1152">Il n’ose encore porter la main sur sa victime :</l>
 	<l id="1153">Vous ne répondez point, et je vois dans vos yeux.</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="1154">Préparez-vous ma fille à nos derniers adieux.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="1155">Je vous perds donc, Seigneur. Au désespoir livrée,</l>
 	<l id="1156">D’avec vous pour jamais je serai séparée ;</l>
 	<l id="1157">Non, de mes jours mes mains éteindrons le flambeau,</l>
 	<l id="1158">Et Chrisis vous suivra jusques dans le tombeau.</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="1159">Gardez-vous d’accomplir ce dessein téméraire,</l>
 	<l id="1160">Songez qu’après ma mort vous m’êtes nécessaire ;</l>
 	<l id="1161">L’implacable fureur de nos cruels tyrans,</l>
@@ -1738,11 +1738,11 @@
 	<l id="1171">Vous pressant d’achever mes tristes funérailles,</l>
 	<l id="1172">À ma cendre proscrite ouvrira les entrailles.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="1173">Quoi vous me destinez à ce funeste emploi,</l>
 	<l id="1174" part="i">Hélas !</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="1174" part="f">Je vous prescris encore une autre loi :</l>
 	<l id="1175">N’entreprenez jamais de me venger d’Athènes,</l>
 	<l id="1176">Que mon tombeau finisse, et renferme vos haines ;</l>
@@ -1761,7 +1761,7 @@
 	<l id="1189">Et voulant en mourant vous choisir un époux,</l>
 	<l id="1190">Je ne trouve que lui qui soit digne de vous.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="1191">Lui Seigneur ? Ah plutôt que la foudre m’accable ;</l>
 	<l id="1192">Je ne vous cèle point qu’il me parut aimable,</l>
 	<l id="1193">Qu’avec plaisir tantôt mon cœur eut obéi,</l>
@@ -1773,8 +1773,8 @@
 	<l id="1199">Il perd toute sa gloire, et monte sa faiblesse.</l>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE DERNIÈRE. Phocion, Chrisis, Alcinous, Dione, Cléon, Licas.</head> 
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<div2 type="scene" n="11"><head>SCÈNE DERNIÈRE.</head><cast>Phocion, Chrisis, Alcinous, Dione, Cléon, Licas.</cast> 
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="1200">Aux dépens de ses jours il vous tient sa promesse,</l>
 	<l id="1201">Cet amant malheureux accusé sans raison.</l>
 	<l id="1202">Venez, Seigneur, sortez d’une indigne prison,</l>
@@ -1782,15 +1782,15 @@
 	<l id="1204">Mais dieux ! Je vois la mort peinte sur son visage,</l>
 	<l id="1205" part="i">Ne serait-il plus temps, Madame ?</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="1205" part="f">Non, Seigneur.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="1206">Ah ! C’en est trop. Ce coup accable enfin mon cœur :</l>
 	<l id="1207">En vain par tout mon sang je vous ouvre un asile,</l>
 	<l id="1208">Je meurs et mon trépas vous devient inutile.</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="1209">Hélas ! Que votre sort est terrible pour moi :</l>
 	<l id="1210">Qu’avez-vous entrepris ? Pourquoi Seigneur, Pourquoi</l>
 	<l id="1211">Immoler votre vie au salut de la mienne ?</l>
@@ -1798,13 +1798,13 @@
 	<l id="1213">Vous seul pouviez encore résister à leurs coups,</l>
 	<l id="1214">Mais la foi, la vertu, tout expire avec vous.</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="1215">Destin cruel, prends-moi pour dernière victime ;</l>
 	<l id="1216">Un père que j’adore, un amant que j’estime...</l>
 	<l id="1217">Dieux ! Qui voyez mon cœur dans cet ordre affreux,</l>
 	<l id="1218">Vous savez qui de nous est le plus malheureux.</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="1219">C’en est fait, tout mon sang se glace dans mes veines,</l>
 	<l id="1220">Grande divinité protectrice d’Athènes,</l>
 	<l id="1221">Minerve, daigne encore soutenir sa grandeur,</l>
@@ -1812,7 +1812,7 @@
 	<l id="1223">Sois témoin que malgré sa poursuite cruelle,</l>
 	<l id="1224">Le dernier de mes vœux t’est adressé pour elle.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="1225">Digne effort d’un héros qu’Athènes a proscrit,</l>
 	<l id="1226">Un soin bien différent occupe mon esprit ;</l>
 	<l id="1227">Ô toi qui fus toujours l’arbitre de ma vie.</l>
@@ -1820,13 +1820,13 @@
 	<l id="1229">Amour, offre à l’objet pour qui je vais mourir,</l>
 	<l id="1230">Ma dernière pensée et mon dernier soupir.</l>
 </sp>
-<sp who="PHOCION"><speaker>PHOCION</speaker>
+<sp who="PHOCION"><hstage><speaker>PHOCION</speaker></hstage>
 	<l id="1231" part="i">Adieu ma fille.</l>
 </sp>
-<sp who="ALCINOUS"><speaker>ALCINOUS</speaker>
+<sp who="ALCINOUS"><hstage><speaker>ALCINOUS</speaker></hstage>
 	<l id="1231" part="m">Hélas !</l>
 </sp>
-<sp who="CHRISIS"><speaker>CHRISIS</speaker>
+<sp who="CHRISIS"><hstage><speaker>CHRISIS</speaker></hstage>
 	<l id="1231" part="f">Ô fortune contraire.</l>
 	<l id="1232">J’ose après de tels coups défier ta colère.</l>
 </sp>

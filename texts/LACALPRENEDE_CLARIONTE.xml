@@ -63,7 +63,7 @@
 <body>
 <div1 type="acte" n="1"><head>ACTE I.</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="1">Le Cerf trouve en ce fort son asile assuré :</l>
 	<l id="2">Mais en le poursuivant, je me suis égaré.</l>
 	<l id="3">Je tiens de plus en plus des routes inconnues</l>
@@ -143,8 +143,8 @@
 	<l id="76">Je pourrai remarquer toutes ses actions.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Rosimène, Fidamant.</head>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE, seule.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Rosimène, Fidamant.</cast>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>, seule.</hstage>
 	<l id="77">Ne me reproche point chère âme de mon âme,</l>
 	<l id="78">Qu’un déluge de pleurs a démenti ma flamme,</l>
 	<l id="79">Et qu’un cœur tout de feu ne t’offre que de l’eau ;</l>
@@ -202,19 +202,19 @@
 	<l id="131">Soulageant mon esprit qui se sent convaincu</l>
 	<l id="132">Du crime seulement de t’avoir survécu.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="133">Certes étant témoin d’un sort si déplorable,</l>
 	<l id="134">Et n’étant point touché d’un regret véritable</l>
 	<l id="135">Je serais moins sensible et plus dur qu’un rocher :</l>
 	<l id="136">Mais sortons le devoir m’ordonne d’approcher.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="137">Ô Ciel ! Dans les malheurs où vous m’avez réduite,</l>
 	<l id="138">M’ôtez-vous le seul bien qui restait à ma fuite,</l>
 	<l id="139">Où sera mon salut, si parmi des tombeaux,</l>
 	<l id="140">Vous m’affligez encor par des objets nouveaux.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="141">Que rien ne vous oblige à craindre ma venue,</l>
 	<l id="142">Ne me dérobez point une si chère vue,</l>
 	<l id="143">Et vous reconnaîtrez si ce bien m’est permis</l>
@@ -224,7 +224,7 @@
 	<l id="147">Avec tous les regrets qui peuvent affliger,</l>
 	<l id="148">Et qui ne s’offre à vous que pour vous soulager.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="149">Pardonnez au malheur qui fait que je m’absente,</l>
 	<l id="150">Ce n’est pas votre abord qui donne l’épouvante,</l>
 	<l id="151">Certes il m’apparaît trop civil et trop doux</l>
@@ -234,7 +234,7 @@
 	<l id="155">Et pour vous délivrer d’un abord dangereux,</l>
 	<l id="156">Qui par contagion vous rendrait malheureux.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="157">Plût aux Dieux qu’à ce prix vous fussiez soulagée,</l>
 	<l id="158">Et que votre douleur sur moi seul déchargée,</l>
 	<l id="159">Se peut diminuer par la part que j’y prends :</l>
@@ -246,7 +246,7 @@
 	<l id="165">Et que pour vous tirer d’une telle disgrâce</l>
 	<l id="166">Il n’est rien que je n’ose et rien que je ne fasse.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="167">Justes Cieux se peut-il qu’en ces barbares lieux</l>
 	<l id="168">Où l’on fait les forfaits à l’exemple des Dieux</l>
 	<l id="169">Qu’en cette Île, l’horreur de toutes les Provinces,</l>
@@ -260,7 +260,7 @@
 	<l id="177">Où vous démentiriez votre terre natale</l>
 	<l id="178">Si vous n’en reteniez une âme plus brutale.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="179">Ma naissance n’a rien qui la puisse excuser,</l>
 	<l id="180">Et rien ne vous oblige à vous désabuser</l>
 	<l id="181">N’en ayant eu de moi qu’une si faible preuve,</l>
@@ -279,7 +279,7 @@
 	<l id="194">Pour apprendre de vous votre triste fortune,</l>
 	<l id="195">L’intérêt que je prends excuse mon désir.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="196">C’est rafraîchir mes maux d’un nouveau déplaisir.</l>
 	<l id="197">Hélas quelques efforts que ma constance essaye</l>
 	<l id="198">Ces renouvellements feront aigrir ma plaie :</l>
@@ -294,7 +294,7 @@
 	<l id="207">Que vous me laisserez dans cette liberté,</l>
 	<l id="208">Et n’entreprendrez rien contre ma volonté.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="209">Par le Ciel, dont je tiens la qualité de Prince,</l>
 	<l id="210">Par les Dieux révérés dedans cette Province,</l>
 	<l id="211">Et par ce grand flambeau, je jure devant vous</l>
@@ -304,7 +304,7 @@
 	<l id="215">Et que jamais mortel n’apprendra par ma voix</l>
 	<l id="216">Un secret que j’oublie en sortant de ce bois.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="217">Quoi que votre serment envers moi vous engage</l>
 	<l id="218">Votre condition m’assure davantage,</l>
 	<l id="219">La parole d’un Prince est un si fort lien</l>
@@ -367,11 +367,11 @@
 	<l id="275">Clarionte voulut que ce fût dans sa Cour,</l>
 	<l id="276">Et différa son bien jusques à son retour.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="277">Ces maximes d’État sont peu considérables</l>
 	<l id="278">Et celles de l’amour leur étaient préférables.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="279">Mon père me mettant en de si chères mains :</l>
 	<l id="280">Expose mon salut sur les flots inhumains</l>
 	<l id="281">Avec un florissant et superbe équipage</l>
@@ -434,11 +434,11 @@
 	<l id="335">Et fait un tel effort que dans leur pâle teint</l>
 	<l id="336">On connaît le trépas sur leur visage peint.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="337">Le Ciel n’exempta point d’un naufrage funeste</l>
 	<l id="338" part="i">Le pauvre Clarionte.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="338" part="f">Écoutez ce qui reste</l>
 	<l id="339">Le Soleil disparaît, et le jour qui s’enfuit</l>
 	<l id="340">Fait place avec regret aux ombres de la nuit</l>
@@ -508,11 +508,11 @@
 	<l id="403">Le firent trébucher à leurs pieds abattu,</l>
 	<l id="404">Et le nombre à la fin surmonte la vertu.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="405">Horreur de mon pays, où ma naissance infâme :</l>
 	<l id="406">Mais je vous interromps, il mourut donc Madame.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="407">Ainsi que le succès nous l’a bien témoigné,</l>
 	<l id="408">Je crois qu’en ce combat ils l’avaient épargné,</l>
 	<l id="409">On l’enlève à mes yeux couvert de mille chaînes,</l>
@@ -588,7 +588,7 @@
 	<l id="479">Voilà dans peu de mots le sujet de mes pleurs.</l>
 	<l id="480">Maintenant par mes maux jugez de mes douleurs.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="481">Comme j’en puis juger par ce récit funeste,</l>
 	<l id="482">Votre ressentiment est assez manifeste,</l>
 	<l id="483">On ne peut s’affliger avec plus de raison,</l>
@@ -624,7 +624,7 @@
 	<l id="513">Vous y seriez reçue avec une puissance</l>
 	<l id="514">Digne de vos vertus et de votre naissance.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="515">Quoique je semble ingrate à ces bons mouvements</l>
 	<l id="516">Souvenez-vous Seigneur de ces premiers serments,</l>
 	<l id="517">Auxquels votre parole est si fort engagée,</l>
@@ -641,7 +641,7 @@
 	<l id="528">Pardonnez à mon deuil mon incivilité,</l>
 	<l id="529" part="i">Souffrez que je vous quitte.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="529" part="f">Adieu belle Princesse ?</l>
 	<l id="530">Ah que ce prompt départ me comble de tristesse !</l>
 	<l id="531">Que je plains son absence, et que cette beauté</l>
@@ -654,8 +654,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II.</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Clarionte, Mélie.</head>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Clarionte, Mélie.</cast>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="537">Que j’attire des Dieux la colère équitable,</l>
 	<l id="538">Et que leur main punisse une tête coupable,</l>
 	<l id="539">Si je saurais répondre à votre passion</l>
@@ -670,7 +670,7 @@
 	<l id="548">Et qu’à tant de bienfaits je suis méconnaissant :</l>
 	<l id="549" part="i">Mais (Madame) excusez.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="549" part="f">Que faut-il que j’excuse,</l>
 	<l id="550">Ou que dois-je espérer d’un ingrat qui m’abuse,</l>
 	<l id="551">Dois-je attendre de vous quelque nouveau serment,</l>
@@ -704,7 +704,7 @@
 	<l id="579">Mais je blâme ce cœur qui depuis si longtemps</l>
 	<l id="580">Méprise tant de flamme et des vœux si constants.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="581">Je le blâme avec vous, et confesse moi-même</l>
 	<l id="582">Que son ingratitude envers vous est extrême,</l>
 	<l id="583">Il est lâche, et cruel, il est méconnaissant,</l>
@@ -727,12 +727,12 @@
 	<l id="600">Que je mourrais plutôt que d’en avoir douté,</l>
 	<l id="601">Ne condamnez donc plus l’amour que je lui porte.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="602">Mais enfin vous aimez une personne morte,</l>
 	<l id="603">Et vous nous opposez des devoirs superflus,</l>
 	<l id="604">Et de vaines raisons, puisqu’elle ne vit plus.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="605">Je l’ignore (Madame) et ma perte funeste</l>
 	<l id="606">N’étouffe pas encor quelque espoir qui me reste.</l>
 	<l id="607">Le jour que mon malheur me mena dans ces lieux,</l>
@@ -777,7 +777,7 @@
 	<l id="646">Et descendre aux enfers comblé de cette gloire,</l>
 	<l id="647">Ôtez-moi ces faveurs à la fin de mes jours.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="648">Plût aux Dieux que ma vie en prolongeât le cours,</l>
 	<l id="649">Et que vous pussiez voir dans ce cœur plein de flamme</l>
 	<l id="650">Que je leur rends le corps vous ayant donné l’âme.</l>
@@ -795,7 +795,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="662">De grâce consentez qu’elle me soit ravie,</l>
 	<l id="663">Et ne retardez point le service des Dieux ;</l>
 	<l id="664">Mais un si prompt départ la dérobe à mes yeux ;</l>
@@ -809,12 +809,12 @@
 	<l id="672">Ces résolutions seraient de peu de fruit.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Fidamant, Clarionte.</head>
-<sp who="FIDAMANT"><speaker>FIDAMANT, caché.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Fidamant, Clarionte.</cast>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>, caché.</hstage>
 	<l id="673">Je puis par son discours m’éclaircir de ce doute</l>
 	<l id="674">Et puisqu’il se croit seul, il faut que je l’écoute.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="675">Oui Maîtres de mon sort vous l’avez résolu :</l>
 	<l id="676">Mais puisqu’il faut céder au pouvoir absolu,</l>
 	<l id="677">Et que ce faible corps sera votre victime,</l>
@@ -837,10 +837,10 @@
 	<l id="694">Autant que pour Daphné moins aimable, et moins belle</l>
 	<l id="695">Je t’en supplie aussi pour la dernière fois.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="696">Ha ! Je n’en sais que trop, écoutons toutefois.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="697">Mais Dieux que ma douleur m’aveugle et me transporte,</l>
 	<l id="698">Pourquoi vous invoquer si Rosimène est morte ;</l>
 	<l id="699">Non, elle ne vit plus, je n’en dois plus douter,</l>
@@ -858,33 +858,33 @@
 	<l id="711">Toutefois pour la voir le chemin t’est ouvert</l>
 	<l id="712" part="i">Dieux !</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="712" part="f">Ne vous cachez plus vous êtres découvert.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="713">Pardonnez au regret dont mon âme est atteinte.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="714">Je lui dois pardonner plutôt qu’à votre feinte,</l>
 	<l id="715">Et je ne saurais croire après ce que je vois</l>
 	<l id="716">Que mon cher Doriman se soit caché de moi,</l>
 	<l id="717">Et qu’un feint Doriman soit un vrai Clarionte.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="718" part="i">Ô Dieux !</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="718" part="f">Vous rougissez, oui rougissez de honte</l>
 	<l id="719">De m’avoir déguisé votre condition.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="720">Ah ! Ne soupçonnez rien de mon affection</l>
 	<l id="721">Ainsi que mon respect elle fut toujours forte.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="722">Pourquoi si vous m’aimiez feignez-vous de la sorte.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="723">Outre que mon malheur vous pouvait affliger</l>
 	<l id="724">Assez d’autres raisons m’y devaient obliger :</l>
 	<l id="725">Mais puisque mes propos vous ont fait reconnaître</l>
@@ -898,13 +898,13 @@
 	<l id="733">Oui contre mon dessein votre amitié me force</l>
 	<l id="734">De m’avouer ici le fils du Roi de Corse !</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="735" part="i">Le fils du Roi de Corse.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="735" part="f">Oui brave Fidamant.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="736">Grand Prince pardonnez à mon aveuglement,</l>
 	<l id="737">Si vos rares vertus, et votre bonne mine</l>
 	<l id="738">Ne m’ont pas découvert cette illustre origine,</l>
@@ -913,18 +913,18 @@
 	<l id="741">Mais pardonnerez-vous à ma méconnaissance,</l>
 	<l id="742">Qui m’a fait tant faillir contre votre naissance.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="743">Si je puis mériter quelque chose de vous</l>
 	<l id="744">Prince que ce secret se perde parmi nous</l>
 	<l id="745">Pour ne me point trahir il vous le faudra taire.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="746">Mais quelle est la raison qui m’oblige à le faire,</l>
 	<l id="747">Et que ne souffrez-vous que faisant mon devoir</l>
 	<l id="748">Je dispose mon père à vous mieux recevoir.</l>
 	<l id="749">Ah ! Ne m’imposez point une loi si cruelle.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="750">Si vous persévérez vous êtes infidèle.</l>
 	<l id="751">Suffit que je le veux avec trop de raison,</l>
 	<l id="752">Et que vous l’apprendrez en une autre saison</l>
@@ -933,12 +933,12 @@
 	<l id="755">Et si vous désirez que mon trépas soit doux</l>
 	<l id="756">Faites que seulement je sois connu de vous.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="757">Mais pour retirer d’une mort si prochaine,</l>
 	<l id="758">Dois-je considérer une défense vaine,</l>
 	<l id="759">Et si vous découvrant je vous pouvais sauver.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="760">Si par ce seul moyen on me peur conserver,</l>
 	<l id="761">Croyez que je l’abhorre, et déteste une vie</l>
 	<l id="762">Que de peine, et d’horreur sera toujours suivie,</l>
@@ -950,7 +950,7 @@
 <note>Se travailler : Faire des efforts, se tourmenter. [F]</note>
 	<l id="768">Qu’on se travaille en vain pour un désespéré.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="769">C’est me solliciter d’une injuste prière,</l>
 	<l id="770">De vos deux volontés je suivrai la première.</l>
 	<l id="771">Je vous obéirai c’est un point résolu,</l>
@@ -966,7 +966,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="CLARIONTE"><speaker>CLARIONTE seul.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker> seul.</hstage>
 	<l id="781">Homicides devoirs, charité criminelle,</l>
 	<l id="782">Qui pour entretenir une peine éternelle,</l>
 	<l id="783">Employez tous les jours des efforts superflus,</l>
@@ -980,20 +980,20 @@
 	<l id="791">Ne craignons point de faire une incivilité.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Calliante, Clarionte.</head>
-<sp who="CALLIANTE"><speaker>CALLIANTE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Calliante, Clarionte.</cast>
+<sp who="CALLIANTE"><hstage><speaker>CALLIANTE</speaker>.</hstage>
 	<l id="792">Où courez-vous ainsi d’un pas précipité,</l>
 	<l id="793">Toujours à mon abord quelque affaire vous presse,</l>
 	<l id="794">Quoi vous fuyez ingrat les yeux d’une Princesse</l>
 	<l id="795">Et quoiqu’elle ait pour vous de si vives ardeurs,</l>
 	<l id="796">Vous conservez toujours vos premières froideurs.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="797">En vous reconnaissant je me connais moi-même,</l>
 	<l id="798">Et je vibrai toujours dans un respect extrême,</l>
 	<l id="799">Je n’oublierai jamais l’honneur que je vous dois.</l>
 </sp>
-<sp who="CALLIANTE"><speaker>CALLIANTE.</speaker>
+<sp who="CALLIANTE"><hstage><speaker>CALLIANTE</speaker>.</hstage>
 	<l id="800">Ce discours était bon pour la première fois,</l>
 	<l id="801">Et j’ai cru d’autrefois ces termes pardonnables,</l>
 	<l id="802">Lorsque je les prenais pour respects véritables :</l>
@@ -1008,7 +1008,7 @@
 	<l id="811">Ces termes durent trop s’ils durent plus d’un jour,</l>
 	<l id="812">Et mon amour ne peut se payer que d’amour.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="813">Ah (Madame) étouffez cette flamme importune</l>
 	<l id="814">Je n’ai pas mérité cette bonne fortune,</l>
 	<l id="815">Et quand j’aurais un cœur libre de passion</l>
@@ -1018,7 +1018,7 @@
 	<l id="819">Je serais vôtre un jour et le sanglant trépas</l>
 	<l id="820">Viendrait le lendemain m’arracher de vos bras.</l>
 </sp>
-<sp who="CALLIANTE"><speaker>CALLIANTE.</speaker>
+<sp who="CALLIANTE"><hstage><speaker>CALLIANTE</speaker>.</hstage>
 	<l id="821">Si vous vouliez porter votre esprit à me plaire</l>
 	<l id="822">Je gagnerais beaucoup sur celui de mon frère,</l>
 	<l id="823">Ce bon Roi n’agit plus que par ma volonté,</l>
@@ -1034,7 +1034,7 @@
 <note>Affété : Plein ou pleine d’affectation. Il ne se dit que d’une femme ou fille coquette. [FC]</note>
 	<l id="833">Elle vous a gagné cette jeune affétée.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="834">Ô Dieux ! Que ce discours vient d’une âme effrontée</l>
 	<l id="835">Je m’en veux délivrer pour la dernière fois.</l>
 	<l id="836">J’ai d’autres sentiments pour les filles des Rois.</l>
@@ -1049,7 +1049,7 @@
 	<l id="845">Et dont l’ingratitude est d’autant plus blâmable</l>
 	<l id="846">Qu’il ne voit rien en vous qui lui paraisse aimable.</l>
 </sp>
-<sp who="CALLIANTE"><speaker>CALLIANTE.</speaker>
+<sp who="CALLIANTE"><hstage><speaker>CALLIANTE</speaker>.</hstage>
 	<l id="847">Je trouve mon censeur équitable en ce point</l>
 	<l id="848">Qu’il condamne une amour qu’il ne mérite point,</l>
 	<l id="849">Il blâme justement mon âme de bassesse</l>
@@ -1065,13 +1065,13 @@
 	<l id="858">Prendra de tes mépris une vengeance aisée,</l>
 	<l id="859" part="i">Et tu reconnaîtras.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="859" part="f">Je plaindrai peu le jour</l>
 	<l id="860">Si je suis aux enfers libre de votre amour.</l>
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="CALLIANTE"><speaker>CALLIANTE, seule.</speaker>
+<sp who="CALLIANTE"><hstage><speaker>CALLIANTE</speaker>, seule.</hstage>
 	<l id="861">Va-t’en loin de mes yeux monstre d’ingratitude</l>
 	<l id="862">Embrasser un trépas qui n’est pas assez rude,</l>
 	<l id="863">Va laver un autel de ton infâme sang,</l>
@@ -1104,14 +1104,14 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Rosimène, Ariston.</head>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Rosimène, Ariston.</cast>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="889">Ma curiosité sera plus pardonnable,</l>
 	<l id="890">Puisque c’est le sujet qui me rend misérable,</l>
 	<l id="891">Et que depuis le temps que je demeure ici</l>
 	<l id="892">Encore mon esprit n’en est pas éclairci.</l>
 </sp>
-<sp who="ARISTON"><speaker>ARISTON.</speaker>
+<sp who="ARISTON"><hstage><speaker>ARISTON</speaker>.</hstage>
 	<l id="893">Puisque vous désirez en apprendre l’histoire,</l>
 	<l id="894">Je vais des maux passés affliger ma mémoire,</l>
 	<l id="895">Et vous faire savoir pourquoi les immortels</l>
@@ -1167,7 +1167,7 @@
 	<l id="945">Et le peuple à genoux confessant ce miracle</l>
 	<l id="946">Le Prêtre du Soleil lui rendit cet Oracle.</l>
 </sp>
-<sp who="ORACLE"><speaker>ORACLE.</speaker>
+<sp who="ORACLE"><hstage><speaker>ORACLE</speaker>.</hstage>
 	<l id="947">Vous serez délivrés de ces maux violents</l>
 	<l id="948">Par le sang des deux insolents</l>
 	<l id="949">Dont l’orgueil criminel arma notre justice,</l>
@@ -1208,24 +1208,24 @@
 	<l id="984">Ici je connais le brave Fidamant,</l>
 	<l id="985">Ce Prince est vertueux vous n’avez rien à craindre.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="986">Mais cette qualité m’oblige à me contraindre.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Fidamant, Rosimène.</head>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Fidamant, Rosimène.</cast>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="987">Madame pardonnez à ce Prince importun,</l>
 	<l id="988">Je viens plaindre avec vous un mal qui m’est commun.</l>
 	<l id="989">Et dans cet intérêt je suis plus excusable</l>
 	<l id="990">D’une importunité qui me rendrait coupable.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="991">J’honore vos vertus, et votre qualité,</l>
 	<l id="992">Et je croirais commettre une incivilité,</l>
 	<l id="993">Si je ne recevais l’honneur de vos visites</l>
 	<l id="994">Selon votre naissance et selon vos mérites.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="995">Dieux, je suis interdis, si jamais je le fus,</l>
 	<l id="996">Ne vous étonnez pas de me voir si confus :</l>
 	<l id="997">Mais plutôt armez-vous d’une rare clémence,</l>
@@ -1253,7 +1253,7 @@
 	<l id="1019">J’ai failli, je l’avoue, aussi je suis tout prêt</l>
 	<l id="1020">À recevoir ma peine, et subir mon arrêt.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1021">Je ne croirai jamais qu’en l’état déplorable,</l>
 	<l id="1022">Où mes yeux ont perdu ce qu’ils avaient d’aimable,</l>
 	<l id="1023">Ils conservent encor étant privés du jour,</l>
@@ -1277,7 +1277,7 @@
 	<l id="1041">Je l’aime après sa mort, et ma flamme est si pure</l>
 	<l id="1042">Qu’en souffrant ce discours je lui fais une injure.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="1043">Quelque puissante amour qui m’échauffe le sein</l>
 	<l id="1044">Vous me verriez louer ce généreux dessein,</l>
 	<l id="1045">Votre fidélité n’en a point de pareille,</l>
@@ -1296,7 +1296,7 @@
 	<l id="1058">Pour ternir vos beaux jours d’une peine éternelle,</l>
 	<l id="1059">Pour donner de l’amour aux rochers seulement.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1060">Grand Prince ce discours m’offense infiniment.</l>
 	<l id="1061">Vous savez mon dessein, et quoi qu’on me propose,</l>
 	<l id="1062">On se travaille en vain de prétendre autre chose,</l>
@@ -1307,19 +1307,19 @@
 	<l id="1067">Que dans un tel dessein rien ne m’ébranlera,</l>
 	<l id="1068">Et que jamais mon cœur ne se consolera.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="1069">Vous en prononcez dons l’arrêt irrévocable.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1070">Croyez qu’en ce dessein je suis inébranlable.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="1071">Rien n’est-il assez fort pour vous faire changer.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1072" part="i">Le trépas est trop faible.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="1072" part="f">Il n’y faut plus songer ;</l>
 	<l id="1073">Puisque pour sa beauté c’est en vain que tu brûles,</l>
 	<l id="1074">Mon âme c’est en vain que tu le dissimules :</l>
@@ -1329,29 +1329,29 @@
 	<l id="1078">J’ai pour ce peu de temps abusé votre attente.</l>
 	<l id="1079" part="i">Votre amant n’est pas mort.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1079" part="f">Clarionte est vivant.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="1080">Je ne vous flatte point d’un espoir décevant,</l>
 	<l id="1081" part="i">Il est vivant (Madame.)</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1081" part="f">Ah ! Cessez je vous prie</l>
 	<l id="1082">De redoubler mes maux par cette raillerie,</l>
 	<l id="1083">Sa perte est trop certaine ayant vu son trépas</l>
 	<l id="1084">Je croirai à mes yeux qui ne m’abusent pas</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="1085">À peine croirez-vous une telle merveille</l>
 	<l id="1086">Si pour un seul moment vous me prêtez l’oreille,</l>
 	<l id="1087">Je vous éclaircirai d’un mystère inconnu.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1088">Mais (Seigneur) qui vous a si longtemps retenu,</l>
 	<l id="1089" part="i">Et qui vous l’a fait cacher.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="1089" part="f">Le Ciel qui vous envoie</l>
 	<l id="1090">Une douleur égale à cette extrême joie,</l>
 	<l id="1091">Ne vous consoler point d’un bien si passager</l>
@@ -1359,12 +1359,12 @@
 	<l id="1093">Il vit, mais son destin n’en est pas moins funeste.</l>
 	<l id="1094" part="i">(Madame.)</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1094" part="f">Que vous sert de me cacher le reste</l>
 	<l id="1095">Ce cœur est endurci contre tous les malheurs</l>
 	<l id="1096">Et vous ne sauriez plus augmenter mes douleurs.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="1097">En deux mots je vous fais ce récit véritable,</l>
 	<l id="1098">Le pauvre Clarionte en l’état déplorable,</l>
 	<l id="1099">Où de nos habitants l’effort l’avait réduit</l>
@@ -1398,10 +1398,10 @@
 	<l id="1127">Le visage tourné du côté de l’autel,</l>
 	<l id="1128">Ce pauvre infortuné reçut le coup mortel.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1129" part="i">Ô merveilleux succès.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="1129" part="f">Toutefois inutile</l>
 	<l id="1130">Dû depuis Clarionte a vécu dans la ville,</l>
 	<l id="1131">Et nous cachant son nom et sa condition</l>
@@ -1431,7 +1431,7 @@
 	<l id="1155">Et dès que le Soleil paraîtra de retour</l>
 	<l id="1156">Ce Prince généreux sera privé du jour.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1157">Dieux ! Vous le souffrirez et tiendrez un tonnerre</l>
 	<l id="1158">Sans abîmer cette Île au centre de la terre :</l>
 	<l id="1159">Mais ma raison se perd dans mon aveuglement,</l>
@@ -1439,17 +1439,17 @@
 	<l id="1161">Vous voulez que son sang lave les plus grands crimes,</l>
 	<l id="1162">Et voir sur vos autels de Royales victimes.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="1163" part="i">Madame retenez.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1163" part="f">Seigneur en ce seul point</l>
 	<l id="1164">Vos bonnes volontés ne m’offenseront point.</l>
 	<l id="1165">Si vous m’en voulez rendre une preuve certaine :</l>
 	<l id="1166">Persistez au dessein de sauver Rosimène,</l>
 	<l id="1167" part="i">En sauvant Clarionte.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="1167" part="f">En cette extrémité,</l>
 	<l id="1168">(Madame) assurez-vous de ma fidélité,</l>
 	<l id="1169">Et que mon intérêt ne peut rien sur l’envie</l>
@@ -1457,20 +1457,20 @@
 	<l id="1171">Adieu, les immortels et les hommes témoins</l>
 	<l id="1172">Ne vous permettront pas de douter de mes soins.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1173">Entrons, j’ai dans un cas d’une telle importance</l>
 	<l id="1174">Besoin de vos conseils et de votre assistance.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="1175">Ne me dérobez point l’honneur de vous servir,</l>
 	<l id="1176">Puisque c’est le plus grand qu’on me saurait ravir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Le Roi, Calliante, Mélie.</head>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Le Roi, Calliante, Mélie.</cast>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1177">Ah ! Seigneur accordez quelque chose à mes larmes.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1178">Ces pleurs sur mon esprit n’ont plus assez de charmes.</l>
 	<l id="1179">Enfin un tel discours ne se peut pardonner,</l>
 	<l id="1180">Impudente cessez de m’en importuner,</l>
@@ -1480,31 +1480,31 @@
 	<l id="1184">Chassez ce malheureux de votre souvenir,</l>
 	<l id="1185">Sur peine d’encourir ma disgrâce éternelle.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1186">En ce point j’aime mieux paraître criminelle,</l>
 	<l id="1187">Et les soins de vous plaire et de vous obéir</l>
 	<l id="1188">Ne forceront jamais mon âme à le haïr.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1189">Et vous à qui les Dieux en ont commis l’office,</l>
 	<l id="1190">Préparez ce qu’il faut pour notre Sacrifice.</l>
 </sp>
-<sp who="LE-SACRIFICATEUR"><speaker>LE SACRIFICATEUR.</speaker>
+<sp who="LE-SACRIFICATEUR"><hstage><speaker>LE SACRIFICATEUR</speaker>.</hstage>
 	<l id="1191">Vous y serez, servi comme vous souhaitez,</l>
 	<l id="1192">Et le Ciel qui connaît vos bonnes volontés,</l>
 	<l id="1193">Comblera vos vieux ans de repos et de gloire,</l>
 	<l id="1194">Et des crimes passés éteindra la mémoire.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Calliante, Mélie.</head>
-<sp who="CALLIANTE"><speaker>CALLIANTE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Calliante, Mélie.</cast>
+<sp who="CALLIANTE"><hstage><speaker>CALLIANTE</speaker>.</hstage>
 	<l id="1195">Que votre cœur est grand et qu’un si beau dessein</l>
 	<l id="1196">D’un amour glorieux vous échauffe le sein :</l>
 	<l id="1197">Certes ce jugement que tout le monde estime</l>
 	<l id="1198">Témoigne sa bonté dans ce choix légitime,</l>
 	<l id="1199">Et vous ne pouviez pas aimer plus noblement.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1200">Te dois-tu retenir dans ce ressentiment.</l>
 	<l id="1201">Il est vrai que ce cœur est bas et méprisable,</l>
 	<l id="1202">Et que vous emportez la victoire honorable,</l>
@@ -1519,7 +1519,7 @@
 	<l id="1211">Lavez-vous de son sang, arrachez-lui le cœur,</l>
 	<l id="1212">Et vous vous vengerez avec trop de douceur.</l>
 </sp>
-<sp who="CALLIANTE"><speaker>CALLIANTE.</speaker>
+<sp who="CALLIANTE"><hstage><speaker>CALLIANTE</speaker>.</hstage>
 	<l id="1213">Puisque j’ai conservé des sentiments plus fermes,</l>
 	<l id="1214">Je ne vous réponds point par de semblables termes,</l>
 	<l id="1215">J’ai moins de passion et plus de jugement,</l>
@@ -1527,7 +1527,7 @@
 	<l id="1217">Mais après vos discours je n’aurai point le blâme</l>
 	<l id="1218">D’avoir pour un captif une honteuse flamme.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1219">Vous avez jusqu’ici trop mal dissimulé</l>
 	<l id="1220">Ce que vos actions ont assez révélé,</l>
 	<l id="1221">Connaissant vos défauts il vous a rejetée,</l>
@@ -1547,7 +1547,7 @@
 	<l id="1235">La vôtre paraîtrait sans crime et sans soupçon,</l>
 	<l id="1236">Si vous l’aviez chéri de la même façon.</l>
 </sp>
-<sp who="CALLIANTE"><speaker>CALLIANTE.</speaker>
+<sp who="CALLIANTE"><hstage><speaker>CALLIANTE</speaker>.</hstage>
 	<l id="1237">Vous pouvez justement me faire ce reproche,</l>
 	<l id="1238">Il est vrai je ne puis émouvoir cette roche,</l>
 	<l id="1239">Et pour lui témoigner encore plus d’amour</l>
@@ -1557,27 +1557,27 @@
 	<l id="1243">C’est cette passion qui durant mes douleurs</l>
 	<l id="1244">Devant les pieds du Roi m’arrache tant de pleurs.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1245">Vous vous devez vanter de tous vos bons offices,</l>
 	<l id="1246">C’est le respect des Dieux et de leurs sacrifices</l>
 	<l id="1247">Qui vous font rechercher la mort d’un innocent :</l>
 	<l id="1248">Mais si pour le venger le Ciel est impuissant,</l>
 	<l id="1249">Craignez un désespoir, et soyez assurée.</l>
 </sp>
-<sp who="CALLIANTE"><speaker>CALLIANTE.</speaker>
+<sp who="CALLIANTE"><hstage><speaker>CALLIANTE</speaker>.</hstage>
 	<l id="1250">Que vous le vengerez, que ma perte est jurée.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1251">Que je me souviendrai des offices qu’on rend.</l>
 </sp>
-<sp who="CALLIANTE"><speaker>CALLIANTE.</speaker>
+<sp who="CALLIANTE"><hstage><speaker>CALLIANTE</speaker>.</hstage>
 	<l id="1252">Perdant un ennemi tout m’est indifférent.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Fidamant, Le Roi, Clarionte, Mélie, Le Sacrificateur.</head>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Fidamant, Le Roi, Clarionte, Mélie, Le Sacrificateur.</cast>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="1253">Puisqu’on ne peut fléchir vos rigueurs inhumaines,</l>
 	<l id="1254">Que pour vous émouvoir les prières sont vaines,</l>
 	<l id="1255">Et les larmes d’un fils n’ont plus aucun pouvoir</l>
@@ -1598,12 +1598,12 @@
 	<l id="1269">Mais plus tigres encor ceux de qui la puissance</l>
 	<l id="1270">Consent à cette infâme et lâche obéissance.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1271">Enfin votre insolence arrive au dernier point,</l>
 	<l id="1272">Ce que vous me devez ne vous retiendra point,</l>
 	<l id="1273">Connaissez qui je suis, et craignez ma colère.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="1274">Mon devoir seulement me porte à vous plaire,</l>
 	<l id="1275">Je ne méconnais point mon père ni mon Roi :</l>
 	<l id="1276">Mais dans cette action je fais ce que je dois,</l>
@@ -1611,7 +1611,7 @@
 	<l id="1278">De détourner de vous un mal inévitable,</l>
 	<l id="1279">Vous vous repentirez de perdre un inconnu.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1280">Puisque d’aucun respect vous n’êtes retenu,</l>
 	<l id="1281">Que vous perdez le sens avec la connaissance,</l>
 	<l id="1282">Impudent désormais évitez ma présence,</l>
@@ -1619,14 +1619,14 @@
 	<l id="1284">Ôtez-vous de ma vue, et ne nous troublez plus,</l>
 	<l id="1285">Vous n’obéissez pas, gardes que l’on l’amène.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="1286">Seigneur votre puissance est sur moi souveraine,</l>
 	<l id="1287">Oui je veux obéir : mais avant mon départ</l>
 	<l id="1288">Considérez qu’on peut se repentir trop tard,</l>
 	<l id="1289">Vous en aurez peut-être un sujet assez ample</l>
 	<l id="1290" part="i">Et Doriman est tel.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1290" part="f">Qu’on l’arrache du Temple</l>
 	<l id="1291">Et que pas un de vous ne le quitte aujourd’hui,</l>
 	<l id="1292">Je le mets en vos mains, vous répondrez de lui.</l>
@@ -1638,7 +1638,7 @@
 	<l id="1298">Révoquer des grands Dieux l’arrêt irrévocable,</l>
 	<l id="1299" part="i">C’est en votre faveur.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1299" part="f">Ces mots sont superflus,</l>
 	<l id="1300">Et de grâce (Seigneur) ne me consolez plus,</l>
 	<l id="1301">Réservez désormais ces discours inutiles,</l>
@@ -1670,19 +1670,19 @@
 	<l id="1327">Ne vous excusez point, mais vantez désormais</l>
 	<l id="1328">La plus belle action que vous fîtes jamais.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1329">Ton désespoir t’aveugle, et te rend excusable</l>
 	<l id="1330" part="i">Mais que cherche Mélie.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1330" part="f">Un arrêt équitable,</l>
 	<l id="1331">Et je viens faire voir à votre Majesté</l>
 	<l id="1332">Que le vouloir des Dieux doit être exécuté.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1333">Ce dessein seulement dans le Temple m’arrête.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1334">Ne différez dons pas d’accorder ma requête,</l>
 	<l id="1335">Et si cette raison vous retient en ce lieu,</l>
 	<l id="1336">Que tout votre intérêt cède à celui du Dieu,</l>
@@ -1696,7 +1696,7 @@
 	<l id="1344">De l’honneur immortel qui suivra mon trépas,</l>
 	<l id="1345">Je demande la mort et croit qu’elle m’est due.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1346">Ô Ciel ! Par quel malheur sa raison s’est perdue,</l>
 	<l id="1347">Misérable est-il vrai que cette folle amour</l>
 	<l id="1348">Te porte lâchement à te priver du jour.</l>
@@ -1709,7 +1709,7 @@
 	<l id="1355">Et que si le trépas te pouvait affliger,</l>
 	<l id="1356">C’est par ton seul trépas que je me puis venger.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1357">Ah ! (Madame) souffrez que je meure sans crime,</l>
 	<l id="1358">Quittez une bonté qui n’est plus légitime,</l>
 	<l id="1359">Je suis ingrat (Madame) à ces rares faveurs</l>
@@ -1717,7 +1717,7 @@
 	<l id="1361">Ne m’enviez donc plus le seul bien qui me reste</l>
 	<l id="1362">Ou vous rendrez ma mort mille fois plus funeste.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1363">Cessez d’être cruel à la fin de mes jours,</l>
 	<l id="1364">Et ne m’affligez point de semblables discours</l>
 	<l id="1365">De quelque désespoir que votre esprit s’emporte</l>
@@ -1733,11 +1733,11 @@
 	<l id="1375">Et sans avoir égard à la force du sang,</l>
 	<l id="1376">Que le zèle plus fort vous surmonte à son rang</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1377">Impudente, insensée, une juste colère</l>
 	<l id="1378">Me pourrait à la fin porter à te complaire.</l>
 </sp>
-<sp who="LE-SACRIFICATEUR"><speaker>LE SACRIFICATEUR.</speaker>
+<sp who="LE-SACRIFICATEUR"><hstage><speaker>LE SACRIFICATEUR</speaker>.</hstage>
 	<l id="1379">Sire sans vous porter à quelque extrémité,</l>
 	<l id="1380">Faites plus par raison que par autorité,</l>
 	<l id="1381">(Madame) fussiez-vous d’une obscure naissance</l>
@@ -1748,7 +1748,7 @@
 	<l id="1386">Enfin souvenez-vous des termes de l’oracle,</l>
 	<l id="1387">Qui ne permettent pas d’enfreindre notre Loi.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1388">L’oracle n’a rien dit qui fasse contre moi,</l>
 	<l id="1389">Et si vous n’entendez des paroles si claires,</l>
 	<l id="1390">Vous vous mêlez à tort d’expliquer ses mystères,</l>
@@ -1759,13 +1759,13 @@
 	<l id="1395">Puisqu’il nous est commun également à tous,</l>
 	<l id="1396">Avons-nous moins de droit d’y prétendre que vous.</l>
 </sp>
-<sp who="CALLIANTE"><speaker>CALLIANTE.</speaker>
+<sp who="CALLIANTE"><hstage><speaker>CALLIANTE</speaker>.</hstage>
 	<l id="1397">Ah ! Mélie à quel point vous vous rendez coupable,</l>
 	<l id="1398">Que cette passion vous rendra méprisable</l>
 	<l id="1399">Et que vous offensez celles de votre rang,</l>
 	<l id="1400">Moi-même je rougis d’être de même sang.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1401">Cette haute vertu n’en a point qui l’égale,</l>
 	<l id="1402">Oui (Madame) il est vrai que votre âme est Royale :</l>
 	<l id="1403">Mais quand vous soupiriez pour les mêmes appas,</l>
@@ -1775,16 +1775,16 @@
 	<l id="1407">Mais jamais ce grand cœur ne se vit combattu</l>
 	<l id="1408">Par un moindre désir qui choque ma vertu.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1409">Quand ton affection serait encor plus belle</l>
 	<l id="1410">Sa mémoire à jamais te rendra criminelle,</l>
 	<l id="1411">Tous tes raisonnements sont ici superflus,</l>
 	<l id="1412">Suffit que je commande, et qu’on n’en parle plus.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1413">Ô Ciel ! Quelle injustice, ou quelle tyrannie.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1414">Hélas ne rendez point ma douleur infinie</l>
 	<l id="1415">(Madame) retenez ces charitables soins,</l>
 	<l id="1416">Puisque avant mon trépas je prends les Dieux témoins</l>
@@ -1797,41 +1797,41 @@
 	<l id="1423">Et ne me troublez pas dans mon dernier moment.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Rosimène, Clarionte, Le Roi, Mélie, Le Sacrificateur, Calliante.</head>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Rosimène, Clarionte, Le Roi, Mélie, Le Sacrificateur, Calliante.</cast>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1424">J’y suis encor à temps, hâtons-nous promptement,</l>
 <note>Fendre la presse signifie fendre la foule qui se presse.</note>
 	<l id="1425">Pour approcher l’autel il faut fendre la presse.</l>
 </sp>
-<sp who="LE-SACRIFICATEUR"><speaker>LE SACRIFICATEUR.</speaker>
+<sp who="LE-SACRIFICATEUR"><hstage><speaker>LE SACRIFICATEUR</speaker>.</hstage>
 	<l id="1426">Père de la lumière, et vous grande Déesse.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1427">Grand Prêtre permettez que je sois entendu,</l>
 	<l id="1428">Et ne me frustrez point d’un honneur qui m’est dû.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1429">Encore un importun trouble le Sacrifice ?</l>
 	<l id="1430" part="i">Que veut cet étranger ?</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1430" part="f">Vous rendre un bon office,</l>
 	<l id="1431">Et vous faire tenir par ma mort seulement</l>
 	<l id="1432">La parole donnée au Prince Fidamant</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1433">Quelle parole enfin apprends-la-moi de grâce.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1434">Que le premier venu devait quitter la place,</l>
 	<l id="1435">Et que s’il se trouvait un plus beau prisonnier,</l>
 	<l id="1436">Sa beauté le perdrait en sauvant le premier.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1437">Il est vrai qu’à ce point ma parole m’engage :</l>
 	<l id="1438">Mais dis-nous ton dessein sans tarder davantage.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1439">Je demande justice, et n’attends plus de toi,</l>
 	<l id="1440">Que l’accomplissement des paroles d’un Roi,</l>
 	<l id="1441">Jugez de nos beautés, si la mienne est plus grande,</l>
@@ -1839,7 +1839,7 @@
 	<l id="1443">Aussi si son visage est plus beau que le mien,</l>
 	<l id="1444">Je lui cède mes droits et je n’y prétends rien.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1445">Malheureux, quel démon de fureur, et de rage,</l>
 	<l id="1446">Contre ta propre vie anime ton courage,</l>
 <note>Se déporter : Se désister, s’abstenir. [L]</note>
@@ -1858,10 +1858,10 @@
 	<l id="1459">Tout autre désespoir doit offenser les Dieux,</l>
 	<l id="1460">Prolonge donc tes jours ou les conserve mieux.</l>
 </sp>
-<sp who="LE-SACRIFICATEUR"><speaker>LE SACRIFICATEUR.</speaker>
+<sp who="LE-SACRIFICATEUR"><hstage><speaker>LE SACRIFICATEUR</speaker>.</hstage>
 	<l id="1461">Ô Dieux ! Vit-on jamais une beauté si rare.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1462">Ne considérez point ce sentiment barbare,</l>
 	<l id="1463">Que la rage ou l’honneur le poussent au trépas</l>
 	<l id="1464">Il désire une mort qu’il ne mérite pas,</l>
@@ -1869,38 +1869,38 @@
 	<l id="1466">Mais vos yeux y pourront mettre la différence,</l>
 	<l id="1467">Et de notre débat la mort sera le prix.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1468">Par un si grand éclat je me trouve surpris,</l>
 	<l id="1469">Grand Prêtre approchez-vous, cette affaire vous touche,</l>
 	<l id="1470">Et j’en attends l’arrêt de votre seule bouche.</l>
 </sp>
-<sp who="LE-SACRIFICATEUR"><speaker>LE SACRIFICATEUR.</speaker>
+<sp who="LE-SACRIFICATEUR"><hstage><speaker>LE SACRIFICATEUR</speaker>.</hstage>
 	<l id="1471">Certes je paraîtrais dépourvu de raison,</l>
 	<l id="1472">Si je mettais entre eux quelque comparaison,</l>
 	<l id="1473">Il est trop assuré que le dernier l’emporte.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1474">Pourrais-je relever mon espérance morte.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1475">J’en juge comme vous, et puisque j’ai promis</l>
 	<l id="1476">Qu’on verrait Doriman en liberté remis,</l>
 	<l id="1477">Je le déclare libre, et veux qu’on le délie.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1478" part="i">Ô favorable arrêt !</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1478" part="f">Bienheureuse Mélie.</l>
 	<l id="1479">D’où te peut arriver ce secours inconnu.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1480">Et qu’on donne la place à ce dernier venu.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1481">Ah ! Que vous prononcez une juste sentence.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1482">Et j’en appelle aux Dieux que ce dessein offense,</l>
 	<l id="1483">Vous tâchez vainement de prolonger mes jours,</l>
 	<l id="1484">Et ma main déjà libre en finira le cours :</l>
@@ -1924,23 +1924,23 @@
 	<l id="1502">Ne saurait désormais abattre mon courage,</l>
 	<l id="1503" part="i">Rosimène est au monde.</l>
 </sp>
-<sp who="LE-SACRIFICATEUR"><speaker>LE SACRIFICATEUR.</speaker>
+<sp who="LE-SACRIFICATEUR"><hstage><speaker>LE SACRIFICATEUR</speaker>.</hstage>
 	<l id="1503" part="f">Enfin tous ces transports.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1504">On ne peur sans mourir toucher à ce beau corps,</l>
 	<l id="1505">Quoique de mon trépas ta mort sera suivie,</l>
 	<l id="1506">Crois si tu l’entreprends qu’il y va de ta vie.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1507">Dieux où son désespoir le va précipiter.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1508">Faites-vous l’insolent afin de m’irriter,</l>
 	<l id="1509">Et n’étant pas content d’avoir eu ma grâce,</l>
 	<l id="1510">Voulez-vous derechef vous remettre en la place.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1511">Ouvrez, ouvrez les yeux et voyez des appas,</l>
 	<l id="1512">Ou de divins attraits que les hommes n’ont pas</l>
 	<l id="1513">Abaissez votre cœur, et d’un œil idolâtre</l>
@@ -1960,7 +1960,7 @@
 	<l id="1527">Son sexe a détourné cet horrible attentat</l>
 	<l id="1528">Et remis Doriman en son premier état.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1529">Cruel me devais-tu rejeter de la sorte.</l>
 	<l id="1530">Ah ! Ne l’écoutez pas, son désespoir l’emporte,</l>
 	<l id="1531">Et lui fait perdre ainsi des paroles en l’air :</l>
@@ -1968,15 +1968,15 @@
 	<l id="1533">C’est là que je m’assure, et que je me repose</l>
 	<l id="1534">Sur son autorité qui soutiendra ma cause.</l>
 </sp>
-<sp who="CALLIANTE"><speaker>CALLIANTE.</speaker>
+<sp who="CALLIANTE"><hstage><speaker>CALLIANTE</speaker>.</hstage>
 <note>Rencontre : Vaugelas remarque qu’en quelque sens qu’on emploie rencontre, il est toujours féminin, et que les bons Auteurs n’en usent jamais aûtrement, que néanmoins en matière de querelle, plusieurs le font masculin, et disent : ce n’est pas un duel, mais un rencontre ; que cependant le meilleur est de le faire féminin. Bouhours dit sur cette remarque, que tous les gens qui parlent bien disent une rencontre, et que le féminin a prévalu. [FC]</note>
 	<l id="1535">Ô Ciel vit-on jamais un rencontre pareil.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1536">Dieux, amour, désespoir, donnez-moi du conseil</l>
 	<l id="1537">En un tel accident qui me rend si confuse.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1538">(Madame) maintenant recevez mon excuse,</l>
 	<l id="1539">Jugez sans passion de ce divin éclat,</l>
 	<l id="1540">Et voyez le sujet qui me rendait ingrat,</l>
@@ -1985,7 +1985,7 @@
 	<l id="1543">Après de si beaux nœuds dont nos cœurs sont liés,</l>
 	<l id="1544">Voyez si ses appas peuvent être oubliés.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1545">Non, non, votre constance était trop équitable,</l>
 	<l id="1546">Et si vous la quittiez je vous croirais coupable,</l>
 	<l id="1547">Aimez-la Doriman, même après le trépas :</l>
@@ -1993,10 +1993,10 @@
 	<l id="1549">J’adore comme vous cette rare merveille,</l>
 	<l id="1550">Et je la veux chérir d’une amitié pareille.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1551">Cet accident retient mes esprits enchantés.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1552">(Madame) retenez ces bonnes volontés,</l>
 	<l id="1553">Je dois mourir ingrate à des bontés si rares :</l>
 	<l id="1554">Mais si l’on peut fléchir ces courages barbares,</l>
@@ -2005,7 +2005,7 @@
 	<l id="1557">Déjà votre intérêt m’est plus cher que le nôtre ;</l>
 	<l id="1558">Pourvu qu’il soit vivant je consens qu’il soit vôtre.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1559">Inhumaine veux-tu redoubler mon tourment,</l>
 	<l id="1560">Et que par tes discours je meure doublement,</l>
 	<l id="1561">Ingrate peux-tu bien en ce moment funeste</l>
@@ -2019,25 +2019,25 @@
 	<l id="1569">Par la sincérité de nos chastes pensées,</l>
 	<l id="1570">Par ma fidélité, par nos peines passées.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1571">Je te conjure aussi par ce que tu me dois,</l>
 	<l id="1572">Et si j’ai conservé l’Empire que j’avais</l>
 	<l id="1573">Par ce premier pouvoir, par cette obéissance</l>
 	<l id="1574">Je te conjure enfin de toute ma puissance.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1575" part="i">Ma Reine.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1575" part="m">Ma chère âme.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1575" part="f">Eh de grâce permets.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1576">Ne crois pas que mon cœur y consente jamais.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1577">Vous deviez respirer sous une autre fortune :</l>
 	<l id="1578">Mais un si long discours déjà nous importune</l>
 	<l id="1579">Le service des Dieux ne le peut endurer,</l>
@@ -2046,7 +2046,7 @@
 	<l id="1581">En cet affaire-ici mon esprit s’embarrasse,</l>
 	<l id="1582">Enfin conseille-moi que faut-il que je fasse ?</l>
 </sp>
-<sp who="LE-SACRIFICATEUR"><speaker>LE SACRIFICATEUR.</speaker>
+<sp who="LE-SACRIFICATEUR"><hstage><speaker>LE SACRIFICATEUR</speaker>.</hstage>
 	<l id="1583">Les Dieux assurément m’ont coulé dans le sein</l>
 	<l id="1584">Pour le bien de cette Île un étrange dessein,</l>
 	<l id="1585">Pour faire aux immortels un plus beau sacrifice,</l>
@@ -2059,38 +2059,38 @@
 	<l id="1592">Sire, c’est le vouloir de la divinité,</l>
 	<l id="1593" part="i">Et la loi la condamne.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1593" part="f">Ô ministre infidèle.</l>
 	<l id="1594" part="i">Interprète inhumain.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1594" part="f">J’approuve votre zèle</l>
 	<l id="1595">Quoique je les jugeais dignes d’un autre sort,</l>
 	<l id="1596">Puisque le Ciel le veut je consens à leur mort,</l>
 	<l id="1597">Rien ne séparera le nœud qui les assemble</l>
 	<l id="1598">Que l’on s’apprête donc et qu’ils meurent ensemble.</l>
 </sp>
-<sp who="LE-SACRIFICATEUR"><speaker>LE SACRIFICATEUR.</speaker>
+<sp who="LE-SACRIFICATEUR"><hstage><speaker>LE SACRIFICATEUR</speaker>.</hstage>
 	<l id="1599" part="i">Puisqu’il faut obéir.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1599" part="f">Oui je vous tends les bras.</l>
 	<l id="1600">Mais soyez satisfaits par un simple trépas</l>
 	<l id="1601" part="i">Seule je dois mourir.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1601" part="f">Tu l’oses entreprendre.</l>
 	<l id="1602">Ah ! Barbare il n’est rien qui te puisse défendre,</l>
 	<l id="1603">Ma main vous punira ministres inhumains,</l>
 	<l id="1604">Présenter des liens à de si belles mains.</l>
 	<l id="1605" part="i">Ah ! Ciel tu le permets.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1605" part="f">Craignez-vous sa folie,</l>
 	<l id="1606">Pour s’en assurer mieux il faudra qu’on le lie.</l>
 	<l id="1607">Tant d’hommes contre un seul vous en viendrez à bout.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1608">Ce généreux courage à la fin se résout,</l>
 	<l id="1609">Oui valeureux guerriers, votre rare vaillance</l>
 	<l id="1610">Vous a faits triompher d’un homme sans défense :</l>
@@ -2111,7 +2111,7 @@
 	<l id="1625">Et s’il te reste encor des sentiments de gloire,</l>
 	<l id="1626">Éloigne de tes jours une tache si noire.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1627">Enfin tous ces discours ne me toucheront pas,</l>
 	<l id="1628">Le Ciel pour s’apaiser veut un double trépas,</l>
 	<l id="1629">Je le prends à témoin, que je plains votre perte,</l>
@@ -2123,7 +2123,7 @@
 	<l id="1635">Ne me condamnez point de cette cruauté,</l>
 	<l id="1636">Puisque je la commets contre ma volonté.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1637">Votre sévérité se verra sans excuse,</l>
 	<l id="1638">Ne pouvant plus trouver de loi qui me refuse</l>
 	<l id="1639">Par la même raison que vous la condamnez,</l>
@@ -2136,17 +2136,17 @@
 	<l id="1646">J’ai péché la première, et je suis plus coupable,</l>
 	<l id="1647">Puisqu’elle doit mourir je dois mourir aussi.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1648">Suffit que je le veux, et que je règne ici,</l>
 	<l id="1649" part="i">Ne m’importunez plus autrement.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1649" part="f">Hé ! (Madame)</l>
 	<l id="1650">De grâce prolongez une si belle trame,</l>
 	<l id="1651">Songez qu’en ce dessein vous offensez les Dieux,</l>
 	<l id="1652">Et que votre amitié ne paraîtra pas mieux.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1653">Puisque pour son salut il n’est rien qui vous touche</l>
 	<l id="1654">Dans cette extrémité je veux ouvrir la bouche,</l>
 	<l id="1655">Et vous faire accorder à sa condition</l>
@@ -2163,17 +2163,17 @@
 	<l id="1666">Le roi de la Sardaigne est père de ma Reine,</l>
 	<l id="1667">La Corse est mon pays, et mon père en est Roi.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 <note>Piper : signifie au propre, Attraper des oiseaux à la pipée, quand on les attire en contrefaisant leur cri, ou par celui du hibou ; auquel sens il est peu en usage : mais au figuré il s’employe communément pour dire, Tromper, et particulierement au jeu. [F]</note>
 	<l id="1668">Ce discours piperait de plus simples que moi,</l>
 	<l id="1669">Et ta ruse en ceci n’a rien qui l’autorise :</l>
 	<l id="1670">Mais dans l’extrémité cette feinte est permise.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1671">Sache que notre cœur n’est pas lâche à ce point,</l>
 	<l id="1672">Et que pour nous sauver je ne mentirais point</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1673">Enfin que ce discours soit feint ou véritable,</l>
 	<l id="1674">La volonté des Dieux est plus considérable,</l>
 	<l id="1675">Et jamais un mortel ne me divertira</l>
@@ -2188,7 +2188,7 @@
 	<l id="1684">Et peut-être le sort pourra tomber sur eux :</l>
 	<l id="1685">Mais où court ce Soldat si pâle et hors d’haleine.</l>
 </sp>
-<sp who="UN-SOLDAT"><speaker>SOLDAT.</speaker>
+<sp who="UN-SOLDAT"><hstage><speaker>SOLDAT</speaker>.</hstage>
 	<l id="1686">Si le Ciel n’y pourvoit notre perte est prochaine,</l>
 	<l id="1687">Seigneur à la faveur d’une si sombre nuit,</l>
 	<l id="1688">Une flotte ennemie a pris terre sans bruit,</l>
@@ -2205,7 +2205,7 @@
 	<l id="1699">Et si l’on n’y pourvoit leur courage est si haut</l>
 	<l id="1700">Qu’ils pourront l’emporter de surprise ou d’assaut.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1701">Ô Dieux vous connaissez un véritable zèle,</l>
 	<l id="1702">Et vous n’embrassez pas une juste querelle,</l>
 	<l id="1703">Tandis qu’à vos autels je vous rends ce devoir,</l>
@@ -2217,18 +2217,18 @@
 	<l id="1709">Je mets en votre garde et l’une et l’autre hostie,</l>
 	<l id="1710">Vous me répondez d’eux sur peine de la vie.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1711">Ô Ciel si ta bonté nous laisse encor un jour</l>
 	<l id="1712" part="i">Qu’il soit à Rosimène.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1712" part="f">Elle mourrait d’amour.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Le Roi, Fidamant.</head>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Le Roi, Fidamant.</cast>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1713">Dans cette déplorable et sanglante sortie,</l>
 	<l id="1714">Perdre de mes soldats la plus grande partie,</l>
 	<l id="1715">Mes meilleurs escadrons à mes yeux renversés,</l>
@@ -2269,21 +2269,21 @@
 	<l id="1750">Vous avez maintenant un sujet assez ample</l>
 	<l id="1751">Pour signaler ici cette rare valeur.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="1752">Ah ! Seigneur vous voyez quel étrange malheur.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1753">Ne recommencez point un discours qui m’outrage :</l>
 	<l id="1754">Mais obéissez-moi sans tarder davantage.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Mélie, Le Geôlier.</head>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Mélie, Le Geôlier.</cast>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1755">Donc je ne puis fléchir cette âme de rocher</l>
 	<l id="1756">Et ma condition ne le peut pas toucher.</l>
 	<l id="1757" part="i">Ah ! Barbare.</l>
 </sp>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<sp who="LE-GEÔLIER"><hstage><speaker>LE GEÔLIER</speaker>.</hstage>
 	<l id="1757" part="f">Madame il y va de ma vie,</l>
 	<l id="1758">Voudriez-vous à ce prix contenter votre envie,</l>
 	<l id="1759">Seriez-vous satisfaite après m’avoir perdu,</l>
@@ -2293,7 +2293,7 @@
 	<l id="1763">Ne me contraignez pas de vous désobéir,</l>
 	<l id="1764">Puisque c’est en un mot me perdre et le trahir.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1765">Étrange cruauté jusqu’à nous inconnue</l>
 	<l id="1766">Au dernier de ses jours me défendre sa vue,</l>
 	<l id="1767">Et quand pour son salut je n’espère plus rien,</l>
@@ -2302,7 +2302,7 @@
 	<l id="1770">Que tu dois à celui dont je tiens la naissance,</l>
 	<l id="1771">Dites-moi pour le moins en quel état ils sont.</l>
 </sp>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<sp who="LE-GEÔLIER"><hstage><speaker>LE GEÔLIER</speaker>.</hstage>
 	<l id="1772">Je ne vous dirai point tous les regrets qu’ils font</l>
 	<l id="1773">Outre que mon esprit n’en fut jamais capable,</l>
 	<l id="1774">(Madame) le récit en est trop lamentable :</l>
@@ -2325,17 +2325,17 @@
 	<l id="1791">Si vous les aviez vus, mais qui me vient troubler,</l>
 	<l id="1792" part="i">Que veut-on.</l>
 </sp>
-<sp who="UN-PAGE"><speaker>UN PAGE.</speaker>
+<sp who="UN-PAGE"><hstage><speaker>UN PAGE</speaker>.</hstage>
 	<l id="1792" part="f">C’est le Roi qui vous fait appeler,</l>
 	<l id="1793">On va tout de ce pas faire le sacrifice,</l>
 	<l id="1794" part="i">Menez les prisonniers.</l>
 </sp>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<sp who="LE-GEÔLIER"><hstage><speaker>LE GEÔLIER</speaker>.</hstage>
 	<l id="1794" part="f">Il faut que j’obéisse.</l>
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="MÉLIE"><speaker>MÉLIE, seule.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>, seule.</hstage>
 	<l id="1795">Puisque les Dieux jaloux ne me permettent pas,</l>
 	<l id="1796">En me perdant pour toi d’empêcher ion trépas,</l>
 	<l id="1797">Et que c’est leur rigueur qui te défend de vivre,</l>
@@ -2355,25 +2355,25 @@
 	<l id="1811">Mais mon page à propos revenu promptement.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Un Page, Mélie.</head>
-<sp who="UN-PAGE"><speaker>UN PAGE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Un Page, Mélie.</cast>
+<sp who="UN-PAGE"><hstage><speaker>UN PAGE</speaker>.</hstage>
 	<l id="1812">Je viens d’exécuter votre commandement,</l>
 	<l id="1813">La garde en est fort belle et la lame en est bonne,</l>
 	<l id="1814">C’est un digne présent de celle qui le donne.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1815">Mais en me l’apportant t’es-tu caché de tous.</l>
 </sp>
-<sp who="UN-PAGE"><speaker>UN PAGE.</speaker>
+<sp who="UN-PAGE"><hstage><speaker>UN PAGE</speaker>.</hstage>
 	<l id="1816">(Madame) ce secret n’est connu que de vous.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1817">J’en suis fort satisfaite et ton obéissance</l>
 	<l id="1818">Par un présent semblable aura sa récompense.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Clarionte, Rosimène, Mélie, Le Roi, Le Sacrificateur.</head>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Clarionte, Rosimène, Mélie, Le Roi, Le Sacrificateur.</cast>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1819">Quoique je fasse tort à ma condition</l>
 	<l id="1820">D’émouvoir votre esprit à la compassion,</l>
 	<l id="1821">Et qu’étant avec vous d’une égale naissance</l>
@@ -2419,7 +2419,7 @@
 	<l id="1861">Bref à tant de mérite, à des vertus si rares</l>
 	<l id="1862">Qu’elles amolliraient les cœurs les plus barbares.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1863">Seigneur, considérez cette rare amitié,</l>
 	<l id="1864">Et si dans un climat dépourvu de pitié,</l>
 	<l id="1865">Votre âme plus Royale en conserve l’usage,</l>
@@ -2441,10 +2441,10 @@
 	<l id="1881">Et le plus grand appui que vous puissiez prétendre</l>
 	<l id="1882">C’est de le conserver et de l’avoir pour gendre.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1883" part="i">Hé ! Sauvez Rosimène.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1883" part="f">Après tous ces discours :</l>
 	<l id="1884">Dont la nécessité me fait rompre le cours,</l>
 	<l id="1885">Je vous dirai du cœur ainsi que de la bouche,</l>
@@ -2461,60 +2461,60 @@
 	<l id="1896">Il faudrait obéir à la rigueur du sort.</l>
 	<l id="1897">Pour les miens et pour moi je me rendrais barbare.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1898">Si pour les Immortels votre zèle est si rare,</l>
 	<l id="1899">Que vous formez pour eux ces généreux projets</l>
 	<l id="1900">Que ne leur donnez-vous le sang de vos sujets,</l>
 	<l id="1901">La Province a failli punissez la Province :</l>
 	<l id="1902">Mais qui vous a donné ce pouvoir sur un Prince.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1903">C’est d’eux que je le tiens et sans plus discourir,</l>
 	<l id="1904">Vous devez malgré moi vous résoudre à mourir.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1905">J’appelle devant eux d’une telle injustice</l>
 	<l id="1906">Que vous les servez mal dans votre sacrifice</l>
 	<l id="1907">Que sur vous l’intérêt obtient le premier rang,</l>
 	<l id="1908">Et vous fait lâchement épargner votre sang.</l>
 	<l id="1909">Deux ont commis la faute et l’on n’en punit qu’une.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1910">Dieux ! Qui m’éloignera cette fille importune :</l>
 	<l id="1911">Enfin déportez-vous de tous ces vains efforts,</l>
 	<l id="1912">Ou je commanderai qu’on vous mette dehors.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1913">J’obéirai Seigneur, mais d’une telle sorte</l>
 	<l id="1914">Que vous perdrez ce droit quand vous me verrez morte.</l>
 </sp>
-<sp who="LE-SACRIFICATEUR"><speaker>LE SACRIFICATEUR.</speaker>
+<sp who="LE-SACRIFICATEUR"><hstage><speaker>LE SACRIFICATEUR</speaker>.</hstage>
 	<l id="1915">Si l’on vous voit tous deux prendre la mort en gré</l>
 	<l id="1916">Votre vertu se montre en un très haut degré,</l>
 	<l id="1917">Et vous ne le sauriez témoignez davantage</l>
 	<l id="1918">Que vous offrant aux Dieux sans perdre le courage.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1919">Combien que mon trépas n’en soit pas différé,</l>
 	<l id="1920">Si Rosimène meurt, je meurs désespéré :</l>
 	<l id="1921">À ce nom seulement la rage me surmonte,</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1922">Je mourrai sans regret et sauvez Clarionte.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1923">Mais puisque par mes cris je ne profite rien,</l>
 	<l id="1924">Je ne me plaindrai plus si l’on m’accorde un bien,</l>
 	<l id="1925">Souffrez que le premier je perde la lumière.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1926">Oui, je veux t’accorder cette grâce dernière.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1927">Ah ! Juge trop cruel, cet arrêt me fait tort ;</l>
 	<l id="1928">Puisqu’il me fait mourir par une double mort.</l>
 </sp>
-<sp who="LE-SACRIFICATEUR"><speaker>LE SACRIFICATEUR.</speaker>
+<sp who="LE-SACRIFICATEUR"><hstage><speaker>LE SACRIFICATEUR</speaker>.</hstage>
 	<l id="1929">Flambeau de l’Univers, et vous chaste Diane,</l>
 	<l id="1930">Permettez qu’un peuple profane</l>
 	<l id="1931">Approche vos sacrés autels,</l>
@@ -2547,7 +2547,7 @@
 	<l id="1958">Vous renouvellera ses dévotes offrandes</l>
 	<l id="1959">Pour vous mettre en état recevez ces Couronnes.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1960">J’attends sans m’effrayer la mort que tu me donnes :</l>
 	<l id="1961">Mais avant le moment qui nous ferme les yeux</l>
 	<l id="1962">Permets-nous pour le moins de faire nos adieux,</l>
@@ -2561,47 +2561,47 @@
 	<l id="1970">Voyez que son amour a prévenu vos mains</l>
 	<l id="1971" part="i">Rosimène n’est plus.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1971" part="f">La pitié me surmonte.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="1972" part="i">Mais elle ouvre les yeux.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1972" part="f">Adieu cher Clarionte.</l>
 	<l id="1973">Je vis pour t’assurer encore de ma foi,</l>
 	<l id="1974">Et que même aux enfers mon cœur doit être à toi,</l>
 	<l id="1975">Donc puisqu’il faut mourir, chasse cette tristesse.</l>
 	<l id="1976" part="i">Adieu.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1976" part="f">C’est trop tarder, puisque le temps nous presse,</l>
 	<l id="1977" part="i">Grand Prêtre dépêchez.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="1977" part="f">Il ne tient plus à nous.</l>
 </sp>
-<sp who="LE-SACRIFICATEUR"><speaker>LE SACRIFICATEUR.</speaker>
+<sp who="LE-SACRIFICATEUR"><hstage><speaker>LE SACRIFICATEUR</speaker>.</hstage>
 	<l id="1978">Tournez-vous vers l’Autel et ployez les genoux.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="1979">Ah ! Mélie à ce coup songe à ton entreprise.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Un Soldat, Le Roi.</head>
-<sp who="LE-SOLDAT"><speaker>LE SOLDAT.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Un Soldat, Le Roi.</cast>
+<sp who="LE-SOLDAT"><hstage><speaker>LE SOLDAT</speaker>.</hstage>
 	<l id="1980" part="i">Ah ! Seigneur sauvez-vous.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1980" part="m">À Dieux.</l>
 </sp>
-<sp who="LE-SOLDAT"><speaker>LE SOLDAT.</speaker>
+<sp who="LE-SOLDAT"><hstage><speaker>LE SOLDAT</speaker>.</hstage>
 	<l id="1980" part="f">La ville est prise.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1981" part="i">La ville.</l>
 </sp>
-<sp who="LE-SOLDAT"><speaker>LE SOLDAT.</speaker>
+<sp who="LE-SOLDAT"><hstage><speaker>LE SOLDAT</speaker>.</hstage>
 	<l id="1981" part="f">L’ennemi la tient en son pouvoir.</l>
 	<l id="1982">Et la prise d’assaut malgré notre devoir,</l>
 	<l id="1983">Tous vos Soldats sont morts, vous le pouvez comprendre,</l>
@@ -2616,7 +2616,7 @@
 	<l id="1992">Au pied de ces Autels attend qu’on lui pardonne</l>
 	<l id="1993">Elle l’espère en vain de leur brutalité.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1994">Que dois-je faire ô Dieux ! En cette extrémité,</l>
 	<l id="1995">Je me jette à vos pieds, j’implore votre grâce.</l>
 	<l id="1996">Hélas ! Inspirez-moi ce qu’il faut que je fasse :</l>
@@ -2627,8 +2627,8 @@
 	<l id="2001">Où sera mon asile ; ô Dieux ! Je suis perdu.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Flamidore, Clarionte, Mélie, Rosimène.</head>
-<sp who="FLAMIDORE"><speaker>FLAMIDORE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Flamidore, Clarionte, Mélie, Rosimène.</cast>
+<sp who="FLAMIDORE"><hstage><speaker>FLAMIDORE</speaker>.</hstage>
 	<l id="2002">Vois que ce peuple vil ne s’est pas défendu,</l>
 	<l id="2003">Ses crimes font horreur, il faut que tout périsse,</l>
 	<l id="2004">Et que je fasse aux Dieux un plus grand sacrifice ;</l>
@@ -2640,25 +2640,25 @@
 	<l id="2010">Le Ciel juste vengeur me permet de le voir.</l>
 	<l id="2011" part="i">Ah ! Mon frère c’est vous.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="2011" part="f">Mon frère Flamidore.</l>
 	<l id="2012">Donc le Ciel nous permet de nous revoir encore !</l>
 </sp>
-<sp who="FLAMIDORE"><speaker>FLAMIDORE.</speaker>
+<sp who="FLAMIDORE"><hstage><speaker>FLAMIDORE</speaker>.</hstage>
 	<l id="2013">Ah ! Laisse cet office il n’appartient qu’à moi,</l>
 	<l id="2014">Cependant prends le soin de retenir le Roi.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="2015">La frayeur et l’espoir me tiennent en balance.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="2016">Cet étrange succès remet mon espérance.</l>
 </sp>
-<sp who="FLAMIDORE"><speaker>FLAMIDORE.</speaker>
+<sp who="FLAMIDORE"><hstage><speaker>FLAMIDORE</speaker>.</hstage>
 	<l id="2017">Puisque vous le pouvez libre de ces liens</l>
 	<l id="2018">Par vos embrassements récompensez les miens.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="2019">Dites que par ma mort il faut que je m’acquitte :</l>
 	<l id="2020">Mais mon frère à ce coup souffrez que je vous quitte</l>
 	<l id="2021">Mon corps est hors des fers, mais mon cœur ne l’est pas ;</l>
@@ -2666,39 +2666,39 @@
 	<l id="2023">Ne vous découvrent point que vous voyez ma Reine,</l>
 	<l id="2024">Oui mon frère en un mot voilà ma Rosimène.</l>
 </sp>
-<sp who="FLAMIDORE"><speaker>FLAMIDORE.</speaker>
+<sp who="FLAMIDORE"><hstage><speaker>FLAMIDORE</speaker>.</hstage>
 	<l id="2025">Celui de qui j’appris votre captivité</l>
 	<l id="2026" part="i">Nous assura sa mort.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="2026" part="f">Il en avait douté :</l>
 	<l id="2027">Mais enfin vous voyez sa véritable image.</l>
 </sp>
-<sp who="FLAMIDORE"><speaker>FLAMIDORE.</speaker>
+<sp who="FLAMIDORE"><hstage><speaker>FLAMIDORE</speaker>.</hstage>
 	<l id="2028">Ah ! (Madame) à genoux je vous dois rendre hommage.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="2029">Et je dois beaucoup plus à mon libérateur,</l>
 	<l id="2030">Je vous dois un salut dont vous êtes l’auteur,</l>
 	<l id="2031">Vous nous rendez le jour par un si bon office.</l>
 </sp>
-<sp who="FLAMIDORE"><speaker>FLAMIDORE.</speaker>
+<sp who="FLAMIDORE"><hstage><speaker>FLAMIDORE</speaker>.</hstage>
 	<l id="2032">Ne faites point de cas de si peu de service.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="2033">Enfin le Ciel plus doux accorde à mon amour,</l>
 	<l id="2034">Que pour moi seulement tu conserves le jour.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="2035">C’est de notre amitié la juste récompense,</l>
 <note>Il semble manquer un pied au vers suivant, car une syllabe muette ne peut se trouver à la césure à moins d’être élidée, on pourrait mettre un ô et avoir ainsi : Et je t’embrasse encore ô mon contre espérance. D’autre part Rosimène traiterait Clarionte de contre espérance, de quelqu’un qui est opposé à son espérance, car il s’est toujours opposé à son espérance de mourir. C’est un peu difficile.</note>
 	<l id="2036">Et je t’embrasse encore mon contre espérance.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="2037">Mais mon frère quel heur vous a conduit ici,</l>
 	<l id="2038">Éclaircissez ce doute, il me tient en souci.</l>
 </sp>
-<sp who="FLAMIDORE"><speaker>FLAMIDORE.</speaker>
+<sp who="FLAMIDORE"><hstage><speaker>FLAMIDORE</speaker>.</hstage>
 	<l id="2039">Votre bon Écuyer présent à votre prise</l>
 	<l id="2040">A conduit à bon port toute cette entreprise,</l>
 <note>Inutil : Quelques Auteurs, et le P. Sicard entre autres, ont écrit inutil au masc. « Ces moyens ont tous été inutils ». C’est contre l’usage, au moins actuel. [FC] </note>
@@ -2706,17 +2706,17 @@
 	<l id="2042">Il rompit ses prisons, il se rendit à nous</l>
 	<l id="2043" part="i">Nous sûmes tout de lui.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="2043" part="f">Dieux ! Je le vois paraître.</l>
 </sp>
-<sp who="GÉRONTE"><speaker>GÉRONTE.</speaker>
+<sp who="GÉRONTE"><hstage><speaker>GÉRONTE</speaker>.</hstage>
 	<l id="2044">Mon Prince et mon Seigneur me peut-il méconnaître,</l>
 	<l id="2045">Ou s’il s’est dépouillé de sa rare bonté.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="2046">Non je me souviens trop de ta fidélité.</l>
 </sp>
-<sp who="FLAMIDORE"><speaker>FLAMIDORE.</speaker>
+<sp who="FLAMIDORE"><hstage><speaker>FLAMIDORE</speaker>.</hstage>
 	<l id="2047">Maintenant que le Ciel d’une main favorable</l>
 	<l id="2048">A mené nos vaisseaux dans cette Île exécrable,</l>
 	<l id="2049">Et que dans ce dessein nous avons réussi</l>
@@ -2736,34 +2736,34 @@
 	<l id="2063">Aussi n’attends de moi de plus digne salaire,</l>
 	<l id="2064">Que celui que ta rage apprêtait à mon frère ?</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="2065">Quoique votre pouvoir soit absolu sur moi,</l>
 	<l id="2066">Parmi tous ses malheurs considérez un Roi.</l>
 </sp>
-<sp who="FLAMIDORE"><speaker>FLAMIDORE.</speaker>
+<sp who="FLAMIDORE"><hstage><speaker>FLAMIDORE</speaker>.</hstage>
 	<l id="2067">Cet égard eut sur vous une extrême puissance,</l>
 	<l id="2068">Et mon frère éprouva cette rare clémence :</l>
 	<l id="2069">Mais ne vous plaignez point quand vous serez traité</l>
 	<l id="2070">De la même façon que mon frère eut été.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="2071">Si le ressentiment n’a chassé de votre âme</l>
 	<l id="2072" part="i">Le premier souvenir.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="2072" part="f">Que dites-vous (Madame.)</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="2073">Le sort qui maintenant nous a soumis à vous,</l>
 	<l id="2074">Veut que pour vous prier je me mette à genoux,</l>
 	<l id="2075">Puisque je ne suis plus ce que je voulais être.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="2076">Non, non, votre obligé ne vous peut méconnaître</l>
 	<l id="2077">Je suis toujours le même, et lors que j’oublierai :</l>
 	<l id="2078" part="i">Mais plutôt levez-vous.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="2078" part="f">Je vous obéirai.</l>
 	<l id="2079">Si vous ne saviez trop que je vois sans envie,</l>
 	<l id="2080">Le changement heureux d’une si chère vie,</l>
@@ -2789,7 +2789,7 @@
 	<l id="2100">Oui gardez un pays que la guerre vous donne :</l>
 	<l id="2101" part="i">Mais donnez-moi sa vie.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="2101" part="f">Ah (Madame) cessez</l>
 	<l id="2102">Tant d’obligations m’y contraignent assez,</l>
 	<l id="2103">Quand vous ne m’auriez fait une telle demande,</l>
@@ -2801,24 +2801,24 @@
 	<l id="2109">Je lui rends tous ses droits, et je n’y prétends rien,</l>
 	<l id="2110">Et je crois que mon frère y consentira bien.</l>
 </sp>
-<sp who="FLAMIDORE"><speaker>FLAMIDORE.</speaker>
+<sp who="FLAMIDORE"><hstage><speaker>FLAMIDORE</speaker>.</hstage>
 	<l id="2111">Dessus mes volontés la vôtre est la maîtresse :</l>
 	<l id="2112">Allez mettre la paix et que le meurtre cesse.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="2113">Ô Dieux ! Pouvais-je attendre un traitement si doux,</l>
 	<l id="2114">Je tiendrai donc la vie et le Sceptre de vous.</l>
 	<l id="2115" part="i">De vous que j’ai voulu.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="2115" part="f">Que le passé s’oublie.</l>
 	<l id="2116">Et que dorénavant une amitié nous lie :</l>
 	<l id="2117" part="i">Mais (Madame.)</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="2117" part="f">Ordonnez je vous obéirai.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="2118">Puisque vous le voulez (Madame) j’oserai</l>
 	<l id="2119">Vous voyez que le Ciel m’engage pour un autre ;</l>
 	<l id="2120">Et quoique vos faveurs m’aient déjà rendu vôtre,</l>
@@ -2830,28 +2830,28 @@
 	<l id="2126">Souffrez que de ma main je vous donne un époux,</l>
 	<l id="2127">Et que pour cet ingrat je vous offre son frère.</l>
 </sp>
-<sp who="MÉLIE"><speaker>MÉLIE.</speaker>
+<sp who="MÉLIE"><hstage><speaker>MÉLIE</speaker>.</hstage>
 	<l id="2128">Ma volonté dépend de celle de mon père,</l>
 	<l id="2129">Et pour moi je l’accepte avec autant d’honneur</l>
 	<l id="2130">Que son affection me comble de bonheur.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="2131">Je consens à ce bien que le destin m’envoie.</l>
 </sp>
-<sp who="FLAMIDORE"><speaker>FLAMIDORE.</speaker>
+<sp who="FLAMIDORE"><hstage><speaker>FLAMIDORE</speaker>.</hstage>
 	<l id="2132">Et moi le recevant je dois mourir de joie.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="2133">Ah (Madame) agréez que mes embrassements</l>
 	<l id="2134">Vous témoignent l’excès de mes contentements.</l>
 </sp>
-<sp who="LE-SACRIFICATEUR"><speaker>LE SACRIFICATEUR.</speaker>
+<sp who="LE-SACRIFICATEUR"><hstage><speaker>LE SACRIFICATEUR</speaker>.</hstage>
 	<l id="2135">Désormais vos bonheurs n’auront aucun obstacle,</l>
 	<l id="2136">Et l’accomplissement de ce dernier oracle</l>
 	<l id="2137">Promet à ce pays un éternel repos :</l>
 	<l id="2138">Voyez-en le succès, ce sont ses propres mots.</l>
 </sp>
-<sp who="ORACLE"><speaker>ORACLE.</speaker>
+<sp who="ORACLE"><hstage><speaker>ORACLE</speaker>.</hstage>
 	<l id="2139">Lorsque pour expier vos crimes</l>
 	<l id="2140">On verra trois belles victimes</l>
 	<l id="2141">Disputer un honneur dont la mort est le prix,</l>
@@ -2865,48 +2865,48 @@
 	<l id="2149">Et le Ciel qui consent à vos prospérités</l>
 	<l id="2150">Vous fera plus de biens que vous n’en souhaitez.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="2151">En effet si l’on peut sonder dans leurs mystères,</l>
 	<l id="2152">On ne saurait douter de paroles si claires.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Le Roi, Soldat, Clarionte, Fidamant.</head>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Le Roi, Soldat, Clarionte, Fidamant.</cast>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="2153" part="i">Voilà ce prisonnier.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="2153" part="f">Ah Soldats inhumains.</l>
 	<l id="2154">Quoi ! Vous donnez des fers à ces Royales mains,</l>
 	<l id="2155">Est-ce de la vertu la juste récompense :</l>
 	<l id="2156">Mais nous pourrez-vous bien pardonner cette offense.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="2157">Pour ne le ressentir je reçois trop de bien :</l>
 	<l id="2158">Mais quel étonnement peut égaler le mien.</l>
 	<l id="2159" part="i">Dieu ! Le grand changement.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="2159" part="f">Voyez encor ma Reine.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="2160" part="i">Ah ! (Madame ) est-ce vous.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="2160" part="f">Oui c’est ma Rosimène.</l>
 	<l id="2161" part="i">Quoi ! Vous la connaissez ?</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="2161" part="f">Vous saurez tout un jour.</l>
 	<l id="2162">Enfin vous pouvez voir l’effet de mon amour,</l>
 	<l id="2163" part="i">Et de votre rapport.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="2163" part="f">En vain je vous écoute.</l>
 </sp>
-<sp who="ROSIMÈNE"><speaker>ROSIMÈNE.</speaker>
+<sp who="ROSIMÈNE"><hstage><speaker>ROSIMÈNE</speaker>.</hstage>
 	<l id="2164">Je vous retirerai l’un et l’autre de doute.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="2165">Vous serez à loisir éclaircis sur ce point :</l>
 	<l id="2166">Mais que l’étonnement ne nous empêche point,</l>
 	<l id="2167">De connaître son frère, et maintenant le vôtre,</l>
@@ -2914,43 +2914,43 @@
 	<l id="2169">Ils me rendent mes biens, voyez quelle douceur,</l>
 	<l id="2170">Et mêmes ce grand Prince accepte votre sœur</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="2171">Son mérite m’oblige à la reconnaissance</l>
 	<l id="2172">De l’honneur qu’il nous fait d’une telle alliance,</l>
 	<l id="2173">Et leurs rares bontés qui nous laissent un bien,</l>
 	<l id="2174">Que par nos cruautés ils méritaient si bien.</l>
 </sp>
-<sp who="FLAMIDORE"><speaker>FLAMIDORE.</speaker>
+<sp who="FLAMIDORE"><hstage><speaker>FLAMIDORE</speaker>.</hstage>
 	<l id="2175">N’en parlons plus de grâce et recevez un frère,</l>
 	<l id="2176">Qui vient jusqu’à la mort vous servit et vous plaire.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="2177">De si puissants bienfaits dont je me sens lié,</l>
 	<l id="2178">Me feraient désirer d’être son allié,</l>
 	<l id="2179">Plût aux Dieux qu’il se peut, et que ma sœur Mélite,</l>
 	<l id="2180">Pour m’obtenir ce bien eut assez de mérite.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="2181">Si vous m’en jugez digne après un si grand bien,</l>
 	<l id="2182">Pour être trop heureux je n’espère plus rien.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="2183">Mon frère elle est à vous recevez ma promesse.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="2184">J’accepte pour mon fils une belle Princesse.</l>
 </sp>
-<sp who="FIDAMANT"><speaker>FIDAMANT.</speaker>
+<sp who="FIDAMANT"><hstage><speaker>FIDAMANT</speaker>.</hstage>
 	<l id="2185">J’en suis si glorieux que je me méconnais,</l>
 	<l id="2186">Déjà puisqu’il vous plaît je lui donne ma foi.</l>
 </sp>
-<sp who="CLARIONTE"><speaker>CLARIONTE.</speaker>
+<sp who="CLARIONTE"><hstage><speaker>CLARIONTE</speaker>.</hstage>
 	<l id="2187">Mais allons apaiser les troubles de la ville,</l>
 	<l id="2188">Et redonner la paix au reste de cette Île,</l>
 	<l id="2189">Puis nous nous remettrons à la merci des eaux,</l>
 	<l id="2190">Et vous et votre sœur viendrez dans nos vaisseaux.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="2191">Que la cruelle loi pour jamais s’abolisse,</l>
 	<l id="2192">Et que l’on fasse aux Dieux un autre Sacrifice.</l>
 </sp>

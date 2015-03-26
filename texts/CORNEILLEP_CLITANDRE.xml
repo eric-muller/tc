@@ -33,8 +33,8 @@
 		<docDate value="1682">M. DC. LXXXII. AVEC PRIVILÈGE DU ROI.</docDate>
 		<docAuthor id="CORNEILLE, Pierre" bio="corneillep">Pierre Corneille</docAuthor>
 		<docImprint>
-			<privilege id=""><head/>
-			<p/>
+			<privilege id=""><head></head>
+			<p></p>
 			</privilege>
 			<printer id="TARGA">À PARIS, chez Guillaume de Luyne, libaire jurén au Palais, en la Galerie des Merciers, sous la montée de la Cour des Aides, à la Justice.</printer>
 		</docImprint>
@@ -75,7 +75,7 @@
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIERE.</head>
-<sp who="CALISTE"><speaker>CALISTE, seul.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>, seul.</hstage>
 	<l id="1">N’en doute plus, mon cœur, un amant hypocrite,</l>
 	<l id="2">Feignant de m’adorer, brûle pour Hippolyte :</l>
 	<l id="3">Dorise m’en a dit le secret rendez-vous</l>
@@ -124,8 +124,8 @@
 	<l id="46">Que tu puisses l’entendre à travers cette porte.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Rosidor, Lysarque.</head>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Rosidor, Lysarque.</cast>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="47">Ce devoir, ou plutôt cette importunité,</l>
 	<l id="48">Au lieu de m’assurer de ta fidélité,</l>
 	<l id="49">Marque trop clairement ton peu d’obéissance.</l>
@@ -142,7 +142,7 @@
 <note type="L">Inclination : Se dit aussi de l’amour, du penchant, de l’attachement qu’on a pour quelqu’un. [F]</note>
 	<l id="60">Laisse-moi suivre ici mon inclination.</l>
 </sp>
-<sp who="LYSARQUE"><speaker>LYSARQUE.</speaker>
+<sp who="LYSARQUE"><hstage><speaker>LYSARQUE</speaker>.</hstage>
 	<l id="61">Cette inclination, qui jusqu’ici vous mène,</l>
 	<l id="62">À me la déguiser vous donne trop de peine.</l>
 	<l id="63">Il ne faut point, monsieur, beaucoup l’examiner :</l>
@@ -150,7 +150,7 @@
 	<l id="65">Qu’en même temps que vous s’échappe quelque dame...</l>
 	<l id="66" part="i">Vous m’entendez assez.</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="66" part="f">Juge mieux de ma flamme,</l>
 	<l id="67">Et ne présume point que je manque de foi</l>
 	<l id="68">À celle que j’adore, et qui brûle pour moi</l>
@@ -160,43 +160,43 @@
 	<l id="72">Tant s’en faut qu’en ces bois il attire mes pas :</l>
 	<l id="73">J’y vais... Mais pourrais-tu le savoir et le taire ?</l>
 </sp>
-<sp who="LYSARQUE"><speaker>LYSARQUE.</speaker>
+<sp who="LYSARQUE"><hstage><speaker>LYSARQUE</speaker>.</hstage>
 	<l id="74">Qu’ai-je fait qui vous porte à craindre le contraire ?</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="75">Tu vas apprendre tout ; mais aussi, l’ayant su,</l>
 	<l id="76">Avise à ta retraite. Hier un cartel reçu</l>
 	<l id="77" part="i">De la part d’un rival...</l>
 </sp>
-<sp who="LYSARQUE"><speaker>LYSARQUE.</speaker>
+<sp who="LYSARQUE"><hstage><speaker>LYSARQUE</speaker>.</hstage>
 	<l id="77" part="m">Vous le nommez ?</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="77" part="f">Clitandre.</l>
 	<l id="78">Au pied du grand rocher il me doit seul attendre ;</l>
 	<l id="79">Et là, l’épée au poing, nous verrons qui des deux</l>
 	<l id="80">Mérite d’embraser Caliste de ses feux.</l>
 </sp>
-<sp who="LYSARQUE"><speaker>LYSARQUE.</speaker>
+<sp who="LYSARQUE"><hstage><speaker>LYSARQUE</speaker>.</hstage>
 	<l id="81" part="i">De sorte qu’un second...</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="81" part="f">Sans me faire une offense,</l>
 	<l id="82">Ne peut se présenter à prendre ma défense :</l>
 	<l id="83">Nous devons seul à seul vider notre débat.</l>
 </sp>
-<sp who="LYSARQUE"><speaker>LYSARQUE.</speaker>
+<sp who="LYSARQUE"><hstage><speaker>LYSARQUE</speaker>.</hstage>
 	<l id="84">Ne pensez pas sans moi terminer ce combat :</l>
 	<l id="85">L’écuyer de Clitandre est homme de courage ;</l>
 	<l id="86">Il sera trop heureux que mon défi l’engage</l>
 	<l id="87">À s’acquitter vers lui d’un semblable devoir,</l>
 	<l id="88">Et je vais de ce pas y faire mon pouvoir.</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="89">Ta volonté suffit ; va-t’en donc et désiste</l>
 	<l id="90">De plus m’offrir une aide à mériter Caliste.</l>
 </sp>
-<sp who="LYSARQUE"><speaker>LYSARQUE est seul.</speaker>
+<sp who="LYSARQUE"><hstage><speaker>LYSARQUE</speaker> est seul.</hstage>
 	<l id="91">Vous obéir ici me coûterait trop cher,</l>
 	<l id="92">Et je serais honteux qu’on me pût reprocher</l>
 	<l id="93">D’avoir su le sujet d’une telle sortie,</l>
@@ -204,7 +204,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="CALISTE"><speaker>CALISTE, seul.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>, seul.</hstage>
 	<l id="95">Qu’il s’en est bien défait ! Qu’avec dextérité</l>
 	<l id="96">Le fourbe se prévaut de son autorité !</l>
 	<l id="97">Qu’il trouve un beau prétexte en ses flammes éteintes !</l>
@@ -215,8 +215,8 @@
 	<l id="102">Le cartel amoureux de sa flamme nouvelle.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Caliste, Dorise.</head>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Caliste, Dorise.</cast>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="103">Je n’en puis plus douter, mon feu désabusé</l>
 	<l id="104">Ne tient plus le parti de ce cœur déguisé.</l>
 	<l id="105">Allons, ma chère sœur, allons à la vengeance ;</l>
@@ -232,7 +232,7 @@
 	<l id="115">Et comme de fureur tous mes sens animés</l>
 	<l id="116">Menacent les appas qui les avaient charmés ?</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="117">Modère ces bouillons d’une âme colérée,</l>
 	<l id="118">Ils sont trop violents pour être de durée ;</l>
 	<l id="119">Pour faire quelque mal, c’est frapper de trop loin.</l>
@@ -241,14 +241,14 @@
 	<l id="122">Ses résolutions en deviennent plus molles :</l>
 	<l id="123">En lui donnant de l’air, son ardeur s’alentit.</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="124">Ce n’est que faute d’air que le feu s’amortit.</l>
 	<l id="125">Allons, et tu verras qu’ainsi le mien s’allume,</l>
 	<l id="126">Que ma douleur aigrie en a plus d’amertume,</l>
 	<l id="127">Et qu’ainsi mon esprit ne fait que s’exciter</l>
 	<l id="128">À ce que ma colère a droit d’exécuter.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE, seule.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>, seule.</hstage>
 	<l id="129">Si ma ruse est enfin de son effet suivie,</l>
 	<l id="130">Cette aveugle chaleur te va coûter la vie :</l>
 	<l id="131">Un fer caché me donne en ces lieux écartés</l>
@@ -259,8 +259,8 @@
 	<l id="136">J’en punirai l’objet qui m’en fait dédaigner.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Pymante, Géronte, sortants d’une grotte, déguisés en paysans.</head>
-<sp who="GERONTE"><speaker>GÉRONTE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Pymante, Géronte, sortants d’une grotte, déguisés en paysans.</cast>
+<sp who="GERONTE"><hstage><speaker>GÉRONTE</speaker>.</hstage>
 	<l id="137">En ce déguisement on ne peut nous connaître,</l>
 	<l id="138">Et sans doute bientôt le jour qui vient de naître</l>
 	<l id="139">Conduira Rosidor, séduit d’un faux cartel,</l>
@@ -273,12 +273,12 @@
 	<l id="146">Qui fait qu’elle vous traite avec tant d’injustice.</l>
 	<l id="147" part="i">Vos rares qualités...</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="147" part="f">Au lieu de me flatter,</l>
 	<l id="148">Voyons si le projet ne saurait avorter,</l>
 	<l id="149" part="i">Si la supercherie...</l>
 </sp>
-<sp who="GERONTE"><speaker>GÉRONTE.</speaker>
+<sp who="GERONTE"><hstage><speaker>GÉRONTE</speaker>.</hstage>
 	<l id="149" part="f">Elle est si bien tissue,</l>
 	<l id="150">Qu’il faut manquer de sens pour douter de l’issue.</l>
 	<l id="151">Clitandre aime Caliste, et comme son rival</l>
@@ -288,31 +288,31 @@
 	<l id="155">Si bien que ce cartel, quoique tout de ma main,</l>
 	<l id="156">À son dépit jaloux s’imputera soudain.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="157">Que ton subtil esprit a de grands avantages !</l>
 	<l id="158" part="i">Mais le nom du porteur ?</l>
 </sp>
-<sp who="GERONTE"><speaker>GÉRONTE.</speaker>
+<sp who="GERONTE"><hstage><speaker>GÉRONTE</speaker>.</hstage>
 	<l id="158" part="f">Lycaste, un de ses pages.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="159">Celui qui fait le guet auprès du rendez-vous ?</l>
 </sp>
-<sp who="GERONTE"><speaker>GÉRONTE.</speaker>
+<sp who="GERONTE"><hstage><speaker>GÉRONTE</speaker>.</hstage>
 	<l id="160">Lui-même, et le voici qui s’avance vers nous :</l>
 	<l id="161">À force de courir il s’est mis hors d’haleine.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Pymante, Géronte, Lycaste, aussi déguisé en paysan.</head>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Pymante, Géronte, Lycaste, aussi déguisé en paysan.</cast>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="162" part="i">Eh bien, est-il venu ?</l>
 </sp>
-<sp who="LYCASTE"><speaker>LYCASTE.</speaker>
+<sp who="LYCASTE"><hstage><speaker>LYCASTE</speaker>.</hstage>
 	<l id="162" part="f">N’en soyez plus en peine ;</l>
 	<l id="163">Il est où vous savez, et tout bouffi d’orgueil</l>
 	<l id="164">Il n’y pense à rien moins qu’à son proche cercueil.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="165">Ne perdons point de temps. Nos masques, nos épées !</l>
 <stage>Lycaste les va quérir dans le grotte dont ils sont sortis.</stage>
 	<l id="166">Qu’il me tarde déjà que, dans son sang trempées,</l>
@@ -321,7 +321,7 @@
 	<l id="169">Ah ! Qu’il va bien trouver d’autres gens que Clitandre !</l>
 	<l id="170">Mais pourquoi ces habits ? Qui te les fait reprendre ?</l>
 </sp>
-<sp who="LYCASTE"><speaker>LYCASTE, leur présente à chacun un masque et une épée et porte leurs habits.</speaker>
+<sp who="LYCASTE"><hstage><speaker>LYCASTE</speaker>, leur présente à chacun un masque et une épée et porte leurs habits.</hstage>
 	<l id="171">Pour notre sûreté, portons-les avec nous,</l>
 	<l id="172">De peur que, cependant que nous serons aux coups,</l>
 	<l id="173">Quelque maraud, conduit par sa bonne aventure,</l>
@@ -329,111 +329,111 @@
 	<l id="175">Quand il faudra donner, sans les perdre des yeux,</l>
 	<l id="176">Au pied du premier arbre ils seront beaucoup mieux.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="177">Prends-en donc même soin après la chose faite.</l>
 </sp>
-<sp who="LYCASTE"><speaker>LYCASTE.</speaker>
+<sp who="LYCASTE"><hstage><speaker>LYCASTE</speaker>.</hstage>
 	<l id="178">Ne craignez pas sans eux que je fasse retraite.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="179">Sus donc ! Chacun déjà devrait être masqué.</l>
 	<l id="180">Allons, qu’il tombe mort aussitôt qu’attaqué.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCENE VII. Cléon, Lysarque.</head>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<div2 type="scene" n="7"><head>SCENE VII.</head><cast>Cléon, Lysarque.</cast>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="181">Réserve à d’autres temps cette ardeur de courage</l>
 	<l id="182">Qui rend de ta valeur un si grand témoignage.</l>
 	<l id="183">Ce duel que tu dis ne se peut concevoir.</l>
 	<l id="184">Tu parles de Clitandre, et je viens de le voir</l>
 	<l id="185">Que notre jeune prince enlevait à la chasse.</l>
 </sp>
-<sp who="LYSARQUE"><speaker>LYSARQUE.</speaker>
+<sp who="LYSARQUE"><hstage><speaker>LYSARQUE</speaker>.</hstage>
 	<l id="186" part="i">Tu les as vus passer ?</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="186" part="f">Par cette même place.</l>
 	<l id="187">Sans doute que ton maître a quelque occasion</l>
 	<l id="188">Qui le fait t’éblouir par cette illusion.</l>
 </sp>
-<sp who="LYSARQUE"><speaker>LYSARQUE.</speaker>
+<sp who="LYSARQUE"><hstage><speaker>LYSARQUE</speaker>.</hstage>
 	<l id="189">Non, il parlait du cœur ; je connais sa franchise.</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="190">S’il est ainsi, je crains que par quelque surprise</l>
 	<l id="191">Ce généreux guerrier, sous le nombre abattu,</l>
 	<l id="192">Ne cède aux envieux que lui fait sa vertu.</l>
 </sp>
-<sp who="LYSARQUE"><speaker>LYSARQUE.</speaker>
+<sp who="LYSARQUE"><hstage><speaker>LYSARQUE</speaker>.</hstage>
 	<l id="193">À présent il n’a point d’ennemis que je sache ;</l>
 	<l id="194">Mais quelque événement que le destin nous cache,</l>
 	<l id="195">Si tu veux m’obliger, viens de grâce avec moi,</l>
 	<l id="196">Que nous donnions ensemble avis de tout au roi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Caliste, Dorise.</head>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Caliste, Dorise.</cast>
 <stage>Casliste cependant que Dorise s’arrête à chercher derrière un buisson.</stage>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="197">Ma sœur, l’heure s’avance, et nous serons à peine,</l>
 	<l id="198">Si nous ne retournons, au lever de la reine.</l>
 	<l id="199">Je ne vois point mon traître, Hippolyte non plus.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE tirant une épée de derrière ce buisson et saisissant Caliste par le bras.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker> tirant une épée de derrière ce buisson et saisissant Caliste par le bras.</hstage>
 	<l id="200">Voici qui va trancher tes soucis superflus ;</l>
 	<l id="201">Voici dont je vais rendre, aux dépens de ta vie,</l>
 	<l id="202">Et ma flamme vengée, et ma haine assouvie.</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="203">Tout beau, tout beau, ma sœur, tu veux m’épouvanter ;</l>
 	<l id="204">Mais je te connais trop pour m’en inquiéter.</l>
 	<l id="205">Laisse la feinte à part, et mettons, je te prie,</l>
 	<l id="206">À les trouver bientôt toute notre industrie.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="207">Va, va, ne songe plus à leurs fausses amours,</l>
 	<l id="208">Dont le récit n’était qu’une embûche à tes jours :</l>
 	<l id="209">Rosidor t’est fidèle, et cette feinte amante</l>
 	<l id="210">Brûle aussi peu pour lui que je fais pour Pymante.</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="211">Déloyale, ainsi donc ton courage inhumain...</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="212">Ces injures en l’air n’arrêtent point ma main.</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="213">Le reproche honteux d’une action si noire...</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="214">Qui se venge en secret, en secret en fait gloire.</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="215">T’ai-je donc pu, ma sœur, déplaire en quelque point ?</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="216">Oui, puisque Rosidor t’aime et ne m’aime point ;</l>
 	<l id="217">C’est assez m’offenser que d’être ma rivale.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Rosidor, Pymante, Géronte, Lycaste, Caliste, Dorise.</head>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>Rosidor, Pymante, Géronte, Lycaste, Caliste, Dorise.</cast>
 <stage>Comme Dorise est prête de tuer Caliste, un bruit entendu lui fait relever son épée, et Rosidor paraît tout en sang poursuivi par ses trois assassins masqués. En entrant, il tue Lycaste, et retirant son épée elle se rompt contre la branche d’un arbre. En cette extrémité il voit celle que tient Dorise, et sans la reconnaître il s’en saisit, et passe tout d’un temps le tronçon qui lui restait de la sienne en la main gauche, et se défend ainsi contre Pymante et Géronte, dont il tue le dernier et met l’autre en fuite.</stage>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="218">Meurs, brigand. Ah ! Malheur ! Cette branche fatale</l>
 	<l id="219">A rompu mon épée. Assassins... Toutefois,</l>
 	<l id="220">J’ai de quoi me défendre une seconde fois.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE s’enfuyant.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker> s’enfuyant.</hstage>
 	<l id="221">N’est-ce pas Rosidor qui m’arrache les armes ?</l>
 	<l id="222">Ah ! Qu’il me va causer de périls et de larmes !</l>
 	<l id="223">Fuis, Dorise, et fuyant laisse-toi reprocher</l>
 	<l id="224">Que tu fuis aujourd’hui ce qui t’est le plus cher.</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="225">C’est lui-même de vrai. Rosidor, ah ! Je pâme !</l>
 	<l id="226">Et la peur de sa mort ne me laisse point d’âme.</l>
 	<l id="227" part="i">Adieu, mon cher espoir.</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR, après avoir tué Géronte.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>, après avoir tué Géronte.</hstage>
 	<l id="227" part="f">Celui-ci dépêché,</l>
 	<l id="228">C’est de toi maintenant que j’aurai bon marché.</l>
 	<l id="229">Nous sommes seul à seul. Quoi ! Ton peu d’assurance</l>
@@ -504,23 +504,23 @@
 	<l id="294">L’amour lui sait donner la moitié de ma vie,</l>
 	<l id="295">Qu’une âme désormais suffit à deux amants.</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="296">Hélas ! Qui me rappelle à de nouveaux tourments ?</l>
 	<l id="297">Si Rosidor n’est-plus, pourquoi reviens-je au monde ?</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="298">Ô merveilleux effet d’une amour sans seconde !</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="299">Exécrable assassin, qui rougis de son sang,</l>
 	<l id="300">Dépêche comme à lui de me percer le flanc,</l>
 	<l id="301" part="i">Prends de lui ce qui reste.</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="301" part="f">Adorable cruelle,</l>
 	<l id="302">Est-ce ainsi qu’on reçoit un amant si fidèle ?</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="303">Ne m’en fais point un crime : encore pleine d’effroi,</l>
 	<l id="304">Je ne t’ai méconnu qu’en songeant trop à toi.</l>
 	<l id="305">J’avais si bien gravé là dedans ton image,</l>
@@ -530,23 +530,23 @@
 	<l id="309">Mais quel secours propice a trompé mes alarmes ?</l>
 	<l id="310">Contre tant d’assassins qui t’a prêté des armes ?</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="311">Toi-même, qui t’a mise à telle heure en ces lieux,</l>
 	<l id="312">Où je te vois mourir et revivre à mes yeux ?</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="313">Quand l’amour une fois règne sur un courage...</l>
 	<l id="314">Mais tâchons de gagner jusqu’au premier village,</l>
 	<l id="315">Où ces bouillons de sang se puissent arrêter ;</l>
 	<l id="316">Là j’aurai tout loisir de te le raconter,</l>
 	<l id="317">Aux charges qu’à mon tour aussi l’on m’entretienne.</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="318">Allons ; ma volonté n’a de loi que la tienne ;</l>
 	<l id="319">Et l’amour, par tes yeux devenu tout-puissant,</l>
 	<l id="320">Rend déjà la vigueur à mon corps languissant.</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="321">Il donne en même temps une aide à ta faiblesse,</l>
 	<l id="322">Puisqu’il fait que la mienne auprès de toi me laisse,</l>
 	<l id="323">Et qu’en dépit du sort ta Caliste aujourd’hui</l>
@@ -556,7 +556,7 @@
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="PYMANTE"><speaker>PYMANTE, masqué.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>, masqué.</hstage>
 	<l id="325">Destins, qui réglez tout au gré de vos caprices,</l>
 	<l id="326">Sur moi donc tout à coup fondent vos injustices,</l>
 	<l id="327">Et trouvent à leurs traits si longtemps retenus,</l>
@@ -631,45 +631,45 @@
 	<l id="395" part="i">Tant que...</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Lysarque, Pymante, Archers.</head>
-<sp who="LYSARQUE"><speaker>LYSARQUE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Lysarque, Pymante, Archers.</cast>
+<sp who="LYSARQUE"><hstage><speaker>LYSARQUE</speaker>.</hstage>
 	<l id="395" part="m">Mon grand ami !</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="395" part="m">Monsieur ?</l>
 </sp>
-<sp who="LYSARQUE"><speaker>LYSARQUE.</speaker>
+<sp who="LYSARQUE"><hstage><speaker>LYSARQUE</speaker>.</hstage>
 	<l id="395" part="f">Viens çà, dis-nous,</l>
 	<l id="396">N’as-tu point ici vu deux cavaliers aux coups ?</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="397" part="i">Non, monsieur.</l>
 </sp>
-<sp who="LYSARQUE"><speaker>LYSARQUE.</speaker>
+<sp who="LYSARQUE"><hstage><speaker>LYSARQUE</speaker>.</hstage>
 	<l id="397" part="f">Ou l’un d’eux se sauver à la fuite ?</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="398" part="i">Non, monsieur.</l>
 </sp>
-<sp who="LYSARQUE"><speaker>LYSARQUE.</speaker>
+<sp who="LYSARQUE"><hstage><speaker>LYSARQUE</speaker>.</hstage>
 	<l id="398" part="f">Ni passer dedans ces bois sans suite ?</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="399">Attendez, il y peut avoir quelques huit jours...</l>
 </sp>
-<sp who="LYSARQUE"><speaker>LYSARQUE.</speaker>
+<sp who="LYSARQUE"><hstage><speaker>LYSARQUE</speaker>.</hstage>
 	<l id="400">Je parle d’aujourd’hui : laisse là ces discours ;</l>
 	<l id="401" part="i">Réponds précisément.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="401" part="f">Pour aujourd’hui, je pense...</l>
 	<l id="402">Toutefois, si la chose était de conséquence,</l>
 	<l id="403">Dans le prochain village on saurait aisément...</l>
 </sp>
-<sp who="LYSARQUE"><speaker>LYSARQUE.</speaker>
+<sp who="LYSARQUE"><hstage><speaker>LYSARQUE</speaker>.</hstage>
 	<l id="404">Donnons jusques au lieu ; c’est trop d’amusement.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE, seul.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>, seul.</hstage>
 	<l id="405">Ce départ favorable enfin me rend la vie,</l>
 	<l id="406">Que tant de questions m’avaient presque ravie.</l>
 	<l id="407">Cette troupe d’archers, aveugles en ce point,</l>
@@ -698,61 +698,61 @@
 	<l id="430">Clitandre convaincu de ma supercherie.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Lysarque, Archers.</head>
-<sp who="LYSARQUE"><speaker>LYSARQUE, regarde le corps de Géronte et de Lycaste.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Lysarque, Archers.</cast>
+<sp who="LYSARQUE"><hstage><speaker>LYSARQUE</speaker>, regarde le corps de Géronte et de Lycaste.</hstage>
 	<l id="431">Cela ne suffit pas ; il faut chercher encore,</l>
 	<l id="432">Et trouver, s’il se peut, Clitandre ou Rosidor.</l>
 	<l id="433">Amis, sa majesté, par ma bouche avertie</l>
 	<l id="434">Des soupçons que j’avais touchant cette partie,</l>
 	<l id="435">Voudra savoir au vrai ce qu’ils sont devenus.</l>
 </sp>
-<sp who="PREMIER-ARCHER"><speaker>PREMIER ARCHER.</speaker>
+<sp who="PREMIER-ARCHER"><hstage><speaker>PREMIER ARCHER</speaker>.</hstage>
 	<l id="436">Pourrait-elle en douter ? Ces deux corps reconnus</l>
 	<l id="437">Font trop voir le succès de toute l’entreprise.</l>
 </sp>
-<sp who="LYSARQUE"><speaker>LYSARQUE.</speaker>
+<sp who="LYSARQUE"><hstage><speaker>LYSARQUE</speaker>.</hstage>
 	<l id="438" part="i">Et qu’en présumes-tu ?</l>
 </sp>
-<sp who="PREMIER-ARCHER"><speaker>PREMIER ARCHER.</speaker>
+<sp who="PREMIER-ARCHER"><hstage><speaker>PREMIER ARCHER</speaker>.</hstage>
 	<l id="438" part="f">Que malgré leur surprise,</l>
 	<l id="439">Leur nombre avantageux et leur déguisement,</l>
 	<l id="440">Rosidor de leurs mains se tire heureusement.</l>
 </sp>
-<sp who="LYSARQUE"><speaker>LYSARQUE.</speaker>
+<sp who="LYSARQUE"><hstage><speaker>LYSARQUE</speaker>.</hstage>
 	<l id="441">Ce n’est qu’en me flattant que tu te le figures ;</l>
 	<l id="442">Pour moi, je n’en conçois que de mauvais augures,</l>
 	<l id="443">Et présume plutôt que son bras valeureux</l>
 	<l id="444">Avant que de mourir s’est immolé ces deux.</l>
 </sp>
-<sp who="PREMIER-ARCHER"><speaker>PREMIER ARCHER.</speaker>
+<sp who="PREMIER-ARCHER"><hstage><speaker>PREMIER ARCHER</speaker>.</hstage>
 	<l id="445" part="i">Mais où serait son corps ?</l>
 </sp>
-<sp who="LYSARQUE"><speaker>LYSARQUE.</speaker>
+<sp who="LYSARQUE"><hstage><speaker>LYSARQUE</speaker>.</hstage>
 	<l id="445" part="f">Au creux de quelque roche,</l>
 	<l id="446">Où les traîtres, voyant notre troupe si proche,</l>
 	<l id="447">N’auront pas eu loisir de mettre encore ceux-ci,</l>
 	<l id="448">De qui le seul aspect rend le crime éclairci.</l>
 </sp>
-<sp who="SECOND-ARCHER"><speaker>SECOND ARCHER, lui présentant les deux pièces rompues de l’épée de Rosidor.</speaker>
+<sp who="SECOND-ARCHER"><hstage><speaker>SECOND ARCHER</speaker>, lui présentant les deux pièces rompues de l’épée de Rosidor.</hstage>
 	<l id="449">Monsieur, connaissez-vous ce fer et cette garde ?</l>
 </sp>
-<sp who="LYSARQUE"><speaker>LYSARQUE.</speaker>
+<sp who="LYSARQUE"><hstage><speaker>LYSARQUE</speaker>.</hstage>
 	<l id="450">Donne-moi, que je voie. Oui, plus je les regarde,</l>
 	<l id="451">Plus j’ai par eux d’avis du déplorable sort</l>
 	<l id="452">D’un maître qui n’a pu s’en dessaisir que mort.</l>
 </sp>
-<sp who="SECOND-ARCHER"><speaker>SECOND ARCHER.</speaker>
+<sp who="SECOND-ARCHER"><hstage><speaker>SECOND ARCHER</speaker>.</hstage>
 	<l id="453">Monsieur, avec cela j’ai vu dans cette route</l>
 	<l id="454">Des pas mêlés de sang distillé goutte à goutte.</l>
 </sp>
-<sp who="LYSARQUE"><speaker>LYSARQUE.</speaker>
+<sp who="LYSARQUE"><hstage><speaker>LYSARQUE</speaker>.</hstage>
 	<l id="455">Suivons-les au hasard. Vous autres, enlevez</l>
 	<l id="456">Promptement ces deux corps que nous avons trouvés.</l>
 </sp>
 <stage>Lysarque et cet archer rentrent dans le bois, et le reste des archers reportent à la cour les corps de Géronte et Lycaste.</stage>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Floridan, Clitandre, Page.</head>
-<sp who="FLORIDAN"><speaker>FLORIDAN, parlant à son page.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Floridan, Clitandre, Page.</cast>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>, parlant à son page.</hstage>
 	<l id="457">Ce cheval trop fougueux m’incommode à la chasse ;</l>
 	<l id="458">Tiens-m’en un autre prêt, tandis qu’en cette place,</l>
 	<l id="459">À l’ombre des ormeaux l’un dans l’autre enlacés,</l>
@@ -765,7 +765,7 @@
 	<l id="465">Achève maintenant l’histoire commencée</l>
 	<l id="466">De ton affection si mal récompensée.</l>
 </sp>
-<sp who="CLITANDRE"><speaker>CLITANDRE.</speaker>
+<sp who="CLITANDRE"><hstage><speaker>CLITANDRE</speaker>.</hstage>
 	<l id="467">Ce récit ennuyeux de ma triste langueur,</l>
 	<l id="468">Mon prince, ne vaut pas le tirer en longueur ;</l>
 	<l id="469">J’ai tout dit en un mot : cette fière Caliste</l>
@@ -775,19 +775,19 @@
 	<l id="473">Cependant qu’un rival, ses plus chères délices,</l>
 	<l id="474">Redouble ses plaisirs en voyant mes supplices.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="475">Ou tu te plains à faux, ou, puissamment épris,</l>
 	<l id="476">Ton courage demeure insensible aux mépris ;</l>
 	<l id="477">Et je m’étonne fort comme ils n’ont dans ton âme</l>
 	<l id="478">Rétabli ta raison ou dissipé ta flamme.</l>
 </sp>
-<sp who="CLITANDRE"><speaker>CLITANDRE.</speaker>
+<sp who="CLITANDRE"><hstage><speaker>CLITANDRE</speaker>.</hstage>
 	<l id="479">Quelques charmes secrets mêlés dans ses rigueurs</l>
 	<l id="480">Étouffent en naissant la révolte des cœurs ;</l>
 	<l id="481">Et le mien auprès d’elle, à quoi qu’il se dispose,</l>
 	<l id="482">Murmurant de son mal, en adore la cause.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="483">Mais puisque son dédain, au lieu de te guérir,</l>
 	<l id="484">Ranime ton amour, qu’il dût faire mourir,</l>
 	<l id="485">Sers-toi de mon pouvoir ; en ma faveur, la reine</l>
@@ -796,24 +796,24 @@
 	<l id="488">Te met, à ma prière, au comble de tes vœux.</l>
 	<l id="489">Avise donc ; tu sais qu’un fils peut tout sur elle.</l>
 </sp>
-<sp who="CLITANDRE"><speaker>CLITANDRE.</speaker>
+<sp who="CLITANDRE"><hstage><speaker>CLITANDRE</speaker>.</hstage>
 	<l id="490">Malgré tous les mépris de cette âme cruelle,</l>
 	<l id="491">Dont un autre a charmé les inclinations,</l>
 	<l id="492">J’ai toujours du respect pour ses perfections,</l>
 	<l id="493">Et je serais marri qu’aucune violence...</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="494">L’amour sur le respect emporte la balance.</l>
 </sp>
-<sp who="CLITANDRE"><speaker>CLITANDRE.</speaker>
+<sp who="CLITANDRE"><hstage><speaker>CLITANDRE</speaker>.</hstage>
 	<l id="495">Je brûle ; et le bonheur de vaincre ses froideurs,</l>
 	<l id="496">Je ne le veux devoir qu’à mes vives ardeurs ;</l>
 	<l id="497">Je ne la veux gagner qu’à force de services.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="498">Tandis tu veux donc vivre en d’éternels supplices ?</l>
 </sp>
-<sp who="CLITANDRE"><speaker>CLITANDRE.</speaker>
+<sp who="CLITANDRE"><hstage><speaker>CLITANDRE</speaker>.</hstage>
 	<l id="499">Tandis ce m’est assez qu’un rival préféré</l>
 	<l id="500">N’obtient, non plus que moi, le succès espéré.</l>
 	<l id="501">À la longue ennuyés, la moindre négligence</l>
@@ -822,43 +822,43 @@
 	<l id="504">Ce que depuis trois ans je poursuis vainement.</l>
 	<l id="505" part="i">Mon prince, trouvez bon...</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="505" part="f">N’en dis pas davantage ;</l>
 	<l id="506">Celui-ci qui me vient faire quelque message</l>
 	<l id="507">Apprendrait malgré toi l’état de tes amours.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Floridan, Clitandre, Cléon.</head>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Floridan, Clitandre, Cléon.</cast>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="508">Pardonnez-moi, seigneur, si je romps vos discours ;</l>
 	<l id="509">C’est en obéissant au roi qui me l’ordonne,</l>
 	<l id="510">Et rappelle Clitandre auprès de sa personne.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="511" part="i">Qui ?</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="511" part="m">Clitandre, seigneur.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="511" part="f">Et que lui veut le roi ?</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="512">De semblables secrets ne s’ouvrent pas à moi.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="513">Je n’en sais que penser ; et la cause incertaine</l>
 	<l id="514">De ce commandement tient mon esprit en peine.</l>
 	<l id="515">Pourrai-je me résoudre à te laisser aller</l>
 	<l id="516">Sans savoir les motifs qui te font rappeler ?</l>
 </sp>
-<sp who="CLITANDRE"><speaker>CLITANDRE.</speaker>
+<sp who="CLITANDRE"><hstage><speaker>CLITANDRE</speaker>.</hstage>
 	<l id="517">C’est, à mon jugement, quelque prompte entreprise,</l>
 	<l id="518">Dont l’exécution à moi seul est remise ;</l>
 	<l id="519">Mais quoi que là-dessus j’ose m’imaginer,</l>
 	<l id="520">C’est à moi d’obéir sans rien examiner.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="521">J’y consens à regret : va, mais qu’il te souvienne</l>
 	<l id="522">Que je chéris ta vie à l’égal de la mienne,</l>
 	<l id="523">Et si tu veux m’ôter de cette anxiété,</l>
@@ -867,8 +867,8 @@
 	<l id="526">N’attend que ma présence à relancer la bête.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Dorise, achevant de vêtir l’habit de Géronte, qu’elle avait trouvé dans le bois.</head>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Dorise, achevant de vêtir l’habit de Géronte, qu’elle avait trouvé dans le bois.</cast>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="527">Achève, malheureuse, achève de vêtir</l>
 	<l id="528">Ce que ton mauvais sort laisse à te garantir.</l>
 	<l id="529">Si de tes trahisons la jalouse impuissance</l>
@@ -927,16 +927,16 @@
 	<l id="582">Qu’il expose en péril, qu’il en retire ensemble ;</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Pymante, Dorise.</head>
-<sp who="PYMANTE"><speaker>PYMANTE, la prenant pour Géronte et l’embrassant.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Pymante, Dorise.</cast>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>, la prenant pour Géronte et l’embrassant.</hstage>
 	<l id="583">Ô dieux ! Voici Géronte, et je le croyais mort.</l>
 	<l id="584">Malheureux compagnon de mon funeste sort...</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE croyant qu’il la prend pour Rosidor, et qu’en l’embrassant il la poignarde.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker> croyant qu’il la prend pour Rosidor, et qu’en l’embrassant il la poignarde.</hstage>
 	<l id="585">Ton œil t’abuse. Hélas ! Misérable, regarde</l>
 	<l id="586">Qu’au lieu de Rosidor ton erreur me poignarde.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="587">Ne crains pas, cher ami, ce funeste accident,</l>
 	<l id="588">Je te connais assez, je suis... Mais imprudent,</l>
 	<l id="589">Où m’allait engager mon erreur indiscrète ?</l>
@@ -952,7 +952,7 @@
 	<l id="599">À mon empressement pardonnez cet adieu ;</l>
 	<l id="600">Je perdrais trop, Monsieur, à tarder en ce lieu.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="601">Ami, qui que tu sois, si ton âme sensible</l>
 	<l id="602">À la compassion peut se rendre accessible,</l>
 	<l id="603">Un jeune gentilhomme implore ton secours :</l>
@@ -962,7 +962,7 @@
 	<l id="607">D’un ennemi puissant la haine me poursuit,</l>
 	<l id="608">Et n’ayant pu qu’à peine éviter cette nuit...</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="609">L’affaire qui me presse est assez importante</l>
 	<l id="610">Pour ne pouvoir, monsieur, répondre à votre attente ;</l>
 	<l id="611">Mais si vous me donniez le loisir d’un moment,</l>
@@ -970,32 +970,32 @@
 	<l id="613">Et j’estime qu’alors il me serait facile</l>
 	<l id="614">Contre cet ennemi de vous faire un asile.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="615">Mais, avant ton retour, si quelque instant fatal</l>
 	<l id="616">M’exposait par malheur aux yeux de ce brutal,</l>
 	<l id="617">Et que l’emportement de son humeur altière...</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="618">Pour ne rien hasarder, cachez-vous là derrière.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="619">Souffre que je te suive, et que mes tristes pas...</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="620">J’ai des secrets, monsieur, qui ne le souffrent pas,</l>
 	<l id="621">Et ne puis rien pour vous, à moins que de m’attendre :</l>
 	<l id="622">Avisez au parti que vous avez à prendre.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="623" part="i">Va donc, je t’attendrai.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="623" part="f">Cette touffe d’ormeaux</l>
 	<l id="624">Vous pourra cependant couvrir de ses rameaux.</l>
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII.</head>
-<sp who="PYMANTE"><speaker>PYMANTE, seule.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>, seule.</hstage>
 	<l id="625">Enfin, grâces au ciel, ayant su m’en défaire,</l>
 	<l id="626">Je puis seul aviser à ce que je dois faire.</l>
 	<l id="627">Qui qu’il soit, il a vu Rosidor attaqué,</l>
@@ -1044,8 +1044,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Alcandre, Rosidor, Caliste, un Prévôt.</head>
-<sp who="ALCANDRE"><speaker>ALCANDRE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Alcandre, Rosidor, Caliste, un Prévôt.</cast>
+<sp who="ALCANDRE"><hstage><speaker>ALCANDRE</speaker>.</hstage>
 	<l id="669">L’admirable rencontre à mon âme ravie,</l>
 	<l id="670">De voir que deux amants s’entre-doivent la vie,</l>
 	<l id="671">De voir que ton péril la tire de danger,</l>
@@ -1055,13 +1055,13 @@
 	<l id="675">Et que l’heureux malheur qui vous a menacés</l>
 	<l id="676">Avec tant de justesse a ses temps compassés !</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="677">Sire, ajoutez du ciel l’occulte providence :</l>
 	<l id="678">Sur deux amants il verse une même influence ;</l>
 	<l id="679">Et comme l’un par l’autre il a su nous sauver,</l>
 	<l id="680">Il semble l’un pour l’autre exprès nous conserver.</l>
 </sp>
-<sp who="ALCANDRE"><speaker>ALCANDRE.</speaker>
+<sp who="ALCANDRE"><hstage><speaker>ALCANDRE</speaker>.</hstage>
 	<l id="681">Je t’entends, Rosidor : par là tu me veux dire</l>
 	<l id="682">Qu’il faut qu’avec le ciel ma volonté conspire,</l>
 	<l id="683">Et ne s’oppose pas à ses justes décrets,</l>
@@ -1071,7 +1071,7 @@
 	<l id="687">Achève seulement de me rendre raison</l>
 	<l id="688">De ce qui t’arriva depuis sa pâmoison.</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="689">Sire, un mot désormais suffit pour ce qui reste</l>
 	<l id="690">Lysarque et vos archers depuis ce lieu funeste</l>
 	<l id="691">Se laissèrent conduire aux traces de mon sang,</l>
@@ -1089,7 +1089,7 @@
 	<l id="703">Ôtant par un hymen l’espoir à mes rivaux,</l>
 	<l id="704">Sire, vous taririez la source de nos maux.</l>
 </sp>
-<sp who="ALCANDRE"><speaker>ALCANDRE.</speaker>
+<sp who="ALCANDRE"><hstage><speaker>ALCANDRE</speaker>.</hstage>
 	<l id="705">Tu fuis à te venger : l’objet de ta maîtresse</l>
 	<l id="706">Fait qu’un tel désir cède à l’amour qui te presse ;</l>
 	<l id="707">Aussi n’est-ce qu’à moi de punir ces forfaits,</l>
@@ -1115,13 +1115,13 @@
 	<l id="727">Comme ils avaient choisi même heure à votre mort,</l>
 	<l id="728">En même heure tous deux auront un même sort.</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="729">Sire, ne songez pas à cette misérable ;</l>
 	<l id="730">Rosidor garanti me rend sa redevable,</l>
 	<l id="731">Et je me sens forcée à lui vouloir du bien</l>
 	<l id="732">D’avoir à votre état conservé ce soutien.</l>
 </sp>
-<sp who="ALCANDRE"><speaker>ALCANDRE.</speaker>
+<sp who="ALCANDRE"><hstage><speaker>ALCANDRE</speaker>.</hstage>
 	<l id="733">Le généreux orgueil des âmes magnanimes</l>
 	<l id="734">Par un noble dédain sait pardonner les crimes ;</l>
 	<l id="735">Mais votre aspect m’emporte à d’autres sentiments,</l>
@@ -1129,13 +1129,13 @@
 	<l id="737">Ce teint pâle à tous deux me rougit de colère,</l>
 	<l id="738">Et vouloir m’adoucir, c’est vouloir me déplaire.</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="739">Mais, sire, que sait-on ? Peut-être ce rival,</l>
 	<l id="740">Qui m’a fait après tout plus de bien que de mal,</l>
 	<l id="741">Sitôt qu’il vous plaira d’écouter sa défense,</l>
 	<l id="742">Saura de ce forfait purger son innocence.</l>
 </sp>
-<sp who="ALCANDRE"><speaker>ALCANDRE.</speaker>
+<sp who="ALCANDRE"><hstage><speaker>ALCANDRE</speaker>.</hstage>
 	<l id="743">Et par où la purger ? Sa main d’un trait mortel</l>
 	<l id="744">A signé son arrêt en signant ce cartel.</l>
 	<l id="745">Peut-il désavouer ce qu’assure un tel gage,</l>
@@ -1153,7 +1153,7 @@
 	<l id="757">Sans doute qu’aussitôt qu’il se ferait paraître,</l>
 	<l id="758">Ton sang rejaillirait au visage du traître.</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="759">L’apparence déçoit, et souvent on a vu</l>
 	<l id="760">Sortir la vérité d’un moyen imprévu,</l>
 	<l id="761">Bien que la conjecture y fût encore plus forte ;</l>
@@ -1161,18 +1161,18 @@
 	<l id="763">Que l’âme plus tranquille et l’esprit plus remis,</l>
 	<l id="764">Le seul pouvoir des lois perde nos ennemis</l>
 </sp>
-<sp who="ALCANDRE"><speaker>ALCANDRE.</speaker>
+<sp who="ALCANDRE"><hstage><speaker>ALCANDRE</speaker>.</hstage>
 	<l id="765">Sans plus m’importuner, ne songe qu’à tes plaies.</l>
 	<l id="766">Non, il ne fut jamais d’apparences si vraies ;</l>
 	<l id="767">Douter de ce forfait, c’est manquer de raison.</l>
 	<l id="768">Derechef, ne prends soin que de ta guérison.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Rosidor, Caliste.</head>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Rosidor, Caliste.</cast>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="769">Ah ! Que ce grand courroux sensiblement m’afflige !</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="770">C’est ainsi que le roi, te refusant, t’oblige :</l>
 	<l id="771">Il te donne beaucoup en ce qu’il t’interdit,</l>
 	<l id="772">Et tu gagnes beaucoup d’y perdre ton crédit.</l>
@@ -1185,10 +1185,10 @@
 	<l id="779">Jusque dans l’antichambre où Lysarque t’attend,</l>
 	<l id="780">Et montre désormais un esprit plus content.</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="781" part="i">Si près de te quitter...</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="781" part="f">N’achève pas ta plainte.</l>
 	<l id="782">Tous deux nous ressentons cette commune atteinte ;</l>
 	<l id="783">Mais d’un fâcheux respect la tyrannique loi</l>
@@ -1198,13 +1198,13 @@
 	<l id="787">Et lui dire comment, par un cruel destin,</l>
 	<l id="788">Mon devoir auprès d’elle a manqué ce matin.</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="789">Va donc, et quand son âme, après la chose sue,</l>
 	<l id="790">Fera voir la pitié qu’elle en aura conçue,</l>
 	<l id="791">Figure-lui si bien Clitandre tel qu’il est,</l>
 	<l id="792">Qu’elle n’ose en ses feux prendre plus d’intérêt.</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="793">Ne crains pas désormais que mon amour s’oublie ;</l>
 	<l id="794">Répare seulement ta vigueur affaiblie :</l>
 	<l id="795">Sache bien te servir de la faveur du roi,</l>
@@ -1212,7 +1212,7 @@
 </sp>
 </div2>
 <div2 type="scene" id="3"><head>SCÈNE III.</head>
-<sp who="CLITANDRE"><speaker>CLITANDRE, en prison.</speaker>
+<sp who="CLITANDRE"><hstage><speaker>CLITANDRE</speaker>, en prison.</hstage>
 	<l id="797">Je ne sais si je veille, ou si ma rêverie</l>
 	<l id="798">À mes sens endormis fait quelque tromperie ;</l>
 	<l id="799">Peu s’en faut, dans l’excès de ma confusion,</l>
@@ -1259,33 +1259,33 @@
 	<l id="840">Par son visage affreux redouble ma terreur.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Clitandre, le Geôlier.</head>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Clitandre, le Geôlier.</cast>
+<sp who="LE-GEÔLIER"><hstage><speaker>LE GEÔLIER</speaker>.</hstage>
 	<l id="841">Permettez que ma main de ces fers vous détache.</l>
 </sp>
-<sp who="CLITANDRE"><speaker>CLITANDRE.</speaker>
+<sp who="CLITANDRE"><hstage><speaker>CLITANDRE</speaker>.</hstage>
 	<l id="842" part="i">Suis-je libre déjà ?</l>
 </sp>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<sp who="LE-GEÔLIER"><hstage><speaker>LE GEÔLIER</speaker>.</hstage>
 	<l id="842" part="f">Non encore, que je sache.</l>
 </sp>
-<sp who="CLITANDRE"><speaker>CLITANDRE.</speaker>
+<sp who="CLITANDRE"><hstage><speaker>CLITANDRE</speaker>.</hstage>
 	<l id="843">Quoi ! Ta seule pitié s’y hasarde pour moi ?</l>
 </sp>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<sp who="LE-GEÔLIER"><hstage><speaker>LE GEÔLIER</speaker>.</hstage>
 	<l id="844">Non, c’est un ordre exprès de vous conduire au roi.</l>
 </sp>
-<sp who="CLITANDRE"><speaker>CLITANDRE.</speaker>
+<sp who="CLITANDRE"><hstage><speaker>CLITANDRE</speaker>.</hstage>
 	<l id="845">Ne m’apprendras-tu point le crime qu’on m’impute,</l>
 	<l id="846">Et quel lâche imposteur ainsi me persécute ?</l>
 </sp>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<sp who="LE-GEÔLIER"><hstage><speaker>LE GEÔLIER</speaker>.</hstage>
 	<l id="847">Descendons : un prévôt, qui vous attend là-bas,</l>
 	<l id="848">Vous pourra mieux que moi contenter sur ce cas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Pymante, Dorise.</head>
-<sp who="PYMANTE"><speaker>PYMANTE, regardant une aiguille qu’elle avait laissée par mégarde dans ses cheveux en se déguisant.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Pymante, Dorise.</cast>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>, regardant une aiguille qu’elle avait laissée par mégarde dans ses cheveux en se déguisant.</hstage>
 	<l id="849">En vain pour m’éblouir vous usez de la ruse,</l>
 	<l id="850">Mon esprit, quoique lourd, aisément ne s’abuse ;</l>
 	<l id="851">Ce que vous me cachez, je le lis dans vos yeux :</l>
@@ -1294,10 +1294,10 @@
 	<l id="854">Sent assez les faveurs de quelque belle fille :</l>
 	<l id="855">Elle est, ou je me trompe, un gage de sa foi.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="856">Ô malheureuse aiguille ! Hélas ! C’est fait de moi.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="857">Sans doute votre plaie à ce mot s’est rouverte.</l>
 	<l id="858">Monsieur, regrettez-vous son absence, ou sa perte ?</l>
 	<l id="859">Vous aurait-elle bien pour un autre quitté,</l>
@@ -1311,7 +1311,7 @@
 	<l id="867">Et de quoi fort souvent on aime mieux parler</l>
 	<l id="868">Que de perdre son temps à des propos en l’air.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="869">Ami, ne porte plus la sonde en mon courage :</l>
 	<l id="870">Ton entretien commun me charme davantage ;</l>
 	<l id="871">Il ne peut me lasser, indifférent qu’il est ;</l>
@@ -1325,30 +1325,30 @@
 	<l id="879">Il s’appelle Pymante, et ton air et ton port</l>
 	<l id="880">Ont avec tous les siens un merveilleux rapport.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="881">J’en suis tout glorieux, et de ma part je prise</l>
 	<l id="882">Votre rencontre autant que celle de Dorise,</l>
 	<l id="883">Autant que si le ciel, apaisant sa rigueur,</l>
 	<l id="884">Me faisait maintenant un présent de son cœur.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="885" part="i">Qui nommes-tu Dorise ?</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="885" part="f">Une jeune cruelle</l>
 	<l id="886" part="i">Qui me fuit pour un autre.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="886" part="f">Et ce rival s’appelle ?</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="887" part="i">Le berger Rosidor.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="887" part="f">Ami, ce nom si beau</l>
 	<l id="888">Chez vous donc se profane à garder un troupeau ?</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="889">Madame, il ne faut plus que mon feu vous déguise</l>
 	<l id="890">Que sous ces faux habits il reconnaît Dorise.</l>
 	<l id="891">Je ne suis point surpris de me voir dans ces bois</l>
@@ -1368,7 +1368,7 @@
 	<l id="905">Et disposez de moi, qui borne mon envie</l>
 	<l id="906">À prodiguer pour vous tout ce que j’ai de vie.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="907">Pymante, et quoi, faut-il qu’en l’état où je suis</l>
 	<l id="908">Tes importunités augmentent mes ennuis ?</l>
 	<l id="909">Faut-il que dans ce bois ta rencontre funeste</l>
@@ -1376,31 +1376,31 @@
 	<l id="911">Et qu’ainsi mon malheur au dernier point venu</l>
 	<l id="912">N’ose plus espérer de n’être pas connu ?</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="913">Voyez comme le ciel égale nos fortunes,</l>
 	<l id="914">Et comme, pour les faire entre nous deux communes,</l>
 	<l id="915">Nous réduisant ensemble à ces déguisements,</l>
 	<l id="916">Il montre avoir pour nous de pareils mouvements.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="917">Nous changeons bien d’habits, mais non pas de visages ;</l>
 	<l id="918">Nous changeons bien d’habits, mais non pas de courages ;</l>
 	<l id="919">Et ces masques trompeurs de nos conditions</l>
 	<l id="920">Cachent, sans les changer, nos inclinations.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="921">Me négliger toujours ! Et pour qui vous néglige !</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="922">Que veux-tu ? Son mépris plus que ton feu m’oblige ;</l>
 	<l id="923">J’y trouve malgré moi je ne sais quel appas,</l>
 	<l id="924">Par où l’ingrat me tue, et ne m’offense pas.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="925">Qu’espérez-vous enfin d’un amour si frivole</l>
 	<l id="926">Pour cet ingrat amant qui n’est plus qu’une idole ?</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="927">Qu’une idole ! Ah, ce mot me donne de l’effroi.</l>
 	<l id="928">Rosidor une idole, ah, Perfide, c’est toi,</l>
 	<l id="929">Ce sont tes trahisons qui l’empêchent de vivre ;</l>
@@ -1409,14 +1409,14 @@
 	<l id="932">Que ce rustique habit effaçait tout soupçon :</l>
 	<l id="933">Ton embûche a surpris une valeur si rare.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="934">Il est vrai, j’ai puni l’orgueil de ce barbare,</l>
 	<l id="935">De cet heureux ingrat, si cruel envers vous,</l>
 	<l id="936">Qui maintenant par terre et percé de mes coups.</l>
 	<l id="937">Éprouve par sa mort comme un amant fidèle</l>
 	<l id="938">Venge votre beauté du mépris qu’on fait d’elle.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="939">Monstre de la nature, exécrable bourreau,</l>
 	<l id="940">Après ce lâche coup qui creuse mon tombeau,</l>
 	<l id="941">D’un compliment railleur ta malice me flatte !</l>
@@ -1426,7 +1426,7 @@
 	<l id="945">Que trop à t’imprimer sur ce hideux visage</l>
 	<l id="946">En mille traits de sang les marques de ma rage.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="947">Le courroux d’une femme, impétueux d’abord,</l>
 	<l id="948">Promet tout ce qu’il ose à son premier transport ;</l>
 	<l id="949">Mais comme il n’a pour lui que sa seule impuissance,</l>
@@ -1434,7 +1434,7 @@
 	<l id="951">Ou s’étouffant soi-même, à la fin ne produit</l>
 	<l id="952">Que point ou peu d’effet après beaucoup de bruit.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="953">Va, va, ne prétends pas que le mien s’adoucisse :</l>
 	<l id="954">Il faut que ma fureur ou l’enfer te punisse ;</l>
 	<l id="955">Le reste des humains ne saurait inventer</l>
@@ -1450,14 +1450,14 @@
 	<l id="965">Mais tu verras bientôt si je vaux quelque chose,</l>
 	<l id="966">Et si ma rage en vain se promet ce qu’elle ose.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="967">J’aime tant cette ardeur à me faire périr,</l>
 	<l id="968">Que je veux bien moi-même avec vous y courir.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="969" part="i">Traître, ne me suis point.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="969" part="f">Prendre seule la fuite !</l>
 	<l id="970">Vous vous égareriez à marcher sans conduite ;</l>
 	<l id="971">Et d’ailleurs votre habit, où je ne comprends rien,</l>
@@ -1474,20 +1474,20 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Pymante, Dorise.</head>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Pymante, Dorise.</cast>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="981">Je te le dis encore, tu perds temps à me suivre ;</l>
 	<l id="982">Souffre que de tes yeux ta pitié me délivre :</l>
 	<l id="983">Tu redoubles mes maux par de tels entretiens.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="984">Prenez à votre tour quelque pitié des miens,</l>
 	<l id="985">Madame, et tarissez ce déluge de larmes :</l>
 	<l id="986">Pour rappeler un mort ce sont de faibles armes ;</l>
 	<l id="987">Et quoi que vous conseille un inutile ennui,</l>
 	<l id="988">Vos cris et vos sanglots ne vont point jusqu’à lui.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="989">Si mes sanglots ne vont où mon cœur les envoie,</l>
 	<l id="990">Du moins par eux mon âme y trouvera la voie :</l>
 	<l id="991">S’il lui faut un passage afin de s’envoler,</l>
@@ -1496,14 +1496,14 @@
 	<l id="994">Pour un tel désespoir vous les avez trop douces ;</l>
 	<l id="995">Faites pour m’étouffer de plus puissants efforts.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="996">Ne songez plus, madame, à rejoindre les morts ;</l>
 	<l id="997">Pensez plutôt à ceux qui n’ont point d’autre envie</l>
 	<l id="998">Que d’employer pour vous le reste de leur vie ;</l>
 	<l id="999">Pensez plutôt à ceux dont le service offert</l>
 	<l id="1000">Accepté vous conserve, et refusé vous perd.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="1001">Crois-tu donc, assassin, m’acquérir par ton crime,</l>
 	<l id="1002">Qu’innocent méprisé, coupable je t’estime ?</l>
 	<l id="1003">À ce compte, tes feux n’ayant pu m’émouvoir,</l>
@@ -1512,14 +1512,14 @@
 	<l id="1006">Et mon affection commencerait à naître</l>
 	<l id="1007">Lorsque tout l’univers a droit de te haïr ?</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="1008">Si j’oubliai l’honneur jusques à le trahir,</l>
 	<l id="1009">Si pour vous posséder mon esprit, tout de flamme,</l>
 	<l id="1010">N’a rien cru de honteux, n’a rien trouvé d’infâme,</l>
 	<l id="1011">Voyez par là, voyez l’excès de mon ardeur :</l>
 	<l id="1012">Par cet aveuglement jugez de sa grandeur.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="1013">Non, non, ta lâcheté, que j’y vois trop certaine,</l>
 	<l id="1014">N’a servi qu’à donner des raisons à ma haine.</l>
 	<l id="1015">Ainsi ce que j’avais pour toi d’aversion</l>
@@ -1527,46 +1527,46 @@
 	<l id="1017">C’est la raison, c’est elle à présent qui me guide</l>
 	<l id="1018">Aux mépris que je fais des flammes d’un perfide.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="1019">Je ne sache raison qui s’oppose à mes vœux,</l>
 	<l id="1020">Puisqu’ici la raison n’est que ce que je veux,</l>
 	<l id="1021">Et ployant dessous moi, permet à mon envie</l>
 	<l id="1022">De recueillir les fruits de vous avoir servie.</l>
 	<l id="1023">Il me faut des faveurs malgré vos cruautés.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="1024">Exécrable ! Ainsi donc tes désirs effrontés</l>
 	<l id="1025">Voudraient sur ma faiblesse user de violence ?</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="1026">Je ris de vos refus, et sais trop la licence</l>
 	<l id="1027">Que me donne l’amour en cette occasion.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE, lui crevant l’œil de son aiguille.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>, lui crevant l’œil de son aiguille.</hstage>
 	<l id="1028">Traître, ce ne sera qu’à ta confusion.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE portant les mains à son œil crevé.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker> portant les mains à son œil crevé.</hstage>
 	<l id="1029" part="i">Ah, cruelle !</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="1029" part="m">Ah ! Brigand !</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="1029" part="f">Ah ! Que viens-tu de faire ?</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="1030">De punir l’attentat d’un infâme corsaire.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE, prenant son épée dans la caverne où il l’avait jetée au 2ème acte.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>, prenant son épée dans la caverne où il l’avait jetée au 2ème acte.</hstage>
 	<l id="1031">Ton sang m’en répondra ; tu m’auras beau prier,</l>
 	<l id="1032" part="i">Tu mourras.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="1032" part="f">Fuis, Dorise, et laisse-le crier.</l>
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="PYMANTE"><speaker>PYMANTE, seul.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>, seul.</hstage>
 	<l id="1033">Où s’est-elle cachée ? Où l’emporte sa fuite ?</l>
 	<l id="1034">Où faut-il que ma rage adresse ma poursuite ?</l>
 	<l id="1035">La tigresse m’échappe, et telle qu’un éclair,</l>
@@ -1641,7 +1641,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="FLORIDAN"><speaker>FLORIDAN, seul.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>, seul.</hstage>
 	<l id="1103">Quel bonheur m’accompagne en ce moment fatal !</l>
 	<l id="1104">Le tonnerre a sous moi foudroyé mon cheval,</l>
 	<l id="1105">Et consumant sur lui toute sa violence,</l>
@@ -1672,80 +1672,80 @@
 	<l id="1130" part="i">Je le juge à ce bruit.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Floridan, Pymante, Dorise.</head>
-<sp who="PYMANTE"><speaker>PYMANTE saisit Dorise qui le fuyait.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Floridan, Pymante, Dorise.</cast>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker> saisit Dorise qui le fuyait.</hstage>
 	<l id="1130" part="f">Enfin, malgré ta fuite,</l>
 	<l id="1131" part="i">Je te retiens, barbare.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="1131" part="m">Hélas !</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="1131" part="f">Songe à mourir ;</l>
 	<l id="1132">Tout l’univers ici ne te peut secourir.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="1133">L’égorger à ma vue ! Ô l’indigne spectacle !</l>
 	<l id="1134">Sus, sus, à ce brigand opposons un obstacle.</l>
 	<l id="1135" part="i">Arrête, scélérat !</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="1135" part="f">Téméraire, où vas-tu ?</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="1136">Sauver ce gentilhomme à tes pieds abattu.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="1137" part="i">Traître, n’avance pas ; c’est le prince.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE, tenant Dorise d’une main et se battant de l’autre..</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>, tenant Dorise d’une main et se battant de l’autre..</hstage>
 	<l id="1137" part="f">N’importe ;</l>
 	<l id="1138">Il m’oblige à sa mort, m’ayant vu de la sorte.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="1139">Est-ce là le respect que tu dois à mon rang ?</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="1140">Je ne connais ici ni qualités ni sang :</l>
 	<l id="1141">Quelque respect ailleurs que ta naissance obtienne,</l>
 	<l id="1142">Pour assurer ma vie, il faut perdre la tienne.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="1143">S’il me demeure encore quelque peu de vigueur,</l>
 	<l id="1144">Si mon débile bras ne dédit point mon cœur,</l>
 	<l id="1145" part="i">J’arrêterai le tien.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="1145" part="f">Que fais-tu, misérable ?</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="1146">Je détourne le coup d’un forfait exécrable.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="1147">Avec ces vains efforts crois-tu m’en empêcher ?</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="1148">Par une heureuse adresse il l’a fait trébucher.</l>
 	<l id="1149" part="i">Assassin, rends l’épée.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Floridan, Pymante, Dorise, trois veneurs, portant en leurs mains les vrais habits de Pymante, Lycaste et Dorise.</head>
-<sp who="PREMIER-VENEUR"><speaker>PREMIER VENEUR.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Floridan, Pymante, Dorise, trois veneurs, portant en leurs mains les vrais habits de Pymante, Lycaste et Dorise.</cast>
+<sp who="PREMIER-VENEUR"><hstage><speaker>PREMIER VENEUR</speaker>.</hstage>
 	<l id="1149" part="f">Écoute, il est fort proche :</l>
 	<l id="1150">C’est sa voix qui résonne au creux de cette roche,</l>
 	<l id="1151">Et c’est lui que tantôt nous avions entendu.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN, désarme Pymante et en donne l’épée à garder à Dorise.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>, désarme Pymante et en donne l’épée à garder à Dorise.</hstage>
 	<l id="1152" part="i">Prends ce fer en ta main.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="1152" part="f">Ah cieux ! Je suis perdu.</l>
 </sp>
-<sp who="SECOND-VENEUR"><speaker>SECOND VENEUR.</speaker>
+<sp who="SECOND-VENEUR"><hstage><speaker>SECOND VENEUR</speaker>.</hstage>
 	<l id="1153">Oui, je le vois. Seigneur, quelle aventure étrange,</l>
 	<l id="1154">Quel malheureux destin en cet état vous range ?</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
  <note type="L">Maraud : Terme injurieux qui se dit des gueux, des coquins qui n’ont ni bien ni honneur, qui sont capables de faire toutes sortes de lâchetés. [F]</note>
 	<l id="1155">Garrottez ce maraud ; les couples de vos chiens</l>
 	<l id="1156">Vous y pourront servir, faute d’autres liens.</l>
@@ -1755,27 +1755,27 @@
 	<l id="1160">Que m’attaquer n’est pas un léger attentat.</l>
 	<l id="1161">Sachez que s’il échappe il y va de vos têtes.</l>
 </sp>
-<sp who="PREMIER-VENEUR"><speaker>PREMIER VENEUR.</speaker>
+<sp who="PREMIER-VENEUR"><hstage><speaker>PREMIER VENEUR</speaker>.</hstage>
 	<l id="1162">Si nous manquons, Seigneur, les voilà toutes prêtes.</l>
 	<l id="1163">Admirez cependant le foudre et ses efforts,</l>
 	<l id="1164">Qui dans cette forêt ont consumé trois corps :</l>
 	<l id="1165">En voici les habits, qui sans aucun dommage</l>
 	<l id="1166">Semblent avoir bravé la fureur de l’orage.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="1167">Tu montres à mes yeux de merveilleux effets.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="1168">Mais des marques plutôt de merveilleux forfaits.</l>
 	<l id="1169">Ces habits, dont n’a point approché le tonnerre,</l>
 	<l id="1170">Sont aux plus criminels qui vivent sur la terre :</l>
 	<l id="1171">Connaissez-les, grand prince, et voyez devant vous</l>
 	<l id="1172">Pymante prisonnier, et Dorise à genoux.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="1173">Que ce soit là Pymante, et que tu sois Dorise !</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="1174">Quelques étonnements qu’une telle surprise</l>
 	<l id="1175">Jette dans votre esprit, que vos yeux ont déçu,</l>
 	<l id="1176">D’autres le saisiront quand vous aurez tout su.</l>
@@ -1785,7 +1785,7 @@
 	<l id="1180">Avec mes vêtements l’usage de la voix,</l>
 	<l id="1181">Pour vous conter le reste en habit plus sortable.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="1182">Cette honte me plaît : ta prière équitable,</l>
 	<l id="1183">En faveur de ton sexe et du secours prêté,</l>
 	<l id="1184">Suspendra jusqu’alors ma curiosité.</l>
@@ -1797,14 +1797,14 @@
 <stage>Le prince sort, et un des veneurs s’en va avec Dorise et les 
 autres mènent Pymante d’une autre côté.</stage>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Clitandre, Le Geôlier.</head>
-<sp who="CLITANDRE"><speaker>CLITANDRE, en prison.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Clitandre, Le Geôlier.</cast>
+<sp who="CLITANDRE"><hstage><speaker>CLITANDRE</speaker>, en prison.</hstage>
 	<l id="1189">Dans ces funestes lieux où la seule inclémence</l>
 	<l id="1190">D’un rigoureux destin réduit mon innocence,</l>
 	<l id="1191">Je n’attends désormais du reste des humains</l>
 	<l id="1192">Ni faveur ni secours, si ce n’est par tes mains.</l>
 </sp>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<sp who="LE-GEÔLIER"><hstage><speaker>LE GEÔLIER</speaker>.</hstage>
 	<l id="1193">Je ne connais que trop où tend ce préambule.</l>
 	<l id="1194">Vous n’avez pas affaire à quelque homme crédule :</l>
 	<l id="1195">Tous, dans cette prison, dont je porte les clés,</l>
@@ -1816,7 +1816,7 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1201">Le roi, quoi qu’il en soit, vous a mis en ma garde :</l>
 	<l id="1202">Il me suffit : le reste en rien ne me regarde.</l>
 </sp>
-<sp who="CLITANDRE"><speaker>CLITANDRE.</speaker>
+<sp who="CLITANDRE"><hstage><speaker>CLITANDRE</speaker>.</hstage>
 	<l id="1203">Tu juges mes desseins autres qu’ils ne sont pas.</l>
 	<l id="1204">Je tiens l’éloignement pire que le trépas,</l>
 	<l id="1205">Et la terre n’a point de si douce province</l>
@@ -1829,7 +1829,7 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1212">Que cet anneau t’en serve et d’arrhes et de garant ;</l>
 	<l id="1213">Tends la main et l’esprit vers un bonheur si proche.</l>
 </sp>
-<sp who="LE-GEÔLIER"><speaker>LE GEÔLIER.</speaker>
+<sp who="LE-GEÔLIER"><hstage><speaker>LE GEÔLIER</speaker>.</hstage>
 	<l id="1214">Monsieur, jusqu’à présent j’ai vécu sans reproche,</l>
 	<l id="1215">Et pour me suborner promesses ni présents</l>
 	<l id="1216">N’ont et n’auront jamais de charmes suffisants.</l>
@@ -1840,7 +1840,7 @@ autres mènent Pymante d’une autre côté.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII.</head>
-<sp who="CLITANDRE"><speaker>CLITANDRE, seul.</speaker>
+<sp who="CLITANDRE"><hstage><speaker>CLITANDRE</speaker>, seul.</hstage>
 	<l id="1221">Va, tigre ! Va, cruel, barbare, impitoyable !</l>
 	<l id="1222">Ce noir cachot n’a rien tant que toi d’effroyable.</l>
 	<l id="1223">Va, porte aux criminels tes regards, dont l’horreur</l>
@@ -1892,17 +1892,17 @@ autres mènent Pymante d’une autre côté.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII, Floridan, Pymante, Cléon, Dorise, en habits de femme ; trois veneurs.</head>
-<sp who="FLORIDAN"><speaker>FLORIDAN, à Dorise et Cléon.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>, à Dorise et Cléon.</hstage>
 	<l id="1269">Vous m’avez dit tous deux d’étranges aventures.</l>
 	<l id="1270">Ah ! Clitandre ! Ainsi donc de fausses conjectures</l>
 	<l id="1271">T’accablent, malheureux, sous le courroux du roi !</l>
 	<l id="1272">Ce funeste récit me met tout hors de moi.</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="1273">Hâtant un peu le pas, quelque espoir me demeure</l>
 	<l id="1274">Que vous arriverez auparavant qu’il meure.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="1275">Si je n’y viens à temps, ce perfide en ce cas</l>
 	<l id="1276">À son ombre immolé ne me suffira pas.</l>
 	<l id="1277">C’est trop peu de l’auteur de tant d’énormes crimes ;</l>
@@ -1910,10 +1910,10 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1279">Où que soit Rosidor, il le suivra de près,</l>
 	<l id="1280">Et je saurai changer ses myrtes en cyprès.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="1281">Souiller ainsi vos mains du sang de l’innocence !</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="1282">Mon déplaisir m’en donne une entière licence.</l>
 	<l id="1283">J’en veux, comme le roi, faire autant à mon tour ;</l>
 	<l id="1284">Et puisqu’en sa faveur on prévient mon retour,</l>
@@ -1929,8 +1929,8 @@ autres mènent Pymante d’une autre côté.</stage>
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Floridan, Clitandre, un Prévôt, Cléon.</head>
-<sp who="FLORIDAN"><speaker>FLORIDAN, parlant au prévôt.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Floridan, Clitandre, un Prévôt, Cléon.</cast>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>, parlant au prévôt.</hstage>
 	<l id="1293">Dites vous-même au roi qu’une telle innocence</l>
 	<l id="1294">Légitime en ce point ma désobéissance,</l>
 	<l id="1295">Et qu’un homme sans crime avait bien mérité</l>
@@ -1942,24 +1942,24 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1301">Et qu’un injuste sort, ne trouvant point d’obstacle,</l>
 	<l id="1302">Apprêtait de ta tête un indigne spectacle !</l>
 </sp>
-<sp who="CLITANDRE"><speaker>CLITANDRE.</speaker>
+<sp who="CLITANDRE"><hstage><speaker>CLITANDRE</speaker>.</hstage>
  <note type="L">Alcide : autre nom d’Hercule.</note>
 	<l id="1303">Ainsi qu’un autre Alcide, en m’arrachant des fers,</l>
 	<l id="1304">Vous m’avez aujourd’hui retiré des enfers ;</l>
 	<l id="1305">Et moi dorénavant j’arrête mon envie</l>
 	<l id="1306">À ne servir qu’un prince à qui je dois la vie.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="1307">Réserve pour Caliste une part de tes soins.</l>
 </sp>
-<sp who="CLITANDRE"><speaker>CLITANDRE.</speaker>
+<sp who="CLITANDRE"><hstage><speaker>CLITANDRE</speaker>.</hstage>
 	<l id="1308">C’est à quoi désormais je veux penser le moins.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="1309">Le moins ! Quoi, désormais Caliste en ta pensée</l>
 	<l id="1310">N’aurait plus que le rang d’une image effacée ?</l>
 </sp>
-<sp who="CLITANDRE"><speaker>CLITANDRE.</speaker>
+<sp who="CLITANDRE"><hstage><speaker>CLITANDRE</speaker>.</hstage>
 	<l id="1311">J’ai honte que mon cœur auprès d’elle attaché</l>
 	<l id="1312">De son ardeur pour vous ait souvent relâché,</l>
 	<l id="1313">Ait souvent pour le sien quitté votre service :</l>
@@ -1968,7 +1968,7 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1316">Il semble que les dieux y voulaient consentir ;</l>
 	<l id="1317">Mais votre heureux retour a calmé cet orage.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="1318">Tu me fais assez lire au fond de ton courage :</l>
 	<l id="1319">La crainte de la mort en chasse des appas</l>
 	<l id="1320">Qui t’ont mis au péril d’un si honteux trépas,</l>
@@ -1977,10 +1977,10 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1323">Ou peut-être à présent tes désirs amoureux</l>
 	<l id="1324">Tournent vers des objets un peu moins rigoureux.</l>
 </sp>
-<sp who="CLITANDRE"><speaker>CLITANDRE.</speaker>
+<sp who="CLITANDRE"><hstage><speaker>CLITANDRE</speaker>.</hstage>
 	<l id="1325">Doux ou cruels, aucun désormais ne me touche.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="1326">L’amour dompte aisément l’esprit le plus farouche ;</l>
 	<l id="1327">C’est à ceux de notre âge un puissant ennemi :</l>
 	<l id="1328">Tu ne connais encore ses forces qu’à demi ;</l>
@@ -1989,12 +1989,12 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1331">Mais que veux-tu, Cléon, et qu’est-il arrivé ?</l>
 	<l id="1332">Pymante de vos mains se serait-il sauvé ?</l>
 </sp>
-<sp who="CLEON"><speaker>CLÉON.</speaker>
+<sp who="CLEON"><hstage><speaker>CLÉON</speaker>.</hstage>
 	<l id="1333">Non, Seigneur, acquittés de la charge commise,</l>
 	<l id="1334">Vos veneurs ont conduit Pymante, et moi Dorise ;</l>
 	<l id="1335">Et je viens seulement prendre un ordre nouveau.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="1336">Qu’on m’attende avec eux aux portes du château.</l>
 	<l id="1337">Allons, allons au roi montrer ton innocence ;</l>
 	<l id="1338">Les auteurs des forfaits sont en notre puissance ;</l>
@@ -2003,7 +2003,7 @@ autres mènent Pymante d’une autre côté.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="ROSIDOR"><speaker>ROSIDOR, sur son lit.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>, sur son lit.</hstage>
 	<l id="1341">Amants les mieux payés de votre longue peine,</l>
 	<l id="1342">Vous de qui l’espérance est la moins incertaine,</l>
 	<l id="1343">Et qui vous figurez, après tant de longueurs,</l>
@@ -2052,12 +2052,12 @@ autres mènent Pymante d’une autre côté.</stage>
 </sp>
 <stage>Caliste entre et s’assied sur son lit.</stage>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Rosidor, Caliste.</head>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Rosidor, Caliste.</cast>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="1386">Celle qui voudrait voir tes blessures guéries,</l>
 	<l id="1387" part="i">Celle...</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
  <note type="L">Alcide : autre nom d’Hercule.</note>
 	<l id="1387" part="f">Ah, mon heur, jamais je n’obtiendrais sur moi</l>
 	<l id="1388">De pardonner ce crime à tout autre qu’à toi.</l>
@@ -2070,7 +2070,7 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1395">Voudras-tu démentir notre entretien secret ?</l>
 	<l id="1396">Seras-tu plus mauvaise enfin que ton portrait ?</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="1397">Tu pourrais de sa part te faire tant promettre,</l>
 	<l id="1398">Que je ne voudrais pas tout à fait m’y remettre :</l>
 	<l id="1399">Quoiqu’à dire le vrai je ne sais pas trop bien</l>
@@ -2080,7 +2080,7 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1403">Prends soin de te guérir, et les miens plus contents...</l>
 	<l id="1404">Mais je te le dirai quand il en sera temps.</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="1405">Cet énigme enjoué n’a point d’incertitude</l>
 	<l id="1406">Qui soit propre à donner beaucoup d’inquiétude,</l>
 	<l id="1407">Et si j’ose entrevoir dans son obscurité,</l>
@@ -2088,7 +2088,7 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1409">Mais dis tout, ou du moins souffre que je devine,</l>
 	<l id="1410">Et te dise à mon tour ce que je m’imagine.</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="1411">Tu dois, par complaisance au peu que j’ai d’appas,</l>
 	<l id="1412">Feindre d’entendre mal ce que je ne dis pas,</l>
 	<l id="1413">Et ne point m’envier un moment de délices</l>
@@ -2100,65 +2100,65 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1419">Et sans en concevoir d’espoir trop affermi,</l>
 	<l id="1420">N’espère qu’à demi, quand je parle à demi.</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="1421">Tu parles à demi, mais un secret langage</l>
 	<l id="1422">Qui va jusques au cœur m’en dit bien davantage,</l>
 	<l id="1423">Et tes yeux sont du tien de mauvais truchements.</l>
 	<l id="1424">Où rien plus ne s’oppose à nos contentements.</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="1425">Je l’avais bien prévu, que ton impatience</l>
 	<l id="1426">Porterait ton espoir à trop de confiance,</l>
 	<l id="1427">Que pour craindre trop peu tu devinerais mal.</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="1428">Quoi ! La reine ose encore soutenir mon rival,</l>
 	<l id="1429">Et sans avoir d’horreur d’une action si noire...</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="1430">Elle a l’âme trop haute et chérit trop la gloire,</l>
 	<l id="1431">Pour ne pas s’accorder aux volontés du roi,</l>
 	<l id="1432">Qui d’un heureux hymen récompense ta foi.</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="1433">Si notre heureux malheur a produit ce miracle,</l>
 	<l id="1434">Qui peut à nos désirs mettre encore quelque obstacle ?</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="1435" part="i">Tes blessures.</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="1435" part="f">Allons, je suis déjà guéri.</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="1436">Ce n’est pas pour un jour que je veux un mari,</l>
 	<l id="1437">Et je ne puis souffrir que ton ardeur hasarde</l>
 	<l id="1438">Un bien que de ton roi la prudence retarde.</l>
 	<l id="1439">Prends soin de te guérir, mais guérir tout à fait,</l>
 	<l id="1440" part="i">Et crois que tes désirs...</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="1440" part="f">N’auront aucun effet.</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="1441">N’auront aucun effet ! Qui te le persuade ?</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="1442">Un corps peut-il guérir, dont le cœur est malade ?</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="1443">Tu m’as rendu mon change, et m’as fait quelque peur,</l>
 	<l id="1444">Mais je sais le remède aux blessures du cœur.</l>
 	<l id="1445">Les tiennes, attendant le jour que tu souhaites,</l>
 	<l id="1446">Auront pour médecins mes yeux qui les ont faites,</l>
 	<l id="1447">Je me rends désormais assidue à te voir.</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="1448">Cependant, ma chère âme, il est de mon devoir</l>
 	<l id="1449">Que sans perdre de temps j’aille rendre en personne</l>
 	<l id="1450">D’humbles grâces au roi du bonheur qu’il nous donne.</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="1451">Je me charge pour toi de ce remerciement.</l>
 	<l id="1452">Toutefois qui saurait que pour ce compliment</l>
 	<l id="1453">Une heure hors d’ici ne pût beaucoup te nuire,</l>
@@ -2166,17 +2166,17 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1455">Et j’aimerais mieux être un peu plus tard à toi,</l>
 	<l id="1456">Que tes justes devoirs manquassent vers ton roi.</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="1457">Mes blessures n’ont point, dans leurs faibles atteintes</l>
 	<l id="1458">Sur quoi ton amitié puisse fonder ses craintes.</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="1459">Viens donc, et puisqu’enfin nous faisons mêmes vœux,</l>
 	<l id="1460">En le remerciant parle au nom de tous deux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Alcandre, Floridan, Clitandre, Pymante, Dorise, Cléon, Prévôt, trois veneurs.</head>
-<sp who="ALCANDRE"><speaker>ALCANDRE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Alcandre, Floridan, Clitandre, Pymante, Dorise, Cléon, Prévôt, trois veneurs.</cast>
+<sp who="ALCANDRE"><hstage><speaker>ALCANDRE</speaker>.</hstage>
 	<l id="1461">Que souvent notre esprit, trompé par l’apparence,</l>
 	<l id="1462">Règle ses mouvements avec peu d’assurance !</l>
 	<l id="1463">Qu’il est peu de lumière en nos entendements,</l>
@@ -2196,7 +2196,7 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1477">Perds-en le souvenir, et pour moi, je te jure</l>
 	<l id="1478">Qu’à force de bienfaits j’en répare l’injure.</l>
 </sp>
-<sp who="CLITANDRE"><speaker>CLITANDRE.</speaker>
+<sp who="CLITANDRE"><hstage><speaker>CLITANDRE</speaker>.</hstage>
 	<l id="1479">Que votre majesté, sire, n’estime pas</l>
 	<l id="1480">Qu’il faille m’attirer par de nouveaux appas.</l>
 	<l id="1481">L’honneur de vous servir m’apporte assez de gloire,</l>
@@ -2208,13 +2208,13 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1487">Et tout chargé de fers, ma plus forte douleur</l>
 	<l id="1488">Ne s’en osa jamais prendre qu’à mon malheur.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="1489">Seigneur, moi qui connais le fond de son courage,</l>
 	<l id="1490">Et qui n’ai jamais vu de fard en son langage,</l>
 	<l id="1491">Je tiendrais à bonheur que votre majesté</l>
 	<l id="1492">M’acceptât pour garant de sa fidélité.</l>
 </sp>
-<sp who="ALCANDRE"><speaker>ALCANDRE.</speaker>
+<sp who="ALCANDRE"><hstage><speaker>ALCANDRE</speaker>.</hstage>
 	<l id="1493">Ne nous arrêtons plus sur la reconnaissance</l>
 	<l id="1494">Et de mon injustice, et de son innocence :</l>
 	<l id="1495">Passons aux criminels. Toi dont la trahison</l>
@@ -2230,7 +2230,7 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1505">Sur un homme innocent tombent les conjectures ?</l>
 	<l id="1506">Parle, parle, confesse, et préviens les tortures.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="1507">Sire, écoutez-en donc la pure vérité.</l>
 	<l id="1508">Votre seule faveur a fait ma lâcheté,</l>
 	<l id="1509">Vous dis-je, et cet objet dont l’amour me transporte.</l>
@@ -2240,7 +2240,7 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1513">Reconnu pour l’auteur d’une telle surprise,</l>
 	<l id="1514">Le moyen d’approcher de vous ou de Dorise ?</l>
 </sp>
-<sp who="ALCANDRE"><speaker>ALCANDRE.</speaker>
+<sp who="ALCANDRE"><hstage><speaker>ALCANDRE</speaker>.</hstage>
 	<l id="1515">Tu dois aller plus outre, et m’imputer encore</l>
 	<l id="1516">L’attentat sur mon fils comme sur Rosidor ;</l>
 	<l id="1517">Car je ne touche point à Dorise outragée ;</l>
@@ -2248,7 +2248,7 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1519">Et coupable elle-même, elle a bien mérité</l>
 	<l id="1520">L’affront qu’elle a reçu de ta témérité.</l>
 </sp>
-<sp who="PYMANTE"><speaker>PYMANTE.</speaker>
+<sp who="PYMANTE"><hstage><speaker>PYMANTE</speaker>.</hstage>
 	<l id="1521">Un crime attire l’autre, et de peur d’un supplice,</l>
 	<l id="1522">On tâche, en étouffant ce qu’on en voit d’indice,</l>
 	<l id="1523">De paraître innocent à force de forfaits.</l>
@@ -2257,7 +2257,7 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1526">Vous pleureriez le prince et souffririez Pymante.</l>
 	<l id="1527">Mais que tardez-vous plus ? J’ai tout dit : punissez.</l>
 </sp>
-<sp who="ALCANDRE"><speaker>ALCANDRE.</speaker>
+<sp who="ALCANDRE"><hstage><speaker>ALCANDRE</speaker>.</hstage>
 	<l id="1528">Est-ce là le regret de tes crimes passés ?</l>
 	<l id="1529">Ôtez-le moi d’ici : je ne puis voir sans honte</l>
 	<l id="1530">Que de tant de forfaits il tient si peu de conte.</l>
@@ -2273,14 +2273,14 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1539">Quel barbare, ou plutôt quelle peste d’enfer</l>
 	<l id="1540">Se rendit ton complice et te donna ce fer ?</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="1541">L’autre jour, dans ce bois trouvé par aventure,</l>
 	<l id="1542">Sire, il donna sujet à toute l’imposture ;</l>
 	<l id="1543">Mille jaloux serpents qui me rongeaient le sein</l>
 	<l id="1544">Sur cette occasion formèrent mon dessein :</l>
 	<l id="1545" part="i">Je le cachai dès lors.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="1545" part="f">Il est tout manifeste</l>
 	<l id="1546">Que ce fer n’est enfin qu’un misérable reste</l>
 	<l id="1547">Du malheureux duel où le triste Arimant</l>
@@ -2291,15 +2291,15 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1552">Laisse notre conduite à son dérèglement ;</l>
 	<l id="1553">Lors tout ce qu’il produit mérite qu’on l’excuse.</l>
 </sp>
-<sp who="ALCANDRE"><speaker>ALCANDRE.</speaker>
+<sp who="ALCANDRE"><hstage><speaker>ALCANDRE</speaker>.</hstage>
 	<l id="1554">De si faibles raisons mon esprit ne s’abuse.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="1555">Seigneur, quoi qu’il en soit, un fils qu’elle vous rend</l>
 	<l id="1556">Sous votre bon plaisir sa défense entreprend :</l>
 	<l id="1557">Innocente ou coupable, elle assura ma vie.</l>
 </sp>
-<sp who="ALCANDRE"><speaker>ALCANDRE.</speaker>
+<sp who="ALCANDRE"><hstage><speaker>ALCANDRE</speaker>.</hstage>
 	<l id="1558">Ma justice en ce cas la donne à ton envie ;</l>
 	<l id="1559">Ta prière obtient même avant que demander</l>
 	<l id="1560">Ce qu’aucune raison ne pouvait t’accorder.</l>
@@ -2308,7 +2308,7 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1563">Que le prince aujourd’hui te préserve à la fois</l>
 	<l id="1564">Des fureurs de Pymante et des rigueurs des lois.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="1565">Après une bonté tellement excessive,</l>
 	<l id="1566">Puisque votre clémence ordonne que je vive,</l>
 	<l id="1567">Permettez désormais, Sire, que mes desseins</l>
@@ -2319,15 +2319,15 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1571">Et qu’une criminelle indigne d’être au jour</l>
 	<l id="1572">Se puisse renfermer en leur sacré séjour.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="1573">Te bannir de la cour après m’être obligée,</l>
 	<l id="1574">Ce serait trop montrer ma faveur négligée.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>.</hstage>
 	<l id="1575">N’arrêtez point au monde un objet odieux,</l>
 	<l id="1576">De qui chacun d’horreur détournerait les yeux.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="1577">Fusses-tu mille fois encore plus méprisable,</l>
 	<l id="1578">Ma faveur te va rendre assez considérable</l>
 	<l id="1579">Pour t’acquérir ici mille inclinations.</l>
@@ -2338,31 +2338,31 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1584">Du côté que ton prince a voulu te choisir :</l>
 	<l id="1585">Réunis mes faveurs t’unissant à Dorise.</l>
 </sp>
-<sp who="CLITANDRE"><speaker>CLITANDRE.</speaker>
+<sp who="CLITANDRE"><hstage><speaker>CLITANDRE</speaker>.</hstage>
 	<l id="1586">Mais par cette union mon esprit se divise,</l>
 	<l id="1587">Puisqu’il faut que je donne aux devoirs d’un époux</l>
 <note type="L">Penser : nom masculin au XVIIème pour « pensée ».</note>
 	<l id="1588">La moitié des pensers qui ne sont dûs qu’à vous.</l>
 </sp>
-<sp who="FLORIDAN"><speaker>FLORIDAN.</speaker>
+<sp who="FLORIDAN"><hstage><speaker>FLORIDAN</speaker>.</hstage>
 	<l id="1589">Ce partage m’oblige, et je tiens tes pensées</l>
 	<l id="1590">Vers un si beau sujet d’autant mieux adressées,</l>
 	<l id="1591">Que je lui veux céder ce qui m’en appartient.</l>
 </sp>
-<sp who="ALCANDRE"><speaker>ALCANDRE.</speaker>
+<sp who="ALCANDRE"><hstage><speaker>ALCANDRE</speaker>.</hstage>
 	<l id="1592">Taisez-vous, j’aperçois notre blessé qui vient.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Alcandre, Floridan, Cléon, Clitandre, Rosidor, Caliste, Dorise.</head>
-<sp who="ALCANDRE"><speaker>ALCANDRE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Alcandre, Floridan, Cléon, Clitandre, Rosidor, Caliste, Dorise.</cast>
+<sp who="ALCANDRE"><hstage><speaker>ALCANDRE</speaker>.</hstage>
 	<l id="1593">Au comble de tes vœux, sûr de ton mariage,</l>
 	<l id="1594">N’es-tu point satisfait ? Que veux-tu davantage ?</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="1595">L’apprendre de vous, sire, et pour remerciements</l>
 	<l id="1596">Nous offrir l’un et l’autre à vos commandements.</l>
 </sp>
-<sp who="ALCANDRE"><speaker>ALCANDRE.</speaker>
+<sp who="ALCANDRE"><hstage><speaker>ALCANDRE</speaker>.</hstage>
 	<l id="1597">Si mon commandement peut sur toi quelque chose,</l>
 	<l id="1598">Et si ma volonté de la tienne dispose,</l>
 	<l id="1599">Embrasse un cavalier indigne des liens</l>
@@ -2374,26 +2374,26 @@ autres mènent Pymante d’une autre côté.</stage>
 	<l id="1605">Et ce traître, à présent tombé sous ma puissance,</l>
 	<l id="1606">Clitandre, fait trop voir quelle est son innocence.</l>
 </sp>
-<sp who="ROSIDOR"><speaker>ROSIDOR.</speaker>
+<sp who="ROSIDOR"><hstage><speaker>ROSIDOR</speaker>.</hstage>
 	<l id="1607">Sire, vous le savez, le cœur me l’avait dit,</l>
 	<l id="1608">Et si peu que j’avais près de vous de crédit,</l>
 	<l id="1609">Je l’employai dès lors contre votre colère.</l>
 <stage>À Clitandre.</stage>
 	<l id="1610">En moi dorénavant faites état d’un frère.</l>
 </sp>
-<sp who="CLITANDRE"><speaker>CLITANDRE, à Rosidor.</speaker>
+<sp who="CLITANDRE"><hstage><speaker>CLITANDRE</speaker>, à Rosidor.</hstage>
 	<l id="1611">En moi, d’un serviteur dont l’amour éperdu</l>
 	<l id="1612">Ne vous conteste plus un prix qui vous est dû.</l>
 </sp>
-<sp who="DORISE"><speaker>DORISE, à Caliste.</speaker>
+<sp who="DORISE"><hstage><speaker>DORISE</speaker>, à Caliste.</hstage>
 	<l id="1613">Si le pardon du roi me peut donner le vôtre,</l>
 	<l id="1614" part="i">Si mon crime...</l>
 </sp>
-<sp who="CALISTE"><speaker>CALISTE.</speaker>
+<sp who="CALISTE"><hstage><speaker>CALISTE</speaker>.</hstage>
 	<l id="1614" part="f">Ah ma sœur, tu me prends pour une autre,</l>
 	<l id="1615">Si tu crois que je puisse encore m’en souvenir.</l>
 </sp>
-<sp who="ALCANDRE"><speaker>ALCANDRE.</speaker>
+<sp who="ALCANDRE"><hstage><speaker>ALCANDRE</speaker>.</hstage>
 	<l id="1616">Tu ne veux plus songer qu’à ce jour à venir</l>
 <note tye="L">Hyménée : divinité fabuleuse des païens, qu’ils croient présider aux mariage. (...) signifie aussi poétiquement le mariage. [F]</note>
 	<l id="1617">Où Rosidor guéri termine un hyménée.</l>

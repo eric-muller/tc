@@ -58,7 +58,7 @@
 <body>
 <div1 type="acte" n="1"><head/>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="1">
 	<s id="1">Ma foi, plus j’y réfléchis, plus je me trouve heureux, moi Petit-Jean, d’être devenu concierge des Champs-Élysées.</s>
 	<s id="2">Voilà ce que c’est qu’une bonne protection !</s>
@@ -106,36 +106,36 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Petit-Jean, Laforest, Antoine.</head>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Petit-Jean, Laforest, Antoine.</cast>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <stage>AIR : À dîner ça me rapporte.</stage>
 	<l id="17">Mon ami, je vous apporte</l>
 	<l id="18">Des fruits de plus d’une sorte.</l>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 	<l id="19">Voici du nectar frais.</l>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 	<l id="20">Quant à moi, sans frais,</l>
 	<l id="21">J’offre le frais,</l>
 	<l id="22">Le frais qu’on prend à ma porte (bis).</l>
 </sp>
-<sp who="ENSEMBLE"><speaker>ENSEMBLE.</speaker>
+<sp who="ENSEMBLE"><hstage><speaker>ENSEMBLE</speaker>.</hstage>
 	<l id="23">Avec lui, sans frais,</l>
 	<l id="24">Prenons le frais,</l>
 	<l id="25">Le frais qu’on prend à sa porte (ter).</l>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="1">
 	<s id="1">Mademoiselle Laforest, je ne vous demande pas comment vous vous portez, parce qu’ici on se porte toujours bien.</s>
 </p>
 </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="2">
 	<s id="1">Monsieur Petit-Jean, je ne vous demande pas comment vous avez dormi, parce qu’ici le sommeil est toujours bon.</s>
 </p>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="3">
 	<s id="1">C’est bien !</s>
 	<s id="2">C’est bien !</s>
@@ -149,82 +149,82 @@
 	<l id="30">Dans l’autre monde.</l>
 <stage>Il s’assied.</stage>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="3">
 	<s id="1">Il a raison.</s>
 	<s id="2">Asseyons-nous.</s>
 </p>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="4">
 	<s id="1">Et déjeunons.</s>
 </p>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Si j’ai laissé mes compliments de l’autre côté, je n’y ai pas laissé mon appétit.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="6">
 	<s id="1">Ni moi.</s>
 </p>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="7">
 	<s id="1">Ni moi.</s>
 </p>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <stage>AIR : Nous n’avons qu’un temps à vivre.</stage>
 	<l id="31">Lorsque l’on a tant à vivre,</l>
 	<l id="32">À vivre nonchalamment,</l>
 	<l id="33">Il faut bien que l’on se livre</l>
 	<l id="34">Au plaisir d’être gourmand.</l>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 	<l id="35">Ici l’existence est fort belle ;</l>
 	<l id="36">Mais, je l’avoue franchement,</l>
 	<l id="37">Je n’aime une vie éternelle</l>
 	<l id="38">Que pour boire éternellement.</l>
 </sp>
-<sp who="ENSEMBLE"><speaker>ENSEMBLE.</speaker>
+<sp who="ENSEMBLE"><hstage><speaker>ENSEMBLE</speaker>.</hstage>
 	<l id="39">Lorsque l’on a tant à vivre,</l>
 	<l id="40">À vivre nonchalamment,</l>
 	<l id="41">Il faut bien que l’on se livre</l>
 	<l id="42">Au plaisir d’être gourmand.</l>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="8">
 	<s id="1">C’est joli, nos Champs-Élysées !</s>
 </p>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="9">
 	<s id="1">Un peu uniformes.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="10">
 	<s id="1">On dit qu’on les a contrefaits à Paris.</s>
 </p>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="11">
 	<s id="1">Il y a longtemps.</s>
 </p>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="12">
 	<s id="1">Oui ; mais s’il faut en croire les nouvelles, on s’y divertit plus que jamais.</s>
 </p>
 </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="13">
 	<s id="1">Je crois que cela fait de beaux divertissements, en comparaison des nôtres !</s>
 </p>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="14">
 	<s id="1">Ma foi ! écoutez donc.</s>
 </p>
@@ -238,19 +238,19 @@
 	<l id="49">Ces vivants-là ne dorment pas</l>
 	<l id="50">Dans leurs Champs-Élysées.</l>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="15">
 	<s id="1">Oh bien oui, dormir !</s>
 	<s id="2">Ils ont bien autre chose à faire.</s>
 	<s id="3">Et les petits-déjeuners, les petits-goûtés.</s>
 </p>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="16">
 	<s id="1">Qui valent bien les nôtres.</s>
 </p>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="17">
 	<s id="1">Pour le moins.</s>
 </p>
@@ -264,7 +264,7 @@
 	<l id="57">Ces Parisiens prennent de tout</l>
 	<l id="58">Dans leurs Champs-Élysées.</l>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 	<l id="59">Ne médisons pas, mes amis,</l>
 	<l id="60">De nos Champs-Elysées ;</l>
 	<l id="61">Tout le monde est en paradis</l>
@@ -274,32 +274,32 @@
 	<l id="65">Font damner leurs pauvres maris</l>
 	<l id="66">Dans leurs Champs-Elysées.</l>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="18">
 	<s id="1">Tu vois tout cela dans tes journaux, toi.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="19">
 	<s id="1">Apparemment.</s>
 </p>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="20">
 	<s id="1">Vous en recevez beaucoup ?</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="21">
 	<s id="1">Des postillons, des courriers, des messagers ; tantôt plus, tantôt moins, selon le vent qui souffle.</s>
 </p>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="22">
 	<s id="1">Mais comment cela vous vient-il ?</s>
 </p>
 </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <stage>AIR : De la Croisée.</stage>
 	<l id="67">Tantôt, par la barque à Caron,</l>
 	<l id="68">Ils nous arrivent pêle-mêle ;</l>
@@ -311,58 +311,58 @@
 	<l id="74">Il me tombe un gros paquet..... pan.</l>
 	<l id="75">C’était l’année entière.</l>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="23">
 	<s id="1">Et relié, peut-être ?</s>
 </p>
 </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="24">
 	<s id="1">Non, ça ne se relie pas.</s>
 </p>
 </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="25">
 	<s id="1">C’est ce que dit Molière.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="26">
 	<s id="1">Et Racine.</s>
 </p>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="27">
 	<s id="1">Et Boileau, donc : toutes les fois qu’il jette les yeux sur ces paperasses-là, il me demande s’il n’est pas arrivé ici quelque épicier.</s>
 </p>
 </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="28">
 	<s id="1">Ah dame !</s>
 	<s id="2">Il n’aime pas les mauvais livres, celui-là.</s>
 </p>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="29">
 	<s id="1">Non, et dans son temps il ne leur faisait pas de grâce.</s>
 </p>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="30">
 	<s id="1">Comme il était méchant !</s>
 </p>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="31">
 	<s id="1">Pour les méchants auteurs ; mais du reste le meilleur homme du monde.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="32">
 	<s id="1">Pas meilleur que Racine.</s>
 </p>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="33">
 	<s id="1">Pas meilleur que Molière.</s>
 </p>
@@ -370,35 +370,35 @@
 	<l id="76">Mon maître était d’une bonté</l>
 	<l id="77">Aujourd’hui peu commune.</l>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 	<l id="78">Racine m’a si bien traité</l>
 	<l id="79">Qu’il a fait ma fortune.</l>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="80">Boileau fit pour son jardinier</l>
 	<l id="81">Une épître touchante.</l>
 </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 	<l id="82">Molière encor plus familier</l>
 	<l id="83">Consultait sa servante (bis).</l>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="34">
 	<s id="1">Ah ça !</s>
 	<s id="2">Mais vous apercevez-vous d’une chose, vous autres ?</s>
 </p>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="35">
 	<s id="1">De quoi donc ?</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="36">
 	<s id="1">C’est que nous disons du bien de nos maîtres.</s>
 </p>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="37">
 	<s id="1">J’y pensais.</s>
 </p>
@@ -413,22 +413,22 @@
 	<l id="90">Et qui plus est, tous trois reconnaissants ;</l>
 	<l id="91">En ferons-nous venir la mode ?</l>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="38">
 	<s id="1">J’en suis fâché pour le monde ; mais cette mode-là ne prendra pas.</s>
 </p>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="39">
 	<s id="1">Tant pis.</s>
 </p>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="40">
 	<s id="1">Il est pourtant si naturel d’aimer les gens qui nous font du bien.</s>
 </p>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="41">
 	<s id="1">Et voilà pourquoi nous aimons tant nos maîtres.</s>
 </p>
@@ -436,38 +436,38 @@
 	<l id="92">Trinquons, buvons à leur santé,</l>
 	<l id="93">Le cœur nous y convie.</l>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 	<l id="94">Sans oublier notre santé</l>
 	<l id="95">Chaque jour rajeunie.</l>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="96">Puisque j’ai, de l’autre côté,</l>
 	<l id="97">Fait ma dernière maladie</l>
 	<l id="98">Et mes adieux la faculté,</l>
 	<l id="99">Je bois à coup sûr à ma santé.</l>
 </sp>
-<sp who="TOUS"><speaker>TOUS.</speaker>
+<sp who="TOUS"><hstage><speaker>TOUS</speaker>.</hstage>
 	<l id="100">Puisque j’ai, de l’autre côté,</l>
 	<l id="101">Fait ma dernière maladie</l>
 	<l id="102">Et mes adieux la faculté,</l>
 	<l id="103">Je bois à coup sûr à ma santé.</l>
 <stage>On entend le refrain de l’air suivant.</stage>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="42">
 	<s id="1">Ah !</s>
 	<s id="2">Ah !...</s>
 	<s id="3">Voici du nouveau.</s>
 </p>
 </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN, voyant Arlequin.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>, voyant Arlequin.</hstage>
 <p id="43">
 	<s id="1">Qu’est-ce que c’est que ça ?</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Les Mêmes, Arlequin en Mercure.</head>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Les Mêmes, Arlequin en Mercure.</cast>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <stage>AIR : La boulangère.</stage>
 	<l id="104">En voyant un petit blondin</l>
 	<l id="105">Leste dans son allure,</l>
@@ -478,17 +478,17 @@
 	<l id="110">Arlequin,</l>
 	<l id="111">C’est Arlequin-Mercure.</l>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="1">
 	<s id="1">Monsieur Arlequin-Mercure, soyez le bienvenu.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="2">
 	<s id="1">Il paraît que vous n’êtes pas arrivé ici comme tout le monde.</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="3">
 	<s id="1">C’est vrai.</s>
 </p>
@@ -502,12 +502,12 @@
 	<l id="118">Arlequin,</l>
 	<l id="119">Fait Arlequin-Mercure.</l>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="4">
 	<s id="1">C’est adroit.</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <stage>AIR : Du pas redoublé.</stage>
 	<l id="120">Ne voulant pas de l’Achéron</l>
 	<l id="121">Frauder les droits de passe,</l>
@@ -518,69 +518,69 @@
 	<l id="126">Le rivage était plein d’Anglais</l>
 	<l id="127">Qui venaient par Ostende.</l>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="5">
 	<s id="1">Mais qu’y a-t-il pour votre service ?</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="6">
 	<s id="1">Je veux entrer aux Champs-Elysées.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="7">
 	<s id="1">Ça ne se peut pas.</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="8">
 	<s id="1">Comment, ça ne se peut pas !</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="9">
 	<s id="1">Non.</s>
 	<s id="2">Avez-vous un passeport ?</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="10">
 	<s id="1">Un passeport !</s>
 	<s id="2">Et de qui ?</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="11">
 	<s id="1">Et parbleu, de votre médecin !</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="12">
 	<s id="1">Mais je vous ai déjà dit que je n’étais pas mort.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="13">
 	<s id="1">Et je vous ai déjà dit, moi, que vous ne pouviez pas entrer.</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="14">
 	<s id="1">Oui, sans payer ; mais en payant.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="15">
 	<s id="1">En payant !</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="16">
 	<s id="1">Cela se fait partout.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="17">
 	<s id="1">Excepté à ma porte.</s>
 </p>
@@ -599,53 +599,53 @@
 	<l id="139">Les honnêtes défunts, surpris,</l>
 	<l id="140">S’y croiraient à Paris.</l>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="18">
 	<s id="1">Monsieur Petit-Jean, je vous fais mon compliment ; le trépas vous a changé, et c’est en bien.</s>
 </p>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="19">
 	<s id="1">Il est drôle, ce vivant-là.</s>
 </p>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="20">
 	<s id="1">Il est gai.</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="21">
 	<s id="1">J’admire votre délicatesse ; mais il faut absolument que je parle à des gens de mérite qui sont là.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="22">
 	<s id="1">Lesquels ?</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="23">
 	<s id="">Lesquels, lesquels !</s>
 </p>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="24">
 	<s id="1">Oh !</s>
 	<s id="2">Il y a de l’ordre aux Champs-Elysées.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="25">
 	<s id="1">Certainement, il y en a... les arts et les sciences y sont divisés en départements, les départements en bureaux, qui sont conduits par ceux qui s’y entendent.</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="26">
 	<s id="1">C’est fort bien fait à vous.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="27">
 	<s id="1">D’aprés cela,</s>
 </p>
@@ -663,19 +663,19 @@
 	<l id="147">Et de la haute comédie</l>
 	<l id="148">Molière a le département.</l>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="28">
 	<s id="1">Molière !</s>
 	<s id="2">C’est justement l’homme qu’il me faut.</s>
 </p>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="29">
 	<s id="1">Eh bien !</s>
 	<s id="2">Tenez, voilà sa servante.</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="30">
 	<s id="1">Sa servante !</s>
 	<s id="2">À la bonne heure ; du moins  elle est reconnaissable celle-là, et voilà comme il nous les faudrait.</s>
@@ -690,12 +690,12 @@
 	<l id="155">Ces soubrettes de cent couleurs</l>
 	<l id="156">Sont mieux mises que leurs maîtresses.</l>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="31">
 	<s id="1">Mieux mises que leurs maîtresses !</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="32">
 	<s id="1">Nous avons par-ci par-là des exceptions.</s>
 </p>
@@ -710,34 +710,34 @@
 	<l id="164">En un mot c’était accompli :</l>
 	<l id="165">C’était joli ! c’était joli !</l>
 </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="33">
 	<s id="1">Eh mais, vous me rappelez le nom d’une personne qui est arrivée ces jours derniers et que Molière a embrassée avec bien du plaisir.</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="34">
 	<s id="1">Ne me parlez pas de cela ; vous ne vous réjouissez ici que quand on s’afflige chez nous.</s>
 	<s id="2">Celle-là nous la regretterons longtemps.</s>
 </p>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="35">
 	<s id="1">D’après ce que Molière en dit, elle aurait dû donner l’exemple aux autres.</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="36">
 	<s id="1">Oh, les autres !</s>
 	<s id="2">C’est un parti pris : malgré cela il faut leur rendre justice ; elles ne se mettent pas encore à la romaine.</s>
 </p>
 </sp>
-<sp who="LAFOREST_ANTOINE_PETIT-JEAN"><speaker>LAFOREST, ANTOINE, PETIT-JEAN.</speaker>
+<sp who="LAFOREST_ANTOINE_PETIT-JEAN"><hstage><speaker>LAFOREST</speaker>, <speaker>ANTOINE</speaker>, <speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="37">
 	<s id="1">À la romaine ?</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="38">
 	<s id="1">C’est la nouvelle parure de nos dames françaises, dans nos spectacles, dans nos salons, dans nos promenades.</s>
 </p>
@@ -752,33 +752,33 @@
 	<l id="172">Mais il est rare, à Tivoli,</l>
 	<l id="173">De rencontrer une Lucrèce.</l>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="39">
 	<s id="1">C’est singulier !</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="40">
 	<s id="1">Ça doit bien amuser les hommes.</s>
 </p>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="41">
 	<s id="1">Et surtout les maris.</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="42">
 	<s id="1">Oh !</s>
 	<s id="2">Il y a aussi des hommes qui se mettent bien.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="43">
 	<s id="1">À la romaine ?</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <stage>Même air.</stage>
 	<l id="174">À ces antiques vêtements</l>
 	<l id="175">Si la mode a soumis nos belles,</l>
@@ -789,39 +789,39 @@
 	<l id="180">Pourraient se dire tous les soirs.</l>
 	<l id="181">D’honneur, j’ai perdu ma journée !</l>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="44">
 	<s id="1">Ah ça !</s>
 	<s id="2">Dites-donc ; j’en reviens aux femmes, moi. J’ai vu quelquefois des statues de femmes romaines ; il me semble qu’elles étaient un peu...</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="45">
 	<s id="1">De ce côté-là, le costume est bien imité.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="46">
 	<s id="1">C’est drôle ça !</s>
 </p>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <note>Auteuil était un village hors les murs de Paris au-delà des Champs-Elysées.</note>
 <p id="47">
 	<s id="1">Morgué, je suis fâché d’être mort ; j’en verrais quelques unes à Auteuil.</s>
 </p>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="48">
 	<s id="1">Ah !</s>
 	<s id="2">Mon dieu, mon dieu !</s>
 	<s id="3">De mon temps il n’en était pas ainsi.</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 Je le crois. 
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <stage>AIR : Daignez m’épargner le reste.</stage>
 	<l id="182">Autrefois, découvrir son bras</l>
 	<l id="183">Eût été chose ridicule ;</l>
@@ -833,12 +833,12 @@ Je le crois.
 	<l id="189">Qu’on en voie un peu ; mais pourtant</l>
 	<l id="190">Laissez deviner le reste.</l>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="49">
 	<s id="1">Tenez, ne critiquez pas cette mode ; elle est fort agréable, et je vois des femmes à qui cela va très bien.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="50">
 	<s id="1">C’est possible, mais enfin.</s>
 </p>
@@ -852,80 +852,80 @@ Je le crois.
 	<l id="197">Mais pour la rendre plus jolie,</l>
 	<l id="198">Ça n’se peut pas (bis.)</l>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="51">
 	<s id="1">Et dites-moi, je vous prie....</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="52">
 	<s id="1">Dites-moi plutôt, vous, si je puis parler à votre maître.</s>
 </p>
 </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="53">
 	<s id="1">Pour quelle affaire ?</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="54">
 	<s id="1">Pour une affaire qui lui plaira ; car elle intéresse son ami Racine.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="55">
 	<s id="1">Racine !</s>
 	<s id="2">Que ne vous adressez-vous à lui-même.</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="56">
 	<s id="1">Non pas....</s>
 	<s id="2">Il faut qu’il n’en sache rien.</s>
 </p>
  </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="57">
 	<s id="1">En ce cas je vais vous chercher Molière.</s>
 </p>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="58">
 	<s id="1">Et moi, je vais vous envoyer Boileau ; il est aussi l’ami de Racine ; et puis, il sera bien aise de vous voir : vous avez le petit coup de patte ; vous lui ferez peut-être passer sa mauvaise humeur.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="59">
 	<s id="1">Est-ce que ça le tient toujours ?</s>
 </p>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="60">
 	<s id="1">Toujours.</s>
 </p>
 <stage>Ils sortent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Petit-Jean, Arlequin.</head>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Petit-Jean, Arlequin.</cast>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="1">
 	<s id="1">Comment !...</s>
 	<s id="2">Est-ce qu’on a de l’humeur dans ce pays-ci ?</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="2">
 	<s id="1">Oh !</s>
 	<s id="2">C’est qu’hier il est arrivé un tas de livres nouveaux, des romans, des satyres, des tragédies, des drames....</s>
 	<s id="3">Le ballot était gros, gros.... et c’était lourd.... ah mon dieu, comme c’était lourd !</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="3">
 	<s id="1">Je m’en doute.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="4">
 	<s id="1">Quand Boileau a vu tout ce fouillis, qu’il a essayé d’en lire quelques pages ; ah ! mon ami, si vous aviez vu comme il était en colère !...</s>
 	<s id="2">Il jetait ce livre-ci, il déchirait celui-là....</s>
@@ -934,30 +934,30 @@ Je le crois.
 	<s id="5">S’il y avait du style, s’il y avait des vers.... si du moins cela était français !</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="5">
 	<s id="1">Ah bien oui, français !</s>
 	<s id="2">On lui en donnera du français.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="6">
 	<s id="1">Vous n’avez donc plus de critiques chez vous ?</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="7">
 	<s id="1">Des critiques !</s>
 	<s id="2">On en fait, on en crie, on en affiche, il en pleut.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="8">
 	<s id="1">Oui !</s>
 	<s id="2">Mais je dis, de ces gens qui ont du goût, qui régentent les autres, comme faisait Boileau dans son temps.</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="9">
 	<s id="1">Oh !</s>
 	<s id="2">Nous en avons de reste ; et ce n’est pas la méchanceté qui leur manque.</s>
@@ -983,20 +983,20 @@ Je le crois.
 	<l id="213">Mais quand on n’y voit goutte,</l>
 	<l id="214">Juge-t-on des couleurs ?</l>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="10">
 	<s id="1">Paix !</s>
 	<s id="2">Voici Boileau ; il a encore l’air fàché.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="11">
 	<s id="1">C’est ce qui me paraît.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Les Mêmes, Boileau.</head>
-<sp who="BOILEAU"><speaker>BOILEAU, sans les voir.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Les Mêmes, Boileau.</cast>
+<sp who="BOILEAU"><hstage><speaker>BOILEAU</speaker>, sans les voir.</hstage>
 <stage>AIR : De la Soirée orageuse.</stage>
 <note>Chapelain (Jean) : poète français, né à Paris en 1595, mort en 1674.Auteur d’un poème épique Le Pucelle sur lequel il travailla trente ans et fut moqué à sa publication par Boileau. Membre de l’Académie française dont il écrivit les statuts.</note>
 	<l id="215">J’avais proscrit les Chapelains,</l>
@@ -1009,19 +1009,19 @@ Je le crois.
 	<l id="221">Ce ne sont plus les mêmes noms,</l>
 	<l id="222">Mais ce sont les mêmes ouvrages.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="1">
 	<s id="1">Je n’ose pas l’aborder.</s>
 </p>
 </sp>
-<sp who="BOILEAU"><speaker>BOILEAU à Petit-Jean.</speaker>
+<sp who="BOILEAU"><hstage><speaker>BOILEAU</speaker> à Petit-Jean.</hstage>
 <p id="2">
 	<s id="1">Eh bien !</s>
 	<s id="2">Qu’est-ce encore ?</s>
 	<s id="3">Un paquet comme celui d’hier ?</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="3">
 	<s id="1">Oh non, monsieur : cela vous met trop en colère.</s>
 </p>
@@ -1039,25 +1039,25 @@ Je le crois.
 	<l id="233">Biribi,</l>
 	<l id="234">Iront boire (bis).</l>
  </sp>
-<sp who="BOILEAU"><speaker>BOILEAU.</speaker>
+<sp who="BOILEAU"><hstage><speaker>BOILEAU</speaker>.</hstage>
 <p id="4">
 	<s id="1">Tant mieux !</s>
 	<s id="2">Je n’en veux plus voir.</s>
 </p>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="5">
 	<s id="1">Pour cette fois, ce n’est pas un paquet ; c’est monsieur qui désire vous parler.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, après des lazzis.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, après des lazzis.</hstage>
 <p id="6">
 	<s id="1">Je ne m’approche de vous qu’en tremblant.</s>
 	<s id="2">Vous n’aimez ni les quolibets, ni les calembours, dont, en ma qualité d’Arlequin, je fais quelquefois mon profit.</s>
 	<s id="3">D’ailleurs vous me paraissez en train de gronder ; vous avez du noir dans l’esprit.</s>
 </p>
  </sp>
-<sp who="BOILEAU"><speaker>BOILEAU.</speaker>
+<sp who="BOILEAU"><hstage><speaker>BOILEAU</speaker>.</hstage>
 <p id="7">
 	<s id="1">Rassurez-vous.</s>
 </p>
@@ -1070,18 +1070,18 @@ Je le crois.
 	<l id="240">Je juge sans sévérité</l>
 	<l id="241">Les gens qui me font rire.</l>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="8">
 	<s id="1">Je vous reconnais là. Le petit V n’oubliera jamais ce que vous avez dit de lui dans votre Art poétique ; aussi, mes camarades et moi, nous espérons que vous voudrez bien nous protéger auprès de Molière, auquel nous avons une grâce à demander.</s>
 </p>
 </sp>
-<sp who="BOILEAU"><speaker>BOILEAU.</speaker>
+<sp who="BOILEAU"><hstage><speaker>BOILEAU</speaker>.</hstage>
 <p id="9">
 	<s id="1">Une grâce !</s>
 	<s id="2">Nous verrons cela. Au surplus, le voici.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, à part.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, à part.</hstage>
 <note>Sosie : personnage de l’Amphytrion de Molière.</note>
 <p id="10">
 	<s id="1">Molière ! sa figure m’intimide....</s>
@@ -1089,14 +1089,14 @@ Je le crois.
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Les Mêmes, Molière.</head>
-<sp who="BOILEAU"><speaker>BOILEAU, à Molière.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Les Mêmes, Molière.</cast>
+<sp who="BOILEAU"><hstage><speaker>BOILEAU</speaker>, à Molière.</hstage>
 <p id="1">
 	<s id="1">Eh bien !</s>
 	<s id="2">Mon ami, je te vois un peu déridé ; aurais-tu trouvé dans ce fatras d’hier quelque chose de moins mauvais ?</s>
 </p>
  </sp>
-<sp who="MOLIÈRE"><speaker>MOLIÈRE.</speaker>
+<sp who="MOLIÈRE"><hstage><speaker>MOLIÈRE</speaker>.</hstage>
 <note>Thalie : muse de la Comédie, le joueuse, la florissante.</note>
 <p id="2">
 	<s id="1">Non ; mais pourquoi serais-je toujours sombre ?</s>
@@ -1113,13 +1113,13 @@ Je le crois.
 	<l id="249">Un vieux célibataire.</l>
 <stage>Ritournelle, pendant laquelle Arlequin fait les lazzis de Sosie dans Amphytrion. Molière se retourne et voit les lazzis d’Arlequin.</stage>
  </sp>
-<sp who="MOLIÈRE"><speaker>MOLIÈRE.</speaker>
+<sp who="MOLIÈRE"><hstage><speaker>MOLIÈRE</speaker>.</hstage>
 <p id="3">
 	<s id="1">Mais quelle est donc cette figure grotesque ?</s>
 	<s id="2">Elle a l’air d’un enfant de la Balle.</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <stage>Ritournelle et des lazzis.</stage>
 <stage>Même air.</stage>
 	<l id="250">Là-bas quelquefois afficheur,</l>
@@ -1129,21 +1129,21 @@ Je le crois.
 	<l id="254">Je suis du V ici</l>
 	<l id="255">Le Mercure extraordinaire.</l>
  </sp>
-<sp who="MOLIÈRE"><speaker>MOLIÈRE.</speaker>
+<sp who="MOLIÈRE"><hstage><speaker>MOLIÈRE</speaker>.</hstage>
 	<l id="256">Du V !... Mon ami,</l>
 	<l id="257">Redites votre affaire.</l>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="4">
 	<s id="1">Ça n’est pas aisé.</s>
 </p>
  </sp>
-<sp who="MOLIÈRE"><speaker>MOLIÈRE.</speaker>
+<sp who="MOLIÈRE"><hstage><speaker>MOLIÈRE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Encore faut-il bien que je sache ce que vous voulez de moi.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <stage>AIR : Souvent je voyais sous l’ormeau.</stage>
 	<l id="258">Par mon Spectacle député,</l>
 	<l id="259">Je mets en vous ma confiance ;</l>
@@ -1155,12 +1155,12 @@ Je le crois.
 	<l id="265">Vous demander d’illustres morts,</l>
 	<l id="266">À défaut de vivants célèbres.</l>
  </sp>
-<sp who="MOLIÈRE"><speaker>MOLIÈRE.</speaker>
+<sp who="MOLIÈRE"><hstage><speaker>MOLIÈRE</speaker>.</hstage>
 <p id="6">
 	<s id="1">Ce que vous demandez là...</s>
 </p>
  </sp>
-<sp who="BOILEAU"><speaker>BOILEAU.</speaker>
+<sp who="BOILEAU"><hstage><speaker>BOILEAU</speaker>.</hstage>
 <p id="7">
 	<s id="1">Quand on pourrait vous les accorder, quel parti voudriez-vous tirer de leurs personnes ?</s>
 	<s id="2">Les faire mourir d’ennui une seconde fois ?</s>
@@ -1168,7 +1168,7 @@ Je le crois.
 	<s id="4">On ne sort pas d’ici.</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <stage>Même air.</stage>
 	<l id="267">Messieurs des Champs-Elysiens,</l>
 	<l id="268">Vous êtes trop inexorables ;</l>
@@ -1180,40 +1180,40 @@ Je le crois.
 	<l id="274">Ont, sur nos théâtres divers,</l>
 	<l id="275">Déchaîné des millions de diables.</l>
  </sp>
-<sp who="MOLIÈRE"><speaker>MOLIÈRE.</speaker>
+<sp who="MOLIÈRE"><hstage><speaker>MOLIÈRE</speaker>.</hstage>
 <p id="8">
 	<s id="1">Son observation est assez juste ; et je crois, mon ami, que nous pouvons l’écouter.</s>
 	<s id="2">Au fait.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="9">
 	<s id="1">Le fait !...</s>
 	<s id="2">Est que nous préparons quelque chose qui fera plaisir à Racine....</s>
 </p>
  </sp>
-<sp who="MOLIÈRE"><speaker>MOLIÈRE.</speaker>
+<sp who="MOLIÈRE"><hstage><speaker>MOLIÈRE</speaker>.</hstage>
 <p id="10">
 	<s id="1">Plaisir à Racine !</s>
 	<s id="2">Vous êtes trop heureux, mon ami, si vous en avez trouvé l’occasion.</s>
 </p>
  </sp>
-<sp who="BOILEAU"><speaker>BOILEAU.</speaker>
+<sp who="BOILEAU"><hstage><speaker>BOILEAU</speaker>.</hstage>
 <p id="11">
 	<s id="1">Quel écrivain !</s>
 </p>
  </sp>
-<sp who="MOLIÈRE"><speaker>MOLIÈRE.</speaker>
+<sp who="MOLIÈRE"><hstage><speaker>MOLIÈRE</speaker>.</hstage>
 <p id="12">
 	<s id="1">Quel génie !</s>
 </p>
  </sp>
-<sp who="BOILEAU"><speaker>BOILEAU.</speaker>
+<sp who="BOILEAU"><hstage><speaker>BOILEAU</speaker>.</hstage>
 <p id="13">
 	<s id="1">Vous n’en voyez pas chez vous comme celui-là, et vous n’en verrez plus guère.</s>
 </p>
  </sp>
-<sp who="MOLIÈRE"><speaker>MOLIÈRE.</speaker>
+<sp who="MOLIÈRE"><hstage><speaker>MOLIÈRE</speaker>.</hstage>
 <stage>AIR : Je vous salue, ô végétaux !</stage>
 	<l id="276">Interprète du sentiment,</l>
 	<l id="277">À sa muse élégante et pure</l>
@@ -1224,7 +1224,7 @@ Je le crois.
 	<l id="282">Il fut inspiré par son cœur ;</l>
 	<l id="283">Au cœur il saura toujours plaire.</l>
  </sp>
-<sp who="BOILEAU"><speaker>BOILEAU.</speaker>
+<sp who="BOILEAU"><hstage><speaker>BOILEAU</speaker>.</hstage>
 <stage>Même air.</stage>
 	<l id="284">Entre sa femme et ses enfants</l>
 	<l id="285">Il passa doucement sa vie ;</l>
@@ -1236,66 +1236,66 @@ Je le crois.
 	<l id="291">Et ne les lisait à personne.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÉNE VII. Les Mêmes, Antoine, Laforest, Petit-Jean, qui viennent écouter.</head>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<div2 type="scene" n="7"><head>SCÉNE VII.</head><cast>Les Mêmes, Antoine, Laforest, Petit-Jean, qui viennent écouter.</cast>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 <p id="1">
 	<s id="1">Voyons s’il réussira.</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="2">
 	<s id="1">Voilà pourquoi le V.</s>
 </p>
  </sp>
-<sp who="BOILEAU"><speaker>BOILEAU.</speaker>
+<sp who="BOILEAU"><hstage><speaker>BOILEAU</speaker>.</hstage>
 <p id="3">
 	<s id="1">Le V !....</s>
 	<s id="2">Et qu’a de commun le petit V avec le grand Racine !</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="4">
 	<s id="1">Rien du tout ; nous le sentons bien ; mais notre intention nous rend excusables.</s>
 </p>
  </sp>
-<sp who="BOILEAU"><speaker>BOILEAU.</speaker>
+<sp who="BOILEAU"><hstage><speaker>BOILEAU</speaker>.</hstage>
 <p id="5">
 	<s id="1">Que voulez vous dire, enfin ?</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="6">
 	<s id="1">C’est précisément ce qui m’embarrasse.</s>
 	<s id="2">Il s’agit de Racine, et il ne s’agit pas de lui, et je ne voudrais pas qu’il sût de quoi il s’agit.</s>
 </p>
  </sp>
-<sp who="BOILEAU"><speaker>BOILEAU.</speaker>
+<sp who="BOILEAU"><hstage><speaker>BOILEAU</speaker>.</hstage>
 <p id="7">
 	<s id="1">Rien n’est moins clair que ce que vous dites.</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="8">
 	<s id="1">Je le sais bien ; mais le point est délicat : je n’ose m’expliquer davantage ; et je voudrais trouver une comparaison plus hardie que moi.</s>
 </p> 
 </sp>
-<sp who="MOLIÈRE_BOILEAU"><speaker>MOLIÈRE et BOILEAU.</speaker>
+<sp who="MOLIÈRE_BOILEAU"><hstage><speaker>MOLIÈRE</speaker> et <speaker>BOILEAU</speaker>.</hstage>
 <p id="9">
 	<s id="1">Une comparaison ?</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="10">
 	<s id="1">J’y suis.</s>
 	<s id="2">Imaginez-vous qu’un superbe rosier, l’honneur d’un parterre, a produit plusieurs petits rosiers, et que l’un de ces petits rosiers languit et se dessèche.</s>
 </p> 
 </sp>
-<sp who="MOLIÈRE"><speaker>MOLIÈRE.</speaker>
+<sp who="MOLIÈRE"><hstage><speaker>MOLIÈRE</speaker>.</hstage>
 <p id="11">
 	<s id="1">Parlez, mon ami, parlez ; vous m’intéressez.</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <stage>AIR : Après tout pour s’exprimer bien.</stage>
 	<l id="292">Faute des soins du jardinier,</l>
 	<l id="293">Faute d’une abondante pluie,</l>
@@ -1306,17 +1306,17 @@ Je le crois.
 	<l id="298">À peine ce peu d’eau suffit (bis) ;</l>
 	<l id="299">Mais il rafraîchit sa racine.</l>
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <p id="12">
 	<s id="1">Il s’entend en jardinage, ce petit moricaud-là.</s>
 </p>
 </sp>
-<sp who="MOLIÈRE"><speaker>MOLIÈRE, avec sentiment.</speaker>
+<sp who="MOLIÈRE"><hstage><speaker>MOLIÈRE</speaker>, avec sentiment.</hstage>
 <p id="13">
 	<s id="1">Je vous comprends, mon ami ; et je suis bien touché de votre respect pour cet auteur inimitable.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <stage>Même air.</stage>
 	<l id="300">Sans doute un si faible tribut</l>
 	<l id="301">N’ajoutera rien à sa gloire ;</l>
@@ -1327,19 +1327,19 @@ Je le crois.
 	<l id="306">Et pour aimer ses descendants,</l>
 	<l id="307">Relisons souvent ses ouvrages.</l>
  </sp>
-<sp who="BOILEAU"><speaker>BOILEAU.</speaker>
+<sp who="BOILEAU"><hstage><speaker>BOILEAU</speaker>.</hstage>
 <p id="14">
 	<s id="1">Et comment les dépositaires des chef-d’œuvres de ce grand homme restent- ils dans l’inaction ?</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="15">
 	<s id="1">Ah !</s>
 	<s id="2">Ah !....</s>
 	<s id="3">Ils ne logent plus ensemble ; ils sont dispersés.</s>
 </p>
 </sp>
-<sp who="MOLIÈRE"><speaker>MOLIÈRE.</speaker>
+<sp who="MOLIÈRE"><hstage><speaker>MOLIÈRE</speaker>.</hstage>
 <p id="16">
 	<s id="1">Dispersés !</s>
 	<s id="2">Je ne demande pas quels sont les motifs qui les séparent ; mais au nom de Racine.</s>
@@ -1350,24 +1350,24 @@ Je le crois.
 	<l id="310">Ils devaient autour de son buste</l>
 	<l id="311">Se réunir et s’embrasser.</l>
  </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 <p id="17">
 	<s id="1">Sûrement qu’ils le devaient.</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="18">
 	<s id="1">Oh !</s>
 	<s id="2">Je connais leur bonne volonté ; certainement cela viendra : mais en attendant, comme nous sommes tous enfants d’Apollon.....</s>
 </p>
  </sp>
-<sp who="BOILEAU"><speaker>BOILEAU.</speaker>
+<sp who="BOILEAU"><hstage><speaker>BOILEAU</speaker>.</hstage>
 Je vous entends, mon petit bon-homme. 
 <stage>AIR : V de l’Ile des femmes.</stage>
 	<l id="312">Vous prétendez, apparemment,</l>
 	<l id="313">Que tous les artistes sont frères.</l>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="314">Le V est un enfant</l>
 	<l id="315">Qui pourrait croire à ces chimères ;</l>
 	<l id="316">Mais quoiqu’il n’ait pas en talents</l>
@@ -1375,12 +1375,12 @@ Je vous entends, mon petit bon-homme.
 	<l id="318">Si l’amitié fait les parents,</l>
 	<l id="319">Il doit être de la famille.</l>
  </sp>
-<sp who="BOILEAU"><speaker>BOILEAU.</speaker>
+<sp who="BOILEAU"><hstage><speaker>BOILEAU</speaker>.</hstage>
 <p id="19">
 	<s id="1">Très-petit cousin.... de bien loin.</s>
 </p>
  </sp>
-<sp who="MOLIÈRE"><speaker>MOLIÈRE.</speaker>
+<sp who="MOLIÈRE"><hstage><speaker>MOLIÈRE</speaker>.</hstage>
 <p id="20">
 	<s id="1">Boileau, je t’en prie, ménage-le ; son zèle me plaît.</s>
 	<s id="2">Mon ami, vous allez me suivre. Je vous présenterai à Piron, Favart, Santeuil, Dufresny, Scarron, Rousseau et autres, qui, tour-à-tour, iront seconder vos efforts.</s>
@@ -1389,34 +1389,34 @@ Je vous entends, mon petit bon-homme.
 <stage>On cite le nom de la pièce qu’on joue après, ou Santeuil, ou Scarron, ou Piron, etc.</stage>
 <note>Alexis Piron, Charles-Simon Favart, Charles Dufresny, Paul Scarron, Jean-Baptiste Rousseau : auteurs comiques</note>
 </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN à Arlequin.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker> à Arlequin.</hstage>
 <p id="21">
 	<s id="1">Vous êtes venu à bout de votre projet : j’en suis bien aise.</s>
 </p> 
 </sp>
-<sp who="LAFOREST_ANTOINE"><speaker>LAFOREST et ANTOINE.</speaker>
+<sp who="LAFOREST_ANTOINE"><hstage><speaker>LAFOREST</speaker> et <speaker>ANTOINE</speaker>.</hstage>
 <p id="22">
 	<s id="1">Moi de même.</s>
 </p>
  </sp>
-<sp who="BOILEAU"><speaker>BOILEAU.</speaker>
+<sp who="BOILEAU"><hstage><speaker>BOILEAU</speaker>.</hstage>
 <p id="23">
 	<s id="1">Fort bien ; mais ces hommes célèbres, où les logerez-vous ?</s>
 	<s id="2">Dans votre rue de Chartres ?</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="24">
 	<s id="1">Pourquoi pas ?</s>
 </p>
 </sp>
-<sp who="BOILEAU"><speaker>BOILEAU.</speaker>
+<sp who="BOILEAU"><hstage><speaker>BOILEAU</speaker>.</hstage>
 <note>Melpomène : muse du chant, de l’harmonie musicale et de la tragédie.</note>
 <p id="25">
 	<s id="1">Monsieur, quand il s’agit des grands hommes qui ont illustré l’art dramatique, ils ne peuvent être honorés que dans le temple de Thalie ou de Melpomène.</s>
 </p>
  </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <stage>AIR : Mais quel art.</stage>
 	<l id="320">Je vous ai dit que leurs prêtres,</l>
 	<l id="321">Divisés par le hasard,</l>
@@ -1428,7 +1428,7 @@ Je vous entends, mon petit bon-homme.
 	<l id="327">Des desservants de Momus.</l>
 <stage>Antoine, Petit-Jean, Laforest, répètent les quatre derniers vers.</stage> 
  </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 <stage>Même air.</stage>
 	<l id="328">C’est là que le V,</l>
 	<l id="329">En petit enfant de chœur,</l>
@@ -1439,10 +1439,10 @@ Je vous entends, mon petit bon-homme.
 	<l id="334">Aux dieux de l’art dramatique</l>
 <stage>Il chante un petit motet.</stage>
 </sp>
-<sp who="LE-CHŒUR"><speaker>LE CHŒUR.</speaker>
+<sp who="LE-CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 	<l id="335">Et qu’avec sa voix rustique, etc.</l>
 </sp>
-<sp who="MOLIÈRE"><speaker>MOLIÈRE.</speaker>
+<sp who="MOLIÈRE"><hstage><speaker>MOLIÈRE</speaker>.</hstage>
 <stage>Même air.</stage>
 	<l id="336">Avec sa taille enfantine</l>
 	<l id="337">Il n’est pas en son pouvoir</l>
@@ -1454,37 +1454,37 @@ Je vous entends, mon petit bon-homme.
 	<l id="342">Au devant de son image</l>
 	<l id="343">Qu’il jette, en riant, des fleurs.</l>
 </sp>
-<sp who="LE-CHŒUR"><speaker>LE CHŒUR.</speaker>
+<sp who="LE-CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 	<l id="344">Mais pour lui rendre un hommage, etc.</l>
 </sp>
-<sp who="LAFOREST"><speaker>LAFOREST.</speaker>
+<sp who="LAFOREST"><hstage><speaker>LAFOREST</speaker>.</hstage>
 	<l id="345">Prenez pour votre devise</l>
 	<l id="346">Malice et gaîté sans fiel,</l>
 	<l id="347">Raison, décence et franchise,</l>
 	<l id="348">Surtout soyez naturel.</l>
 </sp>
-<sp who="MOLIÈRE"><speaker>MOLIÈRE.</speaker>
+<sp who="MOLIÈRE"><hstage><speaker>MOLIÈRE</speaker>.</hstage>
 	<l id="349">Elle s’y entend, Laforest.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="350">Quand de la trouver savante</l>
 	<l id="351">Mon maître lui fait l’honneur,</l>
 	<l id="352">Jugez si de sa servante</l>
 	<l id="353">Je suis l’humble serviteur.</l>
 </sp>
-<sp who="BOILEAU"><speaker>BOILEAU à Arlequin.</speaker>
+<sp who="BOILEAU"><hstage><speaker>BOILEAU</speaker> à Arlequin.</hstage>
 	<l id="354">Des auteurs qu’il vous faut prendre</l>
 	<l id="355">Hâtez-vous de profiter ;</l>
 	<l id="356">Chaque soir songez à rendre</l>
 	<l id="357">Ceux qu’on pourra vous prêter.</l>
 </sp>
-<sp who="PETIT-JEAN"><speaker>PETIT-JEAN.</speaker>
+<sp who="PETIT-JEAN"><hstage><speaker>PETIT-JEAN</speaker>.</hstage>
 	<l id="358">Moi j’exigerais un gage</l>
 	<l id="359">Avant de les lui prêter !</l>
 	<l id="360">Il a, d’après son langage,</l>
 	<l id="361">Trop besoin de les garder.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, au Public.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, au Public.</hstage>
 	<l id="362">Si l’on trouve que nous sommes</l>
 	<l id="363">Bien imprudents, bien hardis ;</l>
 	<l id="364">Si l’on dit que les grands hommes</l>

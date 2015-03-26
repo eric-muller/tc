@@ -74,8 +74,8 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Antonine, Eudoxe.</head>
-<sp who="ANTONINE"><speaker>ANTONINE, malade, s’appuyant sur Eudoxe.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Antonine, Eudoxe.</cast>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>, malade, s’appuyant sur Eudoxe.</hstage>
 	<l id="1">Chère Eudoxe, fuyons cet horrible séjour...</l>
 	<l id="2">Le soleil a fini la moitié de son tour...</l>
 	<l id="3">Grand Dieu ! Sera-ce en vain qu’Antonine t’implore ?</l>
@@ -87,10 +87,10 @@
 	<l id="9">Sous ces débris affreux, Eudoxe, chaque jour</l>
 	<l id="10">Nous verra vainement attendre son retour.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="11">Vous désespérez trop de notre destinée.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="12">Eh ! que puis-je espérer ? Depuis plus d’une année,</l>
 	<l id="13">En vain sur les chemins nous attachons les yeux ;</l>
 	<l id="14">Nul objet consolant n’a paru dans ces lieux,</l>
@@ -109,12 +109,12 @@
 	<l id="27">De conseils, de travaux, suivis de la victoire,</l>
 	<l id="28">Qui soutinrent le trône, et qui firent sa gloire ?</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="29">Ah ! qu’on nous laisse au moins la consolation</l>
 	<l id="30">D’habiter avec lui dans la même prison ;</l>
 	<l id="31">De partager l’horreur de son âme attendrie.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 <stage>Elle s’assied sur une colonne rompue.</stage>
 	<l id="32">Ses discours vertueux ranimeraient ma vie ;</l>
 	<l id="33">Nos soins, nos tendres soins réchaufferaient ses sens,</l>
@@ -136,7 +136,7 @@
 	<l id="49">Du fruit de ses forfaits il jouit en ces lieux,</l>
 	<l id="50">Quand l’innocence éprouve un tel sort à ses yeux.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="51">Écoutez moins un cœur qui grossit sa misère.</l>
 	<l id="52">Malgré ses ennemis, on connaît Bélisaire.</l>
 	<l id="53">Le seul Justinien, affaibli par les ans,</l>
@@ -151,7 +151,7 @@
 	<l id="62">Il nous rendra mon père, heureux et triomphant.</l>
 	<l id="63">Peut-être ce sera sa plus belle victoire.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="64">Je te l’ai dit souvent, ne pourras-tu m’en croire ?</l>
 	<l id="65">Éloigne, chère Eudoxe, un espoir séducteur.</l>
 	<l id="66">Tes yeux n’ont jamais vu la Cour, ni l’Empereur.</l>
@@ -160,10 +160,10 @@
 	<l id="69">Vous ne connaissez point le manège des Cours.</l>
 	<l id="70">N’attends de l’Empereur, ni pitié, ni secours.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="71">Mais l’Univers entier connaît notre innocence.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="72">L’Univers ne saura que nous plaindre en silence.</l>
 	<l id="73">Ose-t-on aux Tyrans dire la vérité ?</l>
 	<l id="74">Et l’Empereur peut-il connaître l’équité ?</l>
@@ -173,11 +173,11 @@
 	<l id="78">D’un favori perfide il n’est que l’instrument,</l>
 	<l id="79">Pour perdre la vertu, pour élever le crime.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="80">Malgré la calomnie, un juste qu’on opprime</l>
 	<l id="81">N’a-t-il donc pas des droits, qui parlent tôt ou tard ?</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="82">Non : ses vils oppresseurs, pour lui, sont un rempart,</l>
 	<l id="83">Qu’il franchit rarement, quand il est leur victime ;</l>
 	<l id="84">Leur haine ne connaît rien que de légitime.</l>
@@ -210,7 +210,7 @@
 	<l id="109">Eudoxe, je mourrai, sans revoir mon époux ;</l>
 	<l id="110">Il périra sans-doute... et que deviendrez-vous ?</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="111">Auriez-vous oublié, qu’en un temps plus propice,</l>
 	<l id="112">Avant d’être livrée aux mains de l’injustice,</l>
 	<l id="113">Si je n’eus un époux, il me reste un amant,</l>
@@ -223,11 +223,11 @@
 	<l id="120">Succombant sous les coups d’une injuste puissance ?</l>
 	<l id="121">Il formera des nœuds qui seront notre appui.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="122">Il faut à cet hymen renoncer aujourd’hui :</l>
 	<l id="123" part="i">Tibère nous oublie...</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="123" part="f">Ah ! puisque je l’adore,</l>
 	<l id="124">Je n’en saurais douter, il m’aime... il m’aime encore.</l>
 	<l id="125">S’il eût, à notre place, éprouvé notre fort,</l>
@@ -239,15 +239,15 @@
 	<l id="131">Je vois paraître un char.... Ah ! Si c’était mon père...</l>
 	<l id="132" part="i">Si c’était !?.. mon cœur n’ose...</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="132" part="f">Ô mon cher Bélisaire !</l>
 	<l id="133">Après tant de malheurs, je pourrais te revoir !</l>
 	<l id="134">Mais ne nous livrons pas à ce flatteur espoir.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="135">Croyez-en cet espoir qui me flatte et m’inspire.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 <stage>Pendant qu’Eudoxe cherche à découvrir ce que ce char leur amène.</stage>
 	<l id="136">Ma fille ! Qu’aisément on croit ce qu’on désire !...</l>
 	<l id="137">Ah ! Que je porte envie à ta sécurité !</l>
@@ -263,46 +263,46 @@
 	<l id="147">Qui, depuis quelques jours, accroît encor ma peine...</l>
 	<l id="148">Mais, par mon trouble, hélas ! n’augmentons pas la sienne.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE, qui s’est rapprochée de sa mère.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>, qui s’est rapprochée de sa mère.</hstage>
 	<l id="149">Remarquez ce Guerrier sur un char éclatant :</l>
 	<l id="150">À son noble maintien, je crois voir mon amant.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="151">Pouvez-vous l’espérer ? Votre amant ! Ah ! Ma fille !</l>
 	<l id="152">Se souvient-il encor d’une triste famille ?</l>
 	<l id="153">Depuis que nous vivons dans cet affreux séjour,</l>
 	<l id="154">A-t-il daigné montrer quelques marques d’amour ?</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="155">Absent, put-il savoir où nous a fait conduire</l>
 	<l id="156" part="i">En secret l’empereur ?</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="156" part="f">Il a dû s’en instruire.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE, vivement.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>, vivement.</hstage>
 	<l id="157">Connaissez mieux Tibère et son cœur amoureux :</l>
 	<l id="158">Il est sincère et noble, autant que généreux ;</l>
 	<l id="159">Et son amour plutôt s’est accru par l’absence :</l>
 	<l id="160">Notre infortune encor m’assure sa constance.</l>
 	<l id="161">D’un mépris insultant mon cœur n’est point payé.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE, pendant qu’Eudoxe examine le char.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>, pendant qu’Eudoxe examine le char.</hstage>
 	<l id="162">Son cœur la trompe. Hélas ! nos maux l’ont effrayé...</l>
 	<l id="163">Laissons lui son erreur ; l’espoir est de son âge.</l>
 	<l id="164">Sa mère, en frémissant, entrevoit son partage...</l>
 	<l id="165">Peut-être, aux yeux de Dieu, j’ai mérité mon sort,</l>
 	<l id="166">Mais s’il faut le subir, je préfère la mort.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE, avec la plus grande émotion.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>, avec la plus grande émotion.</hstage>
 	<l id="167">C’est lui-même... C’est lui ! Le voilà qui s’avance.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="168">Vient-il nous apporter la mort ou l’espérance !</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Antonine, Eudoxe, Tibère.</head>
-<sp who="TIBÈRE"><speaker>TIBÈRE, à part.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Antonine, Eudoxe, Tibère.</cast>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>, à part.</hstage>
 	<l id="169">Est-ce bien Antonine ? En croirai-je mes yeux ?</l>
 	<l id="170">L’état où je les vois, m’annonce qu’en ces lieux</l>
 	<l id="171">Le triste Bélisaire a rejoint sa famille....</l>
@@ -318,41 +318,41 @@
 	<l id="180">Hélas ! Vous n’étiez plus dans les murs de Byzance ;</l>
 	<l id="181">Je trouvai Bélisaire en prison détenu...</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="182">Tibère, que fait-il, et qu’est-il devenu ?</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="183" part="i">Il est libre, Madame.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="183" part="m">Il est libre !</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="183" part="f">Ah ! Ma mère !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="184" part="i">Il devrait être ici...</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="184" part="f">Je reverrai mon père !</l>
 	<l id="185">D’un bonheur si charmant ne songeons qu’à jouir ;</l>
 	<l id="186">Et rendons grâce au Ciel, qui va nous réunir.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="187">Bélisaire triomphe ! Il écrase l’envie !</l>
 	<l id="188">Tibère ! s’il est vrai, vous me rendez la vie...</l>
 	<l id="189">La force et le plaisir renaissent dans mon cœur.</l>
 	<l id="190">Parlez, instruisez-nous de tout notre bonheur.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE, à part.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>, à part.</hstage>
 	<l id="191">Puis-je dire à quel point je l’ai vu misérable,</l>
 	<l id="192">Sans leur porter au cœur un coup qui les accable ?</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="193">Après l’avoir en vain si longtemps attendu,</l>
 	<l id="194">Tibère, mon époux me sera donc rendu ?</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="195">Pourquoi, si notre sort encor vous intéresse,</l>
 	<l id="196">Pourquoi, sur votre front, vois-je de la tristesse</l>
 	<l id="197">Quand vous nous annoncez un suprême bonheur ?</l>
@@ -365,19 +365,19 @@
 	<l id="204">Et vous verrez, Seigneur, qu’il n’est pas nécessaire</l>
 	<l id="205">De posséder les biens pour devenir heureux.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="206">Vous me voyez toujours brûlant des mêmes feux...</l>
 	<l id="207">Quelle que soit pour vous la fortune ennemie,</l>
 	<l id="208">Notre hymen seul fera le bonheur de ma vie.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="209">La fortune ennemie ! Hélas ! Tous vos discours,</l>
 	<l id="210">Loin de me rassurer... Parlez-nous sans détours.</l>
 	<l id="211">Que faut-il craindre encore ? Et serais-je déçue ?</l>
 	<l id="212">De Bélisaire enfin l’innocence est connue</l>
 	<l id="213" part="i">S’il est en liberté ?</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="213" part="f">Vous laisser cet espoir,</l>
 	<l id="214">Ce serait vous tromper ; vous allez le revoir.</l>
 	<l id="215">Madame, on n’a point fait justice à l’innocence ;</l>
@@ -388,7 +388,7 @@
 	<l id="220" part="i">Plus malheureux cent fois...</l>
 <stage>Il s’interrompt.</stage>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="220" part="f">Il est libre, Tibère !</l>
 	<l id="221">Il est libre et vivant, c’est tout ce que je veux.</l>
 	<l id="222">Qu’il revienne, et je suis au comble de mes vœux.</l>
@@ -396,37 +396,37 @@
 	<l id="224">Loin du torrent des Cours, serons-nous plus à plaindre</l>
 	<l id="225">Que les simples mortels, habitants de ces lieux ?</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="226">Avez-vous pu me croire à ce point odieux ?</l>
 	<l id="227">Moi, laisser Bélisaire à cet état indigne !</l>
 	<l id="228">Ah ! Ce doute est, pour moi, l’affront le plus insigne.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="229">Et pourquoi donc, Seigneur ? Cette simplicité</l>
 	<l id="230">Fut celle des héros de Rome en liberté.</l>
 	<l id="231">Elle est digne de nous. L’illustre Bélisaire,</l>
 	<l id="232">Vainqueur comme eux, comme eux cultivera la terre.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="233">Son retard, vos discours, tout me rend mon effroi.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="234" part="i">On vient de ce côté.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="234" part="f">Ma fille ! soutiens moi.</l>
 	<l id="235">Fuyons des inconnus l’approche curieuse,</l>
 	<l id="236">Leur stérile pitié me devient odieuse.</l>
 <stage>À Tibère.</stage>
 	<l id="237">Venez m’apprendre... et voir jusqu’où va mon malheur.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE, à part.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>, à part.</hstage>
 	<l id="238">Que ne puis-je parler ! Quel tourment pour mon cœur !</l>
 	<l id="239">Je viens les consoler ; et je dois tout leur taire.</l>
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="BESSAS"><speaker>BESSAS, seul, les suivant des yeux, même quand elles ont disparu.</speaker>
+<sp who="BESSAS"><hstage><speaker>BESSAS</speaker>, seul, les suivant des yeux, même quand elles ont disparu.</hstage>
 	<l id="240">Elle fuit... Ce n’est plus cette Antonine altière...</l>
 <stage>Il s’avance.</stage>
 	<l id="241">Implacable ennemi ! Quel triomphe pour moi !</l>
@@ -439,21 +439,21 @@
 	<l id="248">Ah ! vient-il m’annoncer le succès dé leur zèle ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Bessas, Un esclave.</head>
-<sp who="BESSAS"><speaker>BESSAS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Bessas, Un esclave.</cast>
+<sp who="BESSAS"><hstage><speaker>BESSAS</speaker>.</hstage>
 	<l id="249">Parle, quel est le sort de mon fier ennemi ?</l>
 </sp>
-<sp who="L’ESCLAVE"><speaker>L’ESCLAVE.</speaker>
+<sp who="L’ESCLAVE"><hstage><speaker>L’ESCLAVE</speaker>.</hstage>
 	<l id="250">Il est libre, Seigneur ; mon maître en a frémi.</l>
 </sp>
-<sp who="BESSAS"><speaker>BESSAS.</speaker>
+<sp who="BESSAS"><hstage><speaker>BESSAS</speaker>.</hstage>
 	<l id="251">Et je m’applaudissais d’une heureuse vengeance !</l>
 	<l id="252">Sa famille, en ces lieux, était dans l’indigence !</l>
 	<l id="253">Quel plaisir j’aurais eu, chaque jour, à la voir !</l>
 	<l id="254">Ce n’est que d’aujourd’hui que j’ai pu le savoir.</l>
 	<l id="255">À quel événement doit-il sa délivrance ?</l>
 </sp>
-<sp who="L’ESCLAVE"><speaker>L’ESCLAVE.</speaker>
+<sp who="L’ESCLAVE"><hstage><speaker>L’ESCLAVE</speaker>.</hstage>
 	<l id="256">Des soldats révoltés on a craint l’insolence.</l>
 	<l id="257">Bélisaire, à leurs cris, est mis en liberté,</l>
 	<l id="258">Mais, par Justinien, privé de la clarté,</l>
@@ -467,12 +467,12 @@
 	<l id="266">Et Bélisaire part avec un conducteur.</l>
 	<l id="267">À deux milles d’ici, je l’ai vu qui mendie.</l>
 </sp>
-<sp who="BESSAS"><speaker>BESSAS.</speaker>
+<sp who="BESSAS"><hstage><speaker>BESSAS</speaker>.</hstage>
 	<l id="268">Mais ce n’est point assez ; il est encore en vie !</l>
 	<l id="269">Je connais l’ascendant qu’il a sur tous les cœurs :</l>
 	<l id="270">Il saura découvrir et punir nos noirceurs.</l>
 </sp>
-<sp who="L’ESCLAVE"><speaker>L’ESCLAVE.</speaker>
+<sp who="L’ESCLAVE"><hstage><speaker>L’ESCLAVE</speaker>.</hstage>
 	<l id="271">L’amour a déjà fait ce que vous semblez craindre.</l>
 	<l id="272">Jusqu’où ce Dieu puissant ne peut-il pas atteindre !</l>
 	<l id="273">De Tibère, Seigneur, vous connaissez l’amour.</l>
@@ -485,13 +485,13 @@
 	<l id="280">Là, Justinien, seul et passant pour son père,</l>
 	<l id="281">Veut l’entendre et le voir, sans en être connu.</l>
 </sp>
-<sp who="BESSAS"><speaker>BESSAS.</speaker>
+<sp who="BESSAS"><hstage><speaker>BESSAS</speaker>.</hstage>
 	<l id="282">Ce Tibère, sans doute, est le jeune inconnu.</l>
 </sp>
-<sp who="L’ESCLAVE"><speaker>L’ESCLAVE.</speaker>
+<sp who="L’ESCLAVE"><hstage><speaker>L’ESCLAVE</speaker>.</hstage>
 	<l id="283">Voilà ce que j’avais, Seigneur, à vous apprendre.</l>
 </sp>
-<sp who="BESSAS"><speaker>BESSAS, après avoir rêvé un moment.</speaker>
+<sp who="BESSAS"><hstage><speaker>BESSAS</speaker>, après avoir rêvé un moment.</hstage>
 	<l id="284">Peut-être à la vengeance, on peut encor prétendre !</l>
 	<l id="285">Le succès de Tibère est encore douteux.</l>
 	<l id="286">L’Empereur a l’esprit facile et soupçonneux ;</l>
@@ -504,19 +504,19 @@
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="LE SOLDAT"><speaker>UN SOLDAT, seul paraissant tour à tour inquiet, triste, agité.</speaker>
+<sp who="LE SOLDAT"><hstage><speaker>UN SOLDAT</speaker>, seul paraissant tour à tour inquiet, triste, agité.</hstage>
 	<l id="291">Tibère est opulent et vient le soulager ;</l>
 	<l id="292">Mais de ses ennemis mon bras doit le venger....</l>
 	<l id="293">Qu’à mon gré, ce héros lentement s’achemine !</l>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE II. Bélisaire, Un soldat, Un enfant qui conduit Bélisaire.</head>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<div2 type="scene" n=""><head>SCÈNE II.</head><cast>Bélisaire, Un soldat, Un enfant qui conduit Bélisaire.</cast>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="294">Depuis que je suis libre, ô ma chère Antonine !</l>
 	<l id="295">Je désire et je crains d’arriver en ce lieu.</l>
 	<l id="296">Quel coup va la frapper ! soutenez-la, grand Dieu !</l>
 </sp>
-<sp who="LE SOLDAT"><speaker>LE SOLDAT.</speaker>
+<sp who="LE SOLDAT"><hstage><speaker>LE SOLDAT</speaker>.</hstage>
 	<l id="297">Dieu puissant, qu’il invoque, arme aussi ta colère</l>
 	<l id="298">Contre ses oppresseurs et la nature entière !</l>
 	<l id="299">Ô mon bon Général ! Je ne suis qu’un soldat ;</l>
@@ -528,11 +528,11 @@
 	<l id="305">Autant que j’en fus fier, l’ingrate ! la cruelle !</l>
 	<l id="306">Je suis honteux d’avoir versé mon sang pour elle.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="307">Ami, dans quel pays voit-on les innocents</l>
 	<l id="308">Ne devenir jamais victimes des méchants ?</l>
 </sp>
-<sp who="LE SOLDAT"><speaker>LE SOLDAT.</speaker>
+<sp who="LE SOLDAT"><hstage><speaker>LE SOLDAT</speaker>.</hstage>
 	<l id="309">Ce crime est sans exemple : il est trop effroyable.</l>
 	<l id="310">Les Tigres ! comme ils l’ont rendu méconnaissable !</l>
 	<l id="311">Mais il est trop présent au cœur de ses soldats</l>
@@ -542,19 +542,19 @@
 	<l id="315">Dans ses coupables flancs, ma main cherchant son cœur,</l>
 	<l id="316">Ma main ira lui faire expier sa noirceur.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="317">La pitié que j’inspire, et t’aveugle et t’égare.</l>
 	<l id="318">Bélisaire ferait d’un brave homme un barbare ?</l>
 	<l id="319">Un perfide assassin d’un Soldat courageux ?</l>
 	<l id="320" part="i">Non.</l>
 </sp>
-<sp who="LE SOLDAT"><speaker>LE SOLDAT.</speaker>
+<sp who="LE SOLDAT"><hstage><speaker>LE SOLDAT</speaker>.</hstage>
 	<l id="320" part="f">Je l’ai résolu, je le dois, je le veux.</l>
 	<l id="321">Une telle vengeance au monde est nécessaire.</l>
 	<l id="322">J’ai quitté mes enfants, et ma femme, et mon père :</l>
 	<l id="323">Tout me déplaît : je hais les lieux où je suis né/</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="324">Quoi ! tu veux préférer le nom de forcené,</l>
 	<l id="325">D’infâme scélérat au nom si doux, si tendre,</l>
 	<l id="326">De fils, d’époux sensible ? Ah ! qu’oses-tu prétendre !</l>
@@ -568,7 +568,7 @@
 	<l id="334">Retourne vers les tiens, et me laisse tranquille.</l>
 	<l id="335">Je rejette un forfait qui me glace d’horreur.</l>
 </sp>
-<sp who="LE SOLDAT"><speaker>LE SOLDAT.</speaker>
+<sp who="LE SOLDAT"><hstage><speaker>LE SOLDAT</speaker>.</hstage>
 	<l id="336">Je veux à nos Tyrans inspirer la terreur.</l>
 	<l id="337">N’appelez point forfait une juste vengeance,</l>
 	<l id="338">Qui peut les empêcher d’opprimer l’innocence.</l>
@@ -576,7 +576,7 @@
 	<l id="340">Dans leur barbare sein porter le coup mortel,</l>
 	<l id="341">En criant : périssez ! je venge Bélisaire.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="342">Ah ! quitte un tel dessein ; de quel droit, téméraire,</l>
 	<l id="343">Penses-tu me venger, et qui te l’a donné</l>
 	<l id="344">Ce détestable droit, qui te rend forcené ?</l>
@@ -584,7 +584,7 @@
 	<l id="346">Prétends-tu l’usurper sur le pouvoir suprême ?</l>
 	<l id="347" part="i">L’arracher à la Loi ?</l>
 </sp>
-<sp who="LE SOLDAT"><speaker>LE SOLDAT.</speaker>
+<sp who="LE SOLDAT"><hstage><speaker>LE SOLDAT</speaker>.</hstage>
 	<l id="347" part="f">Quand des mains du méchant</l>
 	<l id="348">La Loi ne suffit pas pour sauver l’innocent ;</l>
 	<l id="349">Quand on voit hautement la haine et l’artifice,</l>
@@ -592,7 +592,7 @@
 	<l id="351">Il est temPs d’abjurer de mercenaires Lois :</l>
 	<l id="352">C’est à nous à rentrer dans tous nos premiers droits.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="353">Jeune homme ! les brigands tiennent tous ce langage ;</l>
 	<l id="354">Tu cites leur excuse. Un homme honnête et sage</l>
 	<l id="355">Sans-doute n’aime pas à voir les lois fléchir ;</l>
@@ -604,7 +604,7 @@
 	<l id="361">Ne rends pas odieux, par un si noir délire,</l>
 	<l id="362">Le noble sentiment que mon malheur t’inspire.</l>
 </sp>
-<sp who="LE SOLDAT"><speaker>LE SOLDAT.</speaker>
+<sp who="LE SOLDAT"><hstage><speaker>LE SOLDAT</speaker>.</hstage>
 	<l id="363">Si c’était un mortel dans le monde ignoré !</l>
 	<l id="364">Si c’était moi qu’on eût flétri, défiguré !</l>
 	<l id="365">Seigneur, de le souffrir j’aurais eu le courage.</l>
@@ -612,7 +612,7 @@
 	<l id="367">Le soutien de l’état ! Quand on doit couronner</l>
 	<l id="368">Sa valeur, ses vertus !... Peut-on le pardonner ?</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="369">Moi, je l’ai pardonné, je le souffre en silence.</l>
 	<l id="370">Si mon seul intérêt t’excite à ma vengeance,</l>
 	<l id="371">J’y renonce : Est-ce donc à toi d’aller plus loin ?</l>
@@ -626,14 +626,14 @@
 	<l id="379">Mais ce n’est pas la peine ; et, quel que soit mon sort,</l>
 	<l id="380">J’offrirai des jours purs au tranchant de la mort.</l>
 </sp>
-<sp who="LE SOLDAT"><speaker>LE SOLDAT.</speaker>
+<sp who="LE SOLDAT"><hstage><speaker>LE SOLDAT</speaker>.</hstage>
 	<l id="381">L’excès de vos malheurs allait faire un rebelle :</l>
 	<l id="382">Vous devez m’excuser, en condamnant mon zèle ;</l>
 	<l id="383">Je suis confus, Seigneur, de mon emportement...</l>
 	<l id="384">Que pour l’humanité son sort est flétrissant !</l>
 	<l id="385">Oui, la terre, à jamais, en doit être indignée.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="386">Nous devons obéir à notre destinée.</l>
 	<l id="387">Apprends qu’il est des maux qu’on ne peut éviter ;</l>
 	<l id="388">Et l’homme juste, doit ne les pas mériter :</l>
@@ -646,15 +646,15 @@
 	<l id="395">Oublie, à l’avenir, des transports violents,</l>
 	<l id="396">Et va prendre le soin d’élever tes enfants.</l>
 </sp>
-<sp who="LE SOLDAT"><speaker>LE SOLDAT, à part.</speaker>
+<sp who="LE SOLDAT"><hstage><speaker>LE SOLDAT</speaker>, à part.</hstage>
 	<l id="397">Mon cœur, loin de ces lieux, ne serait point tranquille.</l>
 	<l id="398">Non, non : je veux rester autour de cet asile,</l>
 	<l id="399">Et savoir si bientôt, par d’utiles secours,</l>
 	<l id="400">Tibère adoucira le reste de ses jours.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Bélisaire, Un enfant.</head>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Bélisaire, Un enfant.</cast>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="401">Épouse infortunée ! Et toi, fille ingénue !</l>
 	<l id="402">Pourrez-vous supporter ma déplorable vue ?</l>
 	<l id="403">Hélas ! Si, sans mourir, vous pouvez me revoir,</l>
@@ -664,38 +664,38 @@
 	<l id="407">Combleront tant de maux !... leur voix perce mon cœur.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Bélisaire, Antonine, Eudoxe, Tibère.</head>
-<sp who="EUDOXE"><speaker>EUDOXE, sans voir Bélisaire.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Bélisaire, Antonine, Eudoxe, Tibère.</cast>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>, sans voir Bélisaire.</hstage>
 	<l id="408" part="i">Mon père est arrivé !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE, soutenant Antonine.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>, soutenant Antonine.</hstage>
 	<l id="408" part="m">C’est lui-même !</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE, le cherchant des yeux.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>, le cherchant des yeux.</hstage>
 	<l id="408" part="f">Ah ! Seigneur,</l>
 	<l id="409" part="i">Je vole dans ses bras.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 <stage>Sans se douter qu’il est devant ses yeux.</stage>
 	<l id="409" part="f">Ô mon cher Bélisaire !</l>
 	<l id="410" part="i">Le Ciel nous réunit.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE, l’apercevant, se laisse tomber sur Tibère.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>, l’apercevant, se laisse tomber sur Tibère.</hstage>
 	<l id="410" part="f">Mais que vois-je ?... Ah ! ma mère !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="411">Par votre désespoir, ne comblez pas mon sort.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="412">Ô Ciel ! En quel état !.. Dieu ! donnez-moi la mort,</l>
 	<l id="413">Ou de la force assez, pour en prendre vengeance.</l>
 	<l id="414">Les monstres !... les Tyrans !... voilà sa récompense !...</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE, assis sur un morceau de colonne, Eudoxe à ses pieds.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>, assis sur un morceau de colonne, Eudoxe à ses pieds.</hstage>
 	<l id="415">Ô ma chère Antonine ! imitez votre époux ;</l>
 	<l id="416">Modérez ces transports d’un impuissant courroux.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="417">Sans lui, sans son appui, vingt fois leur tyrannie</l>
 	<l id="418">Sous les débris du trône était ensevelie !</l>
 	<l id="419">Elle a vu, par lui seul, son règne prolongé :</l>
@@ -714,12 +714,12 @@
 	<l id="431" part="i">Êtes-vous sans pouvoir ?</l>
 <stage>Le père, la mère et la fille s’embrassent.</stage>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE, à part, en les regardant.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>, à part, en les regardant.</hstage>
 	<l id="431" part="f">Quel spectacle d’horreur !</l>
 	<l id="432">Ah ! pour ne point parler, qu’il en coûte à mon cœur !</l>
 	<l id="433">De nos maîtres ingrats, hélas, voilà l’ouvrage !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="434">Leurs larmes tour à tour inondent mon visage !..</l>
 	<l id="435">Ces sanglots sont pour moi le plus cruel tourment ;</l>
 	<l id="436">N’écoutez désormais qu’un plus doux sentiment.</l>
@@ -729,28 +729,28 @@
 	<l id="440">À les apprécier le malheur nous instruit :</l>
 	<l id="441">Savoir les dédaigner, c’est la force du sage.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="442">Donnez, donnez-le moi ce vertueux courage</l>
 	<l id="443">Que m’ôte la fortune, en m’accablant de maux.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="444">J’aurais bien supporté les ennuis, les travaux,</l>
 	<l id="445">L’opprobre et les regrets qu’entraîne la misère.</l>
 	<l id="446">Mais, grand Dieu ! dans mes bras voir une tendre mère</l>
 	<l id="447">Mourante de douleur ; un père chargé d’ans,</l>
 	<l id="448">Privé de la clarté par la main des méchanTs...</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="449">Ils n’ont que devancé ce qu’eût fait la vieillesse,</l>
 	<l id="450">En m’ôtant la lumière ; et quant à la richesse,</l>
 	<l id="451">Qui ne fait s’en passer en saurait mal jouir.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="452">Ah ! la perte des biens ne me fait pas gémir,</l>
 	<l id="453">Le Ciel m’en est témoin ; j’aurais trouvé des charmes</l>
 	<l id="454" part="i">Dans la pauvreté même...</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="454" part="f">Hé bien, sèche tes larmes.</l>
 	<l id="455">Au sein de l’indigence et des plus grands malheurs,</l>
 	<l id="456">Eudoxe, la vertu trouve encor des douceurs :</l>
@@ -759,25 +759,25 @@
 	<l id="459">Tendre épouse, expiez vos anciennes erreurs ;</l>
 	<l id="460">Souffrez avec constance, et calmez vos douleurs.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE, à Tibère.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>, à Tibère.</hstage>
 	<l id="461">Je me plaignais tantôt dans mon impatience !</l>
 	<l id="462">Alors, j’avais encore un reste d’espérance...</l>
 	<l id="463">Je n’en ai plus... Seigneur, je compte encor sur vous,</l>
 	<l id="464">Mais ce n’est plus pour moi : dites à mon époux</l>
 	<l id="465">Ce qu’en notre faveur vous dicte la tendresse.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="466">Et quel est ce mortel qui pour nous s’intéresse ?</l>
 	<l id="467">Qui, témoin de nos maux, veut bien y prendre part ?</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="468">Il n’est point étranger, magnanime vieillard !</l>
 	<l id="469">Permettez qu’avec vous il répande des larmes ;</l>
 	<l id="470">À sentir vos douleurs son cœur trouve des charmes :</l>
 	<l id="471">C’est un fils, que vous même avez daigné choisir</l>
 	<l id="472">Ayant tant de malheurs, qui vient les adoucir.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="473">A ces soins généreux, je reconnais Tibère.</l>
 <stage>Ils s’embrassent.</stage>
 	<l id="474">Ah ! Vous n’avez donc pas oublié Bélisaire,</l>
@@ -785,21 +785,21 @@
 	<l id="476">Que vous êtes heureux de n’être pas mon fils !</l>
 	<l id="477">On vous eût confondu dans notre destinée.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="478">Je viens... Seigneur, je viens achever l’hyménée,</l>
 	<l id="479" part="i">Qu’en d’autres temps...</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="479" part="f">Vos soins y seront superflus :</l>
 	<l id="480">Ce serait pour mon âme une douleur de plus.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="481">Quoi ! Les engagemenTs pris avec ma famille....</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="482">Je vous rends votre foi ; renoncez à ma fille.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="483">Ne me condamnez pas à d’éternels regrets...</l>
 	<l id="484">Mais, Tibère, en ce jour conçoit d’autres projets..</l>
 <stage>À part.</stage>
@@ -811,7 +811,7 @@
 	<l id="489">J’ai, non loin de ces lieux, une maison tranquille,</l>
 	<l id="490">Que je veux consacrer à vous faire un asile.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="491">Je vous entraînerais dans mon malheureux sort.</l>
 	<l id="492">Que la Cour ait raison, ou que la Cour ait tort,</l>
 	<l id="493">Elle ne revient point : elle oublie un coupable</l>
@@ -819,7 +819,7 @@
 	<l id="495">Pour le juste innocent qu’elle a sacrifié ;</l>
 	<l id="496">Le bien qu’on veut lui faire est encore envié...</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="497">De cet événement ne craignez point la suite.</l>
 	<l id="498">Un sentiment secret me rassure et m’excite.</l>
 	<l id="499">Peut-être je saurai plaindre votre malheur,</l>
@@ -827,12 +827,12 @@
 	<l id="501">On l’a trompé, Seigneur ; il suffit qu’on l’éclaire.</l>
 	<l id="502">Le Ciel peut seconder un effort téméraire.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="503">N’y pensons plus. Hélas ! Tibère, c’en est fait.</l>
 	<l id="504">Il ne faut point ouvrir ses yeux sur un forfait</l>
 	<l id="505">Qui serait le tourment de sa triste vieillesse.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="506">Si vous lui pardonnez sa coupable faiblesse,</l>
 	<l id="507">Plus indulgent encor, plus grand, plus généreux,</l>
 	<l id="508">Épargnez-lui, Seigneur, le reproche honteux</l>
@@ -841,16 +841,16 @@
 	<l id="511">Est, pour les gens de bien, odieux, révoltant ;</l>
 	<l id="512">Et, pour tous vos pareils, triste et décourageant.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="513">Vous vous trompez, mon fils ; celui qu’il décourage,</l>
 	<l id="514">S’il se croit mon pareil, ne me fait qu’un outrage.</l>
 	<l id="515">Ne me revoyez plus : adieu, séparons nous.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="516">Jetez, Seigneur, jetez les yeux autour de vous...</l>
 	<l id="517" part="i">Mais que dis-je !</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="517" part="f">Les yeux ! Il n’en a plus Tibère ;</l>
 	<l id="518">Et même il a perdu les entrailles d’un père.</l>
 	<l id="519">En faveur de son sang rien ne peut le fléchir</l>
@@ -863,24 +863,24 @@
 	<l id="526">L’aumône soutiendra les relies de sa vie.</l>
 	<l id="527">Quelle horreur pour ta mère, à son dernier moment !...</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="528">Moi, je supporterais cet avilissement,</l>
 	<l id="529">Après avoir perdu mon amant et ma mère !</l>
 	<l id="530">La mort est moins affreuse.... Ô mon père !... Ah ! Tibère !</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="531">Je ne me connais plus... je cède à la fureur...</l>
 	<l id="532">Je veux,... le désespoir me déchire le cœur...</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="533">N’est-il aucun moyen de venger tant d’outrage ?</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="534">Imitez Bélisaire, il voit ses maux en sage.</l>
 	<l id="535">J’admirais, chère Eudoxe, avec quelle vertu</l>
 	<l id="536" part="i">Vous l’attendiez tantôt.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="536" part="f">Je ne l’avais point vu :</l>
 	<l id="537">Je ne connaissais pas route la destinée</l>
 	<l id="538">Qui devait accabler sa fille infortunée...</l>
@@ -890,26 +890,26 @@
 	<l id="541">Nous saurons en tirer le simple nécessaire ;</l>
 	<l id="542">Et nos mains fileront des habits à mon père.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="543">Je ne survivrai pas à ce fatal retour, Ma fille !..</l>
 <stage>Elle s’appuie sur Eudoxe.</stage>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE, essuyant ses larmes.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>, essuyant ses larmes.</hstage>
 	<l id="544">Nous, Seigneur ! Oublions un amour,</l>
 	<l id="545">Qui put vous convenir, en un temps plus propice ;</l>
 	<l id="546">Ce n’est pas de mon cœur le moindre sacrifice.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="547">Cet amour, chère Eudoxe, est le même aujourd’hui.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="548">Non : la seule vertu doit être notre appui.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="549">Quelle est cette vertu, farouche, impitoyable</l>
 	<l id="550">Dont la fierté repousse une main secourable ?</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE, à Antonine.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>, à Antonine.</hstage>
 	<l id="551">Je saurai la fléchir, avant la fin du jour.</l>
 	<l id="552">Je vais chercher mon père ; et jusqu’à mon retour,</l>
 	<l id="553">Suspendez les douleurs dont le poids vous accable :</l>
@@ -917,22 +917,22 @@
 	<l id="555">Épargnez son grand cœur : ce malheureux Héros,</l>
 	<l id="556">Après tant de fatigue, à besoin de repos.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="557">De ces deux inconnus évitons la présence.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 <stage>Trop occupée de son malheur : elle sort sans regarder les inconnus.</stage>
 	<l id="558">Je me rassure un peu fur tant de bienfaisance.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE, les regardant aller.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>, les regardant aller.</hstage>
 	<l id="559">Un tel refus rendra l’Empereur curieux :</l>
 	<l id="560">Sans doute je pourrai l’amener en ces lieux.</l>
 	<l id="561">Ô ciel ! Fais qu’aujourd’hui la vérité l’éclaire !</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Bessas, Un esclave.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Bessas, Un esclave.</cast>
 <stage>Le même qui a déjà paru.</stage>
-<sp who="BESSAS"><speaker>BESSAS.</speaker>
+<sp who="BESSAS"><hstage><speaker>BESSAS</speaker>.</hstage>
 <stage>Qui a entendu les trois derniers vers de Tibère.</stage>
 	<l id="562">Il suffit. Je connais le dessein de Tibère :</l>
 	<l id="563">Je suis sûr de le rompre, et je ne crains plus rien.</l>
@@ -960,21 +960,21 @@
 	<l id="585">Ta fuite est assurée, en instruisant ton maître,</l>
 	<l id="586">Qui peut facilement te faire disparaître.</l>
 </sp>
-<sp who="L’ESCLAVE"><speaker>L’ESCLAVE.</speaker>
+<sp who="L’ESCLAVE"><hstage><speaker>L’ESCLAVE</speaker>.</hstage>
 	<l id="587">Ne perdons point de temps. Il me tarde, Seigneur,</l>
 	<l id="588">De pouvoir vous montrer mon zèle et mon ardeur.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Justinien, Tibère.</head>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Justinien, Tibère.</cast>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="589">Devancer mon retour avec empressement !</l>
 	<l id="590">Je ne puis revenir de mon étonnement.</l>
 	<l id="591">J’en mourrai de plaisir ! divine impatience !</l>
 	<l id="592">Qui couronne les traits de votre bienfaisance.</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="593">Voilà donc le réduit de ce fameux vainqueur !</l>
 	<l id="594">D’un héros qui, vingt fois, fut mon libérateur !</l>
 	<l id="595">Ce que tu m’en as dit serait-il bien possible ?</l>
@@ -988,34 +988,34 @@
 	<l id="603">L’horreur de l’injustice accable ma vieillesse...</l>
 	<l id="604">Je ne saurAis trop tôt réparer ma faiblesse.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="605">Que cet emprelTement la répare à mes yeux !</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="606">Vous, qui voulez régner, mortels ambitieux !</l>
 	<l id="607">Jetez les yeux sur moi, sur ce qui m’environne :</l>
 	<l id="608">Redoutez les erreurs que commet, sur le trône,</l>
 	<l id="609">Un Prince, dont les vœux ne tendirent jamais</l>
 	<l id="610">Qu’à faire son bonheur du bien de ses sujets.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="611">Seigneur, écoutez moins un remords légitime.</l>
 	<l id="612">Sans doute votre erreur n’est pas un si grand crime ;</l>
 	<l id="613">Et puisque vous pouvez l’effacer aisément,</l>
 	<l id="614">Pourquoi, Seigneur, pourquoi vous en faire un tourment ?</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="615">Je pourrais l’effacer ! tu m’abuses, Tibère !</l>
 	<l id="616">Je puis rendre, il est vrai, son rang à Bélisaire :</l>
 	<l id="617">Est-il en mon pouvoir de lui rendre les yeux ?</l>
 	<l id="618">Pour l’en avoir privé, suis-je moins odieux ?</l>
 	<l id="619">Ce forfait seul serait l’opprobre de ma vie.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="620">Mais ce forfait, Seigneur, est celui de l’envie ;</l>
 	<l id="621">Et sans elle, jamais vous ne l’eussiez commis.</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="622">C’est ce qui fait ma peine, et de quoi je gémis.</l>
 	<l id="623">En vain donc pour le bien une volonté pure</l>
 	<l id="624">Remplit le cœur des Rois ; sans cesse l’imposture,</l>
@@ -1032,34 +1032,34 @@
 	<l id="635">Eudoxe, m’as-tu dit, ne connaît point ton père ;</l>
 	<l id="636">Éloigne cependant et la fille et la mère.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="637" part="i">Il s’avance...</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="637" part="f">À mon trouble il n’est rien de pareil.</l>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE II. Justinien, Bélisaire, Tibère.</head>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE, marchant en tâtant.</speaker>
+<div2 type="scene" n=""><head>SCÈNE II.</head><cast>Justinien, Bélisaire, Tibère.</cast>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>, marchant en tâtant.</hstage>
 	<l id="638">Cherchons vers le couchant les rayons du soleil ;</l>
 	<l id="639">Il ne m’éclaire plus, mais il m’échauffe encore :</l>
 	<l id="640">C’est le tableau vivant de l’être que j’adore.</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 <stage>Il se cache les yeux avec la main, après avoir regarde Bélisaire.</stage>
 	<l id="641">Ô ciel !... En le voyant, mes sens sont confondus,</l>
 	<l id="642">Suis-je digne de voir le jour qu’il ne voit plus ?</l>
 	<l id="643">Est-ce là ce Héros qui savait me défendre ?</l>
 	<l id="644" part="i">Tibère, soutiens-moi !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="644" part="f">Quel cris viens-je d’entendre ?</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="645">C’est mon père, Seigneur, qu’un tendre sentiment</l>
 	<l id="646">Retient, à votre aspect, dans le saisissement.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="647">Qu’il approche, Tibère, afin que je l’embrasse...</l>
 	<l id="648">Je le touche avec joie... Ah ! modérez de grâce</l>
 	<l id="649">Cet excès de pitié qui vous trouble tous deux.</l>
@@ -1067,17 +1067,17 @@
 	<l id="651">Elles consoleront votre heureuse vieillesse.</l>
 	<l id="652" part="i">Espoir délicieux !</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN, avec saisissement.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>, avec saisissement.</hstage>
 	<l id="652" part="f">Oui.... si... dans sa jeunesse...</l>
 	<l id="653">Vous daignez... lui donner.... de prudentes leçons</l>
 	<l id="654">Qui préservent son cœur des funestes poisons</l>
 	<l id="655">Du vice et de l’erreur, qui sont notre partage.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="656">Que lui puis-je enseigner, qu’un père honnête et sage</l>
 	<l id="657">N’ait appris à son fils, avant mes faibles soins ?</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="658">Il apprendra de vous ce que je sais le moins.</l>
 	<l id="659">Je connais peu la Cour, et Tibère y doit vivre.</l>
 	<l id="660">Les usages, les mœurs, le ton qu’il y faut suivre,</l>
@@ -1090,25 +1090,25 @@
 	<l id="667">Et plus heureux que lui, son successeur peut-être</l>
 	<l id="668">Recevra, par mon fils, les leçons d’un tel maître.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="669">Ah ! que ne puis-je encore, une fois seulement,</l>
 	<l id="670">Du bien de mon pays devenir l’instrument !</l>
 	<l id="671">Ô mon fils, profitez de mon expérience :</l>
 	<l id="672">Mais sur tous mes discours j’exige le silence.</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="673" part="i">Pourquoi ?</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="673" part="f">Pour épargner un Prince malheureux,</l>
 	<l id="674">Dont je trouve déjà le sort trop rigoureux.</l>
 	<l id="675">Le mal dont il m’accable, il l’a fait par faiblesse ;</l>
 	<l id="676">Et je ne voudrais pas affliger sa vieillesse.</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="677">Cruel Justinien ! Quelle honte pour toi !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="678">Son crime est seulement d’avoir ajouté foi</l>
 	<l id="679">Aux discours séduisants de la basse imposture.</l>
 	<l id="680">Parlez avec respect, Seigneur, je vous conjure,</l>
@@ -1118,21 +1118,21 @@
 	<l id="684">Mes amis, connaissez le cœur de Bélisaire.</l>
 	<l id="685">Quelqu’affreux que paroisse à vos yeux mon état...</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="686">Quoi ! vous pouvez ainsi ménager un ingrat,</l>
 	<l id="687">Qui de tant d’infamie a payé votre zèle ?</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="688">Seigneur, on l’a trompé sur un sujet fidèle.</l>
 	<l id="689">Nourris dans l’indolence, enivrés de l’encens</l>
 	<l id="690">De mille adulateurs et de leurs courtisans,</l>
 	<l id="691">Les Rois n’entendent point la vérité timide</l>
 	<l id="692">Qui se plaint vainement d’un oppresseur avide.</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="693" part="i">Ô ciel !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="693" part="f">Si quelquefois, par un heureux hasard,</l>
 	<l id="694">Le mérite aux faveurs arrache quelque part ;</l>
 	<l id="695">Bientôt l’intrigue sourde et la haine couverte</l>
@@ -1140,10 +1140,10 @@
 	<l id="697">Le Prince, par degrés, se prête à leur noirceur,</l>
 	<l id="698">Et sort du doute enfin, pour tomber dans l’erreur.</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="699">Pour n’être point trompé comment doit-il donc faire ?</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="700">Si le Prince, Seigneur, désire qu’on l’éclaire,</l>
 	<l id="701">Qu’il n’interroge pas, au fond de son Palais,</l>
 	<l id="702">Des courtisans flatteurs le cercle trop épais :</l>
@@ -1162,33 +1162,33 @@
 	<l id="715">Il ne l’entend jamais du courtisan avide :</l>
 	<l id="716">Le mensonge, à sa Cour, l’obsède et le décide.</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="717">Qu’on ait pu vous noircir auprès de l’Empereur,</l>
 	<l id="718">Vous, qui fûtes, trente ans, son appui, son vengeur,</l>
 	<l id="719">C’est ce qui me confond ; je ne puis le comprendre.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="720">Rien ne fut plus facile, et je vais vous l’apprendre.</l>
 	<l id="721">Vous verrez comme un Prince est séduit aisément.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="722">Votre fille s’avance avec empressement.</l>
 	<l id="723">La verrai-je toujours les yeux baignés de larmes !</l>
 	<l id="724">Que ne puis-je hâter la fin de ses alarmes !</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Justinien, Bélisaire, Tibère, Eudoxe.</head>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Justinien, Bélisaire, Tibère, Eudoxe.</cast>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="725">Ma mère s’affaiblit et désire vous voir.</l>
 	<l id="726">Elle est plus agitée ; et dans son désespoir,</l>
 	<l id="727">Elle veut quelquefois attenter à sa vie.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="728">Mon sort a révolté cette épouse chérie.</l>
 	<l id="729">Amis, permettez-moi de la voir un moment,</l>
 	<l id="730">Pour tâcher de calmer son vain emportement.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE, à l’Empereur.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>, à l’Empereur.</hstage>
 	<l id="731" part="i">Qu’attendez-vous, Seigneur ?...</l>
 <stage>À Eudoxe.</stage>
 	<l id="731" part="f">En cet instant, Madame,</l>
@@ -1197,7 +1197,7 @@
 	<l id="734">Que n’en puis-je effacer jusques au souvenir !</l>
 	<l id="735">Et c’est aussi l’objet des souhaits de mon père.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="736">Je le répète encor, trop généreux Tibère !</l>
 	<l id="737">Je ne puis accepter vos dons ni votre foi :</l>
 	<l id="738">Ce serait vous plonger dans l’abîme avec moi.</l>
@@ -1206,29 +1206,29 @@
 	<l id="741">Laissez, laissez la mienne en proie à ses douleurs ;</l>
 	<l id="742">Ne les augmentez point par vos propres malheurs.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="743">Ce n’est pas là le prix que le Ciel me destine.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE, à Eudoxe.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>, à Eudoxe.</hstage>
 	<l id="744">N’en parlons plus, Seigneur. Allons voir Antonine.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Justinien, Tibère.</head>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Justinien, Tibère.</cast>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="745">Il fut aimé du peuple ! Et toujours ses amis</l>
 	<l id="746">Des Maîtres des humains furent craints et haïs ;</l>
 	<l id="747">Leur état cependant est d’en être les pères.</l>
 	<l id="748">Que ces réflexions pour les Rois sont amères !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="749">Ah ! rien n’est plus certain ; contre lui, cet amour</l>
 	<l id="750">Donna prise, Seigneur, aux noirceurs de la Cour.</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="751">Mon cher Tibère, hélas ! dis à ma jalousie.</l>
 	<l id="752">On me le faisait craindre... Ô trop funeste envie !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="753">Quel heureux repentir ! Seigneur, n’y pensez plus ;</l>
 	<l id="754">Et sans vous occuper de regrets superflus,</l>
 	<l id="755">Accourons soulager cette auguste famille.</l>
@@ -1236,21 +1236,21 @@
 	<l id="757">Je borne tous mes vœux à mériter son cœur.</l>
 	<l id="758">Venez-vous éclaircir, et hâter mon bonheur.</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="759">S’il ne m’a point trahi, quel sort pour Bélisaire !</l>
 	<l id="760">Tout ce qu’il nous a dit te paraît-il sincère ?</l>
 	<l id="761">Pourquoi refuse-t-il ta main et tes bienfaits ?</l>
 	<l id="762">A-t-il, pour subsister, quelques moyens secrets ?</l>
 	<l id="763">Hélas ! mon cœur encor n’est pas sans défiance.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="764">Je réponds de son zèle et de son innocence...</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="765">Je voudrais, avant tout, entendre le récit</l>
 	<l id="766">Qu’il allait commencer de ce qui le perdit.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="767">Contre la vérité c’est trop de résistance.</l>
 	<l id="768">Daignez voir seulement leur extrême indigence.</l>
 	<l id="769">Ah ! ne différez plus. Il est temps de finir</l>
@@ -1258,7 +1258,7 @@
 	<l id="771">Seriez-vous sans pitié ? vous avez vu les larmes,</l>
 	<l id="772">Le mortel désespoir, et la crainte, et les charmes...</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="773">Tout jette dans mon cœur plus de confusion,</l>
 	<l id="774">Et rien, jusqu’à présent, n’y détruit le soupçon.</l>
 	<l id="775">Mais je te l’avouerai, malgré ma défiance,</l>
@@ -1269,15 +1269,15 @@
 	<l id="780">Va dire à Bélisaire, ( innocent ou coupable ) ...</l>
 	<l id="781">Va lui dire... en un mot, va les consoler tous.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="782">Dieu ! quel emploi flatteur ! Et pour moi qu’il est doux !</l>
 <stage>Pendant que Justinien dit les deux vers suivants, le Soldat qui a paru au second acte, arrête Tibère dans le fond du Théâtre et lui parle.</stage>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="783">C’est trop d’incertitude, et ma bonté s’en lasse...</l>
 	<l id="784">Sur la voix de mon cœur j’ai dû lui faire grâce.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="785">Je reçois un avis qui vous touche, Seigneur,</l>
 	<l id="786">Et fait taire, à présent, l’intérêt de mon cœur.</l>
 	<l id="787">Quand vous daignez combler les vœux de ma tendresse,</l>
@@ -1295,17 +1295,17 @@
 	<l id="799">Ses conseils montreront son ardeur et son zèle :</l>
 	<l id="800">Vous connaîtrez, Seigneur, s’il fut traître et rebelle.</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="801">C’est assez : vole, ami, le temps est précieux.</l>
 	<l id="802">Je vais récompenser le zèle Officieux Du Soldat...</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="803">Vers Batès ce Soldat me devance.</l>
 	<l id="804">Je le suis : vous, Seigneur, consolez l’innocence.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Justinien, Bessas.</head>
-<sp who="BESSAS"><speaker>BESSAS.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Justinien, Bessas.</cast>
+<sp who="BESSAS"><hstage><speaker>BESSAS</speaker>.</hstage>
 	<l id="805">Ah ! Seigneur ! Arrêtez ; vous courez à la mort.</l>
 	<l id="806">Que mon exil m’est doux ! que je bénis mon sort !</l>
 	<l id="807">Ô jour trop fortuné, qui va faire connaître</l>
@@ -1335,26 +1335,26 @@
 <stage>Voyant revenir Tibère.</stage>
 	<l id="831" part="i">Je l’ai prédit, Seigneur !</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="831" part="f">Perfide téméraire !</l>
 </sp>
-<sp who="BESSAS"><speaker>BESSAS.</speaker>
+<sp who="BESSAS"><hstage><speaker>BESSAS</speaker>.</hstage>
 	<l id="832">Renfermez les transports d’une juste colère :</l>
 	<l id="833">Dissimulez, Seigneur, et qu’il vienne avec vous.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Justinien, Bessas, Tibère.</head>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Justinien, Bessas, Tibère.</cast>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="834">L’ennemi s’avançant partout autour de nous,</l>
 	<l id="835">De tous côtés, Seigneur, offre un sur esclavage ;</l>
 	<l id="836">Mais, à l’instant, la nuit va m’ouvrir le passage.</l>
 	<l id="837">Que vois-je ? Quels regards ! ils me glacent d’effroi.</l>
 	<l id="838" part="i">Ah ! Seigneur,</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="838" part="f">Il suffit. Tibère, suivez moi.</l>
 </sp>
-<sp who="BESSAS"><speaker>BESSAS, à part.</speaker>
+<sp who="BESSAS"><hstage><speaker>BESSAS</speaker>, à part.</hstage>
 	<l id="839">Le hasard m’a servi bien mieux que la prudence ;</l>
 	<l id="840">Au gré de mes souhaits, il hâte ma vengeance.</l>
 </sp>
@@ -1362,7 +1362,7 @@
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="EUDOXE"><speaker>EUDOXE, seule.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>, seule.</hstage>
 	<l id="841">De mon père, un moment, évitons la présence.</l>
 	<l id="842">Tandis qu’avec ma mère il s’afflige en silence,</l>
 	<l id="843">Ô nuit ! à la faveur de ton obscurité,</l>
@@ -1373,94 +1373,94 @@
 	<l id="848">Nous accableraient-ils d’un insultant mépris ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Bélisaire, Eudoxe.</head>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Bélisaire, Eudoxe.</cast>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="849" part="i">Eudoxe !... Elle nous fuit...</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="849" part="f">C’est la voix de mon père.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="850">Elle pleure en secret... Courage, Bélisaire :</l>
 	<l id="851">Ton cœur est sans reproche aux yeux de l’éternel.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="852">S’il le voit sans pitié, qu’il est dur et cruel !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="853">Eudoxe ! Je t’entends... Tu nous caches tes larmes.</l>
 	<l id="854">Viens plutôt dans mon sein déposer tes alarmes ;</l>
 	<l id="855">Invoque, avec ton père, un Dieu consolateur.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="856">Ah ! s’il est vrai qu’il lit au fond de votre cœur,</l>
 	<l id="857">De ce cœur sans reproche, il commet l’injustice.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="858" part="i">Ma fille ! Quelle erreur !</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="858" part="f">Il protège le vice.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="859" part="i">Eudoxe ! il le punit.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="859" part="f">Les méchants sont heureux.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="860">Leur bonheur est il fait pour des cœurs vertueux ?</l>
 	<l id="861">L’éclat de leur richesse est un triste avantage :</l>
 	<l id="862">La crainte et le remords sont toujours leur partage.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="863">Le nôtre est la douleur, la mort, la pauvreté...</l>
 	<l id="864">Quel prix de la vertu ! quelle étrange bonté !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="865">Hélas ! qu’un tel discours afflige ma vieillesse !</l>
 	<l id="866">Ce murmure obstiné redouble ma tristesse ;</l>
 	<l id="867">Et ce n’est que par vous que je suis malheureux</l>
 	<l id="868">Au milieu de ces maux, qui vous semblent affreux.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE, se jetant dans les bras de son père.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>, se jetant dans les bras de son père.</hstage>
 	<l id="869">Dieu ! de les supporter donnez-moi le courage.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="870">Ah ! je sens que ces pleurs, qui baignent mon visage,</l>
 	<l id="871">N’ont plus la même cause.... ils rassurent mon cœur ;</l>
 	<l id="872">Ma fille, dans mes bras, gémit de son erreur.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="873">Hé bien ! mon père, hé bien ! souffrons donc sans murmure.</l>
 	<l id="874">Mais du moins permettez des pleurs à la nature ;</l>
 	<l id="875">Pour des maux si cruels faible soulagement !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="876">Verse-les dans mon sein, ces pleurs du sentiment :</l>
 	<l id="877">La peine partagée, à porter plus facile,</l>
 	<l id="878">Rend bientôt la douleur plus douce et plus tranquille.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="879" part="i">Les offres de Tibère...</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="879" part="f">Il n’y faut plus songer.</l>
 	<l id="880">Nos cruels ennemis lui seraient partager,</l>
 	<l id="881">Pour prix de ses bienfaits, le sort qui nous accable.</l>
 	<l id="882">Voudrais-tu, comme nous, le rendre misérable ? EUDOXE.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="883">Ciel ! mets un autre prix à ses foins généreux !</l>
 	<l id="884">Mais je connais Tibère ; il sera malheureux</l>
 	<l id="885">En voyant, sans secours, languir votre vieillesse.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="886">Je ne veux recevoir que ceux de ta tendresse.</l>
 	<l id="887">J’ai peu de jours à vivre. Avec peu de besoins,</l>
 	<l id="888">Pour moi, pour Antonine, il suffit de tes soins.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="889">Vivez, vivez longtemps ! Votre fille chérie</l>
 	<l id="890">Vous consacre, à ce prix, le reste de sa vie,</l>
 	<l id="891">Renonce à son amour, et fera son bonheur,</l>
@@ -1477,16 +1477,16 @@
 	<l id="902">Puisque j’arracherais à la misère extrême,</l>
 	<l id="903">À sa mort, et bien plus... à la mendicité....</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="904">Mon Dieu ! rendez le calme à son cœur agité !</l>
 	<l id="905">Il n’est point d’infortune à la nôtre pareille...</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Bélisaire, Eudoxe, Plusieurs esclaves armés de poignards.</head>
-<sp who="L’ESCLAVE"><speaker>UN ESCLAVE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Bélisaire, Eudoxe, Plusieurs esclaves armés de poignards.</cast>
+<sp who="L’ESCLAVE"><hstage><speaker>UN ESCLAVE</speaker>.</hstage>
 	<l id="906" part="i">C’est lui-même....</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="906" part="f">Quel bruit a frappé mon oreille ?</l>
 	<l id="907">Un poignard à la main des monstres furieux !...</l>
 <stage>Les esclaves saisissent Bélisaire.</stage>
@@ -1498,19 +1498,19 @@
 	<l id="913">Ne pouvant espérer ni secours, ni vengeance,</l>
 	<l id="914">Puisque le Ciel se plaît à perdre l’innocence, Mourons...</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="915">Il faut toujours compter sur sa bonté.</l>
 </sp>
-<sp who="L’ESCLAVE"><speaker>UN ESCLAVE.</speaker>
+<sp who="L’ESCLAVE"><hstage><speaker>UN ESCLAVE</speaker>.</hstage>
 	<l id="916">En proscrivant Bessas, tu l’as bien mérité.</l>
 <stage>Les Esclaves prennent la fuite à la vue des flambeaux qui éclairent les Bulgares.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Bélisaire, Eudoxe dans un coin, Le Roi des Bulgares, Le Soldat qu’on a déjà vu, Troupe de Bulgares qui remplissent le fond du Théâtre.</head>
-<sp who="LE SOLDAT"><speaker>LE SOLDAT.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Bélisaire, Eudoxe dans un coin, Le Roi des Bulgares, Le Soldat qu’on a déjà vu, Troupe de Bulgares qui remplissent le fond du Théâtre.</cast>
+<sp who="LE SOLDAT"><hstage><speaker>LE SOLDAT</speaker>.</hstage>
 	<l id="917">C’est ici le séjour de ce grand Bélisaire.</l>
 </sp>
-<sp who="LE ROI DES BULGARES"><speaker>LE ROI DES BULGARES.</speaker>
+<sp who="LE ROI DES BULGARES"><hstage><speaker>LE ROI DES BULGARES</speaker>.</hstage>
 	<l id="918">L’aspect de ces débris excite ma colère.</l>
 	<l id="919">Qu’on le cherche, Soldats : Ce malheureux héros</l>
 	<l id="920">Ne peut-être fâché qu’on trouble son repos,</l>
@@ -1530,32 +1530,32 @@
 	<l id="934">Il a su l’élever, il saura le détruire...</l>
 	<l id="935">Que ce brave Soldat soit mis en liberté.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="936">Quel est ce Roi, sensible à ma calamité ?</l>
 </sp>
-<sp who="LE ROI DES BULGARES"><speaker>LE ROI DES BULGARES.</speaker>
+<sp who="LE ROI DES BULGARES"><hstage><speaker>LE ROI DES BULGARES</speaker>.</hstage>
 	<l id="937">Ah ! viens, mon père, viens ! C’est le Roi des Bulgares.</l>
 	<l id="938">Tu verras si c’est nous qui sommes les barbares.</l>
 	<l id="939">Quand il n’est plus pour toi d’asile en ton pays,</l>
 	<l id="940">Tu trouveras en nous des vengeurs, des amis.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="941">En ce moment, Seigneur, envoyés par l’envie,</l>
 	<l id="942">De lâches assassins attentaient à sa vie.</l>
 	<l id="943">Pour auteur de leur crime ils ont nommé Bessas :</l>
 	<l id="944">Votre heureuse présence a retenu leur bras.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="945">Bessas, l’affreux Bessas craint encor ma misère.</l>
 </sp>
-<sp who="LE ROI DES BULGARES"><speaker>LE ROI DES BULGARES.</speaker>
+<sp who="LE ROI DES BULGARES"><hstage><speaker>LE ROI DES BULGARES</speaker>.</hstage>
 	<l id="946">Parle, où faut-il chercher ce monstre sanguinaire ?</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="947">Seigneur, dans ces lieux même, en un vaste Palais,</l>
 	<l id="948">Ce Tigre dévorant jouit de ses forfaits.</l>
 </sp>
-<sp who="LE ROI DES BULGARES"><speaker>LE ROI DES BULGARES, à ses Gardes.</speaker>
+<sp who="LE ROI DES BULGARES"><hstage><speaker>LE ROI DES BULGARES</speaker>, à ses Gardes.</hstage>
 	<l id="949">Allez, qu’on le saisisse. Il n’est pas nécessaire</l>
 	<l id="950">De parler des malheurs qu’éprouve Bélisaire</l>
 	<l id="951">Pour exciter son cœur à venger son affront.</l>
@@ -1581,17 +1581,17 @@
 	<l id="971">Avant que d’expirer, voie encore une fois</l>
 	<l id="972">Le triomphe, à Byzance, honorer tes exploits.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="973">Dieu ! vous écoutez donc la timide innocence !</l>
 	<l id="974">Ah ! portons à ma mère une douce espérance.</l>
 	<l id="975">Tu vas payer ses pleurs, cruel Justinien !</l>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE V. Bélisaire, Le Roi des Bulgares, Bulgares.</head>
-<sp who="LE ROI DES BULGARES"><speaker>LE ROI DES BULGARES.</speaker>
+<div2 type="scene" n=""><head>SCÈNE V.</head><cast>Bélisaire, Le Roi des Bulgares, Bulgares.</cast>
+<sp who="LE ROI DES BULGARES"><hstage><speaker>LE ROI DES BULGARES</speaker>.</hstage>
 	<l id="976">Il demeure interdit, et ne me répond rien !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="977">S’il eût aimé, Seigneur, le carnage et le trône,</l>
 	<l id="978">Bélisaire a deux fois refusé la couronne ;</l>
 	<l id="979">Carthage et l’Italie ont prévenu mes vœux :</l>
@@ -1601,21 +1601,21 @@
 	<l id="983">Fidèle à la patrie, au Prince, à mon devoir,</l>
 	<l id="984" part="i">Rien n’a pu m’entraîner...</l>
 </sp>
-<sp who="LE ROI DES BULGARES"><speaker>LE ROI DES BULGARES.</speaker>
+<sp who="LE ROI DES BULGARES"><hstage><speaker>LE ROI DES BULGARES</speaker>.</hstage>
 	<l id="984" part="f">Quoi ! L’absolu pouvoir,</l>
 	<l id="985" part="i">L’amour de la vengeance....</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="985" part="f">Ah, Seigneur ! je l’abhorre.</l>
 	<l id="986">Le nœud qui me liait alors, subsiste encore,</l>
 	<l id="987">Rien n’a pu le trancher ; quand j’ai donné ma foi,</l>
 	<l id="988">Prévoyant qu’on serait trop injuste pour moi,</l>
 	<l id="989">Je n’ai pas réservé le droit de me défendre.</l>
 </sp>
-<sp who="LE ROI DES BULGARES"><speaker>LE ROI DES BULGARES.</speaker>
+<sp who="LE ROI DES BULGARES"><hstage><speaker>LE ROI DES BULGARES</speaker>.</hstage>
 	<l id="990">Quel étrange refus ! Et devais-je l’attendre !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="991">N’attendez rien de moi contre Justinien ;</l>
 	<l id="992">Je serais contre vous encore son soutien,</l>
 	<l id="993">Si, dans mon triste état, je pouvais quelque chose :</l>
@@ -1628,12 +1628,12 @@
 	<l id="1000">Et vous méritez d’être au rang de ses amis :</l>
 	<l id="1001">Il est très-peu de Rois que ce titre n’honore.</l>
 </sp>
-<sp who="LE ROI DES BULGARES"><speaker>LE ROI DES BULGARES.</speaker>
+<sp who="LE ROI DES BULGARES"><hstage><speaker>LE ROI DES BULGARES</speaker>.</hstage>
 	<l id="1002">Moi ! que je sois l’ami d’un Tyran que j’abhorre !</l>
 	<l id="1003">Peut-on lui pardonner sa conduite envers toi ?</l>
 	<l id="1004">Mais veux-tu te venger, et régner avec moi ?</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1005">Que parlez-vous, Seigneur, de sceptre et de vengeance ?</l>
 	<l id="1006">Vous ne connaissez pas le prix de l’innocence :</l>
 	<l id="1007">Quand elle sait souffrir, rien n’égale ses droits.</l>
@@ -1641,10 +1641,10 @@
 	<l id="1009">Je les ai soutenus, et n’ai pas voulu l’être ;</l>
 	<l id="1010">Et s’ils m’ont condamné, j’en suis plus grand peut-être.</l>
 </sp>
-<sp who="LE ROI DES BULGARES"><speaker>LE ROI DES BULGARES.</speaker>
+<sp who="LE ROI DES BULGARES"><hstage><speaker>LE ROI DES BULGARES</speaker>.</hstage>
 	<l id="1011" part="i">Quelle étrange vertu !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1011" part="f">Malheur à vous, hélas !</l>
 	<l id="1012">De la trouver étrange ; et ne voyez vous pas</l>
 	<l id="1013">Qu’elle est le fondement de tout pouvoir suprême ?</l>
@@ -1653,12 +1653,12 @@
 	<l id="1016">Si vous donniez, Seigneur, ce droit à vos soldats,</l>
 	<l id="1017">Pourriez-vous soutenir le poids de la couronne ?</l>
 </sp>
-<sp who="LE ROI DES BULGARES"><speaker>LE ROI DES BULGARES.</speaker>
+<sp who="LE ROI DES BULGARES"><hstage><speaker>LE ROI DES BULGARES</speaker>.</hstage>
 	<l id="1018">Mes Soldats ont ce droit, sans que je le leur donne,</l>
 	<l id="1019">La crainte les retient ; mais toi, que craindrais-tu ?</l>
 	<l id="1020" part="i">Qui peut te retenir ? Répond moi !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1020" part="f">La vertu :</l>
 	<l id="1021">Je n’espère plus rien, je n’ai plus rien à craindre.</l>
 	<l id="1022">Dans l’état où je suis, je vous parois à plaindre ;</l>
@@ -1679,11 +1679,11 @@
 	<l id="1037">C’est être le fléau de la nature humaine ;</l>
 	<l id="1038">Je préfère à ce titre, et mes maux et ma peine.</l>
 </sp>
-<sp who="LE ROI DES BULGARES"><speaker>LE ROI DES BULGARES.</speaker>
+<sp who="LE ROI DES BULGARES"><hstage><speaker>LE ROI DES BULGARES</speaker>.</hstage>
 	<l id="1039">Est-ce toi que j’entends ? toi, dont le bras vainqueur</l>
 	<l id="1040">En cent combats divers signala sa valeur ?</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1041">Bélisaire fait trop que l’amour de la guerre</l>
 	<l id="1042">Est le plus grand des maux qui ravagent la terre :</l>
 	<l id="1043">De son terrible éclat je suis bien revenu ;</l>
@@ -1701,7 +1701,7 @@
 	<l id="1055">Il faut trop acheter le nom de conquérant :</l>
 	<l id="1056">Un Prince, aimant la paix, est mille fois plus grand.</l>
 </sp>
-<sp who="LE ROI DES BULGARES"><speaker>LE ROI DES BULGARES.</speaker>
+<sp who="LE ROI DES BULGARES"><hstage><speaker>LE ROI DES BULGARES</speaker>.</hstage>
 	<l id="1057">Hé bien, n’en parlons plus. Mon âme se déchire.</l>
 	<l id="1058">Ô malheureux vieillard ! Je respecte et j’admire.</l>
 	<l id="1059">Cette fidélité, digne d’un autre prix ;</l>
@@ -1709,7 +1709,7 @@
 	<l id="1061">Mais il n’en est pas moins l’objet de ma colère.</l>
 	<l id="1062">Ah ! qu’il s’est fait de mal, en perdant Bélisaire !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1063">Plaignez-le donc, Seigneur, plaignez les souverains,</l>
 	<l id="1064">D’être obligés d’agir par d’infidèles mains.</l>
 	<l id="1065">Oui, sachez les juger avec plus d’indulgence ;</l>
@@ -1717,11 +1717,11 @@
 	<l id="1067">Je connais bien les cours ; et croyez moi, Seigneur,</l>
 	<l id="1068">Par degré l’imposture a séduit l’Empereur.</l>
 </sp>
-<sp who="LE ROI DES BULGARES"><speaker>LE ROI DES BULGARES.</speaker>
+<sp who="LE ROI DES BULGARES"><hstage><speaker>LE ROI DES BULGARES</speaker>.</hstage>
 	<l id="1069">Enfin, puisque ton cœur excuse sa faiblesse,</l>
 	<l id="1070">Que mes présents, au moins, soulagent ta vieillesse.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1071">Puis-je les accepter ? Vos présents sont les biens</l>
 	<l id="1072">Pris sur vos ennemis, sur mes concitoyens ;</l>
 	<l id="1073">Ce n’est que la dépouille, hélas ! de ma patrie ;</l>
@@ -1733,41 +1733,41 @@
 	<l id="1079">Mon épouse succombe au poids de ses douleurs,</l>
 	<l id="1080">Et ma fille m’attend pour essuyer ses pleurs.</l>
 </sp>
-<sp who="LE ROI DES BULGARES"><speaker>LE ROI DES BULGARES.</speaker>
+<sp who="LE ROI DES BULGARES"><hstage><speaker>LE ROI DES BULGARES</speaker>.</hstage>
 	<l id="1081">J’admire ta fierté, mais elle est trop cruelle.</l>
 	<l id="1082">Ta famille gémit : sois sensible pour elle !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1083">Je rends grâce à vos soins : dans ces premiers moments,</l>
 	<l id="1084">Vous m’en tenez, Seigneur, éloigné trop longtemps.</l>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE VI. LE ROI DES  BULGARES, TROUPE DE BULGARES.</head>
-<sp who="LE ROI DES BULGARES"><speaker>LE ROI DES BULGARES.</speaker>
+<div2 type="scene" n=""><head>SCÈNE VI.</head><cast>LE ROI DES  BULGARES, TROUPE DE BULGARES.</cast>
+<sp who="LE ROI DES BULGARES"><hstage><speaker>LE ROI DES BULGARES</speaker>.</hstage>
 	<l id="1085">Je reste confondu... Quelle âme ! quel courage !</l>
 	<l id="1086">Faible Justinien, je t’en hais davantage !</l>
 	<l id="1087">Amis, semons partout l’horreur et le trépas ;</l>
 	<l id="1088">Et commençons d’abord par l’infâme Bessas.</l>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE VII. Le Roi des Bulgares, Justinien, et Bessas enchaînés, Tibère, Troupe de Bulgares.</head>
-<sp who="UN BULGARE"><speaker>UN BULGARE.</speaker>
+<div2 type="scene" n=""><head>SCÈNE VII.</head><cast>Le Roi des Bulgares, Justinien, et Bessas enchaînés, Tibère, Troupe de Bulgares.</cast>
+<sp who="UN BULGARE"><hstage><speaker>UN BULGARE</speaker>.</hstage>
 	<l id="1089">Vous le voyez, Seigneur ; le voilà ce perfide,</l>
 	<l id="1090">De ses concitoyens, des héros homicide.</l>
 </sp>
-<sp who="LE ROI DES BULGARES"><speaker>LE ROI DES BULGARES.</speaker>
+<sp who="LE ROI DES BULGARES"><hstage><speaker>LE ROI DES BULGARES</speaker>.</hstage>
 	<l id="1091">Ils vont être vengés d’un cœur lâche et sans foi.</l>
 	<l id="1092">Sa présence m’inspire et l’horreur et l’effroi.</l>
 	<l id="1093">Sous le fer, à l’instant, que ce monstre périsse,</l>
 	<l id="1094">Ainsi que ce vieillard, sans doute son complice !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1095">Ah ! Seigneur ! Permettez qu’avant d’exécuter...</l>
 </sp>
-<sp who="LE ROI DES BULGARES"><speaker>LE ROI DES BULGARES.</speaker>
+<sp who="LE ROI DES BULGARES"><hstage><speaker>LE ROI DES BULGARES</speaker>.</hstage>
 	<l id="1096" part="i">Soldats ! Qu’on les entraîne !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1096" part="f">Ah ! daignez arrêter.</l>
 	<l id="1097">Frappez le vil Bessas, mais épargnez mon père.</l>
 	<l id="1098">Nous sommes l’un et l’autre amis de Bélisaire,</l>
@@ -1785,12 +1785,12 @@
 	<l id="1110">Avec vous, pour trahir l’Empereur de Byzance.</l>
 	<l id="1111">On vous fera, Seigneur, remettre la rançon...</l>
 </sp>
-<sp who="UN BULGARE"><speaker>UN BULGARE, en montrant Tibère.</speaker>
+<sp who="UN BULGARE"><hstage><speaker>UN BULGARE</speaker>, en montrant Tibère.</hstage>
 	<l id="1112">Nous l’avons retiré d’une affreuse prison.</l>
 	<l id="1113">Ce vieillard, qu’il défend, nous a paru coupable,</l>
 	<l id="1114">Seigneur, avec Bessas nous l’avons pris à table.</l>
 </sp>
-<sp who="LE ROI DES BULGARES"><speaker>LE ROI DES BULGARES.</speaker>
+<sp who="LE ROI DES BULGARES"><hstage><speaker>LE ROI DES BULGARES</speaker>.</hstage>
 	<l id="1115">Qu’on les garde ! Il suffit. S’il dit la vérité,</l>
 	<l id="1116">Que tous deux, sans rançon, soient mis en liberté,</l>
 	<l id="1117">Ou sinon, qu’on punisse et le fils et le père,</l>
@@ -1801,8 +1801,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Antonine, Eudoxe.</head>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Antonine, Eudoxe.</cast>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="1121">Il semble que la nuit ait prolongé son cours,</l>
 	<l id="1122">Et veuille retarder le dernier de mes jours.</l>
 	<l id="1123">Ma fille ! La fureur a ranimé ta mère.</l>
@@ -1818,7 +1818,7 @@
 	<l id="1133">Du moins, par ton hymen, puissé-je, avant ma mort,</l>
 	<l id="1134">Arracher ma famille à son funeste sort !</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="1135">Ô Ciel ! Aide nos mains à punir l’injustice !...</l>
 	<l id="1136">Seconde-t-il nos vœux ? Nous devient-il propice ?</l>
 	<l id="1137">J’aperçois des soldats qui marchent vers ces lieux...</l>
@@ -1826,30 +1826,30 @@
 	<l id="1139">Je vais l’entretenir, retournez vers mon père ;</l>
 	<l id="1140">Qu’il ignore un projet à ses vœux si contraire.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="1141">Il n’en soupçonne rien ; servons-le malgré lui.</l>
 	<l id="1142">Puissé-je y réussir, ou mourir aujourd’hui !</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Eudoxe, Justinien et Tibère enchaînés, Troupe de Bulgares.</head>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Eudoxe, Justinien et Tibère enchaînés, Troupe de Bulgares.</cast>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="1143">Venez, mon cher Tibère, avec impatience</l>
 	<l id="1144">La malheureuse Eudoxe attend votre présence...</l>
 	<l id="1145">Ils vous ont mis aux fers !... Mais ils sont nos amis.</l>
 	<l id="1146">Bulgares, délivrez et le père et le fils !</l>
 </sp>
-<sp who="UN BULGARE"><speaker>UN BULGARE.</speaker>
+<sp who="UN BULGARE"><hstage><speaker>UN BULGARE</speaker>.</hstage>
 	<l id="1147">Nous devons, sur leur sort, entendre Bélisaire.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="1148">Gardez-vous de troubler le repos de mon père !</l>
 </sp>
-<sp who="UN BULGARE"><speaker>LE BULGARE.</speaker>
+<sp who="UN BULGARE"><hstage><speaker>LE BULGARE</speaker>.</hstage>
 	<l id="1149">Ils sont libres, Madame : on va les détacher.</l>
 	<l id="1150">Si nous manquions d’égards pour ce qui vous est cher,</l>
 	<l id="1151">Ce serait mal servir un Roi qui vous honore.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="1152">Bulgares, un moment ; daignez attendre encore.</l>
 <stage>Ils s’éloignent.</stage>
 <stage>À Tibère.</stage>
@@ -1857,57 +1857,57 @@
 	<l id="1154">Tibère voudrait-il, de concert avec eux,</l>
 	<l id="1155">Réparer les malheurs du triste Bélisaire ?</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1156">Ah ! disposez de moi : parlez ; que faut-il faire ?</l>
 	<l id="1157">Mais non ; sans ces brigands, avant la fin du jour,</l>
 	<l id="1158">Je saurai vous prouver mon zèle et mon amour ;</l>
 	<l id="1159">Et comptez qu’aujourd’hui l’état seul d’Antonine</l>
 	<l id="1160">Peut troubler le bonheur que le Ciel nous destine.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="1161">Il est entre vos mains. En disposant de moi,</l>
 	<l id="1162">Elle va vous donner, et ma main et ma foi,</l>
 	<l id="1163" part="i">Si vous voulez...</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1163" part="f">Après des faveurs aussi rares,</l>
 	<l id="1164">Vous n’avez plus besoin de l’appui des Bulgares ;</l>
 	<l id="1165">J’en serais trop jaloux, et je puis bien, sans eux...</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="1166">Ils viennent nous venger d’un tyran odieux.</l>
 	<l id="1167">Si vous aimez Eudoxe, il faut, mon cher Tibère,</l>
 	<l id="1168">Seconder leurs efforts, pour servir Bélisaire :</l>
 	<l id="1169" part="i">Ma main est à ce prix.</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN, s’éloignant d’Eudoxe.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>, s’éloignant d’Eudoxe.</hstage>
 	<l id="1169" part="f">Ô Ciel ! qu’ai-je entendu !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1170">Vous voyez votre amant, interdit, confondu...</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="1171">Tibère a-t-il trompé ma plus chère espérance ?</l>
 	<l id="1172">Il n’est point mon amant, s’il craint, ou s’il balance.</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="1173" part="i">Je suis trahi !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE, passant du côté de l’Empereur.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>, passant du côté de l’Empereur.</hstage>
 	<l id="1173" part="m">Seigneur !</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="1173" part="f">Après tant de fierté,</l>
 	<l id="1174">Ah, tout autre que moi n’en aurait pas douté !</l>
 	<l id="1175">Le traître Bélisaire est l’ami des Bulgares !</l>
 	<l id="1176">C’était pour me livrer aux mains de ces barbares,</l>
 	<l id="1177">Qu’il feignait de me plaindre, hier, en me parlant !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1178">Éloignez vos soucis et ce doute accablant ;</l>
 	<l id="1179">J’en suis bien sûr, Seigneur, vous n’avez rien à craindre.</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="1180">Ô Ciel ! Avec quel art le perfide sait feindre !</l>
 	<l id="1181">Quel piège on m’a tendu ! Puis-je voir sans effroi,</l>
 	<l id="1182">Avec combien d’audace abusant de ma foi,</l>
@@ -1916,13 +1916,13 @@
 	<l id="1185">Il veut être témoin de mon dernier soupir,</l>
 	<l id="1186">Ma mort, s’il ne l’entend, est pour lui sans plaisir.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1187">Qu’on me livre aux tourments, Seigneur, s’il est coupable !</l>
 	<l id="1188">Mais si de vous trahir Tibère était capable,</l>
 <stage>En montrant les Bulgares.</stage>
 	<l id="1189" part="i">Il n’aurait qu’à parler ...</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="1189" part="f">Jeune homme audacieux !</l>
 	<l id="1190">Mes Gardes ne sont pas éloignés de ces lieux ;</l>
 	<l id="1191">Hâte-toi, scélérat, d’assurer ta vengeance,</l>
@@ -1930,7 +1930,7 @@
 	<l id="1193">Ils sont prêts d’arriver, et mon juste courroux</l>
 	<l id="1194">Sur qui m’aura trahi fera tomber ses coups.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1195">Ah !... vous êtes encore au pouvoir du Bulgare !...</l>
 	<l id="1196">Oui : vous même, craignez que l’amour ne m’égare.</l>
 <stage>Il se rapproche d’Eudoxe.</stage>
@@ -1939,86 +1939,86 @@
 	<l id="1199">À quel prix est ta main !... J’aperçois Bélisaire,</l>
 	<l id="1200" part="i">Il va me décider.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="1200" part="f">Il me cherche !... Ah ! ma mère !</l>
 	<l id="1201">L’espoir de nous venger ne nous est plus permis.</l>
 	<l id="1202" part="i">Je vais l’en informer.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. JUSTINIEN, BÉLISAIRE, TIBÈRE, BULGARES.</head>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE, à un Bulgare qui lui a parlé pendant le dernier couplet d’Eudoxe.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>JUSTINIEN, BÉLISAIRE, TIBÈRE, BULGARES.</cast>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>, à un Bulgare qui lui a parlé pendant le dernier couplet d’Eudoxe.</hstage>
 	<l id="1202" part="f">Oui, ce sont mes amis,</l>
 	<l id="1203">Mes chers consolateurs au milieu de mes peines.</l>
 </sp>
-<sp who="UN BULGARE"><speaker>LE BULGARE.</speaker>
+<sp who="UN BULGARE"><hstage><speaker>LE BULGARE</speaker>.</hstage>
 	<l id="1204">La voix de votre fille a fait tomber leurs chaînes.</l>
 	<l id="1205">Et le fer, de Bessas a terminé le sort.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1206">Pour toute sa noirceur, c’est trop peu d’une mort !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE, aux Bulgares.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>, aux Bulgares.</hstage>
 	<l id="1207">Votre main, par mes vœux, n’y fut point excitée ;</l>
 	<l id="1208">Je le plains seulement de l’avoir méritée.</l>
 	<l id="1209">Il suffit, mes amis, allez, je suis content.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE, à Justinien.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>, à Justinien.</hstage>
 	<l id="1210">Pourrez-vous croire, enfin, qu’il était innocent ?</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="1211">Il me prend pour ton père, et mon trouble est extrême...</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1212">Éclaircissez vous donc, il est la vertu même.</l>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE IV. Justinien, Béisaire, Tibère.</head>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<div2 type="scene" n=""><head>SCÈNE IV.</head><cast>Justinien, Béisaire, Tibère.</cast>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="1213" part="i">Ô Bélisaire !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1213" part="f">Hé bien ! Êtes vous rassurés ?</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="1214">Comme, avec promptitude, il nous ont délivrés</l>
 	<l id="1215">Quel zèle, quelle ardeur votre nom leur inspire !</l>
 	<l id="1216">Comment connaissez-vous ces fléaux de l’Empire ?</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1217">Ne soyez plus surpris de ce qu’ils font pour moi ;</l>
 	<l id="1218">Sachez que j’ai passé la nuit avec leur Roi.</l>
 	<l id="1219">Ce Monarque, touché de ma misère extrême,</l>
 	<l id="1220">Est venu, cette nuit, m’en consoler lui-même.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Justinien, Bélisaire, Tibère, Le Soldat qui a déjà paru.</head>
-<sp who="LE SOLDAT"><speaker>LE SOLDAT, à Tibère.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Justinien, Bélisaire, Tibère, Le Soldat qui a déjà paru.</cast>
+<sp who="LE SOLDAT"><hstage><speaker>LE SOLDAT</speaker>, à Tibère.</hstage>
 	<l id="1221">Cette horde Bulgare, avec les Byzantins,</l>
 	<l id="1222" part="i">En ce moment, Seigneur...</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="1222" part="m">Hé bien !</l>
 </sp>
-<sp who="LE SOLDAT"><speaker>LE SOLDAT.</speaker>
+<sp who="LE SOLDAT"><hstage><speaker>LE SOLDAT</speaker>.</hstage>
 	<l id="1222" part="f">Ils sont aux mains ;</l>
 	<l id="1223">Et l’on entend d’ici, les cris, le choc des armes.</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="1224">Chaque mot, chaque instant redouble mes alarmes !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE, aux vieillards.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>, aux vieillards.</hstage>
 	<l id="1225" part="i">Demeurez en ces lieux...</l>
 <stage>Au Soldat.</stage>
 	<l id="1225" part="f">Nous volons aux combats.</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN, à part en s’en allant.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>, à part en s’en allant.</hstage>
 	<l id="1226">J’irai, d’un pas tremblant, y chercher le trépas.</l>
 	<l id="1227">Il me sera plus doux d’y finir ma carrière,</l>
 	<l id="1228">Que d’expirer aux pieds du traître Bélisaire.</l>
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE, croyant être avec le père de Tibère.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>, croyant être avec le père de Tibère.</hstage>
 	<l id="1229">Ô Malheureux humains ! Quelle est votre fureur !</l>
 	<l id="1230">Quand la tranquille paix vous offre le bonheur.</l>
 	<l id="1231">Ami ! Quelle clameur destructive et cruelle !</l>
@@ -2032,20 +2032,20 @@
 	<l id="1238">Y redoublent sans fin l’amertume et l’horreur.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Jusitnien, Bélisaire.</head>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Jusitnien, Bélisaire.</cast>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="1239">Ah ! Combien je maudis cette horrible journée !</l>
 	<l id="1240">Que me réservez-vous, barbare destinée ?</l>
 	<l id="1241">Je sens plier sous moi mes genoux affaiblis...</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1242">Le tumulte s’approche ;... on redouble les cris...</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="1243">Je n’ai pu, vers les miens, trouver aucune issue.</l>
 	<l id="1244">L’âge a glacé mes sens, et mon âme éperdue...</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1245">Je vous entends, Seigneur, et bénis ce retour.</l>
 <stage>Il se met à genoux.</stage>
 	<l id="1246">Dieu puissant que j’implore en ce funeste jour,</l>
@@ -2055,32 +2055,32 @@
 	<l id="1250">Fais succéder la paix à ces affreux instants,</l>
 	<l id="1251">Et par tes seuls bienfaits signale ta puissance !</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="1252">Ne puis-je, cependant, assurer ma vengeance ?</l>
 	<l id="1253">Dans son perfide sein portons le coup mortel,</l>
 	<l id="1254" part="i">Et je mourrai vengé...</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE, se levant avec transport, dans l’instant que Justinien va le frapper.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>, se levant avec transport, dans l’instant que Justinien va le frapper.</hstage>
 	<l id="1254" part="f">Enfin, grâces au Ciel !</l>
 	<l id="1255">J’entends crier : victoire aux Soldats de l’Empire.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Jusitnien, Bélisaire, Tibère.</head>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Jusitnien, Bélisaire, Tibère.</cast>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1256" part="i">Vive Justinien !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1256" part="f">Ah, votre fils respire !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1257">Je respire, et je touche au comble de mes vœux !</l>
 	<l id="1258">J’ai laissé les vainqueurs se partager entre eux</l>
 	<l id="1259">Des Bulgares défaits la dépouille sanglante.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1260">La nouvelle est, Seigneur, heureuse et consolante.</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="1261">Ah ! Qu’il en coûte aux Rois pour voir la vérité !</l>
 	<l id="1262">Triste Justinien, quelle est ta cruauté !</l>
 	<l id="1263">Jusqu’où s’étend l’excès de ton ingratitude !</l>
@@ -2088,7 +2088,7 @@
 	<l id="1265">Où chercher des amis, après de tels forfaits ?</l>
 	<l id="1266">N’ose plus espérer d’en retrouver jamais !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1267">Une pareille erreur ne flétrit point sa gloire :</l>
 	<l id="1268">Je vous l’ai déjà dit, et vous devez m’en croire.</l>
 	<l id="1269">L’art de nuire, Seigneur, est adroit dans les cours ;</l>
@@ -2135,91 +2135,91 @@
 	<l id="1310">Et je ne fus jamais que son meilleur ami...</l>
 	<l id="1311" part="i">Le Ciel m’en est témoin....</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN, à part.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>, à part.</hstage>
 	<l id="1311" part="f">Et voilà mon ouvrage !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1312">Il voit les cœurs : les Rois n’ont pas cet avantage.</l>
 	<l id="1313">L’Empereur qui m’opprime, est coupable à vos yeux ;</l>
 	<l id="1314">Soyez plus indulgent ; la voix des envieux,</l>
 	<l id="1315">Ainsi que lui, Seigneur, vous eût séduit peut-être.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE, à Justinien.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>, à Justinien.</hstage>
 	<l id="1316">Ah ! Seigneur, il est temps de vous faire connaître !</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN, serrant Bélisaire dans ses bras.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>, serrant Bélisaire dans ses bras.</hstage>
 	<l id="1317">Il fut trompé !.. sans doute ;.. et c’est un grand malheur.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1318">Et qui peut vous causer ce transport de douleur ?</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="1319">C’est le juste tourment d’une âme déchirée,</l>
 	<l id="1320">À la honte, aux remords, à l’opprobre livrée...</l>
 	<l id="1321">Mortel trop vertueux ! ce maître criminel,</l>
 	<l id="1322">Ce barbare Tyran, ce souverain cruel....</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1323">Il manquait deux témoins à la reconnaissance :</l>
 	<l id="1324">Mais vers ces lieux, Seigneur, Antonine s’avance ;</l>
 	<l id="1325">Je cours aider Eudoxe à soutenir ses pas...</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1326">Ô mon fils ! Promptement, conduis-les dans mes bras.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Justinien, Bélisaire, Tibère, Antonine, Eudoxe.</head>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>Justinien, Bélisaire, Tibère, Antonine, Eudoxe.</cast>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="1327">Tremble, cruel époux, et connais ton ouvrage !</l>
 	<l id="1328">Il fallait me donner ton féroce courage,</l>
 	<l id="1329">S’il n’était à nos maux aucun soulagement.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1330">Il en est ; et le sort, Madame, en ce moment,</l>
 	<l id="1331">Pour combler tous nos vœux attend votre présence ;</l>
 	<l id="1332">Vous voyez, en ce jour, triompher l’innocence.</l>
 	<l id="1333">Rien ne s’oppose plus. Madame, à mon bonheur.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE, à Justinien qu’elle croit être le père de Tibère.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>, à Justinien qu’elle croit être le père de Tibère.</hstage>
 	<l id="1334">Sans doute, c’est à vous... O Ciel ! c’est l’Empereur !</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="1335">Lui ! Le Tyran ! vient-il voir expirer ma mère ?</l>
 	<l id="1336">Vient-il pour s’assouvir des malheurs de mon père ?</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE, se saisissant de l’épée de Tibère, qui la soutient.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>, se saisissant de l’épée de Tibère, qui la soutient.</hstage>
 	<l id="1337">Va, je mourrai vengée... et je n’attendrai pas</l>
 	<l id="1338">Le secours incertain d’un trop timide bras.</l>
 <stage>La suite de l’Empereur arrive, et ses Gardes se mettent en devoir de le défendre, et de frapper Bélisaire et Antonine.</stage>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE, la lui ôtant.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>, la lui ôtant.</hstage>
 	<l id="1339" part="i">Ah, Madame !</l>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE DERNIÈRE. Les acteurs de la scène précédente, Suite de l’Empereur.</head>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN, à ses Gardes.</speaker>
+<div2 type="scene" n=""><head>SCÈNE DERNIÈRE.</head><cast>Les acteurs de la scène précédente, Suite de l’Empereur.</cast>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>, à ses Gardes.</hstage>
 	<l id="1339" part="f">Arrêtez ; sachons ce qu’il médite.</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE, soutenue par Tibère et par Eudoxe.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>, soutenue par Tibère et par Eudoxe.</hstage>
 	<l id="1340">Qu’on m’éloigne de lui, sa présence m’irrite.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1341">Grand Dieu ! Quai-je entendu ? quels cris et quels transports !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1342">Vous faites, pour le fuir d’inutiles efforts...</l>
 	<l id="1343">Il venait réparer l’ouvrage de l’envie.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1344">Ah ! s’il te faut du sang, arrache moi la vie,</l>
 	<l id="1345">Femme indigne de moi ! frappe ; dans ta fureur,</l>
 	<l id="1346">De te sentir coupable épargne moi l’horreur.</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="1347">Pardonnez à celui qui fit votre disgrâce,</l>
 	<l id="1348" part="i">À l’auteur de vos maux...</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1348" part="f">Quoi ! C’est vous que j’embrasse !</l>
 	<l id="1349">Justinien !... C’est vous ! O Ciel ! à tant d’horreur</l>
 	<l id="1350">Comment peut succéder un aussi grand bonheur !</l>
@@ -2228,7 +2228,7 @@
 	<l id="1353" part="i">Vous pleurez une erreur !</l>
 <stage>Antonine s’assied, Eudoxe se met à ses pieds.</stage>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="1353" part="f">Ah ! laissez m’en subir</l>
 	<l id="1354">Tout l’opprobre à vos pieds ; et que mon repentir</l>
 	<l id="1355">L’efface, s’il se peut... trop indigne du trône</l>
@@ -2236,7 +2236,7 @@
 	<l id="1357">Oui, foulez à vos pieds et mon sceptre et mon front ;</l>
 	<l id="1358">Punissez mes forfaits, et vengez votre affront.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1359">Cette erreur, croyez-moi, Seigneur, fût-elle un crime,</l>
 	<l id="1360">Ne doit rien vous ôter de votre propre estime.</l>
 	<l id="1361">Bélisaire est aveugle ? Et vingt peuples divers</l>
@@ -2250,33 +2250,33 @@
 	<l id="1369">Un plus long repentir troublerait la douceur</l>
 	<l id="1370">Dont cet événement vient de remplir mon cœur.</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="1371">Ah ! peut-être qu’enfin je mourrai moins coupable !</l>
 	<l id="1372">Tibère, c’est à toi que j’en suis redevable.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1373" part="i">Ô mon fils ! c’est à toi !</l>
 </sp>
-<sp who="JUSTINIEN"><speaker>JUSTINIEN.</speaker>
+<sp who="JUSTINIEN"><hstage><speaker>JUSTINIEN</speaker>.</hstage>
 	<l id="1373" part="f">Mon ami, quels bienfaits,</l>
 	<l id="1374">Quel prix d’un tel bonheur l’égaleront jamais !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1375">Je l’avouerai, Seigneur, toute votre puissance</l>
 	<l id="1376">Ne pourrait acquitter votre reconnaissance ;</l>
 	<l id="1377">Chargez-en Bélisaire, il est trop riche encor ;</l>
 	<l id="1378">Et, tout pauvre qu’il est, il possède un trésor,</l>
 	<l id="1379">Plus précieux pour moi que tous ceux de l’Empire.</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1380">Tibère, je préviens ce que vous voulez dire.</l>
 	<l id="1381">Ce trésor est ma fille : hé bien, il est à vous.</l>
 	<l id="1382">En ce jour fortuné devenez son époux.</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE, va relever Eudoxe.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>, va relever Eudoxe.</hstage>
 	<l id="1383" part="i">Ô jour tant désiré !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1383" part="f">Viens, famille chérie,</l>
 	<l id="1384">Partager les transports de mon âme attendrie !</l>
 <stage>Il les embrasse tous, excepté Antonine qui reste assise.</stage>
@@ -2284,38 +2284,38 @@
 	<l id="1385">Ah, Seigneur ! tous mes sens ont passé dans mon cœur ;</l>
 	<l id="1386">Il éclate, et ne peut suffire à mon bonheur</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE, à part dans le plus grand abattement.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>, à part dans le plus grand abattement.</hstage>
 	<l id="1387" part="i">Et je vais le troubler,</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1387" part="f">Mais à ma chère épouse</l>
 	<l id="1388">En vain je tends les bras ; serait-elle jalouse....</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE, effrayée des mouvements d’Antonine.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>, effrayée des mouvements d’Antonine.</hstage>
 	<l id="1389" part="i">Ah !</l>
 </sp>
-<sp who="TIBÈRE"><speaker>TIBÈRE.</speaker>
+<sp who="TIBÈRE"><hstage><speaker>TIBÈRE</speaker>.</hstage>
 	<l id="1389" part="f">Madame !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1389" part="f">Quels cris, et quels transports nouveaux !</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="1390" part="i">Ma mère !</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="1390" part="f">Je verrai la fin de tant de maux !</l>
 	<l id="1391">Pardonnez mes transports... Ô Dieu, qu’allais-je faire !</l>
 	<l id="1392">Cachez-moi vos regrets... Ô mon cher Bélisaire !</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1393" part="i">Aurais-je trop vécu !</l>
 </sp>
-<sp who="ANTONINE"><speaker>ANTONINE.</speaker>
+<sp who="ANTONINE"><hstage><speaker>ANTONINE</speaker>.</hstage>
 	<l id="1393" part="f">Vivez, mon cher époux !...</l>
 	<l id="1394">Ah ! mon dernier instant est pour moi le plus doux...</l>
 </sp>
-<sp who="BÉLISAIRE"><speaker>BÉLISAIRE.</speaker>
+<sp who="BÉLISAIRE"><hstage><speaker>BÉLISAIRE</speaker>.</hstage>
 	<l id="1395">Oui : soyez tous heureux, je le verrai sans peine.</l>
 <stage>Joignant les mains d’Eudoxe et de Tibère dans la sienne.</stage>
 	<l id="1396">Je vis assez longtemps pour serrer votre chaîne...</l>

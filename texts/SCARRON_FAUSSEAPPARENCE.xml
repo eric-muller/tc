@@ -58,20 +58,20 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Don Carlos, Fabrice, Léonore.</head>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Don Carlos, Fabrice, Léonore.</cast>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1" part="i">Verrai-je Don Louis ?</l>
 </sp>
-<sp who="FABRICE"><speaker>FABRICE.</speaker>
+<sp who="FABRICE"><hstage><speaker>FABRICE</speaker>.</hstage>
 	<l id="1" part="f">Il vient dans un moment.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="2" part="i">Et Léonore ?</l>
 </sp>
-<sp who="FABRICE"><speaker>FABRICE.</speaker>
+<sp who="FABRICE"><hstage><speaker>FABRICE</speaker>.</hstage>
 	<l id="2" part="f">Elle est dans son appartement.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="3">Sans obligation je m’engage moi-même</l>
 	<l id="4">À ne la laisser point dans un péril extrême.</l>
 	<l id="5">Je la veux protéger, puisque je l’ai promis,</l>
@@ -85,34 +85,34 @@
 	<l id="13">Mon Cousin Don Louis, qui va venir ici</l>
 	<l id="14">Pourra nous conseiller et nous servir aussi.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="15">Je ne dors point Carlos, le sommeil est sans charmes,</l>
 	<l id="16">À des yeux qui sans cesse ont à verser des larmes,</l>
 	<l id="17">Et ta fière rigueur me cause trop d’ennuis,</l>
 	<l id="18">Pour avoir du repos ni les jours ni les nuits.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="19">Cherchez de vos ennuis en vous-même la cause ;</l>
 	<l id="20">Mais je venais ici vous parler d’autre chose,</l>
 	<l id="21" part="i">Sachez donc...</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="21" part="f">Non, Carlos, je ne veux rien savoir.</l>
 	<l id="22">Pour me faire obéir tu n’as rien qu’à vouloir.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="23">Si cette complaisance, autant qu’elle est forcée,</l>
 	<l id="24">Partait d’une amour vraie, et non intéressée,</l>
 	<l id="25">Que ne ferais-je point pour un si grand bonheur ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="26">Que ne ferais-je point pour te tirer d’erreur ?</l>
 	<l id="27">Mais quand d’un faux soupçon l’âme est préoccupée,</l>
 	<l id="28">Si loin de travailler à se voir détrompée,</l>
 	<l id="29">Elle fuit son remède, en vain la vérité</l>
 	<l id="30">Tâche à lui redonner sa première clarté.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="31">Sur la foi de ses yeux on ne se trompe guère,</l>
 	<l id="32">Et ce qu’ont vu les miens n’est pas imaginaire ;</l>
 	<l id="33">Mais tous ces vains discours ne sont pas de saison,</l>
@@ -134,7 +134,7 @@
 	<l id="49">Par la seule pitié que me fait votre sort,</l>
 	<l id="50">Je me veux exposer pour vous jusqu’à la mort.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="51">Cette compassion Don Carlos est tardive ;</l>
 	<l id="52">Si tu ne m’aimes plus, qu’importe que je vive ?</l>
 	<l id="53">Mais Carlos si ton cœur si dur à l’amitié,</l>
@@ -151,10 +151,10 @@
 	<l id="64">Quand autant que tu dis je serais infidèle,</l>
 	<l id="65">Peux-tu n’accepter pas cette condition ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="66">Hé bien ! Je vous écoute avec attention.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="67">Tu m’aimas, Don Carlos, qu’ai-je dit insensée ?</l>
 	<l id="68">Mon indiscrète langue a trahi ma pensée,</l>
 	<l id="69">Et j’ai mal commencé par une fausseté,</l>
@@ -203,44 +203,44 @@
 	<l id="112">S’offrant à tes regards, te donna de l’ombrage ;</l>
 	<l id="113" part="i">Mais le temps t’apprendra.</l>
 </sp>
-<sp who="FABRICE"><speaker>FABRICE.</speaker>
+<sp who="FABRICE"><hstage><speaker>FABRICE</speaker>.</hstage>
 	<l id="113" part="f">Monsieur, votre Cousin</l>
 	<l id="114" part="i">Vous vient voir.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="114" part="f">Il est donc encore en mon destin,</l>
 	<l id="115">Qu’il vienne quand je veux prouver mon innocence.</l>
 </sp>
-<sp who="FABRICE"><speaker>FABRICE.</speaker>
+<sp who="FABRICE"><hstage><speaker>FABRICE</speaker>.</hstage>
 	<l id="116" part="i">Le voici.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="116" part="f">Cachez-vous Madame en diligence ;</l>
 	<l id="117">Écoutez de la porte, aussi bien vous serez</l>
 	<l id="118">Le sujet des discours que vous écouterez.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Don Carlos, Don Louis.</head>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Don Carlos, Don Louis.</cast>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="119" part="i">Je viens vous quereller.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="119" part="f">Et pourquoi ? Je vous prie.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="120">Pour vous être logé dans cette hôtellerie.</l>
 	<l id="121">Et ne pouviez-vous pas me faire un plus grand tort,</l>
 	<l id="122">Qu’en ne descendant pas en ma maison d’abord.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="123" part="i">Arrivé cette nuit ?</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="123" part="f">Jour et nuit à toute heure,</l>
 	<l id="124">Vous avez dû chez moi choisir votre demeure ;</l>
 	<l id="125" part="i">Qui vous mène à Valence ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="125" part="f">Ô mon cher, Don Louis,</l>
 	<l id="126">Comme partout ailleurs, des malheurs inouïs,</l>
 	<l id="127">Quelque part où le sort me transporte, ou m’arrête,</l>
@@ -248,12 +248,12 @@
 	<l id="129">Et comme par dessein, cet implacable sort</l>
 	<l id="130">Me suscite toujours l’orage auprès du port.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="131">Si tout ce que je puis, et ce que je possède,</l>
 	<l id="132">Peut soulager vos maux, ou leur donner remède,</l>
 	<l id="133">Je vous offre mon bras, mon crédit et mon bien.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="134">En l’état où je suis, je ne refuse rien.</l>
 	<l id="135">Cependant apprenez le sujet de ma peine,</l>
 	<l id="136">Et le cruel malheur, qui dans ces lieux m’amène.</l>
@@ -315,10 +315,10 @@
 	<l id="191">Il poursuivait en Cour une importante affaire ;</l>
 	<l id="192">Mais cette circonstance ici n’importe guère.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="193" part="i">L’aventure est étrange.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="193" part="f">Écoutez ce qui suit.</l>
 	<l id="194">Vous voyez par l’état où le sort me réduit,</l>
 	<l id="195">Qu’il faut absolument que je quitte l’Espagne,</l>
@@ -330,29 +330,29 @@
 	<l id="201">Mais du bien que j’avais, il ne m’est rien resté</l>
 	<l id="202">Que le malheureux fer que je porte au côté.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="203" part="i">Je vous offre ma bourse.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="203" part="f">Ha ! Je ne veux pas prendre,</l>
 	<l id="204">Ce que je ne suis pas en état de vos rendre.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="205">Mais chez moi mon Cousin qui la viendra chercher ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="206">Mais belle comme elle est, s’y peut-elle cacher ?</l>
 	<l id="207" part="i">Pour qui passerait-elle ?</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="207" part="f">Ou bien pour ma parente,</l>
 	<l id="208">Ou ma sœur la tiendrait au lieu d’une suivante.</l>
 	<l id="209">Rien n’est plus à propos que ce déguisement.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="210">Lui puis-je proposer un tel abaissement ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE sortant de sa chambre.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker> sortant de sa chambre.</hstage>
 	<l id="211">Tu le peux Don Carlos, tout est facile à faire.</l>
 	<l id="212">À qui met son bonheur à ne te point déplaire.</l>
 	<l id="213">Dans les plus bas emplois je ne rougirai point,</l>
@@ -373,10 +373,10 @@
 	<l id="227">Si mon âme envers lui fut jamais criminelle,</l>
 	<l id="228">Et fut autre pour lui que sincère et fidèle.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="229">Et cet homme caché dans votre appartement ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="230">Ha ! Don Carlos, ce fut sans mon consentement,</l>
 	<l id="231">Et j’atteste le Ciel qui sait mon innocence,</l>
 	<l id="232">Que je n’eus point de part en sa jeune insolence.</l>
@@ -384,14 +384,14 @@
 	<l id="234">Que j’opposai toujours à sa témérité ;</l>
 	<l id="235">Mais pour peu qu’on déplaise, on en est moins croyable.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="236">Vous êtes l’innocence, et je suis le coupable.</l>
 <note type="C">Le vers 237 n’a pas de rime correspondante.</note>
 	<l id="237">On ne peut trop blâmer mon procédé jaloux ;</l>
 	<l id="238">Mais l’honneur où l’on voit la moindre ombre paraître</l>
 	<l id="239">S’il n’est déjà taché, n’est pas longtemps sans l’être.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="240">Votre beauté Madame est un témoin puissant,</l>
 	<l id="241">Pour me persuader votre amour innocent.</l>
 	<l id="242">Chez moi ne doutez pas que l’on ne vous respecte</l>
@@ -410,7 +410,7 @@
 	<l id="255">Et ce billet écrit je reviens vous le lire.</l>
 <stage>Il sort.</stage>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="256">Don Carlos ! Ton esprit sera bientôt en paix</l>
 	<l id="257">Puisqu’on va m’éloigner de tes yeux pour jamais ;</l>
 	<l id="258">Mais cruel, si le temps qui change toutes choses,</l>
@@ -422,7 +422,7 @@
 	<l id="264">Ne me tiendras-tu pas ce que tu m’as promis ?</l>
 	<l id="265">On tient ce qu’on promet même à ses ennemis.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="266">Que mon cœur ne peut-il oublier une offense ;</l>
 	<l id="267">Avoir mes yeux suspects ; croire votre innocence ?</l>
 	<l id="268">Mais ingrate beauté, ne fut-ce pas chez vous,</l>
@@ -436,12 +436,12 @@
 	<l id="276">Et que les mouvements de ce trouble intestin</l>
 	<l id="277">Seront les derniers coups de mon cruel destin.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="278">Ha ! Si je n’avais pas encor quelque espérance,</l>
 	<l id="279">Que le Ciel tôt ou tard protège l’innocence ;</l>
 	<l id="280">Tu n’aurais pas longtemps à me haïr ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="281">Ma résolution commence à me trahir ;</l>
 	<l id="282">Si j’écoute longtemps cette fille infidèle,</l>
 	<l id="283">Mon âme malgré moi me parlera pour elle,</l>
@@ -449,7 +449,7 @@
 	<l id="285" part="i">Vous conduire chez lui.</l>
 <stage>Il sort.</stage>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="285" part="f">Que n’est-ce au monument ?</l>
 	<l id="286">Hélas ! Depuis qu’Amour a fait des misérables</l>
 	<l id="287">En voit-on dont les maux soient aux miens comparables ?</l>
@@ -467,27 +467,27 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Don Sanche, Cardille.</head>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Don Sanche, Cardille.</cast>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="298">Oui, le fier Don Louis, et sa bizarrerie,</l>
 	<l id="299">Vient d’entrer à l’instant dans cette hôtellerie :</l>
 	<l id="300">Mais pourquoi n’osez-vous entrer en sa maison ?</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="301">Il me l’a défendue, et me hait sans raison,</l>
 	<l id="302">Et c’est celle que j’ai de lui cacher la flamme,</l>
 	<l id="303">Que son aimable sœur allume dans mon âme :</l>
 	<l id="304">Je viens donc en secret voir cette aimable sœur.</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="305">Vous ne pouviez jamais mieux placer votre cœur :</l>
 	<l id="306" part="i">Mais l’aimez-vous encore ?</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="306" part="f">Oui, Cardille, je l’aime,</l>
 	<l id="307">Autant qu’on peut aimer, enfin plus que moi-même.</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="308">C’est fort bien fait à vous : et celle de Madrid,</l>
 	<l id="309">Chez qui certain rival fantasque vous surprit,</l>
 	<l id="310">Et vous perça de coups, mais vous perça de sorte,</l>
@@ -505,7 +505,7 @@
 	<l id="322">Ma foi tyran des cœurs, Monseigneur, et mon Maître</l>
 	<l id="323">À parler franchement, vous êtes un grand traître.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="324">Les hommes de mon âge aiment en divers lieux</l>
 	<l id="325">Tous les objets charmants qui s’offrent à leurs yeux ;</l>
 	<l id="326">De ces objets charmants qui leurs âmes captivent,</l>
@@ -513,14 +513,14 @@
 	<l id="328">Flore est le seul objet que j’aime constamment :</l>
 	<l id="329">Pour l’autre je l’aimais en passant seulement.</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="330">Oui, ce fut en passant, et vous passâtes même</l>
 	<l id="331">De Madrid jusqu’ici d’une vitesse extrême</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="332">Je sortis vitement de Madrid ayant peur...</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="333">D’y rencontrer encor quelque rude frappeur.</l>
 	<l id="334">Quelque gloire qu’apporte une belle entreprise</l>
 	<l id="335">S’y faire assassiner, c’est faire une sottise ;</l>
@@ -531,94 +531,94 @@
 	<l id="340">Ne me mettra jamais en cette extrémité,</l>
 	<l id="341">De perdre tout mon sang, où vous avez été.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="342">Tu fais aller trop loin ta froide raillerie.</l>
 	<l id="343">Ne la pousse pas tant, et surtout je te prie,</l>
 	<l id="344">De ne rien dire ici du malheur de Madrid,</l>
 	<l id="345" part="i">Ou bien point de quartier.</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE à part.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker> à part.</hstage>
 	<l id="345" part="f">J’ai pourtant tout écrit.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="345" part="f">Que dis-tu ?</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="346">Je vous dis que je me sais bien taire</l>
 	<l id="347" part="i">Quand il en est besoin.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="347" part="=f">Tu ne saurais mieux faire.</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE à part.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker> à part.</hstage>
 	<l id="348">Si Flore qui sait tout, allait pour mon malheur,</l>
 	<l id="349">Par malice, ou sottise éventer son auteur ?</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="350" part="i">Que grondes-tu tout bas ?</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="350" part="f">Je fais un soliloque.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="351">Sais-tu bien comme on traite un faquin qui se moque ?</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="352">Oui, Seigneur ; mais de grâce encor. Si par hasard,</l>
 	<l id="353">Comme l’on sait toujours les choses tôt ou tard,</l>
 	<l id="354">Flore allait découvrir votre amour clandestine ;</l>
 	<l id="355">Mais je ne dis plus rien, voici venir Marine.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Marine, Don Sanche, Cardille.</head>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Marine, Don Sanche, Cardille.</cast>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="356">Oui prête à vous servir, comme elle fut toujours,</l>
 	<l id="357">Pourvu que vous soyez constant dans vos amours ;</l>
 	<l id="358">Mais que désirez-vous de votre humble soumise ?</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="359">Des nouvelles de Flore, et par mon entremise</l>
 	<l id="360" part="i">Le moyen de la voir.</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 <stage>Elle sort.</stage>
 	<l id="360" part="f">Attendez un moment.</l>
 	<l id="361">Je n’ai rien plus à cœur que servir un amant.</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="362" part="i">Ô quel tison d’enfer !</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="362" part="f">Ne lui dis rien Cardille ;</l>
 	<l id="363">Tu sais bien que je l’aime, et qu’elle est bonne fille.</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="364">Elle fille ? Elle l’est, tout comme je la suis.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="365" part="i">Si tu m’aimes, tais-toi.</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="365" part="f">Dites donc si je puis.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="366" part="i">Tu deviens bien fâcheux Cardille.</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="366" part="f">Il me le semble.</l>
 	<l id="367">Qui ne le deviendrais étant toujours ensemble ?</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="368" part="i">Parleras-tu toujours ?</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="368" part="f">Vous savez mon défaut.</l>
 	<l id="369">Et si je ne parlais, que je mourrais bientôt.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="370" part="i">Hé bien chère Marine ?</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 <stage>Elle rentre.</stage>
 	<l id="370" part="f">Il faut attendre encore :</l>
 	<l id="371">Si vous m’en demandez la raison, je l’ignore,</l>
@@ -628,17 +628,17 @@
 	<l id="375">Qui d’elle étant jaloux, et ne vous aimant guère,</l>
 	<l id="376">S’il allait vous trouver, ferait quelque rumeur.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE, s’enferme.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>, s’enferme.</hstage>
 	<l id="377">Je remets en tes mains ma vie, et mon honneur.</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE, seule.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>, seule.</hstage>
 	<l id="378">Ma Maîtresse est pour lui terriblement changée,</l>
 	<l id="379">À son nom seulement elle a fait l’enragée,</l>
 	<l id="380">Sans doute elle aura su que Don Sanche à la Cour</l>
 	<l id="381">Pour n’être pas oisif a fait un peu l’amour :</l>
 	<l id="382" part="i">Mais la voici.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="382" part="f">Je viens encore te le dire :</l>
 	<l id="383">Quand tu vois qu’aujourd’hui, je pleure et je soupire,</l>
 	<l id="384">Tu crois que c’est l’amour qui me tourmente ainsi.</l>
@@ -655,77 +655,77 @@
 	<l id="395">Qu’il n’est né que pour moi ; qu’il m’aime, qu’il m’adore.</l>
 	<l id="396">Il ne m’attrape plus à ses trompeurs appas.</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="397" part="i">Et s’il vient pour vous voir ?</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="397" part="f">Il ne me verra pas.</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="398">Madame pourriez-vous le punir de la sorte ?</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="399">À de plus grands excès ma colère m’emporte.</l>
 	<l id="400">Je veux pour m’en venger de mon cœur le bannir,</l>
 	<l id="401">Et n’en réserver pas le moindre souvenir :</l>
 	<l id="402" part="i">Mais on frappe à la porte.</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="402" part="f">Et si c’est lui Madame ?</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="403">Il n’a que faire ici, s’il est hors de mon âme,</l>
 	<l id="404">L’ingrat qui vient à moi comme à son pis-aller.</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="405" part="i">Je le renverrai donc.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="405" part="f">Non, je lui veux parler :</l>
 	<l id="406">Tu ne lui tiendrais pas un langage assez rude.</l>
 <stage>Marine s’en va.</stage>
 	<l id="407">Je ne puis rien comprendre en votre inquiétude.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="408">Dans un esprit frappé d’un mal comme le mien,</l>
 	<l id="409">Un dessein détruit l’autre, et l’on ne résout rien.</l>
 	<l id="410">L’amant dissimulé, le méchant, quand un autre</l>
 	<l id="411">Lui refuse son cœur, il a recours au nôtre ;</l>
 	<l id="412" part="i">Est-ce lui ?</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE, revient.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>, revient.</hstage>
 	<l id="412" part="m">Non, Madame.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="412" part="m">Et qui donc ?</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="412" part="f">Béatrix,</l>
 	<l id="413">Dont depuis si longtemps votre frère est épris,</l>
 	<l id="414">Sachant que depuis peu vous êtes sans soubrette,</l>
 	<l id="415">Vous en renvoie une autre assez propre et bien faite.</l>
 	<l id="416" part="i">Le fera-t-on entrer ?</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="416" part="f">Je n’ai pas le pouvoir</l>
 	<l id="417">En l’état où je suis, même de rien vouloir.</l>
 	<l id="418" part="i">Fais comme tu voudras.</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="418" part="f">Entrez Mademoiselle.</l>
 <stage>Léonore entre.</stage>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="419">Elle a bonne façon, et paraît assez belle.</l>
 	<l id="420" part="i">Qui vous envoie ici ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Léonore, Flore, Marine.</head>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Léonore, Flore, Marine.</cast>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="420" part="f">Madame vous saurez</l>
 	<l id="421">Par ce petit billet ce que vous désirez.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE lit la Lettre.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker> lit la Lettre.</hstage>
 <p id="1">
 	<s id="1">On m’a dit que vous cherchiez une suivante : Je vous en envoie une que j’aurais prise si je ne préférais à mon utilité, et à tout ce que j’ai de plus cher, l’honneur d’être votre servante,</s>
 </p>
@@ -735,15 +735,15 @@
 	<l id="422">Sans doute Béatrix vous a bien choisie.</l>
 	<l id="423" part="i">Êtes-vous de Madrid ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="423" part="f">Je suis d’Andalousie ;</l>
 	<l id="424">Mais j’ai servi longtemps une Dame à Madrid</l>
 	<l id="425">Avec affection quoique avec peu d’esprit.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="426" part="i">Vous savez bien coiffer ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="426" part="f">On me le persuade :</l>
 	<l id="427">Pour l’embellissement, il n’est point de pommade,</l>
 	<l id="428">Il n’est point de secret qu’on me puisse montrer,</l>
@@ -751,99 +751,99 @@
 	<l id="430">Enfin, si j’ai l’honneur d’être votre servante,</l>
 	<l id="431">Vous verrez si je sais les choses que je vante.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="432" part="i">Quels gages gagnez-vous ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="432" part="f">Je suis sans intérêt,</l>
 	<l id="433">Vous les pouvez régler à si peu qu’il vous plaît ;</l>
 	<l id="434">L’honneur de vous servir m’est trop de récompense.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="435">Je vous dois savoir gré de cette confiance,</l>
 	<l id="436">Je vous prends et croyez, demeurant chez moi ;</l>
 	<l id="437" part="i">Que vous ne perdrez pas votre temps.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="437" part="f">Je le crois.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="438" part="i">Comment avez-vous nom ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="438" part="f">On m’appelle Isabelle.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="439">Je vous trouve un défaut ; je vous trouve trop belle.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="440">Quand bien je la serais, quelquefois la beauté,</l>
 	<l id="441">Est un bien dangereux, ou sans utilité.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="442">Je puis jugez encor par cette répartie,</l>
 	<l id="443">Que votre esprit bien fait a de la modestie.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Don Louis. Flore, Marine.</head>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Don Louis. Flore, Marine.</cast>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="444">Je viens vous faire part du plaisir que je sens.</l>
 	<l id="445">Ce Cousin que j’aimai dès mes plus jeunes ans,</l>
 	<l id="446">Don Carlos de Roxas arrivé de Castille</l>
 	<l id="447">Est notre hôte aujourd’hui, d’où vous vient cette fille ?</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="448">Béatrix me l’envoie, et j’ai cru la prenant</l>
 	<l id="449" part="i">Vous avoir fait plaisir.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="449" part="f">Oui ma sœur, et très grand ;</l>
 	<l id="450">L’aimant comme je fais, l’obliger c’est me plaire,</l>
 	<l id="451">De grâce efforcez-vous de faire bonne chère,</l>
 	<l id="452">À l’aimable parent qui nous est venu voir.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="453">Je m’en vais donner ordre à le bien recevoir.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS, s’en va.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>, s’en va.</hstage>
 	<l id="454" part="i">Et moi vous l’amener.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="454" part="f">De colère embrasée,</l>
 	<l id="455">À le bien divertir, je suis mal disposée,</l>
 	<l id="456" part="i">Qu’il vient à contretemps !</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE, entre.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>, entre.</hstage>
 	<l id="456" part="f">Madame un mot tout bas.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="457" part="i">Quoi ?</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="457" part="m">Don Sanche est ici.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="457" part="f">Ne me l’amène pas.</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="458">Si sont-ils dès tantôt le valet, et le Maître</l>
 	<l id="459" part="i">Dans la chambre voisine.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="459" part="f">Et que dit-il le traître ?</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="460" part="i">Il ne sait rien encor.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="460" part="f">Qu’il sache tout de toi.</l>
 <stage>Elle sort.</stage>
 	<l id="461">Je ne le veux point voir. Ma fille suivez-moi.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE, à part.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>, à part.</hstage>
 	<l id="462">À quelle extrémité me réduit ma disgrâce ?</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="463">La soubrette en sortant a fait une grimace,</l>
 	<l id="464">Je la trouve rêveuse, et je me trompe bien,</l>
 	<l id="465">Ou son cher petit cœur aime si peu que rien,</l>
@@ -854,26 +854,26 @@
 	<l id="470" part="i">Sortez monsieur, sortez.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Don Sanche, Marine.</head>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Don Sanche, Marine.</cast>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="470" part="f">Est-elle donc visible ?</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="471" part="i">Peut-être.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="471" part="f">Ha ! Tu me fais une frayeur terrible.</l>
 	<l id="472">Parles-tu tout de bon ? Mais la voici venir.</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="473">Oui ma foi, le pauvret n’a qu’à se bien tenir.</l>
 	<l id="474">Mais je sais qu’en amour la plus grande querelle</l>
 	<l id="475">Au lieu de diviser réunit de plus belle.</l>
 	<l id="476">C’est jeter un peu d’eau dans un brasier ardent.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Flore, Don Sanche.</head>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Flore, Don Sanche.</cast>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="477">Il me trahit l’ingrat, et me voit l’impudent !</l>
 	<l id="478">Don Sanche ? Où venez-vous ? Et que pensez-vous faire ?</l>
 	<l id="479">Et n’avez-vous point peur de rencontrer mon frère ?</l>
@@ -881,7 +881,7 @@
 <note type="C">Sans que se construisait fréquemment avec l’indicatif au XVIIe siècle avec l’indicatif. [Grevisse]</note>
 	<l id="481">Que vous me deviez voir, sans qu’il vous l’ait permis.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="482">Votre frère aurait droit d’y trouver à redire ;</l>
 	<l id="483">Mais vous dont la beauté sans cesse à soi m’attire,</l>
 	<l id="484">Vous me permettez bien pour vous venir revoir,</l>
@@ -889,11 +889,11 @@
 	<l id="486">Et vous pouvez juger par cette impatience,</l>
 	<l id="487">Des maux que j’ai soufferts dans une longue absence.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="488">Je n’attendais pas moins que des galants discours,</l>
 	<l id="489">De qui vient du pays des galantes amours.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="490">Ha ! Madame ! La Cour le séjour des délices,</l>
 	<l id="491">Ne m’a paru sans vous qu’un enfer de supplices ;</l>
 	<l id="492">Ce n’est pas que la Cour n’ait ce charmants appas ;</l>
@@ -904,7 +904,7 @@
 	<l id="496">Combien de fois les bords du clair Mansanarets</l>
 	<l id="497">Ont-ils été témoins de mes tristes regrets ?</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="498">Vous m’attendrissez fort en me faisant entendre</l>
 	<l id="499">Tout ce qu’en un roman on peut lire de tendre.</l>
 	<l id="500">Quoi, bons Dieux ! À la cour, où tout charme, où tout rit,</l>
@@ -914,72 +914,72 @@
 	<l id="504">Si je pousse la mienne aussi loin, je pourrai</l>
 	<l id="505">La voir comme la vôtre au suprême degré.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="506">Ce langage moqueur est un peu fort, Madame.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="507">C’est l’effet de la joie où s’emporte mon âme,</l>
 	<l id="508">De vous revoir vivant, et vous avoir cru mort.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="509">Être absent, ou mourir, ne diffèrent pas fort.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="510">On ne vous crut pas mort des rigueurs d’une absence :</l>
 	<l id="511">Mais d’un cœur sans pitié : c’est le bruit de Valence :</l>
 	<l id="512">Quelle apparence aussi de vivre sans amour,</l>
 	<l id="513">Entre tant de beautés qui brillent à la Cour ?</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="514">Pour une autre que vous, moi soupirer Madame ?</l>
 	<l id="515">Ha ! Vous connaissez mal les secrets de mon âme.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="516">Je les ai mal connus, mais je les connais mieux,</l>
 	<l id="517">Depuis que vous avez abandonné ces lieux.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="518">Sur quelque faux rapport, vous en jugez peut-être.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="519">Hé bien ! J’avouerai donc de ne le pas connaître</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="520">Ha ! Cette indifférence est un signe apparent.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="521">Que vous ne m’êtes plus qu’un homme indifférent.</l>
 	<l id="522">Et que faussant la foi que l’on m’avait promise,</l>
 	<l id="523">On perd de mon amour l’espérance permise.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="524">Je ne vous puis nier qu’un funeste accident.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="525">Voulez-vous déguiser un mensonge évident ?</l>
 	<l id="526">Songez que votre front qui rougit et se trouble,</l>
 	<l id="527">Me parle malgré vous contre votre âme double.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="528">Que ne pourrait troubler un sort si malheureux ?</l>
 	<l id="529">Ma partie est mon Juge, et Juge rigoureux.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="530">Je ne veux point ces noms de juge, et de partie,</l>
 	<l id="531">Je veux absolument que Don Sanche m’oublie :</l>
 	<l id="532">Je lui permets aussi s’il veut de me haïr.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="533">Il mourra bien plutôt que de vous obéir.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="534">Qu’il vive donc heureux pour cette belle fille,</l>
 	<l id="535">Qui le put retenir si longtemps en Castille.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="536">Je la vis, il est vrai ; mais ce fut sans amour.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="537">Oubliez-vous déjà cet astre de la Cour ?</l>
 	<l id="538">Me voyant l’avez-vous de votre âme effacée,</l>
 	<l id="539">Ainsi qu’en la voyant, vous m’en avez chassée ?</l>
@@ -1000,47 +1000,47 @@
 	<l id="554">Une femme peut bien vous faire dans Valence,</l>
 	<l id="555">Contre un même péril pour une même offense.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="556" pat="i">Si vous vouliez m’ouïr...</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="556" part="f">Ne me parlez jamais.</l>
 	<l id="557">Retournez à Madrid, et me laissez en paix.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Marine, Flore, Don Sanche, Cardille.</head>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Marine, Flore, Don Sanche, Cardille.</cast>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="558" part="i">Tout est perdu.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="558" part="m">Quoi donc ?</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="558" part="f">L’on frappe, et je soupçonne</l>
 	<l id="559">Que c’est pour nos péchés votre frère en personne.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="560" part="i">Quel accident Marine !</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="560" part="f">Où les cachera-t-on ?</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="561" part="i">Que sais-je ? Où tu voudras ; songe.</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="561" part="f">Dans le balcon.</l>
 	<l id="562">Et si l’on veut l’ouvrir, la clef sera perdue ;</l>
 	<l id="563">En tout cas, ils n’auront qu’à sauter dans la rue.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="564">On refrappe, hâte-toi de cacher cet ingrat.</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 <stage>Ils s’en vont.</stage>
 	<l id="565" part="i">Il paraît tout contrit.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="565" part="f">Ce n’est qu’un scélérat.</l>
 	<l id="566">Ô qu’il est malaisé de garder sa colère,</l>
 	<l id="567">Quand celui qui la cause, a le secret de plaire,</l>
@@ -1057,14 +1057,14 @@
 	<l id="578">Qui peut s’imaginer le trouble de mon âme ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Marine, Flore.</head>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Marine, Flore.</cast>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="579" part="i">Moi.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="579" part="m">Tu m’écoutais donc ?</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="579" part="f">Vous l’avez dit, Madame !</l>
 	<l id="580">Mais c’est pour vous ôter du trouble où je vous vois,</l>
 	<l id="581">Pourvu que vous vouliez vous en remettre à moi.</l>
@@ -1077,10 +1077,10 @@
 	<l id="588">Don Sanche me devra son raccommodement,</l>
 	<l id="589">Et m’en régalera, s’il a du jugement.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="590">Travaille à mon repos, et ménage ma gloire.</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="591">L’un et l’autre est aisé, si vous m’en voulez croire.</l>
 	<l id="592">À propos, votre frère au bas de l’escalier,</l>
 	<l id="593">Conteste pour l’entrée avec son Cavalier :</l>
@@ -1108,7 +1108,7 @@
 	<l id="615">Et l’inspire surtout à Monsieur votre frère :</l>
 	<l id="616">Lors j’irai sûrement les désembalconner.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="617">J’approuve assez l’avis que tu viens de donner,</l>
 	<l id="618">Va les en avertir, et ne demeure guères ;</l>
 	<l id="619">Afin de revenir préparer des lumières.</l>
@@ -1116,11 +1116,11 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Don Louis, Don Carlos, Fabrice.</head>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Don Louis, Don Carlos, Fabrice.</cast>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="620" part="i">Vous nous quittez sitôt ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="620" part="f">Vous savez mes affaires :</l>
 	<l id="621">Je ne veux pas manquer l’escadre des galères,</l>
 	<l id="622">Qui sont à Barcelone, et qui partent demain.</l>
@@ -1129,18 +1129,18 @@
 	<l id="625">Le repos que la mort fait trouver dans la guerre.</l>
 	<l id="626">C’est un bien qui jamais ne manque aux malheureux.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="627">Puis-je vous obliger d’attendre un jour ou deux ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="628">Si c’est pour vous servir, j’attends ma vie entière.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="629">Je ne vous ferais pas une telle prière,</l>
 	<l id="630">Et ne vous romprais pas un voyage arrêté,</l>
 	<l id="631">Sans avoir pour excuse une nécessité.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="632">Que la raison en soit, ou bien faible ou bien forte,</l>
 	<l id="633">Vous servir me suffit, le reste ne m’importe,</l>
 	<l id="634">Je ne pars point Fabrice, il faudra renvoyer</l>
@@ -1148,10 +1148,10 @@
 <stage>Fabrice sort.</stage>
 	<l id="635" part="m">Et pas moins les payer.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="636" part="i">Sors.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="636" part="f">Une jeune sœur n’est pas au soin d’un frère,</l>
 	<l id="637">Un tranquille travail, une charge légère.</l>
 	<l id="638">La mienne a de l’esprit, est sage, aime l’honneur ;</l>
@@ -1188,11 +1188,11 @@
 	<l id="669">Par bonheur tout le monde est dans le lit encore,</l>
 	<l id="670" part="i">Et hors votre valet.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="670" part="f">Pour lui ne craignez rien.</l>
 	<l id="671" part="i">Fiez-vous-y sur moi.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="671" part="f">La feinte ira donc bien.</l>
 	<l id="672">Caché dans cette chambre, où j’enferme mes livres,</l>
 	<l id="673">Où seul j’aurai le soin de vous porter des vivres,</l>
@@ -1200,7 +1200,7 @@
 	<l id="675">Découvrir les auteurs de ce dérèglement.</l>
 	<l id="676">Je rougis de l’emploi qu’il faut que je vous donne.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="677">Gardez ce compliment pour une autre personne</l>
 	<l id="678">Sur qui vous n’avez pas un absolu pouvoir.</l>
 	<l id="679">Nous en blâmions l’excès, vous et moi hier au soir ;</l>
@@ -1208,30 +1208,30 @@
 	<l id="681" part="i">Mais Fabrice revient.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Fabrice, Don Carlos, Don Louis.</head>
-<sp who="FABRICE"><speaker>FABRICE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Fabrice, Don Carlos, Don Louis.</cast>
+<sp who="FABRICE"><hstage><speaker>FABRICE</speaker>.</hstage>
 	<l id="681" part="f">Vous dire une nouvelle</l>
 	<l id="682">Qui déplaît à Fabrice, et qui vous déplaira.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="683" part="i">Qu’est-il donc arrivé ?</l>
 </sp>
-<sp who="FABRICE"><speaker>FABRICE.</speaker>
+<sp who="FABRICE"><hstage><speaker>FABRICE</speaker>.</hstage>
 	<l id="683" part="f">Don Pedre de Lara,</l>
 	<l id="684">Père de Léonore, est en bas qui demande</l>
 	<l id="685" part="i">Le Seigneur Don Louis.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="685" part="f">Ô Dieu ! Que j’appréhende</l>
 	<l id="686" part="i">Qu’il ne trouve sa fille !</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="686" part="f">Elle est encore au lit...</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="687" part="i">Il sait qu’elle est ici...</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="687" part="f">Qui lui peut avoir dit ?</l>
 	<l id="688">Alors que l’on saura le sujet qui l’amène,</l>
 	<l id="689">Il sera temps assez de vous en mettre en peine :</l>
@@ -1240,27 +1240,27 @@
 	<l id="691">Ce Castillan paraît un vieillard fort mutin.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Don Pedre, Don Louis.</head>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Don Pedre, Don Louis.</cast>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="692" part="i">Êtes-vous Don Louis ?</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="692" part="f">C’est ainsi que l’on me nomme.</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="693" part="i">De Roxas ?</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="693" part="m">Oui, Monsieur.</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="693" part="f">Cette lettre est d’un homme,</l>
 	<l id="694">Qui croit qu’auprès de vous elle seule suffit,</l>
 	<l id="695">Pour m’y faire appuyer de tout votre crédit,</l>
 	<l id="696">Dans l’affaire d’honneur qui m’amène à Valence ;</l>
 	<l id="697" part="i">C’est du Duc d’Alve.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="697" part="f">Il a sur moi toute puissance.</l>
 <stage>Il lit la Lettre.</stage>
 <p id="1">
@@ -1276,29 +1276,29 @@
 	<l id="701">Mais il faut que je sache avant que je m’engage,</l>
 	<l id="702">Quel est ce Cavalier à qui vous en voulez.</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="703">Je m’aperçois par là de ce que vous valez,</l>
 	<l id="704">Et c’est être prudent que prendre connaissance,</l>
 	<l id="705">Si vous devez ou non, m’offrir votre assistance.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="706">Je ne manquai jamais à ce que j’ai promis :</l>
 	<l id="707">Mais je ne promets rien qui blesse mes amis.</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="708">Don Sanche de Lussan, a-t-il l’honneur d’en être ?</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="709">Non, mais j’ai seulement celui de le connaître !</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="710">Je vous apprendrai donc, puisqu’il ne vous est rien,</l>
 	<l id="711" part="i">Qu’il est mon ennemi.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="711" part="f">J’en ferai donc le mien.</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="712">Ce Don Sanche à Madrid galantisait ma fille,</l>
 	<l id="713">Cette peste fatale à sa noble famille.</l>
 	<l id="714">Un rival l’attaqua dans sa chambre une nuit,</l>
@@ -1314,17 +1314,17 @@
 	<l id="724">Ma fille l’a suivi, sa Maîtresse, ou sa femme ;</l>
 	<l id="725">Car hors lui qui voudrait se charger d’une infâme ?</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="726">Ce rival inconnu peut l’avoir comme lui.</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="727">Oui, si l’on avait su de lui-même aujourd’hui,</l>
 	<l id="728">Qu’il est depuis un jour arrivé dans Valence.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="729">C’est encore en juger sur la seule apparence.</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="730">Mais on m’a dit souvent partout où j’ai passé,</l>
 	<l id="731">Alors que j’ai pris langue, et qu’on m’a vu pressé,</l>
 	<l id="732">Que des gens de cheval dont je suivais la piste,</l>
@@ -1335,15 +1335,15 @@
 	<l id="737">De montrer à L’Espagne une illustre vengeance.</l>
 	<l id="738" part="i">Adieu, ne sortez point.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="738" part="f">Je fais ce que je dois.</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="739">Ce sera donc, Monsieur, pour cette seule fois.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Don Carlos, Fabrice.</head>
-<sp who="DON-CARLOS"><speaker>DON CARLOS sortant d’où il était caché.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Don Carlos, Fabrice.</cast>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker> sortant d’où il était caché.</hstage>
 	<l id="740">Heureusement pour nous le vieillard prend le change.</l>
 <note type="C">En quelque sens qu’on emploie rencontre, il est toujours féminin, et les bons Auteurs n’en usent jamais autrement ; néanmoins en matière de querelle, plusieurs le font masculin, et disent, ce n’est pas un duel, ce n’est qu’un rencontre ; mais le meilleur est de le faire féminin. [Féraud Grammatical]</note>
 	<l id="741">Ô Dieux ! Que dois-je faire en ce rencontre étrange ?</l>
@@ -1359,56 +1359,56 @@
 	<l id="750">Que sans lui dire adieu, j’ai parti ce matin,</l>
 	<l id="751">Et pour toi, que tu sers désormais mon Cousin.</l>
 </sp>
-<sp who="FABRICE"><speaker>FABRICE.</speaker>
+<sp who="FABRICE"><hstage><speaker>FABRICE</speaker>.</hstage>
 	<l id="752" part="i">J’y vais ; mais quelqu’un vient, cachez-vous.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Flore, Léonore, Marine.</head>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Flore, Léonore, Marine.</cast>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="752" part="f">Isabelle ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="753" part="i">Madame.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 <note type="L">Remplir une dentelle : On fait remplir les dentelles claires ou deschirées. On fait rebroder les dentelles. [F]</note>
 	<l id="753" part="f">Achevez donc de remplir ma dentelle.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="754">Elle est toute remplie à quelque chose près :</l>
 	<l id="755">Voulez-vous qu’à l’instant je me remette après ?</l>
 <stage>Léonore sort.</stage>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="756" part="i">Oui, Marine ?</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="756" part="m">Madame.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="756" part="f">Il n’est pas nécessaire</l>
 	<l id="757">Que cette fille ait part dans ce que je vais faire.</l>
 	<l id="758">Va-t-en donc l’observer, Marine, et garde bien.</l>
 	<l id="759" part="i">Qu’elle ne me surprenne.</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="759" part="f">Elle n’en fera rien.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="760" part="i">Et Don Sanche ?</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="760" part="f">Il soupire en ma chambre, il lamente,</l>
 	<l id="761">Il meurt en attendant que je vous le présente.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="762" part="i">Va le faire monter.</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="762" part="f">Vous l’aller voir tremblant.</l>
 <stage>Elle sort.</stage>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="763">Il n’a pas tant de peur qu’il en fait le semblant.</l>
 	<l id="764">Ô raison sur mon âme autrefois absolue !</l>
 	<l id="765">Ô vertu qui m’avez si souvent secourue !</l>
@@ -1423,8 +1423,8 @@
 	<l id="773">Don Sanche un infidèle, un amant que j’abhorre ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Don Sanche, Flore.</head>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Don Sanche, Flore.</cast>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="774">Don Sanche, un infidèle, un amant odieux,</l>
 	<l id="775">Pour la dernière fois se présente à vos yeux,</l>
 	<l id="776">Pour obtenir enfin le pardon qu’il demande :</l>
@@ -1434,20 +1434,20 @@
 	<l id="780">Si la vôtre à sa mort est enfin résolue,</l>
 	<l id="781">Vous pouvez l’ordonner de puissance absolue.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="782" part="i">Je ne veux point ta mort.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="782" part="f">C’est assez la vouloir,</l>
 	<l id="783">Que de me déclarer indigne de vous voir,</l>
 	<l id="784">Et c’est me dire assez ce qui me reste à faire ;</l>
 	<l id="785">Pour me mettre en état de ne plus vous déplaire.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="786">Ingrat ! Qui sais tenir de semblables discours,</l>
 	<l id="787">Qui te forçait d’aimer pour n’aimer pas toujours !</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="788">Je vous aimai toujours et d’une ardeur extrême :</l>
 	<l id="789">Mais ne voit-on jamais offenser ce qu’on aime ?</l>
 	<l id="790">Doit-on faire durer si longtemps un courroux ?</l>
@@ -1461,7 +1461,7 @@
 	<l id="798">En a souffert assez pour apprendre aux ingrats,</l>
 	<l id="799">Qu’il est des châtiments pires que le trépas.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="800">Et ces discours flatteurs, et ces trompeuses larmes,</l>
 	<l id="801">N’ont pour moi désormais ni mérites ni larmes</l>
 	<l id="802">Méchant qu’on ne peut trop, ni trop longtemps haïr,</l>
@@ -1471,7 +1471,7 @@
 	<l id="806">Infidèle ! Ha jamais ne parais devant moi ;</l>
 	<l id="807" part="i">Ce sont-là de vos tours, Marine ?</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="807" part="f">En bonne foi,</l>
 	<l id="808">Il s’est comme un lion, un tigre sanguinaire.</l>
 	<l id="809">Poussé jusques ici, quoi que je pusse faire.</l>
@@ -1479,66 +1479,66 @@
 	<l id="811">Prend tout sans demander, entre et sort sans congé.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Cardille, Don Sanche, Flore, Marine.</head>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Cardille, Don Sanche, Flore, Marine.</cast>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="812" part="i">Songez à vous Seigneur.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="812" part="f">Et qu’est-ce donc Cardille !</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="813">Don Louis, qui fait tant du père de famille,</l>
 	<l id="814">M’a vu ; monte après moi de fort mauvaise humeur.</l>
 	<l id="815" part="i">Il nous tient pour ce coup.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="815" part="f">J’en ai toujours eu peur.</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="816">Ne perdons point de temps : entrez dans cette Chambre.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="817" part="i">Moi, me cacher ?</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="817" part="m">Oui, vous.</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="817" part="f">J’en suis pour plus d’un membre ;</l>
 	<l id="818">Que ne suis-je dehors pour cent coup de bâton !</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="819">Cache-toi promptement, impertinent Bouffon !</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Don Louis. Flore, Don Carlos.</head>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Don Louis. Flore, Don Carlos.</cast>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="820" part="i">Il ne peut m’échapper.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="820" part="f">Et qu’avez-vous mon frère ?</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="821" part="i">Vous le verrez ma Sœur.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="821" part="f">Vous êtes en colère.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="822">J’y suis avec sujet : laissez-moi seul ici.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="823" part="i">Mais pourquoi vous laisser ?</l>
 <stage>Elle s’en va.</stage>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="823" part="f">Mais il le faut ainsi.</l>
 	<l id="824">C’est moi mon cher Cousin, laissez ouvrir la porte.</l>
 <stage>Tirant une clef de sa poche.</stage>
 <stage>Don Carlos sort.</stage>
 	<l id="825" part="i">Qu’avez-vous découvert ?</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="825" part="f">Enfin j’ai fait en sorte,</l>
 	<l id="826">Que les gens du balcon seront pris sur l fait,</l>
 	<l id="827">Si du balcon en bas ils ne font le trajet.</l>
@@ -1548,14 +1548,14 @@
 	<l id="831">Ait eu la moindre part... mais qu’est-ce que je vois ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Don Sanche, Léonore, Don Louis, Don Carlos, Marine.</head>
-<sp who="DON-SANCHE"><speaker>DON SANCHE sortant effrayé d’une chambre, où il a trouvé Léonore.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>Don Sanche, Léonore, Don Louis, Don Carlos, Marine.</cast>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker> sortant effrayé d’une chambre, où il a trouvé Léonore.</hstage>
 	<l id="832">Ombre qui me poursuis ! N’es-tu pas assouvie</l>
 	<l id="833">De m’avoir vu chez toi prêt de perdre la vie,</l>
 	<l id="834">Sans encore venir, spectre horrible à mes yeux,</l>
 	<l id="835">Te joindre aux ennemis que je crains en ces lieux ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE effrayée de voir Don Sanche.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker> effrayée de voir Don Sanche.</hstage>
 	<l id="836">Ou Don Sanche, ou Fantôme, objet qui m’est funeste,</l>
 	<l id="837">Étant cause déjà qu’un époux me déteste,</l>
 	<l id="838">Et m’ayant fait sortir du logis paternel,</l>
@@ -1563,23 +1563,23 @@
 	<l id="840">Sans venir en barbare, en tigre impitoyable,</l>
 	<l id="841">Achever les malheurs de mon sort déplorable.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS, à part.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>, à part.</hstage>
 	<l id="842">C’est donc pour Léonore que Don Sanche est ici ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS entrouvrant la porte de sa chambre, où il est caché.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker> entrouvrant la porte de sa chambre, où il est caché.</hstage>
 	<l id="843">L’ingrate Léonore me trompe donc ainsi ?</l>
 	<l id="844">Au moins serai-je quitte avec cette infidèle.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS, à part.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>, à part.</hstage>
 	<l id="845">Au moins ma sœur n’est pas envers moi criminelle.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="846">Don Louis, il est vrai, je suis en ta maison.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="847">Oui, Don Sanche, où ton sang me doit faire raison.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="848">Mais devant que de croire une aveugle vengeance,</l>
 	<l id="849">Souffre que je te parle, et vois si je t’offense ;</l>
 	<l id="850">Et si de mers raisons tu n’es pas satisfait,</l>
@@ -1590,17 +1590,17 @@
 	<l id="855">Je la viens voir chez toi, t’ai-je fort offensé ?</l>
 	<l id="856">L’amour peut ce me semble excuser un tel crime.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="857">C’est me manquer chez moi de respect, et d’estime,</l>
 	<l id="858">Qu’y faire le galant lorsque je n’y suis pas :</l>
 	<l id="859">Pour une moindre offense on donne le trépas ;</l>
 	<l id="860">Mais fut-elle excusable, il faut savoir encore</l>
 	<l id="861">Si tu ne me mens point : dit-il vrai, Léonore ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS d’où il est caché.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker> d’où il est caché.</hstage>
 	<l id="862" part="i">Que dira cette ingrate ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="862" part="f">Il dit la vérité :</l>
 	<l id="863">C’est par lui Don Louis, que tout bien m’est ôté,</l>
 	<l id="864">Je me trouve par lui sans pays, et sans père,</l>
@@ -1608,80 +1608,80 @@
 	<l id="866">De servir de suivante, et sans votre secours,</l>
 	<l id="867">Les malheurs qu’il me cause auraient fini mes jours.</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE, bas à Flore.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>, bas à Flore.</hstage>
 	<l id="868">La prudente soubrette a parlé comme un Ange.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="869" part="i">Elle en dit trop Marine.</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="869" part="f">Ah vous êtes étrange !</l>
 	<l id="870">Je n’aurais pu moi-même aussi bien controuver.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="871">Une difficulté reste encore à lever :</l>
 	<l id="872">Est-ce la seule fois qu’en amant téméraire</l>
 	<l id="873" part="i">Tu t’es caché chez moi ?</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="873" part="f">Bons dieux ! Que dois-je faire ?</l>
 	<l id="874">Le mensonge me sert, la vérité me nuit ;</l>
 	<l id="875">Mais cessons de mentir, je passai l’autre nuit,</l>
 	<l id="876" part="i">Caché dans ton balcon.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="876" part="f">Tu sautas dans la rue ?</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="877" part="i">Je ne le puis nier.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="877" part="f">Ta mort est résolue :</l>
 	<l id="878" part="i">Défends-toi si tu peux.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS, sortant d’où il est caché.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>, sortant d’où il est caché.</hstage>
 	<l id="878" part="f">C’est à moi, c’est à moi,</l>
 	<l id="879" part="i">De le punir encore.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="879" part="f">Et que me veux-tu, toi ;</l>
 	<l id="880">Qui m’étant inconnu, viens m’attaquer en traître ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="881">Je t’ai donné pourtant donné sujet de me connaître,</l>
 	<l id="882">Ce fut lorsque mon bras tout ton sang répandit,</l>
 	<l id="883">Ou bien lorsque le tien si mal te défendit.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="884">Tu te livres toi-même à ma juste vengeance.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="885">Mon Cousin, laissez-moi punir son insolence.</l>
 	<l id="886">Fabrice entre et veut frapper Don Sanche.</l>
 <note type="L">Faire main basse : On dit, Faire main basse, pour dire, Ne donner point de quartier, passer au fil de l’épée. [Ac. 1762]</note>
 	<l id="887" part="i">Point de quartier, main basse.</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE l’arrête.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker> l’arrête.</hstage>
 	<l id="887" part="f">Arrête malheureux.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="888">C’est donc, contre moi seul, trop peu que de vous deux ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="889">Il dit vrai : s’en venger avec tant d’avantage,</l>
 	<l id="890">C’est moins une action de valeur que de rage.</l>
 	<l id="891">Ta faiblesse te sert, Don Sanche, sauve-toi ;</l>
 	<l id="892">Tu n’auras désormais qu’à te garder de moi.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="893">Don Carlos n’est pas seul à menacer ta vie.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="894">Il ne tiendra qu’à vous d’en passer votre envie.</l>
 	<l id="895">Qui seul contre vous deux se croit hors de danger,</l>
 	<l id="896">Seul contre un de vous deux peut bien se partager.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="897">Garde après ta victoire une telle insolence,</l>
 	<l id="898">Et battu dans Madrid sois modeste à Valence.</l>
 	<l id="899">Cardille parlant bas à son Maître.</l>
@@ -1691,66 +1691,66 @@
 	<l id="903">Hardi comme un lion, je viens d’ouvrir la porte.</l>
 	<l id="904" part="i">Sauvons-nous.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE, se retirant.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>, se retirant.</hstage>
 	<l id="904" part="f">À demain, Castillan fanfaron.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="905">Insolent ! Souviens-toi qu’on te traite en poltron.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="906">Je veux prendre mon temps, pour vous battre à mon aise.</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE, fermant la porte après soi.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>, fermant la porte après soi.</hstage>
 	<l id="907">Et moi je vous enferme, adieu race mauvaise.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="908">Le lâche éprouvera la valeur de mon bras.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="909">Ha battez-vous mon frère, et ne l’outragez pas.</l>
 	<l id="910">D’un homme sans honneur la victoire est honteuse,</l>
 	<l id="911">Et d’un homme d’honneur la haine est généreuse.</l>
 	<l id="912">Avoir à vaincre un homme, et le perdre d’honneur,</l>
 	<l id="913">C’est manque de prudence, ou bassesse de cœur.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS, à part.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>, à part.</hstage>
 	<l id="914">On voit dans ses discours sa criminelle flamme.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS parlant à Léonore.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker> parlant à Léonore.</hstage>
 	<l id="915">Tu ne me peux cacher le plaisir de ton âme,</l>
 	<l id="916">De vois Don Sanche encore échappé de mes mains.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="917">Il est vrai cher Carlos, je t’aime, et je le crains.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="918">Tu n’es pas avec lui d’intelligence ? Infâme !</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="919" part="i">Cesse de m’outrager, cher Époux.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="919" part="f">Toi, ma femme ?</l>
 	<l id="920">Appelle ton Époux ce lâche qui s’enfuit,</l>
 	<l id="921">Qui te vient visiter, et le jour et la nuit,</l>
 	<l id="922">Qu’il te faut peu de temps pour te faire connaître !</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="923" part="i">Si tu voyais mon cœur !</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="923" part="f">Je verrais un grand traître.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="924">Te dois-tu prendre à moi de tes emportements ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="925">As-tu cru conserver à la fois deux amants ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="926">Cruel ! Tu ne crois pas tout ce que tu m’imputes.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="927">Ha ! C’est perdre le temps en de vaines disputes,</l>
 	<l id="928">Mon Cousin, désormais je ne fais rien ici,</l>
 	<l id="929">Puisque de vos soupçons vous êtes éclairci.</l>
@@ -1775,50 +1775,50 @@
 	<l id="948">Mais ingrate qu’elle est pour ne me devoir rien,</l>
 	<l id="949">Dira qu’elle me hait, et qu’elle m’aime bien.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="950">Oui, je le hais, je t’aime, ou plutôt je t’adore ;</l>
 	<l id="951">Mais toi cruel, tu hais la pauvre Léonore.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="952">C’est encore t’aimer que ne te pas haïr,</l>
 	<l id="953">Toi qui m’as pu tromper, toi qui m’as pu trahir.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="954">Ce reproche dernier m’achève, et te délivre</l>
 	<l id="955">De l’objet odieux qui sans toi ne peut vivre.</l>
 	<l id="956" part="i">Je me meurs.</l>
 <stage>Elle s’évanouit.</stage>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="956" part="f">Elle tombe, hé prenez-la ma sœur.</l>
 	<l id="957" part="i">Marine ?</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="957" part="m">C’en est fait.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS, à part.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>, à part.</hstage>
 	<l id="957" part="f">J’en mourrais de douleur.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="958" part="i">Portons-la dans ma chambre.</l>
 <stage>On l’emporte.</stage>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="958" part="f">Elle respire encore</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="959">Sauvons mon cher Cousin la vie à Léonore,</l>
 	<l id="960">Si quelque humain remède est encore de saison</l>
 	<l id="961">Je la distingue encor d’avec sa trahison ;</l>
 	<l id="962">Et si cet accident allait finir sa vie,</l>
 	<l id="963">Sa mort serait bientôt de la mienne suivie.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="964">Et pour elle, et pour vous, y prenant intérêt,</l>
 	<l id="965">Je vais voir chez ma sœur en quel état elle est.</l>
 <stage>Il sort.</stage>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="966">Non, laissons-la mourir, il n’y va plus du nôtre,</l>
 	<l id="967">Puisqu’elle ne vit plus que pour le bien d’un autre :</l>
 	<l id="968">Mais avec ses défauts ne l’adores-tu pas ;</l>
@@ -1839,18 +1839,18 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Don Carlos, Don Louis.</head>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Don Carlos, Don Louis.</cast>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="982" part="i">Est-elle revenue ?</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="982" part="f">Oui, mais d’une manière,</l>
 	<l id="983">Que je la plaindrais moins de perdre la lumière.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="984">Et qu’a-t-elle donc fait après sa pamoison ?</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="985">Elle a repris ses sens, et non pas sa raison,</l>
 	<l id="986">Et m’a si fort paru de ses ennuis troublée,</l>
 	<l id="987">Et si sourde aux discours qui l’auraient consolée,</l>
@@ -1861,7 +1861,7 @@
 	<l id="992">Et vous, puisque son mal vient de votre rigueur,</l>
 	<l id="993">Traitez-la désormais avec plus de douceur.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="994">Vous vous étonnerez de ce qu’aimant encore,</l>
 	<l id="995">Autant qu’on peut aimer l’ingrate Léonore,</l>
 	<l id="996">Par un effet d’amour qui n’eut jamais d’égal,</l>
@@ -1871,13 +1871,13 @@
 	<l id="1000">C’est bien l’effort plus grand que puisse faire un cœur,</l>
 	<l id="1001">Que perdre son repos pour sauver son honneur.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1002">Mon cœur, comme le vôtre à l’amour tributaire,</l>
 	<l id="1003">Croit un homme amoureux capable de tout faire,</l>
 	<l id="1004">Mais je ne comprends pas, qu’étant bien amoureux,</l>
 	<l id="1005">On veuille à ses dépens rendre un rival heureux.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1006">C’est pourtant le dessein que j’ai pour l’infidèle ;</l>
 	<l id="1007">C’est le dernier effort que je ferai pour elle,</l>
 	<l id="1008">Et par cette action l’imprudente apprendra,</l>
@@ -1893,15 +1893,15 @@
 	<l id="1018">Mais je perds tout en elle, et lorsque je la cède,</l>
 	<l id="1019">D’un mal douteux encor ; j’en fais un sans remède.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1020">Ce généreux dessein que votre amour a pris,</l>
 	<l id="1021">M’a donné de la joie, et ne m’a pas surpris.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1022">Allez donc de ma part voir don Sanche, et lui faire</l>
 	<l id="1023" part="i">La proposition.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1023" part="f">La plus facile affaire</l>
 	<l id="1024">Cesse bientôt de l’être en la pressant trop fort.</l>
 	<l id="1025">Il ne faut pas aller à Don Sanche d’abord.</l>
@@ -1910,20 +1910,20 @@
 	<l id="1028">Bien loin d’y consentir, il s’en offenserait,</l>
 	<l id="1029">Quand bien sa passion par là se flatterait.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1030">Il faut donc voir Don Pedre, et lui faire promettre</l>
 	<l id="1031">De bien traiter sa fille, et puis la lui remettre.</l>
 	<l id="1032">Ensuite à cet hymen vous le disposerez,</l>
 	<l id="1033">Par les plus doux moyens que vous aviserez.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1034" part="i">Mais qui verra Don Sanche ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1034" part="f">Et qui le peut mieux faire</l>
 	<l id="1035" part="i">Q’un père intéressé ?</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1035" part="f">C’est pour rompre l’affaire,</l>
 	<l id="1036">Et ce futur Beau-père, et ce futur Époux</l>
 	<l id="1037">Sont ensemble aussi mal qu’ils le sont avec vous.</l>
@@ -1937,54 +1937,54 @@
 	<l id="1045">L’oblige à la servir par son propre intérêt :</l>
 	<l id="1046" part="i">Rentrez donc dans ma chambre.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1046" part="f">Il n’est pas nécessaire</l>
 	<l id="1047" part="i">Que je me cache encor.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1047" part="f">Le rival ou le père</l>
 	<l id="1048">Pourraient vous quereller, s’ils vous trouvaient ici.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1049">Que vous seul sachiez que je me cache ainsi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Flore, Don Louis.</head>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Flore, Don Louis.</cast>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1050">Je cherchais Don Carlos ! Léonore le demande.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1051" part="i">Je venais comme vous le chercher.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1051" part="f">J’appréhende</l>
 	<l id="1052">Qu’il n’ait suivi Don Sanche, et que se rencontrant,</l>
 	<l id="1053">La mort de l’un des deux vide leurs différents.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1054">Je veux les observer craignant la même chose ;</l>
 	<l id="1055">Mais de leurs différents puis que l’on sait la cause,</l>
 	<l id="1056">Il vous est fort aisé de les accommoder.</l>
 	<l id="1057">Pour peu que vous vouliez mes efforts seconder ;</l>
 	<l id="1058">Je vous vais donc fier un secret d’importance.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1059">Me fier un secret ! Vous dont la défiance</l>
 	<l id="1060">M’a tantôt outragée avecque tant d’aigreur ?</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1061">N’aimant rien tant que vous, si ce n’est mon honneur,</l>
 	<l id="1062">Et l’honneur d’une Sœur est avec celui d’un frère,</l>
 	<l id="1063">Je crois n’avoir rien fait que je ne dusse faire ;</l>
 	<l id="1064">Et votre esprit possible en serait satisfait,</l>
 	<l id="1065">S’il savait les motifs de tout ce que j’ai fait.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1066">De son frère une Sœur n’est jamais satisfaite,</l>
 	<l id="1067">Quand d’injustes soupçons contre elle il s’inquiète ;</l>
 	<l id="1068" part="i">Mais sachons ce secret.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1068" part="f">Quand Don Sanche et Carlos,</l>
 	<l id="1069">Seraient moins Ennemis, ne seraient point rivaux ;</l>
 	<l id="1070">Quand je n’aimerais pas Carlos plus que ma vie,</l>
@@ -2005,17 +2005,17 @@
 	<l id="1085">Pour être avec Carlos de Don Sanche offensés,</l>
 	<l id="1086" part="i">Parlez donc.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1086" part="m">À Carlos ?</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1086" part="f">Non, à son adversaire,</l>
 	<l id="1087" part="i">À l’insolent Don Sanche.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1087" part="f">Hé bien, il le faut faire.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1088">Figurez-lui les maux dont il est menacé,</l>
 	<l id="1089">De son rival Carlos qui l’a déjà blessé !</l>
 	<l id="1090">De moi son ennemi ; du père de la fille ;</l>
@@ -2025,7 +2025,7 @@
 	<l id="1094">Adieu, mandez Don Sanche, et je vais chercher l’autre.</l>
 <stage>Don Louis sort.</stage>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1095">Je vous obéirai. Quel destin est le nôtre ?</l>
 	<l id="1096">Don Sanche fut toujours mon espoir, et mon bien ;</l>
 	<l id="1097">Il possède mon cœur, je possède le sien,</l>
@@ -2048,52 +2048,52 @@
 	<l id="1114" part="i">Marine à moi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Léonore, Flore, Don Carlos.</head>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Léonore, Flore, Don Carlos.</cast>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1114" part="m">Madame ?</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1114" part="f">Aimable Léonore ?</l>
 	<l id="1115">Avez-vous nom Marine, et servez-vous encore ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1116">Me ravir cet honneur, c’est vouloir tout m’ôter.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS à part, entrouvrant la porte de sa chambre.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker> à part, entrouvrant la porte de sa chambre.</hstage>
 	<l id="1117">J’entends mon infidèle, il la faut écouter.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1118">Je n’exige de vous que d’être mon amie.</l>
 <stage>À part.</stage>
 	<l id="1119">Tu seras bien plutôt ma mortelle ennemie.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1120">Quand je vous veux servir, je fais ce que je dois,</l>
 	<l id="1121">Après tant de bontés que vous avez pour moi.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1122">Je veux faire pour vous encore davantage.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1123" part="i">Et que pourriez-vous faire ?</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1123" part="f">Un heureux mariage.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1124">Et le Ciel, et Carlos me veulent trop de mal.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1125">Au défaut de Carlos, vous aurez son rival.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1126">Et par quelle action puis-je assez vous déplaire,</l>
 	<l id="1127">Pour mériter le mal que vous me voulez faire ?</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1128" part="i">Et ne l’aimez-vous pas ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1128" part="f">Et pourrais-je l’aimer,</l>
 	<l id="1129">Puisque j’ai même horreur à vous l’ouïr nommer ?</l>
 	<l id="1130">Les Monstres, les Serpents, tous les objets semblables,</l>
@@ -2101,65 +2101,65 @@
 	<l id="1132">Plutôt qu’un importun, de qui les vains désirs</l>
 	<l id="1133">Ont commencé mes maux, et fini mes plaisirs.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE, à part.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>, à part.</hstage>
 	<l id="1134">N’en dites plus de mal, puisque mon cœur l’adore.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1135">Le Ciel me gardait-il cette disgrâce encore ?</l>
 	<l id="1136" part="i">Va cruel ?</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE, à part.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>, à part.</hstage>
 	<l id="1136" part="m">Tais-toi donc.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS d’où il est caché.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker> d’où il est caché.</hstage>
 	<l id="1136" part="f">Elle n’en parle ainsi,</l>
 	<l id="1137">Qu’à cause qu’elle sait que je l’entends d’ici.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1138" part="i">Un Don Sanche !</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS, à part.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>, à part.</hstage>
 	<l id="1138" part="f">Un rival que ton cœur me préfère.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1139" part="i">M’épouser !</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1139" part="f">Pourquoi non, puisqu’il a pu te plaire ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1140">Ha ! Madame, quittez ce dessein malheureux</l>
 	<l id="1141">Trop malaisé pour vous, pour moi trop dangereux.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1142">Mais ne songez-vous pas que par cet Hyménée...</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1143">On hâte de ma mort la fatale journée ;</l>
 	<l id="1144">Quand bien Don Sache aurait plus de bien, plus d’appas,</l>
 	<l id="1145">Quand il serait aimable autant qu’il ne l’est pas ;</l>
 	<l id="1146">Et quand bien je serais cent fois plus malheureuse,</l>
 	<l id="1147">Je lui préférerais la mort la plus affreuse.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1148">Vous savez le péril qu’il a couru pour vous</l>
 	<l id="1149">Lorsque dans votre chambre il reçut tant de coups ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1150">Quoi bon Dieu vous comptez pour quelques grands services,</l>
 	<l id="1151">Les funestes effets de toutes ses malices ?</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1152">Vous voyez comme il suit ses amoureux desseins,</l>
 	<l id="1153" part="i">Ici comme à Madrid.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1153" part="f">Et c’est dont je me plains.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE, s’en allant.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>, s’en allant.</hstage>
 	<l id="1154" part="i">Songez-y Léonore.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1154" part="f">Hélas lorsque j’y songe</l>
 	<l id="1155">Et lorsqu’en ce penser mon désespoir me plonge,</l>
 	<l id="1156">De mes malheurs passés le souvenir cuisant</l>
@@ -2169,31 +2169,31 @@
 	<l id="1160">Mais afin que mon nom te soit moins odieux,</l>
 	<l id="1161">Lorsque j’aurai perdu la lumière des Cieux.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1162">A-t-on jamais vu feindre, et fourber de la sorte ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1163">Ennemi qui m’est cher ! Mais on frappe à la porte.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Don Pedre, Léonore, Don Carlos.</head>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Don Pedre, Léonore, Don Carlos.</cast>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="1164" part="i">Le Seigneur Don Louis.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1164" part="f">Et qu’est-ce que je vois ?</l>
 	<l id="1165" part="i">Juste Ciel, c’est mon père.</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="1165" part="f">Infâme, c’est donc toi :</l>
 	<l id="1166">Quel asile assez sûr, quelle puissance humaine</l>
 	<l id="1167">Te peut mettre à couvert des effets de ma haine ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS ouvrant la porte, et tirant Léonore dans sa chambre.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker> ouvrant la porte, et tirant Léonore dans sa chambre.</hstage>
 	<l id="1168">Ne crains rien infidèle, où sera ton Carlos,</l>
 	<l id="1169">Viens encore éprouver comme il sert à propos.</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="1170">Il n’est chambre fermée où ne s’ouvre un passage,</l>
 	<l id="1171">L’impétueux effort d’un homme qu’on outrage.</l>
 	<l id="1172">Je te tiens malheureuse, et de ton châtiment,</l>
@@ -2204,34 +2204,34 @@
 	<l id="1177">Ne peut faire jamais une bonne action,</l>
 	<l id="1178">Ouvre fille perdue ! Ingrate ! Ouvre à ton père.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE, de l’autre côté de la porte.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>, de l’autre côté de la porte.</hstage>
 	<l id="1179" part="i">Ouvrons-lui cher Carlos.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS de l’autre côté de la porte.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker> de l’autre côté de la porte.</hstage>
 	<l id="1179" part="f">Non, non, laissons le faire.</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="1180" part="i">Et des pieds et des mains.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Marine, Flore, Don Pedre.</head>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Marine, Flore, Don Pedre.</cast>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 <note type="L">Grison : Celui dont les cheveux commencent à blanchir. Il y a des gens qui sont grisons dès 25 ans. [F]</note>
 	<l id="1180" part="f">Ce Cavalier grison,</l>
 	<l id="1181">Veut-il à coups de pied démolir la maison ?</l>
 <stage>Flore entre.</stage>
 	<l id="1182">Marine, et d’où vient donc ce bruit épouvantable ?</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="1183">De ce vieillard qui fait une rumeur de diable.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1184">Et devant une Dame, chez un Cavalier,</l>
 	<l id="1185">Téméraire vieillard, faut-il tant s’oublier !</l>
 	<l id="1186">Savez-vous qui je suis ? Savez-vous où vous êtes ?</l>
 	<l id="1187">Et jusqu’où peut aller l’action que vous faites ?</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="1188">Je connais la maison dont je trouble la paix,</l>
 	<l id="1189">Et jusqu’où peut aller l’action que je fais ;</l>
 	<l id="1190">Mais quand d’une maison plus qu’un temple sacrée,</l>
@@ -2239,27 +2239,27 @@
 	<l id="1192">J’oserais y chercher un bien qui m’appartient,</l>
 	<l id="1193">Comme je cherche ici celui qu’on y retient.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1194" part="i">Et que vous retient-on ?</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="1194" part="f">L’ingrate Léonore,</l>
 	<l id="1195">Qui jadis me fut chère, et qu’aujourd’hui j’abhorre ;</l>
 	<l id="1196">Rendez-la donc, Madame, ou ma juste fureur</l>
 	<l id="1197">Emplit votre maison de massacre et d’horreur.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1198">Un homme de cet âge aime aussi Léonore ;</l>
 	<l id="1199">Et Don Sanche, et Carlos ont ce rival encore ?</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="1200">Tant d’amants à la fois ne se gardent pas bien,</l>
 	<l id="1201">Et qui veut tout avoir, le plus souvent n’a rien.</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="1202">Madame, encore un coup faites-moi la donc rendre.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1203">Ha mon frère ? Approchez, et nous venez défendre,</l>
 <stage>Don Louis entre.</stage>
 <note tyep="L">Colère (vieillard) : Qui est bilieux, fougueux, emporté, émeu de passion contre ce qui le choque. Les gens colères sont en danger de s’attirer de méchantes affaires. [F]</note>
@@ -2267,12 +2267,12 @@
 	<l id="1205">Ne veut pas moins chez vous que les portes briser.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Don Louis. Don Pedre, Flore.</head>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Don Louis. Don Pedre, Flore.</cast>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1206">Tout beau ma sœur, parlez avec moins de colère :</l>
 	<l id="1207">Maître absolu chez moi, Don Pedre y peut tout faire.</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="1208">Être Maître chez vous n’est pas ce que je veux,</l>
 	<l id="1209">Et je sais mieux régler mes souhaits et mes vœux,</l>
 	<l id="1210">Je songe encore moins à vous faire une offense,</l>
@@ -2280,7 +2280,7 @@
 	<l id="1212">Mais ma fille est chez vous, et je la veux avoir,</l>
 	<l id="1213">Et l’ayant vous deviez me le faire savoir.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1214">La sachant dans ces lieux de votre bouche même,</l>
 	<l id="1215">De la chercher partout, j’ai pris un soin extrême :</l>
 	<l id="1216">Enfin je l’ai trouvée, et l’amenant chez moi,</l>
@@ -2290,48 +2290,48 @@
 	<l id="1220">Capable d’arrêter un premier mouvement,</l>
 	<l id="1221">Je vous la ferai voir ; mais non pas autrement.</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="1222">Je vous suis obligé d’avoir trouvé ma fille ;</l>
 	<l id="1223">Mais où trouver l’honneur qu’elle ôte à sa famille ?</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1224">On peut vous rendre aussi ce service important ;</l>
 	<l id="1225">Mais j’ai peur de manquer un homme qui m’attend,</l>
 	<l id="1226">Et qui me peut servir à vous tirer de peine.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE parlant bas à son frère.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker> parlant bas à son frère.</hstage>
 	<l id="1227" part="i">Don Sanche va venir.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1227" part="f">C’est pourquoi je l’emmène.</l>
 	<l id="1228" part="i">Allons Monsieur.</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="1228" part="f">Allons, c’est de vous seulement,</l>
 	<l id="1229">Que j’espère en mon mal quelque soulagement.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1230">Vous n’avez plus à craindre aimable Léonore ;</l>
 	<l id="1231" part="i">Et vous pouvez sortir.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS parlant à Léonore en la laissant sortir.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker> parlant à Léonore en la laissant sortir.</hstage>
 	<l id="1231" part="f">Non seulement à Flore ;</l>
 	<l id="1232">Mais à qui que ce soit, ne va pas révéler,</l>
 	<l id="1233" part="i">Que Don Carlos se cache.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1233" part="f">Ils s’en viennent d’aller,</l>
 	<l id="1234" part="i">Vous avez eu grand’peur.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1234" part="f">On doit craindre son père,</l>
 	<l id="1235">Quand on se sait l’objet de sa juste colère.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1236">Vous pourriez aisément adoucir son esprit</l>
 	<l id="1237">Par cet heureux Hymen que je vous avait dit.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1238">Cessez, si vous m’aimez, de songer davantage</l>
 	<l id="1239">À faire réussir un pareil mariage ;</l>
 	<l id="1240">Songez au déplaisir que me pourrait causer</l>
@@ -2349,10 +2349,10 @@
 	<l id="1252">Il a trop éprouvé combien leurs faux appas</l>
 	<l id="1253">Irritent les douleurs qu’ils n’adoucissent pas</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1254" part="i">Venez-vous dans ma chambre ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1254" part="f">Allez ma chère Dame ;</l>
 <stage>Flore sort;</stage>
 	<l id="1255">Je vous suis, cher Carlos, Maître de mon âme,</l>
@@ -2362,25 +2362,25 @@
 	<l id="1259">Sans ta protection prête à périr encore ;</l>
 	<l id="1260">Une seconde fois tire-la du tombeau.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS, sortant de sa chambre.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>, sortant de sa chambre.</hstage>
 	<l id="1261">As-tu fait contre moi quelque crime nouveau ?</l>
 	<l id="1262">Car c’est de nos destins la fatale ordonnance,</l>
 	<l id="1263">Que mon bras te protège, et que ton cœur m’offense.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1264">De nos destins plutôt c’est la fatale loi.</l>
 	<l id="1265">Que tu ne m’aimes point, que je n’aime que toi.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1266">Est-ce là ce grand mal dont je te dois défendre ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1267">C’en est un bien plus grand, si tu daignes m’entendre.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1268" part="i">Dis-le donc vite ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1268" part="f">Hélas ! Pour comble de mes maux,</l>
 	<l id="1269">On m’ordonne d’aimer un autre que Carlos.</l>
 	<l id="1270">Flore pour accomplir ma dure destinée,</l>
@@ -2388,42 +2388,42 @@
 	<l id="1272">Et si ton noble cœur n’en détourne l’effet,</l>
 	<l id="1273">Tu perdras tout le fruit du bien que tu m’as fait.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1274">Tu me viens demander une plaisante chose :</l>
 	<l id="1275">Romprai-je cet hymen, puisque je le propose ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1276" part="i">Toi cruel ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1276" part="m">Moi, perfide.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1276" part="f">Et pourquoi donc, ingrat ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1277">Pour rendre à ton honneur quelque sorte d’éclat.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1278">Inhumain peux-tu croire à tes soupçons encore ?</l>
 	<l id="1279">Et n’as-tu pas ouï ce que j’ai dit à Flore,</l>
 	<l id="1280">Et de quelle façon j’ai traité ton rival,</l>
 	<l id="1281">Quand elle m’a parlé de cet Hymen fatal ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1282">Hé ne savais-tu pas que je pouvais t’entendre ?</l>
 	<l id="1283">Et dis-moi quand ton père a pensé te surprendre,</l>
 	<l id="1284">Te serais-tu sauvée, à moins que d’avoir su</l>
 	<l id="1285">Dans la chambre où j’étais ? À cela que dis-tu ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1286">Qu’alors qu’on nous accuse, et que notre innocence,</l>
 	<l id="1287">Quoi que vraie en effet, est fausse en apparence ;</l>
 	<l id="1288">Qu’il vaut autant mourir que de toujours nier</l>
 	<l id="1289">Un crime qu’on ne peut d’ailleurs justifier.</l>
 <stage>Elle s’en va.</stage>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1290">Bon Dieux ! Si c’était moi qui fusse le coupable ?</l>
 	<l id="1291">Si mes yeux pour le vrai prenaient le vraisemblable ?</l>
 	<l id="1292">S’il est vrai que toujours j’ai régné dans son cœur ?</l>
@@ -2453,7 +2453,7 @@
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1314">Aveugle déité ! Sujette au changement,</l>
 	<l id="1315">Qui fais tout sans raison, sans choix, et sans mesure,</l>
 	<l id="1316">Et qui rends malheureux le plus fidèle amant,</l>
@@ -2505,81 +2505,81 @@
 <stage>Elle sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Don Sanche, Cardille.</head>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Don Sanche, Cardille.</cast>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1361">Elle s’enfuit ainsi, parce qu’elle m’a vu.</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="1362">Grand signe des attraits dont vous êtes pourvu.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1363">Sa haine, ou son amour ne me tourmentent guère,</l>
 	<l id="1364">Je n’en dis pas ainsi, quand Flore est en colère.</l>
 	<l id="1365">Pour te dire le vrai, j’ai peur de son abord ;</l>
 	<l id="1366" part="i">Mais me demande-t-elle ?</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="1366" part="f">Oui, Seigneur et bien fort.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1367" part="i">Marine te l’a dit ?</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="1367" part="f">Elle-même, ou je meure.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1368" part="i">Que je vinsse voir Flore ?</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="1368" part="f">Oui Flore, et tout à l’heure.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1369" part="i">Sans redouter son frère ?</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="1369" part="f">Oui sans le redouter.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1370" part="i">Ha, tais-toi !</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="1370" part="m">Je me tais.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE, à part.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>, à part.</hstage>
 	<l id="1370" part="f">Qui l’y peut inciter ?</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="1371" part="i">Je ne sais.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1371" part="f">Tais-toi, dis-je, il n’est pas temps de rire.</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="1372" part="i">Pleurons donc.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1372" part="f">Tais-toi donc, te le faut-il tant dire ?</l>
 	<l id="1373">Mais me faire passer de son appartement</l>
 <stage>À part.</stage>
 	<l id="1374" part="i">Dans celui de son frère ?</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="1374" part="f">Elle est sans jugement ;</l>
 	<l id="1375" part="i">C’est une...</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1375" part="f">Oses-tu bien m’en parler de la sorte ?</l>
 	<l id="1376" part="i">Est-ce colère, amour, vengeance ?</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="1376" part="f">Et que m’importe ?</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1377" part="i">Mais elle vient à moi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Flore, Don Sanche.</head>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Flore, Don Sanche.</cast>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1377" part="f">Vous êtes étonné,</l>
 	<l id="1378">Du lieu de rendez-vous que je vous ai donné,</l>
 	<l id="1379">Et choisir pour vous voir la chambre de mon frère,</l>
@@ -2588,11 +2588,11 @@
 	<l id="1382">Mais j’attends compagnie en mon appartement,</l>
 	<l id="1383">Où vous ne devez pas être vu de personne.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1384">Vous ne vous trompez point, ce procédé m’étonne :</l>
 	<l id="1385">Enfin je suis venu sur votre bonne foi.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1386">Vous y pouviez venir : quoique mal avec moi.</l>
 	<l id="1387">Alors que vous aimiez, ou feigniez d’aimer Flore,</l>
 	<l id="1388">Et que dans son esprit vous étiez bien encore,</l>
@@ -2608,22 +2608,22 @@
 	<l id="1398">Sans Pays, sans Partent, et tout cela pour vous.</l>
 	<l id="1399" part="i">Vous devez l’épouser.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1399" part="f">Moi, l’épouser, Madame !</l>
 	<l id="1400">Ha ! Ce n’est pas de vous que je veux une femme,</l>
 	<l id="1401">Je n’en aurai jamais, ou bien vous la serez.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1402">Quand à vous épouser, vous m’en dispenserez.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS, à part, entrouvrant la porte où il s’est caché.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>, à part, entrouvrant la porte où il s’est caché.</hstage>
 	<l id="1403">Flore aimait mon rival, et j’allais aimer Flore :</l>
 	<l id="1404">Mais je veux écouter ce qu’ils diront encore.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1405">Don Sanche, vous rêvez, et paraissez confus.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1406">Il est vrai je le suis, si jamais je le fus :</l>
 	<l id="1407">Me mander, et par là flatter mon espérance,</l>
 	<l id="1408">Me dire qu’on me hait contre toute apparence ;</l>
@@ -2638,13 +2638,13 @@
 	<l id="1417">Qui ne serait rêveur, qui ne serait confus,</l>
 	<l id="1418">Ou qui ne serait pas quelque chose de plus.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1419">Vous tairez-vous Don Sanche, et voulez-vous m’entendre ?</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1420">Tenez donc des discours que je puisse comprendre.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1421">Il faut vous contenter, Don Sanche ! Vous pensez</l>
 	<l id="1422">Que je ne songe plus à vos crimes passés :</l>
 	<l id="1423">Vous vous trompez Don Sanche, une fois offensée,</l>
@@ -2660,7 +2660,7 @@
 	<l id="1433">Mille fiers ennemis vous suivront en tous lieux :</l>
 	<l id="1434">Et vous êtes perdu : puis-je m’expliquer mieux ?</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1435">Trop bien pour mon repos, belle, et cruelle Flore,</l>
 	<l id="1436">Trop bien pour me laisser quelque espérance encore.</l>
 	<l id="1437">Je pourrais comme amant vous déguiser mon cœur ;</l>
@@ -2681,13 +2681,13 @@
 	<l id="1452">Sous l’incertaine foi d’un futur hyménée.</l>
 	<l id="1453">Je la surpris enfin avec son cher amant...</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1454">Je sais de vos amours le triste événement ;</l>
 	<l id="1455">Mais ingrat, puisqu’il faut qu’on vous le dise encore,</l>
 	<l id="1456">Sous ombre de me voir, vous vîtes Éléonore,</l>
 	<l id="1457" part="i">Vous l’avez dit vous-même.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1457" part="f">Il est vrai que je le dis.</l>
 	<l id="1458">Pour cacher notre amour aux fâcheux Don Louis.</l>
 	<l id="1459">Il a pu voir l’horreur que me fit sa présence,</l>
@@ -2699,77 +2699,77 @@
 	<l id="1465">Qui suit depuis Madrid un amant jusqu’ici,</l>
 	<l id="1466">Et peut-être un amant qui n’en veut plus aussi ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS d’où il s’est caché.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker> d’où il s’est caché.</hstage>
 	<l id="1467">J’ai donc cru faussement Léonore coupable :</l>
 	<l id="1468">Hélas ! Que je le suis, et qu’elle est adorable !</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1469">Enfin, il faut finir qu’avez-vous résolu ?</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1470">Quand vous l’ordonneriez d’un pouvoir absolu,</l>
 	<l id="1471">Vous seule Déité qu’ici-bas je respecte,</l>
 	<l id="1472">De n’épouser jamais une femme suspecte.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1473">Que d’étranges malheurs vous êtes menacé !</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1474">Si vous ne m’aimez plus, le plus grand est passé.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1475">Ne suivez plus un bien qui ne se peut atteindre,</l>
 	<l id="1476">Songez aux ennemis que vous aurez à craindre.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1477">Et qui sont-ils, grand Dieu ! Ces mortels ennemis ?</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1478">Elle, moi, Don Carlos, Don Pedre, Don Louis.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1479">De tous ces ennemis si grands, si redoutables,</l>
 	<l id="1480">Qui peuvent me jeter dans des maux effroyables,</l>
 	<l id="1481">Je méprise la haine et ne crains rien que vous,</l>
 	<l id="1482">Soyez seule pour moi, je suffis contre eux tous.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Cardille, Don Sanche, Flore.</head>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Cardille, Don Sanche, Flore.</cast>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="1483">Ce frère ingénieux à surprendre le monde,</l>
 	<l id="1484">En qui de l’Univers toute la bile abonde,</l>
 <note type="L">Recors : aide de Sergent, celui qui l’assiste, lorsqu’il va faire quelque exploit, ou exécution, qui lui sert de tesmoin, et qui lui prête main forte. [F]</note>
 	<l id="1485">Vient avec Don Pedre qui lui sert de recors</l>
 	<l id="1486">C’est à vous à songer au salut de nos Corps.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1487">Le péril n’est pas grand du côté de mon frère ;</l>
 	<l id="1488">Mais je ne réponds pas de la fureur d’un père.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1489" part="i">Il me trouve toujours. Don Louis ?</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="1489" part="f">Ah pour lui,</l>
 	<l id="1490">C’est le plus ponctuel des frères d’aujourd’hui,</l>
 	<l id="1491">Et de plus cachez-vous mille fois, que je meure,</l>
 	<l id="1492">S’il ne vous va trouver mille en une heure.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1493">Par bonheur cette Chambre est ouverte ; entrez-y.</l>
 	<l id="1494">Et sans perdre de temps : Mais qui la ferme ainsi ?</l>
 <stage>On ferme la porte à Don Sanche, comme il est prêt d’entrer.</stage>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1495">Un homme que j’ai vu ; vous le saviez Madame,</l>
 	<l id="1496">Et je vois bien pourquoi vous m’offriez une Femme ;</l>
 	<l id="1497">Je vois d’où sont venus vos charitables soins,</l>
 	<l id="1498">Et pourquoi vous vouliez me parler sans témoins.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1499" part="i">Que dites-vous, Don Sanche ?</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1499" part="f">Ô fille trop légère !</l>
 	<l id="1500">Fausse en votre douceur, fausse en votre colère.</l>
 	<l id="1501">Pour autoriser donc votre infidélité,</l>
@@ -2779,10 +2779,10 @@
 	<l id="1505">Mais m’ayant tant aimé, me deviez-vous haïr,</l>
 	<l id="1506">Ou pour m’avoir haï, m’avez-vous dû trahir ?</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1507">M’osez-vous condamner avant que de m’entendre ?</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1508">Convaincue, osez-vous encore vous défendre ?</l>
 	<l id="1509">Il lui faut répéter les discours spécieux,</l>
 	<l id="1510">Dont elle m’appuyait es conseils odieux.</l>
@@ -2798,22 +2798,22 @@
 	<l id="1520">Je jugerai du choix de votre âme infidèle ;</l>
 	<l id="1521" part="i">Je verrai ce galant.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1521" part="f">Si je sais quel il est ;</l>
 	<l id="1522">Si vous pouvez prouver que j’y prenne intérêt.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1523">Puisque vous ignorez quel homme ce peut-être,</l>
 	<l id="1524">J’espère en peu de temps vous le faire connaître.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Léonore, Don Sanche, Flore.</head>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Léonore, Don Sanche, Flore.</cast>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1525">Quels cris ai-je entendu ? Horreur de mes regards ?</l>
 	<l id="1526">Te verra-t-on toujours me suivre en toutes parts.</l>
 	<l id="1527">Pour la troisième fois me viens-tu nuire encore ?</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1528">Autre ennemi cruel qui se vient joindre à Flore,</l>
 	<l id="1529">Mais Ingrate ! Assemblez tous ces fiers ennemis,</l>
 	<l id="1530">Don Pedre, Léonore, Don Carlos, Don Louis,</l>
@@ -2822,21 +2822,21 @@
 	<l id="1533">Malgré ces ennemis contre moi conjurés,</l>
 	<l id="1534">Je verrai cet amant que vous me préférez.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1535">Don Sanche regardez ce que vous allez faire.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1536">Il n’est plus question de plaire, ou de déplaire,</l>
 	<l id="1537">D’être dans le respect ; d’être dans son devoir,</l>
 	<l id="1538">Qu’a-t-on à ménager, quand on n’a plus d’espoir ?</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1539">Je n’oublierai jamais vos paroles hardies.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1540">Je n’oublierai jamais vos noires perfidies.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1541">Hé bien ! Il le faut voir, et je l’ai résolu</l>
 	<l id="1542">Celui que vous avez ou croyez avoir vu ;</l>
 	<l id="1543">Mais pour votre malheur, si je suis innocente,</l>
@@ -2845,65 +2845,65 @@
 	<l id="1546">Ne vous pourrait jamais remettre avecque moi,</l>
 	<l id="1547">Vous vous repentirez de m’avoir soupçonnée.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1548">Je me rendrais plutôt au honteux hyménée ;</l>
 	<l id="1549">Qui jusques à ma mort me serait reproché,</l>
 	<l id="1550">Qu’à ne connaître pas cet amant mal caché.</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1551">Pourquoi donc insolent n’enfoncez-vous la porte ?</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1552" part="i">Hélas, c’est Don Carlos !</l>
 </sp>
-<sp who="FLORE"><speaker>FLORE.</speaker>
+<sp who="FLORE"><hstage><speaker>FLORE</speaker>.</hstage>
 	<l id="1552" part="f">Qui que ce soit, qu’il sorte.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1553">Se fera-t-il forcer cet homme sans valeur ;</l>
 <stage>Il veut rompre la porte.</stage>
 	<l id="1554">Qui s’entend défier, et se cache en voleur ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Don Carlos, Don Sanche.</head>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Don Carlos, Don Sanche.</cast>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1555" part="i">Je ne me cache plus.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1555" part="m">C’est donc toi ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1555" part="f">Moi-même ?</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1556">Toujours rival, toujours aimant ce que j’aime ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1557">Toujours prêt à finir ta vie, et tes amours.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1558">Ôtons donc cet obstacle au bonheur de nos jours.</l>
 	<l id="1559" part="i">Défends-toi Don Carlos.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Don Pedre, Don Louis, Don Carlos, Don Sanche.</head>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Don Pedre, Don Louis, Don Carlos, Don Sanche.</cast>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="1559" part="f">Qu’aperçois-je ? Qu’entends-je ?</l>
 	<l id="1560">Et le Ciel permet-il enfin que je me venge ?</l>
 	<l id="1561">Hé vois-je pas Don Sanche, et n’a-t-il pas nommé,</l>
 	<l id="1562" part="i">Don Carlos ?</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS, à part.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>, à part.</hstage>
 	<l id="1562" part="f">Hé bon Dieu ! Que n’est-il enfermé ?</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="1563">Parle, es-tu Don Carlos, l’objet de ma colère ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1564">Oui, je suis Don Carlos, prêt à te satisfaire,</l>
 	<l id="1565" part="i">Si tu veux m’écouter ?</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="1565" part="f">Ha, je n’écoute pas,</l>
 	<l id="1566">Des satisfactions que j’attends de mon bras.</l>
 	<l id="1567">Don Sanche, Don Carlos, venez cruels ensemble,</l>
@@ -2911,39 +2911,39 @@
 	<l id="1569">Puisqu’un crime commun qui blesse mon honneur,</l>
 	<l id="1570">Mérite également d’éprouver ma fureur.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1571">Don Pedre, suspendez votre colère encore,</l>
 	<l id="1572">Vous serez satisfait, Don Sanche, as-tu vu Flore ?</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1573" part="i">Et trop vue.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1573" part="f">Et dis-moi, t’a-t-elle proposé</l>
 	<l id="1574">Le moyen le plus sûr comme le plus aisé,</l>
 	<l id="1575">De contenter Don Pedre, et d’apaiser ta flamme ?</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1576">Dis plutôt, le moyen de me rendre un infâme.</l>
 	<l id="1577">C’est bien moi qui prendrai les restes d’un rival :</l>
 	<l id="1578">Léonore, ou la mort m’est un malheur égal.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1579">Don Pedre vengeons donc notre offense commune.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS, se mettant à côté de Don Sanche.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>, se mettant à côté de Don Sanche.</hstage>
 	<l id="1580">Arrête Don Louis : j’ai part en sa fortune.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1581" part="i">Vous prenez son parti ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1581" part="f">Je le prends et le dois.</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="1582" part="i">Nous sommes deux à deux.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1582" part="f">Don Pedre écoute-moi.</l>
 	<l id="1583">Quand indigne du nom des Auteurs de mon être</l>
 	<l id="1584">Par cent noirs attentats d’un scélérat, d’un traître,</l>
@@ -2984,23 +2984,23 @@
 	<l id="1619">Calme donc les transports d’une juste colère ;</l>
 	<l id="1620">Prends pitié de ta fille, et lui rends un bon père.</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="1621">Puisqu’elle est sans honneur elle ne m’est plus rien.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1622">Si je suis son époux, mon honneur est le sien.</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="1623">Vous me rendez l’honneur, le repos, et la joie.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1624">Mais de tous vos soupçons que voulez-vous qu’on croie ?</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1625">Que j’aime Léonore, et que de mon erreur</l>
 	<l id="1626">Son innocence enfin triomphe dans mon cœur.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1627">Il est donc vrai Carlos, qu’enfin ma patience,</l>
 	<l id="1628">Bannit de ton esprit l’injuste défiance ?</l>
 	<l id="1629">Tu ne doutes donc plus, que ne t’aie aimé</l>
@@ -3034,32 +3034,32 @@
 	<l id="1657">Vainement ma raison m’exhorte à t’oublier ;</l>
 	<l id="1658">Mon cœur n’y consent pas, je ne le puis nier.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1659">Ha que vous vous vengez d’une façon cruelle,</l>
 	<l id="1660">Qu’on se venge aisément alors que l’on est belle,</l>
 	<l id="1661">Et que votre bonté me donne des remords,</l>
 	<l id="1662">Me cause des tourments, pires que mille morts !</l>
 </sp>
-<sp who="DON-PEDRE"><speaker>DON PEDRE.</speaker>
+<sp who="DON-PEDRE"><hstage><speaker>DON PEDRE</speaker>.</hstage>
 	<l id="1663">Il n’est plus question de plaintes amoureuses ;</l>
 	<l id="1664">Mais bien de donner ordre à vos noces heureuses,</l>
 	<l id="1665">De rendre grâce au Ciel qui finit nos malheurs,</l>
 	<l id="1666">Et qui fait succéder l’allégresse aux douleurs.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1667">Il ne plaît pas au Ciel j’en dise de même ;</l>
 	<l id="1668" part="i">Mais je veux que Don Sanche.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1668" part="f">À votre sœur qu’il aime,</l>
 	<l id="1669">Donne sans différer la conjugale foi,</l>
 	<l id="1670">Et que ce couple imite, et Léonore et moi.</l>
 	<l id="1671">Approuvez donc l’hymen de Don Sanche et de Flore.</l>
 </sp>
-<sp who="DON-LOUIS"><speaker>DON LOUIS.</speaker>
+<sp who="DON-LOUIS"><hstage><speaker>DON LOUIS</speaker>.</hstage>
 	<l id="1672">J’approuve, et je souhaite un parti qui l’honore.</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1673">Don Sanche, approchez-vous du Seigneur Don Louis :</l>
 	<l id="1674">Devenez tout d’un temps frères, et bons amis,</l>
 	<l id="1675">Combattons à l’envi d’amitiés mutuelles,</l>
@@ -3067,32 +3067,32 @@
 	<l id="1677">Nous serve à l’avenir de divertissement,</l>
 	<l id="1678">Et pardonnez Ami, ce que je fis amant.</l>
 </sp>
-<sp who="DON-SANCHE"><speaker>DON SANCHE.</speaker>
+<sp who="DON-SANCHE"><hstage><speaker>DON SANCHE</speaker>.</hstage>
 	<l id="1679">Vous réparez trop bien les sanglantes blessures...</l>
 </sp>
-<sp who="DON-CARLOS"><speaker>DON CARLOS.</speaker>
+<sp who="DON-CARLOS"><hstage><speaker>DON CARLOS</speaker>.</hstage>
 	<l id="1680">Hé de grâce, oublions ces tristes aventures.</l>
 </sp>
-<sp who="LÉONORE"><speaker>LÉONORE.</speaker>
+<sp who="LÉONORE"><hstage><speaker>LÉONORE</speaker>.</hstage>
 	<l id="1681">Soyez au moins d’accord, vous et votre rival,</l>
 	<l id="1682">Qu’une fausse apparence est un dangereux mal.</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE se battant tout seul.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker> se battant tout seul.</hstage>
 <note type="L">Tout d’un temps : aussitôt, sans tarder. [L]</note>
 	<l id="1683">Je pare, et tout d’un temps faisant feinte à la vue,</l>
 <note type="L">Lacher le pied : i.e. « reculer. » [O]</note>
 	<l id="1684">Je lâche le pied droit, et donne une venue.</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="1685">Et contre qui, grand fou, te sers-tu de ton bras ?</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 	<l id="1686">Et grand’folle, dis moi, ne nous battons nous pas ?</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="1687">Non grand fou, mais ma foi l’on te devrait bien battre,</l>
 </sp>
-<sp who="CARDILLE"><speaker>CARDILLE.</speaker>
+<sp who="CARDILLE"><hstage><speaker>CARDILLE</speaker>.</hstage>
 <note type="L">Diable : faire le diable, le diable à quatre, faire grand bruit, grand tumulte, se donner beaucoup de mouvement pour une chose. [L]</note>
 	<l id="1688">Lorsque j’ai dégainé, je fais le diable à quatre,</l>
 	<l id="1689">Ces rivaux m’ont rendu de si mauvaise humeur,</l>
@@ -3101,7 +3101,7 @@
 	<l id="1691">Si nous n’allons tous deux conjoints pour l’hyménée</l>
 	<l id="1692">Grossir de ces amants la troupe fortunée.</l>
 </sp>
-<sp who="MARINE"><speaker>MARINE.</speaker>
+<sp who="MARINE"><hstage><speaker>MARINE</speaker>.</hstage>
 	<l id="1693">Ma foi, cher Cardillon, si nous étions conjoints,</l>
 	<l id="1694">Tu maudirais souvent mes ongles, et mes poings.</l>
 </sp>

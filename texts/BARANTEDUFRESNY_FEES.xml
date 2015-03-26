@@ -57,9 +57,9 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head/>
-<div2 type="scene" n="1"><head>SCÈNE I. Pierrot, Octave.</head>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Pierrot, Octave.</cast>
 <stage>Pierrot conduit Octave dans un Chariot volant. Après qu’ils ont mis pied à terre, il dit :</stage>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="1">
 	<s id="1">Hé bien, Monsieur, ne vous ai-je pas bien conduit ?</s>
 	<s id="2">La Fée qui m’a chargée de vous mener, m’a ordonné de vous laisser ici.</s>
@@ -67,62 +67,62 @@
 	<s id="4">Adieu, Monsieur.</s>
 </p>
 </sp>
-<sp who="OCTAVE"><speaker>OCTAVE.</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Adieu, mon enfant, je te remercie.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="3">
 	<s id="1">Bonsoir, Monsieur, je m’en vais.</s>
 </p>
 </sp>
-<sp who="OCTAVE"><speaker>OCTAVE.</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Adieu mon enfant.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="5">
 	<s id="1">N’avez-vous plus rien à me dire ?</s>
 	<s id="2">Je m’en vais, au moins.</s>
 </p>
 </sp>
-<sp who="OCTAVE"><speaker>OCTAVE.</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker>.</hstage>
 <p id="6">
 	<s id="1">Adieu, adieu.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="7">
 	<s id="1">À propos, Monsieur, ma Maîtresse m’a dit comme ça, que si vous vouliez me donner quelque chose, je ne prisse rien.</s>
 </p>
 </sp>
-<sp who="OCTAVE"><speaker>OCTAVE.</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker>.</hstage>
 <p id="7">
 	<s id="1">J’entends le français, voilà un Louis pour boire à ma santé.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="8">
 	<s id="1">Grand merci, Monsieur.</s>
 </p>
 </sp>
-<sp who="OCTAVE"><speaker>OCTAVE.</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker>.</hstage>
 <p id="9">
 	<s id="1">Mais parle donc, mon ami, tu dis que ta Maîtresse t’a défendu de rien prendre.</s>
 </p>
 </sp>
-<sp who="PIERROT"><speaker>PIERROT.</speaker>
+<sp who="PIERROT"><hstage><speaker>PIERROT</speaker>.</hstage>
 <p id="10">
 	<s id="1">Oh, c’est de la main gauche.</s>
 	<s id="2">Bonsoir, Monsieur.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Octave, Isménie.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Octave, Isménie.</cast>
 <stage>Le Théâtre représente une Caverne. On voit la Princesse Isménie enchaînée, et environnée d’Ogres qui la gardent.</stage>
-<sp who="OCTAVE"><speaker>OCTAVE.</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker>.</hstage>
 <p id="2">
 	<s id="1">La Fée qui m’a envoyé ici m’a promis que j’y apprendrais des nouvelles de la Princesse que j’aime ; cependant je suis dans une solitude affreuse, et je n’y découvre rien.</s>
 	<s id="2">Le peu de courage d’Arlequin, et les enchantements des fées l’ont sans doute empêché de me suivre.</s>
@@ -133,7 +133,7 @@
 	<s id="7">Je ne puis avancer.</s>
 </p>
 </sp>
-<sp who="ISMÉNIE"><speaker>ISMÉNIE sans apercevoir Octave.</speaker>
+<sp who="ISMÉNIE"><hstage><speaker>ISMÉNIE</speaker> sans apercevoir Octave.</hstage>
 <p id="3">
 	<s id="1">Ô mort, funeste mort, ne viendras-tu pas finir le triste cours de mes infortunes ?</s>
 	<s id="2">Mais que vois-je, Octave ?</s>
@@ -141,12 +141,12 @@
 	<s id="4">Octave, mon cher Prince, est-ce vous ?</s>
 </p>
 </sp>
-<sp who="OCTAVE"><speaker>OCTAVE.</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Ah, ma Princesse !</s>
 </p>
 </sp>
-<sp who="ISMÉNIE"><speaker>ISMÉNIE.</speaker>
+<sp who="ISMÉNIE"><hstage><speaker>ISMÉNIE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Quoi !</s>
 	<s id="2">Vous n’avancez point ; mes malheurs vous inspirent-ils du mépris pour moi ?</s>
@@ -154,7 +154,7 @@
 	<s id="4">Voilà celui qui me garde qui s’éveille.</s>
 </p>
 </sp>
-<sp who="L-OGRE"><speaker>UN OGRE en s’éveillant.</speaker>
+<sp who="L-OGRE"><hstage><speaker>UN OGRE</speaker> en s’éveillant.</hstage>
 <p id="6">
 	<s id="1">Ah !</s>
 	<s id="2">Qu’est-ce que j’entends ?</s>
@@ -162,25 +162,25 @@
 </p>
 <stage>Les Ogres prennent Octave.</stage>
 </sp>
-<sp who="ISMÉNIE"><speaker>ISMÉNIE.</speaker>
+<sp who="ISMÉNIE"><hstage><speaker>ISMÉNIE</speaker>.</hstage>
 <p id="7">
 	<s id="1">Arrêtez, barbares, arrêtez : que voulez-vous faire, respectez un Prince que j’aime plus que ma vie.</s>
 </p>
 </sp>
-<sp who="L-OGRE"><speaker>L’OGRE.</speaker>
+<sp who="L-OGRE"><hstage><speaker>L’OGRE</speaker>.</hstage>
 <note type="L">Court-bouillon : Liquide composé dans lequel on fait cuire le poisson. Le court-bouillon se compose d’eau, de vinaigre ou de vin blanc, de sel, de poivre, girofle, laurier, oignons et carottes en tranches, thym, ail et persil. Le même court-bouillon peut servir tant qu’il est en bon état. [L]</note>
 <p id="8">
 	<s id="2">Allons, allons, qu’on le mène au Cuisinier, et qu’on le mette au court-bouillon ; et pour vous, Madame, si vous l’aimez tant, on vous en servira un quartier à votre souper.</s>
 </p>
 <stage>Les Ogres emmènent Octave.</stage>
 </sp>
-<sp who="ISMÉNIE"><speaker>ISMÉNIE.</speaker>
+<sp who="ISMÉNIE"><hstage><speaker>ISMÉNIE</speaker>.</hstage>
 <p id="9">
 	<s id="1">Ah !</s>
 	<s id="2">Cruel, pouvez-vous...</s>
 </p>
 </sp>
-<sp who="L-OGRE"><speaker>L’OGRE.</speaker>
+<sp who="L-OGRE"><hstage><speaker>L’OGRE</speaker>.</hstage>
 <note type="L">Ogrine : Mot inventé pour désigner l’épouse d’un ogre qui plus est sultane.</note>
 <p id="10">
 	<s id="1">Bon, bon, voilà bien du fracas pour un petit homme à demi formé.</s>
@@ -190,8 +190,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Arlequin, L’Ogre, Isménie, Une Fée.</head>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Arlequin, L’Ogre, Isménie, Une Fée.</cast>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <note type="L">Ohimé : altération de Hom ; interjection qui exprime le doute, la défiance. [L]</note>
 <p id="1">
 	<s id="1">Ohimé !</s>
@@ -199,64 +199,64 @@
 	<s id="3">Je viens de rouler de ce Rocher en bas ; où trouverai-je mon Maître ?</s>
 </p>
 </sp>
-<sp who="L-OGRE"><speaker>L’OGRE.</speaker>
+<sp who="L-OGRE"><hstage><speaker>L’OGRE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Bon, bon, voici encore de la chair fraîche.</s>
 	<s id="2">Vite, qu’on le saisisse, et qu’on le fasse embrocher avec l’autre.</s>
 </p>
 <stage>Comme les Ogres se jettent sur Arlequin, une Fée paraît qui les en empêche.</stage>
 </sp>
-<sp who="LA-FÉE"><speaker>UNE FÉE.</speaker>
+<sp who="LA-FÉE"><hstage><speaker>UNE FÉE</speaker>.</hstage>
 <p id="3">
 	<s id="1">Arrêtez, malheureux, arrêtez.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="4">
 	<s id="1">Oui, arrêtez, arrêtez-vous donc.</s>
 </p>
 </sp>
-<sp who="L-OGRE"><speaker>L’OGRE en s’en allant.</speaker>
+<sp who="L-OGRE"><hstage><speaker>L’OGRE</speaker> en s’en allant.</hstage>
 <note type="L">Diable : Faire le diable, le diable à quatre, faire grand bruit, grand tumulte, se donner beaucoup de mouvement pour une chose. [L]</note>
 <p id="5">
 	<s id="1">Allez, Madame la Fée, vous avez beau faire le Diable à quatre, votre pouvoir expire aujourd’hui.</s>
 </p>
 <stage>Les Ogres et Isménie s’en vont.</stage>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="6">
 	<s id="1">Ah, Madame la Fée, que je vous suis obligé !</s>
 	<s id="2">Sans vous on m’allait embrocher.</s>
 	<s id="3">Mais ne pourriez-vous point me dire des nouvelles de ce que je cherche ?</s>
 </p>
 </sp>
-<sp who="LA-FÉE"><speaker>LA FÉE.</speaker>
+<sp who="LA-FÉE"><hstage><speaker>LA FÉE</speaker>.</hstage>
 <p id="7">
 	<s id="1">Et que cherches-tu ?</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="8">
 	<s id="1">Je cherche mon camarade que j’ai perdu en l’air.</s>
 </p>
 </sp>
-<sp who="LA-FÉE"><speaker>LA FÉE.</speaker>
+<sp who="LA-FÉE"><hstage><speaker>LA FÉE</speaker>.</hstage>
 <p id="9">
 	<s id="1">Et qui est ton camarade ?</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="10">
 	<s id="1">C’est un Prince de mes amis dont je porte les couleurs.</s>
 </p>
 </sp>
-<sp who="LA-FÉE"><speaker>LA FÉE.</speaker>
+<sp who="LA-FÉE"><hstage><speaker>LA FÉE</speaker>.</hstage>
 <p id="11">
 	<s id="1">J’entends.</s>
 	<s id="2">Mais que venez-vous chercher dans ces lieux ?</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="1">Hélas ! J’y viens chercher l’honneur de mon infante,</l>
 	<l id="2">Je le demande en vain aux échos de ces bois,</l>
 	<l id="3">Ils sont sourds à ma voix ;</l>
@@ -265,25 +265,25 @@
 	<l id="6">De peur que les échos n’aillent le publier.</l>
 	<l id="7">Mais vous, Madame, qui êtes-vous ?</l>
 </sp>
-<sp who="LA-FÉE"><speaker>LA FÉE.</speaker>
+<sp who="LA-FÉE"><hstage><speaker>LA FÉE</speaker>.</hstage>
 <note type="L">Vacation : Profession d’un certain métier auquel on vaque, on s’exerce. On appelle un artisan, un homme de vacation. [F]</note>
 <p id="12">
 	<s id="1">Je suis Fée de ma vacation.</s>
 	<s id="2">Je cours le pays sans bouger d’une place ; je vide les coffres sans les ouvrir, je fais perdre la honte aux débiteurs, et la mémoire aux créanciers ; je dors toute éveillée, et je me nourris d’air ; mais ma principale occupation est de voler incessamment au secours de l’honneur des filles.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="13">
 	<s id="1">Et vous arrivez quelquefois un peu trop tard, n’est-ce pas ?</s>
 	<s id="2">Pour moi je cours après celui de ma Maîtresse qui a été enlevée par un Ogre.</s>
 </p>
 </sp>
-<sp who="LA-FÉE"><speaker>LA FÉE.</speaker>
+<sp who="LA-FÉE"><hstage><speaker>LA FÉE</speaker>.</hstage>
 <p id="14">
 	<s id="1">Conte-moi un peu cette histoire-là.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <note type="L">Coudée : La coudée mesurant environ 50 centimètres, Le Prince mesurait donc 75 centimètres de haut.</note>
 <note type="L">Croquignole : espèce de chiquenaude ou de nasarde. C’est un coup qui se donne sur le visage, en lâchant avec violence un doigt qu’on a posé sur un autre. [F]</note>
 <p id="15">
@@ -295,12 +295,12 @@
 	<s id="6">Car c’était le Premier Prince du monde, et qui avait les plus beaux talents pour endormir les petits enfants.</s>
 </p>
 </sp>
-<sp who="LA-FÉE"><speaker>LA FÉE.</speaker>
+<sp who="LA-FÉE"><hstage><speaker>LA FÉE</speaker>.</hstage>
 <p id="16">
 	<s id="1">Continue, j’ai entendu parler de cette histoire.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="17">
 	<s id="1">Il arriva qu’un jour Croquignolet allant à la chasse aux Dindons, il en prit un par la barbe : mais il fut tout surpris d’y voir une Fée à cheval qui lui parla ainsi ;</s>
 </p>
@@ -320,12 +320,12 @@
 <note type="L">Homme : anciennement, homme d’armes, cavalier armé de toutes pièces. [L]</note>
 	<l id="18">N’ai un homme de toute pièce.</l>
 </sp>
-<sp who="LA-FÉE"><speaker>LA FÉE, regardant Arlequin.</speaker>
+<sp who="LA-FÉE"><hstage><speaker>LA FÉE</speaker>, regardant Arlequin.</hstage>
 <p id="18">
 	<s id="1">Un homme de toute pièce ?</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <note type="L">Barbet : chien à gros poil et frisé qu’on dresse à la chasse des canards. [F]</note>
 <p id="19">
 	<s id="1">Oui un homme de toute pièce.</s>
@@ -334,13 +334,13 @@
 	<s id="4">Il y a cinq ans que nous suivons l’honneur de ma Maîtresse à la piste ; mais Madame, un honneur qui chemine depuis cinq ans avec des bottes de sept lieurs, met bien des fois des lévriers en défaut.</s>
 </p>
 </sp>
-<sp who="LA-FÉE"><speaker>LA FÉE.</speaker>
+<sp who="LA-FÉE"><hstage><speaker>LA FÉE</speaker>.</hstage>
 <note type="C">Tirer : [probablement] Inférer, conclure.</note>
 <p id="20">
 	<s id="1">Je t’ai déjà dit, que je protège l’honneur des filles ; mais mon pouvoir est limité, et je ne puis le conserver que jusqu’à l’âge de quinze ans et six minutes, et si c’est bien tiré.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, regardant sa montre.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, regardant sa montre.</hstage>
 <note type="C">L’original porte éguille, corrigé par aiguille.</note>
 <p id="21">
 	<s id="1">Quinze ans et six minutes ?</s>
@@ -349,39 +349,39 @@
 	<s id="5">Ah malheureuse Isménie ?</s>
 </p>
 </sp>
-<sp who="LA-FÉE"><speaker>LA FÉE.</speaker>
+<sp who="LA-FÉE"><hstage><speaker>LA FÉE</speaker>.</hstage>
 <p id="22">
 	<s id="1">Quoi ?</s>
 	<s id="2">C’est la Princesse Isménie que tu cherches.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="23">
 	<s id="1">Oui, Madame.</s>
 </p>
 </sp>
-<sp who="LA-FÉE"><speaker>LA FÉE.</speaker>
+<sp who="LA-FÉE"><hstage><speaker>LA FÉE</speaker>.</hstage>
 <p id="24">
 	<s id="1">Je t’apprends qu’elle est dans cette caverne ; que je sauverai son honneur, et que tu es l’homme de toutes pièces qui doit la délivrer.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="25">
 	<s id="1">Tout de bon !</s>
 </p>
 </sp>
-<sp who="LA-FÉE"><speaker>LA FÉE.</speaker>
+<sp who="LA-FÉE"><hstage><speaker>LA FÉE</speaker>.</hstage>
 <p id="26">
 	<s id="1">Je puis bien faire cela, puisque j’ai bien pu sauver la vie au Prince Octave, que j’ai changé en Rocher dans le temps qu’il allait être dévoré par les Ogres.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="27">
 	<s id="1">Ah, Madame, vous m’avez ruiné !</s>
 	<s id="2">Il sera sourd à ma voix, quand je lui demanderai mes gages.</s>
 </p>
 </sp>
-<sp who="LA-FÉE"><speaker>LA FÉE.</speaker>
+<sp who="LA-FÉE"><hstage><speaker>LA FÉE</speaker>.</hstage>
 <p id="28">
 	<s id="1">C’est une Fée plus puissante que moi, à qui je vais te présenter, je te donnerai un habit mystérieux, et une baguette enchantée pour délivrer ta Princesse.</s>
 	<s id="2">Tu la changeras en rocher quand l’Ogre voudra l’épouser, et tu lui rendras sa première forme quand tu verras arriver une Urne d’or.</s>
@@ -389,8 +389,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Une Fée chante, Arlequin.</head>
-<sp who="LA-FÉE"><speaker>LA FÉE, chante.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Une Fée chante, Arlequin.</cast>
+<sp who="LA-FÉE"><hstage><speaker>LA FÉE</speaker>, chante.</hstage>
 	<l id="19">Con la bellezza</l>
 	<l id="20">L’anime vince Donna volgar.</l>
 	<l id="21">Con la fortezza,</l>
@@ -405,14 +405,14 @@
 <stage>Arlequin rentre avec la Fée.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Un Ogre, Isménie, La Nourrice.</head>
-<sp who="L-OGRE"><speaker>L’OGRE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Un Ogre, Isménie, La Nourrice.</cast>
+<sp who="L-OGRE"><hstage><speaker>L’OGRE</speaker>.</hstage>
 <p id="1">
 	<s id="1">Allons, Madame, voilà la Nourrice qui va vous faire un Conte pour vous endormir.</s>
 	<s id="2">Nourrice faites-lui un Conte.</s>
 </p>
 </sp>
-<sp who="LA-NOURRICE"><speaker>LA NOURRICE.</speaker>
+<sp who="LA-NOURRICE"><hstage><speaker>LA NOURRICE</speaker>.</hstage>
 <note type="L">Poupard : Petit enfant en maillot. [F]</note>
 <p id="2">
 	<s id="1">Madame, écoutez-moi, s’il vous plaît.</s>
@@ -458,30 +458,30 @@
 	<l id="44">Dont il ne fut jamais le Coq.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Le Grand Ogre, Isménie, Plusieurs Ogres qui les accompagnent.</head>
-<sp who="LE-GRAND-OGRE"><speaker>LE GRAND OGRE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Le Grand Ogre, Isménie, Plusieurs Ogres qui les accompagnent.</cast>
+<sp who="LE-GRAND-OGRE"><hstage><speaker>LE GRAND OGRE</speaker>.</hstage>
 <p id="1">
 	<s id="1">Bonjour, ma Mignonne.</s>
 	<s id="2">Il faut que je t’épouse, ou que je te dévore.</s>
 	<s id="3">Choisis.</s>
 </p>
 </sp>
-<sp who="ISMÉNIE"><speaker>ISMÉNIE.</speaker>
+<sp who="ISMÉNIE"><hstage><speaker>ISMÉNIE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Quel choix !</s>
 </p>
 </sp>
-<sp who="LE-GRAND-OGRE"><speaker>LE GRAND OGRE.</speaker>
+<sp who="LE-GRAND-OGRE"><hstage><speaker>LE GRAND OGRE</speaker>.</hstage>
 <p id="3">
 	<s id="1">Mariage, ou carnage, carnage.</s>
 </p>
 </sp>
-<sp who="ISMÉNIE"><speaker>ISMÉNIE.</speaker>
+<sp who="ISMÉNIE"><hstage><speaker>ISMÉNIE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Si tu n’as point d’égard pour la pitié, du moins respecte l’amour.</s>
 </p>
 </sp>
-<sp who="LE-GRAND-OGRE"><speaker>LE GRAND OGRE.</speaker>
+<sp who="LE-GRAND-OGRE"><hstage><speaker>LE GRAND OGRE</speaker>.</hstage>
 <note type="L">Bichon : petit chien à long poil blanc, et fort delié. Les bichons ont été longtemps à la mode chez les Dames : ce sont des chiens de manchon. [F]</note>
 <p id="5">
 	<s id="1">L’amour !</s>
@@ -491,13 +491,13 @@
 	<s id="5">Si tu veux je serai un ours affamé, un tigre en fureur, ou bien un bichon caressant, un petit mouton.</s>
 </p>
 </sp>
-<sp who="ISMÉNIE"><speaker>ISMÉNIE.</speaker>
+<sp who="ISMÉNIE"><hstage><speaker>ISMÉNIE</speaker>.</hstage>
 <p id="6">
 	<s id="1">Ah !</s>
 	<s id="2">Je n’ai point d’autre choix à faire, dévore-moi, monstre horrible.</s>
 </p>
 </sp>
-<sp who="LE-GRAND-OGRE"><speaker>LE GRAND OGRE.</speaker>
+<sp who="LE-GRAND-OGRE"><hstage><speaker>LE GRAND OGRE</speaker>.</hstage>
 <p id="7">
 	<s id="1">Tu me trouves horrible !</s>
 	<s id="2">Hé de grâce trouve-moi beau !</s>
@@ -513,8 +513,8 @@
 <stage>D’un coup de massue il jette plusieurs Ogres à terre, Isménie prend la fuite. Comme l’Ogre la poursuit, Arlequin survient avec la baguette enchantée, et la change en rocher.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Arlequin, Isménie et Octave changés en Rocher.</head>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Arlequin, Isménie et Octave changés en Rocher.</cast>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="1">
 	<s id="1">Voilà mon Maître et la Princesse, tous deux en Rochers.</s>
 	<s id="2">Ah !</s>
@@ -538,44 +538,44 @@
 </p>
 <stage>Il donne un coup de baguette, et Octave et Isménie reprennent leur première figure.</stage>
 </sp>
-<sp who="OCTAVE"><speaker>OCTAVE.</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Ah, ma Princesse !</s>
 </p>
 </sp>
-<sp who="ISMÉNIE"><speaker>ISMÉNIE.</speaker>
+<sp who="ISMÉNIE"><hstage><speaker>ISMÉNIE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Ah, mon Prince !</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="6">
 	<s id="1">Vite, vite, mariez-vous pendant que la tendresse est toute chaude.</s>
 </p>
 </sp>
-<sp who="OCTAVE"><speaker>OCTAVE.</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker>.</hstage>
 <p id="7">
 	<s id="1">Mais il faudrait le consentement du Roi Croquignolet son père.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="8">
 	<s id="1">Hé, mariez-vous toujours, le consentement viendra ensuite.</s>
 	<s id="2">Mais voilà justement Monsieur Croquignolet lui-même.</s>
 </p> 
 <stage>Croquignolet armé sort de l’Urne.</stage>
 </sp>
-<sp who="ISMÉNIE"><speaker>ISMÉNIE.</speaker>
+<sp who="ISMÉNIE"><hstage><speaker>ISMÉNIE</speaker>.</hstage>
 <p id="9">
 	<s id="1">C’est mon père.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="10">
 	<s id="1">Monsieur Croquignolet, ces deux Amants vous attendent pour donner votre consentement à leur mariage.</s>
 </p>
 </sp>
-<sp who="CROQUIGNOLET"><speaker>CROQUIGNOLET, chante.</speaker>
+<sp who="CROQUIGNOLET"><hstage><speaker>CROQUIGNOLET</speaker>, chante.</hstage>
 	<l id="49">Le conseil d’un vieux Barbon</l>
 	<l id="50">Est toujours bon,</l>
 	<l id="51">Est toujours bon,</l>
@@ -584,32 +584,32 @@
 	<l id="54">En sait plus, ma foi,</l>
 	<l id="55">Qu’un Père comme moi.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="11">
 	<s id="1">Puisque voilà le consentement, réjouissons-nous.</s>
 	<s id="2">Je m’en vais changer cette grotte en un palais magnifique, le Palais des Fées.</s>
 </p>
 <stage>Arlequin donne un coup de sa baguette, et le Théâtre se change en un Palais magnifique. On y voit une Pendule, un Limaçon, un Papillon et une Lanterne.</stage>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="12">
 	<s id="1">Tout ce que vous voyez-là, ce sont des gens que les Fées ont ainsi métamorphosés pour se divertir, mais je m’en vais leur rendre leur première forme.</s>
 </p>
 <stage>Arlequin frappe une seconde fois de sa baguette, et le Papillon devient une Nymphe, la Lanterne un Berger, le Limaçon un Vieillard, et la Pendule une Dame.</stage>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="13">
 	<s id="1">Hé bien, vous qui étiez Papillon tout à l’heure, contez-nous un peu la raison pourquoi les Fées vous avaient ainsi métamorphosée.</s>
 </p>
 </sp>
-<sp who="LA NYMPHE"><speaker>LA NYMPHE, chante.</speaker>
+<sp who="LA NYMPHE"><hstage><speaker>LA NYMPHE</speaker>, chante.</hstage>
 	<l id="56">Un jeune inconstant</l>
 	<l id="57">Brûlait pour moi d’une flamme nouvelle.</l>
 	<l id="58">Son feu me parut si brillant,</l>
 	<l id="59">Que je fus légèrement,</l>
 	<l id="60">Me brûler à la chandelle.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="61">Tout Papillon qui se laisse attirer,</l>
 	<l id="62">À la lueur d’une chandelle,</l>
 	<l id="63">A beau voler, tourner, virer,</l>
@@ -618,7 +618,7 @@
 	<s id="1">Mais vous, voudriez-vous bien nous dire par quelle raison on vous avait changé en Lanterne ?</s>
 </p>
 </sp>
-<sp who="LE-BERGER"><speaker>LE BERGER.</speaker>
+<sp who="LE-BERGER"><hstage><speaker>LE BERGER</speaker>.</hstage>
 <note type="L">Lanterner : Fatiguer, importuner par des discours et des entretiens de néant. Signifie aussi s’amuser à la bagatelle, n’aller point au solide, ne conclure rien. [F]</note>
 <note type="L">Lanternage : action de lanterner. [F]</note>
 <p id="15">
@@ -626,7 +626,7 @@
 	<s id="2">La Fée fut si rebutée de mon lanternage romanesque, qu’elle me changea comme vous avez vu.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="65">Le lanternage des amants</l>
 	<l id="66">Lanterne fort l’oreille aux femmes de bon sens,</l>
 	<l id="67">Il faut mener tambour battant</l>
@@ -634,7 +634,7 @@
 	<l id="69">Et pour entrer la nuit chez elle sans lanterne,</l>
 	<l id="70">Il faut, sans lanterner, parler d’argent comptant.</l>
 </sp>
-<sp who="LE-BERGER"><speaker>LE BERGER chante.</speaker>
+<sp who="LE-BERGER"><hstage><speaker>LE BERGER</speaker> chante.</hstage>
 	<l id="71">Il ne faut point lanterner,</l>
 	<l id="72">En amour aimons à la moderne :</l>
 <note type="L">Baliverne : sornette, discours frivole et de peu d’importance. [FC]</note>
@@ -646,12 +646,12 @@
 	<l id="78">Il ne faut point lanterner,</l>
 	<l id="79">Il ne faut point lanterner.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="16">
 	<s id="1">Et vous qui gardez encore quelque chose du Limaçon que vous étiez tout à l’heure, contez-nous donc votre aventure.</s>
 </p>
 </sp>
-<sp who="LE-VIEILLARD"><speaker>LE VIEILLARD, chante.</speaker>
+<sp who="LE-VIEILLARD"><hstage><speaker>LE VIEILLARD</speaker>, chante.</hstage>
 	<l id="80">Vieux et bossu,</l>
 	<l id="81">Je voulus</l>
 	<l id="82">Avec la jeune fée, ébaucher l’aventure.</l>
@@ -666,47 +666,47 @@
 	<l id="91">Elle me fit rentrer</l>
 	<l id="92">Dans ma coquille.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="17">
 	<s id="1">Oh vous n’êtes pas le premier Limaçon qu’on a fait rentrer dans sa coquille, après lui avoir fait montrer les cornes.</s>
 	<s id="2">Mais vous, Madame la Pendule, pourrait-on savoir votre histoire ?</s>
 </p>
 </sp>
-<sp who="LA-DAME"><speaker>LA DAME.</speaker>
+<sp who="LA-DAME"><hstage><speaker>LA DAME</speaker>.</hstage>
 <p id="18">
 	<s id="1">C’est une Fée de mes voisines qui me changea en Pendule, parce que ma conduite était trop bien réglée.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="19">
 	<s id="1">Ce Trop bien, n’est pas dans la nature.</s>
 </p>
 </sp>
-<sp who="LA-DAME"><speaker>LA DAME.</speaker>
+<sp who="LA-DAME"><hstage><speaker>LA DAME</speaker>.</hstage>
 <p id="20">
 	<s id="1">Oh, Monsieur, c’est une chose avérée, toutes mes voisines se réglaient sur moi, et on m’appelait la Pendule du quartier, parce que tout était si bien ordonné chez moi, qu’on n’y perdait pas un moment, et que le jeu, la conversation galante, et les autres occupations des femmes se succédaient régulièrement.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="21">
 	<s id="1">Le jeu et la conversation galante faisaient vos occupations sérieuses ?</s>
 	<s id="2">À quoi passiez-vous donc vos heures de récréation ?</s>
 </p>
 </sp>
-<sp who="LA-DAME"><speaker>LA DAME.</speaker>
+<sp who="LA-DAME"><hstage><speaker>LA DAME</speaker>.</hstage>
 <note type="L">Bel esprit : bel esprit, genre d’esprit qui ne manque ni de distinction ni d’élégance, mais qui tombe facilement dans la prétention. [L]</note>
 <p id="22">
 	<s id="1">Tout était si bien distribué, qu’on ne s’ennuyait jamais.</s>
 	<s id="2">Toutes les heures étaient marquées sur mon agenda de coquetterie, l’heure du joueur, l’heure du musicien, l’heure du bel esprit...</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="23">
 	<s id="1">L’heure du Berger ?</s>
 	<s id="2">Mais dites-moi, comment marquiez-vous l’heure des importuns, car les importuns sont des animaux qui viennent à toutes les heures ?</s>
 </p>
 </sp>
-<sp who="LA-DAME"><speaker>LA DAME.</speaker>
+<sp who="LA-DAME"><hstage><speaker>LA DAME</speaker>.</hstage>
 <note type="L">Gano : terme du jeu d’hombre, qui signifie : laissez-moi venir la main, j’ai le roi. [L]</note>
 <p id="24">
 	<s id="1">Ah, monsieur, on ne saurait trop importuner une femme d’esprit.</s>
@@ -714,7 +714,7 @@
 	<s id="3">Elle oblige, par exemple, ce fade Adorateur qui ne sait dire que gano et sans prendre, à perdre son argent contre ce Galant mal aisé qui en sait faire un meilleur usage ; et quand la reprise d’ombre est finie, il faut bien que le sot cède la place au bel-esprit.</s>
 </p>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <note type="L">Sous-traitant : celui qui traite des fermes, et particulièrement de celles du Roi, ou du recouvrement de ses deniers dans une province, qui les prend des mains des traitants ou fermiers généraux. [T]</note>
 <note type="L">Branle : se dit figurément du commencement d’une affaire, lorsqu’on la met en train d’aller, qu’on lui donne le premier mouvement. [T]</note>
 <p id="25">
@@ -728,7 +728,7 @@
 	<s id="8">Voici la Fée qui vient mener le branle.</s>
 </p>
 </sp>
-<sp who="LA-FÉE"><speaker>LA FÉE chante.</speaker>
+<sp who="LA-FÉE"><hstage><speaker>LA FÉE</speaker> chante.</hstage>
 	<l id="93">Tout dans la nature,</l>
 	<l id="94">Change de figure,</l>
 	<l id="95">Quand nous commandons,</l>
@@ -737,7 +737,7 @@
 	<l id="98">Les vieilles Coquettes</l>
 	<l id="99">En jeunes tendrons.</l>
 </sp>
-<sp who="LA-DAME"><speaker>LA DAME, chante.</speaker>
+<sp who="LA-DAME"><hstage><speaker>LA DAME</speaker>, chante.</hstage>
 	<l id="100">Sans être sorcières,</l>
 	<l id="101">En mille manières</l>
 	<l id="102">Nous nous transformons,</l>
@@ -747,7 +747,7 @@
 	<l id="105">De simples Grisettes</l>
 	<l id="106">En riches Jupons.</l>
 </sp>
-<sp who="LE-VIEILLARD"><speaker>LE VIEILLARD, chante.</speaker>
+<sp who="LE-VIEILLARD"><hstage><speaker>LE VIEILLARD</speaker>, chante.</hstage>
 	<l id="107">Malgré nos grimaces,</l>
 	<l id="108">Nos rides, nos glaces,</l>
 	<l id="109">Souvent nous chantons :</l>
@@ -756,7 +756,7 @@
 	<l id="112">Les fières tigresses</l>
 	<l id="113">En petits moutons.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, chante.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, chante.</hstage>
 	<l id="114">Pour nous satisfaire,</l>
 	<l id="115">De toute manière</l>
 	<l id="116">Nous nous déguisons,</l>

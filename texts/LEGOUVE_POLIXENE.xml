@@ -55,7 +55,7 @@
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1">Ô Troie, ô murs tombés sous mes mains triomphantes,</l>
 	<l id="2">D’une ville fameuse ô ruines sanglantes,</l>
 	<l id="3">Voyez sur vos débris gémir votre vainqueur.</l>
@@ -80,8 +80,8 @@
 	<l id="22">Suis-je encore Pyrrhus ? Suis-je le fils d’Achille ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Pyrrhus, Phénix.</head>
-<sp who="PHÉNIX"><speaker>PHÉNIX.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Pyrrhus, Phénix.</cast>
+<sp who="PHÉNIX"><hstage><speaker>PHÉNIX</speaker>.</hstage>
 	<l id="23">Enfin Pâris, sous vous tombant avec vingt rois,</l>
 	<l id="24">Ménélas et l’hymen vengés par vos exploits,</l>
 	<l id="25">Les murailles de Troie aux feux abandonnées,</l>
@@ -101,13 +101,13 @@
 	<l id="39">Mais, parmi les faveurs dont vous êtes comblé,</l>
 	<l id="40">Qui vous donne cet air inquiet et troublé ?</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="41" part="i">L’amour.</l>
 </sp>
-<sp who="PHÉNIX"><speaker>PHÉNIX.</speaker>
+<sp who="PHÉNIX"><hstage><speaker>PHÉNIX</speaker>.</hstage>
 	<l id="41" part="m">Seigneur...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="41" part="f">Tu dois t’en étonner : peut-être</l>
 	<l id="42">Je ne semblais pas né, Phénix, pour le connaître.</l>
 	<l id="43">Petit-fils de Thétis, rejeton des guerriers,</l>
@@ -119,20 +119,20 @@
 	<l id="49">Ce cœur fier se devait aux seuls soin» de la guerre,</l>
 	<l id="50">Insensible à l’amour, fait pour un cœur vulgaire.</l>
 </sp>
-<sp who="PHÉNIX"><speaker>PHÉNIX.</speaker>
+<sp who="PHÉNIX"><hstage><speaker>PHÉNIX</speaker>.</hstage>
 	<l id="51">Quelle beauté, Seigneur, a donc su voue charmer ?</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="52">Sois plus surpris encor. Tu viens de me nommer</l>
 	<l id="53">Cette esclave, à mon sang si fatale et si chère,</l>
 	<l id="54">Qui, conduite aux autels pour s’unir à mon père,</l>
 	<l id="55">Le vit tomber sanglant sous les coups de Pâris,</l>
 	<l id="56">Et qui doit dans les fers suivre aujourd’hui son fils...</l>
 </sp>
-<sp who="PHÉNIX"><speaker>PHÉNIX.</speaker>
+<sp who="PHÉNIX"><hstage><speaker>PHÉNIX</speaker>.</hstage>
 	<l id="57" part="i">Polixène !...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="57" part="f">Oui, Phénix. Quand, pressant mes cohortes,</l>
 	<l id="58">Une hache à la main, je renversai les portes</l>
 	<l id="59">Du palais, où, pour fuir nos soldats triomphants,</l>
@@ -162,7 +162,7 @@
 	<l id="83">Et les remords du sang où mon bras s’est trempé,</l>
 	<l id="84">Et le trait enflammé dont mon cœur est frappé.</l>
 </sp>
-<sp who="PHÉNIX"><speaker>PHÉNIX.</speaker>
+<sp who="PHÉNIX"><hstage><speaker>PHÉNIX</speaker>.</hstage>
 	<l id="85">Je vous plains. Se peut-il qu’un penchant téméraire,</l>
 	<l id="86">Trahissant la mémoire et les mânes d’un père,</l>
 	<l id="87">Vous fasse soupirer, Seigneur, pour les appas</l>
@@ -181,7 +181,7 @@
 	<l id="100">Peut-être ne seront que des crimes de plus.</l>
 	<l id="101">Ah ! Deviez-vous l’aimer ? Mais l’avez-vous revue ?</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="102">Non, je n’ai point osé reparaître à sa vue ;</l>
 	<l id="103">J’ai craint de lui montrer un visage odieux.</l>
 	<l id="104">Toi, Phénix, dont l’aspect doit moins blesser ses yeux,</l>
@@ -199,16 +199,16 @@
 	<l id="114" part="i">Ce que mon cœur... Ulysse ! Eh ! Quel motif ?...</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Pyrrhus, Ulysse.</head>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Pyrrhus, Ulysse.</cast>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="114" part="f">La Grèce</l>
 	<l id="115">Demande encor, Seigneur, votre vaillante main ;</l>
 	<l id="116">Un prodige des mers nous ferme le chemin.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="117" part="i">Un prodige !</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="117" part="f">Les Grecs, sur la rive où fut Troie,</l>
 	<l id="118">Hâtaient tous du départ les apprêts avec joie ;</l>
 	<l id="119">Et, voyant leurs vaisseaux par les vents agités,</l>
@@ -242,47 +242,47 @@
 	<l id="147">Et Calchas, que des dieux le souffle saint anime,</l>
 	<l id="148">S’avance au milieu d’eux pour nommer la victime.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="149" part="i">Quelle est-elle, Seigneur ?</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="149" part="f">Le ciel interrogé</l>
 	<l id="150">Sur un autel, d’encens et d’offrandes chargé,</l>
 	<l id="151">Par la voix du grand-prêtre a nommé Polixène.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="152" part="i">Polixène!</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="152" part="f">Et bientôt, pour désarmer sa haine,</l>
 	<l id="153">Calchas va vous donner le fer, que votre main</l>
 	<l id="154">Doit, au tombeau d’Achille, enfoncer dans son sein.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="155" part="i">Dans son sein ! Moi ! Grands dieux !</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="155" part="f">Le ciel et votre père</l>
 	<l id="156">Veulent ce sacrifice affreux, mais nécessaire.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="157" part="i">Il n’est pas encor fait, Ulysse !</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="157" part="f">En ce séjour,</l>
 	<l id="158">Seigneur, il doit se faire avant la fin du jour.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="159" part="i">J’en doute.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="159" part="f">Ce vain doute est fait pour me surprendre.</l>
 	<l id="160" part="i">Qui l’empêchera ?</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="160" part="m">Moi !</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="160" part="f">Vous ! Que viens-je d’entendre,</l>
 	<l id="161">Seigneur ? Est-ce Pyrrhus, un Grec, qui m’a parlé ?</l>
 	<l id="162">D’où vient l’indigne effroi dont vous êtes troublé ?</l>
@@ -292,7 +292,7 @@
 <note type="L">Balancer : Se dit figurément pour délibrer, hésiter ; être irrésolu et incertain ensuite de l’examen qu’on fait dans son esprit des raisons qui le tiennent en suspens, et qui le font incliner de part et d’autre. [F]</note>
 	<l id="166" part="i">Et vous balancez...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="166" part="f">Non, je ne balance pas.</l>
 	<l id="167">Vous voulez, qu’abaissant la grandeur de mon âme</l>
 	<l id="168">J’ose plonger ma main dans le sang d’une femme,</l>
@@ -311,7 +311,7 @@
 	<l id="181">C’est un crime, Seigneur; il me suffit : mon bras</l>
 	<l id="182">Ne fut jamais instruit à des assassinats.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="183">Seigneur, je reconnais à ce refus sublime,</l>
 	<l id="184">Cette austère vertu qui craint l’ombre d’un crime ;</l>
 	<l id="185">Mais l’État aujourd’hui défend de l’écouter ;</l>
@@ -342,7 +342,7 @@
 	<l id="210">Et ce sang criminel est tout entier à nous.</l>
 	<l id="211">Il faut nous rendre aux champs de Sparte et de Mycène.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="212">Il est trop vrai qu’Achille, épris de Polixène,</l>
 	<l id="213">Lorsque, pour l’épouser, il volait à l’autel,</l>
 	<l id="214">À ses côtés tomba, frappé d’un coup mortel.</l>
@@ -397,55 +397,55 @@
 	<l id="262">Ma fureur en est lasse, et mon glaive émoussé.</l>
 	<l id="263">Enfin, mon père a-t-il demandé Polixène ?</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="264">Mais Calchas l’a nommée ; et notre juste haine...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="265" part="i">Vous croyez Calchas ? Vous ?</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="265" part="f">Interprète des Dieux,</l>
 	<l id="266">Il lit dans leurs secrets, qu’ils ouvrent à ses yeux.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="267">Leurs secrets de leur sein ne daignent point descendre</l>
 	<l id="268">À la voix d’un mortel peu fait pour les entendre;</l>
 	<l id="269">Les Dieux n’abaissent point leur sainte majesté</l>
 	<l id="270">Jusqu’à remplir son cœur de leur divinité ;</l>
 	<l id="271">Leurs secrets à leurs pieds restent avec la foudre.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="272">Je ne dis plus qu’un mot. Que pensez-vous résoudre ?</l>
 	<l id="273">Nous accorderez-vous aujourd’hui votre bras ?</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="274" part="i">Non.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="274" part="m">Ainsi Polixène....</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="274" part="f">Elle ne mourra pas.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="275">Vous l’adorez sans doute : une chaleur si vive...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="276">Que je l’adore ou non, je prétends qu’elle vive.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="277">La patrie à vos yeux n’est donc plus rien, Seigneur ?</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="278">Elle est toujours beaucoup, mais bien moins que l’honneur :</l>
 	<l id="279">L’honneur, au vrai héros, doit parler plus haut qu’elle.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="280">Mais ne craignez-vous point que ce refus rebelle</l>
 	<l id="281">Des Grecs, contre Pyrrhus, n’arme ici tous les rois,</l>
 	<l id="282">Jaloux de vous punir du mépris de leurs droits ?</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="283">Je ne suis point surpris de cette ingratitude,</l>
 	<l id="284">Seigneur ; c’est chez les Grecs une vieille habitude.</l>
 	<l id="285">Mon père l’éprouva, je l’éprouve aujourd’hui ;</l>
@@ -456,7 +456,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="289" part="f">C’est tout Achille ! Il revit dans Pyrrhus !</l>
 	<l id="290">Nous voilà donc encor sur ce bord retenus.</l>
 	<l id="291">Pyrrhus a-t-il cru fuir les yeux perçants d’Ulysse ?</l>
@@ -481,8 +481,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="1"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Hécube, Polixène.</head>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Hécube, Polixène.</cast>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="309">Ô fille de Priam, ô sœur du grand Hector,</l>
 	<l id="310">Ma fille, je puis donc t’entretenir encor.</l>
 	<l id="311">Nous voilà toutes deux au nombre des captives :</l>
@@ -498,21 +498,21 @@
 	<l id="321">Vous, qui ne me laissez qu’une fille et des fers,</l>
 	<l id="322">Dieux ! Sauvez-la du moins, j’oublierai mes revers.</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="323">Abjurez ce souhait à mes désirs contraire.</l>
 	<l id="324">Ah ! Puisque je survis à ma famille entière,</l>
 	<l id="325">J’ai vécu trop longtemps. Heureux et plus heureux</l>
 	<l id="326">Ceux que frappa la guerre avant ces temps affreux !</l>
 	<l id="327">Ma mère, ils n’ont pas vu tomber les murs de Troie.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="328">Des flammes et des Grecs la voilà donc la proie !</l>
 	<l id="329" part="i">Ah ! Pâris, qu’as-tu fait !</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="329" part="f">Il nous perd sans retour.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="330">Le ciel m’en avertit, lorsqu’il reçut le jour.</l>
 	<l id="331">Oui, ma fille, au moment où, pour nos maux féconde,</l>
 	<l id="332">J’enfantai ce fléau d’Ilion et du Monde,</l>
@@ -525,83 +525,83 @@
 	<l id="339">Je vous verrais debout, murs que le feu dévore ;</l>
 	<l id="340">Époux, enfants, sujets, je vous verrais encore.</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="341" part="i">Il était votre fils.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="341" part="f">Vois-tu ces murs sanglants,</l>
 	<l id="342">Ces temples embrasés, ces portiques croulants,</l>
 	<l id="343">Et cet amas de morts, de cendre et de poussière ?</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="344" part="i">Hélas !</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="344" part="m">C’est Ilion.</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="344" part="f">En vain, Priam mon père,</l>
 	<l id="345">Lorsque Hercule irrité renversa ses remparts,</l>
 	<l id="346">Releva ses palais sur la poussière épars.</l>
 	<l id="347">Où sont ces murs, ces tours, cette ville puissante ?</l>
 	<l id="348">Mon œil cherche Ilion sur les rives du Xanthe.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="349" part="i">Là fut un temple.</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="349" part="f">Ici fut le palais des rois.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 <note type="L">Porte de Scée : porte de Trois, près de laquelle était le tombeau de Loamédon, et où eut lieu la célèbre entrevue d’Andromaque et d’Hector. C’est par cette porte que fut introduit dans la ville le cheval de bois. [B]</note>
 	<l id="350">Là, la porte de Scée, où je gémis cent fois.</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="351">Plus loin, contre les Grecs Hector guidait l’Asie.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="352" part="i">Ilion !</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="352" part="m">Ilion !</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="352" part="m">Ô désastre !</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="352" part="f">Ô patrie !</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 <note type="L">Simoïs : rivière de la Troade, sortait d’un des sommets de l’Ida, baignait la campagne de Troie et s’unissait au Scamandre pour se jeter dans l’Hellespont. [B]</note>
 	<l id="353">Où couleront tes eaux, ô divin Simoïs ?</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="354">Sous les débris des murs qu’il arrosait jadis.</l>
 	<l id="355">Ma mère, croyez-moi, ne parlons plus de Troie.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="356">Pourquoi n’en plus parler ? C’est notre seule joie,</l>
 	<l id="357">Ma fille : hélas ! Sa chute, et mon sort, et le tien</l>
 	<l id="358">De l’univers entier vont être l’entretien.</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="359">Que ne m’est-il permis de calmer vos alarmes !</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="360">Ma fille, ton aspect redouble encor mes larmes.</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="361" part="i">Moi ?</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="361" part="f">Si jeune, déjà tu connais le malheur !</l>
 	<l id="362">Quoi ! Tes vertus, ton âge en sa première fleur ;...</l>
 	<l id="363" part="i">Devais-tu naître à Troie ?</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="363" part="m">Ah ! Ma mère !</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="363" part="f">Ah ! Ma fille !</l>
 	<l id="364">Tu n’es plus, dans le sein d’une illustre famille,</l>
 	<l id="365">Cette princesse, objet des soupirs de vingt rois,</l>
@@ -614,7 +614,7 @@
 	<l id="372">Essuyer les mépris d’une cour étrangère :</l>
 	<l id="373" part="i">Tel est ton sort affreux.</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="373" part="f">J’en sens toute l’horreur.</l>
 	<l id="374">Voilà donc cet espoir d’hymen et de grandeur !</l>
 	<l id="375">Qu’ai-je fait pour armer la colère céleste ?</l>
@@ -638,14 +638,14 @@
 	<l id="393">Écrasait nos soldats, faisait fuir tous nos rois !</l>
 	<l id="394">Elle est esclave !... » Ô mort, mort, accours à ma voix !</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="395">Voilà Pyrrhus, le fils du bourreau de ton frère,</l>
 	<l id="396">Le vainqueur d’Ilion, l’assassin de ton père :</l>
 	<l id="397" part="i">Évitons ses regards.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Hécube, Polixène, Pyrrhus.</head>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Hécube, Polixène, Pyrrhus.</cast>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="397" part="f">Madame, demeurez,</l>
 	<l id="398">Je conçois la terreur où vos sens sont livrés ;</l>
 	<l id="399">En m’offrant à vos yeux, je l’avais bien prévue :</l>
@@ -656,32 +656,32 @@
 	<l id="404">Un Grec, un ennemi, vous l’apprenne avec joie ;</l>
 	<l id="405">C’est dans un autre esprit que je viens devant vous.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="406">Ciel ! Quels nouveaux malheurs peuvent tomber sur nous !</l>
 	<l id="407">Tant de sang, tant de morts ont dû te satisfaire.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="408">Ce séjour est encor tout plein de sa colère :</l>
 	<l id="409">Achille, dont Pâris osa trancher les jours,</l>
 	<l id="410">A paru sur les flots arrêtés dans leur cours,</l>
 	<l id="411">Pour ordonner aux Grecs que sa tombe jalouse</l>
 	<l id="412">Fume aujourd’hui du sang de sa dernière épouse.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="413" part="i">Du sang de Polixène ?</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="413" part="f">Oui, madame ; et ma main</l>
 	<l id="414">Est celle qu’il attend pour ce coup inhumain.</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE, à part.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>, à part.</hstage>
 	<l id="415">Dieux ! Vous avez enfin exaucé ma prière.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="416">Pyrrhus obéira ! L’auteur de ma misère</l>
 	<l id="417">N’hésite pas sans doute à verser notre sang ?</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="418">Non, je viens vous servir dans ce péril pressant ;</l>
 	<l id="419">Votre intérêt, le sien est le seul qui me touche ;</l>
 	<l id="420">Ne me regardez plus comme un vainqueur farouche ;</l>
@@ -695,10 +695,10 @@
 	<l id="427">De conserver ses jours, que le ciel me demande,</l>
 	<l id="428">Et de sauver ce sang qu’on veut que je répande.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="429" part="i">Ah ! J’embrasse vos pieds, Seigneur.</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="429" part="f">Que faites-vous?</l>
 	<l id="430">La veuve de Priam, ma mère à ses genoux ?</l>
 	<l id="431">L’abaissement est fait pour une âme commune ;</l>
@@ -720,7 +720,7 @@
 	<l id="446">Et dans mon œil humide interroger mes pleurs ?</l>
 	<l id="447" part="i">Peut-être formes-tu d’autres vœux ?</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="447" part="f">Ah ! Madame,</l>
 	<l id="448">Qu’un plus noble dessein est entré dans mon âme !</l>
 	<l id="449">Vous, recevoir des lois ! C’est à vous d’en donner.</l>
@@ -738,7 +738,7 @@
 	<l id="461">Vous verrez si les Grecs, que vous ne craindrez plus,</l>
 	<l id="462">Oseront attaquer l’épouse de Pyrrhus !</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="463">À ce comble d’affront je reste confondue.</l>
 	<l id="464">Quand Troie est par tes mains sur la poudre étendue,</l>
 	<l id="465">Quand mes frères sont morts, par tes coups terrassés.</l>
@@ -781,7 +781,7 @@
 	<l id="502">Et toi, fuis ; je ne veux ni tes secours, ni toi ;</l>
 	<l id="503" part="i">Je ne veux que la mort.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="503" part="f">Voilà votre réponse!</l>
 	<l id="504">C’est un refus qu’ici votre haine prononce !</l>
 	<l id="505">Eh bien, je le reçois, ce refus trop ingrat ;</l>
@@ -804,30 +804,30 @@
 	<l id="522">Je puis percer ce cœur ; tremblez, je me connais.</l>
 	<l id="523">Oui, oui, je vais aux Grecs promettre leur offrande.</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="524">Eh ! Barbare, voilà ce que je te demande ;</l>
 	<l id="525">Polixène de toi ne veut que ce présent.</l>
 	<l id="526">Est-ce à toi d’hésiter à répandre mon sang ?</l>
 	<l id="527">Il sied bien à Pyrrhus d’immoler Polixène.</l>
 	<l id="528" part="i">Frappe...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="528" part="f">Je frapperai, j’en jure votre haine ;</l>
 	<l id="529">Quand il en sera temps, vous sentirez les coups ;</l>
 	<l id="530">Je pourrai les porter sur d’autres que sur vous ;</l>
 	<l id="531">Il est quelques captifs que peut frapper ma rage.</l>
 	<l id="532">Je redeviens cruel, et c’est là votre ouvrage.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="533" part="i">Ayez pitié, Seigneur...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="533" part="f">Vous me priez en vain :</l>
 	<l id="534">Je vous le dis, Madame, ou sa mort ou sa main.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Hécube, Polixène.</head>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Hécube, Polixène.</cast>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="535">Captive de Pyrrhus, pourquoi contre ta tête</l>
 	<l id="536">Irriter, dans ses mains, la foudre toujours prête ?</l>
 	<l id="537">N’est-il pas maître, hélas ! De tes jours et des miens ?</l>
@@ -842,7 +842,7 @@
 	<l id="546">Tu pouvais, Polixène, au moins le ménager.</l>
 	<l id="547" part="i">Et ses secours peut-être....</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="547" part="f">Ah ! Ses secours, ma mère,</l>
 	<l id="548">Feraient rougir la cendre et d’Hector et d’un père.</l>
 	<l id="549">Dois-je, acceptant de lui ce présent détesté,</l>
@@ -853,7 +853,7 @@
 	<l id="554">Un nom que le malheur peut leur rendre sacré ?</l>
 	<l id="555" part="i">Non, laissez-moi mourir.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="555" part="f">Quels discours ! Quel langage !</l>
 	<l id="556">Ton courage, à la fin, me rend tout mon courage.</l>
 	<l id="557">N’allons plus de Pyrrhus embrasser les genoux ;</l>
@@ -861,14 +861,14 @@
 	<l id="559">Disparaissons des lieux que le trépas habite :</l>
 	<l id="560">Dérobons-nous aux Grecs par une prompte fuite...</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="561">Moi, ma mère; moi, fuir ! Je pourrais m’exposer...</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="562">Cruelle, dans mes bras tu peux me refuser !</l>
 	<l id="563" part="i">Tu ne m’aimes donc plus, Polixène ?...</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="563" part="f">Ah ! Ma mère,</l>
 	<l id="564">À ce cœur déchiré vous êtes toujours chère.</l>
 	<l id="565">Je n’oublierai jamais ces soins intéressants,</l>
@@ -892,7 +892,7 @@
 	<l id="583">Ma mère, abandonnez votre fille à la Grèce ;</l>
 	<l id="584" part="i">Voici son dernier jour.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE, en se mettant à genoux.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>, en se mettant à genoux.</hstage>
 	<l id="584" part="f">Ah ! Par cette tendresse,</l>
 	<l id="585">Dont toujours les doux nœuds ont lié nos deux cœurs,</l>
 	<l id="586">Par mes genoux tremblants, par mon âge et mes pleurs,</l>
@@ -907,10 +907,10 @@
 	<l id="595">Veux-tu donc aujourd’hui me causer plus d’alarmes</l>
 	<l id="596">Que l’ennemi vainqueur, et la fureur des armes ?</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="597" part="i">Ma mère...</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="597" part="f">Écoute-moi. Prix du retour, tes pas</l>
 	<l id="598">Sont sans doute observés, les miens ne le sont pas.</l>
 	<l id="599">De ce séjour pour moi l’issue est plus facile ;</l>
@@ -930,10 +930,10 @@
 	<l id="611">Pour abuser les Grecs c’est la plus sûre voie.</l>
 	<l id="612" part="i">Mais tu n’as qu’un asile...</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="612" part="m">Où donc ?</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="612" part="f">Aux murs de Troie.</l>
 	<l id="613">Dans sa vaste ruine entre sans t’étonner:</l>
 	<l id="614">Les Grecs, cherchant en vain, ne sauraient soupçonner</l>
@@ -945,14 +945,14 @@
 	<l id="620">Et rendrons aux Troyens un des restes de Troie.</l>
 	<l id="621" part="i">Viens....</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="621" part="f">Sans ma mère, Dieux, soyez-en tous témoins,</l>
 	<l id="622">Je ne descendrais pas à ces indignes soins.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="623" part="i">Suis-moi donc...</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="623" part="f">En entrant dans ces vastes décombres,</l>
 	<l id="624">Il me semble marcher dans le séjour des ombres.</l>
 	<l id="625">Je n’y peux faire un pas, sans que ces grands débris</l>
@@ -966,7 +966,7 @@
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
 <div2 type="scene" n=""><head>SCÈNE PREMIÈRE.</head>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="631">J’ai caché Polixène en ces ruines sombres.</l>
 	<l id="632">Gardez-la, Phrygiens descendus chez les ombres,</l>
 	<l id="633">Vous tous, rois, demi-dieux, et Dieux dont elle sort ;</l>
@@ -976,50 +976,50 @@
 	<l id="637" part="i">Allons trouver Énée. Ulysse ! Ah Dieux !</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Hécube, Ulysse, Idas.</head>
-<sp who="ULYSSE"><speaker>ULYSSE, bas à Idas.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Hécube, Ulysse, Idas.</cast>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>, bas à Idas.</hstage>
 	<l id="637" part="f">Tu dis</l>
 	<l id="638">Qu’Hécube l’a cachée en ces sanglants débris ?</l>
 </sp>
-<sp who="IDAS"><speaker>IDAS.</speaker>
+<sp who="IDAS"><hstage><speaker>IDAS</speaker>.</hstage>
 	<l id="639">Oui, veillant sur leurs pas, je l’ai vu l’y conduire,</l>
 	<l id="640">Seigneur, et j’ai volé soudain vous en instruire.</l>
 <stage>Idas sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Hécube, Ulysse.</head>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Hécube, Ulysse.</cast>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="641">Je remplis à regret des ordres inhumains,</l>
 	<l id="642">Madame ; remettez Polixène en mes mains.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="643">Tu veux qu’aux meurtriers de ma famille entière,</l>
 	<l id="644">De mes filles encor je livre la dernière ;</l>
 	<l id="645">Que moi-même, mettant son front sous le couteau,</l>
 	<l id="646">Hécube de son sang devienne le bourreau !</l>
 	<l id="647">Je sais qu’au nom d’Achille on a proscrit sa tête.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="648">Oui, pour prix du retour, et des vents qu’il arrête,</l>
 	<l id="649">Achille veut son sang ; il est le fils des Dieux,</l>
 	<l id="650">Il parle, il faut céder. Dites-moi dans quels lieux...</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="651">En quels lieux sont Hector, Priam, et ma famille ?</l>
 	<l id="652">Où sont tous les Troyens ? Tu demandes ma fille !</l>
 	<l id="653">Et moi, mon peuple entier, mes fils, et mon époux.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="654" part="i">Grecs, entrez dans ces murs.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="654" part="f">J’embrasse vos genoux,</l>
 	<l id="655">Écoutez ; c’est du moins la grâce que j’implore.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="656" part="i">Demeurez, Grecs. Eh bien ?</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="656" part="f">Vous souvient-il encore,</l>
 	<l id="657">Ulysse, de ce jour où, surpris, enchaîné,</l>
 	<l id="658">À mes pieds, pour mourir, vous fûtes amené ?</l>
@@ -1033,11 +1033,11 @@
 	<l id="666">Pour leurs malheurs, hélas ! Et surtout pour les miens.</l>
 	<l id="667" part="i">Vous en souvenez-vous ?</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="667" part="f">Ah ! Gardez-vous de croire</l>
 	<l id="668">Que d’un si grand bienfait je perde la mémoire.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="669">Vous vous en souvenez ! Vous l’avouez, cruel !</l>
 	<l id="670">Et, ravissant ma fille à mon cœur maternel,</l>
 	<l id="671">Vous pouvez me montrer autant d’ingratitude !</l>
@@ -1074,7 +1074,7 @@
 	<l id="702">D’une mère, en tes mains, je mets les intérêts :</l>
 	<l id="703">Ulysse est père, il doit secourir une mère.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="704">Madame, je gémis que mon devoir austère</l>
 	<l id="705">Ne me permette pas, d’accord avec mes vœux,</l>
 	<l id="706">De payer aujourd’hui vos secours généreux ;</l>
@@ -1102,25 +1102,25 @@
 	<l id="728">Auprès de moi, soldats, amenez Polixène.</l>
 <stage>Les soldats font un mouvement pour entrer dans les ruines de Troie.</stage>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="729">Ah ! Seigneur !... Ah ! Cruels, vous n’obéirez pas ;</l>
 	<l id="730">Arrêtez, je me jette au-devant de vos pas :</l>
 	<l id="731">C’est moi qu’il faut frapper ; dans le sang d’une mère</l>
 	<l id="732">Contentez, épuisez une soif sanguinaire.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="733" part="i">Amenez Polixène.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Hécube, Ulysse, Polixène.</head>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Hécube, Ulysse, Polixène.</cast>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="733" part="f">Ulysse, la voici.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="734">Ma fille, que fais-tu ? Dois-tu paraître ici ?</l>
 	<l id="735">Viens-tu t’offrir toi-même à ta mort qui s’apprête ?</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="736">Oui, Seigneur, en vos mains je remets cette tête</l>
 	<l id="737">À qui les Dieux, des Grecs attachent le retour.</l>
 	<l id="738">Je ne vous prierai pas de me sauver le jour.</l>
@@ -1146,7 +1146,7 @@
 	<l id="757" part="i">Adieu, ma mère.</l>
 <stage>Ulysse et les Grecs sont près d’emmener Polixène.</stage>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="757" part="f">Ah ! Grecs, si du fils de Thétis</l>
 	<l id="758">Vous vengez le trépas que causa seul Pâris,</l>
 	<l id="759">Présentez à son ombre une offrande plus chère.</l>
@@ -1155,26 +1155,26 @@
 	<l id="762">Qui de Troie et d’Achille a formé l’assassin.</l>
 	<l id="763">Frappez : c’est mon sang seul qu’il faut que l’on répande.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="764">Des jours de Polixène Achille veut l’offrande.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="765">Eh bien ! Joignez mon sang à son sang malheureux.</l>
 	<l id="766">Au lieu d’une victime Achille en aura deux.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="767">Sa mort est déjà trop sans y joindre le vôtre ;</l>
 	<l id="768">Que ne m’est-il permis de sauver l’une et l’autre !</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="769">Il faudra nous unir par des nœuds éternels :</l>
 <stage>Prenant entre ses bras Polixène.</stage>
 	<l id="770">Venez donc l’arracher de mes bras maternels.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="771" part="i">Madame....</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="771" part="f">Ménagez une mère éplorée,</l>
  <stage>À Hécube.</stage>
 	<l id="772">Prince. Et vous, n’allez point, d’une ardeur égarée,</l>
@@ -1190,46 +1190,46 @@
 	<l id="782">Vous donne encor ce nom pour la dernière fois.</l>
 	<l id="783" part="i">Ma mère !</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="783" part="f">Hélas, je vais bientôt cesser de l’être !</l>
 	<l id="784">Ô gage le plus cher des feux qui t’ont fait naître,</l>
 	<l id="785" part="i">Tu meurs !</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="785" part="f">Vous connaissez mes sentiments secrets ;</l>
 	<l id="786">Vous savez, en mourant, pour qui sont mes regrets.</l>
 	<l id="787">Où laissé-je après moi la mère la plus tendre ?</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="788">Dans des lieux où son cœur ne pourra plus t’entendre.</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="789">Que dirai-je à Priam, à votre fils Hector ?</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="790">Qu’Hécube a perdu tout, et qu’elle vit encor.</l>
 	<l id="791">Ô reste malheureux de toute ma famille !</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="792" part="i">Adieu, ma mère...</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="792" part="f">Eh bien, tu me quittes, ma fille !</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="793">Il m’en coûte. Sortons, Ulysse, de ces lieux.</l>
 	<l id="794">Je sens que ses douleurs, et ses derniers adieux</l>
 	<l id="795">Dans mon âme étonnée éveillent les alarmes :</l>
 	<l id="796">Je vois la mort sans crainte, et ne puis voir ses larmes.</l>
 	<l id="797" part="i">Partons, prince.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="797" part="f">Ô grandeur, que je ne conçois pas !</l>
 	<l id="798">En répandant des pleurs, je vous mène au trépas.</l>
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="799">On l’entraîne ! Et des Grecs toi-même, hélas ! Complice,</l>
 	<l id="800">Ma fille, tu me fuis pour courir au supplice !</l>
 	<l id="801">Je perds donc le dernier de mes nombreux enfants,</l>
@@ -1253,11 +1253,11 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Pyrrhus, Phénix.</head>
-<sp who="PHÉNIX"><speaker>PHÉNIX.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Pyrrhus, Phénix.</cast>
+<sp who="PHÉNIX"><hstage><speaker>PHÉNIX</speaker>.</hstage>
 	<l id="817">Le sang de Polixène aux Grecs est donc promis ?</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="818">Je venais d’essuyer ses refus, ses mépris,</l>
 	<l id="819">Phénix, quand tous les Grecs, éclatant en murmures</l>
 	<l id="820">M’offrant leur sein couvert de nombreuses blessures,</l>
@@ -1270,11 +1270,11 @@
 	<l id="827">Et, ne voyant plus rien que la mort d’une amante</l>
 	<l id="828">Ce cœur redemander sa promesse imprudente.</l>
 </sp>
-<sp who="PHÉNIX"><speaker>PHÉNIX.</speaker>
+<sp who="PHÉNIX"><hstage><speaker>PHÉNIX</speaker>.</hstage>
 	<l id="829">Non, vous ne la pourrez retirer désormais :</l>
 	<l id="830">Le serment est un joug qui ne se rompt jamais.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="831">Qui veux-tu que j’immole ? Une femme adorée,</l>
 	<l id="832">Que son malheur surtout doit me rendre sacrée,</l>
 	<l id="833">Que, malgré les dédains dont son cœur est armé,</l>
@@ -1283,7 +1283,7 @@
 	<l id="836">Tranquille, et mesurant mes coups sur ma victime...</l>
 	<l id="837">Non, Phénix, non jamais je n’aurai ce pouvoir.</l>
 </sp>
-<sp who="PHÉNIX"><speaker>PHÉNIX.</speaker>
+<sp who="PHÉNIX"><hstage><speaker>PHÉNIX</speaker>.</hstage>
 	<l id="838">Croyez-moi, vous l’aurez si vous voulez l’avoir,</l>
 	<l id="839">Seigneur. Si vous n’osez immoler une amante,</l>
 	<l id="840">Vous perdez la patrie, à vos pieds suppliante ;</l>
@@ -1299,27 +1299,27 @@
 	<l id="850">Donna sa fille aux Dieux qui demandaient son sang...</l>
 	<l id="851" part="i">Et vous...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="851" part="f">Il ne l’a pas lui-même poignardée.</l>
 </sp>
-<sp who="PHÉNIX"><speaker>PHÉNIX.</speaker>
+<sp who="PHÉNIX"><hstage><speaker>PHÉNIX</speaker>.</hstage>
 	<l id="852">Il l’eût fait, si sa main eût été demandée.</l>
 	<l id="853" part="i">Ulysse vient.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="853" part="f">Ulysse ! Ô Dieux trop inhumains,</l>
 	<l id="854">Combien vous vendez cher quelque gloire aux humains !</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Pyrrhus, Phénix, Ulysse.</head>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Pyrrhus, Phénix, Ulysse.</cast>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="855">Polixène, à sa mère à l’instant dérobée,</l>
 	<l id="856">Par mes soins vigilants en nos mains est tombée, Seigneur.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="857" part="i">Hélas ! Phénix !</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="857" part="f">Ces augustes mortels,</l>
 	<l id="858">Ministres consacrés au culte des autels,</l>
 	<l id="859">L’environnent : leurs mains, qui portent nos offrandes</l>
@@ -1329,33 +1329,33 @@
 	<l id="863">Il faut, vous le savez, que votre main l’immole.</l>
 	<l id="864" part="i">Ou n’attend plus que vous.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="864" part="f">J’ai donné ma parole....</l>
 	<l id="865" part="i">Je la tiendrai, Seigneur.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="865" part="f">Je vais la faire entrer.</l>
 	<l id="866">Songez qu’à cette tombe elle doit expirer,</l>
 	<l id="867">Seigneur : n’écoutez plus une pitié funeste,</l>
 	<l id="868">Et d’un sang nécessaire accordez-nous le reste.</l>
 	<l id="869" part="i">Nous osons y compter.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="869" part="f">Il suffit, je l’attends ;</l>
 	<l id="870" part="i">Vous pouvez l’amener.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Pyrrhus, Phénix.</head>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Pyrrhus, Phénix.</cast>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="870" part="f">Eh bien, es-tu content ?</l>
 	<l id="871">Suis-je assez inhumain ?  Suis-je assez sanguinaire ?</l>
 	<l id="872">Ai-je bien fait, Phénix, ce que je devais faire ?</l>
 	<l id="873" part="i">Dieux !</l>
 </sp>
-<sp who="PHÉNIX"><speaker>PHÉNIX.</speaker>
+<sp who="PHÉNIX"><hstage><speaker>PHÉNIX</speaker>.</hstage>
 	<l id="873" part="m">J’étais sûr de vous.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="873" part="f">Moi, je ne le suis pas :</l>
 	<l id="874">Je sens déjà trembler mon courage et mon bras.</l>
 	<l id="875">Ô ciel ! Lorsque amenée à cette horrible fête,</l>
@@ -1365,22 +1365,22 @@
 	<l id="879">Pourrai-je, quel que soit le devoir qui me guide,</l>
 	<l id="880">Laisser tomber sur elle un poignard homicide ?</l>
 </sp>
-<sp who="PHÉNIX"><speaker>PHÉNIX.</speaker>
+<sp who="PHÉNIX"><hstage><speaker>PHÉNIX</speaker>.</hstage>
 	<l id="881">L’honneur vous applaudit, laissez gémir l’amour.</l>
 	<l id="882">Ne voyez que les Grecs, qui vont, dans leur retour.</l>
 	<l id="883">Remplir les vastes mers, du Sigée au Bosphore,</l>
 	<l id="884">Du bruit de ce grand nom que l’univers honore.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="885">Je vais, seul de ces bords, partir sur mes vaisseaux</l>
 	<l id="886">Qui devaient avec moi la porter sur les eaux !</l>
 	<l id="887">Son urne est le seul bien où je pouvais prétendre,</l>
 	<l id="888">Et je ne devais donc emporter que sa cendre !</l>
 </sp>
-<sp who="PHÉNIX"><speaker>PHÉNIX.</speaker>
+<sp who="PHÉNIX"><hstage><speaker>PHÉNIX</speaker>.</hstage>
 	<l id="889">Écartez loin de vous ces pensers douloureux.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="890">C’en est fait, me voilà pour toujours malheureux.</l>
 	<l id="891">Toujours je croirai voir ces bords que je déteste,</l>
 	<l id="892">Ce tombeau, ce poignard, cette pompe funeste,</l>
@@ -1390,11 +1390,11 @@
 	<l id="896">Malheureux ! Tout couvert du sang de ce que j’aime.</l>
 	<l id="897" part="i">Qu’ai-je promis ?</l>
 </sp>
-<sp who="PHÉNIX"><speaker>PHÉNIX.</speaker>
+<sp who="PHÉNIX"><hstage><speaker>PHÉNIX</speaker>.</hstage>
 	<l id="897" part="f">On vient, Seigneur, on vient : pensez</l>
 	<l id="898">Que tous les Grecs sur vous ont leurs regards fixés.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="899">Eh bien ! Dieux du trépas, ô vengeance, ô colère,</l>
 	<l id="900">Affermissez ce bras qui s’arme pour un père.</l>
 	<l id="901">Et toi, grande ombre, au gré de ton cruel courroux,</l>
@@ -1404,8 +1404,8 @@
 	<l id="904">Peut jamais égorger une beauté si rare ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Pyrrhus, Phénix, Polixène, Calchas, Ulysse, Prêtres, Gardes.</head>
-<sp who="CALCHAS"><speaker>CALCHAS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Pyrrhus, Phénix, Polixène, Calchas, Ulysse, Prêtres, Gardes.</cast>
+<sp who="CALCHAS"><hstage><speaker>CALCHAS</speaker>.</hstage>
 	<l id="905">Rois, vainqueurs d’Ilion aux feux abandonné,</l>
 	<l id="906">Fiers vengeurs de l’hymen par Pâris profané,</l>
 	<l id="907">je ne vous trompe point. Polixène est l’offrande</l>
@@ -1416,15 +1416,15 @@
 	<l id="912">Vous donc, jeune Pyrrhus, chargé de le répandre.</l>
 	<l id="913" part="i">Prenez ce fer, frappez.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS, en prenant le fer.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>, en prenant le fer.</hstage>
 	<l id="913" part="f">Tout mon sang s’est glacé,</l>
 	<l id="914">J’ai cru que dans mon sein il l’avait enfoncé.</l>
 </sp>
-<sp who="CALCHAS"><speaker>CALCHAS.</speaker>
+<sp who="CALCHAS"><hstage><speaker>CALCHAS</speaker>.</hstage>
 	<l id="915">Vous, ministres des Dieux, votre victime est prête.</l>
 	<l id="916" part="i">Saisissez Polixène, et vers la tombe....</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="916" part="f">Arrête.</l>
 	<l id="917">Sur la fille des rois ne porte pas la main :</l>
 	<l id="918">Elle-même au couteau va présenter son sein.</l>
@@ -1463,37 +1463,37 @@
 	<l id="951">Je suis prête : Pyrrhus, viens frapper ta victime.</l>
 	<l id="952" part="i">Viens...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="952" part="f">Affermis ma main, ombre qui veux ce crime.</l>
 	<l id="953">Conduis-moi, Phénix.... Non, je ne le pourrai pas.</l>
 </sp>
-<sp who="PHÉNIX"><speaker>PHÉNIX.</speaker>
+<sp who="PHÉNIX"><hstage><speaker>PHÉNIX</speaker>.</hstage>
 	<l id="954" part="i">Seigneur...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="954" part="f">Allons ;... la terre a tremblé sous mes pas ;</l>
 	<l id="955" part="i">Je me meurs.</l>
 </sp>
-<sp who="PHÉNIX"><speaker>PHÉNIX.</speaker>
+<sp who="PHÉNIX"><hstage><speaker>PHÉNIX</speaker>.</hstage>
 	<l id="955" part="f">De ses sens il a perdu l’usage.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="956">Où suis-je ? Mes regards sont couverts d’un nuage.</l>
 	<l id="957">Polixène... Les Grecs... Ô forfaits !... Ô remords !...</l>
 	<l id="958">J’erre, seul et tremblant, sur la rive des morts.</l>
 	<l id="959" part="i">Un poignard !... Ah ! Grands Dieux !</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="959" part="f">Frappe, voilà ma tête.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="960" part="i">C’est vous !... Eh bien !... Il faut...</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="960" part="f">Frappe donc: qui t’arrête ?</l>
 	<l id="961" part="i">Ta main chancelle....</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="961" part="f">Non, non, vous ne mourrez pas.</l>
 	<l id="962">C’en est fait, vos regards ont désarmé mon bras.</l>
 	<l id="963">Un moment a changé mes desseins sanguinaires.</l>
@@ -1514,17 +1514,17 @@
 	<l id="978">Ils te font homme encor, moi, je te fais un dieu.</l>
 	<l id="979">Madame, allons, je vais vous rendre à votre mère.</l>
 </sp>
-<sp who="PHÉNIX"><speaker>PHÉNIX.</speaker>
+<sp who="PHÉNIX"><hstage><speaker>PHÉNIX</speaker>.</hstage>
 	<l id="980">Que faites-vous ? Des Grecs redoutez la colère.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS, tirant son épée.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>, tirant son épée.</hstage>
 	<l id="981">Mes amis, suivez-moi, sans craindre leur courroux.</l>
 	<l id="982">Votre appui, votre roi, Pyrrhus est avec vous.</l>
 <stage>Les soldats de Pyrrhus environnent Polixène, et l’entrainent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Calchs, Ulysse, Les Grecs.</head>
-<sp who="CALCHAS"><speaker>CALCHAS.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Calchs, Ulysse, Les Grecs.</cast>
+<sp who="CALCHAS"><hstage><speaker>CALCHAS</speaker>.</hstage>
 	<l id="983">Lâches Grecs, vous laissez échapper la victime !</l>
 	<l id="984">Vous souffrez que Pyrrhus insolemment opprime,</l>
 	<l id="985">Vous, vos droits, les autels, et brave, sans remords,</l>
@@ -1569,7 +1569,7 @@
 	<l id="1023">Mars ne trahira point la cause la plus juste.</l>
 	<l id="1024" part="i">La victoire est à vous ; venez...</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1024" part="f">Organe auguste</l>
 	<l id="1025">Des célestes secrets, à vos yeux déployés,</l>
 	<l id="1026">Loin de vous ce soupçon que les Grecs effrayés</l>
@@ -1594,7 +1594,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="CALCHAS"><speaker>CALCHAS.</speaker>
+<sp who="CALCHAS"><hstage><speaker>CALCHAS</speaker>.</hstage>
 	<l id="1044">Oui, mais pour consulter la volonté céleste,</l>
 	<l id="1045">Qu’aux autels, dans le camp, l’encens religieux</l>
 	<l id="1046">En un prompt sacrifice interroge les Dieux.</l>
@@ -1607,7 +1607,7 @@
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="1051">Où donc est Polixène, et ces Grecs homicides ?</l>
 <note type="L">Atrides : famille et descendance d’Atrée marquée par le meurtre et le parricide.</note>
 	<l id="1052">J’ai volé sous leur tente, auprès des fiers Atrides ;</l>
@@ -1636,15 +1636,15 @@
 	<l id="1074" part="i">Tigre ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Pyrrhus, Polixène, Hécube, Soldats.</head>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Pyrrhus, Polixène, Hécube, Soldats.</cast>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1074" part="f">Je vous la rends, cessez de vous troubler.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="1075">Vous !... Ma fille !... Épargnez ce cœur qui vous implore :</l>
 	<l id="1076">Me la rendriez-vous pour me l’ôter encore ?</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1077">Non ; tant que je verrai la clarté qui nous luit,</l>
 	<l id="1078">C’est en vain que la Grèce et le sort la poursuit :</l>
 	<l id="1079">De la Grèce et du sort je brave la furie ;</l>
@@ -1662,7 +1662,7 @@
 	<l id="1091">Et vous l’amène, encor la tête couronnée</l>
 	<l id="1092">Des festons dont les Grecs, pour sa mort, l’ont ornée.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="1093">Tombez, voiles de mort, ornements inhumains,</l>
 	<l id="1094">Tombez tous, déchirés par mes tremblantes mains.</l>
 	<l id="1095">Viens, Polixène, viens dans les bras de ta mère.</l>
@@ -1677,32 +1677,32 @@
 	<l id="1102">Pardonnez-lui, Troyens, sous son bras immolés;</l>
 	<l id="1103">Vos rois, dans leur vainqueur, ne trouvent plus qu’un père.</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="1104">Le meurtrier du mien ! Respectez ma misère.</l>
 	<l id="1105">La force, et non le soin d’éviter le trépas,</l>
 	<l id="1106">M’a contrainte à l’affront de marcher sur ses pas.</l>
 	<l id="1107">J’attends ici les Grecs, la mort est mon partage.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="1108">Ah ! Seigneur, excusez cet imprudent langage,</l>
 	<l id="1109">Cet orgueil, pardonnable, hélas ! Aux malheureux,</l>
 	<l id="1110">Reste de la fierté qu’inspire un sang fameux,</l>
 	<l id="1111" part="i">Je crains que vos bontés...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1111" part="f">Votre crainte m’outrage.</l>
 	<l id="1112">Sa fermeté qui flatte en secret mon courage</l>
 	<l id="1113">De mes soins, à mes yeux, la rend plus digne encor,</l>
 	<l id="1114">Et mon sang doit en tout vaincre le sang d’Hector.</l>
 	<l id="1115" part="i">Je ne trahirai point ce qui m’est cher.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="1115" part="f">Ulysse !</l>
 	<l id="1116" part="i">Je crains toujours sa vue.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Pyrrhus, Hécube, Polixène, Ulysse, Soldats.</head> 
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Pyrrhus, Hécube, Polixène, Ulysse, Soldats.</cast> 
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1116" part="f">Un nouveau sacrifice,</l>
 	<l id="1117">Sur vos cruels refus, aux autels couronnés,</l>
 	<l id="1118">Vient d’être offert, Seigneur, par les Grecs consternés</l>
@@ -1714,19 +1714,19 @@
 	<l id="1124">Pour les Grecs et pour vous, j’accours, je les devance,</l>
 	<l id="1125" part="i">Songez...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1125" part="f">Épargnez-vous un stérile entretien :</l>
 	<l id="1126">Quels que soient vos efforts, vous ne gagnerez rien.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1127">Répandrez-vous le sang que vous avez fait vaincre ?</l>
 	<l id="1128">Verserons-nous le vôtre afin de vous convaincre ?</l>
 	<l id="1129">Cédez, cédez aux Grecs, il en est encor temps.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1130">Qu’ils viennent m’attaquer, Seigneur, je les attends.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1131">Toi qui, dans ce tombeau, dois frémir de l’entendre,</l>
 	<l id="1132">Tu vois, ce n’est point nous qui volons à ta cendre</l>
 	<l id="1133">Ces tributs, ces honneurs demandés par tes cris,</l>
@@ -1737,13 +1737,13 @@
 	<l id="1138">Fais marcher la victoire, avec toi, devant nous.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Pyrrhus, Hécube, Polixène, Ulysse, Phénix, Soldats.</head> 
-<sp who="PHÉNIX"><speaker>PHÉNIX.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Pyrrhus, Hécube, Polixène, Ulysse, Phénix, Soldats.</cast> 
+<sp who="PHÉNIX"><hstage><speaker>PHÉNIX</speaker>.</hstage>
 	<l id="1139">Seigneur, les Grecs armés ici se précipitent ;</l>
 	<l id="1140">Agamemnon, Calchas, les guident, les excitent ;</l>
 	<l id="1141">Votre nom remplit l’air, je vole, et mon secours...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1142">Ils le veulent, je vais les combattre, je cours,</l>
 	<l id="1143">Plein de votre intérêt, à qui cède tout autre,</l>
 	<l id="1144">Me venger dans leur sang d’avoir versé le vôtre.</l>
@@ -1753,12 +1753,12 @@
 	<l id="1148">Forcer sa haine enfin d’absoudre ma victoire !</l>
 <stage>Il sort avec Phénix et ses soldats.</stage>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="1149">Ciel ! Où me réduis-tu ! Quelle honte pour moi !</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Polixène, Hécube, Ulysse.</head>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Polixène, Hécube, Ulysse.</cast>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1150">Amour, où conduis-tu le cœur qui suit ta loi ?</l>
 	<l id="1151">Dois-je m’en étonner, près d’Ilion en cendre ?</l>
 	<l id="1152">Mais déjà du combat le bruit se fait entendre.</l>
@@ -1767,8 +1767,8 @@
 	<l id="1155" part="i">Que vois-je ? Vous, Calchas !</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Hécube, Polixène, Ulysse, Calchas.</head>
-<sp who="CALCHAS"><speaker>CALCHAS.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Hécube, Polixène, Ulysse, Calchas.</cast>
+<sp who="CALCHAS"><hstage><speaker>CALCHAS</speaker>.</hstage>
 	<l id="1155" part="f">Nul espoir ne nous reste.</l>
 	<l id="1156">Pyrrhus combat les Grecs dans ce moment funeste.</l>
 	<l id="1157">Il combat et son père, et les Dieux ; le Destin</l>
@@ -1787,20 +1787,20 @@
 	<l id="1170">Dans ce désordre affreux, content de nos efforts,</l>
 	<l id="1171">Acceptera ce sang que Pyrrhus dut répandre.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="1172">Non, cruels, contre vous je saurai le défendre.</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE, en prenant le fer que Calchas tient à sa main et s’en frappant.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>, en prenant le fer que Calchas tient à sa main et s’en frappant.</hstage>
 	<l id="1173" part="i">Donne le fer, je meurs.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="1173" part="m">Dieux !</l>
 </sp>
-<sp who="POLIXÈNE"><speaker>POLIXÈNE.</speaker>
+<sp who="POLIXÈNE"><hstage><speaker>POLIXÈNE</speaker>.</hstage>
 	<l id="1173" part="f">Ne me plaignez pas,</l>
 	<l id="1174">Ma mère, je meurs libre, et je meurs dans vos bras.</l>
 </sp>
-<sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
+<sp who="HÉCUBE"><hstage><speaker>HÉCUBE</speaker>.</hstage>
 	<l id="1175">Hélas ! Mes vains efforts n’ont pu sauver ma fille !</l>
 	<l id="1176">Elle meurt ! De ma triste et nombreuse famille,</l>
 	<l id="1177">Il ne reste plus rien à mon cœur attendri ;</l>
@@ -1832,7 +1832,7 @@
 	<l id="1201">C’en est fait, et j’attends au séjour du trépas</l>
 	<l id="1202">Tous les Grecs, qui bientôt y viendront sur mes pas.</l>
 </sp>
-<sp who="CALCHAS"><speaker>CALCHAS.</speaker>
+<sp who="CALCHAS"><hstage><speaker>CALCHAS</speaker>.</hstage>
 	<l id="1203">Achille est satisfait, et sa tombe est calmée.</l>
 	<l id="1204">J’entends souffler les vents sur la mer ranimée ;</l>
 	<l id="1205">Allons donc à Pyrrhus épargner des forfaits,</l>

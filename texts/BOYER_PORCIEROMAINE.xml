@@ -96,7 +96,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="1">Pourquoi mal à propos, image triste, et noire,</l>
 	<l id="2">Troubles-tu sans respect mon repos, et ma gloire ?</l>
 	<l id="3">César est-ce ton ombre ? et viens-tu dans ces lieux</l>
@@ -120,11 +120,11 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="21" part="i">Maxime, à moi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Maxime, Brute.</head>
-<sp who="MAXIME"><speaker>MAXIME</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Maxime, Brute.</cast>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker></hstage>
 	<l id="21" part="m">Seigneur,</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="21" part="f">Vois cette ombre obstinée.</l>
 	<l id="22">Mais je ne la vois plus, et mon âme étonnée</l>
 	<l id="23">Sent un trouble secret, quand cette ombre s’enfuit.</l>
@@ -144,7 +144,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="37">Vivant dans la franchise, ou mourant avec elle,</l>
 	<l id="38">Décidons promptement cette vieille querelle.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker></hstage>
 	<l id="39">Quoi ? Seigneur maintenant ; quand les Dieux en courroux</l>
 	<l id="40">De la grandeur Romaine ennemis ou jaloux,</l>
 	<l id="41">Vous font voir clairement vos futures disgrâces ;</l>
@@ -154,7 +154,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="45">Ne bravez pas la foudre, alors que les Dieux tonnent :</l>
 	<l id="46">Qui vous peut soutenir, lorsqu’ils vous abandonnent ?</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="47">Ah ! Ne m’entretiens plus d’un si lâche discours ;</l>
 	<l id="48">Que la Terre, et les Dieux me laissent sans secours</l>
 	<l id="49">Qu’ils n’osent me défendre, et soutenir ma chute ;</l>
@@ -172,8 +172,8 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 <stage>Cassie entre.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Cassie, Brute.</head>
-<sp who="CASSIE"><speaker>CASSIE</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Cassie, Brute.</cast>
+<sp who="CASSIE"><hstage><speaker>CASSIE</speaker></hstage>
 	<l id="61">Brute je suis romain, connaissez mieux Cassie :</l>
 	<l id="62">Je crains pour notre Rome, et non pas pour ma vie,</l>
 	<l id="63">Quoi serai-je sans crainte, et sans ébranlement ?</l>
@@ -197,7 +197,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="81">Et j’estime envers Rome, insensible ou sans zèle,</l>
 	<l id="82">Qui prévoit tant de maux, et ne craint rien pour elle.</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="83">Dieux ! S’il faut présumer que tout est arrêté</l>
 	<l id="84">Par l’immuable loi de la fatalité ;</l>
 	<l id="85">Pourquoi nous avertir des maux inévitables,</l>
@@ -214,7 +214,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="96">N’écoutons plus enfin ces Oracles douteux.</l>
 	<l id="97">Consultons seulement Rome, et notre courage.</l>
 </sp>
-<sp who="CASSIE"><speaker>CASSIE</speaker>
+<sp who="CASSIE"><hstage><speaker>CASSIE</speaker></hstage>
 	<l id="98">Brute, Rome pourtant craint l’effet du présage,</l>
 	<l id="99">Vous savez que le ciel par ses ordres cachés</l>
 	<l id="100">Tient à certains moments nos malheurs attachés.</l>
@@ -227,7 +227,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="107">Et respectant la main qui nous a menacés,</l>
 	<l id="108">Faisons rougir les Dieux de s’être courroucés.</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="109">Qu’ils rougissent plutôt de voir périr Octave :</l>
 	<l id="110">De triomphant qu’il est, devenir notre esclave ;</l>
 	<l id="111">Et malgré les dangers, dont ils m’ont averti,</l>
@@ -257,7 +257,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="135">Qu’ils sachent que le coup qui punit les tyrans,</l>
 	<l id="136">Est un coup qui menace, et frappe en même temps.</l>
 </sp>
-<sp who="CASSIE"><speaker>CASSIE</speaker>
+<sp who="CASSIE"><hstage><speaker>CASSIE</speaker></hstage>
 	<l id="137">Brute a donc résolu de forcer mille obstacles.</l>
 	<l id="138">De vaincre les destins, de faire des miracles,</l>
 	<l id="139">D’exposer tout un Monde à la haine des Cieux :</l>
@@ -265,7 +265,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="141">Mais résistera-t-il à l’avis de Cassie ?</l>
 	<l id="142">Brute se souvient-il qu’il hasarde Porcie ?</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="143">Je sens à ce beau nom chanceler ma vertu.</l>
 	<l id="144">Chaste, et divin amour, dont je suis combattu,</l>
 	<l id="145">Toi, de qui je ressens les mortelles atteintes,</l>
@@ -277,10 +277,10 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="151">Qu’il ne l’ose exposer à ces fameux revers,</l>
 	<l id="152">À qui j’ose exposer Rome, et tout l’Univers.</l>
 </sp>
-<sp who="CASSIE"><speaker>CASSIE</speaker>
+<sp who="CASSIE"><hstage><speaker>CASSIE</speaker></hstage>
 	<l id="153" part="i">Vous vous rendez enfin.</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="153" part="f">Oui, je me rends Cassie,</l>
 	<l id="154">Je me rends sans rougir en faveur de Porcie ;</l>
 	<l id="155">Et je fus envers elle ingrat, et sans souci,</l>
@@ -302,8 +302,8 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 <stage>Porcie entre.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Brute, Porcie, Cassie, Julie.</head>
-<sp who="BRUTE"><speaker>BRUTE, à Porcie.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Brute, Porcie, Cassie, Julie.</cast>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker>, à Porcie.</hstage>
 	<l id="171">Enfin nous arrivons à ce funeste jour,</l>
 	<l id="172">Trop différé pour Rome, et peu pour notre amour.</l>
 	<l id="173">L’ennemi s’offre à nous, César est tout en armes ;</l>
@@ -323,7 +323,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="187">N’exposez pas tout, Brute, et que votre pitié</l>
 	<l id="188">Mette enfin à couvert sa plus belle moitié.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="189">Quoi ! Vous me renvoyez ; Brute bannit sa femme ?</l>
 	<l id="190">Et ce cruel divorce est l’effet de sa flamme !</l>
 	<l id="191">M’aime-t-il de la sorte ? Et faut-il aujourd’hui,</l>
@@ -354,7 +354,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="216">Par le cher nom de Brute, et par celui d’époux :</l>
 	<l id="217">Par ces pleurs, par ce cœur, et par cette tendresse...</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE en l’interrompant</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker> en l’interrompant</hstage>
 	<l id="218">Que faites-vous, Madame, épargnez ma faiblesse ;</l>
 	<l id="219">Faites à mon amour une plus juste loi :</l>
 	<l id="220">Usez mieux du pouvoir que vous avez sur moi.</l>
@@ -369,7 +369,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="229">Prêter tout mon esprit aux desseins de ma gloire ?</l>
 	<l id="230">Et m’abandonner tout aux soins de ma victoire ?</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="231">Ici donc ma présence abat un si grand cœur ?</l>
 	<l id="232">Ah ! Plutôt redoublez sa force, et sa valeur.</l>
 	<l id="233">Tirez de ma présence un si noble avantage,</l>
@@ -377,7 +377,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="235">Pour combattre, pour vaincre, et pour vous conserver,</l>
 	<l id="236">Ayant avecque Rome une femme à sauver.</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="237">Il est vrai, je l’avoue, ici votre présence</l>
 	<l id="238">Doit pour votre intérêt soutenir ma constance :</l>
 	<l id="239">Que ne ferai-je point aidé par vos regards ?</l>
@@ -394,7 +394,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="250">Par un char triomphant insolemment traînée.</l>
 	<l id="251" part="i">Ô ! Dieux.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="251" part="f">Me faites-vous un si lâche destin ?</l>
 	<l id="252">Voyez quel fut Caton ; et quelle fut sa fin :</l>
 	<l id="253">Reconnaissez son sang ; et sachez que sa fille</l>
@@ -419,7 +419,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="272">Imiter mon époux, et répondre à tous deux.</l>
 	<l id="273">Reconnaissez Porcie à cet aveu fidèle.</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="274">Plus je la reconnais, et plus je crains pour elle.</l>
 	<l id="275">Cachez-moi des appas, que je n’ose exposer ;</l>
 	<l id="276">Quoique tant de vertu semble m’y disposer,</l>
@@ -432,7 +432,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="283">Et sans considérer alliance ni rang</l>
 	<l id="284">Tirer de mille endroits un déluge de sang.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="285">Je verrai ces horreurs servir à votre gloire,</l>
 	<l id="286">Et ces torrents de sang hâter votre victoire.</l>
 	<l id="287">Ne m’étant pas permis d’aider que par des vœux</l>
@@ -442,7 +442,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="291">Voir briser tous nos fers, voir venger mes parents,</l>
 	<l id="292">Triompher notre Rome, et tomber ses tyrans.</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="293">Ô ! Cœur vraiment romain, et digne de la gloire,</l>
 	<l id="294">Qui de plus grands héros illustre la mémoire.</l>
 	<l id="295">Je ne résiste plus, demeurez, j’y consens :</l>
@@ -468,11 +468,11 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Brute entre d’un côté, et Cassie de l’autre.</head>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Brute entre d’un côté, et Cassie de l’autre.</cast>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="313" part="i">Hé bien, tout est-il prêt.</l>
 </sp>
-<sp who="CASSIE"><speaker>CASSIE</speaker>
+<sp who="CASSIE"><hstage><speaker>CASSIE</speaker></hstage>
 	<l id="313" part="f">Oui, Brute, il faut combattre :</l>
 	<l id="314">Les Soldats, que les Dieux semblent vouloir abattre,</l>
 	<l id="315">Et qu’ils avaient émus par d’injustes frayeurs,</l>
@@ -499,13 +499,13 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="336">Par des cris redoublés s’animent au combat.</l>
 	<l id="337" part="i">On n’attend plus que vous.</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="337" part="f">Allons donc : mais Cassie.</l>
 </sp>
-<sp who="CASSIE"><speaker>CASSIE</speaker>
+<sp who="CASSIE"><hstage><speaker>CASSIE</speaker></hstage>
 	<l id="338" part="i">Quoi ?</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="338" part="f">Je revois toujours l’image de Porcie ;</l>
 	<l id="339">Tu vois que je l’expose, et que malgré mes vœux</l>
 	<l id="340">Rien ne peut ébranler un cœur si généreux,</l>
@@ -514,10 +514,10 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="343">Ce cœur trop chancelant au point d’exécuter</l>
 	<l id="344">N’aurait pas des frayeurs, qu’il ne peut surmonter.</l>
 </sp>
-<sp who="CASSIE"><speaker>CASSIE</speaker>
+<sp who="CASSIE"><hstage><speaker>CASSIE</speaker></hstage>
 	<l id="345" part="i">Qu’avez-vous résolu ?</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="345" part="f">De courir à la gloire,</l>
 	<l id="346">De servir mon amour, sans souiller ma mémoire ;</l>
 	<l id="347">D’aimer toujours Porcie ; et de la conserver,</l>
@@ -532,8 +532,8 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="356">Va, ne sois pas témoin de notre déplaisir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Brute, Porcie, Julie, Maxime.</head>
-<sp who="BRUTE"><speaker>BRUTE à Porcie</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Brute, Porcie, Julie, Maxime.</cast>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker> à Porcie</hstage>
 	<l id="357">Il est temps de partir : souffrez que je vous quitte :</l>
 	<l id="358">On presse le combat, Rome m’y sollicite ;</l>
 	<l id="359">Et la voix du Soldat plein d’un noble courroux,</l>
@@ -573,7 +573,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="393">Soupirez pour ma gloire, ainsi que pour la vôtre ;</l>
 	<l id="394">Enfin soyez Porcie, et ne soyez point autre.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="395">Me méconnaissez-vous sous un voile de pleurs ?</l>
 	<l id="396">Ou bien suis-je changée au milieu des douleurs ?</l>
 	<l id="397">Est-ce là le reproche où mon amour m’expose ?</l>
@@ -615,22 +615,22 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="433">Cet objet trop charmant, qui trouble ma constance,</l>
 	<l id="434">Plus j’en sens les douceurs, plus je crains son absence.</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="435" part="i">Adieu donc, ma Porcie.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="435" part="f">Adieu, souvenez-vous,</l>
 	<l id="436">Que Brute est tout mon bien, que Brute est mon époux :</l>
 	<l id="437">Et si le Ciel, hélas ! par un coup trop funeste...</l>
 	<l id="438">Pardonnez des soupirs qui vous diront le reste.</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="439">Madame espérez mieux, adieu ; Demeure ici</l>
 	<l id="440">Maxime, prends soin d’elle ; et toi Julie aussi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Porcie, Julie.</head>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Porcie, Julie.</cast>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="441">Il est parti, Julie, et je n’ose m’en plaindre</l>
 	<l id="442">Rome me le défend, lorsque j’ai tout à craindre ;</l>
 	<l id="443">Et mon cœur ébranlé, mais qui n’ose faillir,</l>
@@ -700,13 +700,13 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="507">Si donc de ta valeur je m’ose défier,</l>
 	<l id="508">Va, cours, vole au combat pour te justifier.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker></hstage>
 	<l id="509">Ne blâmez point, Madame, un devoir légitime ;</l>
 	<l id="510">Si je suis criminel, Brute a fait tout le crime,</l>
 	<l id="511">Qui pour mieux signaler l’amitié d’un époux</l>
 	<l id="512">M’oblige d’arrêter, et d’être auprès de vous.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="513">Vois, ma chère Julie à quel point Brute m’aime :</l>
 	<l id="514">Il me laisse Maxime, et s’en prive lui-même.</l>
 	<l id="515">Il quitte en ma faveur un si fidèle appui.</l>
@@ -725,10 +725,10 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="528">Pour venir jusqu’à moi doivent passer par lui.</l>
 	<l id="529" part="i">Va.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker></hstage>
 	<l id="529" part="m">Mais que dira-t-il ?</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="529" part="f">Que Maxime est fidèle,</l>
 	<l id="530">Et qu’il a pour Porcie un véritable zèle ;</l>
 	<l id="531">Que si sa tendre amour blâme ce procédé ;</l>
@@ -745,7 +745,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="PORCIE"><speaker>PORCIE, continue.</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker>, continue.</hstage>
 	<l id="541">Je puis donc maintenant avecque confidence</l>
 	<l id="542">T’expliquer mes douleurs, et mon peu de constance :</l>
 	<l id="543">Quelques beaux sentiments que je fasse éclater,</l>
@@ -779,12 +779,12 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="571">Pour un peu de secours que l’on reçoit de vous,</l>
 	<l id="572">Vous nous donnez des pleurs trop indignes de nous.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker></hstage>
 	<l id="573">Vous vous emportez trop à d’inutiles plaintes :</l>
 	<l id="574">Nous-même, non les Dieux, faisons toutes nos craintes.</l>
 	<l id="575">Mais quel est le sujet de ces promptes frayeurs ?</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="576">Ici tous les objets me causent mille horreurs.</l>
 	<l id="577">Ces restes malheureux d’une effroyable armée,</l>
 	<l id="578">Rome dedans ces lieux à demi consommée,</l>
@@ -800,7 +800,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="588">Brute tiendra-t-il ferme où tous deux ont cédé ?</l>
 	<l id="589">Vois par quelles terreurs le ciel me persécute.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker></hstage>
 	<l id="590">Sur ces lâches destins, réglez-vous ceux de Brute ?</l>
 	<l id="591">Et faut-il qu’une fille en cette extrémité</l>
 	<l id="592">Vous fasse des leçons de générosité ?</l>
@@ -833,7 +833,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="619">Ainsi ce qui produit vos agitations,</l>
 	<l id="620">Doit ici soutenir vos résolutions.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="621">Que tes discours, Julie, échauffent mon courage !</l>
 	<l id="622">Oui, je sens tes ardeurs, j’accepte ton présage :</l>
 	<l id="623">Tout m’offre un bon succès, et tout semble augmenter</l>
@@ -850,8 +850,8 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Cassie, Philipe.</head>
-<sp who="CASSIE"><speaker>CASSIE</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Cassie, Philipe.</cast>
+<sp who="CASSIE"><hstage><speaker>CASSIE</speaker></hstage>
 	<l id="633">Désirs impétueux d’une ardeur violente,</l>
 	<l id="634">Transports précipités, douleur impatiente,</l>
 	<l id="635">Ne vous opposez plus à mon dernier devoir :</l>
@@ -862,19 +862,19 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="638">Que fait Porcie. Ô ! Dieux, que lui pourrai-je dire !</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Julie, Cassie, Philipe.</head>
-<sp who="JULIE"><speaker>JULIE</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Julie, Cassie, Philipe.</cast>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker></hstage>
 	<l id="639">Hélas ! Sans m’informer, quels sont les déplaisirs,</l>
 	<l id="640">Qui d’un si grand courage arrachent ces soupirs ;</l>
 	<l id="641" part="i">J’en prévois le sujet.</l>
 </sp>
-<sp who="CASSIE"><speaker>CASSIE</speaker>
+<sp who="CASSIE"><hstage><speaker>CASSIE</speaker></hstage>
 	<l id="641" part="f">Oui, Brute est mort, Julie.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker></hstage>
 	<l id="642" part="i">Dieux !</l>
 </sp>
-<sp who="CASSIE"><speaker>CASSIE</speaker>
+<sp who="CASSIE"><hstage><speaker>CASSIE</speaker></hstage>
 	<l id="642" part="f">Dans un profond deuil mon âme ensevelie,</l>
 	<l id="643">Et ces traits languissants, qui peignent mes douleurs,</l>
 	<l id="644">Te découvrent assez sa perte, et nos malheurs.</l>
@@ -887,7 +887,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="651">M’a-t-elle point surpris d’une fausse terreur ?</l>
 	<l id="652">As-tu vu Brute mort ? N’est-ce point une erreur ?</l>
 </sp>
-<sp who="PHILIPE"><speaker>PHILIPE</speaker>
+<sp who="PHILIPE"><hstage><speaker>PHILIPE</speaker></hstage>
 	<l id="653">Non, Seigneur, je l’ai vu tomber en ma présence</l>
 	<l id="654">Par sa propre valeur, et par sa résistance ;</l>
 	<l id="655">Quand pressé de cent mains sans en être ébranlé,</l>
@@ -898,7 +898,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="660">Le désordre des chefs, la mort des espions,</l>
 	<l id="661">Vous peuvent-ils donner que des sujets de crainte ?</l>
 </sp>
-<sp who="CASSIE"><speaker>CASSIE</speaker>
+<sp who="CASSIE"><hstage><speaker>CASSIE</speaker></hstage>
 	<l id="662">Philipe tes discours justifient ma plainte.</l>
 	<l id="663">Je te vois donc, ami, sans honneurs, sans tombeau,</l>
 	<l id="664">La proie ou le rebut d’un infâme corbeau,</l>
@@ -943,10 +943,10 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="703">Fais que pour l’imiter je succombe aujourd’hui</l>
 	<l id="704">Par mon propre courage, et par la main d’autrui.</l>
 </sp>
-<sp who="PHILIPE"><speaker>PHILIPE</speaker>
+<sp who="PHILIPE"><hstage><speaker>PHILIPE</speaker></hstage>
 	<l id="705" part="i">Quoi ? Seigneur.</l>
 </sp>
-<sp who="CASSIE"><speaker>CASSIE</speaker>
+<sp who="CASSIE"><hstage><speaker>CASSIE</speaker></hstage>
 	<l id="705" part="f">Ne crains point, contente mon envie ;</l>
 	<l id="706">Tranche, tranche le fil d’une fâcheuse vie :</l>
 	<l id="707">Obéis sans réplique, et sans examiner</l>
@@ -962,7 +962,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="717">Ne manque pas de foi, si tu manques de zèle,</l>
 	<l id="718">Et ne sois pas ingrat, si tu n’es pas fidèle.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker></hstage>
 	<l id="719">J’excusais vos douleurs dans leurs premiers efforts ;</l>
 	<l id="720">Mais je n’excuse plus ces violents transports :</l>
 	<l id="721">Est-ce bien ménager une tête si chère ?</l>
@@ -974,7 +974,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="727">Que votre mort, Seigneur, s’accorde à ce devoir :</l>
 	<l id="728">Mourez en vous vengeant, non par le désespoir.</l>
 </sp>
-<sp who="CASSIE"><speaker>CASSIE</speaker>
+<sp who="CASSIE"><hstage><speaker>CASSIE</speaker></hstage>
 	<l id="729">Donc, vous blâmez tous deux un coup si magnanime ?</l>
 	<l id="730">Mon trépas vous fait peur, et passe pour un crime.</l>
 	<l id="731">Vous voulez que je vive alors que Brute est mort ?</l>
@@ -996,8 +996,8 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 <stage>Philipe sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Cassie, Porcie, Julie.</head>
-<sp who="CASSIE"><speaker>CASSIE à Porcie</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Cassie, Porcie, Julie.</cast>
+<sp who="CASSIE"><hstage><speaker>CASSIE</speaker> à Porcie</hstage>
 	<l id="746">Madame , il n’est plus temps qu’un trop lâche silence</l>
 	<l id="747">Vous cache le sujet de mes justes douleurs ;</l>
 	<l id="748">Il est vrai que je crains qu’après tant de malheurs,</l>
@@ -1031,8 +1031,8 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 <stage>Cassie sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Porcie, Julie.</head>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Porcie, Julie.</cast>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="776">Dieux que viens-je d’entendre ! Et que viens-je de voir !</l>
 	<l id="777">N’est-ce point un fantôme, ou n’est-ce point un songe,</l>
 	<l id="778">Qui d’une peur panique a produit ce mensonge !</l>
@@ -1079,43 +1079,43 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="819">Si je meurs aujourd’hui par un illustre effort,</l>
 	<l id="820">La fille de Caton peut choisir cette mort.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker></hstage>
 	<l id="821">Madame, surmontez ces premières alarmes.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="822">Ah ! Ne t’oppose point au torrent de mes larmes :</l>
 	<l id="823">Si tu m’aimes encor, viens mourir avec moi.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker></hstage>
 	<l id="824">Je n’y recule point, mais qu’est-ce que je vois ?</l>
 	<l id="825">C’est Maxime, et son front marque beaucoup de joie.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Porcie, Maxime, Julie.</head>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Porcie, Maxime, Julie.</cast>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="826">Maxime se peut-il qu’encor je te revoie ?</l>
 	<l id="827" part="i">Hé ! bien tout est perdu.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker></hstage>
 	<l id="827" part="f">Dieux, que me dites-vous !</l>
 	<l id="828">Madame, quand le Ciel se déclare pour nous,</l>
 	<l id="829">De grâce, cachez-lui cette ingrate tristesse.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="830">Mais plutôt cachez-moi cette fausse allégresse ;</l>
 	<l id="831">En vain quand je connais l’excès de mon malheur,</l>
 	<l id="832">Tu veux trahir ma gloire, et tromper ma douleur.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker></hstage>
 	<l id="833">Madame, donnez-vous le loisir de m’entendre.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="834">Hé ! je ne sais que trop, ce que tu veux m’apprendre ;</l>
 	<l id="835">Tu me diras enfin après un long discours,</l>
 	<l id="836">Que Brute étant défait a su trancher ses jours ;</l>
 	<l id="837">Qu’il a su mourir libre, et tout couvert de gloire.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker></hstage>
 	<l id="838">Quel charme injurieux vous cache sa victoire ?</l>
 	<l id="839">Ces indignes frayeurs me rendent tout confus :</l>
 	<l id="840">Ouvrez les yeux, Madame, et ne vous trompez plus.</l>
@@ -1180,10 +1180,10 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="899">Son cheval par leur fuite est soudain renversé :</l>
 	<l id="900" part="i">Il tombe...</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="900" part="m">Justes Dieux !</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker></hstage>
 	<l id="900" part="f">Mais sans s’être blessé.</l>
 	<l id="901">Philipe voit sa chute, et sans en voir la suite,</l>
 	<l id="902">Vers le camp de Cassie il se sauve à la fuite.</l>
@@ -1202,14 +1202,14 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="915">Pensant n’avoir rien fait, s’il ne va jusqu’au bout,</l>
 	<l id="916">Ainsi qu’un fier torrent, trouble, et ravage tout.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="917">Ce succès me ravit, et j’ai peine à le croire,</l>
 	<l id="918">Cassie épouvanté revient dans ma mémoire.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker></hstage>
 	<l id="919" part="i">Cassie épouvanté !</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="919" part="f">C’est lui qui fait ma peur ;</l>
 	<l id="920">Oui, c’est lui qui touché d’une fausse terreur,</l>
 	<l id="921">Est venu dans ces lieux portant sur son visage</l>
@@ -1221,13 +1221,13 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="927">Et nous sommes privés d’un si puissant secours,</l>
 	<l id="928">Si le Ciel à lui-même a confié ses jours.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker></hstage>
 	<l id="929">Philipe, c’est l’effet de sa soudaine fuite :</l>
 	<l id="930">De ton zèle imprudent, voilà l’indigne suite.</l>
 	<l id="931">Ô ! Ciel si tes frayeurs causent ce désespoir,</l>
 	<l id="932">Quel Dieu peut empêcher, ce que j’ose prévoir ?</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="933">Maxime, va savoir s’il a cessé de vivre :</l>
 	<l id="934">À quelque désespoir, où sa douleur le livre ;</l>
 	<l id="935">Un avis favorable, ou quelque meilleur sort,</l>
@@ -1249,8 +1249,8 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Philipe, Porcie.</head>
-<sp who="PHILIPE"><speaker>PHILIPE</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Philipe, Porcie.</cast>
+<sp who="PHILIPE"><hstage><speaker>PHILIPE</speaker></hstage>
 	<l id="949">Non, je n’excuse point cette honteuse fuite,</l>
 	<l id="950">Et je dois à jamais en déplorer la suite :</l>
 	<l id="951">Si je fus imprudent, au moins j’aurai le cœur</l>
@@ -1259,10 +1259,10 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="954">Mais son commandement jaloux de votre vie,</l>
 	<l id="955">A suspendu le coup d’un juste désespoir.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="956" part="i">Comment, apprends-moi tout.</l>
 </sp>
-<sp who="PHILIPE"><speaker>PHILIPE</speaker>
+<sp who="PHILIPE"><hstage><speaker>PHILIPE</speaker></hstage>
 	<l id="956" part="f">Vous allez tout savoir.</l>
 	<l id="957">Voyant Brute abattu, je courus vers mon Maître,</l>
 	<l id="958">Mon zèle impétueux voulut soudain paraître :</l>
@@ -1275,10 +1275,10 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="965">Il perd à même temps l’espoir de sa victoire,</l>
 	<l id="966">Et cède à la douleur tout le soin de sa gloire.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="967">Que devint donc Cassie après ce grand malheur ?</l>
 </sp>
-<sp who="PHILIPE"><speaker>PHILIPE</speaker>
+<sp who="PHILIPE"><hstage><speaker>PHILIPE</speaker></hstage>
 	<l id="968">Il vint vous l’annoncer, vous vîtes sa douleur.</l>
 	<l id="969">Enfin cherchant partout quelque main favorable,</l>
 	<l id="970">Qui borna par sa mort un deuil inconsolable,</l>
@@ -1341,7 +1341,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="1027">Vous, qui par tant de maux, par tant de sang perdu</l>
 	<l id="1028">Nous faites disputer un bien qui nous est dû,</l>
 	<l id="1029">Grands Dieux, la liberté que Rome vous demande,</l>
@@ -1374,12 +1374,12 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1056">Le comble souverain de nos félicités.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Julie, Porcie.</head>
-<sp who="JULIE"><speaker>JULIE</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Julie, Porcie.</cast>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker></hstage>
 	<l id="1057">Madame, Brute arrive, on vient de me l’apprendre ?</l>
 	<l id="1058" part="i">Il est proche d’ici.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="1058" part="f">Dieux ! Que viens-je d’entendre !</l>
 	<l id="1059">Ciel ! Qui dans un moment m’accables de faveurs,</l>
 	<l id="1060">Que nos maux sont petits au prix de nos bonheurs !</l>
@@ -1387,18 +1387,18 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1062">Traverser mon repos, et déchirer ma gloire ?</l>
 	<l id="1063" part="i">Julie hélas !</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker></hstage>
 	<l id="1063" part="m">Madame.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="1063" part="f">Ô ! Dieux, ce prompt retour</l>
 	<l id="1064">Me défend tant de joie, et trouble mon amour.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker></hstage>
 	<l id="1065">Votre amour s’affligeant de ce bonheur extrême</l>
 	<l id="1066">Semble prendre plaisir à se tromper soi-même.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="1067">Cent pensers différents, comme un amas des flots</l>
 	<l id="1068">Viennent soudainement accabler mon repos ;</l>
 	<l id="1069">Je connais la fortune, et ses vicissitudes</l>
@@ -1413,15 +1413,15 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1078">Jouissons du bonheur que le Ciel nous envoie :</l>
 	<l id="1079">Allons, allons Julie, au-devant du vainqueur.</l>
 </sp>
-<sp who="JULIE"><speaker>JULIE</speaker>
+<sp who="JULIE"><hstage><speaker>JULIE</speaker></hstage>
 	<l id="1080" part="i">Je l’aperçois, Madame.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="1080" part="f">Ô ! Transports, ah Seigneur !</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Brute, Porcie, Julie.</head>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Brute, Porcie, Julie.</cast>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="1081">Madame, où courrez-vous, fuyez, un misérable,</l>
 	<l id="1082">Fuyez, fuyez ma honte, et le sort qui m’accable.</l>
 	<l id="1083">C’en est fait, et je vois tout à coup renversé</l>
@@ -1430,10 +1430,10 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1086">Et le Ciel par sa mort a rempli ses menaces,</l>
 	<l id="1087" part="i">Enfin César triomphe.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="1087" part="f">Ô sort trop rigoureux.</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="1088">Hélas votre douleur me rend plus malheureux :</l>
 	<l id="1089">Par l’excès de l’ennui qui vous rend abattue,</l>
 	<l id="1090">César se peut vanter de vous avoir vaincue :</l>
@@ -1456,7 +1456,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1107">Il ne sera jamais sous le pouvoir d’autrui,</l>
 	<l id="1108">Et tout vaincu qu’il est, Brute dépend de lui.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="1109">Je ne feins point, Seigneur, de répandre des larmes,</l>
 	<l id="1110">Puisque mon seul malheur fait celui de vos armes.</l>
 	<l id="1111">Toujours quelque disgrâce a suivi ma maison :</l>
@@ -1480,7 +1480,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1129">Et bravant des vainqueurs, la fortune et la gloire,</l>
 	<l id="1130">Par l’éclat de ma mort effacer leur victoire.</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="1131">Hélas ! votre vertu dans ce pressant malheur</l>
 	<l id="1132">Ne m’afflige pas moins qu’a fait votre douleur.</l>
 	<l id="1133">Je vois dans l’un et l’autre une pareille envie ;</l>
@@ -1508,7 +1508,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1155">Et retraçant sur vous tant de traits de valeur,</l>
 	<l id="1156">Peignez dans votre mort la gloire de la leur.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="1157">Seigneur, tant de raisons appuient ma constance,</l>
 	<l id="1158">Qu’elle aura moins de gloire, ayant trop d’assurance.</l>
 	<l id="1159">Il suffit de savoir que je meurs avec vous :</l>
@@ -1528,7 +1528,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1173">Que je sois par un coup, et noble et légitime,</l>
 	<l id="1174">Des Destins irrités la dernière victime.</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="1175">C’est trop, c’est trop, Madame, en l’état où je suis,</l>
 	<l id="1176">Me pressez-vous de vivre au milieu des ennuis.</l>
 	<l id="1177">Brute vivra sans gloire, et tout couvert de honte ?</l>
@@ -1560,7 +1560,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1203">Aidez à renverser avec vos propres mains</l>
 	<l id="1204">Le joug, dont trois tyrans accablent les Romains.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="1205">Moi ! moi ! que j’aille à Rome, à Rome l’infidèle,</l>
 	<l id="1206">Qui fait si peu pour vous, qui fîtes tant pour elle ;</l>
 	<l id="1207">À Rome, qui se plaît à nous voir succomber ;</l>
@@ -1583,7 +1583,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1224">Que l’éclatant honneur de mourir avec vous.</l>
 	<l id="1225" part="i">Consentez à ma mort...</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="1225" part="f">Hé ! bien mourons, Madame.</l>
 	<l id="1226">Enfin votre devoir triomphe de ma flamme :</l>
 	<l id="1227">Votre gloire le veut, il y faut consentir :</l>
@@ -1602,18 +1602,18 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1240">Voir passer dans ce corps les horreurs de la mort ?</l>
 	<l id="1241" part="i">Ah ! Madame.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="1241" part="f">Ah ! Seigneur, épargnez ma faiblesse ;</l>
 	<l id="1242">Consommons maintenant cette indigne tendresse.</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="1243">Vous voulez donc mourir, mais quel fer, quelle main</l>
 	<l id="1244">Osera traverser cet adorable sein ?</l>
 	<l id="1245">Ô ! Dieux. Que veut Maxime, et qu’a-t-il à nous dire ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Maxime, Brute, Porcie, Julie.</head>
-<sp who="MAXIME"><speaker>MAXIME</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Maxime, Brute, Porcie, Julie.</cast>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker></hstage>
 	<l id="1246">Après tant de malheurs vous tomber dans un pire ;</l>
 	<l id="1247">J’ai par votre ordre en vain rallié nos soldats,</l>
 	<l id="1248">Pour amuser Octave, et retarder ses pas ;</l>
@@ -1623,7 +1623,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1252">Et semble à ce seul but borner tout son courroux :</l>
 	<l id="1253" part="i">Enfin vous êtes pris, Seigneur.</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="1253" part="f">Voici Maxime.</l>
 	<l id="1254">De quoi braver Octave, et sauver notre estime.</l>
 	<l id="1255">Mais avant que mourir prévenons son dessein,</l>
@@ -1638,10 +1638,10 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1262">Vous restes généreux de nos troupes timides,</l>
 	<l id="1263">Venez sur nos tyrans porter vos derniers coups.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="1264">Quoi, pour un vain effort m’abandonnerez-vous ?</l>
 </sp>
-<sp who="BRUTE"><speaker>BRUTE</speaker>
+<sp who="BRUTE"><hstage><speaker>BRUTE</speaker></hstage>
 	<l id="1265">Dois-je pas tenter tout par un effort suprême,</l>
 	<l id="1266">Pour servir notre Rome, et sauver ce que j’aime ?</l>
 	<l id="1267">Nos efforts seront vains, mais notre désespoir</l>
@@ -1649,7 +1649,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="1269">Prépare-toi mon âme à la dernière foudre :</l>
 	<l id="1270">Notre destin s’achève, il est temps de résoudre.</l>
 	<l id="1271">Ménageons comme il faut ce précieux moment,</l>
@@ -1670,8 +1670,8 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Octave et sa suite, Valère.</head>
-<sp who="OCTAVE"><speaker>OCTAVE</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Octave et sa suite, Valère.</cast>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker></hstage>
 	<l id="1285">Hé ! bien qu’est devenu ce lâche parricide,</l>
 	<l id="1286">Que tant de trahisons ont rendu si timide ?</l>
 	<l id="1287">Il se cache le traître, et ce faible mutin</l>
@@ -1682,7 +1682,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1292">Et ne se sert contre eux, que de l’assassinat.</l>
 	<l id="1293">Mais peut-il maintenant rencontrer quelque asile ?</l>
 </sp>
-<sp who="VALERE"><speaker>VALÈRE</speaker>
+<sp who="VALERE"><hstage><speaker>VALÈRE</speaker></hstage>
 	<l id="1294">Seigneur, il est perdu, sa fuite est inutile.</l>
 	<l id="1295">Après l’avoir réduit dans cet appartement,</l>
 	<l id="1296">Pour remplir aussitôt votre commandement ;</l>
@@ -1700,23 +1700,23 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1308">Elle fait pour le suivre un généreux effort.</l>
 	<l id="1309">Je préviens son dessein, mais je vois qu’on l’emmène.</l>
 </sp>
-<sp who="OCTAVE"><speaker>OCTAVE</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker></hstage>
 	<l id="1310">Va t’en remplir mon ordre, et me tirer de peine ;</l>
 	<l id="1311" part="i">Qu’on le cherche partout.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Porcie, Octave.</head>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Porcie, Octave.</cast>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="1311" part="f">Ah ! Laissez-moi mourir</l>
 	<l id="1312">Bourreaux, qui me perdez, loin de me secourir.</l>
 	<l id="1313">Cruels, mon Brute, est mort, et je le dois survivre !</l>
 </sp>
-<sp who="OCTAVE"><speaker>OCTAVE</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker></hstage>
 	<l id="1314">Quoi, Madame, osez-vous soumettre ce grand cœur</l>
 	<l id="1315">Aux désordres honteux d’une extrême douleur.</l>
 	<l id="1316">La fille de Caton a si peu de constance ?</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="1317">Tu n’élèves, cruel, l’éclat de ma naissance ;</l>
 	<l id="1318">Tu ne me viens flatter de cette vanité,</l>
 	<l id="1319">Que pour croître ma honte, et ton indignité.</l>
@@ -1746,14 +1746,14 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1343">Monte par mille horreurs au trône des tyrans.</l>
 	<l id="1344" part="i">Lui...</l>
 </sp>
-<sp who="OCTAVE"><speaker>OCTAVE</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker></hstage>
 	<l id="1344" part="f">C’est trop, et c’est mal implorer ma clémence,</l>
 	<l id="1345">Enfin tant de mépris lassent ma patience :</l>
 	<l id="1346">Honorez ma fortune, et bénissez les Dieux,</l>
 	<l id="1347">De vous donnez pour Maître un vainqueur glorieux,</l>
 	<l id="1348">Qui n’abusa jamais des droits de sa victoire.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="1349">Tu t’en sers toutefois, pour offenser ma gloire,</l>
 	<l id="1350">Et tu t’oses servir d’un injuste pouvoir,</l>
 	<l id="1351">Pour empêcher ma mort, et forcer mon devoir.</l>
@@ -1763,12 +1763,12 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1355">Ils relèvent nos cœurs, s’ils abaissent nos mains,</l>
 	<l id="1356">Et Rome ne sent point la honte du servage.</l>
 </sp>
-<sp who="OCTAVE"><speaker>OCTAVE</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker></hstage>
 	<l id="1357">Non, Madame, car Rome aime son esclavage :</l>
 	<l id="1358">Et ce pouvoir, que trois ont droit de partager,</l>
 	<l id="1359">Lui fait aimer son joug, et le rend plus léger.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="1360">Qu’un tyran connaît mal les sentiments de Rome !</l>
 	<l id="1361">Celle, qui gémissait sous le pouvoir d’un homme,</l>
 	<l id="1362">Souffrirait aujourd’hui votre triumvirat ?</l>
@@ -1791,7 +1791,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1378">Et qu’après tant de maux Rome n’a subsisté</l>
 	<l id="1379">Qu’autant qu’un vrai Romain soutint sa liberté.</l>
 </sp>
-<sp who="OCTAVE"><speaker>OCTAVE</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker></hstage>
 	<l id="1380">Malgré ces tristes vœux, malgré ce vain présage.</l>
 	<l id="1381">Rome, et tous les Romains verront votre esclavage,</l>
 	<l id="1382">Et je ferai paraître aux yeux de l’Univers</l>
@@ -1801,7 +1801,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1386">Tout Caton paraîtra dessous cette fierté ;</l>
 	<l id="1387">Et ma gloire en croîtra de le voir surmonté.</l>
 </sp>
-<sp who="PORCIE"><speaker>PORCIE</speaker>
+<sp who="PORCIE"><hstage><speaker>PORCIE</speaker></hstage>
 	<l id="1388">Cruel, Rome, dis-tu, verra mon esclavage !</l>
 	<l id="1389">Mon cœur peux-tu souffrir un si sensible outrage ?</l>
 	<l id="1390">Préviens en expirant cet horrible malheur :</l>
@@ -1852,7 +1852,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1435">Par des sanglants efforts venge sa liberté.</l>
 	<l id="1436">Accepte et crains toujours ce présage funeste.</l>
 </sp>
-<sp who="OCTAVE"><speaker>OCTAVE</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker></hstage>
 	<l id="1437">Allez vomir ailleurs le poison qui vous reste,</l>
 	<l id="1438">Superbe ; allez ailleurs plaindre votre malheur.</l>
 	<l id="1439">Et mourrez, s’il se peut, de rage et de douleur.</l>
@@ -1860,7 +1860,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="OCTAVE"><speaker>OCTAVE, continue.</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker>, continue.</hstage>
 	<l id="1440">Mais plutôt qu’elle vive en faveur de ma gloire :</l>
 	<l id="1441">Jouissons pleinement du fruit de ma victoire.</l>
 	<l id="1442">Qu’une illustre pitié la sauve du trépas.</l>
@@ -1868,14 +1868,14 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1444" part="i">Mais d’où vient ce grand bruit.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Tite, Maxime, Octave.</head>
-<sp who="TITE"><speaker>TITE</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Tite, Maxime, Octave.</cast>
+<sp who="TITE"><hstage><speaker>TITE</speaker></hstage>
 	<l id="1444" part="f">Seigneur, voici Maxime,</l>
 	<l id="1445">Que notre vigilance a surpris dans son crime,</l>
 	<l id="1446">Et qui s’ose vanter du tragique dessein</l>
 	<l id="1447">Qu’un exécrable zèle avait mis dans son sein.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker></hstage>
 	<l id="1448">J’avouerai hardiment une action si belle ;</l>
 	<l id="1449">Je ne trahirai point la gloire de mon zèle.</l>
 	<l id="1450">Oui, Porcie eut péri si l’on ne m’eut surpris,</l>
@@ -1924,7 +1924,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1493">Et si tu te résous de finir nos malheurs,</l>
 	<l id="1494">Écoute ta vertu plutôt que nos douleurs.</l>
 </sp>
-<sp who="OCTAVE"><speaker>OCTAVE</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker></hstage>
 	<l id="1495">Maxime je me rends, l’orgueil de ma victoire</l>
 	<l id="1496">M’a longtemps ébloui par une fausse gloire.</l>
 	<l id="1497">Ton discours rappelant ma générosité</l>
@@ -1942,39 +1942,39 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1509">Et l’on apaise moins une Divinité</l>
 	<l id="1510">Par un sang criminel, que par l’humilité.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker></hstage>
 	<l id="1511">Seigneur, je connais Brute, et sa vertu sévère</l>
 	<l id="1512">Lui défend de souffrir un destin si contraire :</l>
 	<l id="1513">Il en rompras le cours, et ce cœur indompté</l>
 	<l id="1514">Préviendra par sa mort l’effet de ta bonté.</l>
 </sp>
-<sp who="OCTAVE"><speaker>OCTAVE</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker></hstage>
 	<l id="1515">Cependant il s’enfuit, et n’oserait paraître.</l>
 </sp>
-<sp who="MAXIME"><speaker>MAXIME</speaker>
+<sp who="MAXIME"><hstage><speaker>MAXIME</speaker></hstage>
 	<l id="1516">N’offense pas, Seigneur, la gloire de mon Maître :</l>
 	<l id="1517">Il fuit pour mourir libre, et par un noble effort</l>
 	<l id="1518">Goûter avec loisir, le plaisir de la mort.</l>
 	<l id="1519">Voilà, voilà Seigneur, le sujet de sa fuite.</l>
 </sp>
-<sp who="OCTAVE"><speaker>OCTAVE</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker></hstage>
 	<l id="1520">Dans l’état où je vois sa fortune réduite,</l>
 	<l id="1521">Il faut, il faut enfin, qu’il tombe dans nos mains,</l>
 	<l id="1522">Et pour s’en garantir tous ses efforts sont vains.</l>
 	<l id="1523" part="i">Mais Valère revient.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE DERNIÈRE. Valère, Octave.</head>
-<sp who="VALERE"><speaker>VALÈRE</speaker>
+<div2 type="scene" n="5"><head>SCÈNE DERNIÈRE.</head><cast>Valère, Octave.</cast>
+<sp who="VALERE"><hstage><speaker>VALÈRE</speaker></hstage>
 	<l id="1523" part="f">Seigneur Brute et sa femme</l>
 	<l id="1524">Sont morts, l’un par le fer, et l’autre par la flamme.</l>
 </sp>
-<sp who="OCTAVE"><speaker>OCTAVE</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker></hstage>
 	<l id="1525">Ô ! Ciel tout mon triomphe a péri par leur mort :</l>
 	<l id="1526">Mais Valère apprends-moi par quel bras, par quel sort</l>
 	<l id="1527">Ils ont trahi vos soins, et trompé ma clémence.</l>
 </sp>
-<sp who="VALERE"><speaker>VALÈRE</speaker>
+<sp who="VALERE"><hstage><speaker>VALÈRE</speaker></hstage>
 	<l id="1528">Seigneur, leur désespoir a déçu ma prudence.</l>
 	<l id="1529">Ayant rencontré Brute, et voyant nos soldats,</l>
 	<l id="1530">Qui le suivent de près, et ne l’épargnent pas,</l>
@@ -2011,13 +2011,13 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1561">Ah ! Rigueur, à ces mots poussant un grand soupir,</l>
 	<l id="1562">Elle semble expirer à faute de mourir.</l>
 </sp>
-<sp who="OCTAVE"><speaker>OCTAVE</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker></hstage>
 	<l id="1563">Ô ! Dieux que la pitié sensiblement me blesse ;</l>
 	<l id="1564">Je souffre ses douleurs, je ressens sa faiblesse.</l>
 	<l id="1565">Compte-moi promptement la fin de son malheur,</l>
 	<l id="1566">Et par un court récit abrège ma douleur.</l>
 </sp>
-<sp who="VALERE"><speaker>VALÈRE</speaker>
+<sp who="VALERE"><hstage><speaker>VALÈRE</speaker></hstage>
 	<l id="1567">Elle se lève enfin, et sans paraître émue,</l>
 	<l id="1568">Elle approche un grand feu qui s’offrait à sa vue,</l>
 	<l id="1569">Et passant tout d’un coup dans un grand désespoir,</l>
@@ -2033,7 +2033,7 @@ MADAME, Votre très humble, et très obéissant serviteur.</p>
 	<l id="1579">Cette chaleur l’étouffe, et sa bouche allumée</l>
 	<l id="1580">Pousse avec sa belle âme un globe de fumée.</l>
 </sp>
-<sp who="OCTAVE"><speaker>OCTAVE</speaker>
+<sp who="OCTAVE"><hstage><speaker>OCTAVE</speaker></hstage>
 	<l id="1581">Ô ! Miracle inouï de générosité.</l>
 	<l id="1582">Triste effet de ma haine, et de ma cruauté !</l>
 	<l id="1583">Fallait-il que le sort la rendit mon esclave,</l>

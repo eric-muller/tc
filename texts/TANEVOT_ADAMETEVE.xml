@@ -127,12 +127,12 @@
 			<castItem><role id="LA-VOIX-DE-DIEU" civil="D" type="H" statut="dieu" age="A" stat_amour="néant">LA VOIX DE DIEU</role>.</castItem>
 			
 			</castList>
-<set location="Lieu biblique" country="Pays biblique" periode="Temps bibliques" link=""/>
+<set location="Lieu biblique" country="Pays biblique" periode="Temps bibliques" link=""></set>
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="SATAN"><speaker>SATAN.</speaker>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>.</hstage>
 	<l id="1">Astre majestueux, flambeau de l’Univers,</l>
 	<l id="2">Qui, sur un trône d’or, parais le Dieu des airs ;</l>
 	<l id="3">Vainqueur des feux brillants que la nuit fait éclore ;</l>
@@ -207,8 +207,8 @@
 	<l id="70">Les Enfers n’offrent point de héros tels que lui.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Satan, Moloch.</head>
-<sp who="SATAN"><speaker>SATAN.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Satan, Moloch.</cast>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>.</hstage>
 	<l id="71">Voilà donc, cher Moloch, ces Cieux et cette Terre,</l>
 	<l id="72">Où nous devons encor défier le Tonnerre,</l>
 	<l id="73">De notre ambition inévitable écueil,</l>
@@ -239,7 +239,7 @@
 	<l id="97">De l’Éternel sur moi je vois les châtiments,</l>
 	<l id="98">Croître, et se mesurer sur ses ressentiments.</l>
 </sp>
-<sp who="MOLOCH"><speaker>MOLOCH.</speaker>
+<sp who="MOLOCH"><hstage><speaker>MOLOCH</speaker>.</hstage>
 	<l id="99">Qu’entends-je ? De Satan est-ce là le langage ?</l>
 	<l id="100">Et qu’est donc devenu son superbe courage ?</l>
 	<l id="101">Après tous les périls qu’il osa surmonter,</l>
@@ -313,14 +313,14 @@
 	<l id="165">C’est en sortant d’ici que nous romprons nos fers.</l>
 	<l id="166">L’Espérance est partout, hormis dans les Enfers.</l>
 </sp>
-<sp who="SATAN"><speaker>SATAN.</speaker>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>.</hstage>
 	<l id="167">L’Espérance, Moloch, peut-elle dans notre âme</l>
 	<l id="168">Joindre son feu céleste à l’infernale flamme ?</l>
 	<l id="169">Quel lieu n’est pas pour nous un séjour plein d’horreur ?</l>
 	<l id="170">Toutefois ton discours flatte encor ma fureur,</l>
 	<l id="171" part="i">Poursuis.</l>
 </sp>
-<sp who="MOLOCH"><speaker>MOLOCH.</speaker>
+<sp who="MOLOCH"><hstage><speaker>MOLOCH</speaker>.</hstage>
 	<l id="171" part="f">Ce Chérubin parle, menace, tonne ;</l>
 	<l id="172">Le Conseil applaudit, mais l’entreprise étonne ;</l>
 	<l id="173">Comment l’exécuter ? Comment pouvoir sortir</l>
@@ -356,7 +356,7 @@
 	<l id="201">Au moment de jouir du fruit de ses combats,</l>
 	<l id="202">Satan pourrait-il bien retourner sur ses pas ?</l>
 </sp>
-<sp who="SATAN"><speaker>SATAN.</speaker>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>.</hstage>
 	<l id="203">Moi, Moloch me souiller d’une telle faiblesse !</l>
 	<l id="204">De grâce, connais mieux ma fureur vengeresse.</l>
 	<l id="205">Quels que soient tes transports, mon âme en ressent plus,</l>
@@ -406,8 +406,8 @@
 	<l id="248">Évitons, cher Moloch, sa rencontre funeste.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Gabriel, Uriel, Les Anges Gardiens du Paradis Terrestre.</head>
-<sp who="URIEL"><speaker>URIEL.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Gabriel, Uriel, Les Anges Gardiens du Paradis Terrestre.</cast>
+<sp who="URIEL"><hstage><speaker>URIEL</speaker>.</hstage>
 	<l id="249">Archange Gabriel, choisi par le Seigneur</l>
 	<l id="250">Pour conserver ici la paix et le bonheur,</l>
 	<l id="251">Je ne sais quel Esprit, trop suspect de mystère,</l>
@@ -431,7 +431,7 @@
 	<l id="269">Je l’ai craint, j’ai frémi, et ce cruel effroi,</l>
 	<l id="270">Du séjour lumineux, m’a conduit jusqu’à toi.</l>
 </sp>
-<sp who="GABRIEL"><speaker>GABRIEL.</speaker>
+<sp who="GABRIEL"><hstage><speaker>GABRIEL</speaker>.</hstage>
 <note type="L">Gabriel : (force de Dieu) Archange.</note>
 	<l id="271">Dans le globe brillant qui fait ta résidence,</l>
 	<l id="272">Rien ne peut, Uriel, tromper ta vigilance.</l>
@@ -493,7 +493,7 @@
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="SATAN"><speaker>SATAN.</speaker>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>.</hstage>
 	<l id="325">J’ai peine à te saisir, ô fortuné moment,</l>
 	<l id="326">Qui dois faire éclater mon fier ressentiment !</l>
 	<l id="327">Je visite ces lieux offerts à ma vengeance,</l>
@@ -513,7 +513,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE  II.</head>
-<sp who="ADAM"><speaker>ADAM, seul.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>, seul.</hstage>
 	<l id="341">Ma chère Eve est encor dans les bras du sommeil,</l>
 	<l id="342">Messagers de l’aurore, annoncez son réveil,</l>
 	<l id="343">Que vos tendres concerts, du sein de la Nature,</l>
@@ -534,8 +534,8 @@
 	<l id="358">Astre qui l’éclairez, vous ne l’égalez pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Adam, Eve.</head>
-<sp who="EVE"><speaker>EVE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Adam, Eve.</cast>
+<sp who="EVE"><hstage><speaker>EVE.</speaker></hstage>
 	<l id="359">Toi qui ne peux jamais sortir de ma mémoire,</l>
 	<l id="360">Modèle de ma vie, et source de ma gloire,</l>
 	<l id="361">Adam, que ta présence et ces vives clartés</l>
@@ -603,7 +603,7 @@
 	<l id="423">Le trône fuit sous moi. Je m’élance, troublée</l>
 	<l id="424">Et m’éveille, en tombant de la voûte étoilée.</l>
 </sp>
-<sp who="ADAM"><speaker>ADAM.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>.</hstage>
 	<l id="425">Chaste fille du Ciel, compte sur sa bonté ;</l>
 	<l id="426">Ce songe sert d’épreuve à ta fidélité.</l>
 	<l id="427">Pour nous combler de biens, déployant sa puissance,</l>
@@ -627,7 +627,7 @@
 	<l id="445">Lorsque versant ses pleurs sur la rose et le thym,</l>
 	<l id="446">Elle ouvre dans les cieux les portes du matin.</l>
 </sp>
-<sp who="EVE"><speaker>EVE.</speaker>
+<sp who="EVE"><hstage><speaker>EVE.</speaker></hstage>
 	<l id="447">Ta voix et tes discours, comme des traits de flamme,</l>
 	<l id="448">Pénètrent, cher Adam, jusqu’au fond de mon âme ;</l>
 	<l id="449">Tu dissipes mon trouble ; et l’astre qui nous luit,</l>
@@ -683,7 +683,7 @@
 	<l id="499">Avec tendresse alors ta main saisit la mienne,</l>
 	<l id="500">Et fixa pour jamais ma démarche incertaine.</l>
 </sp>
-<sp who="ADAM"><speaker>ADAM.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>.</hstage>
 	<l id="501">Je te rends grâce, ô Ciel, de m’avoir accordé</l>
 	<l id="502">Le seul de tes bienfaits que je t’ai demandé.</l>
 	<l id="503">Oui, chère Eve, mes vœux ont hâté ta naissance,</l>
@@ -754,7 +754,7 @@
 	<l id="567">Allons, chère Eve, allons tous deux d’intelligence.</l>
 	<l id="568">Accroître les beautés de notre résidence.</l>
 </sp>
-<sp who="EVE"><speaker>EVE.</speaker>
+<sp who="EVE"><hstage><speaker>EVE.</speaker></hstage>
 	<l id="569">Commande, cher époux, je ne fais qu’obéir;</l>
 	<l id="570">Ce qui te plaît, ton Eve eût voulu le choisir.</l>
 	<l id="571">Le Seigneur est ta loi, je reconnois la tienne :</l>
@@ -769,13 +769,13 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="SATAN"><speaker>SATAN.</speaker>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>.</hstage>
 	<l id="579">Aux yeux de Gabriel je ne puis me soustraire,</l>
 	<l id="580">Il vole sur mes pas, bravons cet adversaire.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Gabriel, Satan.</head>
-<sp who="GABRIEL"><speaker>GABRIEL.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Gabriel, Satan.</cast>
+<sp who="GABRIEL"><hstage><speaker>GABRIEL</speaker>.</hstage>
 	<l id="581">Traître, te voilà donc ! Eh comment oses-tu</l>
 	<l id="582">Paraître dans des lieux qu’habite la Vertu ?</l>
 	<l id="583">Téméraire ! Pourquoi viens-tu, par ta présence,</l>
@@ -787,7 +787,7 @@
 	<l id="589">Qu’es-tu, pour t’affranchir de ta noire prison ?</l>
 	<l id="590">Parle, dans les Enfers, quel est ton rang, ton nom ?</l>
 </sp>
-<sp who="SATAN"><speaker>SATAN.</speaker>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>.</hstage>
 	<l id="591">Mon rang ne l’a cédé qu’à celui de ton Maître :</l>
 	<l id="592">Mon éclat, près du tien, le faisait disparaître.</l>
 	<l id="593">Nous différons toujours : je commande, tu sers ;</l>
@@ -795,7 +795,7 @@
 	<l id="595">Reconnais donc Satan, ce terrible adversaire,</l>
 	<l id="596">Qui fit trembler ton Dieu jusqu’en son sanctuaire.</l>
 </sp>
-<sp who="GABRIEL"><speaker>GABRIEL.</speaker>
+<sp who="GABRIEL"><hstage><speaker>GABRIEL</speaker>.</hstage>
 	<l id="597">Quoi ! Le foudre brûlant qui te perça le sein,</l>
 	<l id="598">À ton impiété n’a donc point mis de frein ?</l>
 	<l id="599">Tu blasphèmes un Dieu redoutable, invincible,</l>
@@ -807,7 +807,7 @@
 	<l id="605">Le feu désespérant qui t’embrase en ce lieu,</l>
 	<l id="606">Le tourment plus cruel, d’avoir perdu ton Dieu ?</l>
 </sp>
-<sp who="SATAN"><speaker>SATAN.</speaker>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>.</hstage>
 	<l id="607">Ainsi parle un esclave à son joug insensible ;</l>
 	<l id="608">Lâche, qui par faiblesse est soumis et paisible,</l>
 	<l id="609">Dont les fers sont forgés par la timidité,</l>
@@ -839,7 +839,7 @@
 	<l id="635">Nous devons exister. Je n’ai plus rien à craindre ;</l>
 	<l id="636">Et qui peut se venger n’est pas encore à plaindre.</l>
 </sp>
-<sp who="GABRIEL"><speaker>GABRIEL.</speaker>
+<sp who="GABRIEL"><hstage><speaker>GABRIEL</speaker>.</hstage>
 	<l id="637">Te venger, malheureux ! De qui ? De l’Éternel !</l>
 	<l id="638">Eh, que peux-tu, dis-moi, contre ce Roi du Ciel ?</l>
 	<l id="639">Oui, tu peux il est vrai multipliant tes crimes,</l>
@@ -887,19 +887,19 @@
 	<l id="681">Songe que pour borner le cours de tes desseins,</l>
 	<l id="682">Cette trempe divine est un foudre en mes mains.</l>
 </sp>
-<sp who="SATAN"><speaker>SATAN.</speaker>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>.</hstage>
 	<l id="683">Que dis-tu ? Pour Satan tes menaces sont vaines.</l>
 	<l id="684">Attends, pour me braver, que je porte tes chaînes,</l>
 	<l id="685">Ange présomptueux ! Crois-tu m’épouvanter ?</l>
 	<l id="686">Qui n’a pas craint ton Dieu peut-il te redouter ?</l>
 </sp>
-<sp who="GABRIEL"><speaker>GABRIEL.</speaker>
+<sp who="GABRIEL"><hstage><speaker>GABRIEL</speaker>.</hstage>
 	<l id="687">Ah ! C’est trop blasphémer la céleste Puissance.</l>
 	<l id="688">Je vais ... Mais quel Esprit s’oppose à ma vengeance.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE VI. Raphaël, Gabriel, Satan.</head>
-<sp who="RAPHAËL"><speaker>RAPHAËL.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE VI.</head><cast>Raphaël, Gabriel, Satan.</cast>
+<sp who="RAPHAËL"><hstage><speaker>RAPHAËL</speaker>.</hstage>
 <note type="L">Raphaël : archange dont le nom signifie « Remède de Dieu », est un des sept anges qui sont toujours en présence de Dieu.</note>
 	<l id="689">Gabriel, arrêtez ; le Seigneur ne veut pas</l>
 	<l id="690">De ce rebelle encor punir les attentats :</l>
@@ -919,8 +919,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Raphaël, Adam.</head>
-<sp who="RAPHAËL"><speaker>RAPHAËL.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Raphaël, Adam.</cast>
+<sp who="RAPHAËL"><hstage><speaker>RAPHAËL</speaker>.</hstage>
 	<l id="701">Laissons Eve un moment, viens, Adam, et reçois</l>
 	<l id="702">Les avis du Très-haut qui parle par ma voix.</l>
 	<l id="703">Ouvrage de ses mains, objet de sa tendresse,</l>
@@ -932,13 +932,13 @@
 	<l id="709">Soulèvent contre toi, contre ta pureté,</l>
 	<l id="710">Un ennemi jaloux de ta prospérité.</l>
 </sp>
-<sp who="ADAM"><speaker>ADAM.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>.</hstage>
 	<l id="711">Interprète divin, que venez-vous m’apprendre ?</l>
 	<l id="712">Quel est cet ennemi dont je dois me défendre ?</l>
 	<l id="713">Sous ces sacrés remparts qu’ai-je à craindre de lui ?</l>
 	<l id="714">Le Dieu qui m’a créé n’est-il pas mon appui ?</l>
 </sp>
-<sp who="RAPHAËL"><speaker>RAPHAËL.</speaker>
+<sp who="RAPHAËL"><hstage><speaker>RAPHAËL</speaker>.</hstage>
 	<l id="715">Un Ange révolté contre l’Être suprême,</l>
 	<l id="716">Voudrait t’associer à son malheur extrême,</l>
 	<l id="717">Te souiller de son crime, et par un sort égal,</l>
@@ -966,7 +966,7 @@
 	<l id="739">Et qu’un si grand bienfait imprimé dans ton âme,</l>
 	<l id="740">De l’amour du Seigneur te pénètre et t’enflamme.</l>
 </sp>
-<sp who="ADAM"><speaker>ADAM.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>.</hstage>
 	<l id="741">D’un don si précieux je connais tout le prix.</l>
 	<l id="742">Que votre saint aspect enchante mes esprits !</l>
 	<l id="743">Vos paroles de feu, votre voix douce et vive,</l>
@@ -994,7 +994,7 @@
 	<l id="765">Qui vit de son amour, repose dans son sein,</l>
 	<l id="766">De lui désobéir ait formé le dessein ?</l>
 </sp>
-<sp who="RAPHAËL"><speaker>RAPHAËL.</speaker>
+<sp who="RAPHAËL"><hstage><speaker>RAPHAËL</speaker>.</hstage>
 	<l id="767">Sur le sort de cet Ange il faut te satisfaire ;</l>
 	<l id="768">Plus cet exemple est grand, plus il est salutaire.</l>
 	<l id="769">Écoute ; puisse-t-il, dans le jour du combat,</l>
@@ -1006,11 +1006,11 @@
 	<l id="775">Mais pour te peindre au moins les choses invisibles,</l>
 	<l id="776">Je vais te les montrer sous des signes sensibles.</l>
 </sp>
-<sp who="ADAM"><speaker>ADAM.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>.</hstage>
 	<l id="777">Votre prudence ainsi pourvoit à mes besoins.</l>
 	<l id="778">Que ne devrai-je pas, sage Archange, à vos soins !</l>
 </sp>
-<sp who="RAPHAËL"><speaker>RAPHAËL.</speaker>
+<sp who="RAPHAËL"><hstage><speaker>RAPHAËL</speaker>.</hstage>
 	<l id="779">Le Monde, cher Adam, n’existait pas encore,</l>
 	<l id="780">Quand cet Être infini ; que l’univers adore,</l>
 	<l id="781">Appela ses guerriers pour leur donner ses lois ;</l>
@@ -1067,7 +1067,7 @@
 	<l id="829">Divise enfin l’armée, et vers les Aquilon,</l>
 	<l id="830">Pour s’égaler à Dieu, dresse ses pavillons.</l>
 </sp>
-<sp who="ADAM"><speaker>ADAM.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>.</hstage>
 	<l id="831">Je frémis. Ô Satan ! Quelle fureur t’agite ?</l>
 	<l id="832">Quel orgueil à te perdre, hélas ! te sollicite?</l>
 	<l id="833">Au Fils de l’Éternel refuser ton encens !</l>
@@ -1075,7 +1075,7 @@
 	<l id="835">N’est-il donc pas ton Chef, ton Roi, ton Dieu lui-même ?</l>
 	<l id="836">Et qu’es-tu, malheureux, près de l’Être suprême ?</l>
 </sp>
-<sp who="RAPHAËL"><speaker>RAPHAËL.</speaker>
+<sp who="RAPHAËL"><hstage><speaker>RAPHAËL</speaker>.</hstage>
 	<l id="837">Aux yeux du Tout puissant rien ne peut échapper ;</l>
 	<l id="838">Il vit cette tempête, et sut la dissiper.</l>
 	<l id="839">Mais toujours sa bonté précède sa vengeance.</l>
@@ -1189,13 +1189,13 @@
 	<l id="947">Et qui tient à jamais d’une rage assouvie,</l>
 	<l id="948">Dans les bras de la mort, les Enfants de la vie.</l>
 </sp>
-<sp who="ADAM"><speaker>ADAM.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>.</hstage>
 	<l id="949">Les Enfants de la Vie ! Ô Ciel ! Qu’ai-je entendu ?</l>
 	<l id="950">Terrible châtiment, tu leur étais bien dû.</l>
 	<l id="951">Oui, quel que soit, Seigneur, l’excès de ta vengeance ;</l>
 	<l id="952">Leur supplice est encor moins grand que leur offense.</l>
 </sp>
-<sp who="RAPHAËL"><speaker>RAPHAËL.</speaker>
+<sp who="RAPHAËL"><hstage><speaker>RAPHAËL</speaker>.</hstage>
 	<l id="953">Tel est, n’en doute point, le redoutable écueil,</l>
 	<l id="954">Où viendront échouer la révolte et l’orgueil.</l>
 	<l id="955">Telle fut, cher Adam, la victoire sacrée</l>
@@ -1211,7 +1211,7 @@
 	<l id="965">Il dépose à ses pieds les traits de son courroux</l>
 	<l id="966">Rend hommage à son Père, et le reçoit de tous.</l>
 </sp>
-<sp who="ADAM"><speaker>ADAM.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>.</hstage>
 	<l id="967">Qu’il règne dans le Ciel, et surtout dans mon âme</l>
 	<l id="968">Ce Roi de l’Univers, ce Dieu que je réclame !</l>
 	<l id="969">Que ne peut mon ardeur réparer en ce jour,</l>
@@ -1221,7 +1221,7 @@
 	<l id="973">Non ; par tant de bienfaits il a trop cimenté</l>
 	<l id="974">Et ma reconnoissance, et ma fidélité.</l>
 </sp>
-<sp who="RAPHAËL"><speaker>RAPHAËL.</speaker>
+<sp who="RAPHAËL"><hstage><speaker>RAPHAËL</speaker>.</hstage>
 	<l id="975">Les Anges, ces Esprits que l’Amour même anime,</l>
 	<l id="976">Pouvaient se soutenir dans leur sphère sublime.</l>
 	<l id="977">Tu vois qu’ils sont tombés, Adam, veille, sur toi,</l>
@@ -1262,21 +1262,21 @@
 	<l id="1012">Dont tu fais en ces lieux ton principal asile.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Adam, Eve.</head>
-<sp who="EVE"><speaker>EVE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Adam, Eve.</cast>
+<sp who="EVE"><hstage><speaker>EVE.</speaker></hstage>
 	<l id="1013">Cher Époux, que ta gloire a de charmes pour moi !</l>
 	<l id="1014">Le Ciel par ses agents s’entretient avec toi.</l>
 </sp>
-<sp who="ADAM"><speaker>ADAM.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>.</hstage>
 	<l id="1015">Il est vrai, la bonté prend soin de me conduire :</l>
 	<l id="1016">S’il daigne me parler, ce n’est que pour m’instruire.</l>
 	<l id="1017">Par le Ministre saint qui me quitte à l’instant,</l>
 	<l id="1018">Il nous donne, chère Eve, un avis important.</l>
 </sp>
-<sp who="EVE"><speaker>EVE.</speaker>
+<sp who="EVE"><hstage><speaker>EVE.</speaker></hstage>
 	<l id="1019" part="i">Quel est donc cet avis ?</l>
 </sp>
-<sp who="ADAM"><speaker>ADAM.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>.</hstage>
 	<l id="1019" part="f">Notre Dieu, me révèle</l>
 	<l id="1020">Le crime et les malheurs d’un Archange rebelle :</l>
 	<l id="1021">Sa bonté m’avertit des complots ténébreux,</l>
@@ -1284,11 +1284,11 @@
 	<l id="1023">Il prétend nous ravir, avec notre innocence,</l>
 	<l id="1024">Les biens que nous donna la céleste Puissance.</l>
 </sp>
-<sp who="EVE"><speaker>EVE.</speaker>
+<sp who="EVE"><hstage><speaker>EVE.</speaker></hstage>
 	<l id="1025">Eh ! Pouvons-nous, Adam, sous les yeux du Seigneur,</l>
 	<l id="1026">Recevant tout de lui, perdre notre bonheur ?</l>
 </sp>
-<sp who="ADAM"><speaker>ADAM.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>.</hstage>
 	<l id="1027">Oui, si nous révoltant, à l’exemple d’un traître,</l>
 	<l id="1028">Nous cessions d’obéir à notre divin Maître.</l>
 	<l id="1029">De ta soumission il n’est pas moins jaloux.</l>
@@ -1296,10 +1296,10 @@
 	<l id="1031">Avons nous plus, dis-moi, de force et de prudence,</l>
 	<l id="1032">Que n’en reçut au Ciel une si noble Essence ?</l>
 </sp>
-<sp who="EVE"><speaker>EVE.</speaker>
+<sp who="EVE"><hstage><speaker>EVE.</speaker></hstage>
 	<l id="1033">Qui détournera donc cette calamité ?</l>
 </sp>
-<sp who="ADAM"><speaker>ADAM.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>.</hstage>
 	<l id="1034">L’usage pur et saint de notre liberté.</l>
 	<l id="1035">Mais viens, Eve, suis-moi. Raphaël doit encore</l>
 	<l id="1036">Visiter ce berceau que sa présence honore ;</l>
@@ -1309,8 +1309,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIERE. Satan, Moloch.</head>
-<sp who="SATAN"><speaker>SATAN.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIERE.</head><cast>Satan, Moloch.</cast>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>.</hstage>
 	<l id="1039">Eve, sans son époux, dans ces lieux va se rendre ;</l>
 	<l id="1040">C’est de leur bouche encor que je viens de l’apprendre :</l>
 	<l id="1041">L’Archange Raphaël remonte dans les Cieux.</l>
@@ -1328,7 +1328,7 @@
 	<l id="1053">Le péché dans ces lieux introduira la mort :</l>
 	<l id="1054">La Nature et ses Rois auront le même sort.</l>
 </sp>
-<sp who="MOLOCH"><speaker>MOLOCH.</speaker>
+<sp who="MOLOCH"><hstage><speaker>MOLOCH</speaker>.</hstage>
 	<l id="1055">Ô généreux dépit, haine victorieuse,</l>
 	<l id="1056">Bien dignes en effet d’une âme glorieuse,</l>
 	<l id="1057">Que vous flattez mes vœux ! Et que j’aime à vous voir,</l>
@@ -1338,7 +1338,7 @@
 	<l id="1061">Celui du Tout-puissant en sera plus borné :</l>
 	<l id="1062">Ici, du moins ici, vous l’aurez détrôné.</l>
 </sp>
-<sp who="SATAN"><speaker>SATAN.</speaker>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>.</hstage>
 	<l id="1063">Ah ! Ne crois pas non plus, Moloch, que rien m’arrête.</l>
 	<l id="1064">Je dévore en esprit ma future conquête :</l>
 	<l id="1065">Pour l’entreprendre, ami, j’ai fait choix du serpent ;</l>
@@ -1350,7 +1350,7 @@
 	<l id="1071">Sur l’arbre que tu vois je l’ai conduit moi-même</l>
 	<l id="1072">Et tout va féconder mon heureux stratagême.</l>
 </sp>
-<sp who="MOLOCH"><speaker>MOLOCH.</speaker>
+<sp who="MOLOCH"><hstage><speaker>MOLOCH</speaker>.</hstage>
 	<l id="1073">Je sais (qui mieux que moi connaît votre pouvoir ?)</l>
 	<l id="1074">Je sais qu’instruit de tout, vous pouvez tout prévoir ;</l>
 	<l id="1075">Et que dans votre main, toujours si formidable,</l>
@@ -1361,7 +1361,7 @@
 	<l id="1080">Eve peut à bon droit soupçonner du prestige,</l>
 	<l id="1081">Et devoir son salut à sa timidité.</l>
 </sp>
-<sp who="SATAN"><speaker>SATAN.</speaker>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>.</hstage>
 	<l id="1082">Ne comptes-tu pour rien sa curiosité ?</l>
 	<l id="1083">Cesse de te livrer à de vaines alarmes ;</l>
 	<l id="1084">Eve, pour la dompter me prêtera des armes :</l>
@@ -1369,8 +1369,8 @@
 	<l id="1086">Tu peux de mon projet te reposer sur moi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Eve, Satan, ou le serpent.</head>
-<sp who="EVE"><speaker>EVE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Eve, Satan, ou le serpent.</cast>
+<sp who="EVE"><hstage><speaker>EVE.</speaker></hstage>
 	<l id="1087">Que ces lieux sont charmants ! Que j’ai d’impatience</l>
 	<l id="1088">D’en embellir encor la superbe ordonnance !</l>
 	<l id="1089">Le soleil semble ici tempérer ses ardeurs.</l>
@@ -1380,26 +1380,26 @@
 	<l id="1093">Aux yeux de mon époux j’en aurai plus d’attraits ;</l>
 	<l id="1094">Hâtez vous, chaste fleur, de vous joindre à mes traits.</l>
 </sp>
-<sp who="SATAN"><speaker>SATAN, ou le Serpent.</speaker>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>, ou le Serpent.</hstage>
 	<l id="1095">Hôtesse de ces lieux, divine créature,</l>
 	<l id="1096">Votre beauté suffit et fait votre parure.</l>
 </sp>
-<sp who="EVE"><speaker>EVE.</speaker>
+<sp who="EVE"><hstage><speaker>EVE.</speaker></hstage>
 	<l id="1097">Qu’entends-je ? Mon époux serait-il de retour ?</l>
 	<l id="1098">Est-ce quelqu’habitant de la céleste Cour ?</l>
 	<l id="1099" part="i">D’où provient cette voix ?</l>
 </sp>
-<sp who="SATAN"><speaker>SATAN, ou le Serpent.</speaker>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>, ou le Serpent.</hstage>
 	<l id="1099" part="f">D’un objet qui contemple</l>
 	<l id="1100">Du Créateur en vous, et l’image, et le temple ;</l>
 	<l id="1101">Qui toujours ébloui de l’éclat de vos yeux,</l>
 	<l id="1102">Belle Eve, près de vous, croit être dans les Cieux.</l>
 </sp>
-<sp who="EVE"><speaker>EVE.</speaker>
+<sp who="EVE"><hstage><speaker>EVE.</speaker></hstage>
 	<l id="1103">Je ne vois qu’un serpent agiter ce feuillage.</l>
 	<l id="1104">Quel prodige ! De l’homme aurait-il le langage ?</l>
 </sp>
-<sp who="SATAN"><speaker>SATAN, ou le Serpent.</speaker>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>, ou le Serpent.</hstage>
 	<l id="1105">Reine de l’Univers, ne vous offensez pas</l>
 	<l id="1106">De ce nouvel encens qu’allument vos appas.</l>
 	<l id="1107">Vos regards, dont le charme en secret nous attire ;</l>
@@ -1417,7 +1417,7 @@
 	<l id="1119">Vous offrir un tribut de vœux et de louanges.</l>
 	<l id="1120">Ne méritez-vous pas de commander aux Anges ?</l>
 </sp>
-<sp who="EVE"><speaker>EVE.</speaker>
+<sp who="EVE"><hstage><speaker>EVE.</speaker></hstage>
 	<l id="1121">Mon esprit se confond. Que vois-je ! Le serpent</l>
 	<l id="1122">Doué de la parole et du raisonnement !</l>
 	<l id="1123">J’avais cru jusqu’ici, que privés de langage,</l>
@@ -1431,7 +1431,7 @@
 	<l id="1131">Aux effets du miracle ajoute l’origine.</l>
 	<l id="1132">Quelle source a produit cette flamme divine ?</l>
 </sp>
-<sp who="SATAN"><speaker>SATAN, ou le Serpent.</speaker>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>, ou le Serpent.</hstage>
 	<l id="1133">Prompt à vous obéir, je vais vous contenter ;</l>
 	<l id="1134">Heureux, que sur mon sort vous daignez m’écouter !</l>
 	<l id="1135">Au rang des animaux m’a placé la nature ;</l>
@@ -1477,7 +1477,7 @@
 	<l id="1175">Parlez. Si ma présence, hélas ! vous importune,</l>
 	<l id="1176">Je fuis, et vais ailleurs pleurer mon infortune.</l>
 </sp>
-<sp who="EVE"><speaker>EVE.</speaker>
+<sp who="EVE"><hstage><speaker>EVE.</speaker></hstage>
 	<l id="1177">Ton discours est sensé, mais un peu trop flatteur,</l>
 	<l id="1178">Serpent ; je douterais que cet arbre enchanteur,</l>
 	<l id="1179">Ainsi que tu le dis, pût donner la sagesse.</l>
@@ -1485,11 +1485,11 @@
 	<l id="1181">C’est assez. Mais enfin, quel est l’arbre fameux</l>
 	<l id="1182">Qui produisit en toi ce changement heureux ?</l>
 </sp>
-<sp who="SATAN"><speaker>SATAN, ou le Serpent.</speaker>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>, ou le Serpent.</hstage>
 	<l id="1183">C’est celui dont la cime est si fort étendue,</l>
 	<l id="1184">Et qui, près de ces lieux, doit frapper votre vue.</l>
 </sp>
-<sp who="EVE"><speaker>EVE.</speaker>
+<sp who="EVE"><hstage><speaker>EVE.</speaker></hstage>
 	<l id="1185">Je le vois ; mais en vain tu me l’auras montré.</l>
 	<l id="1186">Garde, garde pour toi cet arbre révéré ;</l>
 	<l id="1187">Il n’est pas fait pour nous : c’est le seul sur la terre</l>
@@ -1497,15 +1497,15 @@
 	<l id="1189">Nous jouissons en paix des ses autres présents :</l>
 	<l id="1190">La Raison nous conduit, et commande à nos sens.</l>
 </sp>
-<sp who="SATAN"><speaker>SATAN, ou le Serpent.</speaker>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>, ou le Serpent.</hstage>
 	<l id="1191">Que dites-vous ? Ô Ciel ! pourquoi cette défense ?</l>
 </sp>
-<sp who="EVE"><speaker>EVE.</speaker>
+<sp who="EVE"><hstage><speaker>EVE.</speaker></hstage>
 	<l id="1192">Elle émane, il suffit, de la Toute-puissance.</l>
 	<l id="1193">Ce Fruit pernicieux changerait notre sort,</l>
 	<l id="1194">Et, parlant dans nos mains, nous donnerait la mort.</l>
 </sp>
-<sp who="SATAN"><speaker>SATAN, ou le Serpent.</speaker>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>, ou le Serpent.</hstage>
 	<l id="1195">Vous, mourir ? Quelle erreur ! Ô germe tutélaire !</l>
 	<l id="1196">C’est à présent surtout que ta vertu m’éclaire :</l>
 	<l id="1197">Je découvre par toi les temps non révélés,</l>
@@ -1551,7 +1551,7 @@
 	<l id="1237">Son Fruit, dont la vertu garde un juste milieu,</l>
 	<l id="1238">Doit, m’égalant à vous, vous égaler à Dieu.</l>
 </sp>
-<sp who="EVE"><speaker>EVE.</speaker>
+<sp who="EVE"><hstage><speaker>EVE.</speaker></hstage>
 	<l id="1239">Plus j’ose l’écouter, plus mon trouble s’augmente :</l>
 	<l id="1240">Ce qu’il dit, tour-à-tour, me plaît et me tourmente.</l>
 	<l id="1241">Divin fruit ! Toutefois mon esprit combattu,</l>
@@ -1632,8 +1632,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Satan, Moloch.</head>
-<sp who="SATAN"><speaker>SATAN.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Satan, Moloch.</cast>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>.</hstage>
 	<l id="1315">Ami, prépare-moi des palmes immortelles,</l>
 	<l id="1316">Le Monde m’est soumis, nos époux sont rebelles ;</l>
 	<l id="1317">Le Précepte est enfreint, l’Arbre saint profané,</l>
@@ -1645,7 +1645,7 @@
 	<l id="1323">J’ai vu manger le fruit et par l’un et par l’autre,</l>
 	<l id="1324">Je l’ai vu ; quel triomphe est plus grand que le nôtre ?</l>
 </sp>
-<sp who="MOLOCH"><speaker>MOLOCH.</speaker>
+<sp who="MOLOCH"><hstage><speaker>MOLOCH</speaker>.</hstage>
 	<l id="1325">Rien ne peut s’égaler à mon ravissement.</l>
 	<l id="1326">Que le Ciel en effet soit dans l’étonnement :</l>
 	<l id="1327">Malgré ses légions nos conquêtes s’achèvent.</l>
@@ -1657,7 +1657,7 @@
 	<l id="1333">J’aime mieux (ainsi pense un Esprit immortel)</l>
 	<l id="1334">Commander ici-bas, que d’obéir au Ciel ;</l>
 </sp>
-<sp who="SATAN"><speaker>SATAN.</speaker>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>.</hstage>
 	<l id="1335">Entre ce Monde et nous il n’est plus de barrière.</l>
 	<l id="1336">J’ouvre à nos Chérubins une immense carrière.</l>
 	<l id="1337">Qu’ils sortent desormais de leurs gouffres profonds,</l>
@@ -1671,7 +1671,7 @@
 	<l id="1345">Doux espoir, qui d’abord a charmé mes esprits,</l>
 	<l id="1346">Et dont un crime heureux devient le digne prix.</l>
 </sp>
-<sp who="MOLOCH"><speaker>MOLOCH.</speaker>
+<sp who="MOLOCH"><hstage><speaker>MOLOCH</speaker>.</hstage>
 	<l id="1347">Le Péché règne donc : déjà d’un vol sinistre,</l>
 	<l id="1348">S’étend, de nos fureurs, ce fidèle ministre,</l>
 	<l id="1349">Que la mort avec lui parcourant l’Univers,</l>
@@ -1680,7 +1680,7 @@
 	<l id="1352">Elle immole toujours de nouvelles victimes.</l>
 	<l id="1353">Sans doute, contre Adam l’arrêt est prononcé...</l>
 </sp>
-<sp who="SATAN"><speaker>SATAN.</speaker>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>.</hstage>
 	<l id="1354">Arrête. Hélas ! Quel Dieu, Moloch, ai-je offensé !</l>
 	<l id="1355">Je triomphe, il est vrai ; mais sa Toute-puissance</l>
 	<l id="1356">Vient m’alarmer encore au sein de la Vengeance.</l>
@@ -1691,7 +1691,7 @@
 	<l id="1361">Faible tribut, hommage et stérile et forcé,</l>
 	<l id="1362">Que je rends à ce Dieu terrible et courroucé.</l>
 </sp>
-<sp who="MOLOCH"><speaker>MOLOCH.</speaker>
+<sp who="MOLOCH"><hstage><speaker>MOLOCH</speaker>.</hstage>
 	<l id="1363">Que pourrait sa colère imaginer encore,</l>
 	<l id="1364">Qui surpassât l’excès du feu qui nous dévore ?</l>
 	<l id="1365">Nos maux ont leur mesure ; et leur éternité</l>
@@ -1701,7 +1701,7 @@
 	<l id="1369">Sans remords, sans effroi, je puis l’envisager,</l>
 	<l id="1370">Dès que je puis toujours haïr et me venger.</l>
 </sp>
-<sp who="SATAN"><speaker>SATAN.</speaker>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>.</hstage>
 	<l id="1371">De tous nos Chérubins, ô le plus magnanime !</l>
 	<l id="1372">Soutien de mes États, que ton ardeur m’anime !</l>
 	<l id="1373">De ton courage, ami, l’inflexibilité</l>
@@ -1711,7 +1711,7 @@
 	<l id="1377">Partage mon pouvoir, impose ici la loi,</l>
 	<l id="1378">Règne, sur ma conquête, et triomphe avec moi.</l>
 </sp>
-<sp who="MOLOCH"><speaker>MOLOCH.</speaker>
+<sp who="MOLOCH"><hstage><speaker>MOLOCH</speaker>.</hstage>
 	<l id="1379">Lancez, Seigneur, lancez sur ce nouveau domaine</l>
 	<l id="1380">Les fléaux qu’a forgés votre main souveraine ;</l>
 	<l id="1381">Les Troubles, les Forfaits nés de l’Ambition,</l>
@@ -1725,7 +1725,7 @@
 	<l id="1389">Hâtons-nous donc, Seigneur, d’annoncer aux Enfers</l>
 	<l id="1390">Votre Empire immortel sur ce vaste Univers.</l>
 </sp>
-<sp who="SATAN"><speaker>SATAN.</speaker>
+<sp who="SATAN"><hstage><speaker>SATAN</speaker>.</hstage>
 	<l id="1391">Allons, Moloch, allons délivrer mon armée</l>
 	<l id="1392">De l’affreuse prison qui la tient renfermée.</l>
 	<l id="1393">Adam vient dans ces lieux déplorer ses malheurs ;</l>
@@ -1733,7 +1733,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="ADAM"><speaker>ADAM, seul.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>, seul.</hstage>
 	<l id="1395">Malheureux, qu’ai-je fait ! Cruelle complaisance,</l>
 	<l id="1396">Qui causé envers mon Dieu ma desobéissance,</l>
 	<l id="1397">Me justifieras-tu, quand déjà tout en moi</l>
@@ -1766,8 +1766,8 @@
 	<l id="1424">Dont le fatal orgueil change ma destinée ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Adam, Eve.</head>
-<sp who="EVE"><speaker>EVE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Adam, Eve.</cast>
+<sp who="EVE"><hstage><speaker>EVE.</speaker></hstage>
 	<l id="1425">Vous me fuyez, Adam, ô comble de malheur !</l>
 	<l id="1426">Pouvez-vous me livrer à toute ma douleur ?</l>
 	<l id="1427">Errante dans ces lieux, affligée et craintive,</l>
@@ -1775,7 +1775,7 @@
 	<l id="1429">Peut-être plus que vous je les ressens ici.</l>
 	<l id="1430">Quand j’ai perdu mon Dieu, dois-je vous perdre aussi ?</l>
 </sp>
-<sp who="ADAM"><speaker>ADAM.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>.</hstage>
 	<l id="1431">Me perdre ! Eh ! Vois l’état, vois l’affreuse misère ;</l>
 	<l id="1432">Où nous réduit du Ciel l’équitable colère.</l>
 	<l id="1433">D’où sont partis ces traits qui nous frappent soudain ?</l>
@@ -1795,7 +1795,7 @@
 	<l id="1447">Ma faiblesse, à tes vœux, ainsi m’a fait souscrire.</l>
 	<l id="1448">Un triomphe si beau ne peut-il te suffire ?</l>
 </sp>
-<sp who="EVE"><speaker>EVE.</speaker>
+<sp who="EVE"><hstage><speaker>EVE.</speaker></hstage>
 	<l id="1449">Au nom de cet amour, au nom de cette foi,</l>
 	<l id="1450">Ne m’abandonnez pas à mon mortel effroi.</l>
 	<l id="1451">Oui, votre Eve est coupable, et gémit de son crime.</l>
@@ -1803,23 +1803,23 @@
 	<l id="1453">Mais jusqu’à ce moment ne vous dérobez pas,</l>
 	<l id="1454">Aux pleurs, aux pleurs amers dont j’arrose vos pas...</l>
 </sp>
-<sp who="ADAM"><speaker>ADAM.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>.</hstage>
 	<l id="1455">Où suis-je ? Quel éclat, quelle vive lumière ;</l>
 	<l id="1456">Frappe subitement ma débile paupière ?</l>
 	<l id="1457">J’entens du bruit, fuyons sous ce feuillage épais :</l>
 	<l id="1458">Dieu s’apprête sans doute à punir nos forfaits.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. La Vvois de Dieu, Adam, Eve.</head>
-<sp who="LA-VOIX-DE-DIEU"><speaker>LA VOIX DE DIEU.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>La Vvois de Dieu, Adam, Eve.</cast>
+<sp who="LA-VOIX-DE-DIEU"><hstage><speaker>LA VOIX DE DIEU</speaker>.</hstage>
 	<l id="1459">Adam, où donc es-tu ? Qui te cache à ton Maître ?</l>
 	<l id="1460">Pourquoi, devant ton Dieu, différer de paraître ?</l>
 </sp>
-<sp who="ADAM"><speaker>ADAM.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>.</hstage>
 	<l id="1461">Puis-je m’offrir à vous ? Le son de votre voix,</l>
 	<l id="1462">Même avant votre aspect, m’a fait fuir dans ce bois.</l>
 </sp>
-<sp who="LA-VOIX-DE-DIEU"><speaker>LA VOIX DE DIEU.</speaker>
+<sp who="LA-VOIX-DE-DIEU"><hstage><speaker>LA VOIX DE DIEU</speaker>.</hstage>
 	<l id="1463">Ma voix n’a pas toujours, sur ton âme troublée,</l>
 	<l id="1464">Produit cette terreur dont elle est accablée.</l>
 	<l id="1465">Tout succède, sans doute, à notre heureux rival.</l>
@@ -1833,13 +1833,13 @@
 	<l id="1473">Tu n’avais pas osé, perfide à mon amour,</l>
 	<l id="1474">Sur le fruit interdit attenter en ce jour ?</l>
 </sp>
-<sp who="ADAM"><speaker>ADAM.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>.</hstage>
 	<l id="1475">Je déplore, Seigneur, ma vie infortunée.</l>
 	<l id="1476">Cette compagne, hélas ! Que vous m’aviez donnée,</l>
 	<l id="1477">Qui devait être ici ma joie et mon bonheur,</l>
 	<l id="1478">Cette même compagne a fait tout mon malheur.</l>
 </sp>
-<sp who="LA-VOIX-DE-DIEU"><speaker>LA VOIX DE DIEU.</speaker>
+<sp who="LA-VOIX-DE-DIEU"><hstage><speaker>LA VOIX DE DIEU</speaker>.</hstage>
 	<l id="1479">Dans son égarement pourquoi l’as-tu suivie ?</l>
 	<l id="1480">Était-elle ton Dieu ? Lui devais-tu la vie,</l>
 	<l id="1481">Pour lui céder ton rang, ton empire, tes droits,</l>
@@ -1852,10 +1852,10 @@
 	<l id="1488">Dût sur ta volonté, la rendre souveraine,</l>
 	<l id="1489">Qu’elle parle, il est temps. Ô femme ! Qu’as-tu fait ?</l>
 </sp>
-<sp who="EVE"><speaker>EVE.</speaker>
+<sp who="EVE"><hstage><speaker>EVE.</speaker></hstage>
 	<l id="1490">Le Serpent m’a trompée ; il causa mon forfait.</l>
 </sp>
-<sp who="LA-VOIX-DE-DIEU"><speaker>LA VOIX DE DIEU, au serpent.</speaker>
+<sp who="LA-VOIX-DE-DIEU"><hstage><speaker>LA VOIX DE DIEU</speaker>, au serpent.</hstage>
 	<l id="1491">Organe séducteur, fléau de l’Innocence,</l>
 	<l id="1492">C’est sur toi que d’abord tombera ma vengeance.</l>
 	<l id="1493">Puisque ton artifice et ta subtilité</l>
@@ -1892,9 +1892,9 @@
 	<l id="1522">Sur ton crime, et pour toi, mon pouvoir absolu.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Adam, Eve.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Adam, Eve.</cast>
 <stage>Adam sort tout-à-fait du bois où il s’était retiré. Eve plus timide y reste encore quelque temps, et s’avance par degré.</stage>
-<sp who="ADAM"><speaker>ADAM.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>.</hstage>
 	<l id="1523">Quel coup de foudre, ô ciel ! Quel horrible naufrage !</l>
 	<l id="1524">Le travail et la mort ! Voilà donc mon partage !</l>
 	<l id="1525">La mort ! Eh ! Quel sera le terme de mes jours ?</l>
@@ -1950,12 +1950,12 @@
 	<l id="1574">Laisse Adam, loin de toi, chercher quelque repos !</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Eve, Adam.</head>
-<sp who="EVE"><speaker>EVE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Eve, Adam.</cast>
+<sp who="EVE"><hstage><speaker>EVE.</speaker></hstage>
 	<l id="1575">Toujours me fuir, cruel ! Hélas ! Pour votre femme,</l>
 	<l id="1576">Avez-vous donc banni la pitié de votre âme ?</l>
 </sp>
-<sp who="ADAM"><speaker>ADAM.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>.</hstage>
 	<l id="1577">Fut-elle dans, ton cœur, dis-moi, cette pitié,</l>
 	<l id="1578">Lorsqu’à ton triste sort toi-même m’as lié ?</l>
 	<l id="1579">Est-ce donc là le prix de la vive tendresse,</l>
@@ -1967,7 +1967,7 @@
 	<l id="1585">Tu ne me fus pas moins dangereuse que lui,</l>
 	<l id="1586">Et je vous dois tous deux éviter aujourd’hui.</l>
 </sp>
-<sp who="EVE"><speaker>EVE.</speaker>
+<sp who="EVE"><hstage><speaker>EVE.</speaker></hstage>
 	<l id="1587">Arrêtez, cher époux, rendez-vous à mes larmes ;</l>
 	<l id="1588">Pour toucher votre cœur je n’ai point d’autres armes :</l>
 	<l id="1589">Daignez jeter sur moi quelques regards plus doux ;</l>
@@ -1993,7 +1993,7 @@
 	<l id="1609">Prévenant tes besoins j’oublierai mes malheurs</l>
 	<l id="1610">Si ta main, cher Adam, daigne essuyer mes pleurs.</l>
 </sp>
-<sp who="ADAM"><speaker>ADAM.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>.</hstage>
 	<l id="1611">Tu m’attendris, hélas ! ton repentir me touche ;</l>
 	<l id="1612">La vertu, grâce au Ciel, parle encor par ta bouche.</l>
 	<l id="1613">Si je croyais changer les décrets éternels,</l>
@@ -2012,8 +2012,8 @@
 	<l id="1626">Ô ciel ! Il est armé ! Quel sera mon destin ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Michel, Adam, Eve.</head>
-<sp who="MICHEL"><speaker>MICHEL.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Michel, Adam, Eve.</cast>
+<sp who="MICHEL"><hstage><speaker>MICHEL</speaker>.</hstage>
 <note type="L">Michel : archange dont le nom signifie Quis ut Deus ? Il est le chefs des bons anges qui forme la mlicee célèste ; c’est lui qui précipita dans l’abîme les anges rebelles. [B] </note>
 	<l id="1627">La mort prompte à servir la céleste puissance,</l>
 	<l id="1628">Devait suivre de près ta désobéissance.</l>
@@ -2026,7 +2026,7 @@
 	<l id="1635">Pour conduire tes pas dans ces champs d’indigence,</l>
 	<l id="1636">Où ton crime a versé sa fatale influence.</l>
 </sp>
-<sp who="ADAM"><speaker>ADAM.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>.</hstage>
 	<l id="1637">Ô rigueur ! Ô décret plus cruel que la mort !</l>
 	<l id="1638">C’en est fait, je succombe à mon malheureux sort.</l>
 	<l id="1639">Seigneur, nous te perdons, absents de ces boccages :</l>
@@ -2034,7 +2034,7 @@
 	<l id="1641">Ta colère sur nous se manifeste ainsi :</l>
 	<l id="1642">Et c’est vivre sans toi, que vivre loin d’ici.</l>
 </sp>
-<sp who="MICHEL"><speaker>MICHEL.</speaker>
+<sp who="MICHEL"><hstage><speaker>MICHEL</speaker>.</hstage>
 	<l id="1643">Te te trompes, Adam, eh ! Toute la nature</l>
 	<l id="1644">N’est-elle pas de Dieu la sublime peinture :</l>
 	<l id="1645">II remplit l’univers de l’un à l’autre bout ;</l>
@@ -2060,7 +2060,7 @@
 	<l id="1665">Séjour de la justice et de la vérité,</l>
 	<l id="1666">Uniront les humains à la divinité.</l>
 </sp>
-<sp who="ADAM"><speaker>ADAM.</speaker>
+<sp who="ADAM"><hstage><speaker>ADAM</speaker>.</hstage>
 	<l id="1667">Quel oracle, grand Dieu, me faites vous entendre !</l>
 	<l id="1668">Vous qui le remplirez, faites-le moi comprendre.</l>
 	<l id="1669">Ô céleste bonté, divin médiateur,</l>

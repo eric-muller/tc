@@ -59,7 +59,7 @@
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE, seule.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>, seule.</hstage>
 	<l id="1">Témoin  du crime affreux que poursuit ma vengeance,</l>
 	<l id="2">Ô nuit, dont tant de fois j’ai troublé le silence,</l>
 	<l id="3">Insensible témoin de mes vives douleurs,</l>
@@ -112,8 +112,8 @@
 	<l id="50">Trahit-il en secret le soin de ma vengeance ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Électre, Arcas.</head>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Électre, Arcas.</cast>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="51" part="i">Il vient ; rassurons-nous.</l>
 <stage>À Arcas.</stage>
 	<l id="51" part="f">Pleine d’un juste effroi,</l>
@@ -121,16 +121,16 @@
 	<l id="53">Je craignais qu’un ami qui pour moi s’intéresse</l>
 	<l id="54" part="i">N’usât plus... Mais quoi ! Seul ?</l>
 </sp>
-<sp who="ARCAS"><speaker>ARCAS.</speaker>
+<sp who="ARCAS"><hstage><speaker>ARCAS</speaker>.</hstage>
 	<l id="54" part="f">Malheureuse princesse,</l>
 	<l id="55">Hélas ! Que votre sort est digne de pitié !</l>
 	<l id="56" part="i">Plus d’amis, plus d’espoir.</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="56" part="f">Quoi! Leur vaine amitié,</l>
 	<l id="57" part="i">Après tant de serments...</l>
 </sp>
-<sp who="ARCAS"><speaker>ARCAS.</speaker>
+<sp who="ARCAS"><hstage><speaker>ARCAS</speaker>.</hstage>
 	<l id="57" part="f">Non, n’attendez rien d’elle.</l>
 	<l id="58">Madame, en vain pour vous j’ai fait parler mon zèle ;</l>
 	<l id="59">Eux-mêmes, à regret, ces trop prudents amis</l>
@@ -164,19 +164,19 @@
 	<l id="87">Faites que votre hymen se diffère d’un jour :</l>
 	<l id="88">Peut-être verrons-nous Oreste de retour.</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="89">Cesse de me flatter d’une espérance vaine.</l>
 	<l id="90">Allez, lâches amis qui trahissez ma haine ;</l>
 	<l id="91">Electre saura bien, sans Oreste et sans vous,</l>
 	<l id="92">Ce jour même, à vos yeux, signaler son courroux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Électre, Itys.</head>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Électre, Itys.</cast>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="93">En des lieux où je suis, trop sûr de me deplaire,</l>
 	<l id="94">Fils d’Égisthe, oses-tu mettre un pied téméraire ?</l>
 </sp>
-<sp who="ITYS"><speaker>ITYS.</speaker>
+<sp who="ITYS"><hstage><speaker>ITYS</speaker>.</hstage>
 	<l id="95">Madame, pardonnez à l’innocente erreur</l>
 	<l id="96">Qui vous offre un amant guidé par sa douleur.</l>
 	<l id="97">D’un amour malheureux la triste inquiétude</l>
@@ -184,13 +184,13 @@
 	<l id="99">Pardonnez si l’amour tourne vers vous mes pas :</l>
 	<l id="100">Itys vous souhaitait, mais ne vous cherchait pas;</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="101">Dans l’état où je suis, toujours triste, quels charmes</l>
 	<l id="102">Peuvent avoir des yeux presque éteints dans les larmes ?</l>
 	<l id="103">Fils du tyran cruel qui fait tous mes malheurs,</l>
 	<l id="104">Porte ailleurs ton amour, et respecte mes pleurs.</l>
 </sp>
-<sp who="ITYS"><speaker>ITYS.</speaker>
+<sp who="ITYS"><hstage><speaker>ITYS</speaker>.</hstage>
 	<l id="105">Ah ! Ne m’enviez pas cet amour, inhumaine !</l>
 	<l id="106">Ma tendresse ne sert que trop bien votre haine.</l>
 	<l id="107">Si l’amour cependant peut désarmer un cœur,</l>
@@ -218,7 +218,7 @@
 	<l id="129">Régnez donc avec moi ; c’est trop vous en défendre :</l>
 	<l id="130">C’est un sceptre qu’un jour Égisthe veut vous rendre.</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="131">Ce sceptre est-il à moi, pour me le destiner ?</l>
 	<l id="132">Ce sceptre est-il à lui, pour te l’oser donner ?</l>
 	<l id="133">C’est en vain qu’en esclave il traite une princesse,</l>
@@ -253,16 +253,16 @@
 	<l id="162">Te sers-tu contre moi du pouvoir de la Reine ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Clytemnestre, Électre, Itys, Gardes.</head>
-<sp who="CLYTEMNESTRE"><speaker>CLYTEMNESTRE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Clytemnestre, Électre, Itys, Gardes.</cast>
+<sp who="CLYTEMNESTRE"><hstage><speaker>CLYTEMNESTRE</speaker>.</hstage>
 	<l id="163">Dieux puissants, dissipez mon trouble et mon effroi ;</l>
 	<l id="164">Et chassez ces horreurs loin d’Égisthe et de moi.</l>
 </sp>
-<sp who="ITYS"><speaker>ITYS.</speaker>
+<sp who="ITYS"><hstage><speaker>ITYS</speaker>.</hstage>
 	<l id="165">Quelle crainte est la vôtre ? Où courez-vous, madame ?</l>
 	<l id="166">Vous vous plaignez : quel trouble a pu saisir votre âme?</l>
 </sp>
-<sp who="CLYTEMNESTRE"><speaker>CLYTEMNESTRE.</speaker>
+<sp who="CLYTEMNESTRE"><hstage><speaker>CLYTEMNESTRE</speaker>.</hstage>
 	<l id="167">Prince, jamais effroi ne fut égal au mien.</l>
 	<l id="168">Mais ce récit demande un secret entretien.</l>
 	<l id="169">Jamais sort ne parut plus à craindre et plus triste.</l>
@@ -270,21 +270,21 @@
 	<l id="170">Qu’on sache en ce moment si je puis voir Égisthe.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Clytemnestre, Électre, Itys.</head>
-<sp who="CLYTEMNESTRE"><speaker>CLYTEMNESTRE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Clytemnestre, Électre, Itys.</cast>
+<sp who="CLYTEMNESTRE"><hstage><speaker>CLYTEMNESTRE</speaker>.</hstage>
 	<l id="171">Mais vous, qui vous guidait aux lieux où je vous vois ?</l>
 	<l id="172">Électre se rend-elle aux volontes du roi ?</l>
 	<l id="173">À votre heureux destin la verrons-nous unie ?</l>
 	<l id="174">Sait-elle, à resister, qu’il y va de sa vie ?</l>
 </sp>
-<sp who="ITYS"><speaker>ITYS.</speaker>
+<sp who="ITYS"><hstage><speaker>ITYS</speaker>.</hstage>
 	<l id="175">Ah ! D’un plus doux langage empruntons le secours.</l>
 	<l id="176">Madame ; épargnez-lui de si cruels discours ;</l>
 	<l id="177">Adoucissez plutôt sa triste destinée :</l>
 	<l id="178">Électrs n’est déjà que trop infortunée.</l>
 	<l id="179">Je ne puis la contraindre, et mon esprit confus...</l>
 </sp>
-<sp who="CLYTEMNESTRE"><speaker>CLYTEMNESTRE.</speaker>
+<sp who="CLYTEMNESTRE"><hstage><speaker>CLYTEMNESTRE</speaker>.</hstage>
 	<l id="180">Par ce raisonnement je conçois ses refus.</l>
 	<l id="181">Mais, pour former l’hymen et de l’un et de l’autre,</l>
 	<l id="182">On ne consultera ni son cœur ni le vôtre.</l>
@@ -292,8 +292,8 @@
 	<l id="184">Allez, dites au roi que je l’attends ici.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Clytemnestre, Électre.</head>
-<sp who="CLYTEMNESTRE"><speaker>CLYTEMNESTRE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Clytemnestre, Électre.</cast>
+<sp who="CLYTEMNESTRE"><hstage><speaker>CLYTEMNESTRE</speaker>.</hstage>
 	<l id="185">Aussi, loin de répondre aux bontés d’une mère,</l>
 	<l id="186">Vous bravez de mon nom le sacré caractère !</l>
 	<l id="187">Et, lorsque ma pitié lui fait un sort plus doux,</l>
@@ -311,7 +311,7 @@
 	<l id="199">Égisthe est las de voir son esclave en ces lieux</l>
 	<l id="200">Exciter par ses pleurs les hommes et les dieux.</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="201">Contre un tyran si fier, juste ciel ! Quelles armes !</l>
 	<l id="202">Qui brave les remords peut-il craindre mes larmes ?</l>
 	<l id="203">Ah ! Madame, est-ce à vous d’irriter mes ennuis ?</l>
@@ -335,7 +335,7 @@
 	<l id="221">Pour me faire oublier qu’on m’a ravi mon père,</l>
 	<l id="222">Faites-moi souvenir que vous êtes ma mère.</l>
 </sp>
-<sp who="CLYTEMNESTRE"><speaker>CLYTEMNESTRE.</speaker>
+<sp who="CLYTEMNESTRE"><hstage><speaker>CLYTEMNESTRE</speaker>.</hstage>
 	<l id="223">Que veux-tu désormais que je fasse pour toi,</l>
 	<l id="224">Lorsque ton hymeu seul peut désarmer le Roi ?</l>
 	<l id="225">Souscris, sans murmurer, au sort qu’on te prépare,</l>
@@ -346,7 +346,7 @@
 <note type="C">Iphigénie sacrifiée en Aulide à la demande du devin Calchas. Voir aussi « Iphigénie » de Jean Racine.</note>
 	<l id="230">Osa bien, à mes yeux, faire égorger ma fille.</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="231">Tout cruel qu’il était, il était votre époux :</l>
 	<l id="232">S’il fallait l’en punir, Madame, étoit-ce à vous ?</l>
 	<l id="233">Si le ciel, dont sur lui la rigueur fut extrême,</l>
@@ -359,12 +359,12 @@
 	<l id="240">Vous nous sacrifiez au plus vil des mortels...</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Égisthe, Clytemnestre, Électre.</head>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Égisthe, Clytemnestre, Électre.</cast>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="241">Il paraît, l’inhumain ! À cette affreuse vue,</l>
 	<l id="242">Des plus cruels transports je me sens l’âme émue.</l>
 </sp>
-<sp who="ÉGISTHE"><speaker>ÉGISTHE, à Clytemnestre.</speaker>
+<sp who="ÉGISTHE"><hstage><speaker>ÉGISTHE</speaker>, à Clytemnestre.</hstage>
 	<l id="243">Madame, quel malheur, troublant votre sommeil,</l>
 	<l id="244">Vous a fait de si loin devancer le soleil ?</l>
 	<l id="245">Quel trouble vous saisit ? Et quel triste présage</l>
@@ -376,20 +376,20 @@
 	<l id="251">Voit-elle sans regret préparer ce grand jour</l>
 	<l id="252">Qui doit combler d’Itys et les vœux et l’amour ?</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="253">Oui, tu peux désormais en ordonner la fête ;</l>
 	<l id="254">Pour cet heureux hymen ma main est toute prête :</l>
 	<l id="255">Je n’en veux disposer qu’en faveur de ton sang,</l>
 	<l id="256">Et je la garde à qui te percera le flanc.</l>
 <stage>Elle sort.</stage>
 </sp>
-<sp who="ÉGISTHE"><speaker>ÉGISTHE.</speaker>
+<sp who="ÉGISTHE"><hstage><speaker>ÉGISTHE</speaker>.</hstage>
 	<l id="257">Cruelle ! Si mon fils n’arrêtait ma vengeance,</l>
 	<l id="258">J’éprouverais bientôt jusqu’où va ta constance.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Égisthe, Clytemnestre.</head>
-<sp who="CLYTEMNESTRE"><speaker>CLYTEMNESTRE.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Égisthe, Clytemnestre.</cast>
+<sp who="CLYTEMNESTRE"><hstage><speaker>CLYTEMNESTRE</speaker>.</hstage>
 	<l id="259">Seigneur, n’irritez point son orgueil furieux.</l>
 	<l id="260">Si vous saviez les maux que m’annoncent les dieux../</l>
 	<l id="261">J’en frémis. Non, jamais le ciel impitoyable</l>
@@ -426,7 +426,7 @@
 	<l id="291">Et m’a ravi la mienne avec le même effort,</l>
 	<l id="292">Sans me donner le temps de sentir votre mort.</l>
 </sp>
-<sp who="ÉGISTHE"><speaker>ÉGISTHE.</speaker>
+<sp who="ÉGISTHE"><hstage><speaker>ÉGISTHE</speaker>.</hstage>
 	<l id="293">Je conçois la douleur où la crainte vous plonge.</l>
 	<l id="294">Un présage si noir n’est cependant qu’un songe</l>
 	<l id="295">Que le sommeil produit et nous offre au hasard,</l>
@@ -459,14 +459,14 @@
 	<l id="322">Et je vais travailler au repos de la Grèce.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Clytemnestre, Iphianasse, Mélite.</head>
-<sp who="IPHIANASSE"><speaker>IPHIANASSE.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>Clytemnestre, Iphianasse, Mélite.</cast>
+<sp who="IPHIANASSE"><hstage><speaker>IPHIANASSE</speaker>.</hstage>
 	<l id="323">On dit qu’un noir présage, un songe plein d’horreur,</l>
 	<l id="324">Madame, cette nuit a troublé votre cœur.</l>
 	<l id="325">Dans le tendre respect qui pour vous m’intéresse,</l>
 	<l id="326">Je venais partager la douleur qui vous presse.</l>
 </sp>
-<sp who="CLYTEMNESTRE"><speaker>CLYTEMNESTRE.</speaker>
+<sp who="CLYTEMNESTRE"><hstage><speaker>CLYTEMNESTRE</speaker>.</hstage>
 	<l id="327">Princesse, un songe affreux a frappé mes esprits;</l>
 	<l id="328">Mon cœur s’en est troublé, la frayeur l’a surpris.</l>
 	<l id="329">Mais, pour en détourner les funestes auspices,</l>
@@ -474,24 +474,24 @@
 </sp>
 </div2>
 <div2 typ="scene" n="10"><head>SCÈNE X. Iphianasse, Mélite.</head>
-<sp who="IPHIANASSE"><speaker>IPHIANASSE.</speaker>
+<sp who="IPHIANASSE"><hstage><speaker>IPHIANASSE</speaker>.</hstage>
 	<l id="331">Mélite, plût au ciel qu’en proie à tant d’ennuis</l>
 	<l id="332">Un songe seul eut part à l’état où je suis !</l>
 	<l id="333">Plût au ciel que le sort, dont la rigueur m’outrage,</l>
 	<l id="334" part="i">N’eût fait que menacer !</l>
 </sp>
-<sp who="MÉLITE"><speaker>MÉLITE.</speaker>
+<sp who="MÉLITE"><hstage><speaker>MÉLITE</speaker>.</hstage>
 	<l id="334" part="f">Madame, quel langage !</l>
 	<l id="335">Quel malheur de vos jours a troublé la douceur,</l>
 	<l id="336">Et la constante paix que goûtait votre cœur ?</l>
 </sp>
-<sp who="IPHIANASSE"><speaker>IPHIANASSE.</speaker>
+<sp who="IPHIANASSE"><hstage><speaker>IPHIANASSE</speaker>.</hstage>
 	<l id="337">Tes soins n’ont pas toujours conduit Iphianasse ;</l>
 	<l id="338">Et ce calme si doux a bien changé de face.</l>
 	<l id="339">Quelques jours malheureux, écoulés sans te voir,</l>
 	<l id="340">D’un cœur qui s’ouvre à toi font tout le désespoir.</l>
 </sp>
-<sp who="MÉLITE"><speaker>MÉLITE.</speaker>
+<sp who="MÉLITE"><hstage><speaker>MÉLITE</speaker>.</hstage>
 	<l id="341">À finir nos malheurs, quoi ! Lorsque tout conspire,</l>
 	<l id="342">Qu’un roi jeune et puissant à votre hymen aspire,</l>
 	<l id="343">Votre cœur désolé se consume en regrets !</l>
@@ -499,7 +499,7 @@
 	<l id="345">Corinthe, avec la paix, vous demande pour reine :</l>
 	<l id="346">Ce grand jour doit former une si belle chaîne.</l>
 </sp>
-<sp who="IPHIANASSE"><speaker>IPHIANASSE.</speaker>
+<sp who="IPHIANASSE"><hstage><speaker>IPHIANASSE</speaker>.</hstage>
 	<l id="347">Plût aux dieux que ce jour, qui te paraît si beau,</l>
 	<l id="348">Dût des miens à tes yeux éteindre le flambeau !</l>
 	<l id="349">Mais lorsque tu sauras mes mortelles alarmes,</l>
@@ -542,13 +542,13 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Tydée, Anténor.</head>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Tydée, Anténor.</cast>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="385">Embrasse-moi ; reviens de ta surprise extrême.</l>
 	<l id="386">Oui, mon cher Antënor, c’est Tydée, oui, lui-même ;</l>
 	<l id="387" part="i">Tu ne te trompes point.</l>
 </sp>
-<sp who="ANTÉNOR"><speaker>ANTÉNOR.</speaker>
+<sp who="ANTÉNOR"><hstage><speaker>ANTÉNOR</speaker>.</hstage>
 	<l id="387" part="f">Vous, Seigneur, en ces lieux,</l>
 	<l id="388">Parmi des ennemis défiants, furieux !</l>
 	<l id="389">Au plaisir de vous voir, ciel ! Quel trouble succède !</l>
@@ -560,21 +560,21 @@
 	<l id="395">Mais ce n’est pas ici qu’on doit la couronner.</l>
 	<l id="396" part="i">À la cour d’un tyran...</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="396" part="f">Cesse de t’étonner.</l>
 	<l id="397">Le vainqueur des deux rois de Corinthe et d’Athènes,</l>
 	<l id="398">Le guerrier défenseur d’Égisthe et de Mycènes,</l>
 	<l id="399" part="i">N’est autre que Tydée.</l>
 </sp>
-<sp who="ANTÉNOR"><speaker>ANTÉNOR.</speaker>
+<sp who="ANTÉNOR"><hstage><speaker>ANTÉNOR</speaker>.</hstage>
 	<l id="399" part="f">Et quel est votre espoir ?</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="400">Avant que d’éclaircir ce que tu veux savoir,</l>
 	<l id="401">Dans ce fatal séjour dis-moi ce qui t’amène.</l>
 	<l id="402">Que dit-on à Samos ? Que fait l’heureux Thyrrhène ?</l>
 </sp>
-<sp who="ANTÉNOR"><speaker>ANTÉNOR.</speaker>
+<sp who="ANTÉNOR"><hstage><speaker>ANTÉNOR</speaker>.</hstage>
 	<l id="403">Ce grand roi, qui chérit Oreste avec transport,</l>
 	<l id="404">Depuis plus de six mois incertain de son sort,</l>
 	<l id="405">Alarmé chaque jour et du sien et du vôtre,</l>
@@ -585,26 +585,26 @@
 	<l id="410">Vos yeux semblent voilés d’une sombre tristesse.</l>
 	<l id="411">De tout ce que je vois mon esprit éperdu...</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="412">Anténor, c’en est fait ! Tydée a tout perdu.</l>
 </sp>
-<sp who="ANTÉNOR"><speaker>ANTÉNOR.</speaker>
+<sp who="ANTÉNOR"><hstage><speaker>ANTÉNOR</speaker>.</hstage>
 	<l id="413">Seigneur, éclaircissez ce terrible mystère.</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="414" part="i">Oreste est mort...</l>
 </sp>
-<sp who="ANTÉNOR"><speaker>ANTÉNOR.</speaker>
+<sp who="ANTÉNOR"><hstage><speaker>ANTÉNOR</speaker>.</hstage>
 	<l id="414" part="m">Grands dieux !</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="414" part="f">Et je n’ai plus de père.</l>
 </sp>
-<sp who="ANTÉNOR"><speaker>ANTÉNOR.</speaker>
+<sp who="ANTÉNOR"><hstage><speaker>ANTÉNOR</speaker>.</hstage>
 	<l id="415">Palamède n’est plus ! Ah ! Destins rigoureux !</l>
 	<l id="416">Et qui vous l’a ravi ? Par quel malheur affreux...</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="417">Tu sais ce qu’en ces lieux nous venions entreprendre :</l>
 	<l id="418">Tu sais que Palamède, avant que de s’y rendre,</l>
 	<l id="419">Ne voulut point tenter son retour dans Argos,</l>
@@ -635,11 +635,11 @@
 	<l id="444">Ne m’offrit que des flots de nos débris couverts ;</l>
 	<l id="445" part="i">Tout périt.</l>
 </sp>
-<sp who="ANTÉNOR"><speaker>ANTÉNOR.</speaker>
+<sp who="ANTÉNOR"><hstage><speaker>ANTÉNOR</speaker>.</hstage>
 	<l id="445" part="f">Eh ! comment, dans ce desordre extrême,</l>
 	<l id="446">Pûtes-vous au péril vous derober vous-même ?</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="447">Tout offrait à mes yeux l’inévitable mort :</l>
 	<l id="448">Mais j’y courais en vain ; la rigueur de mon sort</l>
 	<l id="449">A de plus grands malheurs me réservoit encore,</l>
@@ -683,12 +683,12 @@
 	<l id="487">Je porte la terreur chez des peuples heureux,</l>
 	<l id="488">Et la paix va se faire aux dépens de mes vœux.</l>
 </sp>
-<sp who="ANTÉNOR"><speaker>ANTÉNOR.</speaker>
+<sp who="ANTÉNOR"><hstage><speaker>ANTÉNOR</speaker>.</hstage>
 	<l id="489">Ah ! seigneur, fallait-il, à l’amour trop sensible,</l>
 	<l id="490">Armer pour un tyran votre bras invincible?</l>
 	<l id="491">Et que prétendez-vous d’un succès si honteux ?</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="492">Anténor, que veux-tu ? Prends pitié de mes feux,</l>
 	<l id="493">Plains mon sort : non, jamais on ne fut plus à plaindre.</l>
 	<l id="494">Il est enror pour moi des maux bien plus à craindre.</l>
@@ -739,8 +739,8 @@
 	<l id="539">Partons, dérobons-nous la douceur d’un adieu.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Iphianasse, Tydée, Mélite, Anténor.</head>
-<sp who="IPHIANASSE"><speaker>IPHIANASSE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Iphianasse, Tydée, Mélite, Anténor.</cast>
+<sp who="IPHIANASSE"><hstage><speaker>IPHIANASSE</speaker>.</hstage>
 <stage>À Mélite.</stage>
 	<l id="540" part="i">Ah Melite! que vois-je?...</l>
 <stage>À Tydée.</stage>
@@ -748,7 +748,7 @@
 	<l id="541">En ce moment, Seigneur, mon père devait être.</l>
 	<l id="542" part="i">Je croyais...</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="542" part="f">En effet, il y devait paraître.</l>
 	<l id="543">Madame, même soin nous conduisait ici ;</l>
 	<l id="544">Vous y cherchez le roi, je l’y cherchois aussi.</l>
@@ -757,7 +757,7 @@
 	<l id="547">Rendre gräce à la main qui les répand sur moi,</l>
 	<l id="548">Et, dans le même temps, prendre congé du roi.</l>
 </sp>
-<sp who="IPHIANASSE"><speaker>IPHIANASSE.</speaker>
+<sp who="IPHIANASSE"><hstage><speaker>IPHIANASSE</speaker>.</hstage>
 	<l id="549">Ce départ aura lieu, Seigneur, de le surprendre :</l>
 	<l id="550">Moi-même en ce moment j’ai peine à le comprendre.</l>
 	<l id="551">Et pourquoi de ces lieux vous bannir aujourd’hui,</l>
@@ -765,7 +765,7 @@
 	<l id="553">Vous le savez, la paix n’est pas encor jurée :</l>
 	<l id="554">La victoire, sans vous, serait-elle assurée?</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="555">Oui, Madame ; et vos yeux n’ont-ils pas tout soumis ?</l>
 	<l id="556">Le roi peut-il encor craindre des ennemis ?</l>
 	<l id="557">Que ne vaincrez-vous point ? Quelle haine obstinée</l>
@@ -775,11 +775,11 @@
 	<l id="561">Et, si j’en crois la cour, cette grande journée</l>
 	<l id="562">Doit voir Iphianasse à son lit destinée.</l>
 </sp>
-<sp who="IPHIANASSE"><speaker>IPHIANASSE.</speaker>
+<sp who="IPHIANASSE"><hstage><speaker>IPHIANASSE</speaker>.</hstage>
 	<l id="563">Non, le roi de Corinthe en est en vain épris,</l>
 	<l id="564">Si la tête d’Oreste en doit être le prix.</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="565">Quoi ! La tête d’Oreste ! Ah ! La paix est conclue,</l>
 	<l id="566">Madame, et de ces lieux ma fuite est résolue :</l>
 	<l id="567">Vous n’avez plus besoin du secours de mon bras.</l>
@@ -797,10 +797,10 @@
 	<l id="579">Quels efforts, quels travaux, quels illustres projets</l>
 	<l id="580">N’eût point tentés ce cœur charmé de vos attraits ?</l>
 </sp>
-<sp who="IPHIANASSE"><speaker>IPHIANASSE.</speaker>
+<sp who="IPHIANASSE"><hstage><speaker>IPHIANASSE</speaker>.</hstage>
 	<l id="581" part="i">Seigneur !</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="581" part="f">Je le vois bien, ce discours vous offense.</l>
 	<l id="582">Je n’ai pu vous revoir et garder le silence ;</l>
 	<l id="583">Mais je vais m’en punir par un exil affreux,</l>
@@ -808,7 +808,7 @@
 	<l id="585">Qui, trop plein d’un amour qu’Iphianasse inspiré,</l>
 	<l id="586">En dit-moins qu’il ne sent, mais plus qu’il n’en doit dire.</l>
 </sp>
-<sp who="IPHIANASSE"><speaker>IPHIANASSE.</speaker>
+<sp who="IPHIANASSE"><hstage><speaker>IPHIANASSE</speaker>.</hstage>
 	<l id="587">J’ignore quel dessein vous a fait révéler</l>
 	<l id="588">Un amour que l’espoir semble avoir fait parler.</l>
 	<l id="589">Mais, seigneur, je ne puis recevoir sans colère</l>
@@ -820,7 +820,7 @@
 </sp>
 </div2>
 <div2 typE="scene" n="3"><head>SCÈNE III. Tydée, Anténor.</head>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="595">Qu’aj-je dit ? Où laissé-je égarer mes esprits ?</l>
 	<l id="596">Moi parler, pour me voir accabler de mépris !</l>
 	<l id="597">Les ai-je mérites, cruelle Iphianasse ?</l>
@@ -837,11 +837,11 @@
 	<l id="608">Des yeux indifférents que je ne dois plus voir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Égisthe, Tydée, Anténor.</head>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Égisthe, Tydée, Anténor.</cast>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="609">Le roi vient ; dans mon trouble il faut que je l’évite.</l>
 </sp>
-<sp who="ÉGISTHE"><speaker>ÉGISTHE.</speaker>
+<sp who="ÉGISTHE"><hstage><speaker>ÉGISTHE</speaker>.</hstage>
 	<l id="610">Demeurez, et souffrez qu’envers vous je m’acquitte.</l>
 	<l id="611">Ainsi que le héros brille par ses exploits,</l>
 	<l id="612">La grandeur des bienfaits doit signaler les rois.</l>
@@ -856,7 +856,7 @@
 	<l id="621">Même ici mon abord a paru vous surprendre.</l>
 	<l id="622">Avez-vous des secrets que je ne puisse apprendre ?</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="623">De tels secrets, Seigneur, sont peu dignes de vous ;</l>
 	<l id="624">Je crains peu qu’un grand roi puisse en être jaloux;</l>
 	<l id="625">Permettez cependant qu’à mon devoir fidèle</l>
@@ -870,7 +870,7 @@
 	<l id="633">J’en suis comblé, Seigneur ; mon âme est satisfaite ;</l>
 	<l id="634">Je ne demande plus qu’une libre retraite.</l>
 </sp>
-<sp who="ÉGISTHE"><speaker>ÉGISTHE.</speaker>
+<sp who="ÉGISTHE"><hstage><speaker>ÉGISTHE</speaker>.</hstage>
 	<l id="635">Un intérêt trop cher s’oppose à ce départ :</l>
 	<l id="636">Argos perdrait en vous son plus ferme rempart.</l>
 	<l id="637">Des héros tels que vous, sitôt qu’on les possède,</l>
@@ -880,10 +880,10 @@
 	<l id="641">Je vous dois le salut de toute ma famille,</l>
 	<l id="642">Et ne veux point sans vous disposer de ma fille.</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE, à part.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>, à part.</hstage>
 	<l id="643" part="i">Ciel ! Où tend ce discours ?</l>
 </sp>
-<sp who="ÉGISTHE"><speaker>ÉGISTHE.</speaker>
+<sp who="ÉGISTHE"><hstage><speaker>ÉGISTHE</speaker>.</hstage>
 	<l id="643" part="f">Oui, Seigneur, c’est en vain</l>
 	<l id="644">Qu’avec la paix un roi me demande sa main :</l>
 	<l id="645">Quelque éclataut que soit un pareil hyménée,</l>
@@ -899,10 +899,10 @@
 	<l id="655">Ma fille est à ce prix ; et cet effort si grand,</l>
 	<l id="656">Ce n’est que de vous seul que ma haine l’attend.</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="657" part="i">De moi, seigneur ? De moi ? Juste ciel !</l>
 </sp>
-<sp who="ÉGISTHE"><speaker>ÉGISTHE.</speaker>
+<sp who="ÉGISTHE"><hstage><speaker>ÉGISTHE</speaker>.</hstage>
 	<l id="657" part="f">De vous-même.</l>
 	<l id="658">Calmez de ce transport la violence extrême.</l>
 	<l id="659">Quelle horreur vous inspire un si juste dessein ?</l>
@@ -931,7 +931,7 @@
 	<l id="682">Quand j’ai fondé sur vous l’espoir de ma vengeance ?</l>
 	<l id="683">Vous ne répondez point ! Ah ! Qu’est-ce que je vois ?</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="684">La juste horreur du coup qu’on exige de moi.</l>
 	<l id="685">Mais il faut aujourd’hui, par plus de confiance,</l>
 	<l id="686">Payer de votre cœur l’affreuse confidence.</l>
@@ -955,7 +955,7 @@
 	<l id="704">Aux dépens de mes jours l’avoir sauvé des flots !</l>
 	<l id="705">Mais, hélas ! C’en est fait; Oreste et Palamède...</l>
 </sp>
-<sp who="ÉGISTHE"><speaker>ÉGISTHE.</speaker>
+<sp who="ÉGISTHE"><hstage><speaker>ÉGISTHE</speaker>.</hstage>
 	<l id="706">Ils sont morts ? Quelle joie à mes craintes succède !</l>
 	<l id="707">Grands dieux, qui me rendez le plus heureux des rois,</l>
 	<l id="708">Qui pourra m’acquitter de ce que je vous dois ?</l>
@@ -964,7 +964,7 @@
 	<l id="711">Comment le juste ciel a terminé son sort,</l>
 	<l id="712">En quels lieux, quels temoins vous avez de sa mort.</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="713">Mes pleurs. Mais, au transport dont votre âme est éprise,</l>
 	<l id="714">Je me repens déjà de vous l’avoir apprise.</l>
 	<l id="715">Vous voulez de son sort en vain vous éclaircir ;</l>
@@ -972,7 +972,7 @@
 	<l id="717">Je ne ressens que trop sa perte déplorable,</l>
 	<l id="718">Sans m’imposer encore un récit qui m’accable.</l>
 </sp>
-<sp who="ÉGISTHE"><speaker>ÉGISTHE.</speaker>
+<sp who="ÉGISTHE"><hstage><speaker>ÉGISTHE</speaker>.</hstage>
 	<l id="719">Je ne vous presse plus, Seigneur, sur ce récit.</l>
 	<l id="720">Oreste ne vit plus ; son trépas me suffit :</l>
 	<l id="721">Votre pitié pour lui n’a rien dont je m’offense ;</l>
@@ -986,7 +986,7 @@
 	<l id="729">Si sur ce choix votre âme est encore incertaine,</l>
 	<l id="730">Je vous laisse y penser, et je cours chez la reine.</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE, à part.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>, à part.</hstage>
 	<l id="731">Et moi, de toutes parts de remords combattu,</l>
 	<l id="732">Je vais sur mon amour consulter ma vertu.</l>
 </sp>
@@ -994,7 +994,7 @@
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
 <div2 typ="scene" n="1"><head>SCÈNE I.</head>
-<sp who="TYDÉE"><speaker>TYDÉE, seul.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>, seul.</hstage>
 	<l id="733">Électre veut me voir ! Ah ! Mon âme éperdue</l>
 	<l id="734">Ne soutiendra jamais ni ses pleurs ni sa vue.</l>
 	<l id="735">Trop infidèle ami du fils d’Agamemnon,</l>
@@ -1029,7 +1029,7 @@
 </sp>
 </div2>
 <div2 typ="scene" n="2"><head>SCÈNE II. Électre, Tydée.</head>
-<sp who="TYDÉE"><speaker>TYDÉE, à lui-même.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>, à lui-même.</hstage>
 	<l id="763" part="f">Mais quel objet se présente à mes yeux ?</l>
 	<l id="764">Dieux ! Quels tristes accents font retentir ces lieux !</l>
 	<l id="765">C’est une esclave en pleurs ; hélas ! Qu’elle a de charmes !</l>
@@ -1037,23 +1037,23 @@
 	<l id="767">Que je me sens touché de ses gémissements !</l>
 	<l id="768">Ah ! Que les malheureux éprouvent de tourments !</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE, à part.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>, à part.</hstage>
 	<l id="769">Dieux puissants, qui l’avez si longtemps poursuivie,</l>
 	<l id="770">Épargnez-vous encore une mourante vie ?</l>
 	<l id="771">Je ne le verrai plus ! Inexorables dieux,</l>
 	<l id="772">D’une éternelle nuit couvrez mes tristes yeux.</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="773">Je sens qu’à votre sort la pitié m’intéresse.</l>
 	<l id="774">Ne pourrai-je savoir quelle douleur vous presse ?</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="775">Hélas ! Qui ne connaît mon nom et mes malheurs ?</l>
 	<l id="776">Et qui peut ignorer le sujet de mes pleurs ?</l>
 	<l id="777">Un désespoir affreux est tout ce qui me reste.</l>
 	<l id="778">Ô déplorable sang ! Ô Malheureux Oreste !</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="779">Ah ! Juste ciel quel nom avez-vous prononcé !</l>
 	<l id="780">À vos pleurs, à ce nom, que mon cœur est pressé !</l>
 	<l id="781">Qu’il porte à ma pitié de sensibles atteintes !</l>
@@ -1061,20 +1061,20 @@
 	<l id="783">Malheureuse princesse, est-ce vous que je vois ?</l>
 	<l id="784">Électre, en quel état vous offrez-vous à moi ?</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="785">Et qui donc s’attendrit pour une infortunée,</l>
 	<l id="786">À la fureur d’Égisthe, aux fers abandonnée ?</l>
 	<l id="787">Mais Oreste, Seigneur, vous était-il connu ?</l>
 	<l id="788">À mes pleurs, à son nom, votre cœur s’est ému.</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="789">Dieux ! S’il m’était connu ! Mais dois-je vous l’apprendre,</l>
 	<l id="790">Après avoir trahi l’amitié la plus tendre ?</l>
 	<l id="791">Dieux ! S’il m’était connu ce prince généreux !</l>
 	<l id="792">Ah Madame ! C’est moi qui de son sort affreux</l>
 	<l id="793">Viens de répandre ici la funeste nouvelle.</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="794">Il est donc vrai, seigneur ? et la Parque cruelle</l>
 	<l id="795">M’a ravi de mes vœux et l’espoir et le prix ?</l>
 	<l id="796">Mais, quel étonnement vient frapper mes esprits !</l>
@@ -1085,13 +1085,13 @@
 	<l id="801">Pouvez-vous bien encor plaindre ma destinée,</l>
 	<l id="802">Tout rempli de l’espoir d’un fatal hyménée ?</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="803">Eh ! Que diriez-vous donc si mon indigne cœur</l>
 	<l id="804">De ses coupables feux vous découvrait l’horreur ?</l>
 	<l id="805">De quel œil verriez-vous l’ardeur qui me possède,</l>
 	<l id="806">Si vous voyiez en moi le fils de Palamède ?</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="807">De Palamède ! Vous ? Qu’ai-je entendu, grands dieux !</l>
 	<l id="808">Mais vous ne l’êtes point, Tydée est vertueux :</l>
 	<l id="809">Il n’eût point fait rougir les mânes de son père ;</l>
@@ -1103,7 +1103,7 @@
 	<l id="815">De Tydée, il est vrai, vous avez la valeur ;</l>
 	<l id="816">Mais vous n’en avez pas la vertu ni le cœur.</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="817">À mes remords du moins faites grace, Madame.</l>
 	<l id="818">Il est vrai, j’ai brûlé d’une coupable flamme ;</l>
 	<l id="819">Il n’est point de devoirs plus sacrés que les miens :</l>
@@ -1119,7 +1119,7 @@
 	<l id="829">D’ailleurs, à la fureur de Corinthe et d’Athènes</l>
 	<l id="830">Pouvois-je abandonner le trône de Mycènes ?</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="831">Juste ciel ! Et pour qui l’avez-vous conservé ?</l>
 	<l id="832">Cruel ! Si c’est pour moi que vous l’avez sauvé.</l>
 	<l id="833">Venez donc de ce pas immoler un barbare :</l>
@@ -1147,7 +1147,7 @@
 	<l id="855">Ah cruel ! Cette main, si vous m’abandonnez,</l>
 	<l id="856">Va trancher à vos yeux mes jours infortunés.</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="857">Moi, vous abandonner ! Ah ! Quelle âme endurcie</l>
 	<l id="858">Par des pleurs si touchants ne serait adoucie ?</l>
 	<l id="859">Moi, vous abandonner ! Plutôt mourir cent fois.</l>
@@ -1161,7 +1161,7 @@
 	<l id="867">Je ne sais, mais je sens qu’à l’aspect de ces lieux</l>
 	<l id="868">Égisthe à chaque instant me devient odieux.</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="869">À l’ardeur dont enfin ma haine est secondée,</l>
 	<l id="870">À ce noble transport je reconnais Tydée.</l>
 	<l id="871">Malgré tous mes malheurs, que ce moment m’est doux !</l>
@@ -1173,15 +1173,15 @@
 	<l id="877">Pour peu qu’à ma douleur votre cœur s’intéresse.</l>
 <stage>Elle sort.</stage>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="878">Mais qui venait à nous ? Ah dieux ! C’est la princesse.</l>
 	<l id="879">Quel dessein en ce lieu peut conduire ses pas ?</l>
 	<l id="880">Dans le trouble où je suis, que lui dirai-je ? Hélas !</l>
 	<l id="881">Que je crains les transports où mon âme s’égare !</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Iphiniass, Tydée, Mélite.</head>
-<sp who="IPHIANASSE"><speaker>IPHIANASSE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Iphiniass, Tydée, Mélite.</cast>
+<sp who="IPHIANASSE"><hstage><speaker>IPHIANASSE</speaker>.</hstage>
 	<l id="882">Quel trouble, à mon aspect, de votre cœur s’empare ?</l>
 	<l id="883">Vous ne répondez point, Seigneur ! Je le vois bien,</l>
 	<l id="884">J’ai troublé la douceur d’un secret entretien.</l>
@@ -1191,7 +1191,7 @@
 	<l id="888">La douleur qu’elle éprouve est peinte dans vos yeux.</l>
 	<l id="889">Interdit et confus... Quel est donc ce mystère ?</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="890">Madame, vous savez qu’elle a perdu son frère,</l>
 	<l id="891">Que c’est moi seul qui viens d’en informer le Roi :</l>
 	<l id="892">Électre a souhaité s’en instruire par moi.</l>
@@ -1199,14 +1199,14 @@
 	<l id="894">N’a pu, sans s’attendrir à ses maux déplorables,</l>
 	<l id="895">Après le coup affreux qui vient de la frapper...</l>
 </sp>
-<sp who="IPHIANASSE"><speaker>IPHIANASSE.</speaker>
+<sp who="IPHIANASSE"><hstage><speaker>IPHIANASSE</speaker>.</hstage>
 	<l id="896">N’est il que sa douleur qui vous doive occuper ?</l>
 	<l id="897">Ce n’est pas que mon cœur veuille vous faire un crime</l>
 	<l id="898">D’un soin que ses malheurs rendent si légitime ;</l>
 	<l id="899">Mais, Seigneur, je ne sais si ce soin généreux</l>
 	<l id="900">A dû seul vous toucher, quand tout flatte vos vœux.</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="901">Non, des bontés du roi mon âme enorgueillie</l>
 	<l id="902">Ne se méconnaît point quand lui-même il s’oublie.</l>
 	<l id="903">S’il descend jusqu’à moi pour le choix d’un époux,</l>
@@ -1216,7 +1216,7 @@
 	<l id="907">Votre rang, ma naissance, un barbare devoir,</l>
 	<l id="908">Tout défend à mon cœur un si charmant espoir.</l>
 </sp>
-<sp who="IPHIANASSE"><speaker>IPHIANASSE.</speaker>
+<sp who="IPHIANASSE"><hstage><speaker>IPHIANASSE</speaker>.</hstage>
 	<l id="909">Je comprends la rigueur d’un devoir si barbare,</l>
 	<l id="910">Et conçois mieux que vous tout ce qui nous sépare !</l>
 	<l id="911">Plus que vous ne voulez, j’entrevois vos raisons.</l>
@@ -1228,24 +1228,24 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="TYDÉE"><speaker>TYDÉE, seul.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>, seul.</hstage>
 	<l id="917">Qu’ai-je fait, malheureux ! Y pourrai-je survivre ?</l>
 	<l id="918">Mais quoi ! L’abandonner ! Non, non, il faut la suivre.</l>
 	<l id="919">Allons. Qui peut encor m’arrêter en ces lieux ?</l>
 	<l id="920" part="i">Courons où mon amour...</l>
  </sp>
  </div2>
- <div2 type="scene" n="5"><head>SCÈNE V. Palamède, Tydée.</head>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+ <div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Palamède, Tydée.</cast>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="920" part="f">Que vois-je ? Justes dieux :</l>
 	<l id="921">Ô sort, à tes rigueurs quelle douceur succède !</l>
 	<l id="922">Ô mon père ! Est-ce vous ? Est-ce vous, Palamède ?</l>
 </sp>
-<sp who="PALAMÈDE"><speaker>PALAMÈDE.</speaker>
+<sp who="PALAMÈDE"><hstage><speaker>PALAMÈDE</speaker>.</hstage>
 	<l id="923">Embrassez-moi, mon fils : après tant de malheurs,</l>
 	<l id="924">Qu’il m’est doux de revoir l’objet de tant de pleurs !</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="925">S’il est vrai que les biens qui nous coûtent des larmes</l>
 	<l id="926">Doivent pour un cœur tendre avoir le plus de charmes,</l>
 	<l id="927">Hélas ! Après les pleurs que j’ai versés pour vous,</l>
@@ -1263,7 +1263,7 @@
 	<l id="939">Mais vous versez des pleurs ! Ah ! N’est-ce que pour lui</l>
 	<l id="940">Que les dieux sons détour s’expliquent aujourd’hui ?</l>
 </sp>
-<sp who="PALAMÈDE"><speaker>PALAMÈDE.</speaker>
+<sp who="PALAMÈDE"><hstage><speaker>PALAMÈDE</speaker>.</hstage>
 	<l id="941">N’accusez point des dieux la sagesse suprême ;</l>
 	<l id="942">Croyez, mon fils, croyez qu’elle est toujours la même !</l>
 	<l id="943">Gardons-nous de vouloir, faibles et curieux,</l>
@@ -1293,7 +1293,7 @@
 	<l id="967">Parlez enfin, quel soin vous retient en des lieux</l>
 	<l id="968">Où vous n’osez punir un tyran odieux ?</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="969">Prévenu des malheurs d’une tête si chère,</l>
 	<l id="970">Ma première vengeance était due à mon père...</l>
 	<l id="971">Mais, seigneur, n’est-ce point dans ces funestes lieux</l>
@@ -1301,7 +1301,7 @@
 	<l id="973">N’est-ce point trop compter sur une longue absence,</l>
 	<l id="974">Que d’oser s’y montrer avec tant d’assurance ?</l>
 </sp>
-<sp who="PALAMÈDE"><speaker>PALAMÈDE.</speaker>
+<sp who="PALAMÈDE"><hstage><speaker>PALAMÈDE</speaker>.</hstage>
 	<l id="975">Mon fils, j’ai tout prévu ; calmez ce vain effroi :</l>
 	<l id="976">C’est à mes ennemis à trembler, non à moi.</l>
 	<l id="977">Eh ! Comment en ces lieux craindrais-je de paroître,</l>
@@ -1338,10 +1338,10 @@
 	<l id="1008">Je vous l’ordonne enfin, parlez, répondez-moi :</l>
 	<l id="1009">D’un désordre si grand que faut-il que je pense ?</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="1010">Ne pénétrez-vous point un si triste silence ?</l>
 </sp>
-<sp who="PALAMÈDE"><speaker>PALAMÈDE.</speaker>
+<sp who="PALAMÈDE"><hstage><speaker>PALAMÈDE</speaker>.</hstage>
 	<l id="1011">Qu’entends-je ? Quel soupçon vient s’offrir in mon cœur !</l>
 	<l id="1012">Quoi ! Mon fils... Dieux puissants, laissez-moi mon erreur.</l>
 	<l id="1013">Ah ! Tydée, est-ce vous qui prenez la défense</l>
@@ -1350,7 +1350,7 @@
 	<l id="1016">Du cruel qui des miens cherche a trancher le cours ?</l>
 	<l id="1017">Fallait-il vous revoir, pour vous voir si coupable ?</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="1018">N’irritez point, Seigneur, la douleur qui m’accable</l>
 	<l id="1019">Votre vertu, toujours constante en ses projets,</l>
 	<l id="1020">Ne fait que redoubler l’horreur de mes forfaits.</l>
@@ -1363,7 +1363,7 @@
 	<l id="1027">Je sens que les remords d’un cœur né vertueux</l>
 	<l id="1028">Souvent, pour le punir, vont plus loin que les dieux.</l>
 </sp>
-<sp who="PALAMÈDE"><speaker>PALAMÈDE.</speaker>
+<sp who="PALAMÈDE"><hstage><speaker>PALAMÈDE</speaker>.</hstage>
 	<l id="1029">Qu’importe a mes desseins le remords qui l’agite ?</l>
 	<l id="1030">Croyez-vous qu’envers moi le remords vous acquitte ?</l>
 	<l id="1031">Perfide ! Il est donc vrai, je n’en puis plus douter,</l>
@@ -1375,26 +1375,26 @@
 	<l id="1037">Fils ingrat, c’est du sang de votre indigne amante</l>
 	<l id="1038">Qu’à vos yeux trop charmés je veux l’offrir fumante.</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="1039">Il faudra donc, avant que de verser le sien,</l>
 	<l id="1040">Commencer aujourd’hui par répandre le mien.</l>
 	<l id="1041">Puisqu’à votre courroux il faut une victime,</l>
 	<l id="1042">Frappez, Seigneur, frappez : voilà l’auteur du crime.</l>
 </sp>
-<sp who="PALAMÈDE"><speaker>PALAMÈDE.</speaker>
+<sp who="PALAMÈDE"><hstage><speaker>PALAMÈDE</speaker>.</hstage>
 	<l id="1043">Juste ciel ! Se peut-il qu’à l’aspect de ces lieux,</l>
 	<l id="1044">Fumants encor d’un sang pour lui si précieux,</l>
 	<l id="1045">Dans le fond de son cœur la voix de la nature</l>
 	<l id="1046">M’excite en ce moment ni trouble ni murmure ?</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="1047">Et que m’importe à moi le sang d’Agamemnon ?</l>
 	<l id="1048">Quel interêt si saint m’attache à ce grand nom,</l>
 	<l id="1049">Pour lui sacrifier les transports de mon âme,</l>
 	<l id="1050">Et le prix glorieux qu’on propose à ma flamme ?</l>
 	<l id="1051">Et pourquoi votre fils lui doit-il immoler...</l>
 </sp>
-<sp who="PALAMÈDE"><speaker>PALAMÈDE.</speaker>
+<sp who="PALAMÈDE"><hstage><speaker>PALAMÈDE</speaker>.</hstage>
 	<l id="1052">Si je disais un mot, je vous ferais trembler.</l>
 	<l id="1053">Vous n’êtes point mon fils, ni digne encor de l’être :</l>
 	<l id="1054">Par d’autres sentiments vous le feriez connaître.</l>
@@ -1404,16 +1404,16 @@
 	<l id="1058">Un si coupable amour n’est digne que d’Oreste.</l>
 	<l id="1059">Mon fils de son devoir eût été plus jaloux.</l>
 </sp>
-<sp who="TYDÉE"><speaker>TYDÉE.</speaker>
+<sp who="TYDÉE"><hstage><speaker>TYDÉE</speaker>.</hstage>
 	<l id="1060" part="i">Et quel est donc, Seigneur, cet Oreste ?</l>
 </sp>
-<sp who="PALAMÈDE"><speaker>PALAMÈDE.</speaker>
+<sp who="PALAMÈDE"><hstage><speaker>PALAMÈDE</speaker>.</hstage>
 	<l id="1060" part="f">C’est vous.</l>
 </sp>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1061" part="i">Oreste, moi, Seigneur ! Dieux ! Qu’entends je ?</l>
 </sp>
-<sp who="PALAMÈDE"><speaker>PALAMÈDE.</speaker>
+<sp who="PALAMÈDE"><hstage><speaker>PALAMÈDE</speaker>.</hstage>
 	<l id="1061" part="f">Oui, vous-même i</l>
 	<l id="1062">Qui ne devez vos jours qu’à ma tendresse extrême.</l>
 	<l id="1063">Le traître dont ici vous protégez le sang</l>
@@ -1439,7 +1439,7 @@
 	<l id="1083">Il vivait pour vous seul, il serait mort pour vous ;</l>
 	<l id="1084">C’en est assez, cruel, pour exciter vos coups.</l>
 </sp>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1085">Poursuivez, ce transport n’est que trop légitime :</l>
 	<l id="1086">Égalez, s’il se peut, le reproche à mon crime ;</l>
 	<l id="1087">Accablez-en, Seigneur, un amour odieux,</l>
@@ -1455,7 +1455,7 @@
 	<l id="1097">Honteux de voir encor le jour qui nous éclaire,</l>
 	<l id="1098">Je m’abandonne à vous ; parlez, que faut-il faire ?</l>
 </sp>
-<sp who="PALAMÈDE"><speaker>PALAMÈDE.</speaker>
+<sp who="PALAMÈDE"><hstage><speaker>PALAMÈDE</speaker>.</hstage>
 	<l id="1099">Arracher votre sœur a mille indignités :</l>
 	<l id="1100">Apaiser d’un grand Roi les mânes irrités,</l>
 	<l id="1101">Les venger des fureurs d’une barbare mère :</l>
@@ -1469,7 +1469,7 @@
 	<l id="1109">Que vous dirai-je enfin ? Contre un amour funeste</l>
 	<l id="1110">Reprendre, avec le nom, des soins dignes d’Oreste.</l>
 </sp>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1111">Ne craignez point qu’Oreste, indigne de ce nom,</l>
 	<l id="1112">Démente la fierté du sang d’Agamemnon.</l>
 	<l id="1113">Venez, si vous doutez qu’il inmtât d’en être,</l>
@@ -1479,7 +1479,7 @@
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE, seule.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>, seule.</hstage>
 	<l id="1115">Où laissé-je égarer mes vœux et mes esprits ?</l>
 	<l id="1116">Juste ciel ! Qu’ai-je vu ? Mais, hélas ! Qu’ai-je appris ?</l>
 	<l id="1117">Oreste ne vit plus ; tout veut que je le croie,</l>
@@ -1518,11 +1518,11 @@
 	<l id="1149">Mon frère... Quel transport s’empare de mon âme !</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Oreste, Électre.</head>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE, à part.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Oreste, Électre.</cast>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>, à part.</hstage>
 	<l id="1150" part="i">Mais, hélas ! Il est seul.</l>
 </sp>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1150" part="f">Je vous cherche, Madame.</l>
 	<l id="1151">Tout semble désormais servir votre courroux;</l>
 	<l id="1152">Votre indigne ennemi va tomber sous nos coups.</l>
@@ -1531,25 +1531,25 @@
 	<l id="1155">Le ciel à vos amis vient de joindre un vengeur</l>
 	<l id="1156" part="i">Que nous n’attendions plus.</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="1156" part="f">Et quel est il, seigneur ?</l>
 	<l id="1157">Que dis-je ? Puis-je encor méconnaître mon frère ?</l>
 	<l id="1158" part="i">N’en doutons plus, c’est lui.</l>
 </sp>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1158" part="f">Madame, c’est mon père.</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE, lit.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>, lit.</hstage>
 	<l id="1159">Votre père, Seigneur! Et d’où vient qu’aujourd’hui</l>
 	<l id="1160">Oreste a mon secours ne vient point avec lui ?</l>
 	<l id="1161">Peut-il abandonner une triste princesse ?</l>
 	<l id="1162">Est-ce ainsi qu’à me voir son amitié s’empresse ?</l>
 </sp>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1163">Vous le savez, Oreste a vu les sombres bords ;</l>
 	<l id="1164">Et l’on ne revient point de l’empire des morts.</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="1165">Et n’avez-vous pas cru, Seigneur, qu’avec Oreste</l>
 	<l id="1166">Palamède avait vu cet empire funeste ?</l>
 	<l id="1167">Il revoit cependant la clarté qui nous luit :</l>
@@ -1585,11 +1585,11 @@
 	<l id="1197">Ah ! Donnez-moi la mort, ou me rendez Oreste ;</l>
 	<l id="1198">Rendez-moi, par pitié, le seul bien qui me reste.</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="1199">Eh bien ! Il vit encore ; il est même en ces lieux.</l>
 	<l id="1200" part="i">Gardez-vous cependant...</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="1200" part="f">Qu’il paraisse à mes yeux.</l>
 	<l id="1201">Oreste, se peut-il qu’Électre te revoie ?</l>
 	<l id="1202">Montrez-le-moi, dussé-je en expirer de joie.</l>
@@ -1604,17 +1604,17 @@
 	<l id="1211">Que ces traits, ces regards, pour elle ont de douceur !</l>
 	<l id="1212" part="i">C’est donc vous que j’embrasse, ô mon frère !</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="1212" part="f">Ah ma sœur !</l>
 	<l id="1213">Mon amitié trahit un important mystère.</l>
 	<l id="1214">Mais, hélas ! Que ne peut Électre sur son frère ?</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="1215">Est-ce de moi, cruel, qu’il faut vous défier,</l>
 	<l id="1216">D’une sœur qui voudrait tout vous sacrifier ?</l>
 	<l id="1217">Et quelle autre amitié fut jamais si parfaite ?</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="1218">Je n’ai craint que l’ardeur d’une joie indiscrète.</l>
 	<l id="1219">Dissimulez des soins quoique pour moi si doux :</l>
 	<l id="1220">Ma sœur, à me cacher j’ai souffert plus que vous.</l>
@@ -1627,7 +1627,7 @@
 	<l id="1227">Et peut-être, sans vous, moins sensible à vos maux,</l>
 	<l id="1228">Envierais-je le sort qu’il trouva dans les flots.</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="1229">Se peut-il qu’en regrets votre cœur se consume ?</l>
 	<l id="1230">Ah ! Seigneur, laissez-moi jouir sans amertume</l>
 	<l id="1231">Du plaisir de revoir un frère tant aimé.</l>
@@ -1639,7 +1639,7 @@
 	<l id="1237">Quel que soit votre amour, les traits d’Iphianasse</l>
 	<l id="1238">N’ont rien de si charmant que la vertu n’efface.</l>
 </sp>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1239">La vertu sur mon cœur n’a que trop de pouvoir,</l>
 	<l id="1240">Ma sœur ; et mon nom seul suffit à mon devoir.</l>
 	<l id="1241">Non, ne redoutez rien du feu qui me possède.</l>
@@ -1647,27 +1647,27 @@
 </sp>
 </div2>
 <div2 typ="scene" n="3"><head>SCÈNE III. Oreste, Électre, Palamède, Anténor.</head>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1242" part="f">Mais non, c’est Palamède.</l>
 </sp>
-<sp who="PALAMÈDE"><speaker>PALAMÈDE.</speaker>
+<sp who="PALAMÈDE"><hstage><speaker>PALAMÈDE</speaker>.</hstage>
 	<l id="1243">Anténor, demeurez ; observez avec soin</l>
 	<l id="1244">Que de notre entretien quelqu’un ne soit témoin.</l>
 </sp>
 </div2>
 <div2 typ="scene" n="4"><head>SCÈNE IV. Oreste, Électre, Palamède.</head>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1245">Vous revoyez, ma sœur, cet ami si fidèle,</l>
 	<l id="1246">Dont nos malheurs, les temps, n’ont pu lasser le zèle.</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE, à Palamède.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>, à Palamède.</hstage>
 	<l id="1247">Qu’avec plaisir, Seigneur, je revois aujourd’hui</l>
 	<l id="1248">D’un sang infortuné le génereux appui !</l>
 	<l id="1249">Ne soyez point surpris ; attendri par mes larmes,</l>
 	<l id="1250">Mon frère a dissipé mes mortelles alarmes :</l>
 	<l id="1251">De cet heureux secret mon cœur est éclairci.</l>
 </sp>
-<sp who="PALAMÈDE"><speaker>PALAMÈDE.</speaker>
+<sp who="PALAMÈDE"><hstage><speaker>PALAMÈDE</speaker>.</hstage>
 	<l id="1252">Je rends graces au ciel qui vous rejoint ici.</l>
 	<l id="1253">Oreste m’est témoin avec quelle tendresse</l>
 	<l id="1254">J’ai déploré le sort d’une illustre princesse ;</l>
@@ -1715,11 +1715,11 @@
 	<l id="1295">Mais, en flattant ses vœux, dissimulez si bien.</l>
 	<l id="1296">Que de tous nos desseins il ne soupçonne rie»,</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="1297">L’entraîner aux autels ! Ah ! Projet qui m’accable</l>
 	<l id="1298">Itys y périrait ; Itys n’est point coupable.</l>
 </sp>
-<sp who="PALAMÈDE"><speaker>PALAMÈDE.</speaker>
+<sp who="PALAMÈDE"><hstage><speaker>PALAMÈDE</speaker>.</hstage>
 	<l id="1299">Il ne l’est point, grands dieux ! Né du sang dont il sort,</l>
 	<l id="1300">Il l’est plus qu’il ne faut pour mériter la mort.</l>
 	<l id="1301">Juste ciel ! Est-ce ainsi que vous vengez un père ?</l>
@@ -1751,7 +1751,7 @@
 	<l id="1327">Pour venger vos affronts j’ai fait ce que j’ai pu ;</l>
 	<l id="1328">Mais vous n’avez point fait ce que vous avez dû.</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="1329">Ah ! Seigneur, arrêtez ; remplissez ma vengeance :</l>
 	<l id="1330">Je sens de vos soupçons que ma vertu s’offense.</l>
 	<l id="1331">Percez le cœur d’Itys, mais respectez le mien ;</l>
@@ -1761,7 +1761,7 @@
 	<l id="1335">Ce feu, ce même feu dont vous me soupçonnez,</l>
 	<l id="1336" part="i">Loin d’arrêter, Seigneur...</l>
 </sp>
-<sp who="PALAMÈDE"><speaker>PALAMÈDE.</speaker>
+<sp who="PALAMÈDE"><hstage><speaker>PALAMÈDE</speaker>.</hstage>
 	<l id="1336" part="f">Madame, pardonnez ;</l>
 	<l id="1337">J’ai peut-être à vos yeux poussé trop loin mon zèle :</l>
 	<l id="1338">Mais tel est de mon cœur l’empressement fidèle.</l>
@@ -1780,13 +1780,13 @@
 	<l id="1351">Mais ailleurs, malgré lui par la foule pressé,</l>
 	<l id="1352">Vous le verrez bientôt à vos pieds renversé.</l>
 </sp>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1353">Venez, seigneur, venez : si l’amour est un crime,</l>
 	<l id="1354">Vous verrez que mon cœur en est seul la victime ;</l>
 	<l id="1355">Qu’il peut bien quelquefois toucher les malheureux,</l>
 	<l id="1356">Mais qu’il est sans pouvoir sur les cœurs généreux.</l>
 </sp>
-<sp who="PALAMÈDE"><speaker>PALAMÈDE.</speaker>
+<sp who="PALAMÈDE"><hstage><speaker>PALAMÈDE</speaker>.</hstage>
 	<l id="1357">Il est vrai, j’ai tout craint du feu qui vous anime ;</l>
 	<l id="1358">Mais j’ai tout espéré d’un cœur si magnanime ;</l>
 	<l id="1359">Et je connais trop bien le sang d’Agamemnon,</l>
@@ -1801,12 +1801,12 @@
 	<l id="1368">Ou venger d’un cruel, vous, Électre, et les dieux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Oreste, Électre.</head>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Oreste, Électre.</cast>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1369">Adieu, ma sœur ; calmez la douleur qui vous presse :</l>
 	<l id="1370">Vous savez à vos pleurs si mon cœur s’intéresse.</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="1371">Allez, Seigneur, allez; vengez tous nos malheurs ;</l>
 	<l id="1372">Et que bientôt le ciel vous redonne à mes pleurs !</l>
 </sp>
@@ -1814,7 +1814,7 @@
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="1373">Tandis qu’en ce palais mon hymen se prépare,</l>
 	<l id="1374">Dieux ! Quel trouble secret de mon âme s’empare !</l>
 	<l id="1375">Le sévère devoir qui m’y fait consentir</l>
@@ -1846,7 +1846,7 @@
 </sp>
 </div2>
 <div2 typ="scene" n="2"><head>SCÈNE II. Électre, Itys.</head>
-<sp who="ITYS"><speaker>ITYS.</speaker>
+<sp who="ITYS"><hstage><speaker>ITYS</speaker>.</hstage>
 	<l id="1401">Pénétré d’un malheur où mon cœur s’intéresse,</l>
 	<l id="1402">M’est-il enfin permis de revoir ma princesse ?</l>
 	<l id="1403">Si j’en crois les apprêts qui se font en ces lieux,</l>
@@ -1880,7 +1880,7 @@
 	<l id="1431">Au moment que je crois qu’il s’attendrit pour moi,</l>
 	<l id="1432">M’ahhorre, et ne se rend qu’aux menaces du roi.</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="1433">Fils d’Égisthe, reviens d’un soupçon qui me biesse :</l>
 	<l id="1434">Électre ne connaît ni crainte ni faiblesse ;</l>
 	<l id="1435">Son cœur, dont rien ne peut abaisser la fierté,</l>
@@ -1896,7 +1896,7 @@
 	<l id="1445">Non, je ne te hais point : je serais inhumaine</l>
 	<l id="1446">Si je pouvais payer tant d’amour de ma haine.</l>
 </sp>
-<sp who="ITYS"><speaker>ITYS.</speaker>
+<sp who="ITYS"><hstage><speaker>ITYS</speaker>.</hstage>
 	<l id="1447">Je ne suis point haï ! Comblez donc tous les vœux</l>
 	<l id="1448">Du cœur le plus fidèle et le plus amoureux.</l>
 	<l id="1449">Vous n’avez plus de haine ! Eh bien ! Qui vous arrête ?</l>
@@ -1907,19 +1907,19 @@
 	<l id="1454">Souffrez que sur leurs pas mon amour vous entraîne ;</l>
 	<l id="1455" part="i">On n’attend plus que vous.</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE, à part.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>, à part.</hstage>
 	<l id="1455" part="f">On n’attend plus que moi !</l>
 	<l id="1456">Dieux cruels ! Que ce mot redouble mon effroi !</l>
 <stage>Haut.</stage>
 	<l id="1457" part="i">Quoi ! Tout est prêt, Seigneur ?</l>
 </sp>
-<sp who="ITYS"><speaker>ITYS.</speaker>
+<sp who="ITYS"><hstage><speaker>ITYS</speaker>.</hstage>
 	<l id="1457" part="f">Oui, ma chère princesse.</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="1458" part="i">Hélas !</l>
 </sp>
-<sp who="ITYS"><speaker>ITYS.</speaker>
+<sp who="ITYS"><hstage><speaker>ITYS</speaker>.</hstage>
 	<l id="1458" part="f">Ah ! Dissipez cette sombre tristesse.</l>
 	<l id="1459">Vos yeux d’assez de pleurs ont arrosé ces lieux :</l>
 	<l id="1460">Livrez-vous à l’époux que vous ornent les dieux.</l>
@@ -1935,7 +1935,7 @@
 	<l id="1470">Si je puis de vos pleurs adoucir l’amertume !</l>
 	<l id="1471">Aussi touché que vous du destin d’un héros...</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="1472">Hélas ! Que ne fait-il le plus grand de mes maux !</l>
 	<l id="1473">Et que ce triste hymen où ton amour aspire...</l>
 	<l id="1474">Cet hymen... Non, Itys, je ne puis y souscrire.</l>
@@ -1943,42 +1943,42 @@
 	<l id="1476">Ton père est aux autels, je m’en vais l’y trouver ;</l>
 	<l id="1477" part="i">Attends-moi dans ces lieux.</l>
 </sp>
-<sp who="ITYS"><speaker>ITYS.</speaker>
+<sp who="ITYS"><hstage><speaker>ITYS</speaker>.</hstage>
 	<l id="1477" part="f">Et vous êtes sans haine !</l>
 	<l id="1478">Aux autels, quoi ! Sans moi ? Demeurez, inhumaine :</l>
 	<l id="1479">Demeurez, ou bientôt d’un amant odieux</l>
 	<l id="1480">Ma main fera couler tout le sang a vos yeux.</l>
 	<l id="1481">Vous gardiez donc ce prix à ma persévérance ?</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="1482">Ah ! Plus tu m’attendris, moins notre hymen s’avance.</l>
 </sp>
-<sp who="ITYS"><speaker>ITYS, se jetant à ses genoux.</speaker>
+<sp who="ITYS"><hstage><speaker>ITYS</speaker>, se jetant à ses genoux.</hstage>
 	<l id="1483">Quoi ! Vous m’abandonnez à mes cruels transports !</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="1484">Que fais-tu, malheureux ? Laisse-moi mes remords ;</l>
 	<l id="1485">Lève-toi : ce n’est point la haine qui me guide.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Électre, Itys, Iphianasse.</head>
-<sp who="IPHIANASSE"><speaker>IPHIANASSE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Électre, Itys, Iphianasse.</cast>
+<sp who="IPHIANASSE"><hstage><speaker>IPHIANASSE</speaker>.</hstage>
 	<l id="1486">Que faites-vous, mon frère, aux pieds d’une perfide ?</l>
 	<l id="1487">On assassine Égisthe ; et, sans un prompt secours,</l>
 	<l id="1488">D’une si chère vie on va trancher le cours.</l>
 </sp>
-<sp who="ITYS"><speaker>ITYS.</speaker>
+<sp who="ITYS"><hstage><speaker>ITYS</speaker>.</hstage>
 	<l id="1489">On assassine Ëgisthe ! Ah cruelle princesse !</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Électre, Iphianasse.</head>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE, à elle-meme.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Électre, Iphianasse.</cast>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>, à elle-meme.</hstage>
 	<l id="1490">Quoi ! malgré la pitié qui pour toi m’intéresse,</l>
 	<l id="1491">Ta mort de tant d’amour va donc être le fruit !</l>
 	<l id="1492">Je n’ai pu t’arracher au sort qui te poursuit,</l>
 	<l id="1493" part="i">Prince trop généreux !</l>
 </sp>
-<sp who="IPHIANASSE"><speaker>IPHIANASSE.</speaker>
+<sp who="IPHIANASSE"><hstage><speaker>IPHIANASSE</speaker>.</hstage>
 	<l id="1493" part="f">Cessez, cessez de feindre,</l>
 	<l id="1494">Ingrate ; c’est plutôt l’insulter que le plaindre.</l>
 	<l id="1495">La pitié vous sied bien, au moment que c’est vous</l>
@@ -1986,7 +1986,7 @@
 	<l id="1497">J’entends partout voler le nom de votre frère.</l>
 	<l id="1498">Quel autre que ce traître, ennemi de mon père....</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="1499">Respectez un héros qui ne fait en ces lieux</l>
 	<l id="1500">Que son devoir, le mien, et que celui des dieux.</l>
 	<l id="1501">Le crime n’a que trop triomphé dans Mycène :</l>
@@ -2009,8 +2009,8 @@
 	<l id="1518">À vos yeux, comme aux miens, tel il a dû paraître.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Électre, Iphianasse, Arcas.</head>
-<sp who="ARCAS"><speaker>ARCAS.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Électre, Iphianasse, Arcas.</cast>
+<sp who="ARCAS"><hstage><speaker>ARCAS</speaker>.</hstage>
 	<l id="1519">Madame, c’en est fait : tout cède à nos efforts ;</l>
 	<l id="1520">Ce palais se remplit de mourants et de morts.</l>
 	<l id="1521">Vous savez qu’aux autels notre chef intrépide</l>
@@ -2039,7 +2039,7 @@
 	<l id="1543">Votre ennemi d’ailleurs, au gré de vos désirs,</l>
 	<l id="1544">Aux pieds de son vainqueur rend les derniers soupirs.</l>
 </sp>
-<sp who="IPHIANASSE"><speaker>IPHIANASSE.</speaker>
+<sp who="IPHIANASSE"><hstage><speaker>IPHIANASSE</speaker>.</hstage>
 	<l id="1545">Ô mon père ! À ta mort je ne veux point survivre :</l>
 	<l id="1546">Je ne puis la venger, je vais du moins te suivre.</l>
 <stage>À Électre.</stage>
@@ -2047,18 +2047,18 @@
 	<l id="1548">Que l’amour n’arme encor pour moi plus d’un vengeur.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Oreste, Électre, Iphianasse, Arcas, Gardes.</head>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Oreste, Électre, Iphianasse, Arcas, Gardes.</cast>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1549">Amis, c’en est assez ; qu’on épargne le reste.</l>
 	<l id="1550">Laissez, laissez agir la clémence d’Oreste :</l>
 	<l id="1551" part="i">Je suis assez vengé.</l>
 </sp>
-<sp who="IPHIANASSE"><speaker>IPHIANASSE.</speaker>
+<sp who="IPHIANASSE"><hstage><speaker>IPHIANASSE</speaker>.</hstage>
 	<l id="1551" part="f">Dieux ! Qu’est-ce que je vois ?</l>
 	<l id="1552">Sort cruel ! C’en est fait ; tout est perdu pour moi ;</l>
 	<l id="1553" part="i">Celui que j’implorais est Oreste.</l>
 </sp>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1553" part="f">Oui, madame,</l>
 	<l id="1554">C’est lui ; c’est ce guerrier que la plus vive flamme</l>
 	<l id="1555">Voulait en vain soustraire aux devoirs de ce nom,</l>
@@ -2067,16 +2067,16 @@
 	<l id="1558">Mon devoir parle assez ; je n’ai rien à vous dire :</l>
 	<l id="1559">Votre père en ces lieux m’avait ravi le mien.</l>
 </sp>
-<sp who="IPHIANASSE"><speaker>IPHIANASSE.</speaker>
+<sp who="IPHIANASSE"><hstage><speaker>IPHIANASSE</speaker>.</hstage>
 	<l id="1560">Oui ; mais je n’eus point part à la perte du tien.</l>
 <stage>Elle sort.</stage>
 </sp>
-<sp who="ORESTE"><speaker>ORESTE, à ses gardes.</speaker>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>, à ses gardes.</hstage>
 	<l id="1561" part="i">Suivez-la.</l>
 </sp>
 </div2>
 <div2 typ="scene" n="7"><head>SCÈNE VII. Oreste, Électre, Palamède, Aarcas, Gardes.</head>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1561" part="f">Dieux ! Quels cris se font encore entendre !</l>
 	<l id="1562">D’un trouble affreux mon cœur a peine à se défendre.</l>
 	<l id="1563">Palamède, venez rassurer mes esprits.</l>
@@ -2087,7 +2087,7 @@
 	<l id="1568">Vos yeux semblent sur moi ne s’ouvrir qu’à regret :</l>
 	<l id="1569">N’ai-je pas assez loin étendu la vengeance ?</l>
 </sp>
-<sp who="PALAMÈDE"><speaker>PALAMÈDE.</speaker>
+<sp who="PALAMÈDE"><hstage><speaker>PALAMÈDE</speaker>.</hstage>
 	<l id="1570">On la porte souvent bien plus loin qu’on ne pense ;</l>
 	<l id="1571">Oui, vous êtes vengé, les dieux le sont aussi ;</l>
 	<l id="1572">Mais, si vous m’en croyez, éloignez-vous d’ici.</l>
@@ -2095,41 +2095,41 @@
 	<l id="1574">Ces lieux souillés de sang sont peu dignes d’Oreste :</l>
 	<l id="1575" part="i">Suivez-moi l’un et l’autre.</l>
 </sp>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1575" part="f">Ah ! Que vous me troublez !</l>
 	<l id="1576">Pourquoi nous éloigner ? Palamède, parlez :</l>
 	<l id="1577">Craint-on quelque transport de la part de la Reine ?</l>
 </sp>
-<sp who="PALAMÈDE"><speaker>PALAMÈDE.</speaker>
+<sp who="PALAMÈDE"><hstage><speaker>PALAMÈDE</speaker>.</hstage>
 	<l id="1578">Non, vous n’avez plus rien à craindre de sa haine ;</l>
 	<l id="1579">De son triste destin laissez le soin aux dieux :</l>
 	<l id="1580">Mais pour quelques moments abandonnez ces lieux ;</l>
 	<l id="1581" part="i">Venez.</l>
 </sp>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1581" part="f">Non, non, ce soin cache trop de mystère ;</l>
 	<l id="1582">Je veux en être instruit. Parlez, que fait ma mère ?</l>
 </sp>
-<sp who="PALAMÈDE"><speaker>PALAMÈDE.</speaker>
+<sp who="PALAMÈDE"><hstage><speaker>PALAMÈDE</speaker>.</hstage>
 	<l id="1583" part="i">Eh bien ! Un coup affreux...</l>
 </sp>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1583" part="f">Ah dieux ! Quel inhumain</l>
 	<l id="1584">A donc jusque sur elle osé porter la main ?</l>
 	<l id="1585">Qu’a donc fait Anténor chargé de la défendre ?</l>
 	<l id="1586">Et comment et par qui s’est-il laissé surprendre ?</l>
 	<l id="1587">Ah ! J’atteste les dieux que mon juste courroux...</l>
 </sp>
-<sp who="PALAMÈDE"><speaker>PALAMÈDE.</speaker>
+<sp who="PALAMÈDE"><hstage><speaker>PALAMÈDE</speaker>.</hstage>
 	<l id="1588">Ne faites point, Seigneur, de serment contre vous.</l>
 </sp>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1589">Qui ? Moi, j’aurais commis une action si noire !</l>
 	<l id="1590">Oreste parricide ! Ah ! Pourriez-vous le croire ?,</l>
 	<l id="1591">De mille coups plutôt j’aurais percé mon sein.</l>
 	<l id="1592">Juste ciel ! Et qui peut imputer à ma main...</l>
 </sp>
-<sp who="PALAMÈDE"><speaker>PALAMÈDE.</speaker>
+<sp who="PALAMÈDE"><hstage><speaker>PALAMÈDE</speaker>.</hstage>
 	<l id="1593">J’ai vu, seigneur, j’ai vu : ce n’est point l’imposture</l>
 	<l id="1594">Qui vous charge d’un coup dont frémit la nature.</l>
 	<l id="1595">De vos soins généreux plus irritée encor,</l>
@@ -2145,20 +2145,20 @@
 	<l id="1605">Vous avez d’un seul coup, qu’ils conduisaient peut-être,</l>
 	<l id="1606">Fait couler tout le sang dont ils vous firent naître.</l>
 </sp>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1607">Sort, ne m’as-tu tiré de l’abîme des flots</l>
 	<l id="1608">Que pour me replonger dans ce gouffre de maux,</l>
 	<l id="1609">Pour me faire attenter sur les jours de ma mère !...</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Clytemnestre, Oreste, Électre, Palamède, Aarcas, Anténor, Mélite, Gardes.</head>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Clytemnestre, Oreste, Électre, Palamède, Aarcas, Anténor, Mélite, Gardes.</cast>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1610" part="i">Elle vient : quel objet ! Où fuirai-je ?</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="1610" part="f">Ah mon frère !</l>
 </sp>
-<sp who="CLYTEMNESTRE"><speaker>CLYTEMNESTRE.</speaker>
+<sp who="CLYTEMNESTRE"><hstage><speaker>CLYTEMNESTRE</speaker>.</hstage>
 	<l id="1611">Ton frère ! Quoi ! Je meurs de la main de mon fils !</l>
 	<l id="1612">Dieux justes ! Mes forfaits sont-ils assez puni ?</l>
 	<l id="1613">Je ne te revois donc, fils digne des Atrides,</l>
@@ -2171,10 +2171,10 @@
 	<l id="1620">De voir qui je fis naître, et qui me fait mourir.</l>
 	<l id="1621">Achève, épargne-moi le tourment qui m’accable.</l>
 </sp>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1622" part="i">Ma mère !</l>
 </sp>
-<sp who="CLYTEMNESTRE"><speaker>CLYTEMNESTRE.</speaker>
+<sp who="CLYTEMNESTRE"><hstage><speaker>CLYTEMNESTRE</speaker>.</hstage>
 	<l id="1622" part="f">Quoi ! Ce nom qui te rend si coupable</l>
 	<l id="1623">Tu l’oses prononcer ! N’affecte rien, cruel ;</l>
 	<l id="1624">La douleur que tu feins te rend plus criminel.</l>
@@ -2184,8 +2184,8 @@
 	<l id="1628">Je lui laisse un forfait qui passe tous les miens.</l>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE IX. Oreste, Électre, Palamède, Anténor, Arcas, Gardes.</head>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<div2 type="scene" n="11"><head>SCÈNE IX.</head><cast>Oreste, Électre, Palamède, Anténor, Arcas, Gardes.</cast>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1629">Frappez, dieux tout-puissants que ma fureur implore ;</l>
 	<l id="1630">Dieux vengeurs, s’il en est, puisque je vis encore,</l>
 	<l id="1631">Frappez : mon crime affreux ne regarde que vous.</l>
@@ -2193,12 +2193,12 @@
 	<l id="1633">Je vois ce qui retient un courroux légitime ;</l>
 	<l id="1634">Dieux, vous ne savez pas comme on punit mon crime.</l>
 </sp>
-<sp who="ÉLECTRE"><speaker>ÉLECTRE.</speaker>
+<sp who="ÉLECTRE"><hstage><speaker>ÉLECTRE</speaker>.</hstage>
 	<l id="1635">Ah ! Mon frère, calmez cette aveugle fureur :</l>
 	<l id="1636">N’ai-je donc pas assez de ma propre douleur ?</l>
 	<l id="1637">Voulez-vous me donner la mort, mon cher Oreste ?</l>
 </sp>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1638">Ah ! Ne prononcez plus ce nom que je déteste.</l>
 	<l id="1639">Et toi que fait frémir mon aspect odieux,</l>
 	<l id="1640">Nature, tant de fois outragée en ces lieux,</l>
@@ -2211,10 +2211,10 @@
 	<l id="1647" part="i">Ma mère ! Vois couler...</l>
 <stage>Il veut te tuer.</stage>
 </sp>
-<sp who="PALAMÈDE"><speaker>PALAMÈDE, le désarmant.</speaker>
+<sp who="PALAMÈDE"><hstage><speaker>PALAMÈDE</speaker>, le désarmant.</hstage>
 	<l id="1647" part="m">Ah seigneur !</l>
 </sp>
-<sp who="ORESTE"><speaker>ORESTE.</speaker>
+<sp who="ORESTE"><hstage><speaker>ORESTE</speaker>.</hstage>
 	<l id="1647" part="f">Laisse-moi :</l>
 	<l id="1648">Je ne veux rien, cruel, d’Électre ni de toi :</l>
 	<l id="1649">Votre cœur, affamé de sang et de victimes,</l>

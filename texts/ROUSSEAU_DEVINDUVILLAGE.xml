@@ -52,7 +52,7 @@
 <body>
 <div1 type="acte" n="1"><head/>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="COLETTE"><speaker>COLETTE, soupirant, et s’essuyant les yeux de son tablier.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>, soupirant, et s’essuyant les yeux de son tablier.</hstage>
 	<l id="2">J’ai perdu tout mon bonheur ;</l>
 	<l id="2">J’ai perdu mon serviteur :</l>
 	<l id="3">Colin me délaisse;</l>
@@ -81,58 +81,58 @@
 	<l id="26">Je le vois ; et je veux m’éclaircir en ce jour.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Le Devin, Colette.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Le Devin, Colette.</cast>
 <stage>Tandis que le devin d’avance gravement, Colette compte dans sa main de la monnaie ; puis elle la plie dans un papier, et en présente au devin, après avoir un peu hésité à l’aborder.</stage>
-<sp who="COLETTE"><speaker>COLETTE, d’un air timide.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>, d’un air timide.</hstage>
 	<l id="27">Perdrai-je Colin sans retour .</l>
 	<l id="28">Dites-moi s’il faut que je meure.</l>
 </sp>
-<sp who="DEVIN"><speaker>LE DEVIN, gravement.</speaker>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>, gravement.</hstage>
 	<l id="29">Je lis dans votre cœur, et j’ai lu dans le sien.</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 	<l id="30" part="i">Ô dieux !</l>
 </sp>
-<sp who="DEVIN"><speaker>LE DEVIN.</speaker>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>.</hstage>
 	<l id="30" part="m">Modérez-vous.</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 	<l id="30" part="f">Eh bien ?</l>
 	<l id="31" part="i">Colin...</l>
 </sp>
-<sp who="DEVIN"><speaker>LE DEVIN.</speaker>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>.</hstage>
 	<l id="31" part="f">Vous est infidèle.</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 	<l id="32" part="i">Je me meurs.</l>
 </sp>
-<sp who="DEVIN"><speaker>LE DEVIN.</speaker>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>.</hstage>
 	<l id="32" part="f">Et pourtant il vous aime toujours.</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE, vivement.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>, vivement.</hstage>
 	<l id="33" part="i">Que dites-vous ?</l>
 </sp>
-<sp who="DEVIN"><speaker>LE DEVIN.</speaker>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>.</hstage>
 	<l id="33" part="f">Plus adroite et moins belle,</l>
 	<l id="34" part="i">La dame de ces lieux...</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 	<l id="34" part="f">Il me quitte pour elle !</l>
 </sp>
-<sp who="DEVIN"><speaker>LE DEVIN.</speaker>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>.</hstage>
 	<l id="35">Je vous l’ai déjà dit, il vous aime toujours.</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE, tristement.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>, tristement.</hstage>
 	<l id="36" part="i">Et toujours il me fuit !</l>
 </sp>
-<sp who="DEVIN"><speaker>LE DEVIN.</speaker>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>.</hstage>
 	<l id="36" part="f">Comptez sur mon secours.</l>
 	<l id="37">Je prétends à  vos pieds ramenez le volage.</l>
 	<l id="38">Colin veut être brave, il aime à se parer :</l>
 	<l id="39">Sa vanité vous a fait un outrage</l>
 	<l id="40">Que son amour doit réparer.</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 	<l id="41">Si des galants de la ville</l>
 	<l id="42">J’eusse écouté les discours,</l>
 	<l id="43">Ah ! Qu’il m’eût été facile</l>
@@ -146,7 +146,7 @@
 	<l id="51">J’aimerais mieux être moins belle,</l>
 	<l id="52">Et lui conserver mon cœur.</l>
 </sp>
-<sp who="DEVIN"><speaker>LE DEVIN.</speaker>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>.</hstage>
 	<l id="53">Je vous rendrai le sien, ce sera mon ouvrage.</l>
 	<l id="54">Vous, à le mieux garder appliquez tous vos soins ;</l>
 	<l id="55">Pour vous faire aimer davantage,</l>
@@ -156,16 +156,16 @@
 	<l id="59">La bergère un peu coquette</l>
 	<l id="60">Rend le berger plus constant.</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 	<l id="61">À vos sages leçons Colette s’abandonne.</l>
 </sp>
-<sp who="DEVIN"><speaker>LE DEVIN.</speaker>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>.</hstage>
 	<l id="62">Avec Colin prenez un autre ton.</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 	<l id="63">Je feindrai d’imiter l’exemple qu’il me donne.</l>
 </sp>
-<sp who="DEVIN"><speaker>LE DEVIN.</speaker>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>.</hstage>
 	<l id="64">Ne l’imitez pas tout de bon ;</l>
 	<l id="65">Mais qu’il puisse le connaître.</l>
 	<l id="66">Mon art m’apprend qu’il va paraître ;</l>
@@ -173,7 +173,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="DEVIN"><speaker>LE DEVIN.</speaker>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>.</hstage>
 	<l id="68">J’ai tout su de Colin, et ces pauvres enfants</l>
 	<l id="69">Admirent tous les deux la science profonde</l>
 	<l id="70">Qui me fait deviner tout ce qu’ils m’ont appris.</l>
@@ -182,64 +182,64 @@
 	<l id="73">De la dame du lieu les airs et les mépris.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Le Devin, Colin.</head>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Le Devin, Colin.</cast>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="74">L’amour et vos leçons m’ont enfin rendu sage ;</l>
 	<l id="75">Je préfère Colette à des biens superflus.</l>
 	<l id="76">Je sus lui plaire en habit de village :</l>
 	<l id="77">Sous un habit doré qu’obtiendrai-je de plus ?</l>
 </sp>
-<sp who="DEVIN"><speaker>LE DEVIN.</speaker>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>.</hstage>
 	<l id="78">Colin, il n’est plus temps, et Colette t’oublie.</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="79">Elle m’oublie, ô ciel ! Colette a pu changer !</l>
 </sp>
-<sp who="DEVIN"><speaker>LE DEVIN.</speaker>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>.</hstage>
 	<l id="80">Elle est femme, jeune et jolie ;</l>
 	<l id="81">Manquerait-elle à se venger ?</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="82">Non, Colette n’est point trompeuse,</l>
 	<l id="83">Elle m’a promis sa foi :</l>
 	<l id="84">Peut-elle être l’amoureuse</l>
 	<l id="85">D’un autre berger que moi ?</l>
 </sp>
-<sp who="DEVIN"><speaker>LE DEVIN.</speaker>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>.</hstage>
 	<l id="86">Ce n’est point un berger qu’elle préfère à toi ;</l>
 	<l id="87">C’est un beau monsieur de la ville.</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="88" part="i">Qui vous l’a dit ?</l>
 </sp>
-<sp who="DEVIN"><speaker>LE DEVIN, avec emphase.</speaker>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>, avec emphase.</hstage>
 	<l id="88" part="f">Mon art.</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="88" part="f">Je n’en saurais douter.</l>
 	<l id="89">Hélas ! Qu’il m’en va coûter</l>
 	<l id="90">Pour avoir été trop facile</l>
 	<l id="91">À m’en laisser conter par les dames de cour !</l>
 </sp>
-<sp who="DEVIN"><speaker>LE DEVIN.</speaker>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>.</hstage>
 	<l id="92">On sert mal à la fois  la fortune et l’amour.</l>
 	<l id="93">D’être si beau garçon quelquefois il en coûte.</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="94">De grâce, apprenez-moi le moyen d’éviter</l>
 	<l id="95">Le coup affreux que je redoute.</l>
 </sp>
-<sp who="DEVIN"><speaker>LE DEVIN.</speaker>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>.</hstage>
 	<l id="96">Laisse-moi seul un moment consulter.</l>
 <stage>Le devin tire de sa poche un livre de grimoire et un petit bâton de Jacob, avec lesquels il fait un charme. De jeunes paysannes, qui venaient le consulter, laissent tomber leurs présents,  et se sauvent tout effrayées en voyant ses contorsions.</stage>
 	<l id="97">Le charme est fait. Colette en ce lieu va se rendre ;</l>
 	<l id="98">Il faut ici l’attendre.</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="99">À l’apaiser pourrai-je parvenir ?</l>
 	<l id="100">Hélas ! Voudra-t-elle m’entendre ?</l>
 </sp>
-<sp who="DEVIN"><speaker>LE DEVIN.</speaker>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>.</hstage>
 	<l id="101">Avec un cœur fidèle et tendre</l>
 	<l id="102">On a droit de tout obtenir.</l>
 <stage>À part.</stage>
@@ -247,7 +247,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="104">Je vais revoir ma charmante maîtresse.</l>
 	<l id="105">Adieu, châteaux, grandeurs, richesse,</l>
 	<l id="106">Votre éclat ne me tente plus.</l>
@@ -269,62 +269,62 @@
 	<l id="122">Ils sont moins heureux que moi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Colin, Colette, parée.</head>
-<sp who="COLIN"><speaker>COLIN, à part.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Colin, Colette, parée.</cast>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>, à part.</hstage>
 	<l id="123">Je l’aperçois... Je tremble en m’offrant à sa vue...</l>
 	<l id="124">Sauvons-nous... Je la perds si je fuis...</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE, à part.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>, à part.</hstage>
 	<l id="125">Il me voit... Que je suis émue !</l>
 	<l id="126" part="i">Le cœur me bat...</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="126" part="f">Je ne sais où j’en suis.</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 	<l id="127">Trop près, sans y songer, je me suis approchée.</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="128">Je ne puis m’en dédire, il a faut aborder.</l>
 <stage>À Colette, d’un ton radouci, et d’un air moitié riant, moitié embarrassé.</stage>
 	<l id="129">Ma Colette... Êtes-vous fâchée ?</l>
 	<l id="130">Je suis Colin : daignez me regarder.</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE, osant à peine jeter les yeux sur lui.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>, osant à peine jeter les yeux sur lui.</hstage>
 	<l id="131">Colin m’aimait ; Colin m’était fidèle :</l>
 	<l id="132">Je vous regarde, et ne vois plus Colin.</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="133">Mon cœur n’a point changé ; mon erreur trop cruelle</l>
 	<l id="134">Venait d’un sort jeté par quelque esprit malin :</l>
 	<l id="135">De devin l’a détruit ; je suis, malgré l’envie,</l>
 	<l id="136">Toujours Colin, toujours plus amoureux.</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 	<l id="137">Par un sort, à mon tour, je me sens poursuivie.</l>
 	<l id="138" part="i">Le devin n’y peut rien.</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="138" part="f">Que je suis malheureux !</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 	<l id="139" part="i">D’un amant plus contant...</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="139" part="f">Ah ! De ma mort suivi,</l>
 	<l id="140" part="i">Votre infidélité...</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 	<l id="140" part="f">Vos soins sont superflus ;</l>
 	<l id="141">Non, Colin, je ne t’aime plus.</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="142">Ta foi ne m’est point ravie ;</l>
 	<l id="143">Non, consulte mieux ton cœur :</l>
 	<l id="144">Toi-même, en m’ôtant la vie,</l>
 	<l id="145">Tu perdrais tout ton bonheur.</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 <stage>À part.</stage>
 	<l id="146" part="i">Hélas !</l>
 <stage>À Colin.</stage>
@@ -332,108 +332,108 @@
 	<l id="147">Vos soins sont superflus :</l>
 	<l id="148">Non, Colin, je ne t’aime plus.</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="149">C’en est donc fait, vous voulez que je meure ;</l>
 	<l id="150">Et je vais pour jamais m’éloigner du hameau.</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE, rappelant Colin, qui s’éloigne lentement.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>, rappelant Colin, qui s’éloigne lentement.</hstage>
 	<l id="151" part="i">Colin !</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="151" part="m">Quoi ?</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 	<l id="151" part="m">Tu me fuis ?</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="151" part="f">Faut-il que je demeure,</l>
 	<l id="152">Pour vous voir un amant nouveau ?</l>
 <stage>DUO.</stage>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 	<l id="153">Tant qu’à mon Colin j’ai su plaire;</l>
 	<l id="154">Je vivais dans les plaisirs.</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="155">Quand je plaisais à ma bergère,</l>
 	<l id="156">Mon sort comblait mes désirs.</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 	<l id="157">Depuis que son cœur me méprise,</l>
 	<l id="158">Un autre a gagné le mien.</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="159">Après le doux nœud qu’elle brise,</l>
 	<l id="160">Serait-il un autre bien ?</l>
 <stage>D’un ton pénétré.</stage>
 	<l id="161">Ma Colette se dégage !</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 	<l id="162">Je crains un amant volage.</l>
 </sp>
-<sp who="COLIN_COLETTE"><speaker>ENSEMBLE.</speaker>
+<sp who="COLIN_COLETTE"><hstage><speaker>ENSEMBLE</speaker>.</hstage>
 	<l id="163">Je me dégage à mon tour.</l>
 	<l id="164">Mon cœur, devenu paisible,</l>
 	<l id="165">Oubliera, s’il est possible,</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="166" part="i">Que tu lui fus cher un jour.</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 	<l id="166" part="f">Que tu lui fus chère un jour.</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="167">Quelque bonheur qu’on me promette</l>
 	<l id="168">Dans les nœuds qui me sont offerts,</l>
 	<l id="169">J’eusse encore préféré Colette</l>
 	<l id="170">À tous les biens de l’univers.</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 	<l id="171">Quoiqu’un seigneur jeune, aimable,</l>
 	<l id="172">Ma parle aujourd’hui d’amour,</l>
 	<l id="173">Colin m’eût semblé préférable</l>
 	<l id="174">À tout éclat de la Cour.</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN, tendrement.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>, tendrement.</hstage>
 	<l id="175" part="i">Ah, Colette !</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE, avec un soupir.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>, avec un soupir.</hstage>
 	<l id="175" part="f">Ah ! Berger volage,</l>
 	<l id="176">Faut-il t’aimer malgré moi !</l>
 <stage>Colin se jette aux pieds de Colette ; elle lui fait remarquer à son chapeau un ruban fort riche qu’il a reçu de la dame. Colin le jette avec dédain. Colette lui en donne un plus simple, dont elle était parée et qu’il reçoit avec transport.</stage>
 </sp>
-<sp who="COLIN_COLETTE"><speaker>ENSEMBLE.</speaker>
+<sp who="COLIN_COLETTE"><hstage><speaker>ENSEMBLE</speaker>.</hstage>
 	<l id="177" part="i">À jamais Colin</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 	<l id="177" part="m">Je t’engage.</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 	<l id="177" part="f">T’engage.</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="178" part="i">Mon cœur et ma foi.</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 	<l id="178" part="f">Son cœur et sa foi.</l>
 </sp>
-<sp who="COLIN_COLETTE"><speaker>ENSEMBLE.</speaker>
+<sp who="COLIN_COLETTE"><hstage><speaker>ENSEMBLE</speaker>.</hstage>
 	<l id="179">Qu’un doux mariage</l>
 	<l id="180">M’unisse à toi.</l>
 	<l id="181">Aimons toujours sans partage ;</l>
 	<l id="182">Que l’amour soit notre loi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Le Devin, Colin, Colette.</head>
-<sp who="DEVIN"><speaker>LE DEVIN.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Le Devin, Colin, Colette.</cast>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>.</hstage>
 	<l id="183">Je vous ai délivrés d’un cruel maléfice ;</l>
 	<l id="184">Vous vous aimez encore, malgré les envieux.</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 <stage>Ils offrent chacun un présent au devin.</stage>
 	<l id="185">Quel dont pourrait jamais payer en tel service !</l>
 </sp>
-<sp who="DEVIN"><speaker>LE DEVIN, recevant des deux mains.</speaker>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>, recevant des deux mains.</hstage>
 	<l id="186">Je suis assez payé si vous êtes heureux.</l>
 	<l id="187">Venez, jeunes garçons, venez, aimables filles,</l>
 	<l id="188">Rassemblez-vous, venez les imiter ;</l>
@@ -441,8 +441,8 @@
 	<l id="190">En chantant leur bonheur apprendre à le goûter.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Le Devin, Colin, Colette, garçons et filles du village.</head>
-<sp who="CHŒUR"><speaker>CHŒUR.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Le Devin, Colin, Colette, garçons et filles du village.</cast>
+<sp who="CHŒUR"><hstage><speaker>CHŒUR</speaker>.</hstage>
 	<l id="191">Colin revient à sa bergère ;</l>
 	<l id="192">Célébrons un retour si beau.</l>
 	<l id="193">Que leur amitié sincère</l>
@@ -454,7 +454,7 @@
 <stage>On danse.</stage>
 </sp>
 <stage>ROMANCE.</stage>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 	<l id="199">Dans ma cabane obscure</l>
 	<l id="200">Toujours soucis nouveaux ;</l>
 	<l id="201">Vent, soleil ou froidure,</l>
@@ -473,7 +473,7 @@
 	<l id="214">En chantant notre amour.</l>
 <stage>On danse une pantomime.</stage>
 </sp>
-<sp who="DEVIN"><speaker>LE DEVIN.</speaker>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>.</hstage>
 	<l id="215">Il faut tous à l’envi</l>
 	<l id="216">Nous signaler ici :</l>
 	<l id="217">Si je ne puis sauter ainsi,</l>
@@ -489,7 +489,7 @@
 	<l id="225">Ce qu’il permet, ce qu’il défend ;</l>
 	<l id="226">C’est un enfant, c’est un enfant.</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN, avec le chœur répète le refrain.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>, avec le chœur répète le refrain.</hstage>
 	<l id="227">Ah ! Pour l’ordinaire,</l>
 	<l id="228">L’amour ne sait guère</l>
 	<l id="229">Ce qu’il permet, ce qu’il défend ;</l>
@@ -497,7 +497,7 @@
 <stage>Regardant le chanson.</stage>
 	<l id="231">Elle a d’autres couplets : je la trouve assez belle.</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE, avec empressement.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>, avec empressement.</hstage>
 	<l id="232">Voyons, voyons ; nous chanterons aussi.</l>
 <stage>Elle prend la chanson.</stage>
 <stage>II.</stage>
@@ -510,10 +510,10 @@
 	<l id="239">Ce qu’il permet, ce qu’il défend ;</l>
 	<l id="240">C’est un enfant, c’est un enfant.</l>
 </sp>
-<sp who="CHŒUR"><speaker>CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>CHŒUR</speaker>.</hstage>
 	<l id="241">C’est un enfant, c’est un enfant.</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 <stage>III.</stage>
 	<l id="242">Souvent une flamme chérie</l>
 	<l id="243">Est celle d’un cœur ingénu ;</l>
@@ -526,7 +526,7 @@
 <stage>À la fin de chaque couplet, le chœur répète toujours ce vers :</stage>
 	<l id="250">C’est un enfant, c’est un enfant.</l>
 </sp>
-<sp who="DEVIN"><speaker>LE DEVIN.</speaker>
+<sp who="DEVIN"><hstage><speaker>LE DEVIN</speaker>.</hstage>
 <stage>IV.</stage>
 	<l id="251">L’amour, selon sa fantaisie,</l>
 	<l id="252">Ordonne et dispose de nous ;</l>
@@ -537,7 +537,7 @@
 	<l id="257">Ce qu’il permet, ce qu’il défend ;</l>
 	<l id="258">C’est un enfant, c’est un enfant.</l>
 </sp>
-<sp who="COLIN"><speaker>COLIN.</speaker>
+<sp who="COLIN"><hstage><speaker>COLIN</speaker>.</hstage>
 <stage>V.</stage>
 	<l id="259">À voltiger de belle en belle,</l>
 	<l id="260">On perd souvent l’heureux instant ;</l>
@@ -548,7 +548,7 @@
 	<l id="265">Ce qu’il permet, ce qu’il défend ;</l>
 	<l id="266">C’est un enfant, c’est un enfant.</l>
 </sp>
-<sp who="COLETTE"><speaker>COLETTE.</speaker>
+<sp who="COLETTE"><hstage><speaker>COLETTE</speaker>.</hstage>
 <stage>VI.</stage>
 	<l id="267">À son caprice on est en butte,</l>
 	<l id="268">Il veut les ris, il veut les pleurs ;</l>

@@ -53,7 +53,7 @@
 <body>
 <div1 type="acte" n="1"><head>ACTE I.</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="JOCRISSE"><speaker>JOCRISSE, seul.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, seul.</hstage>
 <p id="1">
 	<s id="1">Oh !</s>
 	<s id="2">Ma fine ; on a ben raison de le dire, ça ! C’est incrédule.</s>
@@ -110,12 +110,12 @@
 	<s id="4">Si j’étais ben sûr que ça soie vrai ce qui dit là, je l’y troquerais tout de suite pour un écu de six francs de pièces	de 24 sols.</s>
 </p>
 </sp>
-<sp who="LE COLPORTEUR"><speaker>LE COLPORTEUR, en dehors.</speaker>
+<sp who="LE COLPORTEUR"><hstage><speaker>LE COLPORTEUR</speaker>, en dehors.</hstage>
 <p id="5">
 	<s id="1">V’là mon dernier ; au dernier les bons.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="6">
 	<s id="1">C’est vrai que je l’ai toujours entendu dire ; c’est le dernier qu’est le meyeur...</s>
 	<s id="2">Faut que j’en éprouve.</s>
@@ -142,48 +142,48 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Jocrisse, Le Colporteur.</head>
-<sp who="LE COLPORTEUR"><speaker>LE COLPORTEUR.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Jocrisse, Le Colporteur.</cast>
+<sp who="LE COLPORTEUR"><hstage><speaker>LE COLPORTEUR</speaker>.</hstage>
 <p id="1">
 	<s id="1">Qu’est-ce qui me demande ici ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="2">
 	<s id="1">C’est moi ; mais c’est pas vous que je demande : c’est le gros lot que vous annoncez là...</s>
 	<s id="2">En êtes-vous bien sûr ?</s>
 </p>
 </sp>
-<sp who="LE COLPORTEUR"><speaker>LE COLPORTEUR.</speaker>
+<sp who="LE COLPORTEUR"><hstage><speaker>LE COLPORTEUR</speaker>.</hstage>
 <p id="3">
 	<s id="1">Pardine !</s>
 	<s id="2">Si j’en suis sûr ; j’ai les cinq numéros gagnants.</s>
 	<s id="3">C’est à vous à bon choisir ; comben voulez-vous gagner ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Moi, le pus que je pourrai.</s>
 	<s id="2">Combien qu’est le pus fort ?</s>
 </p>
 </sp>
-<sp who="LE COLPORTEUR"><speaker>LE COLPORTEUR.</speaker>
+<sp who="LE COLPORTEUR"><hstage><speaker>LE COLPORTEUR</speaker>.</hstage>
 <p id="5">
 	<s id="1">Oh !</s>
 	<s id="2">Il n’y a pas de fisque à ça ; plus qu’on y met, et plus...</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="6">
 	<s id="1">Et pus qu’on y perd p’têtre ?</s>
 </p>
 </sp>
-<sp who="LE COLPORTEUR"><speaker>LE COLPORTEUR.</speaker>
+<sp who="LE COLPORTEUR"><hstage><speaker>LE COLPORTEUR</speaker>.</hstage>
 <p id="7">
 	<s id="1">Non ; plus on a d’espérance d’y gagner.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="8">
 	<s id="1">Ah !</s>
 	<s id="2">Mais, de l’espérance !...</s>
@@ -191,25 +191,25 @@
 	<s id="4">C’est pas de l’argent comptant ça, de l’espérance.</s>
 </p>
 </sp>
-<sp who="LE COLPORTEUR"><speaker>LE COLPORTEUR.</speaker>
+<sp who="LE COLPORTEUR"><hstage><speaker>LE COLPORTEUR</speaker>.</hstage>
 <p id="9">
 	<s id="1">Si fait ; quelquefois ça en rapporte.</s>
 	<s id="2">Le dernier tirage, j’ai donné 955 francs pour 24 sols à un domestique.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="10">
 	<s id="1">Sarpedié !</s>
 	<s id="2">V’là mon compte ; je suis domestique aussi, moi, et je vas vous donner 24 sols tout de suite à ce prix-là.</s>
 </p>
 </sp>
-<sp who="LE COLPORTEUR"><speaker>LE COLPORTEUR.</speaker>
+<sp who="LE COLPORTEUR"><hstage><speaker>LE COLPORTEUR</speaker>.</hstage>
 <p id="11">
 	<s id="1">Eh ben !</s>
 	<s id="2">Choisissez ; vous y avez la main.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="12">
 	<s id="1">Oh bah !</s>
 	<s id="2">Choisir !...</s>
@@ -218,19 +218,19 @@
 	<s id="5">D’abord je vous préviens que c’est pour me marier ; ainsi, faites-moi gagner.</s>
 </p>
 </sp>
-<sp who="LE COLPORTEUR"><speaker>LE COLPORTEUR.</speaker>
+<sp who="LE COLPORTEUR"><hstage><speaker>LE COLPORTEUR</speaker>.</hstage>
 <p id="13">
 	<s id="1">Oh !</s>
 	<s id="2">Ça ne peut pas vous manquer, si c’est pour ça.</s>
 	<s id="3">Vous êtes sûr que vous avez là de quoi payer le repas de la noce, et encore stilà des accordailles.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, prenant un billet et lui rendant le paquet.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, prenant un billet et lui rendant le paquet.</hstage>
 <p id="14">
 	<s id="1">Allons, tenez ; je me fie à celui-là.</s>
 </p>
 </sp>
-<sp who="LE COLPORTEUR"><speaker>LE COLPORTEUR.</speaker>
+<sp who="LE COLPORTEUR"><hstage><speaker>LE COLPORTEUR</speaker>.</hstage>
 <p id="15">
 	<s id="1">Ah !</s>
 	<s id="2">Mais, attendez donc ; c’est une mise qu’est restée, ça : c’est un billet de six francs.</s>
@@ -239,7 +239,7 @@
 	<s id="5">Vous gagnerez davantage avec celui-là.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="16">
 	<s id="1">Ben davantage !...</s>
 	<s id="2">Oh jarnigouette !</s>
@@ -247,20 +247,20 @@
 	<s id="4">J’ai tout juste là un écu de six francs que ma mère m’a donné quand j’ai parti, qu’elle m’avait recommandé de ben l’employer !...</s>
 </p>
 </sp>
-<sp who="LE COLPORTEUR"><speaker>LE COLPORTEUR.</speaker>
+<sp who="LE COLPORTEUR"><hstage><speaker>LE COLPORTEUR</speaker>.</hstage>
 <p id="17">
 	<s id="1">Eh bien !</s>
 	<s id="2">Vous ne pouvez pas mieux l’employer que ça.</s>
 	<s id="3">Vous le placez à fonds perdus ; c’est le plus haut intérêt.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="18">
 	<s id="1">À la bonne heure ; parce que, voyez-vous, je le gardais pour pendre la crémaillère avec Mam’selle Ursule, quand j’en aurais ramassé d’autes...</s>
 	<s id="2">Le v’là.</s>
 </p>
 </sp>
-<sp who="LE COLPORTEUR"><speaker>LE COLPORTEUR, prenant l’écus de six francs.</speaker>
+<sp who="LE COLPORTEUR"><hstage><speaker>LE COLPORTEUR</speaker>, prenant l’écus de six francs.</hstage>
 <p id="19">
 	<s id="1">En ce cas-là, vous pouvez d’avance allumer le feu dans la cheminée ; v’là de quoi faire bouillir la marmite.</s>
 	<s id="2">Serrez bien ce papier-là ; et si vous ne me revoyez pas dans une coupe d’heures, vous n’avez que faire d’inviter personne à votre noce.</s>
@@ -269,7 +269,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="JOCRISSE"><speaker>JOCRISSE, seul.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, seul.</hstage>
 <p id="1">
 	<s id="1">C’est-à-dire, qu’il ne faudra personne pour manger la gagne !...</s>
 	<s id="2">Ah !</s>
@@ -283,27 +283,27 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Jocrisse, Monsieur Dupont.</head>
-<sp who="DUPONT"><speaker>MONSIEUR DUPONT, en robe de chambre et en bonnet de nuit.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Jocrisse, Monsieur Dupont.</cast>
+<sp who="DUPONT"><hstage><speaker>MONSIEUR DUPONT</speaker>, en robe de chambre et en bonnet de nuit.</hstage>
 <p id="1">
 	<s id="1">Eh ben !</s>
 	<s id="2">Jocrisse !</s>
 	<s id="3">Comment ça va-t’il, ce matin, mon garçon ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Ah !</s>
 	<s id="2">Je dis, Monsieur, ça ne va pas encore trop mal.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="3">
 	<s id="1">Te sens-tu en bonnes dispositions aujourd’hui ?</s>
 	<s id="2">Feras-tu bien crier mon épouse ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Ah dame !</s>
 	<s id="2">On ne sait pas ça d’avance...</s>
@@ -312,20 +312,20 @@
 	<s id="5">Je l’écoute pas, elle.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="5">
 	<s id="1">Comment !</s>
 	<s id="2">Tu ne l’écoutes pas !...</s>
 	<s id="3">Mais ce n’est guère honnête ce que tu me dis là.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="6">
 	<s id="1">Pardonnez-moi, Monsieur, si fait...</s>
 	<s id="2">Je dis : je l’écoute pas quand à crie ; mais quand à me commande, je l’écoute, et j’ly obéis tout de suite.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="7">
 	<s id="1">Ah !</s>
 	<s id="2">C’est un peu racommodé comme cela !</s>
@@ -339,41 +339,41 @@
 	<s id="1">Qu’est-ce que c’est que ce papier que tu tiens là ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="10">
 	<s id="1">Çà, Monsieur,...</s>
 	<s id="2">C’est ma fortune !</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="11">
 	<s id="1">Ta fortune !</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="12">
 	<s id="1">Oui, à moi, et pis encore à Mam’selle Ursule.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="13">
 	<s id="1">Eh mais, c’est un billet de loterie !</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="14">
 	<s id="1">Tout juste ?</s>
 	<s id="2">Et qui m’a ben coûté six bons francs encore.</s>
 	<s id="3">Mais le marchand m’a dit comme ça que c’était de l’argent ben placé.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="15">
 	<s id="1">Oh !</s>
 	<s id="2">Oui, à fonds perdus.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="16">
 	<s id="1">Ah !</s>
 	<s id="2">Ma fine !</s>
@@ -381,43 +381,43 @@
 	<s id="4">Faut que ça soie un brave homme ; car i’ ne m’a pas trompé.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="17">
 	<s id="1">Oh !</s>
 	<s id="2">Non ; tu peux en être sûr, si c’est cela qu’il t’a dit...</s>
 	<s id="3">Mais, innocent que tu es, pourquoi mets-tu six francs à la Loterie, au lieu de garder ton argent ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="18">
 	<s id="1">Ah !</s>
 	<s id="2">C’est pour épouser Mam’selle Ursule quand j’aurai gagné.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="19">
 	<s id="1">Ah!</s>
 	<s id="2">Tu veux te marier aussi ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="20">
 	<s id="1">Eh !</s>
 	<s id="2">Pardine !</s>
 	<s id="3">Tout comme un autre.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="21">
 	<s id="1">Et avec notre cuisinière ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="22">
 	<s id="1">Oui, Monsieur, parce qu’a fera ma cuisine aussi après la vote.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, riant.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, riant.</hstage>
 <p id="23">
 	<s id="1">Ah !</s>
 	<s id="2">J’avoue que je serai curieux de voir cette noce-là.</s>
@@ -426,38 +426,38 @@
 	<s id="5">As-tu porté mes lettres de bon matin, comme je te l’avais dit ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="24">
 	<s id="1">Oui, Monsieur, et si matin même, que j’étais pas réveillé quand j’ai parti.</s>
 	<s id="2">J’ai pris tout vote monde au saut du lit.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="25">
 	<s id="1">Bon.</s>
 	<s id="2">T’a-t-on fait réponse ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="26">
 	<s id="1">Oui ; et je les ai mises sur votre bureau.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, toujours riant.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, toujours riant.</hstage>
 <p id="27">
 	<s id="1">Fort bien...</s>
 	<s id="2">Ah !</s>
 	<s id="3">Dis-moi, as-tu passé chez le perruquier pour ma perruque neuve ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="28">
 	<s id="1">Oui, Monsieur, i’ n’y était pas : mais j’ai toujours pris la perruque que j’ai vu dans une boîte, et je vous l’ai apportée ; ...</s>
 	<s id="2">La v’là.</s>
 </p>
 <stage>Il montre la boîte.</stage>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="29">
 	<s id="1">Tu as bien fait.</s>
 	<s id="2">Voyons ; mets-là moi, que je l’essaie.</s>
@@ -468,39 +468,39 @@
 	<s id="2">Cela me donnera un air plus distingué pour figurer pendant la fête.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, ayant mis la perruque à Dupont.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, ayant mis la perruque à Dupont.</hstage>
 <p id="31">
 	<s id="1">La peste !</s>
 	<s id="2">Oui ; v’là déjà zune perruque qui vous distingue ben la tête !...</s>
 	<s id="3">Je ne vous reconnais pus, moi.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, se carrant.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, se carrant.</hstage>
 <p id="32">
 	<s id="1">Voyons ; apportes-moi un miroir...</s>
 	<s id="2">On a beau dire, la coiffure fait beaucoup à un homme.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, lui présentant le miroir.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, lui présentant le miroir.</hstage>
 <p id="33">
 	<s id="1">Tenez, Monsieur, dévisagez-vous.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, se regardant.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, se regardant.</hstage>
 <p id="34">
 	<s id="1">Ah !</s>
 	<s id="2">Morbleu !</s>
 	<s id="3">Qu’est-ce que je vois là ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="35">
 	<s id="1">Eh !</s>
 	<s id="2">Pardine !</s>
 	<s id="3">Monsieur, c’est vous.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="36">
 	<s id="1">Moi !</s>
 	<s id="2">Ça !...</s>
@@ -508,20 +508,20 @@
 	<s id="4">C’est une perruque d’abbé que tu m’apportes là.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="37">
 	<s id="1">Comment, Monsieur, d’abbé !...</s>
 	<s id="2">Est-ce que ce n’est pas la vôtre ?</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="38">
 	<s id="1">Eh !</s>
 	<s id="2">Non, ventrebleu !</s>
 	<s id="3">La mienne est à trois circonstances ; c’est une financière.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="39">
 	<s id="1">Ah !</s>
 	<s id="2">Dame !</s>
@@ -529,7 +529,7 @@
 	<s id="4">Mais toujours elle vous va ben.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="40">
 	<s id="1">Oh !</s>
 	<s id="2">Oui ; ça me distingue, comme tu disais !...</s>
@@ -539,13 +539,13 @@
 	<s id="6">Conviens donc qu’un autre se fâcherait de ta bêtise.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="41">
 	<s id="1">Oh !</s>
 	<s id="2">Oui ; mais Monsieur n’a pas un mauvais caractère, lui !</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, se regardant.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, se regardant.</hstage>
 <p id="42">
 	<s id="1">Me coiffer en abbé !</s>
 	<s id="2">Là !</s>
@@ -555,30 +555,30 @@
 	<s id="6">Le diable m’emporte si je peux me regarder sans rire.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="43">
 	<s id="1">C’est vrai !</s>
 	<s id="2">Quand je regarde Monsieur, j’en ai envie auui, moi.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="44">
 	<s id="1">Vois donc comme ça me fait ressortir la tête !</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="45">
 	<s id="1">Comment donc !</s>
 	<s id="2">Ça vous fait genti comme tout.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="46">
 	<s id="1">Oh !</s>
 	<s id="2">Je voudrais que ma femme me vit comme cela !</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="47">
 	<s id="1">Oh !</s>
 	<s id="2">Alle vous trouverait, ma fine, ben à son goût !...</s>
@@ -588,19 +588,19 @@
 	<s id="1">Quand je dis que c’est un plaisir comme i’ prend les choses, j’ai pus d’agrément à me tromper qu’à ben faire avec lui.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, ôtant la perruque.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, ôtant la perruque.</hstage>
 <p id="49">
 	<s id="1">Tiens, remets la perruque dans la boîte, et dis à Ursule de la porter chez le perruquier.</s>
 	<s id="2">Toi, monte au troisième, et dis à Dorval que ma femme l’attend pour lui donner une séance, et finir son portrait.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="50">
 	<s id="1">Ça suffit, Monsieur, j’y vas et je l’y dirai comme ça que Madame l’attend pour l’y donner de la science pour finir son portrait.</s>
 </p>
 <stage>Il sort.</stage>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="51">
 	<s id="1">Oui, tout juste...</s>
 	<s id="2">Tu en aurais bon besoin, toi, de science pour entendre ce qu’on te dit.</s>
@@ -608,7 +608,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="DUPONT"><speaker>DUPONT, seul.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, seul.</hstage>
 <p id="1">
 	<s id="1">Voyons donc ce portrait de ma femme.</s>
 </p>
@@ -622,13 +622,13 @@
 <stage>Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Dorval, Jocrisse.</head>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Dorval, Jocrisse.</cast>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="1">
 	<s id="1">Oui, Monsieur, mon maîte m’a dit comme ça que Madame attendait après vous pour la finir.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL, riant.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>, riant.</hstage>
 <p id="2">
 	<s id="1">Bon !</s>
 	<s id="2">Bon !</s>
@@ -640,7 +640,7 @@
 </p>
 <stage>Il prépare ses couleurs.</stage>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, le regardant faire.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, le regardant faire.</hstage>
 <p id="3">
 	<s id="1">Eh !</s>
 	<s id="2">Jarni !</s>
@@ -650,51 +650,51 @@
 	<s id="6">Je vous en prie ; dites-moi un peu, c’est-i’ pus difficile à retirer un homme en portrait qu’une femme ?</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="4">
 	<s id="1">Mais, c’est à peu près la même chose.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Moi, par exemple, regardez-moi ben ; croyez-vous que ma figure jouerait ben sus zune toile comme ça ?</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="6">
 	<s id="1">Comment !</s>
 	<s id="2">Est-ce que tu voudrais te faire peindre ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="7">
 	<s id="1">Oui, Monsieur ; dessus vote respect, je voudrais faire cadeau de mon visage à Mam’selle Ursule dans sa tabatière.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="8">
 	<s id="1">La peste !</s>
 	<s id="2">Quelle galanterie !</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="9">
 	<s id="1">Seriez-vous capable de m’aider à faire ce coup-là ?</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="10">
 	<s id="1">Mais, si j’en avais le temps, je te ferais un petit croquis.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="11">
 	<s id="1">Qu’est-ce que c’est d’un croquis ?...</s>
 	<s id="2">Ah !</s>
 	<s id="3">Monsieur croit badiner, p’têtre ; mais quand j’étais petit, on me le disait ben que j’étais genti à croquer.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="12">
 	<s id="1">Oui ; mais tu as bien changé depuis ce temps-là !</s>
 </p>
@@ -708,7 +708,7 @@
 	<s id="2">Voyons ; mets-toi là : je vais t’ébaucher tout de suite.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="15">
 	<s id="1">Ah !</s>
 	<s id="2">Mais, non ; je ne veux pas qu’on me débauche, moi !...</s>
@@ -716,88 +716,88 @@
 	<s id="4">Mam’selle Ursule ne serait pas contente...</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="16">
 	<s id="1">Eh !</s>
 	<s id="2">Je ne parle pas de te débaucher ; je dis que je vais faire l’esquisse de ta figure.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="17">
 	<s id="1">À la bonne heure, si c’est de ma figure que vous parlez ; mais i’ faut me faire ben joli garçon pour qu’alle m’aime ben.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL, tirant son crayon et un morceau de papier.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>, tirant son crayon et un morceau de papier.</hstage>
 <p id="18">
 	<s id="1">Ne t’inquiètes pas ; je vais te rendre intéressant.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="19">
 	<s id="1">Oui ; faites-moi les cheveux blonds : entendez-vous ?</s>
 	<s id="2">Et bouclés comme quand j’étais petit.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL, le plaçant.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>, le plaçant.</hstage>
 <p id="20">
 	<s id="1">Oui, oui ; tiens-toi bien.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, remuant toujours.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, remuant toujours.</hstage>
 <p id="21">
 	<s id="1">Et pis, je veux que vous me fassiez les yeux bleus, avec des belles paupières ben noires.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="22">
 	<s id="1">Eh mais !</s>
 	<s id="2">Tu les as gris, les yeux, et les sourcils rouges.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="23">
 	<s id="1">C’est égal ; faites-les toujours bleus : j’ai mes raisons : et pis, n’oubliez pas un grand front.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="24">
 	<s id="1">Mais tu l’as petit.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="25">
 	<s id="1">Qu’est-ce que ça vous fait ?</s>
 	<s id="2">Je vous dis de le faire grand, moi, et les yeux bleus, parce que Mam’selle Ursule ne les aime que comme ça.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="26">
 	<s id="1">Ah !</s>
 	<s id="2">Tu as raison, il faut la contenter.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="27">
 	<s id="1">Et pis le nez ben éfilé, avec un trou dans le menton.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="28">
 	<s id="1">Mais tu as le nez tout rond, avec un menton de galoche.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="29">
 	<s id="1">Mais, Monsieur, faites donc au goût du monde ; je vous dis que j’y avais un trou étant petit, moi.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="30">
 	<s id="1">Ah !</s>
 	<s id="2">C’est différent ; je ne pouvais pas deviner ça.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="31">
 	<s id="1">Eh ben !</s>
 	<s id="2">D’abord qu’on vous le dit...</s>
@@ -805,14 +805,14 @@
 	<s id="4">Et pis des belles couleurs ben rouges sur les joues ; car je les avais toujours comme des pommes d’apis.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="32">
 	<s id="1">Ah !</s>
 	<s id="2">Ventrebleu !</s>
 	<s id="3">Voilà un portrait où elle te reconnaîtra bien.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="33">
 	<s id="1">Voyons donc un peu si ça va ben !...</s>
 </p>
@@ -823,12 +823,12 @@
 	<s id="3">Je vous dis de me faire les yeux bleus, les cheveux blonds et les joues rouges, et tout ça, c’est tout noir.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="35">
 	<s id="1">Sans doute, parce que ce n’est que l’esquisse au crayon.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="36">
 	<s id="1">Ah ben oui !</s>
 	<s id="2">Au crayon !</s>
@@ -836,29 +836,29 @@
 	<s id="4">I’ me faut des belles peintures comme à Madame.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="37">
 	<s id="1">J’en mettrai après ; mais c’est pour prendre d’abord l’idée de ta figure.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="38">
 	<s id="1">Ah !</s>
 	<s id="2">Passe comme ça ; mais n’épargnez rien : je vous en prie, Monsieur ; j’aime mieux payer tout ça sus les pourboire que vous me donnez de temps en temps.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="39">
 	<s id="1">Fort bien !</s>
 	<s id="2">Comme ça, par le fonds que tu fais sur ma générosité, je suis payé d’avance.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="40">
 	<s id="1">C’est ça, Monsieur ; et si i’ reste quéque chose de surplus, je vous le racquitterai en commissions.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="41">
 	<s id="1">Oh !</s>
 	<s id="2">Sans doute ; nous nous arrangerons bien...</s>
@@ -867,12 +867,12 @@
 </p>
 <stage>Il serre le papier dans sa poche et sort.</stage>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="42">
 	<s id="1">Écoutez donc, Monsieur ; donnez-moi toujours ma peinture, parce que je la montrerai à quéqu’un.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="43">
 	<s id="1">Oh !</s>
 	<s id="2">Volontiers ; la voilà.</s>
@@ -881,7 +881,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII.</head>
-<sp who="JOCRISSE"><speaker>JOCRISSE, seul, regardant son esquisse.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, seul, regardant son esquisse.</hstage>
 <p id="1">
 	<s id="1">Diantre, ces peintres !</s>
 	<s id="2">On a ben de la peine à leur y faire faire ce qu’on veut !...</s>
@@ -937,23 +937,23 @@
 <stage>Il s’en va.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Madame Dupont, Dorval.</head>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT, en peignoir, coiffée en cheveux coquettement.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Madame Dupont, Dorval.</cast>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>, en peignoir, coiffée en cheveux coquettement.</hstage>
 <p id="1">
 	<s id="1">En vérité, Monsieur Dorval, vous êtes tourmentant, au moins !...</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="2">
 	<s id="1">Pardon, Madame ; c’est Monsieur Dupont qui est impatient de voir votre portrait terminé, et qui m’a fait avertir lui-même pour vous demander une séance.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="3">
 	<s id="1">Mais, compliments à part ; croyez-vous que cela me ressemblera ?</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="4">
 	<s id="1">Oh !</s>
 	<s id="2">Oui, Madame ; et pour la première séance, la figure vient déjà très bien...</s>
@@ -965,45 +965,45 @@
 	<s id="1">Vous ne pouvez pas juger encore de l’effet total, parce que cela n’est qu’indiqué, voyez-vous ?</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="6">
 	<s id="1">Qu’indiqué, Monsieur !</s>
 	<s id="2">Je vous remercie du compliment ; il me paraît que vous voyez en petit : mais vous peignez en grand.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL, s’avançant pour regarder.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>, s’avançant pour regarder.</hstage>
 <p id="7">
 	<s id="1">Comment donc, Madame ?</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="8">
 	<s id="1">Mais, oui, avec votre indication ; quand ce serait la bouche de la figure d’un vaisseau de guerre !...</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL regarde et s’écrie.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker> regarde et s’écrie.</hstage>
 <p id="9">
 	<s id="1">Oh ?</s>
 	<s id="2">Miséricorde !</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="10">
 	<s id="1">Et cet œil en coulisse que vous m’avez fait là.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL, confondu.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>, confondu.</hstage>
 <p id="11">
 	<s id="1">Mais, mais !</s>
 	<s id="2">Est-ce que j’ai la berlue !</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="12">
 	<s id="1">Et cette mouche intéressante que vous avez eu la galanterie d’indiquer aussi là, si légèrement.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="13">
 	<s id="1">Ah !</s>
 	<s id="2">Morbleu !</s>
@@ -1011,15 +1011,15 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Les Précédents, Dupont.</head>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>Les Précédents, Dupont.</cast>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="1">
 	<s id="1">Eh bien !</s>
 	<s id="2">Madame, êtes-vous satisfaite du peintre ?</s>
 	<s id="3">Et vous, Monsieur, de votre sujet ?</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="2">
 	<s id="1">Ah !</s>
 	<s id="2">Quant à moi, je suis enchantée !</s>
@@ -1027,18 +1027,18 @@
 	<s id="4">Tenez, faites-lui compliment.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, regarde en riant.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, regarde en riant.</hstage>
 <p id="3">
 	<s id="1">Ah ventrebleu !</s>
 	<s id="2">Mon pauvre Dorval, qu’est-ce que tu as fait là ?</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="4">
 	<s id="1">Monsieur a la modestie de n’appeler cela qu’une indication.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, riant aux éclats.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, riant aux éclats.</hstage>
 <note type="L">Mignature : (miniature) Sorte de peinture délicate qui se fait à petits points. [F]</note>
 <p id="5">
 	<s id="1">Oh !</s>
@@ -1048,93 +1048,93 @@
 	<s id="5">Est-ce que c’est un nouveau genre que tu inventes ?</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL, en colère.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>, en colère.</hstage>
 <p id="6">
 	<s id="1">Eh !</s>
 	<s id="2">Non ; c’est le diable qui est venu barbouiller mon tableau.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="7">
 	<s id="1">Oh bien !</s>
 	<s id="2">Je parie que je me doute d’où vient la diable, moi...</s>
 	<s id="3">Depuis que je t’ai envoyé appeler tout-à-l’heure, y as-tu touché ?</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="8">
 	<s id="1">Non, du tout ; j’ai disposé ici ma palette et mes pinceaux, et je suis allé chercher Madame.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="9">
 	<s id="1">As-tu laissé ici quelqu’un ?</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="10">
 	<s id="1">Ah morbleu !</s>
 	<s id="2">Tu m’avises ; j’y ai laissé Jocrisse, qui m’avait même aussi demandé son portrait.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="11">
 	<s id="1">Justement.</s>
 	<s id="2">Je te parie que c’est là de sa besogne.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="12">
 	<s id="1">Tu as raison ; car c’est travailler dans le genre où il me demandait de le peindre.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="13">
 	<s id="1">Ah !</s>
 	<s id="2">Le misérable !</s>
 	<s id="3">S’il a eu cette impertinence là, je le chasse tout-à-l’heure.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="14">
 	<s id="1">Eh !</s>
 	<s id="2">Ma chère femme, un peu d’indulgence.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="15">
 	<s id="1">Oui, comptez là-dessus.</s>
 	<s id="2">Ursule ?</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Les Précédents, Ursule.</head>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><cast>Les Précédents, Ursule.</cast>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="1">
 	<s id="1">Mademoiselle, cherchez Jocrisse, et envoyez-le-moi tout de suite.</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Il est à la cave, Madame ; je vais l’appeler.</s>
 </p>
 <stage>Elle sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Monsieur et Madame Dupont, Dorval.</head>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><cast>Monsieur et Madame Dupont, Dorval.</cast>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="1">
 	<s id="1">Par exemple, toi, Dorval, tu conviendras qu’il est plaisant dans ses folies.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL, piqué.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>, piqué.</hstage>
 <p id="2">
 	<s id="1">Oh !</s>
 	<s id="2">Très plaisant, même !...</s>
 	<s id="3">Voilà un portrait qu’il faut recommencer.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="3">
 	<s id="1">Ah !</s>
 	<s id="2">Oui ; fâche-toi donc aussi.</s>
@@ -1143,7 +1143,7 @@
 	<s id="5">Crie donc.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT, criant.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>, criant.</hstage>
 <p id="4">
 	<s id="1">Hola !</s>
 	<s id="2">Jocrisse !</s>
@@ -1151,8 +1151,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="12"><head>SCÈNE XII. Les Précédents, Jocrisse, tenant un martinet d’une main, et de l’autre un tapoir.</head>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head><cast>Les Précédents, Jocrisse, tenant un martinet d’une main, et de l’autre un tapoir.</cast>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <note type="L">Tapoir : (ce mot ne figure pas dans le Littré ni dans le Dictionnaire Furetière.) Probablement un maillet quelconque.</note>
 <note type="L">Martinet : Signifie un petit chandelier plat, qui a un manche et un crochet, qui sert particulièrement aux taverniers pour aller à la cave. [F]</note>
 <p id="1">
@@ -1160,58 +1160,58 @@
 	<s id="2">Quoiqu’on l’y veut encore à Jocrisse ?</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="2">
 	<s id="1">C’est Madame qui t’appelle pour te gronder.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="3">
 	<s id="1">Ah ben oui !</s>
 	<s id="2">J’ai pas le temps de ça à présent, moi.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="4">
 	<s id="1">Comment, impertinent que vous êtes !</s>
 	<s id="2">Drôle, mal avisé, mauvais sujet...</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Ah !</s>
 	<s id="2">Mais, Madame, si y en a encore ben long, faut remettre ça à une autre fois, parce que je ne peux pas rester ici à stheure.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="6">
 	<s id="1">Eh bien !</s>
 	<s id="2">Est-il assez insolent, et bête comme ça ?</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, à Jocrisse.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, à Jocrisse.</hstage>
 <p id="7">
 	<s id="1">Allons, défends-toi.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="8">
 	<s id="1">Sans doute, Monsieur, soutenez-le encore...</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="9">
 	<s id="1">Monsieur a raison, Madame, je vous dis que j’ai affaire.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT, l’arrêtant.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>, l’arrêtant.</hstage>
 <p id="10">
 	<s id="1">Il n’y a pas d’affaires qui tiennent.</s>
 	<s id="2">Regardez ici, mal-appris que vous êtes !...</s>
 	<s id="3">Qu’est-ce que c’est que ce portrait-là ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, riant.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, riant.</hstage>
 <p id="11">
 	<s id="1">Ah !</s>
 	<s id="2">C’est pour ça que vous m’appelez !</s>
@@ -1225,7 +1225,7 @@
 </p>
 <stage>Il veut sortir.</stage>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT, en colère.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>, en colère.</hstage>
 <p id="13">
 	<s id="1">Eh bien !</s>
 	<s id="2">Drôle, voulez-vous bien rester et m’écouter quand je vous parle ?...</s>
@@ -1235,39 +1235,39 @@
 	<s id="1">Ordonnez-lui donc, Monsieur, ou je vais me fâcher contre vous aussi...</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="15">
 	<s id="1">Eh bien !</s>
 	<s id="2">Jocrisse, accordes-nous donc un moment !</s>
 	<s id="3">Qu’est-ce qui te presse si fort ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="16">
 	<s id="1">Je m’en vas vous le dire à vous, Monsieur, qu’entendez la raison.</s>
 	<s id="2">J’étais à la cave à tirer du vin, quand Mam’selle Ursule m’a t’appelé sur l’escalier de la part de Madame ; et comme je sais qu’a n’aime jamais à attendre, je m’ai tant dépêché pour monter, que je n’ai pas eu le temps de fermer le robinet du tonneau.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="17">
 	<s id="1">Comment, pas fermé !</s>
 	<s id="2">Et le vin coule donc à présent ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="18">
 	<s id="1">Pardine !</s>
 	<s id="2">Je crois ben que oui, Monsieur.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="19">
 	<s id="1">Ah !</s>
 	<s id="2">Le misérable !</s>
 	<s id="3">Une pièce de vin de Bourgogne !</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, riant et tapant les pieds.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, riant et tapant les pieds.</hstage>
 <p id="20">
 	<s id="1">Oh !</s>
 	<s id="2">Oh !</s>
@@ -1275,7 +1275,7 @@
 	<s id="4">Peut-on faire une sottise pareille !</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="21">
 	<s id="1">Eh ben dame !</s>
 	<s id="2">Monsieur et Madame, c’est vote faute à tous les deux, que vous me retenez là quand je veux m’en aller.</s>
@@ -1285,58 +1285,58 @@
 	<s id="1">Et pis encore à Monsieur le peinte qui rit là à propos de rien.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, le poussant.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, le poussant.</hstage>
 <p id="23">
 	<s id="1">Mais, vas donc vite fermer le tonneau.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="24">
 	<s id="1">Oh !</s>
 	<s id="2">Monsieur, j’ai t’eu une bonne précaution ; j’ai avancé dessous le robinet une petite terrine où ce que le vin tomba dedans.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL, riant.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>, riant.</hstage>
 <p id="25">
 	<s id="1">La peste t’étouffe avec la terrine !</s>
 	<s id="2">Elle a eu le temps de se remplir vingt fois.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="26">
 	<s id="1">Cours donc, cours donc vite, malheureux !</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, courant.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, courant.</hstage>
 <p id="27">
 	<s id="1">Eh ben !</s>
 	<s id="2">J’y cours aussi.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="13"><head>SCÈNE XIII. Les Précédents, Ursule entre ;  Jocrisse se jette dans elle et tombe à terre.</head>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<div2 type="scene" n="13"><head>SCÈNE XIII.</head><cast>Les Précédents, Ursule entre ;  Jocrisse se jette dans elle et tombe à terre.</cast>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="1">
 	<s id="1">Ahi !</s>
 	<s id="2">Ahi !</s>
 	<s id="3">Le bras.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, à terre.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, à terre.</hstage>
 <p id="2">
 	<s id="1">Oh !</s>
 	<s id="2">Oh!</s>
 	<s id="3">Le nez !</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="3">
 	<s id="1">Le malheureux !</s>
 	<s id="2">Puisse-tu l’avoir cassé !...</s>
 	<s id="3">Voilà encore mon vin qui coule pendant ce temps-là.</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Votre vin !</s>
 	<s id="2">Oh !</s>
@@ -1345,33 +1345,33 @@
 	<s id="5">C’est tout au plus s’il y a trois ou quatre bouteilles de perdues.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Pardine !</s>
 	<s id="2">Une belle misère pour faire tant de bruit !</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="6">
 	<s id="1">Eh bien !</s>
 	<s id="2">Je le conseille encore ?</s>
 	<s id="3">Il n’y a pas assez de mal de fait, n’est-ce pas ?</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="7">
 	<s id="1">Allons, allons, Mme Dupont, tranquillisons-nous ; le mal n’est pas si grand que nous l’avons cru...</s>
 	<s id="2">Mettons que c’est une douzaine de bouteilles de perdues, et n’y pensons plus.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="8">
 	<s id="1">Eh !</s>
 	<s id="2">Oui, Madame ; prenez que vous avez donné à dîner, là !</s>
 	<s id="3">Y a des fois que vous en faites boire davantage à de vos amis, soi-disant, où ce qui ne vous fait pas pus de profit.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, à sa femme.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, à sa femme.</hstage>
 <p id="9">
 	<s id="1">Chut !</s>
 	<s id="2">Madame !</s>
@@ -1379,34 +1379,34 @@
 	<s id="4">En te remerciant, mon ami.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, aparté.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, aparté.</hstage>
 <p id="10">
 	<s id="1">Quand je vous dis ; je suis sûr que je n’ai jamais tort avec lui.</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="11">
 	<s id="1">En parlant de dîner, Madame, je venais pour vous avertir qu’il est prêt.</s>
 	<s id="2">Si vous voulez vous mettre à table?</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="12">
 	<s id="1">Oui, allons-y.</s>
 </p>
 <stage>Ursule sort.</stage>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="13">
 	<s id="1">Monsieur, voulez-vous que j’aille rachever de tirer.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT, vivement.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>, vivement.</hstage>
 <p id="14">
 	<s id="1">Non, Monsieur ; je ne veux pas qu’il y remette le pied.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, riant.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, riant.</hstage>
 <p id="15">
 	<s id="1">Oui, oui, en voilà assez de tiré comme cela.</s>
 	<s id="2">Viens plutôt nous servir à table ; il n’y a pas tant de risque.</s>
@@ -1414,7 +1414,7 @@
 </p>
 <stage>Dorval donne la main à Mme Dupont ; Dupont sort après eux.</stage>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, seul.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, seul.</hstage>
 <p id="16">
 	<s id="1">Ça m’est égal, moi ; aussi ben, i’ fait trop froid à ste cave...</s>
 	<s id="2">Et pis, je suis ben aise d’être à la table pour voir la mine que Madame va faire...</s>
@@ -1426,7 +1426,7 @@
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
 <div2 type="scene" n=""><head>SCÈNE I.</head>
-<sp who="URSULE"><speaker>URSULE, seule, avec une cafetière à la main.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>, seule, avec une cafetière à la main.</hstage>
 <note type="L">Émoustiller : Exciter à la gaieté, mettre en bonne humeur (pas en colère).</note>
 <p id="1">
 	<s id="1">Eh ben !</s>
@@ -1442,8 +1442,8 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Jocrisse, Ursule.</head>
-<sp who="JOCRISSE"><speaker>JOCRISSE, en colère.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Jocrisse, Ursule.</cast>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, en colère.</hstage>
 <p id="1">
 	<s id="1">Ah !</s>
 	<s id="2">Jarni !</s>
@@ -1452,14 +1452,14 @@
 	<s id="5">Oui ; j’aimerais mieux servir un homme que quate femmes.</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Eh !</s>
 	<s id="2">Bon Dieu !</s>
 	<s id="3">Qu’est-ce que les femmes t’ont donc fait, pour crier comme ça après elles ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="3">
 	<s id="1">Ah !</s>
 	<s id="2">Elles m’ont fait...</s>
@@ -1467,60 +1467,60 @@
 	<s id="4">Faudra qu’elle ou moi j’y renoncions.</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Ah !</s>
 	<s id="2">Le choix sera bientôt fait.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Oh !</s>
 	<s id="2">Oui ; car si a ne prend pas son parti, je prendrai le mien, moi.</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="6">
 	<s id="1">Tu fera ben.</s>
 	<s id="2">En attendant, v’là ton café ; tiens, vas toujours leur porter.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="7">
 	<s id="1">Oh !</s>
 	<s id="2">Vous pouvez ben y aller vous-même ; moi, je ne rentre pas dans la salle à manger.</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="8">
 	<s id="1">Bah !</s>
 	<s id="2">Pourquoi donc te piquer comme ça ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="9">
 	<s id="1">Oui, c’est ben dit ; j’y suis piqué et décidé.</s>
 	<s id="2">J’y remets pus le pied...</s>
 	<s id="3">D’ailleurs, a me l’a défendu, Madame ; est-ce qu’a ne vient pas de me renvoyer ?</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="10">
 	<s id="1">Ah !</s>
 	<s id="2">Mais comme ça, dis donc ; i’ me paraît que son parti est tout pris, à elle.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="11">
 	<s id="1">Oui ; a m’a défendu de resservir à table.</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="12">
 	<s id="1">Tu as donc fait encore queque sottise ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="13">
 	<s id="1">Bah !</s>
 	<s id="2">Des sottises !</s>
@@ -1528,13 +1528,13 @@
 	<s id="4">Imaginez-vous en servant un saladier de crème, j’y en ai répandu tout au plus la moitié dessus sa robe, et alle a crié comme si le feu était à la maison.</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="14">
 	<s id="1">Mais dame !</s>
 	<s id="2">Ça n’est pas agréable, non plus.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="15">
 	<s id="1">Pardi !</s>
 	<s id="2">La v’là ben malade...</s>
@@ -1543,25 +1543,25 @@
 	<s id="5">Faut toujours que ça parle.</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="16">
 	<s id="1">Ah !</s>
 	<s id="2">Mais c’est que tout le monde ne prend pas les choses comme Monsieur.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="17">
 	<s id="1">Vous pouvez ben porter le café à vote belle maîtresse ; pour moi, je ne veux pus la servir.</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="18">
 	<s id="1">Oui ; je crois que vous v’là d’accord là-dessus.</s>
 	<s id="2">Eh ben !</s>
 	<s id="3">Pendant que je vais servir le café, vas donc un peu me laver ma vaisselle, Jocrisse ; ça sera toujours une avance.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="19">
 	<s id="1">Ah !</s>
 	<s id="2">C’est juste ; pisque vous faites mon ouvrage, i’ faut que je fasse le vôtre...</s>
@@ -1569,7 +1569,7 @@
 	<s id="4">Je nous entendons ben, nous deux, pas vrai, Mam’selle Ursule ?</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="20">
 	<s id="1">Oui, oui, vas toujours, et prends garde à rien casser.</s>
 </p>
@@ -1577,7 +1577,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="JOCRISSE"><speaker>JOCRISSE, seul.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, seul.</hstage>
 <p id="1">
 	<s id="1">Ah ben oui, casser !</s>
 	<s id="2">Sembe-t’i’ pas que j’ai la main périlleuse, donc ?...</s>
@@ -1592,13 +1592,13 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Jocrisse, Glaude.</head>
-<sp who="GLAUDE"><speaker>GLAUDE, bien bête.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Jocrisse, Glaude.</cast>
+<sp who="GLAUDE"><hstage><speaker>GLAUDE</speaker>, bien bête.</hstage>
 <p id="1">
 	<s id="1">Monsieur, c’est-t’i’ pas ici, révérence parler, que demeure la maison de Monsieur Dupont ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, aparté.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, aparté.</hstage>
 <p id="2">
 	<s id="1">Ah !</s>
 	<s id="2">Comme il est donc gauche, stilà !</s>
@@ -1610,7 +1610,7 @@
 	<s id="2">Queuque tu veux l’y dire ?</s>
 </p>
 </sp>
-<sp who="GLAUDE"><speaker>GLAUDE.</speaker>
+<sp who="GLAUDE"><hstage><speaker>GLAUDE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Ah !</s>
 	<s id="2">Bah !</s>
@@ -1618,7 +1618,7 @@
 	<s id="4">C’est pas à la maison, c’est au Monsieur que je veux parler.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Quien !</s>
 	<s id="2">Comme il est malin !</s>
@@ -1627,35 +1627,35 @@
 	<s id="5">Quoique tu veux y parler à Monsieur Dupont ?</s>
 </p>
 </sp>
-<sp who="GLAUDE"><speaker>GLAUDE.</speaker>
+<sp who="GLAUDE"><hstage><speaker>GLAUDE</speaker>.</hstage>
 <p id="6">
 	<s id="1">C’est parce qu’on m’a fait dire de sa part que je vienne.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="7">
 	<s id="1">Ah ben !</s>
 	<s id="2">Je vas l’avertir que t’es là...</s>
 	<s id="3">À propos, comment que tu t’appelles ?</s>
 </p>
 </sp>
-<sp who="GLAUDE"><speaker>GLAUDE.</speaker>
+<sp who="GLAUDE"><hstage><speaker>GLAUDE</speaker>.</hstage>
 <p id="8">
 	<s id="1">Je m’appelle Glaude, Monsieur.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="9">
 	<s id="1">Glaude toi-même, parles donc, hé !...</s>
 	<s id="2">Je m’appelle pas Glaude, moi.</s>
 </p>
 </sp>
-<sp who="GLAUDE"><speaker>GLAUDE.</speaker>
+<sp who="GLAUDE"><hstage><speaker>GLAUDE</speaker>.</hstage>
 <p id="10">
 	<s id="1">Mais c’est moi, Monsieur, qui s’appelle comme ça.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="11">
 	<s id="1">Eh ben !</s>
 	<s id="2">Tant pis pour toi...</s>
@@ -1665,12 +1665,12 @@
 	<s id="6">ça ne te fait pas d’honneur.</s>
 </p>
 </sp>
-<sp who="GLAUDE"><speaker>GLAUDE.</speaker>
+<sp who="GLAUDE"><hstage><speaker>GLAUDE</speaker>.</hstage>
 <p id="12">
 	<s id="1">Pourquoi donc ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="13">
 	<s id="1">Parce que c’est pas un nom pour un homme, ça !...</s>
 	<s id="2">Glaude !...</s>
@@ -1683,19 +1683,19 @@
 	<s id="2">T’es encore plus bête que moi, toi !</s>
 </p>
 </sp>
-<sp who="GLAUDE"><speaker>GLAUDE.</speaker>
+<sp who="GLAUDE"><hstage><speaker>GLAUDE</speaker>.</hstage>
 <p id="15">
 	<s id="1">Bah !...</s>
 	<s id="2">Comment donc que vous vous appeliez, vous ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="16">
 	<s id="1">Oh !</s>
 	<s id="2">Moi, c’est différent ; je m’appelle Jean-Gilles Jocrisse.</s>
 </p>
 </sp>
-<sp who="GLAUDE"><speaker>GLAUDE.</speaker>
+<sp who="GLAUDE"><hstage><speaker>GLAUDE</speaker>.</hstage>
 <p id="17">
 	<s id="1">Quien !</s>
 	<s id="2">Jean-Gilles Jocrisse !...</s>
@@ -1707,19 +1707,19 @@
 	<s id="8">On se moque des Jocrisses cheux nous.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="18">
 	<s id="1">Oui-da !...</s>
 	<s id="2">Mais ne vas pas prendre ste liberté-là ici, toi.</s>
 </p>
 </sp>
-<sp who="GLAUDE"><speaker>GLAUDE.</speaker>
+<sp who="GLAUDE"><hstage><speaker>GLAUDE</speaker>.</hstage>
 <p id="19">
 	<s id="1">Oh !</s>
 	<s id="2">Monsieur, je sais ben que je ne sommes pas ici cheux nous.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="20">
 	<s id="1">Diante !</s>
 	<s id="2">T’es taquin, à ce qui me paraît.</s>
@@ -1727,12 +1727,12 @@
 	<s id="4">Car t’es domestique aussi, apparemment, toi.</s>
 </p>
 </sp>
-<sp who="GLAUDE"><speaker>GLAUDE.</speaker>
+<sp who="GLAUDE"><hstage><speaker>GLAUDE</speaker>.</hstage>
 <p id="21">
 	<s id="1">Monsieur, j’ai pas encore sthonneur-là ; mais je viens de mon pays exprès pour l’être.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="22">
 	<s id="1">La peste !</s>
 	<s id="1">Ça va faire un beau coup pour le maîte qui t’aura !...</s>
@@ -1740,42 +1740,42 @@
 	<s id="3">Cheux qui que tu compte entrer ?</s>
 </p>
 </sp>
-<sp who="GLAUDE"><speaker>GLAUDE.</speaker>
+<sp who="GLAUDE"><hstage><speaker>GLAUDE</speaker>.</hstage>
 <p id="23">
 	<s id="1">Cheux Monsieur Dupont !</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, sautant de surprise.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, sautant de surprise.</hstage>
 <p id="24">
 	<s id="1">Cheux Monsieur Dupont ?</s>
 </p>
 </sp>
-<sp who="GLAUDE"><speaker>GLAUDE.</speaker>
+<sp who="GLAUDE"><hstage><speaker>GLAUDE</speaker>.</hstage>
 <p id="25">
 	<s id="1">Oui, Monsieur, parce que c’est la femme à ce Monsieur Dupont qui m’a demandé, parce qu’elle a chassé un mauvais sujet qu’alle avait auparavant.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, en colère.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, en colère.</hstage>
 <p id="26">
 	<s id="1">Un mauvais sujet qu’alle avait ?</s>
 </p>
 </sp>
-<sp who="GLAUDE"><speaker>GLAUDE.</speaker>
+<sp who="GLAUDE"><hstage><speaker>GLAUDE</speaker>.</hstage>
 <p id="27">
 	<s id="1">Oui, Monsieur, et qu’alle veut en avoir un bon à sa place.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="28">
 	<s id="1">Et c’est toi qu’est ce bon-là ?</s>
 </p>
 </sp>
-<sp who="GLAUDE"><speaker>GLAUDE.</speaker>
+<sp who="GLAUDE"><hstage><speaker>GLAUDE</speaker>.</hstage>
 <p id="29">
 	<s id="1">Oui, Monsieur, je m’en vante.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, aparté.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, aparté.</hstage>
 <p id="30">
 	<s id="1">Sarpedié !</s>
 	<s id="2">J’ai envie de lui pocher le nez, à ce susplanteur-là ; ...</s>
@@ -1791,12 +1791,12 @@
 	<s id="6">Je demande mon compte et je veux m’en aller.</s>
 </p>
 </sp>
-<sp who="GLAUDE"><speaker>GLAUDE.</speaker>
+<sp who="GLAUDE"><hstage><speaker>GLAUDE</speaker>.</hstage>
 <p id="32">
 	<s id="1">À cause de pourquoi donc ça ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="33">
 	<s id="1">Eh ben !</s>
 	<s id="2">Je te dis, à causé de Madame qu’est une enragée ; car je m’étonne que je suis encore en vie, après tout ce qu’a m’a fait !...</s>
@@ -1805,14 +1805,14 @@
 	<s id="5">Tu ne resteras pas deux jours ici qu’a ne t’aura avalé.</s>
 </p>
 </sp>
-<sp who="GLAUDE"><speaker>GLAUDE, effrayé.</speaker>
+<sp who="GLAUDE"><hstage><speaker>GLAUDE</speaker>, effrayé.</hstage>
 <p id="34">
 	<s id="1">Ah !</s>
 	<s id="2">Mon Dieu !</s>
 	<s id="3">C’est donc comme une ogresse, ste femme-là !</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="35">
 	<s id="1">Ah !</s>
 	<s id="2">Bah !</s>
@@ -1820,14 +1820,14 @@
 </p>
 <stage>On entend dehors beaucoup de bruit, des assiettes que l’on casse, et des voix qui crient : « Ah ! Morbleu ! Ah ventrebleu ! » et Mme Dupont, plus haut que les autres, criant : « Ah ! Le gueux ! Ah ! Le misérable !... »</stage>
 </sp>
-<sp who="GLAUDE"><speaker>GLAUDE.</speaker>
+<sp who="GLAUDE"><hstage><speaker>GLAUDE</speaker>.</hstage>
 <p id="36">
 	<s id="1">Ah !</s>
 	<s id="2">Jarnigouette !</s>
 	<s id="3">Queuque j’entendons-là ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="37">
 	<s id="1">C’est un échantillon de sa bonne humeur....</s>
 	<s id="2">Veux-tu que je t’annonce ?</s>
@@ -1835,7 +1835,7 @@
 	<s id="4">Apprête-toi.</s>
 </p>
 </sp>
-<sp who="GLAUDE"><speaker>GLAUDE.</speaker>
+<sp who="GLAUDE"><hstage><speaker>GLAUDE</speaker>.</hstage>
 <p id="38">
 	<s id="1">Ah !</s>
 	<s id="2">Sarpedié non !</s>
@@ -1847,7 +1847,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="JOCRISSE"><speaker>JOCRISSE, seul.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, seul.</hstage>
 <p id="1">
 	<s id="1">Bon !</s>
 	<s id="2">V’là ce que je voulais ; j’y ai fait peur...</s>
@@ -1856,39 +1856,39 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Jocrisse, Ursule, avec la cafetière.</head>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Jocrisse, Ursule, avec la cafetière.</cast>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="1">
 	<s id="1">Eh !</s>
 	<s id="2">Malheureux !</s>
 	<s id="3">Queu miracle t’as donc encore fait-là ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Quien !</s>
 	<s id="2">Encore moi !...</s>
 	<s id="3">Et j’ai pas bougé d’ici.</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="3">
 	<s id="1">Je le sais ben ; mais c’est de ton café que je parle, qui semble que le diable était dans la cafetière...</s>
 	<s id="2">Monsieur, Madame, et le Peinte ont tout jeté par terre, et les tasse avec, et i’ disent qu’i’ sont empoisonnés.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="4">
 	<s id="1">C’est pourtant du bon Moka tout pur.</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE, flairant la cafetière.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>, flairant la cafetière.</hstage>
 <p id="5">
 	<s id="1">Mais, mon Dieu, t’as beau dire ; ça sent un vilain goût...</s>
 	<s id="2">Vois donc.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, flairant aussi.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, flairant aussi.</hstage>
 <p id="6">
 	<s id="1">Ah !</s>
 	<s id="2">Sarpedié !</s>
@@ -1897,14 +1897,14 @@
 	<s id="5">Et moi, j’aurai mis le café dans la boîte à Monsieur, et le tabac dans la cafetière.</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="7">
 	<s id="1">Ah !</s>
 	<s id="2">Le misérable !</s>
 	<s id="3">Peut-on être ahuri comme ça !</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="8">
 	<s id="1">Eh ben !</s>
 	<s id="2">C’est la faute des maîtes ; pourquoi t’est-ce qui donne toujours deux choses à faire à la fois ?...</s>
@@ -1916,13 +1916,13 @@
 	<s id="3">Madame a dû faire de belles grimaces !</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="10">
 	<s id="1">Oui ; mais je crois qu’elle t’en fera faire aussi d’autes, à toi...</s>
 	<s id="2">Les v’là qui viennent ; tiens-toi ben.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="11">
 	<s id="1">Ah ben oui !</s>
 	<s id="2">Je vas les attendre !...</s>
@@ -1930,26 +1930,26 @@
 </p>
 <stage>Il sort.</stage>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="12">
 	<s id="1">Oui ; je crois que ça fera une belle fête !</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Monsieur et Madame Dupont, Dorval, Uusule.</head>
-<sp who="DORVAL"><speaker>DORVAL, crachant.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Monsieur et Madame Dupont, Dorval, Uusule.</cast>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>, crachant.</hstage>
 <p id="1">
 	<s id="1">Je ne peux pas définir ce qu’il a mis dans son café, mais je n’ai jamais senti un goût comme ça.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT, à Ursule.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>, à Ursule.</hstage>
 <p id="2">
 	<s id="1">Eh bien !</s>
 	<s id="2">Mademoiselle, vous venez de lui parler, apparemment.</s>
 	<s id="3">Nous direz-vous ce que c’est, vous ?</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="3">
 	<s id="1">Eh ben !</s>
 	<s id="2">Madame, i’ ne l’a pas fait exprès.</s>
@@ -1957,7 +1957,7 @@
 	<s id="4">En voulant tantôt remplir la tabatière de Monsieur...</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, riant.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, riant.</hstage>
 <p id="4">
 	<s id="1">Ah !</s>
 	<s id="2">Ventrebleu !</s>
@@ -1968,47 +1968,47 @@
 </p>
 <stage>Il rit beaucoup.</stage>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT, à Ursule.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>, à Ursule.</hstage>
 <p id="5">
 	<s id="1">Allez me chercher un verre d’eau.</s>
 </p>
 <stage>Ursule sort.</stage>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, riant toujours.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, riant toujours.</hstage>
 <p id="6">
 	<s id="1">Convenez que le tour est risible.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="7">
 	<s id="1">En vérité, Monsieur, vos plaisanteries sont très déplacées ; je voudrais voir la figure que vous feriez, si vous en aviez avalé seulement une cuillerée.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="8">
 	<s id="1">La peste !</s>
 	<s id="2">Je n’aurais pas été si dupe ; je l’aurais reconnu l’odeur, moi !...</s>
 	<s id="3">Mais vous êtes délicats, vous autres, vous ne prenez pas de tabac !</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="9">
 	<s id="1">Et tu ne prends pas de café, toi !</s>
 	<s id="2">Tu es bienheureux !</s>
 </p>
 <stage>On entend un bruit de pétard.</stage>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="10">
 	<s id="1">Que diable est-ce là ?</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="11">
 	<s id="1">C’est peut-être déjà une épreuve pour ta philosophie.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="12">
 	<s id="1">Eh !</s>
 	<s id="2">Mais, c’est comme un coup de fusil !...</s>
@@ -2016,31 +2016,31 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Les Précédents.</head>
-<sp who="URSULE"><speaker>URSULE, portant un verre d’eau sur un assiette.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Les Précédents.</cast>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>, portant un verre d’eau sur un assiette.</hstage>
 <p id="1">
 	<s id="1">Tenez, Madame, en v’là de la ben fraîche !</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="2">
 	<s id="1">Dites-donc, Ursule, savez-vous ce que c’est que ce bruit que nous venons d’entendre ?</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE, avec un air de mystère.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>, avec un air de mystère.</hstage>
 <p id="3">
 	<s id="1">Oh !</s>
 	<s id="2">Ce n’est rien, Monsieur.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="4">
 	<s id="1">Comment rien !</s>
 	<s id="2">Eh !</s>
 	<s id="3">Voilà une fumée terrible !</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Oh !</s>
 	<s id="2">C’est égal, Madame...</s>
@@ -2050,7 +2050,7 @@
 	<s id="1">C’est de l’artifice de vot’ bouquet qu’on a voulu essayer.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, lui faisant signe.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, lui faisant signe.</hstage>
 <p id="7">
 	<s id="1">Chut !...</s>
 	<s id="2">Oui, oui, ma femme, ce n’est rien...</s>
@@ -2059,8 +2059,8 @@
 <stage>Ursule s’en va.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE IX. Les Précédents, Jocrisse, tout barbouillé de noir.</head>
-<sp who="JOCRISSE"><speaker>JOCRISSE, criant et se démenant.</speaker>
+<div2 type="scene" n="11"><head>SCÈNE IX.</head><cast>Les Précédents, Jocrisse, tout barbouillé de noir.</cast>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, criant et se démenant.</hstage>
 <p id="1">
 	<s id="1">Ah !</s>
 	<s id="2">Sarpedié !</s>
@@ -2068,59 +2068,59 @@
 	<s id="4">Monsieur, je viens vous demander vengeance de ça.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="2">
 	<s id="1">Qu’est-ce qu’il y a donc encore ?</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, bas à Jocrisse.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, bas à Jocrisse.</hstage>
 <p id="3">
 	<s id="1">Tais-toi donc, ne parles pas de ça.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Si fait, Monsieur, j’ai pas tort ste fois-ci, d’abord : jugez-moi putôt.</s>
 	<s id="2">Tenez, Madame, c’est l’artificier qui travaille là-bas dans le jardin à faire des fusées pour vote fête...</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="5">
 	<s id="1">Allons, l’imbécile !</s>
 	<s id="2">Voilà tout vendu !</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="6">
 	<s id="1">Ah !</s>
 	<s id="2">Ah !</s>
 	<s id="3">Monsieur, une surprise que vous me ménagiez ?</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="7">
 	<s id="1">Oui ; mais le secret était en bonnes mains !</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT, à Jocrisse.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>, à Jocrisse.</hstage>
 <p id="8">
 	<s id="1">Eh !</s>
 	<s id="2">Qu’a-t-il fait cet artificier ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="9">
 	<s id="1">Eh ben !</s>
 	<s id="2">Madame, i’ m’a donné six belles chandelles pour porter dans le salon, qui m’a dit de les mettre dans six beaux flambeaux...</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="10">
 	<s id="1">Ah !</s>
 	<s id="2">Des chandelles Romaines, apparemment !</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="11">
 	<s id="1">Ah ben oui !</s>
 	<s id="2">Romaines !...</s>
@@ -2128,7 +2128,7 @@
 	<s id="4">Quand je les ai t’eu mis dans les flambeaux, j’ai voulu les émoucher ; mais j’en ai allumé la mèche à une, et pis, j’y ai soufflé dessus pour la faire prendre ; pas du tout, v’là que la chienne de chandelle a soufflé un feu qui m’a sauté dans le nez et qui m’a tout grésillé le visage et les mains ; et pis, après ça, le pétard qui m’a fait tomber à la renverse.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, riant.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, riant.</hstage>
 <p id="12">
 	<s id="1">Oh !</s>
 	<s id="2">Oh !</s>
@@ -2136,13 +2136,13 @@
 	<s id="4">Tu n’as donc pas envie d’aller émoucher les cinq autres ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="13">
 	<s id="1">Moi !</s>
 	<s id="2">Que le diable d’artificier les émouche si i’ veut, lui-même ; elles sont ensorcelées.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT, à son mari.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>, à son mari.</hstage>
 <p id="14">
 	<s id="1">Eh bien !</s>
 	<s id="2">Monsieur, vous voyez qu’on ne peut pas se fier à un étourdi comme celui-là !</s>
@@ -2150,24 +2150,24 @@
 	<s id="4">D’ailleurs, je vous avoue, moi, qu’il me retourne tout le sang.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="15">
 	<s id="1">Pardine !</s>
 	<s id="2">Je l’ai ben mieux retourné, moi, le mien, qu’il est tout brûlé à stheure.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="16">
 	<s id="1">Allons, allons, ma femme, il faut encore lui pardonner celle-là.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="17">
 	<s id="1">Oui...</s>
 	<s id="2">Il en est déjà assez puni.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="18">
 	<s id="1">Quien !</s>
 	<s id="2">Me pardonner, à stheure !</s>
@@ -2175,32 +2175,32 @@
 	<s id="4">C’est pardi ben moi qui ne pardonne pas à ce chien d’artificier sa chandelle moulée !</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT, à son mari.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>, à son mari.</hstage>
 <p id="19">
 	<s id="1">Comment !</s>
 	<s id="2">Vous voulez que je garde un imbécile qui me fait à tous moments de nouvelles sottises et qui casse tout ?</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="20">
 	<s id="1">Eh bien !</s>
 	<s id="2">Qui est-ce qui ne casse pas ?...</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="21">
 	<s id="1">Oh ben !</s>
 	<s id="2">Moi, y a encore ben des choses ici que je magne tous les jours et que j’ai pas encore cassé.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="22">
 	<s id="1">Ah !</s>
 	<s id="2">Pas encore !...</s>
 	<s id="3">Mais tu espères que cela viendra, apparemment.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="23">
 	<s id="1">Ah ben !</s>
 	<s id="2">Mais Madame, on ne peut pas vous répondre du casuel, non pus, et puis nous n’aurons pas de dispute.</s>
@@ -2209,15 +2209,15 @@
 <stage>Il s’en va.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Monsieur et Madame Dupont, Dorval.</head>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><cast>Monsieur et Madame Dupont, Dorval.</cast>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="1">
 	<s id="1">Eh bien !</s>
 	<s id="2">Cela ne vous désarme pas, Madame !</s>
 	<s id="3">Vous voyez qu’il baisse pavillon devant vous ?</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="2">
 	<s id="1">Ah ça !</s>
 </p>
@@ -2226,7 +2226,7 @@
 	<s id="1">Monsieur, j’espère que vous me débarrasserez bientôt de lui...</s>
 	<s id="2">D’abord, je vous avoue que j’ai fait demander un autre domestique, et que je l’attends d’un moment à l’autre.</s></p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="4">
 	<s id="1">Eh bien !</s>
 	<s id="2">Ma chère amie, quand il viendra, nous le prendrons, s’il vous convient ; aussi bien une personne de plus ne nuira pas dans notre maison...</s>
@@ -2238,7 +2238,7 @@
 	<s id="1">Et pour son café.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL, toussant par ressouvenir.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>, toussant par ressouvenir.</hstage>
 <note type="L">Hom : Qui exprime le doute, la défiance. [L]</note>
 <p id="6">
 	<s id="1">Hom !</s>
@@ -2247,14 +2247,14 @@
 	<s id="4">Et même, si Madame voulait, pour faire sa paix avec moi, me donner une petite séance...</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="7">
 	<s id="1">Oh !</s>
 	<s id="2">Non, après dîner comme cela, je n’aime pas à rester assise.</s>
 	<s id="3">Allons plutôt faire un tour de jardin.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, voulant la détourner.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, voulant la détourner.</hstage>
 <p id="8">
 	<s id="1">Oh !</s>
 	<s id="2">Le jardin !...</s>
@@ -2262,7 +2262,7 @@
 	<s id="4">Cela n’est agréable que le soir.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="9">
 	<s id="1">Ah !</s>
 	<s id="2">J’entends !...</s>
@@ -2275,92 +2275,92 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. Les Précédents, Jocrisse, avec un balai de crin.</head>
-<sp who="JOCRISSE"><speaker>JOCRISSE, venant derrière, à Dupont.</speaker>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><cast>Les Précédents, Jocrisse, avec un balai de crin.</cast>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, venant derrière, à Dupont.</hstage>
 <p id="1">
 	<s id="1">Chit !</s>
 	<s id="2">Chit !</s>
 	<s id="3">Monsieur...</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT, à Jocrisse.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>, à Jocrisse.</hstage>
 <p id="2">
 	<s id="1">Eh bien !</s>
 	<s id="2">Te voilà encore !</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="3">
 	<s id="1">Eh !</s>
 	<s id="2">C’est pas pour vous ste fois-ci, Madame, c’est à Monsieur que j’en ai.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, riant.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, riant.</hstage>
 <p id="4">
 	<s id="1">Ah !</s>
 	<s id="2">Si c’est à nous deux, Madame, vous ne devez pas troubler la confidence ; parles, mon ami.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, à demi-voix.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, à demi-voix.</hstage>
 <p id="5">
 	<s id="1">Dites donc, Monsieur, qu’est-ce que c’est-i’ que des petits papiers fins de mousseline peinturés en noir et en rouge qu’étions sus votre bureau ?</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, haut.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, haut.</hstage>
 <p id="6">
 	<s id="1">Ah !</s>
 	<s id="2">Ce sont des billets de la Caisse d’Escompte que j’ai reçu ce matin, et que j’ai oublié de serrer.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="7">
 	<s id="1">Ça ne doit pas être ben cher, ces petites images-là, pas vrai, Monsieur ?</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, riant.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, riant.</hstage>
 <p id="8">
 	<s id="1">Non, non, vas, ce sont des misères dont tu n’a pas besoin de savoir le prix.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, s’en allant.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, s’en allant.</hstage>
 <p id="9">
 	<s id="1">Ah !</s>
 	<s id="2">Tant mieux !...</s>
 	<s id="3">Je le pensais ben aussi, moi.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, riant.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, riant.</hstage>
 <p id="10">
 	<s id="1">Il est plaisant avec ses images !...</s>
 	<s id="2">Mais quelle idée as-tu de me demander cela ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, revenant.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, revenant.</hstage>
 <p id="11">
 	<s id="1">Je m’en vas vous le dire, Monsieur ; c’est que tout-à-l’heure, en balayant votre cabinet, j’ai ouvert la fenêtre, à cause de la poussière ; là-dessus, il est venu une bouffée de vent qu’a envolé toutes les petites images !</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, s’écriant.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, s’écriant.</hstage>
 <p id="12">
 	<s id="1">Ah !</s>
 	<s id="2">Miséricorde !</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="13">
 	<s id="1">Oh !</s>
 	<s id="2">Parbleu !</s>
 	<s id="3">Je crois que voilà ton café, à toi.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="14">
 	<s id="1">Y eu a qu’ont passé par la fenêtre.</s>
 	<s id="2">Ah !</s>
 	<s id="3">Vous ririez de voir comme tout le monde court après dans les rues !</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, enragé, et piétinant de colère.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, enragé, et piétinant de colère.</hstage>
 <p id="15">
 	<s id="1">Après mes billets de Caisse !...</s>
 	<s id="2">Ah !</s>
@@ -2372,8 +2372,8 @@
 <stage>Il s’en va.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="12"><head>SCÈNE XII. Madame Dupont, Dorval, Jorisse.</head>
-<sp who="JOCRISSE"><speaker>JOCRISSE, stupéfait.</speaker>
+<div2 type="scene" n="12"><head>SCÈNE XII.</head><cast>Madame Dupont, Dorval, Jorisse.</cast>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, stupéfait.</hstage>
 <p id="1">
 	<s id="1">Eh ben!</s>
 	<s id="2">Est-ce qu’il est devenu fou depis tout-à-l’heure, donc ?</s>
@@ -2381,38 +2381,38 @@
 	<s id="4">Lui qui riait toujours quand je faisais quéqu’étourderie ; le v’là qu’il est enragé pour des images !...</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="2">
 	<s id="1">Eh bien !</s>
 	<s id="2">Monsieur Jocrisse, voilà donc votre protecteur fâché une fois !</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="3">
 	<s id="1">Oh !</s>
 	<s id="2">Jarni !</s>
 	<s id="3">J’aimerais mieux qui’ me grondât tous les jours comme vous faites, que de se fâcher une seule fois comme ça.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT, à Dorval.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>, à Dorval.</hstage>
 <p id="4">
 	<s id="1">Ça lui apprendra, à Monsieur Dupont...</s>
 	<s id="2">S’il l’avait renvoyé, lorsque je l’ai voulu, il nous aurait épargné bien de sa mauvaise humeur à tous.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Eh ben !</s>
 	<s id="2">Madame, laissez-moi aller à présent.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="6">
 	<s id="1">Oh !</s>
 	<s id="2">Il n’est plus temps, tu es consigné.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="7">
 	<s id="1">Ah !</s>
 	<s id="2">Jarnombille !</s>
@@ -2421,37 +2421,37 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="13"><head>SCÈNE XIII. Les Précédents, Dupont.</head>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<div2 type="scene" n="13"><head>SCÈNE XIII.</head><cast>Les Précédents, Dupont.</cast>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="1">
 	<s id="1">Le misérable !</s>
 	<s id="2">Je suis arrivé bien à temps pour fermer la fenêtre, car tout y aurait passé...</s>
 	<s id="3">Heureusement il n’y eu a que pour à peu près une centaine de pistoles de perdu.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="2">
 	<s id="1">Heureusement, dites-vous !</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="3">
 	<s id="1">Oui, ma foi, heureusement...</s>
 	<s id="2">Quand je pense qu’il y avait là vingt mille francs qui pouvaient sauter, je regarde encore cela comme un très grand bonheur !</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="4">
 	<s id="1">Certainement, Madame, et je lui en fais bien mon compliment.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Quien, compliment!...</s>
 	<s id="2">V’là donc que j’ai ben fait, moi, à stheure-ci.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="6">
 	<s id="1">Pour vous, M.</s>
 	<s id="2">Jocrisse, il est temps que j’ouvre les yeux sur votre mérite, et que je le récompense.</s>
@@ -2461,12 +2461,12 @@
 </p>
 <stage>Il sort.</stage>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT, s’en allant.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>, s’en allant.</hstage>
 <p id="7">
 	<s id="1">Bonjour, mon bon ami.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="8">
 	<s id="1">Je suis fâché de n’avoir pas pu finir ton portrait ; mais tu as si bien travaillé celui de Madame, que tu ne seras pas en peine pour achever le tien.</s>
 </p>
@@ -2474,7 +2474,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="14"><head>SCÈNE XIV.</head>
-<sp who="JOCRISSE"><speaker>JOCRISSE, seul, confondu, etc.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, seul, confondu, etc.</hstage>
 <stage>Après un moment de silence.</stage>
 <p id="1">
 	<s id="1">Non ; c’est pas eux qui me piquent : c’est Monsieur Dupont tout seul qui m’étonne !...</s>
@@ -2490,38 +2490,38 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="15"><head>SCÈNE XV. Jorisse, Ursule.</head>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<div2 type="scene" n="15"><head>SCÈNE XV.</head><cast>Jorisse, Ursule.</cast>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Eh ben !</s>
 	<s id="2">Mon pauvre Jocrisse !</s>
 	<s id="3">Quéque j’apprends donc-là ; v’la donc note mariage défait ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="3">
 	<s id="1">Pourquoi donc ça ?</s>
 	<s id="2">Si vous aviez autant d’envie de moi, Mam’selle Ursule, comme j’en aide vous, ça n’y déferait rien du tout.</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Mais, mon cher enfant, il n’est pas question ici de l’envie toute seule, faut de quoi vivre avec ; ...</s>
 	<s id="2">Et à présent que te v’là sus le pavé...</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="5">
 	<s id="1">Bah !</s>
 	<s id="2">J’y resterai pas longtemps sus le pavé ; un bon sujet trouve toujours...</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="6">
 	<s id="1">Oui ; mais les bonnes conditions sont rares, et c’est vrai que t’es ben étourdi.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, pleurant.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, pleurant.</hstage>
 <p id="7">
 	<s id="1">Allons, pisqu’il faut que je m’en aille, et qu’il ne m’a donné qu’un quart-d’heure pour faire mon paquet, je vas commencer par vous faire mes adieux...</s>
 	<s id="2">Au revoir, ma chère Mam’selle Ursule...</s>
@@ -2529,12 +2529,12 @@
 	<s id="4">ça n’est encore qu’une débauche, comme a dit le peinte ; mais je reviendrai me faire finir un jour que n’y aura personne.</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="8">
 	<s id="1">Mais, mon pauvre garçon, où que tu vas aller comme ça ce soir?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="9">
 	<s id="1">J’en sais rien ; car je ne connais pas une âme...</s>
 	<s id="2">Et si je ne voulais pas rester vivant pour vous, Mam’selle Ursule, j’irais me...</s>
@@ -2542,7 +2542,7 @@
 	<s id="4">Oui, j’irai faire quéque mauvais coup.</s>
 </p>
 </sp>
-<sp who="URSULE"><speaker>URSULE.</speaker>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>.</hstage>
 <p id="10">
 	<s id="1">Écoute ; il me vient une idée : je vas aller trouver Monsieur, et je le priera tant, qu’il te laissera coucher encore ici ce soir.</s>
 	<s id="2">Si je gagnons ça sur lui, il est bon, et le premier moment de sa colère passé, il te pardonnera tout demain...</s>
@@ -2552,22 +2552,22 @@
 </sp>
 </div2>
 <div2 type="scene" n="16"><head>SCÈNE XVI.</head>
-<sp who="JOCRISSE"><speaker>JOCRISSE, seul.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, seul.</hstage>
 <p id="1">
 	<s id="1">Oh !</s>
 	<s id="2">C’est sûr qu’il est bonne personne, et je ne conçois rien à sa fâcherie, moi.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="17"><head>SCÈNE XVII. Jocrisse, Le Colporteur.</head>
-<sp who="LE COLPORTEUR"><speaker>LE COLPORTEUR.</speaker>
+<div2 type="scene" n="17"><head>SCÈNE XVII.</head><cast>Jocrisse, Le Colporteur.</cast>
+<sp who="LE COLPORTEUR"><hstage><speaker>LE COLPORTEUR</speaker>.</hstage>
 <p id="1">
 	<s id="1">Ah !</s>
 	<s id="2">Dites donc ?</s>
 	<s id="3">Je crois que c’est vous à qui que j’ai vendu ce matin ici, un billet de six francs ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
  <note type="L">Dret : ancienne prononciation de droit.</note>
 <p id="2">
 	<s id="1">Oui-da, Monsieur !</s>
@@ -2575,7 +2575,7 @@
 	<s id="3">Et que je voudrais ben les ravoir encore, à stheure que me v’là sans place.</s>
 </p>
 </sp>
-<sp who="LE COLPORTEUR"><speaker>LE COLPORTEUR.</speaker>
+<sp who="LE COLPORTEUR"><hstage><speaker>LE COLPORTEUR</speaker>.</hstage>
 <p id="3">
 	<s id="1">Ah !</s>
 	<s id="2">Mon enfant !</s>
@@ -2583,7 +2583,7 @@
 	<s id="4">Vous avez gagné douze cents vingt-quatre livres.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, sautant de joie.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, sautant de joie.</hstage>
 <p id="4">
 	<s id="1">Ah !</s>
 	<s id="2">Jarnombille !</s>
@@ -2594,24 +2594,24 @@
 	<s id="7">Ne vous moquez-vous pas de moi ?</s>
 </p>
 </sp>
-<sp who="LE COLPORTEUR"><speaker>LE COLPORTEUR.</speaker>
+<sp who="LE COLPORTEUR"><hstage><speaker>LE COLPORTEUR</speaker>.</hstage>
 <p id="5">
 	<s id="1">Non parbleu pas !</s>
 	<s id="2">C’est si vrai, que je vous apporte votre argent moi-même, afin que vous n’oubliez pas celui qui vous à fait gagner...</s>
 	<s id="3">Voyons ; donnez-moi votre billet ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="6">
 	<s id="1">Pourquoi faire, mon billet ?</s>
 </p>
 </sp>
-<sp who="LE COLPORTEUR"><speaker>LE COLPORTEUR.</speaker>
+<sp who="LE COLPORTEUR"><hstage><speaker>LE COLPORTEUR</speaker>.</hstage>
 <p id="7">
 	<s id="1">Parce que je ne peux pas vous payer sans ça.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="8">
 	<s id="1">Ah !</s>
 	<s id="2">C’est une aute affaire.</s>
@@ -2623,14 +2623,14 @@
 	<s id="3">Je crois que j’ai allumé la maudite chandelle moulée avec, tantôt !</s>
 </p>
 </sp>
-<sp who="LE COLPORTEUR"><speaker>LE COLPORTEUR.</speaker>
+<sp who="LE COLPORTEUR"><hstage><speaker>LE COLPORTEUR</speaker>.</hstage>
 <p id="10">
 	<s id="1">Ah ben !</s>
 	<s id="2">Vous avez fait là un beau coup !...</s>
 	<s id="3">C’est douze cents livres de perdus.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="11">
 	<s id="1">Sarpedié !</s>
 	<s id="2">Si c’est vrai, je vas me pendre tout de suite.</s>
@@ -2638,7 +2638,7 @@
 	<s id="4">Pourtant, je crois que le v’là, tenez ; c’est-i’ pas ça ?</s>
 </p>
 </sp>
-<sp who="LE COLPORTEUR"><speaker>LE COLPORTEUR.</speaker>
+<sp who="LE COLPORTEUR"><hstage><speaker>LE COLPORTEUR</speaker>.</hstage>
 <p id="12">
 	<s id="1">Oh !</s>
 	<s id="2">Oui ; c’est-ça même.</s>
@@ -2647,25 +2647,25 @@
 	<s id="5">Oui, le terne y est bien, et je vas vous le payer.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, sautant de joie.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, sautant de joie.</hstage>
 <p id="13">
 	<s id="1">Bon !</s>
 	<s id="2">Et moi je vas épouser Mam’selle Ursule.</s>
 </p>
 </sp>
-<sp who="LE COLPORTEUR"><speaker>LE COLPORTEUR.</speaker>
+<sp who="LE COLPORTEUR"><hstage><speaker>LE COLPORTEUR</speaker>.</hstage>
 <p id="14">
 	<s id="1">Je vous disais bien de pendre la crémaillère d’avance.</s>
 	<s id="2">Tenez, je vas vous donner de bons billets pour la somme de douze cents livres, et voilà les vingt-quatre livres d’appoint en écus de six livres ; que si vous étiez bon enfant, vous laisseriez pour boire à votre santé à celui qui vous a porté bonheur.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="15">
 	<s id="1">Oh !</s>
 	<s id="2">De ça, c’est juste ; et de bon cœur, même, empochez-les : c’est vote part, et donnez-moi ben vite la mienne.</s>
 </p>
 </sp>
-<sp who="LE COLPORTEUR"><speaker>LE COLPORTEUR, serrant les quatres écus et tirant son porte-feuille.</speaker>
+<sp who="LE COLPORTEUR"><hstage><speaker>LE COLPORTEUR</speaker>, serrant les quatres écus et tirant son porte-feuille.</hstage>
 <p id="16">
 	<s id="1">Grand-merci, mon brave homme !...</s>
 	<s id="2">Et tenez de bons effets...</s>
@@ -2676,26 +2676,26 @@
 </p>
 <stage>Il resserre son porte-feuille.</stage>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, regardant les billets.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, regardant les billets.</hstage>
 <p id="18">
 	<s id="1">Eh ben !</s>
 	<s id="2">Quéque c’est que çà ?</s>
 </p>
 </sp>
-<sp who="LE COLPORTEUR"><speaker>LE COLPORTEUR.</speaker>
+<sp who="LE COLPORTEUR"><hstage><speaker>LE COLPORTEUR</speaker>.</hstage>
 <p id="19">
 	<s id="1">Eh !</s>
 	<s id="2">Parbleu !</s>
 	<s id="3">C’est des billets de la Caisse d’Escompte.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="20">
 	<s id="1">Quéque vous me chantez ?...</s>
 	<s id="2">C’est des images comme le vent les a envolées tantôt à Monsieur, ça !</s>
 </p>
 </sp>
-<sp who="LE COLPORTEUR"><speaker>LE COLPORTEUR.</speaker>
+<sp who="LE COLPORTEUR"><hstage><speaker>LE COLPORTEUR</speaker>.</hstage>
 <p id="21">
 	<s id="1">Je ne sais pas ce que vous voulez dire ; mais c’est du bel et bon argent.</s>
 	<s id="2">Chacun de ces billets-là vaut deux cent livres ; en voilà six : ça fait bien vos douze cents livres...</s>
@@ -2707,7 +2707,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="18"><head>SCÈNE XVIII.</head>
-<sp who="JOCRISSE"><speaker>JOCRISSE, seul, ses billets à la main, et réfléchissant.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, seul, ses billets à la main, et réfléchissant.</hstage>
 <p id="1">
 	<s id="1">Que je les fasse voir au premier venu, et il va me donner des louis d’or en place...</s>
 	<s id="2">Ah !</s>
@@ -2720,14 +2720,14 @@
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="19"><head>SCÈNE XIX. Dupont, Jocrisse.</head>
-<sp who="DUPONT"><speaker>DUPONT, d’un ton du bonté, mais encore piqué.</speaker>
+<div2 type="scene" n="19"><head>SCÈNE XIX.</head><cast>Dupont, Jocrisse.</cast>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, d’un ton du bonté, mais encore piqué.</hstage>
 <p id="1">
 	<s id="1">Eh bien !</s>
 	<s id="2">Monsieur Jocrisse, vous demandez donc à coucher encore ici ce soir ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Oh !</s>
 	<s id="2">Non, Monsieur, je n’ose pus demander ste grâce-là à présent.</s>
@@ -2735,13 +2735,13 @@
 	<s id="4">Et je connais le tort que je vous avais fait sans le savoir.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="3">
 	<s id="1">Oui, tu m’en a fait, et plus que tu ne crois...</s>
 	<s id="2">Mais je le mérite pour avoir eu confiance dans un étourdi et un imbécile comme toi.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, pénétré, et de tout cœur.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, pénétré, et de tout cœur.</hstage>
 <p id="4">
 	<s id="1">Mon cher maîte !</s>
 	<s id="2">Ne vous repentez pas d’avoir eu des bontés pour moi.</s>
@@ -2749,7 +2749,7 @@
 	<s id="4">Quand j’ai fait du mal, c’était pas par exprès ; j’en suis pus fâche que vous, et je voudrais pouvoir le réparer.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <note type="L">Livre : 1 écu = 3 francs. 
 1 écu = 3 livres tournois. 
 1 livre tournois = 20 sols. 
@@ -2763,25 +2763,25 @@
 	<s id="4">Comment t’y prendrais-tu pour réparer cent pistoles et plus que tu m’as l’ait perdre !</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="6">
 	<s id="1">Je ne sais pas comben que ça fait, cent pistoles ; ...</s>
 	<s id="2">Mais, tenez, on m’a dit que y avait là douze cents francs ; voyez, Monsieur, et pernez-les toujours à compte.</s>
 </p>
 <stage>Il lui donne ses billets.</stage>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, les prenant.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, les prenant.</hstage>
 <p id="7">
 	<s id="1">Qu’est-ce que c’est que ça ?...</s>
 	<s id="2">Est-ce que ce sont mes billets que tu as retrouvés ?</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>.</hstage>
 <p id="8">
 	<s id="1">Non, Monsieur, c’est mon billet de Loterie de ce matin qu’a gagné ça, et que le Colporteur vient de m’apporter ici.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT, pénétré et lui serrant la main.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>, pénétré et lui serrant la main.</hstage>
 <p id="9">
 	<s id="1">Et tu me les offres ?...</s>
 	<s id="2">Ah !</s>
@@ -2789,77 +2789,77 @@
 </p>
 <stage>Il l’embrasse. Puis, on entend une fanfare dehors et des tambours.</stage>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, étonné.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, étonné.</hstage>
 <p id="10">
 	<s id="1">Eh !</s>
 	<s id="2">Mon Dieu !</s>
 	<s id="3">Queuque c’est que ça ?</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="11">
 	<s id="1">Justement, mon ami, c’est une aubade que les tambours viennent te donner pour célébrer ton bonheur.</s>
 </p>
 </sp>
 </div2>
-<div2 type="scene" n="20"><head>SCÈNE XX, et dernière. Tous les acteurs, entrent à la suite.</head>
-<sp who="URSULE"><speaker>URSULE, vivement.</speaker>
+<div2 type="scene" n="20"><head>SCÈNE XX, et dernière.</head><cast>Tous les acteurs, entrent à la suite.</cast>
+<sp who="URSULE"><hstage><speaker>URSULE</speaker>, vivement.</hstage>
 <p id="1">
 	<s id="1">Quéque c’est donc que ça qu’on tambourine à la porte ?</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL, entrant après elle.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>, entrant après elle.</hstage>
 <p id="2">
 	<s id="1">On dit que c’est un terne qu’on a gagné à la Loterie.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT, voyant son mari qui tient des billets de caisse.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>, voyant son mari qui tient des billets de caisse.</hstage>
 <p id="3">
 	<s id="1">Est-ce que c’est vous, mon cher ami ?</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="4">
 	<s id="1">Non, ma femme ; mais je ne suis pas jaloux de celui qui l’a eu...</s>
 	<s id="2">C’est Jocrisse qui a gagné douze cents livres, et qui vient de me les donner pour remplacer ce que son étourderie m’avait fait perdre tantôt.</s>
 </p>
 </sp>
-<sp who="DORVAL"><speaker>DORVAL.</speaker>
+<sp who="DORVAL"><hstage><speaker>DORVAL</speaker>.</hstage>
 <p id="5">
 	<s id="1">Comment donc, Jocrisse, voilà un beau trait !</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="6">
 	<s id="1">Je vous ai toujours bien dit, moi, qu’il y avait de la ressource avec lui...</s>
 	<s id="2">Jocrisse, j’ai ri jusqu’à présent de tes étourderies ; je me suis fâché de ta dernière sottise, mais je dois récompenser ton bon cœur ; voilà ton argent que je te rends.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, à ses pieds, sans prendre les billets.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, à ses pieds, sans prendre les billets.</hstage>
 <p id="7">
 	<s id="1">Ah !</s>
 	<s id="2">Mon Dieu !</s>
 	<s id="3">Mon bon maîte !...</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="8">
 	<s id="1">Prends, te dis-je, et jouis doublement de ton bonheur, en épousant Ursule.</s>
 </p>
 </sp>
-<sp who="MADAME DUPONT"><speaker>MADAME DUPONT.</speaker>
+<sp who="MADAME DUPONT"><hstage><speaker>MADAME DUPONT</speaker>.</hstage>
 <p id="9">
 	<s id="1">J’y consens ; mais je ne voudrais pas qu’Ursule nous quittât.</s>
 </p>
 </sp>
-<sp who="DUPONT"><speaker>DUPONT.</speaker>
+<sp who="DUPONT"><hstage><speaker>DUPONT</speaker>.</hstage>
 <p id="10">
 	<s id="1">Eh bien !</s>
 	<s id="2">Ils resteront tous deux...</s>
 	<s id="3">Ursule est un bon sujet ; et si Jocrisse n’a pas beaucoup d’esprit, au moins, il vient de nous prouver qu’il avait un bon cœur.</s>
 </p>
 </sp>
-<sp who="JOCRISSE"><speaker>JOCRISSE, lui baisant la main.</speaker>
+<sp who="JOCRISSE"><hstage><speaker>JOCRISSE</speaker>, lui baisant la main.</hstage>
 <p id="11">
 	<s id="1">Ah !</s>
 	<s id="2">Jarni !</s>

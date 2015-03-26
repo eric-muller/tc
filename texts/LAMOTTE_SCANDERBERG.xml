@@ -83,14 +83,14 @@
 <body>
 <div1 type="prologue" n="0"><head>PROLOGUE</head>
 <stage>Le théâtre représente un bois consacré aux muses ; le Parnasse dans l’éloignement.</stage>
-<div2 type="scene" n="1"><head>SCÈNE I. Melpomène, Polimnie.</head>
-<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Melpomène, Polimnie.</cast>
+<sp who="MELPOMÈNE"><hstage><speaker>MELPOMÈNE</speaker>.</hstage>
 	<l id="1">De l’Antiquité mémorable</l>
 	<l id="2">J’ai chanté les héros fameux :</l>
 	<l id="3">Un temps moins reculé m’offre un sujet heureux,</l>
 	<l id="4">Qui par vos sons touchants, peut devenir aimable</l>
 </sp>
-<sp who="POLIMNIE"><speaker>POLIMNIE.</speaker>
+<sp who="POLIMNIE"><hstage><speaker>POLIMNIE</speaker>.</hstage>
 	<l id="5">Vous réglez tous mes mouvements,</l>
 	<l id="6">Vous m’inspirez le tendre et le terrible.</l>
 	<l id="7">Je ne saurais être sensible,</l>
@@ -98,19 +98,19 @@
 <stage>Bruit souterrain.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. La Magie, et les acteurs de la cène précédente.</head>
-<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>La Magie, et les acteurs de la cène précédente.</cast>
+<sp who="MELPOMÈNE"><hstage><speaker>MELPOMÈNE</speaker>.</hstage>
 	<l id="9">Mais, quel bruit !... La Magie à nos yeux se présente.</l>
 </sp>
-<sp who="LA MAGIE"><speaker>LA MAGIE.</speaker>
+<sp who="LA MAGIE"><hstage><speaker>LA MAGIE</speaker>.</hstage>
 	<l id="10">Muses, je viens encor prête à remplis vos vœux,</l>
 	<l id="11">Faire servir mon Art à l’éclat de vos jeux.</l>
 </sp>
-<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+<sp who="MELPOMÈNE"><hstage><speaker>MELPOMÈNE</speaker>.</hstage>
 	<l id="12">Non, je voudrais en vain répondre à votre attente</l>
 	<l id="13">Dans le projet que j’entreprends.</l>
 </sp>
-<sp who="LA MAGIE"><speaker>LA MAGIE.</speaker>
+<sp who="LA MAGIE"><hstage><speaker>LA MAGIE</speaker>.</hstage>
 	<l id="14">Eh ! Sans moi, pouvez vous enfanter ces miracles,</l>
 	<l id="15">Qui dans vos lyriques spectacles,</l>
 	<l id="16">Enchantent le cœur et les sens ?</l>
@@ -127,7 +127,7 @@
 	<l id="27">Et je fais comme lui, succéder à l’espoir</l>
 	<l id="28">Les regrets, les pleurs, et la rage.</l>
 </sp>
-<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+<sp who="MELPOMÈNE"><hstage><speaker>MELPOMÈNE</speaker>.</hstage>
 	<l id="29">Je veux moins effrayer, qu’intéresser les cœurs.</l>
 	<l id="30">Des noirs enchantements, des prestiges trompeurs,</l>
 	<l id="31">L’art terrible en ce jour ne m’est point nécessaire :</l>
@@ -135,28 +135,28 @@
 	<l id="33">Peut surprendre, saisir, et plaire.</l>
 <stage>La magie se retire.</stage>
 </sp>
-<sp who="MELPOMÈNE"><speaker>MELPOMÈNE à Polimnie.</speaker>
+<sp who="MELPOMÈNE"><hstage><speaker>MELPOMÈNE</speaker> à Polimnie.</hstage>
 	<l id="34">Mais, dois-je m’en flatter, si l’amour ne m’éclaire :</l>
 	<l id="35">Que pouvons nous sans son secours ?</l>
 	<l id="36">Amour, c’est à toi seul que nous avons recours.</l>
 </sp>
-<sp who="MELPOMÈNE, POLIMNIE"><speaker>MELPOMÈNE et POLIMNIE.</speaker>
+<sp who="MELPOMÈNE, POLIMNIE"><hstage><speaker>MELPOMÈNE</speaker> et <speaker>POLIMNIE</speaker>.</hstage>
 	<l id="37">En traçant de tes feux, la naïve peinture,</l>
 	<l id="38">Nous rendons tes traits plus puissants ;</l>
 	<l id="39">Pour prix de nos efforts, viens embellir nos chants.</l>
 </sp>
-<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+<sp who="MELPOMÈNE"><hstage><speaker>MELPOMÈNE</speaker>.</hstage>
 	<l id="40" part="i">Anime notre lyre !</l>
 </sp>
-<sp who="POLIMNIE"><speaker>POLIMNIE.</speaker>
+<sp who="POLIMNIE"><hstage><speaker>POLIMNIE</speaker>.</hstage>
 	<l id="40" part="f">Attendris nos accents.</l>
 </sp>
-<sp who="ENSEMBLE"><speaker>ENSEMBLE.</speaker>
+<sp who="ENSEMBLE"><hstage><speaker>ENSEMBLE</speaker>.</hstage>
 	<l id="41">Soit l’âme de nos jeux comme de la nature.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. L’Amour, Melpomène, Polimnie,</head>
-<sp who="L’AMOUR"><speaker>L’AMOUR.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>L’Amour, Melpomène, Polimnie,</cast>
+<sp who="L’AMOUR"><hstage><speaker>L’AMOUR</speaker>.</hstage>
 	<l id="42">Muses, je m’intéresse aux succès de vos jeux.</l>
 	<l id="43">Chanter les douceurs que j’inspire,</l>
 	<l id="44">C’est préparer les cœurs à ressentir mes feux ;</l>
@@ -168,7 +168,7 @@
 	<l id="50">Faites briller tous vos appas.</l>
 <stage>Les jeux, les plaisirs et les grâces paraissent.</stage>
 </sp>
-<sp who="L’AMOUR"><speaker>L’AMOUR, alternativement avec le Chœur.</speaker>
+<sp who="L’AMOUR"><hstage><speaker>L’AMOUR</speaker>, alternativement avec le Chœur.</hstage>
 	<l id="51">Heureux qui toujours amant</l>
 	<l id="52">Chérit un tendre esclavage ;</l>
 	<l id="53">S’il languit quelque moment,</l>
@@ -183,7 +183,7 @@
 	<l id="62">L’Amour même vous en est garant.</l>
 	<l id="63">Heureux un cœur qui s’engage.</l>
 </sp>
-<sp who="L’AMOUR"><speaker>L’AMOUR.</speaker>
+<sp who="L’AMOUR"><hstage><speaker>L’AMOUR</speaker>.</hstage>
 	<l id="64">Loin de vos cœurs</l>
 	<l id="65">Les tristes plaintes,</l>
 	<l id="66">Les vives craintes</l>
@@ -198,7 +198,7 @@
 	<l id="75">Sous mon empire,</l>
 	<l id="76">Les maux font plaisirs.</l>
 </sp>
-<sp who="MELPOMÈNE"><speaker>MELPOMÈNE, à l’Amour.</speaker>
+<sp who="MELPOMÈNE"><hstage><speaker>MELPOMÈNE</speaker>, à l’Amour.</hstage>
 	<l id="77">Retraçons les premiers ans</l>
 	<l id="78">De ce héros célèbre dans l’Histoire,</l>
 	<l id="79">Qui fut depuis la terreur de Sultans :</l>
@@ -207,7 +207,7 @@
 	<l id="82">Qu’importe que le sort ait trahi ses désirs ?</l>
 	<l id="83">Tu règnes par les pleurs, comme par les plaisirs.</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>CHŒUR.</speaker>
+<sp who="LE CHŒUR"><hstage><speaker>CHŒUR</speaker>.</hstage>
 	<l id="84">Unisson nous pour notre gloire,</l>
 	<l id="85">Qu’un même zèle anime nos efforts :</l>
 	<l id="86">Sur les cœurs attendris remportons la victoire,</l>
@@ -217,13 +217,13 @@
 </div1>
 <div1 type="acte" n="1"><head>ACTE I</head>
 <stage>Le Théâtre représente une partie des Jardins du Sérail avec une Grotte.</stage>
-<div2 type="scene" n=""><head>SCÈNE PREMIÈRE. Scanderberg, Osman.</head>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<div2 type="scene" n=""><head>SCÈNE PREMIÈRE.</head><cast>Scanderberg, Osman.</cast>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 <note type="L">Scanderberg, George Kastioti (1405-1468) : seigneur albanais du XVème siècle.</note>
 	<l id="88">Enfin, Osman, le jour qui commence à nous luire,</l>
 	<l id="89">Sera-t-il le dernier de ma captivité ?</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="90">Princes, à vos desseins tout conspire ;</l>
 	<l id="91">J’ai su hâter l’instant de votre liberté.</l>
 	<l id="92">Ce peuple, que l’erreur enchaîne,</l>
@@ -234,7 +234,7 @@
 	<l id="97">Maître de ces Jardins, puis tout entreprendre ;</l>
 	<l id="98">Vous pourrez fuir de ce séjour.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="99">Ô nuit ! Hâte-toi donc de triompher du jour !</l>
 	<l id="100">J’entends la gloire qui m’appelle ;</l>
 	<l id="101">Ah ! qu’elle a de brillants appas !</l>
@@ -245,13 +245,13 @@
 	<l id="106">J’entends la gloire qui m’appelle ;</l>
 	<l id="107">Ah ! qu’elle a de brillants appas !</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="108">Vous pouviez borner votre gloire</l>
 	<l id="109">A voir ici l’Amour combler tous vos désirs ;</l>
 	<l id="110">Mais votre cœur dédaigne une douce victoire,</l>
 	<l id="111">Qui ne coûte que des soupirs.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="112">Ah ! Connais, cher Osman, le Prince d’Albanie.</l>
 	<l id="113">Je rougis d’un repos dont ma gloire est ternie ;</l>
 	<l id="114">En vain, par ses bienfaits réparant mes malheurs,</l>
@@ -260,33 +260,33 @@
 	<l id="117">Mon trône renversé me demande vengeance ;</l>
 	<l id="118">L’Amour même en mon cœur ranime le courroux.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="119">L’Amour ! Eh ! Quel objet a su toucher votre âme ?</l>
 	<l id="120">Pourriez-vous partager le flamme</l>
 	<l id="121">Que Roxane ressent pour vous ?</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="122">À des yeux plus puissants mon âme est asservie :</l>
 	<l id="123">Cette illustre Princesse à qui le sang me lie,</l>
 	<l id="124">Dispose de mon cœur et doit armer mon bras.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="125">Quoi ! La Princesse de Servie ?</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="126">De l’heureux Amurat j’accompagnais les pas,</l>
 	<l id="127">Lorsque de la Princesse il attaqua le père ;</l>
 	<l id="128">Je la vis, je l’aimai, je sus même lui plaire :</l>
 	<l id="129">Aujourd’hui qu’Amurat désole ses États,</l>
 	<l id="130">Je cours la secourir ou chercher le trépas.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="131">Jusqu’à la nuit vous devez encor feindre</l>
 	<l id="132">Je vous réponds de tout, songez à vous contraindre.</l>
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="133">Ah ! Je jouis déjà de ces heureux instants</l>
 	<l id="134">Dont le fidèle Osman vient de flatter ma flamme ;</l>
 	<l id="135">Qu’avec plaisir je les attends !</l>
@@ -301,8 +301,8 @@
 	<l id="144">L’espoir qui m’a flatté les embellit encore.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Roxane, Scanderberg.</head>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Roxane, Scanderberg.</cast>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="145">Toi qui pour ce héros fit naître mon ardeur,</l>
 	<l id="146">Amour ! Daigne en ce jour daigne fléchir son cœur.</l>
 <stage>À Scanderberg.</stage>
@@ -317,22 +317,22 @@
 	<l id="155">Si vous aviez voulu m’entendre,</l>
 	<l id="156">Vous ont trop dit le prix qu’en demandait mon cœur.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="157">L’Amour sur nous doit-il obtenir la victoire ?</l>
 	<l id="158">De plus dignes objets demandent tous nos vœux ;</l>
 	<l id="159">Et mes malheurs et votre gloire</l>
 	<l id="160">Doivent nous garantir du pouvoir de ses feux.</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="161">Cessez de prendre pour faiblesse</l>
 	<l id="162">Le plaisir d’une tendre ardeur ;</l>
 	<l id="163">Le péril en ces lieux l’accompagne sans cesse,</l>
 	<l id="164">Et le rend digne d’un grand cœur.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="165">Du jaloux Amurat vous trahissez la flamme...</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="166">Je l’ai trahie, Ingrat, en te sauvant le jour ;</l>
 	<l id="167">Il allait par ta mort prévenir mon amour ;</l>
 	<l id="168">Il allait assurer le repos de mon âme.</l>
@@ -342,12 +342,12 @@
 	<l id="172">Ma pitié vous sauva la vie ;</l>
 	<l id="173">Dussiez-vous me haïr, je ne m’en repends pas.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="174">Non, je ne hais que moi d’avoir trop su vous plaire.</l>
 	<l id="175">Pour prix du jour que je vous dois,</l>
 	<l id="176">Faut-il vous exposer à toute la colère...</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="177">Ingrat, sois plus sensible et tremble moins pour moi.</l>
 	<l id="178">Que ton rival, instruit du transport qui me guide,</l>
 	<l id="179">Revienne ici venger sa foi ;</l>
@@ -360,10 +360,10 @@
 <stage>Les Sultanes paraissent.</stage>
 	<l id="186">Des beautés de ce lieu la troupe ici s’avance.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="187">Le devoir m’avertit de quitter ce séjour.</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="188">Voyez nos jeux, tout ici vous dispense</l>
 	<l id="189">Des dures lois de cette Cour ;</l>
 	<l id="190">La faveur d’Amurat, mon pouvoir, son absence.</l>
@@ -371,8 +371,8 @@
 	<l id="192">Que m’inspire votre présence !</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Roxane, Scanderberg, Les Sultanes.</head>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Roxane, Scanderberg, Les Sultanes.</cast>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="193">Que cette grotte s’embellisse,</l>
 	<l id="194">Que l’onde captive y jaillisse,</l>
 	<l id="195">Qu’elle en forme les ornements ;</l>
@@ -380,7 +380,7 @@
 	<l id="197">Qu’à nos concerts l’Écho s’unisse.</l>
 	<l id="198">Faisons tout retentir du doux bruit de nos chants.</l>
 </sp>
-<sp who="CHŒUR DES SULTANES"><speaker>CHŒUR DES SULTANES.</speaker>
+<sp who="CHŒUR DES SULTANES"><hstage><speaker>CHŒUR DES SULTANES</speaker>.</hstage>
 	<l id="199">Que cette grotte s’embellisse,</l>
 	<l id="200">Que l’onde captive y jaillisse,</l>
 	<l id="201">Qu’elle en forme les ornements ;</l>
@@ -389,7 +389,7 @@
 	<l id="204">Faisons tout retentir du doux bruit de nos chants.</l>
 <stage>On ouvre les fontaines et la grotte paraît un palais d’Eau.</stage>
 </sp>
-<sp who="UNE SULTANE"><speaker>UNE SULTANE.</speaker>
+<sp who="UNE SULTANE"><hstage><speaker>UNE SULTANE</speaker>.</hstage>
 	<l id="205">Les Ris, les Jeux,</l>
 	<l id="206">Le doux zéphyr</l>
 	<l id="207">Dans ces beaux lieux</l>
@@ -413,50 +413,50 @@
 	<l id="225">Tout y respire</l>
 	<l id="226">L’amour et ses feux.</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="227">Brillez, charmante Aurore.</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>LE CHŒUR.</speaker>
+<sp who="LE CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 	<l id="228">Régnez, Zéphirs délicieux.</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="229">Riantes fleurs, empressez-vous d’éclore.</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>LE CHŒUR.</speaker>
+<sp who="LE CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 	<l id="230">Oiseaux, remplissez l’air d’un bruit harmonieux.</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="231">Claires eaux, que votre murmure</l>
 	<l id="232">Rende encor nos concerts plus doux.</l>
 </sp>
-<sp who="LE CHŒUR, ROXANE"><speaker>LE CHŒUR, avec ROXANE.</speaker>
+<sp who="LE CHŒUR, ROXANE"><hstage><speaker>LE CHŒUR</speaker>, avec <speaker>ROXANE</speaker>.</hstage>
 	<l id="233">Qu’à l’envi toute la Nature</l>
 	<l id="234">Célèbre ce jour avec nous.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Roxane, Scanderberg, Osman, Sultanes, Bostangis.</head>
-<sp who="OSMAN"><speaker>OSMAN, suivi de Bostangis.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Roxane, Scanderberg, Osman, Sultanes, Bostangis.</cast>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>, suivi de Bostangis.</hstage>
 	<l id="235">Quittez, quittez ces jeux, mille chants d’allégresse</l>
 	<l id="236">Retentissent dans ce séjour,</l>
 	<l id="237">Et du Sultan vainqueur annoncent le retour.</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE, à part.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>, à part.</hstage>
 	<l id="238" part="i">Juste Ciel !</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="238" part="f">Ah ! Princesse !</l>
 	<l id="239">Quel sera ton destin ? Que devient mon espoir ?</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="240">Déjà, pour lui marquer son zèle,</l>
 	<l id="241">Le peuple loin des murs l’est allé recevoir.</l>
 	<l id="242">Je vous laisse, et je vole où mon devoir m’appelle.</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE, en s’en allant.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>, en s’en allant.</hstage>
 	<l id="243">Que je crains ses transports jaloux !</l>
 	<l id="244">Cherchons à prévenir un trop juste courroux.</l>
 </sp>
-<sp who="CHŒUR DES BOSTANGIS ET DES SULTANES"><speaker>CHŒUR DES BOSTANGIS ET DES SULTANES.</speaker>
+<sp who="CHŒUR DES BOSTANGIS ET DES SULTANES"><hstage><speaker>CHŒUR DES BOSTANGIS ET DES SULTANES</speaker>.</hstage>
 	<l id="245">Qu’il revienne comblé de gloire,</l>
 	<l id="246">L’Amour l’attend dans ce séjour :</l>
 	<l id="247">Content des dons de la Victoire,</l>
@@ -467,7 +467,7 @@
 <div1 type="acte" n="2"><head>ACTE II</head>
 <stage>Le Théâtre représente une Cour extérieure du Sérail, ornée pour recevoir le Sultan.</stage>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="249">Aux portes du sérail Amurat vient se rendre,</l>
 	<l id="250">Amurat en ce lieu m’ordonne de l’attendre ;</l>
 	<l id="251">Quel trouble affreux saisit mon cœur !</l>
@@ -484,89 +484,89 @@
 	<l id="262">Que vous me présagez d’horreurs !</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE SECONDE. Scanderberg, Servilie, Osman.</head>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE SECONDE.</head><cast>Scanderberg, Servilie, Osman.</cast>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="263" part="i">Que vois-je ! Quel objet !</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE, conduite par Osman.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>, conduite par Osman.</hstage>
 	<l id="263" part="f">Où suis-je ! justes Cieux !</l>
 	<l id="264" part="i">Ah ! Cher Prince, est-ce vous ?</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="264" part="f">Est-ce vous, ma Princesse ?</l>
 </sp>
-<sp who="ENSEMBLE"><speaker>ENSEMBLE.</speaker>
+<sp who="ENSEMBLE"><hstage><speaker>ENSEMBLE</speaker>.</hstage>
 	<l id="265">Mon cœur n’ose en croire mes yeux.</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="266">Par l’ordre d’Amurat on m’amène en ces lieux,</l>
 	<l id="267">Et c’est avec vous qu’on m’y laisse !</l>
 	<l id="268" part="i">Ah ! Cher prince est-ce vous ?</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="268" part="f">Est-ce vous ma Princesse ?</l>
 </sp>
-<sp who="ENSEMBLE"><speaker>ENSEMBLE.</speaker>
+<sp who="ENSEMBLE"><hstage><speaker>ENSEMBLE</speaker>.</hstage>
 	<l id="269">Mon cœur n’ose en croire mes yeux.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="270">Vous gémissez ici sous une dure chaîne.</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="271">Non, le Sultan, touché de mes faibles attraits,</l>
 	<l id="272">Veut de ces lieux me rendre Souveraine,</l>
 	<l id="273">Et mon père, à ce prix, vient d’obtenir la Paix.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="274">Ô Ciel ! C’en est donc fait ; je vous perds à jamais.</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="275">Le croyez-vous, qu’on puisse me contraindre</l>
 	<l id="276">À vous manquer jamais de foi ?</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="277">Nous n’en serons que plus à plaindre.</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="278">Non, je ne suivrai point une barbare loi :</l>
 	<l id="279">Si vous m’aimez, que puis-je craindre ?</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="280">Le cruel Amurat punira vos mépris.</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="281">La mort même, la mort n’éteindra pas ma flamme.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="282">Le bonheur de vous plaire est trop cher à ce prix.</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="283">À ce prix, il m’est doux de régner dans votre âme.</l>
 </sp>
-<sp who="ENSEMBLE"><speaker>ENSEMBLE.</speaker>
+<sp who="ENSEMBLE"><hstage><speaker>ENSEMBLE</speaker>.</hstage>
 	<l id="284">Promettons-nous cent fois d’éternelles amours,</l>
 	<l id="285">C’est pour vous que mon cœur soupire.</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="286">On va nous ravir pour toujours</l>
 	<l id="287">Le doux plaisir de nous le dire.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="288">J’ose encore espérer un destin plus heureux.</l>
 	<l id="289">Nous pouvons du Sultan prévenir la vengeance,</l>
 	<l id="290">Différez seulement un hymen odieux ;</l>
 	<l id="291">Et par l’appas trompeur d’une vaine espérance,</l>
 	<l id="292">Ménageons le moment d’échapper de ces lieux.</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="293">Qu’il m’en coûtera cher ! Mais il faut me contraindre.</l>
 	<l id="294">Ménagez bien tous les instants ;</l>
 	<l id="295">Si j’aime assez pour vouloir feindre,</l>
 	<l id="296">Je sens que j’aime trop pour le pouvoir longtemps.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Scanderberg, Servilie, Amurat.</head>
-<sp who="AMURAT"><speaker>AMURAT, à Servilie.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Scanderberg, Servilie, Amurat.</cast>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>, à Servilie.</hstage>
 	<l id="297">Voyez, charmante Servilie,</l>
 	<l id="298">Quels sont mes premiers soins en entrant dans ces lieux ;</l>
 	<l id="299">J’ai permis qu’un Héros a qui le sang vous lie,</l>
@@ -577,10 +577,10 @@
 	<l id="303">Tu dois être flatté d’apprendre d’elle-même</l>
 	<l id="304">Et son triomphe, et mon ardeur.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="305">Quel cœur à tant d’appas ne rendrait pas les armes ?</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="306">Ma flamme a pris naissance au milieu des alarmes,</l>
 	<l id="307">Dans le sein de la paix elle croît chaque jour,</l>
 	<l id="308">Jamais à mes regards n’ont brillé tant de charmes,</l>
@@ -595,10 +595,10 @@
 	<l id="317">Mais un si tendre amour éclate-t-il en vain ?</l>
 	<l id="318">Serez-vous insensible à l’ardeur qui m’enflamme ?</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="319">L’intérêt de mon père a réglé mon destin.</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="320">Ne devrai-je qu’à lui le don de votre main,</l>
 	<l id="321">Et ne puis-je espérer de régner dans votre âme ?</l>
 	<l id="322">Aimez, partagez les désirs</l>
@@ -608,7 +608,7 @@
 	<l id="326">Aimez, partagez les désirs,</l>
 	<l id="327">D’un cœur fidèle.</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="328">Vous ordonnez, Seigneur ; que pourrais-je opposer ?</l>
 	<l id="329">Mais, malgré cette ardeur que vous faites paraître,</l>
 	<l id="330">Dans un hymen si prompt je vois l’ordre d’un Maître</l>
@@ -617,7 +617,7 @@
 	<l id="333">Souffrez que ma reconnaissance</l>
 	<l id="334">Fasse enfin dans mon cœur naître un juste retour.</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="335">Quoi ! Je pourrais devoir mon bonheur à l’amour !</l>
 	<l id="336">Qu’au gré de vos désirs notre hymen se diffère,</l>
 	<l id="337">Tout déprendra de vous, c’est assez que j’espère.</l>
@@ -631,8 +631,8 @@
 	<l id="344">Venez, accourez tous, vous qui suivez ma loi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Scanderberg, Servilie, Amurat, les Officiers de la Porte, le Peuple, les Grecques de la Suite de Servilie.</head>
-<sp who="LE CHŒUR"><speaker>LE CHŒUR.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Scanderberg, Servilie, Amurat, les Officiers de la Porte, le Peuple, les Grecques de la Suite de Servilie.</cast>
+<sp who="LE CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 <poem type="chant">
 <lg n="1">
 	<l id="345">De nos Sultans</l>
@@ -665,31 +665,31 @@
 </lg>
 </poem>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="366">Unissez, unissez vos voix.</l>
 	<l id="367">Chantez mes feux, chantez la gloire de mes armes.</l>
 	<l id="368">L’Amour couronne mes exploits,</l>
 	<l id="369">Célébrez à jamais ses charmes.</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>LE CHŒUR.</speaker>
+<sp who="LE CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 	<l id="370">Unissons, unissons nos voix.</l>
 	<l id="371">Chantons ses feux, chantons la gloire de ses armes.</l>
 	<l id="372">L’Amour couronne ses exploits,</l>
 	<l id="373">Célébrons à jamais ses charmes.</l>
 </sp>
-<sp who="UNE GRECQUE"><speaker>UNE GRECQUE de la suite de Servilie.</speaker>
+<sp who="UNE GRECQUE"><hstage><speaker>UNE GRECQUE</speaker> de la suite de Servilie.</hstage>
 	<l id="374">Après tant d’alarmes</l>
 	<l id="375">Succède un beau jour,</l>
 	<l id="376">Tout vous rend les armes,</l>
 	<l id="377">Cédez à l’Amour.</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>LE CHŒUR.</speaker>
+<sp who="LE CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 	<l id="378">Après tant d’alarmes</l>
 	<l id="379">Succède un beau jour,</l>
 	<l id="380">Tout vous rend les armes,</l>
 	<l id="381">Cédez à l’Amour.</l>
 </sp>
-<sp who="UNE GRECQUE"><speaker>LA GRECQUE.</speaker>
+<sp who="UNE GRECQUE"><hstage><speaker>LA GRECQUE</speaker>.</hstage>
 	<l id="382">Recevez l’Empire</l>
 	<l id="383">Des mains du vainqueur ;</l>
 	<l id="384">Le vainqueur soupire,</l>
@@ -697,32 +697,32 @@
 	<l id="386">Tout conspire</l>
 	<l id="387">À combler votre bonheur.</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>LE CHŒUR.</speaker>
+<sp who="LE CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 	<l id="388">Après tant d’alarmes</l>
 	<l id="389">Succède un beau jour,</l>
 	<l id="390">Tout vous rend les armes,</l>
 	<l id="391">Cédez à l’Amour.</l>
 </sp>
-<sp who="CHŒUR DES GRECQUES"><speaker>CHŒUR DES GRECQUES.</speaker>
+<sp who="CHŒUR DES GRECQUES"><hstage><speaker>CHŒUR DES GRECQUES</speaker>.</hstage>
 	<l id="392">À ses coups</l>
 	<l id="393">Livrons-nous,</l>
 	<l id="394">Que de charmes !</l>
 </sp>
-<sp who="LA GRECQUE"><speaker>LA GRECQUE.</speaker>
+<sp who="LA GRECQUE"><hstage><speaker>LA GRECQUE</speaker>.</hstage>
 	<l id="395">Pourquoi le craignez-vous ?</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>LE CHŒUR.</speaker>
+<sp who="LE CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 	<l id="396">Après tant d’alarmes</l>
 	<l id="397">Succède un beau jour,</l>
 	<l id="398">Tout vous rend les armes,</l>
 	<l id="399">Cédez à l’Amour.</l>
 <stage>On danse.</stage>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT, à Servilie.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>, à Servilie.</hstage>
 	<l id="400">Venez dans mon Palais, adorable Princesse,</l>
 	<l id="401">Que de nouveaux honneurs signalent ma tendresse.</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>LE CHŒUR.</speaker>
+<sp who="LE CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 <poem type="chant">
 <lg n="1">
 	<l id="402">De nos Sultans</l>
@@ -739,7 +739,7 @@
 <div1 type="acte" n="3"><head>ACTE III</head>
 <stage>Le Théâtre représente une Cour intérieure du Sérail.</stage>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="408">Tout est prêt, le Vizir seconde mon envie ;</l>
 	<l id="409">Tremble Amurat ; la mort va punir ton forfait.</l>
 	<l id="410">Non, que sensible à ma flamme trahie,</l>
@@ -768,8 +768,8 @@
 	<l id="433">Frappez d’intelligence.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Roxane, Ssanderberg.</head>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Roxane, Ssanderberg.</cast>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="434">Je vais vous délivrer d’un tyran furieux.</l>
 	<l id="435">Princes, je vais venger vos frères.</l>
 	<l id="436">De nos lois les dépositaires</l>
@@ -777,20 +777,20 @@
 	<l id="438">Et déjà le Vizir arme les Janissaires.</l>
 	<l id="439">Ce même jour, Amurat expire dans ces lieux.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="440">Le Vizir sert votre vengeance !</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="441">Quand il implora mon appui,</l>
 	<l id="442">Et que pour sa grandeur j’employai ma puissance,</l>
 	<l id="443">Il me promit la récompense</l>
 	<l id="444">Qu’il va me donner aujourd’hui.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="445">Vous voulez qu’Amurat périsse !</l>
 	<l id="446">Lui dont l’amour vous fit des jours si fortunés !</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="447">C’est à vous que mon cœur en fait le sacrifice,</l>
 	<l id="448">Et c’est vous qui me condamnez !</l>
 	<l id="449">Attendrai-je, qu’instruit des feux que dans mon âme</l>
@@ -804,19 +804,19 @@
 	<l id="457">Non, vous ne mourrez point ; qu’il soit notre victime.</l>
 	<l id="458">Meure avec le cruel, l’objet de ses amours !</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="459" part="i">Ô Ciel ! Que dites-vous ?</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="459" part="f">Dans l’ardeur qui m’anime,</l>
 	<l id="460">Perdre tout l’Univers, pour conserver vos jours,</l>
 	<l id="461">Ne me paraîtrait pas un crime.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="462">Ce ne sont point mes jours que vous voulez sauver ;</l>
 	<l id="463">Le choix d’une rivale arme votre colère.</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="464">Ah ! Si la grandeur peut me plaire,</l>
 	<l id="465">Je n’en veux que pour t’élever.</l>
 	<l id="466">Par le trépas qu’a juré ma vengeance,</l>
@@ -825,13 +825,13 @@
 	<l id="469">Arme-toi ; ta valeur de permet l’espérance</l>
 	<l id="470">De renverser le trône des Sultans.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="471">Non ! Plutôt d’Amurat j’entreprends la défense.</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="472">Quoi ! Prince, auriez-vous donc cessé de le haïr ?</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="473">Ma haine est généreuse, et ne sait point trahir.</l>
 	<l id="474">Il commande aux sujets dont je suis né le maître.</l>
 	<l id="475">J’ai vu dans son palais mes frères égorgés ;</l>
@@ -844,47 +844,47 @@
 	<l id="482">Rien ne vous sauverait d’un trop juste courroux ;</l>
 	<l id="483">Les traits que vous lancez, retomberaient sur vous.</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="484">La frayeur d’une mort cruelle</l>
 	<l id="485">N’arrête point ici les grands projets :</l>
 	<l id="486">À force de la voir de près,</l>
 	<l id="487">Nous perdons notre horreur pour elle.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="488">Tremblez, du moins, si vous m’aimez ;</l>
 	<l id="489">En vain contre Amurat mille bras sont armés...</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="490">Qu’il meurt le cruel ! Cette seule espérance</l>
 	<l id="491">Peut consoler mon cœur du refus de sa foi.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="492">C’est par moi qu’il faudra que leur fureur commence.</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="493">Je saurai mourir après toi.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="494">Ah ! Quelle fureur vous entraîne !</l>
 	<l id="495">N’écoutez en ce jour ni l’amour ni la haine.</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="496">Ah ! Quelle fureur vous entraîne !</l>
 	<l id="497">Partagez en ce jour mon amour et ma haine.</l>
 </sp>
-<sp who="ENSEMBLE"><speaker>ENSEMBLE.</speaker>
+<sp who="ENSEMBLE"><hstage><speaker>ENSEMBLE</speaker>.</hstage>
 	<l id="498">Ah ! Quelle fureur vous entraîne !</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="499">N’écoutez en ce jour ni l’amour ni la haine.</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="500">Je n’écoute en ce jour que l’amour et la haine.</l>
 <stage>Roxane sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Scanderberg, Chœur de Janissaires.</head>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Scanderberg, Chœur de Janissaires.</cast>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="501">Contre une trahison si noire</l>
 	<l id="502">C’est à moi d’opposer un secours généreux.</l>
 	<l id="503">Si Roxane obtient la victoire,</l>
@@ -892,31 +892,31 @@
 	<l id="505">Qu’importe que j’écoute ou l’Amour; ou la Gloire,</l>
 	<l id="506">C’est assez de savoir que je les sers tous les deux.</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>CHŒUR, derrière le Théâtre.</speaker>
+<sp who="LE CHŒUR"><hstage><speaker>CHŒUR</speaker>, derrière le Théâtre.</hstage>
 	<l id="507">Immolons Amurat, immolons Servilie.</l>
 	<l id="508">Signalons-nous par des coups éclatants ;</l>
 	<l id="509">L’hymen est un crime aux Sultans.</l>
 <stage>Scanderberg sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Scanderberg, Chœur des Janissaires, Le Vizir, à la tête des Janissaires.</head>
-<sp who="CHŒUR DES JANISSAIRES"><speaker>CHŒUR DES JANISSAIRES.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Scanderberg, Chœur des Janissaires, Le Vizir, à la tête des Janissaires.</cast>
+<sp who="CHŒUR DES JANISSAIRES"><hstage><speaker>CHŒUR DES JANISSAIRES</speaker>.</hstage>
 	<l id="510">Immolons Amurat, immolons Servilie.</l>
 	<l id="511">Signalons-nous par des coups éclatants ;</l>
 	<l id="512">L’hymen est un crime aux Sultans.</l>
 </sp>
-<sp who="LE VIZIR"><speaker>LE VIZIR.</speaker>
+<sp who="LE VIZIR"><hstage><speaker>LE VIZIR</speaker>.</hstage>
 	<l id="513">Immolons Amurat, immolons Servilie.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG, entre, le sabre à la main.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>, entre, le sabre à la main.</hstage>
 <stage>Au Vizir.</stage>
 	<l id="514">Rebelle ! c’est à toi de trembler pour ta vie.</l>
 <stage>Combat des Officiers du Sérail contre les Janissaires.</stage>
 <stage>Scanderberg derrière le théâtre poursuit le Vizir.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Amurat, L’Aga des Janissaires, Les Janissaires.</head>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Amurat, L’Aga des Janissaires, Les Janissaires.</cast>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="515">Perfides, venez-vous dans ce sacré Palais</l>
 	<l id="516">Vous signaler par des forfaits ?</l>
 	<l id="517">Si vous bravez ma menace,</l>
@@ -924,30 +924,30 @@
 	<l id="519">Frappez, consommez votre audace,</l>
 	<l id="520">Forcez le foudre à me venger.</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>LE CHŒUR.</speaker>
+<sp who="LE CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 	<l id="521">Ô ! De la Majesté trop invincible charme.</l>
 	<l id="522">Le respect nous abat, le remord nous désarme.</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="523">Vous frémissez d’un projet odieux.</l>
 	<l id="524">Un si prompt repentir naît de votre impuissance.</l>
 	<l id="525">Tout votre sang versé par mon ordre, à mes yeux,</l>
 	<l id="526">À peine suffirait pour laver votre offense.</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>LE CHŒUR.</speaker>
+<sp who="LE CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 	<l id="527">Tu tiens dans tes mains notre sort.</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="528">Rendez grâce à ma clémence ;</l>
 	<l id="529">Ne craignez plus une honteuse mort :</l>
 	<l id="530">Mais immolez-moi ma victime,</l>
 	<l id="531">Méritez votre grâce en servant ma fureur ;</l>
 	<l id="532">Par la mort du Vizir expiez votre crime.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG, rentrant.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>, rentrant.</hstage>
 	<l id="533">Il a perdu le jour, vous voyez son vainqueur.</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="534">Ah ! C’est par toi que je respire,</l>
 	<l id="535">Je te dois la vie, et l’Empire.</l>
 	<l id="536">Avec toi désormais je veux le partager.</l>
@@ -955,12 +955,12 @@
 	<l id="538">Je t’élève au rang du rebelle</l>
 	<l id="539">Dont ton bras vient de me venger.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="540">Ma récompense est assez belle ;</l>
 	<l id="541">Vos jours ne sont plus en danger.</l>
 	<l id="542" part="i">Mais la Princesse ? Ô Ciel !</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="542" part="f">Ne crains plus rien pour elle.</l>
 	<l id="543">Je l’ai contrainte à fuir ce spectacle odieux,</l>
 	<l id="544">Et je te dois encor des jours si précieux.</l>
@@ -969,15 +969,15 @@
 	<l id="547">Et j’aime à dérober pour prix de ta victoire,</l>
 	<l id="548">Quelques moments, à mon amour.</l>
 </sp>
-<sp who="L’AGA DES JANISSAIRES"><speaker>L’AGA DES JANISSAIRES, alternativement avec le Chœur.</speaker>
+<sp who="L’AGA DES JANISSAIRES"><hstage><speaker>L’AGA DES JANISSAIRES</speaker>, alternativement avec le Chœur.</hstage>
 	<l id="549">Le Sultan dans tes mains a remis son tonnerre :</l>
 	<l id="550">Sous ses lois, fais trembler la terre.</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>CHŒUR.</speaker>
+<sp who="LE CHŒUR"><hstage><speaker>CHŒUR</speaker>.</hstage>
 	<l id="551">Le Sultan dans tes mains a remis son tonnerre :</l>
 	<l id="552">Sous ses lois, fais trembler la terre.</l>
 </sp>
-<sp who="L’AGA DES JANISSAIRES"><speaker>L’AGA.</speaker>
+<sp who="L’AGA DES JANISSAIRES"><hstage><speaker>L’AGA</speaker>.</hstage>
 	<l id="553">Vole à tes brillants exploits :</l>
 	<l id="554">Que ta valeur enchaîne la victoire.</l>
 	<l id="555">En suivant ton exemple, en écoutant la voix,</l>
@@ -988,7 +988,7 @@
 <div1 type="acte" n="4"><head>ACTE IV</head>
 <stage>Le Théâtre représente une partie des Jardins du Sérail terminée par un canal.</stage>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="557">Hélas ! Tout gêne ici ma haine et ma tendresse,</l>
 	<l id="558">Contre un Vainqueur cruel je n’ose murmurer ;</l>
 	<l id="559">Je dévore mes pleurs, et du trait qui me blesse</l>
@@ -1009,21 +1009,21 @@
 	<l id="574">De mes efforts pour la cacher.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Servilie, Scanderberg.</head>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Servilie, Scanderberg.</cast>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="575">Ah ! Venez dissiper le trouble qui m’agite :</l>
 	<l id="576">Le sort est-il toujours conjuré contre nous ?</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="577">Cette nuit-même, Osman répond de notre fuite.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="578">Quand par les regards les plus doux</l>
 	<l id="579">D’un rival odieux je flatte l’espérance,</l>
 	<l id="580">Mon amour en secret s’offense,</l>
 	<l id="581">De les voir s’adresser à quelque autre que vous.</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="582">Daignez encor vous faire violence,</l>
 	<l id="583">Ménagez le sultan jaloux,</l>
 	<l id="584">Cachons lui notre intelligence,</l>
@@ -1034,27 +1034,27 @@
 	<l id="589">Être heureux que par vos plaisirs,</l>
 	<l id="590">Ni malheureux que par vos peines.</l>
 </sp>
-<sp who="SCANDERBERG, SERVILIE"><speaker>ENSEMBLE.</speaker>
+<sp who="SCANDERBERG, SERVILIE"><hstage><speaker>ENSEMBLE</speaker>.</hstage>
 	<l id="591">Dure à jamais ce doux moment !</l>
 	<l id="592">Je vous vois, vous m’aimez, mon sort est trop charmant.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Servilie, Scanderberg, Roxane.</head>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Servilie, Scanderberg, Roxane.</cast>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="593" part="i">Ô Ciel !</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="593" part="f">Je viens d’entendre</l>
 	<l id="594">Et tes serments et tes soupirs ;</l>
 	<l id="595">Tu feignais de braver les amoureux désirs</l>
 	<l id="596">Cruel ! Ton cœur n’est que trop tendre.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="597">Ce cœur ne pouvait se donner,</l>
 	<l id="598">Il n’était plus en ma puissance</l>
 	<l id="599">Pardonnez à notre constance.</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="600">Ingrat ! Je t’aime trop pour te la pardonner.</l>
 	<l id="601">Tu trahis donc mon espérance ?</l>
 	<l id="602">Hélas ! Je t’ai cru généreux ;</l>
@@ -1064,79 +1064,79 @@
 	<l id="606">Crains tout d’un cœur jaloux,</l>
 	<l id="607">Qu’un cruel mépris désespère</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="608">Je me livre à votre courroux :</l>
 	<l id="609">Épuisez sur moi seul cette fureur extrême.</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="610">Faites grâce à l’objet dont vos yeux sont charmés.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="611">Épargnez ce que j’aime.</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="612">Épargnez ce que vous aimez.</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="613">Une frayeur si tendre est un nouvel outrage.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="614" part="i">Laissez vous attendrir ?</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="614" part="f">Souffrez autant que moi.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="615">Ah ! Quel supplice ! Quel effroi !</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="616">Ah ! Quel désespoir quel rage !</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="617">Quoi ! Nos pleurs seront sans pouvoir ?</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="618">Non, il n’est rien qui me fléchisse.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="619">Au nom de tout l’amour que vous m’avez fait voir...</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="620">Ingrat ! Il n’a pu t’émouvoir ;</l>
 	<l id="621">Espères-tu qu’il m’attendrisse ?</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="622">Au nom de tout l’amour que vous m’avez fait voir...</l>
 	<l id="623">Que je sois le seul qui périsse.</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="624">Vous périrez tous deux.</l>
 </sp>
-<sp who="SCANDERBERG, SERVILIE"><speaker>SCANDERBERG et SERVILIE.</speaker>
+<sp who="SCANDERBERG, SERVILIE"><hstage><speaker>SCANDERBERG</speaker> et <speaker>SERVILIE</speaker>.</hstage>
 	<l id="625">Quel effroi ! Quel supplice !</l>
 </sp>
-<sp who="ROXANE"><speaker>ROXANE.</speaker>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker>.</hstage>
 	<l id="626">Quelle rage ! Quel désespoir !</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Servilie, Scanderberg.</head>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Servilie, Scanderberg.</cast>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="627">Quel trouble affreux s’empare de mon âme !</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="628">Redoutez moins un impuissant courroux,</l>
 	<l id="629">Maître de son secret, je suspendrai ses coups ;</l>
 	<l id="630">Et je puis défier le courroux qui m’enflamme.</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="631">Ah ! Que c’est un cruel tourment</l>
 	<l id="632">De trembler pour ce que l’on aime !</l>
 	<l id="633">Un cœur est trop heureux de n’avoir, en aimant,</l>
 	<l id="634">Rien à craindre que pour lui-même.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Servilie, Amurat, Scandeberg, Esclaves de différentes nations.</head> 
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Servilie, Amurat, Scandeberg, Esclaves de différentes nations.</cast> 
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="635">Voyez, belle Princesse, embellir ces rivages.</l>
 	<l id="636">Par mes soupirs, par mes hommages,</l>
 	<l id="637">Je veux compter tous mes moments.</l>
@@ -1148,13 +1148,13 @@
 	<l id="643">En me soumettant à vos charmes,</l>
 	<l id="644">Je vous soumets tout l’Univers.</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>LE CHŒUR.</speaker>
+<sp who="LE CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 	<l id="645">Régnez heureux Vainqueur, que tout cède à vos coups,</l>
 	<l id="646">Qu’à vos lois tout réponde;</l>
 	<l id="647">Triomphez, triomphez du monde,</l>
 	<l id="648">La beauté seule a droit de triompher de vous.</l>
 </sp>
-<sp who="DEUX SCYTHES"><speaker>DEUX SCYTHES.</speaker>
+<sp who="DEUX SCYTHES"><hstage><speaker>DEUX SCYTHES</speaker>.</hstage>
 	<l id="649">Dans nos bois</l>
 	<l id="650">L’Amour nous soumet à ses lois,</l>
 	<l id="651">Mais toujours notre choix</l>
@@ -1166,7 +1166,7 @@
 	<l id="657">D’aimer davantage ;</l>
 	<l id="658">Quel plus doux partage !</l>
 </sp>	
-<sp who="UNE ASIATIQUE"><speaker>UNE ASIATIQUE, alternativement avec le Chœur.</speaker>
+<sp who="UNE ASIATIQUE"><hstage><speaker>UNE ASIATIQUE</speaker>, alternativement avec le Chœur.</hstage>
 <poem type="chant">
 <lg n="1">
 	<l id="659">Ici la beauté,</l>
@@ -1190,7 +1190,7 @@
 </lg>
 </poem>
 </sp>
-<sp who="UNE ITALIENNE"><speaker>UNE ITALIENNE.</speaker>
+<sp who="UNE ITALIENNE"><hstage><speaker>UNE ITALIENNE</speaker>.</hstage>
 	<l id="671">Splendete luci belle,</l>
 	<l id="672">Dilete stelle,</l>
 	<l id="673">D’amor fiete la face,</l>
@@ -1202,12 +1202,12 @@
 	<l id="679">Chi vince il mondo.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE VI. ROXANE et les Acteurs précédents.</head>
-<sp who="ROXANE"><speaker>ROXANE et les Acteurs précédents.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE VI.</head><cast>ROXANE et les Acteurs précédents.</cast>
+<sp who="ROXANE"><hstage><speaker>ROXANE</speaker> et les Acteurs précédents.</hstage>
 	<l id="680">Sultan, connais l’objet dont ton cœur est charmé,</l>
 	<l id="681">Ce Prince est ton rival ; ce rival est aimé.</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="682">Ah quelle perfidie !</l>
 	<l id="683">Le Vizir ! Servilie...</l>
 	<l id="684">Quoi ?... Tous deux interdits,</l>
@@ -1221,15 +1221,15 @@
 <stage>En montrant Scanderberg.</stage>
 	<l id="692">Qu’on le charge de fers, et que bientôt la mort...</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="693">D’avoir sauvé vos jours, est-ce la récompense ?</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="694">Ah ! Crains pour toi le même sort.</l>
 	<l id="695">Tu m’énerves encor en prenant sa défense.</l>
 	<l id="696" part="i">Sortez.</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT, seul.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>, seul.</hstage>
 	<l id="696" part="f">Régnez, haine, fureur,</l>
 	<l id="697">Régnez, jalouse rage.</l>
 	<l id="698">Perçons, perçons le cœur</l>
@@ -1247,14 +1247,14 @@
 </div1>
 <div1 type="acte" n="5"><head>ACTE V.</head>
 <stage>Le Théâtre représente l’entrée de la grande Mosquée.</stage>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Amurat, Les Grands Officiers de la porte.</head>
-<sp who="CHŒUR DE PEUPLES"><speaker>CHŒUR DE PEUPLES.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Amurat, Les Grands Officiers de la porte.</cast>
+<sp who="CHŒUR DE PEUPLES"><hstage><speaker>CHŒUR DE PEUPLES</speaker>.</hstage>
 	<l id="708">Ô jour heureux ! Ô jour de gloire !</l>
 	<l id="709">Qu’à jamais dans nos sœurs en dure la mémoire.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Amurat, Bachas, Peuples.</head>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Amurat, Bachas, Peuples.</cast>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="710">Je partage les vœux que ce jour vous inspire,</l>
 	<l id="711">Rendez grâces au ciel, soutien de cet Empire ;</l>
 	<l id="712">Chaque instant marque ses bienfaits.</l>
@@ -1275,12 +1275,12 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="LE CHŒUR"><speaker>CHŒUR.</speaker>
+<sp who="LE CHŒUR"><hstage><speaker>CHŒUR</speaker>.</hstage>
 	<l id="727">Régnez, régnez, heureux époux !</l>
 	<l id="728">Que votre règne soit pour nous</l>
 	<l id="729">Une fête éternelle.</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 <poem type="chant">
 <lg n="1">
 	<l id="730">Princesse, leurs transports annoncent mes plaisirs...</l>
@@ -1303,24 +1303,24 @@
 </lg>
 </poem>
 </sp>
-<sp who="LE CHŒUR"><speaker>CHŒUR.</speaker>
+<sp who="LE CHŒUR"><hstage><speaker>CHŒUR</speaker>.</hstage>
 	<l id="743">Du bonheur de sa flamme</l>
 	<l id="744">Faisons retentir les airs,</l>
 	<l id="745">Et que l’heureux objet qui règne dans son âme</l>
 	<l id="746">Anime nos concerts.</l>
 </sp>
-<sp who="UNE ODALISQUE"><speaker>UNE ODALISQUE, à Servilie.</speaker>
+<sp who="UNE ODALISQUE"><hstage><speaker>UNE ODALISQUE</speaker>, à Servilie.</hstage>
 	<l id="747">Triomphez, triomphez du Sultan et de nous,</l>
 	<l id="748">Est-il un triomphe plus doux.</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>CHŒUR.</speaker>
+<sp who="LE CHŒUR"><hstage><speaker>CHŒUR</speaker>.</hstage>
 	<l id="749">Triomphez, triomphez du Sultan et de nous,</l>
 	<l id="750">Est-il un triomphe plus doux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE IV. Le Muphti suivi des Imans, et acteurs de la scène précédente.</head>
+<div2 type="scene" n="5"><head>SCÈNE IV.</head><cast>Le Muphti suivi des Imans, et acteurs de la scène précédente.</cast>
 <stage>Les portes de la Mosquée s’ouvrent.</stage>
-<sp who="LE MUPHTI"><speaker>LE MUPHTI.</speaker>
+<sp who="LE MUPHTI"><hstage><speaker>LE MUPHTI</speaker>.</hstage>
 <poem>
 <lg n="1">
 	<l id="751">Peuples ! Sultan ! Écoutez-moi.</l>
@@ -1343,116 +1343,116 @@
 </lg>
 </poem>
 </sp>
-<sp who="LE CHŒUR"><speaker>CHŒUR.</speaker>
+<sp who="LE CHŒUR"><hstage><speaker>CHŒUR</speaker>.</hstage>
 	<l id="764">Célébrons cette nuit, en prodiges féconde.</l>
 	<l id="765">Par un gage sacré me Ciel s’unit à nous.</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT, au Muphti.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>, au Muphti.</hstage>
 	<l id="766">Des ordres du Prophète interprète fidèle,</l>
 	<l id="767">Qu’un autre soin partage votre zèle.</l>
 	<l id="768">Serrez, les doux lien</l>
 	<l id="769">Qui vont m’unir à Servilie.</l>
 	<l id="770">Témoin de ses serments, soyez garant des miens.</l>
 </sp>
-<sp who="LE MUPHTI"><speaker>LE MUPHTI.</speaker>
+<sp who="LE MUPHTI"><hstage><speaker>LE MUPHTI</speaker>.</hstage>
 	<l id="771">Jusque-là ta fierté s’oublie !</l>
 	<l id="772">Un Sultan par l’hymen ose engager la foi !</l>
 	<l id="773">Ce serait te trahir, que de l’unir à toi.</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="774">Qu’entends-je ! Quelle audace !</l>
 </sp>
-<sp who="LE MUPHTI"><speaker>LE MUPHTI.</speaker>
+<sp who="LE MUPHTI"><hstage><speaker>LE MUPHTI</speaker>.</hstage>
 	<l id="775">Préviens la foudre qui menace.</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="776">Quoi ! Tu m’oses braver ! Tout tremble devant moi.</l>
 </sp>
-<sp who="LE MUPHTI"><speaker>LE MUPHTI.</speaker>
+<sp who="LE MUPHTI"><hstage><speaker>LE MUPHTI</speaker>.</hstage>
 	<l id="777">L’Univers t’est soumis, mais tu es à la loi.</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="778">Je ne puis écouter que l’ardeur qui me guide,</l>
 	<l id="779">Princesse, votre aveu décide</l>
 	<l id="780">Assurez votre gloire et ma félicité.</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="781">Quel temps pour un hymen ! Le Prophète irrité...</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="782">Je saurai le calmer, si cet hymen l’offense.</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="783">N’attirez point sur vous le céleste courroux.</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="784">Venez, c’est trop de résistance.</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="785">Laissez en paix un cœur qui ne peut être à vous.</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="786">Vous m’auriez donc flatté d’une vaine espérance ?</l>
 	<l id="787">Le don de votre main suspendait seul les coups</l>
 	<l id="788">Que contre mon rival préparez ma vengeance.</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="789">Je croyais sur moi-même avoir plus de puissance.</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="790">Eh bien, il périra ce trop heureux amant,</l>
 	<l id="791">Et vous ordonnez on supplice,</l>
 	<l id="792" part="i">Il vient.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Scanderberg, et les acteurs de la Scène précédente.</head> 
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Scanderberg, et les acteurs de la Scène précédente.</cast> 
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="792" part="m">Juste Ciel !</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT, à Servilie.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>, à Servilie.</hstage>
 	<l id="792" part="f">Tu frémis.</l>
 	<l id="793">Assure mon bonheur ; sa grâce est à ce prix.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="794">Non, que plutôt mille fois je périsse.</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE, à Scanderberg.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>, à Scanderberg.</hstage>
 	<l id="795">Que t’ai-je fait, cruel, et par quelle injustice</l>
 	<l id="796">Veux-tu que de ta mort, mes yeux soient le témoins ?</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="797">Si je vous perds, en périrai-je moins ?</l>
 	<l id="798">Que sur moi le tyran épuise se furie ;</l>
 	<l id="799">Vous plaindrez mon destin, il ’ne jouira pas :</l>
 	<l id="800">Vos mépris, ses remords, vengeront mon trépas.</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="801">Je cède à la fureur dont mon âme est saisie,</l>
 	<l id="802" part="i">Qu’il meure.</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="802" part="f">Arrêtez... Quel effroi !</l>
 	<l id="803" part="i">Je promets...</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="803" part="f">Vous allez trahir qui vous adore.</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="804">Ne me reproche rien, je fais ce que je dois.</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="805">Venez donc et jurez... Vous balancez encore ?</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE, en se frappant.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>, en se frappant.</hstage>
 	<l id="806">Je ne balance plus, Je meurs.</l>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="807" part="i">Ô ciel !</l>
 </sp>
-<sp who="AMURAT"><speaker>AMURAT.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>.</hstage>
 	<l id="807" part="f">Cruelle Servilie.</l>
 </sp>
-<sp who="SERVILIE"><speaker>SERVILIE.</speaker>
+<sp who="SERVILIE"><hstage><speaker>SERVILIE</speaker>.</hstage>
 	<l id="808">Je te venge de mes rigueurs,</l>
 	<l id="809">À ses yeux je me justifie.</l>
 	<l id="810">Je perds pour toi l’amant pour qui je perds la vie.</l>
@@ -1462,13 +1462,13 @@
 	<l id="814">Que ma mort vous réconcilie.</l>
 <stage>Le Muphti et les imans rentrent dans la mosquée.</stage>
 </sp>
-<sp who="SCANDERBERG"><speaker>SCANDERBERG.</speaker>
+<sp who="SCANDERBERG"><hstage><speaker>SCANDERBERG</speaker>.</hstage>
 	<l id="815">Non, je ne puis survivre à son destin fatal.</l>
 <stage>À Amurat.</stage>
 	<l id="816">Assouvis-toi, cruel ! Du sang de ton rival.</l>
 </sp>
 <stage>Il veut se percer.</stage>
-<sp who="AMURAT"><speaker>AMURAT, saisissant le fer.</speaker>
+<sp who="AMURAT"><hstage><speaker>AMURAT</speaker>, saisissant le fer.</hstage>
 	<l id="817">Arrête... Es-tu content barbare !</l>
 	<l id="818">Je ne puis soutenir ce spectacle d’horreur.</l>
 	<l id="819">Loin de moi, va pleurer notre commun malheur,</l>

@@ -63,8 +63,8 @@
 	</front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Olimbre, Ursace, Olicharsis.</head>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Olimbre, Ursace, Olicharsis.</cast>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1">Enfin vous le voyez ce palais glorieux,</l>
 	<l id="2">Où l’on retient l’objet qui plaît tant à vos yeux :</l>
 	<l id="3">Mais gardez de savoir par votre expérience,</l>
@@ -91,14 +91,14 @@
 	<l id="24">De cet appartement, où sont les trois princesses :</l>
 	<l id="25">Enfin votre désir a satisfait vos yeux.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="26">Laissez-moi dans ce lieu que je préfère aux cieux :</l>
 	<l id="27">Allez, mon cher Olimbre, où l’amour vous appelle,</l>
 	<l id="28">Soyez autant heureux, que vous êtes fidèle,</l>
 	<l id="29">Et si le sort détruit mon dessein hasardeux,</l>
 	<l id="30">Souffrez enfin ma mort, et vivez pour nous deux.</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="31">J’aborde comme vous aux rives africaines,</l>
 	<l id="32">Quinze ans m’ont retenu dans des terres lointaines,</l>
 	<l id="33">Où le désir d’apprendre avait porté mes pas,</l>
@@ -114,7 +114,7 @@
 	<l id="43">Et dans les grands périls, rencontrant des amorces,</l>
 	<l id="44">Je perdrais Genseric au milieu de ses forces.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="45">Cher et fidèle ami, je n’ai pas le pouvoir</l>
 	<l id="46">De cacher à vos yeux l’objet qu’ils veulent voir :</l>
 	<l id="47">Je découvre un secret d’une importance extrême,</l>
@@ -158,10 +158,10 @@
 	<l id="85">Car mon âme autrement aurait rompu ses fers,</l>
 	<l id="86">Pour s’exempter plutôt des maux qu’elle a souffert,</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="87" part="i">Poursuivez.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="87" part="f">C’est ici qu’il faut que je retrace</l>
 	<l id="88">Dedans mon souvenir, mon heure et ma disgrâce,</l>
 	<l id="89">Et que par un mélange, et de bien et de mal,</l>
@@ -179,10 +179,10 @@
 	<l id="101">Je combattis longtemps ce superbe vainqueur ;</l>
 	<l id="102">Mais il se fallut rendre, et perdre enfin son cour.</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="103" part="i">Quoi, vous aimâtes donc Eudoxe ?</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="103" part="f">Je l’avoue,</l>
 	<l id="104">Et soit que votre esprit, ou me blâme, ou me loue ;</l>
 	<l id="105">Qu’il approuve ou condamne un étrange discours ;</l>
@@ -192,10 +192,10 @@
 	<l id="109">Je brûlais sans parler, dans mes feux innocents ;</l>
 	<l id="110">Et je perdis mon cour, mais non pas le bon sens.</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="111">Qui lui découvrit donc votre secrète flamme ?</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="112">Ha ! Ce furent mes yeux qui trahirent mon âme :</l>
 	<l id="113">Les sentiments du cour s’y peignirent trop bien ;</l>
 	<l id="114">La princesse les vit, et je n’en savais rien.</l>
@@ -212,10 +212,10 @@
 	<l id="125">Et que ce téméraire, en sa présomption</l>
 	<l id="126">Ne serait point puni par son aversion.</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="127" part="i">Enfin elle aima donc ?</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="127" part="f">Pour mon âme enflammée,</l>
 	<l id="128">Elle fit bien assez, en souffrant d’être aimée ;</l>
 	<l id="129">Elle fit bien assez, quand il me fut permis</l>
@@ -233,10 +233,10 @@
 	<l id="141">Qui servait la princesse, et qui pour la beauté</l>
 	<l id="142">Ne lui cédait pas moins que pour la qualité.</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="143">Sans doute cet amour ne nuisit pas au vôtre.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="144">Je tirai du profit de la faute d’un autre :</l>
 	<l id="145">La princesse parut sensible au dernier point ;</l>
 	<l id="146">Comme il ne l’aimait pas, elle ne l’aima point :</l>
@@ -257,10 +257,10 @@
 	<l id="161">Et sans avoir d’amour que pour la vanité,</l>
 	<l id="162">Du fait du bonheur je suis précipité.</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="163">Mais que lui dites-vous en cette conjoncture ?</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="164">Après avoir souffert en secret la torture,</l>
 	<l id="165">Après que le respect, le dépit, la douleur,</l>
 	<l id="166">Le souvenir du bien, et l’objet du malheur,</l>
@@ -309,10 +309,10 @@
 	<l id="209">Sans perdre le respect que je dois à son rang,</l>
 	<l id="210">Et que je vais signer ce discours de mon sang.</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="211">Et que répondit-elle à ces mots pleins de charmes ?</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="212">son bel oil le premier répondit par des larmes :</l>
 	<l id="213">Mille profonds soupirs, qui sortaient à la fois,</l>
 	<l id="214">Empêchèrent longtemps l’usage de sa voix ;</l>
@@ -341,10 +341,10 @@
 	<l id="237">Que le devoir tout seul me la venait ravir ;</l>
 	<l id="238">Et qu’enfin je vécusse afin de la servir.</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="239">Quels furent vos pensées, alors pour la princesse ?</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="240">Malgré ma passion, je connus sa sagesse ;</l>
 	<l id="241">Et lors que la raison eut assez combattu,</l>
 	<l id="242">Je me jette à ses pieds, adorant sa vertu :</l>
@@ -357,11 +357,11 @@
 	<l id="249">L’un et l’autre (dit-elle) est juste en vos malheurs,</l>
 	<l id="250">Lors elle me quitta, voulant cacher ses pleurs.</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="251">Ô merveilleux amour ! Ô vertus adorables !</l>
 	<l id="252">Amants, que la sagesse a fait incomparables !</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="253">Ainsi ce grand hymen s’achève en peu de jours :</l>
 	<l id="254">Mais pour n’allonger pas un si triste discours,</l>
 	<l id="255">Vous savez, cher ami, sans que je vous le die,</l>
@@ -450,7 +450,7 @@
 	<l id="338">Du plus infortuné qui fut jamais amant ;</l>
 	<l id="339" part="i">Mais je retourne au port :</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="339" part="f">Moi, si la longue absence</l>
 	<l id="340">Auprès de Genseric n’a détruit ma puissance,</l>
 	<l id="341">J’adoucirai peut-être un si cuisant souci.</l>
@@ -458,7 +458,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 <stage>Stances</stage>
 <poem type="stances">
 <lg n="1">
@@ -532,8 +532,8 @@
 	<l id="394">Fais pencher son esprit du côté que je veux !</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. L’Impératrice, Eudoxe.</head>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>L’Impératrice, Eudoxe.</cast>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="395">Eudoxe, écoutez bien tout ce que je vais dire :</l>
 	<l id="396">Vous savez que le sort nous a ravi l’empire ;</l>
 	<l id="397">Que nous avons perdu jusqu’à la liberté,</l>
@@ -554,10 +554,10 @@
 	<l id="412">Ce que nous pouvons faire, et quel espoir nous reste :</l>
 	<l id="413">Vous seule enfin pouvez empêcher mon trépas.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="414" part="i">Hé ! Madame, comment ?</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="414" part="f">Ne m’interrompez pas.</l>
 	<l id="415">La fortune changeante et peut être lassée,</l>
 	<l id="416">Semble se contenter de ma peine passée ;</l>
@@ -576,35 +576,35 @@
 	<l id="428">La prudence du fils, à la fureur du père ;</l>
 	<l id="429">Et par là nous pourrons éviter sa rigueur.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="430">Madame, c’est à vous à gouverner mon cour,</l>
 	<l id="431">Et vous pouvez agir de puissance absolue ;</l>
 	<l id="432">Puisque vous le voulez, m’y voilà résolue.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="433">Je n’attendais pas moins d’un esprit si bien né :</l>
 	<l id="434">Puissiez-vous posséder plus d’heures que je n’en ai,</l>
 	<l id="435">Pour vous récompenser de cette obéissance.</l>
 	<l id="436">Ha ! Madame, on doit tout, quand on doit la naissance.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="437">Ce prince généreux peut nous servir ici,</l>
 	<l id="438" part="i">Si son père entreprend...</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="438" part="f">Madame le voici.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Genséric, Aspar, Olicharsis.</head>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Genséric, Aspar, Olicharsis.</cast>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="439">Enfin, Olicharsis, ce discours m’importune :</l>
 	<l id="440">Il choque mon amour, et ma bonne fortune ;</l>
 	<l id="441">Il détruit mes plaisirs, non, je n’en ferai rien.</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR.</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker>.</hstage>
 	<l id="442">Ainsi doivent agir les grands rois, pour leur bien.</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="443">Ha ! Seigneur rappelez dedans votre mémoire,</l>
 	<l id="444">Ce qu’on doit à l’honneur, ce qu’on doit à la gloire :</l>
 	<l id="445">Le nom de Genseric a volé jusqu’aux cieux,</l>
@@ -614,7 +614,7 @@
 	<l id="449">Fuyez, fuyez l’amour, qui veut vous suborner,</l>
 	<l id="450">Et le mauvais conseil qu’on tâche à vous donner.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="451">Cruel Olicharsis, que veux-tu que je fasse ?</l>
 	<l id="452">Un puissant ennemi me suit de place en place ;</l>
 	<l id="453">Qui force les mortels à recevoir ses lois ;</l>
@@ -648,7 +648,7 @@
 	<l id="481">Et qu’un cour qui peut tout, et qu’un cour irrité,</l>
 	<l id="482">Peut enfin se porter à toute extrémité.</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR.</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker>.</hstage>
 	<l id="483">Vous avez bien connu par votre expérience,</l>
 	<l id="484">Que son orgueil provient de votre patience :</l>
 	<l id="485">Vous avez trop souffert, son mépris insolent ;</l>
@@ -658,68 +658,68 @@
 	<l id="489">Mais il faut qu’un monarque en recevant la loi</l>
 	<l id="490">D’un oil impérieux, face l’amour en roi.</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="491">Mais il faut qu’un monarque, en l’état où nous sommes,</l>
 	<l id="492">Soit plus sage en effet que le commun des hommes ;</l>
 	<l id="493">Qu’il règne sur soi-même, en régnant sur autrui ;</l>
 	<l id="494">Et qu’il prenne la loi, qu’on doit prendre de lui.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="495">Mais il faut donc qu’un roi se résolue à sa perte.</l>
 	<l id="496">Mais il faut donc tenir ma sépulture ouverte ;</l>
 	<l id="497">Mais il faut donc mourir, car enfin mon trépas</l>
 	<l id="498">Dépend d’aimer encor, et ne posséder pas.</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR.</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker>.</hstage>
 	<l id="499">Et qui peut s’opposer à cette jouissance ?</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="500">Et son aversion, et sa haute naissance :</l>
 	<l id="501">Car enfin tout esprit est né libre, est né franc,</l>
 	<l id="502">Et l’on ne force point les femmes de son rang.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="503">Mais doit-on mépriser le vainqueur d’un empire ?</l>
 	<l id="504">Mais doit-on mépriser un amant qui soupire ?</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR.</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker>.</hstage>
 	<l id="505">Oui seigneur on le doit, quand sa facilité,</l>
 	<l id="506">Souffre qu’on le méprise, avec impunité :</l>
 	<l id="507">Celui ne connaît pas les droits d’une couronne,</l>
 	<l id="508">Qui n’use absolument du pouvoir qu’elle donne.</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="509" part="i">Ô le mauvais conseil !</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR.</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker>.</hstage>
 	<l id="509" part="m">Utile,</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="509" part="f">Vicieux,</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR.</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker>.</hstage>
 	<l id="510" part="i">Plaisant.</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="510" part="f">Mais deshonnête, et déplaisant aux dieux :</l>
 	<l id="511">Ha ! Seigneur, évitez cet affreux précipice :</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR.</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker>.</hstage>
 	<l id="512">À qui peut tout oser toute chose est propice.</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="513" part="i">Il vous perd.</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR.</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker>.</hstage>
 	<l id="513" part="m">Je vous sauve.</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="513" part="m">Il vous nuit.</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR.</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker>.</hstage>
 	<l id="513" part="f">Je vous sers.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="514">Que doit faire un esclave accablé de ses fers ?</l>
 	<l id="515">À quoi se doit résoudre une âme infortunée ?</l>
 	<l id="516">Mais qui tient en ses mains sa bonne destinée.</l>
@@ -737,11 +737,11 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Ursace, Olicharsis, Olimbre.</head>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Ursace, Olicharsis, Olimbre.</cast>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="527">Il prétend (dites-vous) forcer l’impératrice ?</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="528">Il n’est point de conseil dont son cour ne s’aigrisse :</l>
 	<l id="529">Il prend un bon avis, pour une trahison,</l>
 	<l id="530">Et ne peut écouter la voix de la raison.</l>
@@ -755,13 +755,13 @@
 	<l id="538">Séparons-nous plutôt, de peur d’être entendus.</l>
 	<l id="539" part="i">Je retourne au palais ;</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="539" part="f">Allez, ami fidèle,</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="540">J’observerai ce prince, et je prendrai soin d’elle.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="541">Ô le plus malheureux qui respire le jour,</l>
 	<l id="542">Objet de la colère, et du sort, et d’amour !</l>
 	<l id="543">Toi qui te vois en butte aux traits de leur envie ;</l>
@@ -813,7 +813,7 @@
 	<l id="589">Ne perdons point de temps, et montrons aujourd’hui,</l>
 	<l id="590">Qu’en méprisant sa vie, on tient celle d’autrui.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="591">Je suis prêt de mourir, et pour votre service,</l>
 	<l id="592">Et pour ma Placidie, et pour l’impératrice :</l>
 	<l id="593">Ursace, aucun péril ne peut m’épouvanter,</l>
@@ -824,7 +824,7 @@
 	<l id="598">C’est se perdre sans fruit, et tout perdre avec soi,</l>
 	<l id="599">Attendons, il s’agit d’une affaire trop grande.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="600">Hélas, trop sage ami, que veux-tu que j’attende ?</l>
 	<l id="601">Qu’un barbare insolent me ravisse mon bien ?</l>
 	<l id="602">Qu’il m’enlève un trésor, qu’il ne me laisse rien ?</l>
@@ -839,36 +839,36 @@
 	<l id="611">Vivre ainsi, n’est pas vivre, ô funeste mémoire !</l>
 	<l id="612">C’est mourir pour l’honneur, et survivre à sa gloire.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="613" part="i">Ne précipitons rien ;</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="613" part="f">Mais précipitons tout ;</l>
 	<l id="614">Poussons, poussons plutôt le malheur jusqu’au bout ;</l>
 	<l id="615">La tempête finit, alors qu’elle est extrême ;</l>
 	<l id="616">Et l’on peut se sauver par le naufrage même.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="617" part="i">Attendez, attendez ;</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="617" part="f">Ha ! J’ai trop attendu :</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="618" part="i">Vous perdez...</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="618" part="f">Quoi, je perds, ne suis-je pas perdu ?</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="619">Mais vous perdez encor par votre impatience,</l>
 	<l id="620">Mais vous perdez encor par votre violence,</l>
 	<l id="621" part="i">L’objet de vos désirs et des miens ;</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="621" part="f">Et pourquoi ?</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="622">Lorsqu’un peuple irrité verra meurtrir son roi,</l>
 	<l id="623">Croyez-vous qu’il pardonne à ces pauvres princesses</l>
 	<l id="624">Qui seront le sujet de toutes ses tristesses ?</l>
@@ -877,7 +877,7 @@
 	<l id="627">Lors en vain nous mettrons notre force en usage,</l>
 	<l id="628">Et leur sang jaillira jusqu’à votre visage.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="629">Ha ! Cruel je me rends, et tu m’as su forcer ;</l>
 	<l id="630">Mon cour ne peut souffrir un si triste penser ;</l>
 	<l id="631">Il faut sauver Eudoxe, et suivre ton envie,</l>
@@ -895,7 +895,7 @@
 	<l id="643">Ainsi le veut le sort, dont la force est extrême,</l>
 	<l id="644">Ainsi le voulons-nous, et l’amour, et moi-même.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="645">À se désespérer, votre esprit est trop prompt :</l>
 	<l id="646">Allons chercher encor le Prince Thrasimond ;</l>
 	<l id="647">Vous savez que l’amour lui fait sentir sa flamme,</l>
@@ -905,16 +905,16 @@
 	<l id="651">Lui seul peut s’opposer au dessein de son père ;</l>
 	<l id="652">Et nous rendre à la fin la fortune prospère.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="653">Allons, mais souviens-toi s’il arrive un malheur,</l>
 	<l id="654">Que ta voix seulement arrêta ma valeur.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="655" part="i">J’ouï du bruit, passons vite.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. L’Impératrice, Eudoxe, Placidie.</head>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>L’Impératrice, Eudoxe, Placidie.</cast>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="655" part="f">Ainsi quoi qu’il arrive,</l>
 	<l id="656">Si le corps est captif, l’âme n’est point captive ;</l>
 	<l id="657">Sa liberté natale est un riche trésor,</l>
@@ -948,24 +948,24 @@
 	<l id="685">Et qu’enfin votre père obtint du genre humain,</l>
 	<l id="686">Et le nom de César, et l’empire romain.</l>
 </sp>
-<sp who="PLACIDIE"><speaker>PLACIDIE.</speaker>
+<sp who="PLACIDIE"><hstage><speaker>PLACIDIE</speaker>.</hstage>
 	<l id="687">Que votre majesté, s’il lui plaît, se console ;</l>
 	<l id="688">Cette vertu sublime, apprise en son école,</l>
 	<l id="689">Ne permettra jamais à nos jeunes esprits</l>
 	<l id="690">De la perdre de vue, au sentier qu’elle a pris.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="691">Oui nous voulons l’aimer, oui, nous la voulons suivre,</l>
 	<l id="692">Et soit que votre cour veuille mourir ou vivre,</l>
 	<l id="693">Qu’il conserve la vie, ou qu’il coure au trépas,</l>
 	<l id="694">Madame, assurez vous que nous suivrons vos pas.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="695">Ha ! Le voici venir, cet importun vandale.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Genséric, L’Impératrice, Eudoxe, Placidie.</head>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Genséric, L’Impératrice, Eudoxe, Placidie.</cast>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="696">Après une amitié qui n’eut jamais d’égale,</l>
 	<l id="697">Après avoir passé des mers pour vous venger,</l>
 	<l id="698">Et vaincu pour cela tout un peuple étranger ;</l>
@@ -1008,7 +1008,7 @@
 	<l id="735">Madame songez-y, sans tarder d’avantage,</l>
 	<l id="736">Car je suis Genséric, et je suis à Carthage.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="737">Seigneur avec raison ce discours me surprend :</l>
 	<l id="738">Je ne l’attendais pas d’un monarque si grand :</l>
 	<l id="739">Je sais qu’il est certain que vous m’avez servie,</l>
@@ -1078,7 +1078,7 @@
 	<l id="803">Par le titre de roi, par l’honneur, par vous-même,</l>
 	<l id="804">De poignarder ce cour, sans vouloir qu’il vous aime.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="805">Comment, vous préférez la mort à mon amour !</l>
 	<l id="806">Vous me haïssez plus, que vous n’aimez le jour !</l>
 	<l id="807">Et votre oil qui s’obstine à sa rigueur première,</l>
@@ -1102,7 +1102,7 @@
 	<l id="825">Ne sois plus invisible, en me persécutant,</l>
 	<l id="826">Viens ici, montre-toi, ta maîtresse t’attend.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="827">Ni mon cour n’est point bas, ni ma vertu douteuse,</l>
 	<l id="828">On doit cacher sa flamme, alors qu’elle est honteuse :</l>
 	<l id="829">Mais lorsqu’on est brûlé d’un feu si pur, si beau,</l>
@@ -1115,59 +1115,59 @@
 	<l id="836">Qu’il est juste après lui de les rendre immortelles ;</l>
 	<l id="837">J’en veux toujours parler, c’est l’unique moyen ;</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="838">Mais ce n’était pourtant, qu’un simple citoyen.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="839">Non, mais ces citoyens ont conquêté la terre ;</l>
 	<l id="840">Et portant en tous lieux, la frayeur et la guerre,</l>
 	<l id="841">On les a vues souvent, favorisées de Mars,</l>
 	<l id="842">Traîner des rois captifs, attachés à leurs chars.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="843">Ha j’empêcherai bien que ce malheur n’arrive !</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="844">Une autre fois pourtant, Carthage fut captive :</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="845">Mais le sort est changé, Rome l’est à son tour :</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="846">Et Rome peut encor, se revoir Rome un jour.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="847" part="i">Quoi vous me menacez !</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="847" part="f">Je repousse un outrage ;</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="848" part="i">J’ai beaucoup de pouvoir ;</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="848" part="f">J’ai beaucoup de courage.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="849">Craignez, craignez un roi, que vous mettez si bas :</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="850">Je ne crains que le ciel, que je n’offense pas.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="851">Enfin votre rigueur est toujours obstinée.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="852">Je veux mourir en reine, ainsi que j’y suis née.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="853" part="i">Prenez un bon conseil,</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="853" part="f">Le conseil en est pris,</l>
 	<l id="854">Et je n’ai pas un cour, à souffrir le mépris.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="855">Enfin c’est trop souffrir cet orgueil qui me brave :</l>
 	<l id="856">C’est trop faire le faible, et trop faire l’esclave ;</l>
 	<l id="857">L’excès d’humilité ne sied pas bien aux rois,</l>
@@ -1182,7 +1182,7 @@
 	<l id="866">Que la force obtiendra, ce qu’on m’a refusé,</l>
 	<l id="867">Je vous le dis encor, songez-y donc madame.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="868">Ô ciel ! En quel état réduisez-vous mon âme ?</l>
 	<l id="869">Quoi, faut-il que j’endure un si sensible affront ?</l>
 	<l id="870">J’en ai la mort au sein, et la rougeur au front.</l>
@@ -1215,13 +1215,13 @@
 	<l id="897">Et comme c’est la mort qui me peut secourir,</l>
 	<l id="898">Venez rendre immortel, un cour qui veut mourir.</l>
 </sp>
-<sp who="PLACIDIE"><speaker>PLACIDIE.</speaker>
+<sp who="PLACIDIE"><hstage><speaker>PLACIDIE</speaker>.</hstage>
 	<l id="899" part="i">Hé madame,</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="899" part="f">Calmez ces pensées qui vous troublent :</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="900">Mes filles, c’est pour vous que mes douleurs redoublent :</l>
 	<l id="901">Et mon esprit sensible à la juste amitié,</l>
 	<l id="902">S’il a beaucoup de peur, n’a pas moins de pitié.</l>
@@ -1255,8 +1255,8 @@
 	<l id="930">Ursace ne vit plus, meurs donc Eudoxe, meurs.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. L’Impératice, Thrasimond, Placidie, Eudoxe.</head>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>L’Impératice, Thrasimond, Placidie, Eudoxe.</cast>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="931">Ha seigneur ! C’est ici qu’une vertu si haute,</l>
 	<l id="932">Doit contredire un père, et réparer sa faute :</l>
 	<l id="933">C’est ici qu’un esprit, si grand, et généreux,</l>
@@ -1287,32 +1287,32 @@
 	<l id="958">Ces princesses et moi, dans un seul monument :</l>
 	<l id="959" part="i">Je vous conjure ici...</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="959" part="f">Que faites-vous madame ?</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="960">Par l’honneur, par l’amour, par votre belle flamme,</l>
 	<l id="961">Par celle qui vous aime, et que vous aimez tant,</l>
 	<l id="962">De nous rendre aujourd’hui ce service important.</l>
 </sp>
-<sp who="PLACIDIE"><speaker>PLACIDIE.</speaker>
+<sp who="PLACIDIE"><hstage><speaker>PLACIDIE</speaker>.</hstage>
 	<l id="963" part="i">Ha, seigneur, sauvez-nous,</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="963" part="f">Vous me comblez de honte,</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="964" part="i">Seigneur,</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="964" part="m">Ô dieu je meurs,</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="964" part="f">Si l’amour qui me dompte,</l>
 	<l id="965">Généreux Thrasimond, vous touche au même point,</l>
 	<l id="966">Ne l’abandonnez pas, ne m’abandonnez point.</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="967">Moi vous abandonner ! Ha dans cette aventure,</l>
 	<l id="968">Je ne balance point l’amour et la nature ;</l>
 	<l id="969">Je ne connais que trop l’injustice du roi,</l>
@@ -1323,24 +1323,24 @@
 	<l id="974">Rendre à ses cruautés le sang qu’il m’a donné :</l>
 	<l id="975" part="i">Je m’en vais le trouver :</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="975" part="f">Ce n’est pas mon envie :</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="976">Et je garderai mieux votre honneur que ma vie.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="977" part="i">Me le promettez-vous ?</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="977" part="f">Oui, je vous le promets ;</l>
 	<l id="978">Et si je ne le fais, ne m’estimez jamais.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Thrasimond, Genséric, Aspar.</head>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Thrasimond, Genséric, Aspar.</cast>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="979">Seigneur, ma liberté vous doit sembler étrange :</l>
 	<l id="980">Aussi votre oil s’irrite, et votre teint se change ;</l>
 	<l id="981">Et je m’aperçois bien que ce que je vous dis,</l>
@@ -1402,7 +1402,7 @@
 	<l id="1037">Et s’il faut apaiser votre esprit irrité,</l>
 	<l id="1038">Ma tête répondra de ma témérité.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1039">Qu’est-ceci Thrasimond ? Qui porte votre langue,</l>
 	<l id="1040">À me faire aujourd’hui cette belle harangue ?</l>
 	<l id="1041">Avez-vous oublié que je suis votre roi,</l>
@@ -1435,60 +1435,60 @@
 	<l id="1067">Et je vous ferai voir (moi qui vous peux détruire)</l>
 	<l id="1068">Que ce n’est point à vous, à vous mêler d’instruire.</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1069">Seigneur je n’instruis point, mais la raison instruit</l>
 	<l id="1070">Avec beaucoup d’ardeur, quoiqu’avec peu de fruit.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1071" part="i">Quoi vous me répliquez !</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1071" part="f">C’est elle qui réplique.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1072" part="i">C’est vous qui m’offensez.</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1072" part="f">C’est elle qui s’explique.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1073">Vous perdez le respect que vous devez avoir.</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1074">Je songe à votre gloire, et je fais mon devoir.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1075">Vous n’appréhendez point ma colère irritée.</l>
 	<l id="1076">On doit l’appréhender, quand on l’a méritée.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1077">Et par cette raison, craignez-la désormais :</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1078">Et par cette raison, je ne craindrai jamais.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1079">Vous, censurer un roi que tout le monde estime !</l>
 	<l id="1080">Je n’attaque en parlant, que l’auteur de son crime.</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR.</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker>.</hstage>
 	<l id="1081">Ha seigneur ce discours semble être dit à moi,</l>
 	<l id="1082" part="i">Mais votre altesse a tort...</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1082" part="f">Oui traître c’est à toi ;</l>
 	<l id="1083">Esclave mercenaire, à toi flatteur du vice,</l>
 	<l id="1084">C’est à toi que j’en veux, et qu’en veut la justice ;</l>
 	<l id="1085">Et n’était le respect que je porte à mon roi,</l>
 	<l id="1086">Tu sentirais bien mieux qu’elle n’en veut qu’à toi.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1087">Ha, c’est trop endurer une telle insolence,</l>
 	<l id="1088">Croyez que je saurai vous imposer silence ;</l>
 	<l id="1089">Et qu’un juste courroux vous saura mettre en lieu,</l>
 	<l id="1090">Pour apprendre à parler à votre père, à Dieu.</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1091">Père fier et cruel, et cruelle aventure ;</l>
 	<l id="1092">Sentiments de respect, que donne la nature,</l>
 	<l id="1093">Sentiments de colère, et d’honneur, et d’amour,</l>
@@ -1515,36 +1515,36 @@
 	<l id="1114">Et tout cède avec elle, à ce premier devoir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Thrasimond, Olimbre, Ursace.</head>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Thrasimond, Olimbre, Ursace.</cast>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1115">Est-ce vous cher Olimbre, êtes vous à Carthage ?</l>
 	<l id="1116">Parmi tant de malheurs, ai-je cet avantage</l>
 	<l id="1117">De pouvoir partager mes desseins entre nous ?</l>
 	<l id="1118">Est-ce vous cher ami, cher Olimbre est-ce vous ?</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1119">Oui seigneur c’est Olimbre, ou pour mieux dire encore,</l>
 	<l id="1120">C’est un cour qui vous aime, un cour qui vous honore,</l>
 	<l id="1121">Et qui témoignera, quelques maux qu’il ait eus,</l>
 	<l id="1122">Qu’il connaît son devoir, ainsi que vos vertus.</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1123">Ha que je suis content, de vous voir en Afrique,</l>
 	<l id="1124">Mais avant que mon cour, et vous parle, et s’explique,</l>
 	<l id="1125">Il faut qu’avec vous je me plaigne du sort,</l>
 	<l id="1126" part="i">Qui nous ravit Ursace ;</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1126" part="f">Ursace n’est pas mort,</l>
 	<l id="1127">Ursace vit encor incomparable prince :</l>
 	<l id="1128">Oui le voici vivant, et dans votre province :</l>
 	<l id="1129">Le voici cet Ursace, encore trop heureux,</l>
 	<l id="1130">Puisqu’il n’est pas haï, d’un cour si généreux.</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1131" part="i">Ô plaisir sans égal !</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1131" part="f">Oui seigneur, cet Ursace,</l>
 	<l id="1132">Devrait perdre le jour, et votre bonne grâce,</l>
 	<l id="1133">S’il voulait vous cacher, qu’il est encore ici ;</l>
@@ -1554,16 +1554,16 @@
 	<l id="1137">Il ne vous cache point, ce qu’il cachait à tous,</l>
 	<l id="1138">Il craint tout en ces lieux, mais il s’assure en vous.</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1139">Il le peut, il le peut, et je veux qu’il le voit ;</l>
 	<l id="1140">Ursace, Olimbre, amis, vous me comblez de joie ;</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1141" part="i">Que veut Olicharsis ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Olicharsis, Thrasimond, Ursace, Olimbre.</head>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Olicharsis, Thrasimond, Ursace, Olimbre.</cast>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="1141" part="f">Je viens vous avertir,</l>
 	<l id="1142">Qu’on a quelque dessein, que le roi va sortir ;</l>
 	<l id="1143">Que dans son antichambre on assemble ses gardes ;</l>
@@ -1575,10 +1575,10 @@
 	<l id="1149">Je n’ai rien lu de bon, en son farouche aspect ;</l>
 	<l id="1150">Et ce qui vient de lui nous doit être suspect.</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1151">Dieu ! Que devons nous faire ? En quel trouble est mon âme !</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1152">Me permettre seigneur, d’attaquer cet infâme :</l>
 	<l id="1153">De lui mettre à l’instant un poignard dans le sein,</l>
 	<l id="1154">Et d’arrêter par là son coupable dessein.</l>
@@ -1623,7 +1623,7 @@
 	<l id="1193">Souffrez donc que mon bras signale ici ma foi,</l>
 	<l id="1194">Il n’en veut qu’au méchant qui conseille le roi.</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1195">J’approuve une douleur, et si juste, et si forte,</l>
 	<l id="1196">Mais non pas le dessein où la douleur vous porte.</l>
 	<l id="1197">Sans doute il vous perdrait, veuillez donc le changer ;</l>
@@ -1635,142 +1635,142 @@
 	<l id="1203">Sa mort arrêtera ce dessein si funeste,</l>
 	<l id="1204">Enfin faisons cela, le ciel fera le reste.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1205">Mon cour pour votre altesse, a pourtant de l’effroi :</l>
 	<l id="1206">Ne vaudrait-il point mieux me présenter au roi ?</l>
 	<l id="1207">Vous savez que ce prince a pour moi quelque estime,</l>
 	<l id="1208">Peut-être que ma voix arrêtera son crime ;</l>
 	<l id="1209">Les moyens les plus doux sont les plus assurés :</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1210">Mais ils ne valent rien aux maux désespérés :</l>
 	<l id="1211">Qu’on laisse agir mon bras, puisqu’il le peut encore :</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1212">Il est vrai que le roi vous aime, et vous honore,</l>
 	<l id="1213">Mais en l’état qu’il est, mais en cette saison,</l>
 	<l id="1214">Il n’écouterait plus amitié ni raison.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1215" part="i">Laissez-moi donc aller,</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1215" part="f">Non, demeurez Ursace :</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1216" part="i">Que je perde un méchant,</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1216" part="f">Il faut que je le fasse :</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1217" part="i">Pourquoi vous exposer ?</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1217" part="f">Pourquoi vous perdre ici ?</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1218" part="i">Ha ! Seigneur je le dois,</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1218" part="f">Et je le dois aussi.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1219">Au nom de la vertu contentez mon envie :</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1220">Au nom de l’amitié conservez votre vie.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1221">Vous me désespérez, prince trop généreux :</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1222">Et vous nous voulez rendre encor plus malheureux.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1223">Je vous conjure ici, par ce cour franc de vice...</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1224">Et moi par le devoir, et par l’impératrice.</l>
 	<l id="1225">Contestez-vous encor ? Et cet auguste nom,</l>
 	<l id="1226" part="i">Sera-t-il sans pouvoir au cour d’Ursace ?</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1226" part="f">Non</l>
 	<l id="1227">Il peut tout sur mon cour, il peut tout dans mon âme,</l>
 	<l id="1228">Mais cette obéissance, est bien digne de blâme.</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1229">Tout l’univers connaît votre cour sans égal,</l>
 	<l id="1230">Allez-moi donc attendre au palais d’Hannibal.</l>
 	<l id="1231">Vous, commandez aux miens de se rendre à la porte,</l>
 	<l id="1232">Afin qu’après le coup, ils me servent d’escorte,</l>
 	<l id="1233">Pour tâcher d’éviter la colère du roi :</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1234" part="i">Non, non, je vous suivrai.</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1234" part="f">J’ouï du bruit, laissez-moi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Genséric, Aspar.</head>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Genséric, Aspar.</cast>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1235">Avez-vous mis ma garde à l’entour de la place ?</l>
 	<l id="1236">Avez-vous commandé que personne ne passe ?</l>
 	<l id="1237">Et que si Thrasimond ose s’y présenter,</l>
 	<l id="1238">Que sans aucun respect on le fasse arrêter ?</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR.</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker>.</hstage>
 	<l id="1239">Oui seigneur je l’ai dit, et la place est gardée :</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1240" part="i">Ouvrez donc cette porte.</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR.</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker>.</hstage>
 	<l id="1240" part="f">Elle est barricadée ;</l>
 	<l id="1241">On ne saurait l’ouvrir, et le passe partout,</l>
 	<l id="1242">Avec tout mon effort, n’en peut venir à bout.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1243">Quoi je suis à Carthage, et n’y suis pas le maître !</l>
 	<l id="1244">Orgueilleuse beauté, je vous ferai connaître,</l>
 	<l id="1245">Après tant de soupirs, de plaintes et de voux,</l>
 	<l id="1246">Qu’on ne peut s’opposer à tout ce que je veux.</l>
 	<l id="1247" part="i">Frappez :</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR.</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker>.</hstage>
 	<l id="1247" part="f">Cette victoire est sans doute assurée.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Eudoxe, Genséric, Placidie.</head>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Eudoxe, Genséric, Placidie.</cast>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="1248">Seigneur, l’impératrice est déjà retirée,</l>
 	<l id="1249">On ne saurait la voir ; que votre majesté</l>
 	<l id="1250">Excuse s’il lui plaît, cette incivilité.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1251">Un dessein important veut que je l’entretienne,</l>
 	<l id="1252" part="i">Qu’on ouvre :</l>
 </sp>
-<sp who="PLACIDIE"><speaker>PLACIDIE.</speaker>
+<sp who="PLACIDIE"><hstage><speaker>PLACIDIE</speaker>.</hstage>
 	<l id="1252" part="f">Hélas seigneur, que l’honneur vous retienne.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="1253" part="i">Considérez son rang.</l>
 </sp>
-<sp who="PLACIDIE"><speaker>PLACIDIE.</speaker>
+<sp who="PLACIDIE"><hstage><speaker>PLACIDIE</speaker>.</hstage>
 	<l id="1253" part="f">Songez à ses malheurs.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="1254">Et n’entreprenez point d’augmenter ses douleurs.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1255">Ouvrez, ouvrez, Aspar, ici la force est bonne.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. L’Impératrice, Genséric, Aspar.</head>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>L’Impératrice, Genséric, Aspar.</cast>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1256">Arrêtez Genseric, c’est moi qui vous l’ordonne :</l>
 	<l id="1257">Enfin c’est trop souffrir, enfin c’est trop flatter,</l>
 	<l id="1258">Et vous me réduisez aux termes d’éclater.</l>
@@ -1795,25 +1795,25 @@
 	<l id="1277">Et l’insolence enfin, pire que le trépas,</l>
 	<l id="1278">Irrite un grand courage, et ne le fléchit pas.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1279">Madame, c’est pourquoi ne trouvez pas étrange,</l>
 	<l id="1280">Si de tant de mépris, mon cour enfin se venge,</l>
 	<l id="1281">Et si par ce mépris mon courage endurci,</l>
 	<l id="1282">En cette occasion ; ne fléchit point aussi.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1283">Je n’ai nul sentiment qui ne soit équitable :</l>
 	<l id="1284">Mais le vôtre paraît injuste, et redoutable ;</l>
 	<l id="1285">Mon cour en a tremblé, mon teint en a blêmi ;</l>
 	<l id="1286">Vous n’êtes plus amant, vous êtes ennemi.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1287">Ha je suis un amant, mais amant qu’on outrage,</l>
 	<l id="1288">Mais amant sans bonheur, et non pas sans courage,</l>
 	<l id="1289">Mais amant sans espoir, mais amant méprisé,</l>
 	<l id="1290">Mais amant qui peut tout, et qui voit tout aisé.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1291">Quoi cruel tant de pleurs ne touchent point votre âme.</l>
 	<l id="1292">Vous ne craignez donc plus, ni le ciel, ni le blâme,</l>
 	<l id="1293">Il ne vous reste plus aucune humanité !</l>
@@ -1836,101 +1836,101 @@
 	<l id="1310">Car la flamme et la cendre, en feront mon tombeau,</l>
 	<l id="1311">Si vous entreprenez de rompre cette porte :</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR.</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker>.</hstage>
 	<l id="1312">La crainte de la mort, en son âme est trop forte.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1313">Dans l’état déplorable où vous m’avez réduit,</l>
 	<l id="1314">Après tant de travaux, que j’ai souffert sans fruit,</l>
 	<l id="1315">Non, après la rigueur d’une si longue attente,</l>
 	<l id="1316">Rien ne peut empêcher que je ne me contente.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1317" part="i">Oubliez-vous l’honneur ?</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1317" part="f">Tout, pour vous posséder :</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1318" part="i">Ecoutez la raison.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1318" part="f">Elle vient de céder :</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1319" part="i">Elle parle pourtant ;</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1319" part="f">Elle est mal écoutée :</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1320" part="i">La justice la suit.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1320" part="f">Elle est peu redoutée.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1321" part="i">Quoi, voulez-vous ma mort ?</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1321" part="f">Voulez-vous mon trépas ?</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1322" part="i">Ne fléchirez-vous point ?</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1322" part="f">Ne fléchirez-vous pas ?</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1323" part="i">Le ciel voit vos desseins.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1323" part="f">Et vous voyez ma peine :</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1324" part="i">Quoi mes propos sont vains !</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1324" part="f">Quoi ma douleur est vaine !</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1325" part="i">À la mort.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1325" part="m">Au plaisir.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1325" part="m">Sauvons-nous.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1325" part="f">Sauvez-moi.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1326" part="i">Honneur.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1326" part="m">Amour.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1326" part="m">Je meurs.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1326" part="f">Je ne vis que par toi :</l>
 	<l id="1327">Mais c’est trop différer l’aise qui me transporte.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1328" part="i">Arrête encor un coup.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1328" part="f">Gardes, rompez la porte.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1329">Barbare souviens-toi que je m’en vais mourir,</l>
 	<l id="1330">Et que j’ai dans la main de quoi me secourir :</l>
 	<l id="1331">S’en est fait, il le faut ; ô bienheureuses flammes,</l>
 	<l id="1332">Venez perdre nos corps, et conserver nos âmes.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1333">Dieu qu’est-ce que je vois, le feu brille partout,</l>
 	<l id="1334">Il gagne ce palais, de l’un à l’autre bout ;</l>
 	<l id="1335">Vite, que chacun coure, et qu’on tâche d’éteindre</l>
@@ -1962,19 +1962,19 @@
 	<l id="1361">J’ai plus failli moi seul, que tous les criminels ;</l>
 	<l id="1362">Faites-moi donc sentir tous leurs maux éternels.</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR.</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker>.</hstage>
 	<l id="1363" part="i">Seigneur...</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1363" part="f">Ha scélérat, auteur de ma disgrâce,</l>
 	<l id="1364">Oses-tu me parler, as-tu bien cette audace ?</l>
 	<l id="1365">Vois méchant, vois l’effet de ton crime et du mien,</l>
 	<l id="1366">Afin de commencer mon supplice et le tien.</l>
 </sp>
-<sp who="ASPAR"><speaker>ASPAR.</speaker>
+<sp who="ASPAR"><hstage><speaker>ASPAR</speaker>.</hstage>
 	<l id="1367" part="i">Ha seigneur...</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1367" part="f">Détestable il faut que cette épée,</l>
 	<l id="1368">Pour punir tes forfaits dans ton sang soit trempée,</l>
 	<l id="1369">Et pour apprendre encor aux méchants comme toi,</l>
@@ -1982,7 +1982,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII.</head>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1371">Lâches, tout votre effort est un trop faible obstacle :</l>
 	<l id="1372">Dieu qu’est-ce que je vois, quel horrible spectacle !</l>
 	<l id="1373">Tout le palais en flamme, hélas il faut mourir ;</l>
@@ -2023,33 +2023,33 @@
 	<l id="1408" part="i">Meurs, prince infortuné, meurs.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Talerbal, Thrasimond.</head>
-<sp who="TALERBAL"><speaker>TALERBAL.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Talerbal, Thrasimond.</cast>
+<sp who="TALERBAL"><hstage><speaker>TALERBAL</speaker>.</hstage>
 	<l id="1408" part="f">Seigneur suivez-moi :</l>
 	<l id="1409" part="i">Mais sans perdre de temps :</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1409" part="f">Moi te suivre et pourquoi ?</l>
 </sp>
-<sp who="TALERBAL"><speaker>TALERBAL.</speaker>
+<sp who="TALERBAL"><hstage><speaker>TALERBAL</speaker>.</hstage>
 	<l id="1410" part="i">Oui seigneur, suivez-moi :</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1410" part="f">Bizarre procédure !</l>
 	<l id="1411">En cette déplorable, et funeste aventure,</l>
 	<l id="1412">As-tu perdu le sens au milieu de l’effroi,</l>
 	<l id="1413" part="i">Que tu parles ainsi ?</l>
 </sp>
-<sp who="TALERBAL"><speaker>TALERBAL.</speaker>
+<sp who="TALERBAL"><hstage><speaker>TALERBAL</speaker>.</hstage>
 	<l id="1413" part="f">Non seigneur suivez-moi.</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1414">Explique ton dessein, et tire-moi de doute.</l>
 </sp>
-<sp who="TALERBAL"><speaker>TALERBAL.</speaker>
+<sp who="TALERBAL"><hstage><speaker>TALERBAL</speaker>.</hstage>
 	<l id="1415">Ha seigneur suivez-moi, de crainte qu’on n’écoute,</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1416">Marche donc je te suis car en dépit du sort,</l>
 	<l id="1417">Ma main en tous endroits, saura trouver la mort.</l>
 </sp>
@@ -2057,7 +2057,7 @@
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 <stage>Stances.</stage>
 <poem type="stances">
 <lg n="">
@@ -2179,8 +2179,8 @@
 	<l id="1521">Si la bonté d’Eudoxe, a pu haïr Ursace.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Olimbre, Ursace.</head>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Olimbre, Ursace.</cast>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1522">Et bien cruel ami, seras-tu satisfait ?</l>
 	<l id="1523">J’ai suivi ton conseil, regardes en l’effet :</l>
 	<l id="1524">Vois ces tristes monceaux, et de cendre, et de poudre ;</l>
@@ -2202,7 +2202,7 @@
 	<l id="1540">Ici par tes conseils, nos malheurs sont extrêmes,</l>
 	<l id="1541">Ici nous perdons tout, et nous perdons nous mêmes.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1542">Hélas n’augmente point de si cuisants remords,</l>
 	<l id="1543">Par l’objet d’une mort, qui donne mille morts :</l>
 	<l id="1544">Je ne connais que trop, que moi seul l’ai causée ;</l>
@@ -2218,122 +2218,122 @@
 	<l id="1554">Et bien que ce discours soit un enfer pour moi,</l>
 	<l id="1555">Ne crains pas que mon cour s’ose plaindre de toi.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1556">Pardonne cher ami, pardonne à ma colère :</l>
 	<l id="1557">Je fais aveuglement, ce qu’elle me suggère ;</l>
 	<l id="1558">Je sais ton innocence, ainsi que mon malheur,</l>
 	<l id="1559">Mais ici ma raison, le cède à ma douleur.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1560">Mais ici ta douleur est jointe à la justice :</l>
 	<l id="1561">Il n’est point de tourment, il n’est point de supplice,</l>
 	<l id="1562">Sous quelque affreux aspect qu’on vienne me l’offrir,</l>
 	<l id="1563">Que ce cour ne mérite, et ne veuille souffrir.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1564">Non, non, le seul destin, cause notre disgrâce.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1565">Non, non, Olimbre seul, a perdu son Ursace.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1566">Le crime n’est causé que par l’intention.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1567">De moi quoi qu’il en soit vient ton affliction.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1568">On ne peut éviter, ce que le ciel ordonne.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1569">Mais on peut éviter, un conseil que je donne.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1570">L’amitié le donnait, l’amitié le reçut.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1571">L’amitié me trompa, l’amitié te déçut.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1572">L’amitié parle en toi, l’amitié te réplique.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1573">Et par cette amitié, tu perds tout en Afrique.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1574" part="i">Hélas que ferons-nous !</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1574" part="f">Hélas qu’avons-nous fait !</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1575" part="i">Tu commis une erreur.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1575" part="f">Tu flattes un forfait.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1576">Tous deux également, le destin nous accable ;</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1577">Tu n’es que malheureux, et moi je suis coupable.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1578" part="i">Cher ami,</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1578" part="m">Cher Ursace,</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1578" part="m">Ô mes pleurs !</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1578" part="f">Soupirons ;</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1579" part="i">Eudoxe,</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1579" part="m">Ne vit plus ;</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1579" part="m">Elle est morte ;</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1579" part="f">Ha mourons !</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1580">Olimbre, ton conseil ne se doit jamais suivre :</l>
 	<l id="1581">Quand il fallait mourir, il me força de vivre ;</l>
 	<l id="1582">Maintenant qu’il faut vivre, il me porte à mourir</l>
 	<l id="1583">Au lieu de m’assister, et de me secourir.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1584">Il faut vivre (dis-tu) parmi tant de tristesses !</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1585">Il faut vivre un seul jour, pour venger les princesses.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1586">J’approuve ce dessein, je suis ton sentiment.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1587">Vivons, vengeons-nous vite, et mourons promptement.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1588" part="i">J’ouï du bruit,</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1588" part="f">Cachons-nous dans quelque lieu plus sombre :</l>
 	<l id="1589">Si je ne suis déçu par la lune ou par l’ombre,</l>
 	<l id="1590" part="i">C’est Thrasimond.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Thrasimond, Ursace, Olimbre.</head>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Thrasimond, Ursace, Olimbre.</cast>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1590" part="f">Amis,êtes-vous donc ici ?</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1591">Seigneur, pouvez-vous rire et nous parler ainsi ?</l>
 	<l id="1592">Quoi, dans ce lieu funeste, et dans une aventure,</l>
 	<l id="1593">Qui demande des pleurs à toute la nature,</l>
@@ -2342,23 +2342,23 @@
 	<l id="1596">Vous pouvez rire ! Hélas dans ce malheur extrême,</l>
 	<l id="1597">Que fait votre vertu, votre amour, et vous-même ?</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1598" part="i">Elles vivent encor,</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1598" part="f">Ô dieu que dites-vous !</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1599" part="i">Elles vivent !</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1599" part="f">Gardons ce secret entre nous,</l>
 	<l id="1600" part="i">Elles vivent amis :</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1600" part="f">Ô ciel je te rends grâce :</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1601">Vous demandez comment, que je vous satisfasse.</l>
 	<l id="1602">Lorsque l’impératrice avec son flambeau,</l>
 	<l id="1603">Eut embrasé ce lieu que l’on croit son tombeau,</l>
@@ -2399,7 +2399,7 @@
 	<l id="1638">Jugez après cela, si vous avez raison,</l>
 	<l id="1639">D’accuser vos amis, d’aucune trahison.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1640">Pardonnez s’il vous plaît, à ma douleur trop forte.</l>
 	<l id="1641">Vous savez qu’un torrent quelques fois nous emporte,</l>
 	<l id="1642">Et que sa violence, en son commencement,</l>
@@ -2407,34 +2407,34 @@
 	<l id="1644">Enfin, si j’ai failli, qu’on m’ordonne un supplice :</l>
 	<l id="1645">Mais seigneur, en quel lieu reste l’impératrice ?</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1646">Elle est sous une voûte assez proche d’ici :</l>
 	<l id="1647" part="i">À moi, madame, à moi ;</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1647" part="m">Ciel !</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. L’Impératrice, Thrasimond, Olimbre, Placidie, Ursace, Eudoxe.</head>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>L’Impératrice, Thrasimond, Olimbre, Placidie, Ursace, Eudoxe.</cast>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1647" part="f">Seigneur, nous voici :</l>
 	<l id="1648">Mais avec tant de crainte, et tant d’inquiétude,</l>
 	<l id="1649">Que je crois que la mort n’a rien qui soit plus rude.</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1650">À quelque extrémité que ce mal puisse aller,</l>
 	<l id="1651">Olimbre que voici, vous pourra consoler.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1652" part="i">Olimbre dites-vous !</l>
 </sp>
-<sp who="PLACIDIE"><speaker>PLACIDIE.</speaker>
+<sp who="PLACIDIE"><hstage><speaker>PLACIDIE</speaker>.</hstage>
 	<l id="1652" part="f">Ha ma sœur, c’est lui-même :</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1653" part="i">Madame...</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1653" part="f">Unique ami du seul homme que j’aime,</l>
 	<l id="1654">Ou pour mieux dire encor, de celui que j’aimais,</l>
 	<l id="1655">Puisqu’il n’est plus vivant ; hélas, je perds la voix.</l>
@@ -2442,68 +2442,68 @@
 	<l id="1657">Cette triste nouvelle, est désormais publique ;</l>
 	<l id="1658" part="i">Ursace enfin est mort :</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1658" part="f">Oui madame, et mourant,</l>
 	<l id="1659">Ce pauvre chevalier me dit en soupirant,</l>
 	<l id="1660">D’une voix languissante, et d’un visage have,</l>
 	<l id="1661">Que je vinsse en son nom vous offrir cet esclave.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1662" part="i">Il le faut affranchir Olimbre.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1662" part="f">Ha pour ce point,</l>
 	<l id="1663">Madame, assurez-vous, qu’il ne le voudra point.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1664" part="i">Sois libre mon ami,</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1664" part="f">Je vous ferai connaître</l>
 	<l id="1665">Que je vous garde un cour, qui ne veut jamais l’être.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1666">Je vous avais bien dit qu’il ne le voudrait pas.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1667">Que cette voix charmante, a de charmants appas !</l>
 	<l id="1668">Qu’elle est puissante au cour, qu’elle est douce à l’oreille.</l>
 	<l id="1669">Confirmez-moi mes yeux une telle merveille.</l>
 	<l id="1670" part="i">Est-ce vous cher Ursace ?</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1670" part="f">Oui madame, c’est moi,</l>
 	<l id="1671">Trop content, trop heureux, puisque je vous revois.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1672">Hélas que de malheurs, traversent notre joie !</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1673">Je les méprise tous, pourvu que je vous vois.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1674" part="i">Nous sommes en danger,</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1674" part="f">Mais nous en sortirons,</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1675" part="i">Je crains pourtant beaucoup,</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1675" part="f">Ha madame espérons,</l>
 	<l id="1676">Au pis aller, ma mort vous tirera de peine :</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1677">Ô que cette parole, est encor inhumaine !</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1678">Elle part de mon cour, j’en atteste les cieux :</l>
 </sp>
-<sp who="PLACIDIE"><speaker>PLACIDIE.</speaker>
+<sp who="PLACIDIE"><hstage><speaker>PLACIDIE</speaker>.</hstage>
 	<l id="1679">Madame il faut songer à sortir de ces lieux :</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1680">En effet, en ces lieux le danger est extrême :</l>
 	<l id="1681">Et bien que dans mon cour l’amour le soit de même,</l>
 	<l id="1682">Si je vous en parlais en ce fâcheux moment,</l>
@@ -2513,15 +2513,15 @@
 	<l id="1686">La crainte et le respect, le feront taire ici ;</l>
 	<l id="1687">Mais sortons de ces lieux, et de Carthage aussi.</l>
 </sp>
-<sp who="EUDOXE"><speaker>EUDOXE.</speaker>
+<sp who="EUDOXE"><hstage><speaker>EUDOXE</speaker>.</hstage>
 	<l id="1688">Mais les difficultés m’en semblent assez fortes ;</l>
 	<l id="1689">Car le roi fait garder, et le havre, et les portes ;</l>
 	<l id="1690">Et difficilement pourra-t-on nous sauver.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1691">Quel remède seigneur, espérez vous trouver ?</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1692">Déjà le roi touché d’un repentir extrême,</l>
 	<l id="1693">Déteste son amour, sa fureur et soi-même,</l>
 	<l id="1694">Il a fait prendre Aspar, il l’a fait enchaîner,</l>
@@ -2544,7 +2544,7 @@
 	<l id="1711">C’est à dire le trait, d’un cuisant repentir,</l>
 	<l id="1712">Ainsi votre salut, n’est pas sans apparence.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1713">Non madame, et mon cour en conçoit l’espérance.</l>
 	<l id="1714">J’imagine un dessein, et sûr, et bien conduit ;</l>
 	<l id="1715">Mais dans ce pavillon, allons passer la nuit,</l>
@@ -2553,27 +2553,27 @@
 	<l id="1718">Vous verrez que le roi me chérit autrefois,</l>
 	<l id="1719">Et qu’en la main de Dieu, se voit le cour des rois.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1720">J’y consens, et ce dieu redouble mon courage.</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1721">Soyez donc le pilote, en un si grand orage.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1722">S’il faut perdre quelqu’un, pour le salut de tous,</l>
 	<l id="1723">Ciel acceptez un cour qui se présente à vous.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE I. L’Impératrice, Ursace.</head>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>L’Impératrice, Ursace.</cast>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1724" part="i">Le jour est déjà grand,</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1724" part="m">Oui madame,</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1724" part="f">Il n’importe ;</l>
 	<l id="1725">Il suffit seulement de fermer cette porte,</l>
 	<l id="1726">Que le feu qui dévore en bouleversant tout,</l>
@@ -2583,7 +2583,7 @@
 	<l id="1730">Parlez donc cher Ursace, et me dites pourquoi,</l>
 	<l id="1731">Vous avez souhaité vous voir seul avec moi.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1732">Madame, sur le point de rompre mon silence,</l>
 	<l id="1733">Je sens d’un mal secret, l’extrême violence,</l>
 	<l id="1734">Ma constance me quitte, et puis elle revient ;</l>
@@ -2649,7 +2649,7 @@
 	<l id="1794">Oui lisez dans mes yeux, et la rigueur du sort,</l>
 	<l id="1795">Et la force d’amour, et l’arrêt de ma mort.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1796">Ursace un tel discours me surprend davantage,</l>
 	<l id="1797">Que n’ont fait tous les maux qu’on m’a fait à Carthage.</l>
 	<l id="1798">Je ne l’attendais pas d’un cour si généreux,</l>
@@ -2689,86 +2689,86 @@
 	<l id="1832">Qu’elle y voulut mourir, pour vous être fidèle,</l>
 	<l id="1833">Et qu’elle y va mourir pour être toujours telle.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1834">Ha madame cessez d’outrager mon amour !</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1835">Mais vous même cessez de me priver du jour.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1836">C’est pour vous conserver, que je me perds moi-même :</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1837">L’on n’agit point ainsi, quand il est vrai qu’on aime.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1838" part="i">En pouvez-vous douter ?</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1838" part="f">Puis-je n’en douter point ?</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1839" part="i">M’estime-t-on si peu ?</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1839" part="f">Me hait-t-on à tel point ?</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1840">Quoi, ma fidélité ne vous est pas connue !</l>
 	<l id="1841">Mais si vous en aviez qu’est elle devenue ?</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1842">Je l’ai toujours madame, et veux toujours l’avoir.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1843" part="i">Mais elle est sans courage,</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1843" part="f">Ou plutôt sans pouvoir.</l>
 	<l id="1844">Ciel, Ursace me quitte, et me quittant, il m’aime !</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1845">Le véritable amant, n’agit point pour soi-même.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1846" part="i">Agissez donc pour moi,</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1846" part="f">Je le crois faire aussi,</l>
 	<l id="1847" part="i">Mon Ursace,</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1847" part="m">Madame,</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1847" part="f">Hélas restez ici.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1848">J’y voulais rester mort, mais puisqu’on me l’ordonne,</l>
 	<l id="1849">J’y resterai vivant, et vous êtes trop bonne.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Thrasimond, L’Impératrice, Olimbre, Ursace.</head>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Thrasimond, L’Impératrice, Olimbre, Ursace.</cast>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="1850">Madame, assurément voici venir le roi :</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1851" part="i">Dieu par quelle raison ?</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1851" part="f">N’en ayez point d’effroi ;</l>
 	<l id="1852">Tant mieux ; c’est en ce lieu qu’on verra mon adresse,</l>
 	<l id="1853">Cachons-nous promptement, puisque le temps nous presse :</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="1854">Ciel, qu’est-ce que je fais ; et qu’est-ce qu’il fera !</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="1855">Rien que la seule mort ne nous séparera.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Genséric, Olicharsis.</head>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Genséric, Olicharsis.</cast>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 <stage>Stances.</stage>
 <poem type="stances">
 <lg n="1">
@@ -2834,14 +2834,14 @@
 	<l id="1909">Si le temps et la mort ont une ombre assez noire,</l>
 	<l id="1910">Pour dérober un jour, ton crime à la mémoire.</l>
 </sp>
-<sp who="OLICHARSIS"><speaker>OLICHARSIS.</speaker>
+<sp who="OLICHARSIS"><hstage><speaker>OLICHARSIS</speaker>.</hstage>
 	<l id="1911">Seigneur, consolez-vous, ce juste repentir,</l>
 	<l id="1912">Que votre majesté commence de sentir,</l>
 	<l id="1913">Chez la postérité sauvera votre estime ;</l>
 	<l id="1914">Aussi n’êtes-vous point la cause de ce crime ;</l>
 	<l id="1915">Tout le monde vous plaint, chacun en sait l’auteur.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1916">Ha sage Olicharsis, je crus trop un flatteur !</l>
 	<l id="1917">Hélas heureux les rois, hélas heureux les princes,</l>
 	<l id="1918">Qui pour se délasser du faix de leurs provinces,</l>
@@ -2878,8 +2878,8 @@
 	<l id="1949">Ciel, Olimbre paraît ! Le voila qui s’approche.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Genséric, Olimbre.</head>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Genséric, Olimbre.</cast>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="1950">Viens, viens percer mon cour par un sanglant reproche,</l>
 	<l id="1951">Viens voir, hélas viens voir, en cette occasion,</l>
 	<l id="1952">Mon front couvert de honte, et de confusion.</l>
@@ -2900,7 +2900,7 @@
 	<l id="1967">L’honneur te le commande, et ton amour aussi ;</l>
 	<l id="1968">Et le cour affligé, qui t’en conjure ici.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="1969">Quand j’aurais plus perdu, que l’on ne croit encore,</l>
 	<l id="1970">Mon cour qui vous connaît, mon cour qui vous honore,</l>
 	<l id="1971">Serait dans le devoir, à votre auguste aspect :</l>
@@ -2934,7 +2934,7 @@
 	<l id="1999">Oui, vous perdez l’honneur, pour suivre un vain désir,</l>
 	<l id="2000">Et vous trouvez la peine en cherchant le plaisir.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="2001">Ciel, en cet accident je la rencontre telle,</l>
 	<l id="2002">Qu’elle m’obligerait, me devenant mortelle.</l>
 	<l id="2003">Je ne puis plus souffrir ce triste souvenir ;</l>
@@ -2954,42 +2954,42 @@
 	<l id="2017">Car je viens de me rendre en vous osant poursuivre,</l>
 	<l id="2018">Indigne de mourir, comme indigne de vivre.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="2019">Seigneur, ce repentir qui paraît en ce jour,</l>
 	<l id="2020">Est encore un effet, de la première amour.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="2021">Nullement, j’ai banni cette amour criminelle,</l>
 	<l id="2022">Aussi bien que l’espoir, que j’avais mis en elle :</l>
 	<l id="2023">Ce n’est qu’un sentiment, d’horreur et de pitié.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="2024">Mais l’amour quelques fois, ne paraît qu’amitié.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="2025">Je sais leur différence, et les dois bien connaître.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="2026">Ce premier fort souvent, se cache comme un traître.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="2027">Ha je le connais trop, pour l’endurer en moi.</l>
 	<l id="2028">Vous savez bien pourtant, qu’il est plus fort qu’un roi.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="2029">Oui qu’un roi suborné, par la voix d’un infâme ;</l>
 	<l id="2030">Mais après mes malheurs, il n’est plus dans mon âme.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="2031">Quoi seigneur, si tôt libre, et si tôt dégagé ?</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="2032">Mon cour n’est plus esclave, il n’est plus qu’affligé.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="2033">Quoi déjà sans amour ! Est-ce vous que j’écoute ?</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="2034">Oui c’est moi qui m’offense, en remarquant ce doute ;</l>
 	<l id="2035">Quand il arriverait par le pouvoir des cieux,</l>
 	<l id="2036">Qu’Eudoxe une autrefois se montrât à mes yeux,</l>
@@ -2998,10 +2998,10 @@
 	<l id="2039">Quand elle paraîtrait avec tous ses appats ;</l>
 	<l id="2040">Mon cour l’honorerait, et ne l’aimerait pas.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="2041">Seigneur l’objet présent, a beaucoup de puissance.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="2042">Ha tu ne connais pas quelle est ma repentance !</l>
 	<l id="2043">Ha tu ne connais pas quel est le changement,</l>
 	<l id="2044">Qu’aujourd’hui la raison a fait en un moment !</l>
@@ -3028,23 +3028,23 @@
 	<l id="2065">Qui m’ôte avec le jour, des sentiments si sombres.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE DERNIÈRE. Olimbre, Genséric, L’Impératrice, Ursace, Thrasimond.</head>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE DERNIÈRE.</head><cast>Olimbre, Genséric, L’Impératrice, Ursace, Thrasimond.</cast>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="2066">Voici, voici seigneur, ces bienheureuses ombres,</l>
 	<l id="2067">Qui viennent accorder à votre majesté,</l>
 	<l id="2068">Le pardon qu’elle implore et qu’elle a mérité.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="2069" part="i">Juste ciel !</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="2069" part="f">Oui seigneur leur désir est le vôtre ;</l>
 	<l id="2070">Mais en prenant un bien, accordez-en un autre ;</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="2071" part="i">Que vois-je ?</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="2071" part="f">C’est seigneur, qu’il vous plaise aujourd’hui ;</l>
 	<l id="2072">Puisqu’Ursace est vivant, que je sois toute à lui.</l>
 	<l id="2073">Il tient depuis longtemps ma parole engagée,</l>
@@ -3065,14 +3065,14 @@
 	<l id="2087">Ainsi toujours la gloire, accompagne vos pas,</l>
 	<l id="2088">Et vous rende immortel, après votre trépas.</l>
 </sp>
-<sp who="THRASIMOND"><speaker>THRASIMOND.</speaker>
+<sp who="THRASIMOND"><hstage><speaker>THRASIMOND</speaker>.</hstage>
 	<l id="2089">Ce fils qui fut si cher à la bonté d’un père,</l>
 	<l id="2090">Demande cette grâce, ou plutôt il l’espère :</l>
 	<l id="2091">Mais il demande encor, en ce bienheureux jour,</l>
 	<l id="2092">Que son père et son roi, consente à son amour.</l>
 	<l id="2093">Puisque la belle Eudoxe, a reçu son service.</l>
 </sp>
-<sp who="OLIMBRE"><speaker>OLIMBRE.</speaker>
+<sp who="OLIMBRE"><hstage><speaker>OLIMBRE</speaker>.</hstage>
 	<l id="2094">C’est ici, c’est ici qu’il faut qu’on accomplisse</l>
 	<l id="2095">Ce qu’un roi généreux, m’a promis tant de fois :</l>
 	<l id="2096">Suivez donc mes avis, ô le plus grand des rois ;</l>
@@ -3081,7 +3081,7 @@
 	<l id="2099">Comblez-moi de plaisir, en vous comblant d’honneur,</l>
 	<l id="2100">Et sauvez votre gloire, en sauvant mon bonheur.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="2101">Ô prince qu’à bon droit tout l’univers renomme,</l>
 	<l id="2102">Ici doit la vertu, vaincre un vainqueur de Rome,</l>
 	<l id="2103">Ici vous surmontant, sachez que sans flatter,</l>
@@ -3107,7 +3107,7 @@
 	<l id="2123">Après tant de douleurs, et tant de maux soufferts ;</l>
 	<l id="2124">Enfin je suis à vous, et j’ai déja des fers.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="2125">Ciel, il n’en faut point tant, pour une âme affligée,</l>
 	<l id="2126">Que le seul repentir, avait assez changée !</l>
 	<l id="2127">Esclave généreux, espère, et ne crains rien,</l>
@@ -3116,18 +3116,18 @@
 	<l id="2130">Rien, sinon que l’oubli puisse effacer ma faute ;</l>
 	<l id="2131">Madame, accordez-le par grâce, et par pitié :</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="2132">Seigneur, je vous l’accorde, avec notre amitié.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="2133">Adorable bonté, bien digne de l’empire !</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="2134">Vous savez dès longtemps que Marcian soupire,</l>
 	<l id="2135">Et dans Constantinople il faut l’aller trouver,</l>
 	<l id="2136">Pour le charmer du bien, qui nous vient d’arriver.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="2137">Oui, mais auparavant il faut que dans Carthage</l>
 	<l id="2138">Nous achevions demain ce triple mariage,</l>
 	<l id="2139">Après tant d’accidents, le plutôt vaut le mieux :</l>
@@ -3135,17 +3135,17 @@
 	<l id="2141">Qu’on ôte ce méchant, ce vrai monstre d’Afrique,</l>
 	<l id="2142">Et qu’on le sacrifie à la haine publique.</l>
 </sp>
-<sp who="IMPERATRICE"><speaker>L’IMPERATRICE.</speaker>
+<sp who="IMPERATRICE"><hstage><speaker>L’IMPERATRICE</speaker>.</hstage>
 	<l id="2143">Non seigneur son exil est assez rigoureux,</l>
 	<l id="2144">Ne marquez point de sang, ce beau jour tant heureux.</l>
 </sp>
-<sp who="GENSERIC"><speaker>GENSERIC.</speaker>
+<sp who="GENSERIC"><hstage><speaker>GENSERIC</speaker>.</hstage>
 	<l id="2145">Va donc, et va si loin, qu’aucun ne te revoit.</l>
 	<l id="2146">Mais ce funeste lieu, semble empêcher ma joie :</l>
 	<l id="2147">Sortons, et m’apprenez en cet heureux moment,</l>
 	<l id="2148">Quel ange vous sauva de cet embrasement.</l>
 </sp>
-<sp who="URSACE"><speaker>URSACE.</speaker>
+<sp who="URSACE"><hstage><speaker>URSACE</speaker>.</hstage>
 	<l id="2149">Ciel, enfin vous rendez ma gloire souveraine,</l>
 	<l id="2150">Et mon contentement, surpasse bien ma peine !</l>
 	<l id="2151">Que soyez vous bénit, et que le soit par moi,</l>

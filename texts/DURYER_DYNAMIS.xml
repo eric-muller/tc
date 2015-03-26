@@ -54,8 +54,8 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Proxène, Trasile.</head>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Proxène, Trasile.</cast>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="1">Que te sert de montrer par tant d’illustres marques</l>
 	<l id="2">Que le Ciel t’a donné les vertus des Monarques ?</l>
 	<l id="3">Que te sert d’aspirer au pouvoir souverain</l>
@@ -89,7 +89,7 @@
 	<l id="31">Non, non, passe plus loin, j’aime un grand Prince en toi,</l>
 	<l id="32">Mais ce n’est pas assez, j’y veux aimer un Roi.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="33">Que je prends de plaisir au vol où je m’engage,</l>
 	<l id="34">À te voir aujourd’hui douter de mon courage,</l>
 	<l id="35">Puisque j’apprends au moins par ce doute amoureux</l>
@@ -111,7 +111,7 @@
 	<l id="51">Et s’il ne te couronne, et s’il n’est couronné,</l>
 	<l id="52">Il mérite ta haine où je l’ai condamné.</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="53">Tu veux donc, me dis-tu, la Grandeur Souveraine,</l>
 	<l id="54">Comme le plus grand bien où le destin nous mène ?</l>
 	<l id="55">Cependant jusqu’ici quels desseins as-tu faits,</l>
@@ -134,11 +134,11 @@
 	<l id="72">Et qu’on tient rarement lorsque l’on veut régner.</l>
 	<l id="73" part="i">Tu ne me réponds rien.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="73" part="f">Contente-toi d’apprendre</l>
 	<l id="74">Que c’est là le chemin que Trasile doit prendre.</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="75">Crois-tu donc que mon cœur qui répond à tes vœux,</l>
 	<l id="76">Étant plein d’un secret, n’en puisse tenir deux ?</l>
 	<l id="77">Si je n’ignore pas que tu tends à l’Empire,</l>
@@ -154,7 +154,7 @@
 	<l id="87">Fais-moi voir des cercueils et des gouffres partout,</l>
 	<l id="88">Tous ces chemins sont beaux quand le Trône est au bout.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="89">Conserve donc toujours ce courage indomptable,</l>
 	<l id="90">Si j’expose à tes yeux un chemin effroyable.</l>
 	<l id="91">Tu sais bien que le Roi mourut dans le combat</l>
@@ -170,11 +170,11 @@
 	<l id="101">Tout s’étouffe et se perd dans la haine secrète</l>
 	<l id="102">Qui naquit de la mort du Roi que l’on regrette.</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="103">Je ne vois pas encor où tendent tes desseins,</l>
 	<l id="104">Ni comment le pouvoir tombera dans tes mains.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="105">Comme Arcas est partout un grand objet de haine,</l>
 	<l id="106">L’aversion publique ira jusqu’à la Reine,</l>
 	<l id="107">Si la Reine, oubliant et sa gloire et sa foi,</l>
@@ -194,12 +194,12 @@
 	<l id="121">Mais au moins mes exploits ont bien eu la puissance</l>
 	<l id="122">D’effacer le défaut qu’on vit à ma naissance.</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="123">Mais si la Reine juste en cette occasion,</l>
 	<l id="124">Ne montre pour Arcas que de l’aversion,</l>
 	<l id="125" part="i">Que ferez-vous alors ?</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="125" part="f">J’ai déjà fait en sorte</l>
 	<l id="126">Qu’à ce honteux hymen sa volonté se porte.</l>
 	<l id="127">J’ai gagné son Conseil, qui travaille pour moi,</l>
@@ -209,7 +209,7 @@
 	<l id="131">Et sans que je lui parle, on inspire en son cœur</l>
 	<l id="132">Tout ce qui peut la perdre et me rendre vainqueur.</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="133">Gardez-vous de vous tromper par une vaine attente,</l>
 	<l id="134">Je crains avec raison qu’elle aime Poliante.</l>
 	<l id="135">Il a tout le bonheur qui peut le faire aimer,</l>
@@ -232,7 +232,7 @@
 	<l id="152">L’amour naîtra bientôt s’il n’est pas déjà né.</l>
 	<l id="153" part="i">Pensez-y.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="153" part="f">C’en est fait, et quoi qu’il en succède,</l>
 	<l id="154">Tout le mal que tu crains a déjà son remède.</l>
 	<l id="155">Ainsi par des raisons d’intérêt et d’État,</l>
@@ -247,25 +247,25 @@
 	<l id="164">Il y sera contraint par la nécessité.</l>
 	<l id="165">Pourrait-on mieux conduire une grande entreprise ?</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="166">Si le sort est pour toi, l’espérance est permise.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="167">Le sort sera pour nous, mais cache ce dessein.</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="168">Il est mieux dans mon cœur qu’il n’est pas dans ton sein,</l>
 	<l id="169">Tu me l’as découvert, et je saurai le taire.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="170" part="i">Mais on ouvre.</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="170" part="m">Je sors.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Dynamis, Trasile.</head>
-<sp who="DYNAMIS"><speaker>DYNAMIS parlant à quelques-uns.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Dynamis, Trasile.</cast>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker> parlant à quelques-uns.</hstage>
 	<l id="170" part="f">Oui ma gloire m’est chère.</l>
 	<l id="171">C’est trop vous écouter, conseillers odieux,</l>
 	<l id="172">Apprenez à donner des Conseils glorieux ;</l>
@@ -291,29 +291,29 @@
 	<l id="191">C’est ici qu’il sied bien à leurs Royales mains</l>
 	<l id="192">D’aller percer les cœurs d’où viennent ces desseins.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="193">Ce discours me surprend, ce conseil est étrange.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="194">Aussi sur ses auteurs il faut que je me venge.</l>
 	<l id="195">Mais hélas, par un sort horrible et sans pareil,</l>
 	<l id="196">Il en faudrait punir tous ceux de mon Conseil.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="197">Jusqu’ici toutefois il fut toujours fidèle.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="198">J’ai sujet aujourd’hui de douter de son zèle.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="199">Ceux qui vous défendaient dans votre adversité,</l>
 	<l id="200">Voudraient-ils vous trahir dans la prospérité ?</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="201">Quand d’un nouvel espoir une âme s’est repue,</l>
 	<l id="202">Quelle fidélité n’a-t-on pas corrompue ?</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="203">Mais quels biens, quels honneurs, et quels destins si doux,</l>
 	<l id="204">Espèrent-ils d’Arcas qu’ils n’aient reçu de vous ?</l>
 	<l id="205">Ce n’est pas que je veuille embrasser leur défense,</l>
@@ -335,7 +335,7 @@
 	<l id="221">Lui de vous conseiller ce honteux hyménée,</l>
 	<l id="222">Vous d’en avoir longtemps l’espérance donnée.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="223">Si j’ai failli, mon frère, il devait résister,</l>
 	<l id="224">Me remontrer ma faute, et non pas la flatter.</l>
 	<l id="225">Périssent ces esprits, dont le soin mercenaire</l>
@@ -349,11 +349,11 @@
 	<l id="233">Que le premier bourreau de son cœur sanguinaire,</l>
 	<l id="234">Soit de désespérer du Trône qu’il espère.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="235">Mais enfin quels témoins avez-vous aujourd’hui</l>
 	<l id="236">Qui vous montrent son crime et parlent contre lui ?</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="237">L’ambitieux désir qu’il a de la Couronne,</l>
 	<l id="238">L’horreur que j’ai pour lui, la haine qu’il me donne,</l>
 	<l id="239">Et pour dire en un mot tout ce que je conçois,</l>
@@ -373,7 +373,7 @@
 	<l id="253">Cette main insensible à toute autre victoire,</l>
 	<l id="254">Fera de mon sépulcre un rempart à ma gloire.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="255">Quoi donc, si cet hymen qui vous fait tant de peur,</l>
 	<l id="256">Était de cet État la force et le bonheur,</l>
 	<l id="257">Un bruit trompeur et faux, un bruit que rien ne fonde</l>
@@ -385,7 +385,7 @@
 	<l id="263">La Reine, dira-t-on, dont l’esprit fut surpris,</l>
 	<l id="264">A vu son innocence, et lui donne son prix.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="265">Ou plutôt, dira-t-on pour mon propre supplice,</l>
 	<l id="266">L’Amour peut tout corrompre et même la Justice.</l>
 	<l id="267">Enfin quand la vertu me viendrait assurer</l>
@@ -395,18 +395,18 @@
 	<l id="271">Et croirais que mon cœur par elle combattu</l>
 	<l id="272">Aurait juste raison de haïr la vertu.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="273">Mais Arcas est puissant, et je crains son absence.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="274">Mais au moins il est homme avecque sa puissance,</l>
 	<l id="275">Et quoi qu’il usurpât un Trône et des Autels,</l>
 	<l id="276">Au moins mes Ennemis ne sont pas immortels.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="277" part="i">Quoi voulez-vous sa mort ?</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="277" part="f">Quoi voulez-vous sa vie ?</l>
 	<l id="278">Voulez-vous que mon cœur réponde à son envie ?</l>
 	<l id="279">Voulez-vous me montrez que mon frère s’est mis</l>
@@ -424,7 +424,7 @@
 	<l id="291">Et vous mériteriez qu’un autre vous l’ôtât</l>
 	<l id="292">Si vous ne vengiez pas la honte de l’État.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="293">Ô nobles sentiments ! Ha pardonnez, Madame,</l>
 	<l id="294">À l’injuste soupçon qui glissa dans mon âme.</l>
 	<l id="295">Cette feinte douceur dont vous flattiez Arcas,</l>
@@ -438,10 +438,10 @@
 	<l id="303">Mais pour le réparer, me voilà sans effroi</l>
 	<l id="304">Tout prêt à vous venger sur Arcas et sur moi.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="305">C’est par ce sentiment que je connais mon frère.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="306">Cependant vous savez ce qu’on ne peut plus taire,</l>
 	<l id="307">Que Poliante seul, l’appui de vos États,</l>
 	<l id="308">Est pourtant moins aimé que le coupable Arcas.</l>
@@ -450,17 +450,17 @@
 	<l id="311">Et qu’en un même temps et l’hymen et l’amour</l>
 	<l id="312">Chez ce Prince étranger ne transporte la Cour.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="313">Nous y saurons donner les ordres nécessaires.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="314">Ô cœurs intéressés ! Ô sujets téméraires !</l>
 	<l id="315">Qui vous permettez tout, qui n’avez point de lois,</l>
 	<l id="316">Voulez-vous donc en faire aux désirs de vos Rois.</l>
 	<l id="317">Ha si vous n’aimiez pas le Prince Poliante,</l>
 	<l id="318" part="i">Je croirais...</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="318" part="f">Ne crois rien, je l’aime, et je m’en vante.</l>
 	<l id="319">Après son grand secours si je ne l’aime pas,</l>
 	<l id="320">Je fais voir une Reine au nombre des ingrats.</l>
@@ -477,21 +477,21 @@
 	<l id="331">Et nous pouvons aimer un Roi si plein d’attraits</l>
 	<l id="332">Comme on aime les Dieux que l’on ne voit jamais.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="333">Ainsi vous contentez et l’État et vous-mêmes.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="334">Ainsi toujours constant montre moi que tu m’aimes,</l>
 	<l id="335">Et crois que je m’estime aussi forte par toi,</l>
 	<l id="336">Que par ce grand pouvoir qui fait régner un Roi.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="337">Si le zèle et la foi d’une âme obéissante</l>
 	<l id="338">Rendent les Rois puissants, que vous êtes puissante !</l>
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="TRASILE"><speaker>TRASILE, seul.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>, seul.</hstage>
 	<l id="339">Vois donc, n’ai-je pas formé qu’un fantôme trompeur,</l>
 	<l id="340">Lorsque ce grand dessein se formait dans mon cœur ?</l>
 	<l id="341">N’ai-je, par des chemins mal assurés et sombres,</l>
@@ -510,8 +510,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Dynamis, Poliante.</head>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Dynamis, Poliante.</cast>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="353">J’ai vu d’un œil constant et d’un cœur invincible,</l>
 	<l id="354">Tout ce que la fortune avait de plus horrible,</l>
 	<l id="355">J’ai vu sans me troubler tout mon État troublé,</l>
@@ -533,7 +533,7 @@
 	<l id="371">Et parmi cet effroi mon esprit abattu</l>
 	<l id="372">Cherche et ne trouve pas sa première vertu.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="373">Si mon bras combattant pour votre seule gloire,</l>
 	<l id="374">A pour vous remporté victoire sur victoire,</l>
 	<l id="375">Si je vous ai fait voir par un cœur enflammé</l>
@@ -547,13 +547,13 @@
 	<l id="383">Que n’obtiendrez-vous pas contre un plus grand tourment</l>
 	<l id="384">Et du bras d’un Monarque, et du cœur d’un Amant ?</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="385">Tout ; et ce que je crains, c’est que ton grand courage</l>
 	<l id="386">Ne soit pas assez fort contre un dernier orage ;</l>
 	<l id="387">Et que ton cœur surpris par de nouveaux combats</l>
 	<l id="388">Ne puisse supporter un coup qu’il n’attend pas.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="389">Je mourrais mille fois avec un œil tranquille,</l>
 	<l id="390">Si mille fois ma mort pouvait vous être utile.</l>
 	<l id="391">Me croiriez-vous, Madame, et fort et généreux,</l>
@@ -566,36 +566,36 @@
 	<l id="398">Sans l’épreuve qu’en fait le péril et la peine.</l>
 	<l id="399" part="i">Donnez, donnez ce coup.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="399" part="f">C’est, c’est, sans te flatter,</l>
 	<l id="400" part="i">Le dirai-je ?</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="400" part="m">Achevez.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="400" part="f">C’est qu’il faut me quitter.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="401" part="i">Ô Dieux !</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="401" part="f">Ne te plains pas, et si je t’abandonne</l>
 	<l id="402">Je ressens mieux que toi le coup que je te donne.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="403" part="i">Vous quitter !</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="403" part="m">Il le faut.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="403" part="f">Et vous m’avez aimé !</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="404" part="i">Il le faut, et je t’aime.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="404" part="f">Ô mot qui m’as charmé !</l>
 	<l id="405">Ô mot que j’aurais seul acheté d’un Empire !</l>
 	<l id="406">Mais il faut obéir, ma Reine le désire.</l>
@@ -607,17 +607,17 @@
 	<l id="412">Sait pour vous obéir se rendre malheureux.</l>
 	<l id="413" part="i">Madame, dès demain.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="413" part="f">C’est bientôt se résoudre.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="414">Si je devais périr par les flammes du foudre,</l>
 	<l id="415">J’irais d’un pas superbe au-devant de ses feux,</l>
 	<l id="416">Plutôt que de languir et de faire des vœux ;</l>
 	<l id="417">Et si je ne pouvais éviter mon naufrage,</l>
 	<l id="418">Mon naufrage du moins ferait voir mon courage.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="419">C’est bientôt se résoudre à cette dure loi ;</l>
 	<l id="420">Un cœur n’est pas si fort, quand l’Amour est son Roi ;</l>
 	<l id="421">Et l’Amour n’est pas grand et n’est jamais extrême,</l>
@@ -645,7 +645,7 @@
 	<l id="443">Enfin j’adoucirai des maux si rigoureux,</l>
 	<l id="444">En me disant au moins ce que j’aime est heureux.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="445">Ha ne me faites point par cet œil en colère</l>
 	<l id="446">Le reproche cruel que je pourrais vous faire.</l>
 	<l id="447">Lequel brûle aujourd’hui d’un feu plus véhément</l>
@@ -683,7 +683,7 @@
 	<l id="479">Est-ce que vous croyez contenter vos États,</l>
 	<l id="480">En nous abandonnant aux passions d’Arcas ?</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="481">Est-ce que vous voulez vous acquérir ma haine</l>
 	<l id="482">Par une opinion si honteuse et si vaine ?</l>
 	<l id="483">Est-ce pour obliger mon esprit furieux</l>
@@ -691,7 +691,7 @@
 	<l id="485">C’est le plus grand effort du feu qui me dévore,</l>
 	<l id="486">D’entendre ce reproche et de brûler encore.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="487">Hélas dans ce transport trop indigne du jour,</l>
 	<l id="488">La fureur a parlé, mais non pas mon Amour ;</l>
 	<l id="489">Et quand même l’Amour aurait commis ce crime,</l>
@@ -707,7 +707,7 @@
 	<l id="499">Et quand par cet exil on voudrait m’outrager,</l>
 	<l id="500">J’ai même assez d’Amour pour ne me pas venger.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="501">Sache que tes vertus à mon âme si chères,</l>
 	<l id="502">T’ont fait dans cet État de secrets adversaires,</l>
 	<l id="503">Et que leur cruauté dont je crains les effets,</l>
@@ -720,29 +720,29 @@
 	<l id="510">Mais que voudrait Proclée, et que veut-elle dire ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Proclée, Dynamis, Poliante.</head>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Proclée, Dynamis, Poliante.</cast>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="511">Ha, Madame, il est temps de redouter Arcas ;</l>
 	<l id="512">Pour venir jusqu’à vous il n’a qu’à faire un pas.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="513" part="i">Comment ! Que dites-vous ?</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="513" part="f">Tout est rempli d’alarmes,</l>
 	<l id="514">Il approche d’ici, mais il approche en armes.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="515">Un bruit faux et trompeur fait ton étonnement,</l>
 	<l id="516">Il est sans apparence, il est sans fondement.</l>
 	<l id="517">Verrait-on approcher des troupes de rebelles,</l>
 	<l id="518">Sans que la renommée en eût dit des nouvelles ?</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="519">On peut secrètement par quelques conjurés</l>
 	<l id="520">À quelque rendez-vous les avoir attirés.</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="521">C’est ce qu’on dit, madame, et l’on dit davantage,</l>
 	<l id="522">Mais le dirai-je ici sans vous faire un outrage ;</l>
 	<l id="523">La crainte et le respect semblent m’en empêcher,</l>
@@ -752,17 +752,17 @@
 	<l id="527">Afin que les efforts de ce Prince insensé</l>
 	<l id="528">Excusent votre hymen qui paraîtra forcé.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="529">Ô de tous mes malheurs le plus épouvantable !</l>
 	<l id="530">Que peut-on ajouter à ce coup effroyable ?</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="531" part="i">On dit...</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="531" part="f">Que dirait-on de plus grand ou d’égal ?</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="532">On achève l’injure, on confirme le mal.</l>
 	<l id="533">On dit que sous couleur que la paix renaissante</l>
 	<l id="534">Rendait de votre État la face plus riante,</l>
@@ -773,15 +773,15 @@
 	<l id="539">Pour rendre Arcas plus fort et plus autorisé,</l>
 	<l id="540">Et lui tracer au Trône un chemin plus aisé.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="541">Qu’ai-je fait, justes Dieux, et par quelle apparence</l>
 	<l id="542">Ai-je mis dans les cœurs cette indigne croyance ?</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="543">Ne vous affligez point de ces bruits différents,</l>
 	<l id="544">Vous avez surmontés des ennemis plus grands.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="545">Non, non, je ne vois rien qui soit plus redoutable,</l>
 	<l id="546">L’opinion publique est un monstre indomptable ;</l>
 	<l id="547">Les Rois peuvent beaucoup avec leurs légions,</l>
@@ -789,11 +789,11 @@
 	<l id="549">Et ne triomphent point de ces monstres infâmes</l>
 	<l id="550">Que les bruits faux ou vrais font naître dans les âmes.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="551">Vos vertus les vaincront ces bruits injurieux,</l>
 	<l id="552">Et j’ai pour vous encor un bras victorieux.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="553">Seigneur, reposez-vous, et laissez-moi la gloire</l>
 	<l id="554">De remporter au moins cette seule victoire.</l>
 	<l id="555">Ici pour étouffer des bruits trop inhumains,</l>
@@ -802,28 +802,28 @@
 	<l id="558">Démentir hautement l’opinion publique.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Proxène, Dynamis, Trasile.</head>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Proxène, Dynamis, Trasile.</cast>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="559">Qu’a la Reine, Proclée, elle est triste à la voir.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="560">Oui, le traître apprendra ce que peut mon pouvoir ;</l>
 	<l id="561">Et qu’une femme seule est toujours assez forte,</l>
 	<l id="562">Quand l’amour de l’honneur l’anime et la transporte.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Dynamis, Trasile, Poliante, Proxène.</head>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Dynamis, Trasile, Poliante, Proxène.</cast>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="563" part="i">Mon Frère.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="563" part="m">Quoi ? Madame.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="563" part="f">Avance-t-il Arcas ?</l>
 	<l id="564">Et pour nous enlever marche-t-il sur vos pas ?</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="565">Il faut auparavant que ses mains inhumaines</l>
 	<l id="566">Aient versé tout le sang que vous gardent mes veines.</l>
 	<l id="567">Non, non, la passion qui vous le rend suspect,</l>
@@ -833,44 +833,44 @@
 	<l id="571">Et qu’il n’espère rien qu’un peu d’affection</l>
 	<l id="572">N’ait permis d’espérer à son ambition.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="573" part="i">Qu’un peu d’affection...</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="573" part="f">C’est ce qu’il faut entendre.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="574">Qu’un peu d’affection ne lui fasse prétendre.</l>
 	<l id="575">Le traître éprouvera par sa punition</l>
 	<l id="576">Ce qu’il peut espérer de cette affection.</l>
 	<l id="577">Le traître éprouvera que l’Amour ne l’amène</l>
 	<l id="578">Que pour le voir bientôt immoler à ma haine.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="579">Arcas n’est pas si fort qu’il puisse faire peur ;</l>
 	<l id="580">Mais il faut s’opposer contre un autre malheur.</l>
 	<l id="581">Seigneur, il vous regarde. Il est venu nouvelle</l>
 	<l id="582">Que votre État en feu se trouble et se rebelle.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="583" part="i">Ô Dieux ! Que dites-vous ?</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="583" part="f">J’annonce malgré moi</l>
 	<l id="584">Le plus grand des malheurs que doive craindre un Roi.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="585">Ce mal n’est pas si grand qu’un faux bruit le veut rendre,</l>
 	<l id="586">J’en sais déjà la source et le cours qu’il doit prendre.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="587" part="i">Quoi, Seigneur ?</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="587" part="f">Oui, je sais par des avis certains</l>
 	<l id="588">Qu’un tas de mécontents ont fait quelques desseins.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="589">Allez sans différer avec votre présence</l>
 	<l id="590">À la rébellion imposer le silence.</l>
 	<l id="591">Hâtez-vous, armez-vous de foudres éclatants,</l>
@@ -880,11 +880,11 @@
 	<l id="595">Vous savez ce que peut votre bras glorieux,</l>
 	<l id="596">Allez donc éprouver ce que peuvent vos yeux.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="597">J’ai prévu dès longtemps ce désordre funeste,</l>
 	<l id="598">Et le remède est prêt qui vaincra cette peste.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="599">Seigneur, votre présence est le meilleur secours</l>
 	<l id="600">Qui d’un mal si soudain puisse arrêter le cours.</l>
 	<l id="601">Ceux en qui vous avez le plus de confiance,</l>
@@ -904,7 +904,7 @@
 	<l id="615">Qu’elle voulût pour soi retenir votre bras</l>
 	<l id="616">Lorsque vous le devez au bien de vos États ?</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="617">Non, non, à votre bien ma fortune sensible</l>
 	<l id="618">Ne veut point d’un secours qui vous serait nuisible,</l>
 	<l id="619">Je fuirais de la gloire où je prétends monter,</l>
@@ -914,7 +914,7 @@
 	<l id="623">Et le plus beau travail des Monarques parfaits</l>
 	<l id="624">C’est d’établir chez eux le repos et la paix.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="625">Quand j’aurai fait pour vous, ô Princesse adorable,</l>
 	<l id="626">Tout ce que je dois faire en amant véritable,</l>
 	<l id="627">Alors déjà vainqueur j’entreprendrai pour moi</l>
@@ -942,7 +942,7 @@
 	<l id="649">Et cette juste crainte et leur propre impuissance</l>
 	<l id="650">Remettront le devoir où régnait l’insolence.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="651">Ce remède est douteux, suivez le plus certain,</l>
 	<l id="652">Allez, et paraissez les armes à la main.</l>
 	<l id="653">De quelque grand remords qu’une âme soit atteinte</l>
@@ -954,13 +954,13 @@
 	<l id="659">Si l’Amour vous abaisse au rang de mes sujets,</l>
 	<l id="660">Rendez obéissance aux ordres que je fais.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="661">Oui, j’ai toujours fait gloire, ô Reine incomparable,</l>
 	<l id="662">D’être de vos sujets le plus inébranlable ;</l>
 	<l id="663">Mais je fais gloire aussi dans un mal si pressant</l>
 	<l id="664">D’être pour vous servir le moins obéissant.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="665">Est-ce paraître Roi, qui veut se faire craindre,</l>
 	<l id="666">De voir son Trône en flamme et de ne pas l’éteindre !</l>
 	<l id="667">Est-ce paraître Roi digne de son bonheur,</l>
@@ -968,11 +968,11 @@
 	<l id="669">Ainsi puisque l’Amour nous met tous deux en peine</l>
 	<l id="670">Je le chasse avec vous, et je veux votre haine.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="671">Ainsi je ferai voir un Amour plus parfait,</l>
 	<l id="672">Lorsque je combattrai pour un cœur qui me hait.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="673">Songez, songez au moins qu’il n’est rien sur la terre</l>
 	<l id="674">Qui soit plus incertain que le sort de la guerre.</l>
 	<l id="675">Si le traître triomphe et de vous et de moi,</l>
@@ -982,13 +982,13 @@
 	<l id="679">Voulez-vous que mon sang que mes mains verseront</l>
 	<l id="680">Vous accuse du coup que vos yeux pleureront.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="681">C’est faire au bon parti de trop grandes injures,</l>
 	<l id="682">Que de vous figurer ces tristes aventures.</l>
 	<l id="683">On ne perd point sa cause et ses noms glorieux,</l>
 	<l id="684">Quand on a le bon droit, et pour Juges les Dieux.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="685">Enfin vous me forcez d’achever un ouvrage</l>
 	<l id="686">Qu’un glorieux mépris inspire à mon courage,</l>
 	<l id="687">Qui me met à couvert des poursuites d’Arcas,</l>
@@ -1018,10 +1018,10 @@
 	<l id="711">Alors à mon repos j’ajouterai ce bien,</l>
 	<l id="712">De sauver votre Sceptre en méprisant le mien.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="713" part="i">C’est donc pour me chasser que vous...</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="713" part="f">C’est pour contraindre</l>
 	<l id="714">La fortune à gémir, elle qui me fit plaindre.</l>
 	<l id="715">Hé quoi ! Si vous m’aimez trouverez-vous mauvais</l>
@@ -1029,18 +1029,18 @@
 	<l id="717">Enfin de la Grandeur je veux quitter les marques,</l>
 	<l id="718">Et vous mettre, mon frère, au nombre des Monarques.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="719">Moi ! Madame, non, non, je suis trop satisfait</l>
 	<l id="720">Du titre glorieux de fidèle sujet.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="721">Un Prince bon sujet donne une belle marque</l>
 	<l id="722">Que s’il avait un Trône il serait bon Monarque.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="723">Ha ! Madame, le Sceptre est bien entre vos mains.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="724">Craignez-vous de paraître au rang des Souverains ?</l>
 	<l id="725">Craignez-vous les soucis que la Couronne excite ?</l>
 	<l id="726">La craignez-vous enfin parce que je la quitte ?</l>
@@ -1049,7 +1049,7 @@
 	<l id="729">Que ce commandement que je te fais sans peine,</l>
 	<l id="730">Soit enfin le dernier que nous ferons en Reine.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="731">Puisque vous le voulez je prendrai ce fardeau,</l>
 	<l id="732">Que je trouve déjà plus pesant qu’il n’est beau.</l>
 	<l id="733">Nous recevrons un Trône afin de le défendre,</l>
@@ -1059,7 +1059,7 @@
 	<l id="737">Qu’afin de vous le rendre en frère incomparable,</l>
 	<l id="738">Par la perte d’Arcas plus puissant et plus stable.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="739">Ô frère généreux et digne de sa sœur !</l>
 	<l id="740">Lequel, ô justes Dieux, fait voir un plus grand cœur,</l>
 	<l id="741">Lequel est plus Illustre, ou bien celle qui donne,</l>
@@ -1085,10 +1085,10 @@
 	<l id="761">Et pour une alliance et plus noble et plus chère</l>
 	<l id="762">Que j’offre ici ma sœur à votre illustre frère.</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="763" part="i">Sa sœur ! Qu’entends-je ?</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="763" part="f">J’accepte et je reçois</l>
 	<l id="764">Ce glorieux présent que me fait un grand Roi.</l>
 	<l id="765">Mais puisque par un don si grand et si sublime</l>
@@ -1098,16 +1098,16 @@
 	<l id="769">Je n’ai plus rien ici qu’Arcas puisse prétendre,</l>
 	<l id="770">Votre Trône est mon Trône, allez donc le défendre.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="771" part="i">Où me réduisez-vous ?</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="771" part="f">Elle sort, il la suit.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="772">Puis-je de mes desseins espérer plus de fruit ?</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="773">Il passe sans me voir, et son âme inconstante</l>
 	<l id="774">Semble déjà goûter l’offre de Poliante.</l>
 	<l id="775">Prends garde, Ambitieux, qu’un Amour irrité</l>
@@ -1116,8 +1116,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Proxène, Poliante.</head>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Proxène, Poliante.</cast>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="777">Trasile me fuirait ! Moi qui connais son crime,</l>
 	<l id="778">Et qui puis aisément en faire ma victime ?</l>
 	<l id="779">Mais que ne ferait pas un cœur ambitieux,</l>
@@ -1139,7 +1139,7 @@
 	<l id="795">Et qu’un prompt châtiment montre à vos factieux</l>
 	<l id="796">Que le parti des Rois est le parti des Dieux ?</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="797">Oui, le Ciel a pour moi combattu mes rebelles,</l>
 	<l id="798">Je viens d’en recevoir les heureuses nouvelles :</l>
 	<l id="799">Enfin en s’allumant cette flamme a cessé,</l>
@@ -1149,7 +1149,7 @@
 	<l id="803">En ce même moment, qui nous a satisfaits,</l>
 	<l id="804">On voyait arriver le Courrier de la Paix.</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="805">Que mon cœur, qui respecte et chérit votre gloire !</l>
 	<l id="806">Prend de part aux douceurs d’une telle victoire.</l>
 	<l id="807">Que j’en prévois de biens pour deux puissants États !</l>
@@ -1160,15 +1160,15 @@
 	<l id="812">Pourrait-il mériter le Trône qui l’attend ?</l>
 	<l id="813">Non, non, ce que l’on dit se dit sans apparence.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="814" part="i">Que dit-on ?</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="814" part="f">Qu’il se paît d’une vaine constance,</l>
 	<l id="815">Et qu’enfin ses esprits autre part arrêtés,</l>
 	<l id="816">Refusent le grand bien que vous lui présentez.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="817">Que Trasile à ma sœur refuse sa conquête !</l>
 	<l id="818">Que dans d’autres liens une autre Amour l’arrête !</l>
 	<l id="819">Ce bruit est un trompeur, ce bruit est aussi faux</l>
@@ -1180,7 +1180,7 @@
 	<l id="825">Si vous la connaissez, cachez-lui ce mystère,</l>
 	<l id="826">De peur qu’en aimant trop elle n’en désespère.</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="827">Je m’en consolerais, Seigneur, si c’était moi.</l>
 	<l id="828">C’est gloire de céder à la sœur d’un grand Roi.</l>
 	<l id="829">Trasile se doit plus qu’aux yeux de la plus belle ;</l>
@@ -1188,24 +1188,24 @@
 	<l id="831">La constance n’est pas en cette occasion</l>
 	<l id="832">La vertu des Amants de sa condition.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="833" part="i">Quoi vous prenez parti ?</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="833" part="f">Non, non, ou l’on doit croire</l>
 	<l id="834">Que je prends le parti de votre seule gloire</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="835">Ainsi vous ajoutez d’autres biens à mes biens.</l>
 	<l id="836" part="i">Vous allez chez la Reine ?</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="836" part="m">Oui, Seigneur.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="836" part="f">J’en reviens.</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE seule.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker> seule.</hstage>
 	<l id="837">Céderai-je au transport qu’excite la colère ?</l>
 	<l id="838">Mais j’aperçois la sœur, il faut revoir le frère ;</l>
 	<l id="839">Et si ce frère ingrat me montre un lâche cœur,</l>
@@ -1213,7 +1213,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="DYNAMIS"><speaker>DYNAMIS seule.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker> seule.</hstage>
 	<l id="841">À quelle extrémité me suis-je destinée ?</l>
 	<l id="842">Vouloir abandonner un Trône où je suis née ;</l>
 	<l id="843">Vouloir sortir du rang et du nombre des Dieux,</l>
@@ -1272,14 +1272,14 @@
 	<l id="896">Sont indignes de moi, s’ils ne sont orgueilleux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Dynamis, Trasile.</head>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Dynamis, Trasile.</cast>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="897">Mon frère, j’ai d’un œil qu’éclaire la prudence</l>
 	<l id="898">Du dessein que j’ai fait regardé l’importance.</l>
 	<l id="899">Je vois bien qu’il est grand, illustre et généreux,</l>
 	<l id="900">Et qu’en nous dépouillant il nous rend bien heureux.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="901">Ainsi votre repos, comme celui des Sages,</l>
 	<l id="902">Ne sera point troublé ni sujet aux orages,</l>
 	<l id="903">Et vous ne perdrez pas le pouvoir souverain,</l>
@@ -1287,7 +1287,7 @@
 	<l id="905">Puisque je n’emploierai la force qu’il me donne</l>
 	<l id="906">Que pour vous élever plus haut que la Couronne.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="907">Enfin de quelque espoir qu’on se puisse flatter,</l>
 	<l id="908">La Couronne a des maux qu’on ne peut éviter ;</l>
 	<l id="909">Plus grand est le repos, plus grande est la conquête</l>
@@ -1315,7 +1315,7 @@
 	<l id="931">Car enfin si le Trône est quelquefois un bien,</l>
 	<l id="932">C’est quand il est tranquille, et qu’il ne craint plus rien.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="933">Vous me donner bien plus en gardant la Couronne.</l>
 	<l id="934">Que quand votre faveur me l’offre et me la donne.</l>
 	<l id="935">La générosité vous la faisait céder,</l>
@@ -1323,7 +1323,7 @@
 	<l id="937">Et je venais ici poussé d’un zèle extrême,</l>
 	<l id="938">Vous donner le conseil qui vous vient de vous-même.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="939">Ainsi puisque les Rois, seuls Juges souverains,</l>
 	<l id="940">Tiennent comme les Dieux la Justice en leurs mains,</l>
 	<l id="941">Je condamne à la mort ce Prince détestable,</l>
@@ -1335,18 +1335,18 @@
 	<l id="947">Le sang d’un Ennemi de l’État et des Lois,</l>
 	<l id="948">Est le plus beau présent qu’on puisse faire aux Rois.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="949">Mais il fait demander, et je viens de l’apprendre,</l>
 	<l id="950">Si par ses Députés vous le voulez entendre.</l>
 	<l id="951" part="i">Il faudrait l’écouter.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="951" part="m">L’écouter ?</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="951" part="f">Je le crois.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="952">Il faudrait l’écouter ! Vous fait-il de l’effroi ?</l>
 	<l id="953">Qu’il vienne en criminel qui demande sa grâce,</l>
 	<l id="954">Que son remords l’amène, et non pas son audace,</l>
@@ -1373,7 +1373,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="TRASILE"><speaker>TRASILE seul.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker> seul.</hstage>
 	<l id="975">Mais, ô trop inhumaine et trop cruelle sœur,</l>
 	<l id="976">L’amitié t’apprend-t-elle à me percer le cœur ?</l>
 	<l id="977">L’amitié t’apprend-t-elle à montrer ta puissance,</l>
@@ -1410,8 +1410,8 @@
 	<l id="1008">Que peut-être quelqu’un aura quelque succès.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Proxène, Trasile.</head>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Proxène, Trasile.</cast>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="1009">Enfin sans de grands maux vous obtenez la gloire</l>
 	<l id="1010">Que donne rarement la force et la victoire ;</l>
 	<l id="1011">Et j’offrirai du moins la première à mon Roi,</l>
@@ -1421,10 +1421,10 @@
 	<l id="1015">Mais comme d’un objet qui serait odieux,</l>
 	<l id="1016">Il détourne de nous et l’oreille et les yeux.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1017">Non, je n’épargnerai ni le sang ni la peine.</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="1018">Il ne faut plus douter d’une chose certaine.</l>
 	<l id="1019">Je n’ai donc plus d’appas, ni Trasile de foi ;</l>
 	<l id="1020">J’aurais donc des beautés si j’étais sœur d’un Roi ?</l>
@@ -1435,11 +1435,11 @@
 	<l id="1025">Et de quelque mépris que vous donniez des marques,</l>
 	<l id="1026">J’excuse cet orgueil en de nouveaux Monarques.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1027">Venez-vous donc, cruelle, au lieu de m’assister,</l>
 	<l id="1028">Aider à la fortune à me persécuter ?</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="1029">Vous plaignez-vous déjà que la Couronne pèse ?</l>
 	<l id="1030">Que l’on n’est pas assis sur un Trône à son aise ?</l>
 	<l id="1031">Et que le plus beau Sceptre aux yeux de l’Univers,</l>
@@ -1449,17 +1449,17 @@
 	<l id="1035">Ce n’est pas mériter pour prix de ses travaux,</l>
 	<l id="1036">La gloire d’être Roi, que d’en craindre les maux.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1037">Est-ce haine, risée, ou plutôt jalousie ?</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="1038">C’est, si vous le voulez, c’est une frénésie,</l>
 	<l id="1039" part="i">Mais...</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1039" part="m">Mais écoutez-moi...</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="1039" part="f">Plus vous me parlerez,</l>
 	<l id="1040">Esprit ambitieux, plus vous me tromperez,</l>
 	<l id="1041">Voulez-vous excusez une âme criminelle,</l>
@@ -1473,7 +1473,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="TRASILE"><speaker>TRASILE seul.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker> seul.</hstage>
 	<l id="1049">Quoi, tu m’as menacé ? Mais parmi ces disgrâces,</l>
 	<l id="1050">Tu m’apprends à te perdre alors que tu menaces.</l>
 	<l id="1051">Ô Dieux, qui m’inspirez ces desseins glorieux,</l>
@@ -1514,62 +1514,62 @@
 	<l id="1086">Et sauvons-nous enfin d’un crime par un crime.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Proclée, Trasile.</head>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Proclée, Trasile.</cast>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1087" part="i">Seigneur, où courez-vous ?</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1087" part="m">Chez la Reine.</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1087" part="f">Je crois</l>
 	<l id="1088" part="i">Que vous devez attendre.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1088" part="f">Attendre, attendre, moi !</l>
 	<l id="1089" part="i">En sais-tu le sujet ?</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1089" part="f">Quelqu’un en diligence</l>
 	<l id="1090">Est venu pour lui dire un secret d’importance.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1091" part="i">Qui donc ? Est-ce Proxène ? Ô dieux !</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1091" part="f">Je n’en sais rien.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1092" par="i">Que ferai-je ?</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1092" part="m">Qu’a-t-il ?</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1092" part="f">Rompons leur entretien.</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1093">Seigneur, pour mieux savoir ce qu’on est venu dire,</l>
 	<l id="1094">La Reine a commandé que chacun se retire.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1095">Et que je n’entre point ? Non, non, mais avançons.</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1096" part="i">Ô Dieux, qu’il est troublé !</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1096" part="f">Vainquons, ou périssons.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Dynamis, Trasile, Proclée.</head>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Dynamis, Trasile, Proclée.</cast>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1097">Ha mon frère ! Ha Proclée ! Ha que viens-je d’apprendre ?</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1098" part="i">Quoi donc ?</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1098" part="f">Un si grand mal, qu’on ne peut le comprendre ;</l>
 	<l id="1099">Un attentat si lâche, et si prodigieux,</l>
 	<l id="1100">Qu’il fait trembler la Terre, et fait frémir les Cieux.</l>
@@ -1578,20 +1578,20 @@
 	<l id="1103">Poliante, dit-on, hélas le croirez-vous ?</l>
 	<l id="1104">Est le lâche assassin du feu Roi mon époux.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1105" part="i">Poliante !</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1105" part="f">C’est là ce qu’on vient de me dire.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1106" part="i">Ô Dieux, qui le croirait !</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1106" part="f">À la fin je respire.</l>
 	<l id="1107">Mais de qui tenez-vous ce rapport odieux ?</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1108">D’un homme en qui l’on voit la Justice des Dieux,</l>
 	<l id="1109">D’un fidèle sujet, bref du vieux Euristène,</l>
 	<l id="1110">Qu’on a cru longtemps mort, mais dites qu’on l’amène.</l>
@@ -1599,12 +1599,12 @@
 	<l id="1112">Qu’il me refuse ici la parole et la voix.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Dynamis, Eursitène, Trasile.</head>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>Dynamis, Eursitène, Trasile.</cast>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1113">Faites, faites encor ce rapport effroyable,</l>
 	<l id="1114">Qui semble trop affreux, pour être véritable.</l>
 </sp>
-<sp who="EURISTENE"><speaker>EURISTÈNE.</speaker>
+<sp who="EURISTENE"><hstage><speaker>EURISTÈNE</speaker>.</hstage>
 	<l id="1115">C’est exciter la haine et l’attirer sur moi,</l>
 	<l id="1116">De parler sans témoins contre un si puissant Roi ;</l>
 	<l id="1117">Mais c’est me rendre aussi justement détestable,</l>
@@ -1636,11 +1636,11 @@
 	<l id="1143">Qui retirait du corps du Roi mourant ou mort</l>
 	<l id="1144">Un poignard effroyable avec un grand effort.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1145">Il est vrai, qu’on trouva sur son corps déplorable</l>
 	<l id="1146">L’instrument de sa mort, ce poignard effroyable.</l>
 </sp>
-<sp who="EURISTENE"><speaker>EURISTÈNE.</speaker>
+<sp who="EURISTENE"><hstage><speaker>EURISTÈNE</speaker>.</hstage>
 	<l id="1147">À ce spectacle affreux et si plein de fureur,</l>
 	<l id="1148">Je tombe en même temps de faiblesse et d’horreur ;</l>
 	<l id="1149">Je voulus m’écrier, mais la douleur pressante,</l>
@@ -1648,11 +1648,11 @@
 	<l id="1151">De peur que l’assassin, venant à m’aviser,</l>
 	<l id="1152">Ne perdit le témoin qui pouvait l’accuser.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1153">Mais pourquoi sachant bien le poids de cette affaire,</l>
 	<l id="1154">Avez-vous fait si tard ce rapport nécessaire ?</l>
 </sp>
-<sp who="EURISTENE"><speaker>EURISTÈNE.</speaker>
+<sp who="EURISTENE"><hstage><speaker>EURISTÈNE</speaker>.</hstage>
 	<l id="1155">C’est que jusqu’ici le destin a permis</l>
 	<l id="1156">Que je sois demeuré parmi les Ennemis :</l>
 	<l id="1157">Car m’ayant rencontré, ces cruels m’entraînèrent,</l>
@@ -1662,36 +1662,36 @@
 	<l id="1161">Esclave malheureux, que la fortune adverse</l>
 	<l id="1162">Loin du monde habité priva de tout commerce.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1163">Ô Dieux, qui le peut croire, et ne s’emporter pas !</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1164">Enfin vous connaissez l’innocence d’Arcas.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1165">Qu’on tienne tout secret, et qu’on garde Euristène,</l>
 	<l id="1166">Ici tout m’épouvante, et tout me met en peine.</l>
 	<l id="1167">Mais le temps n’est pas loin qu’il faut entendre ceux</l>
 	<l id="1168">Que les Grands de l’État m’ont députés pour eux.</l>
 	<l id="1169" part="i">Je dois m’y disposer.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1169" part="f">Voulez-vous les entendre.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1170">S’ils ont de bons conseils je suis prête à les prendre.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1171">Vous avez refusé d’entendre ceux d’Arcas.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1172">J’écoute qui me plaît, et ne m’en parlez pas.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1173">Un frère me trahir ! Relevez-vous, Proxène,</l>
 	<l id="1174">Passez, et demeurez dans la chambre prochaine.</l>
 	<l id="1175">Philon, et vous Ligdame, allez tout de ce pas</l>
@@ -1729,30 +1729,30 @@
 	<l id="1207">Cachons ce nouveau mal. Hé bien, ces députés.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Proclée, Dynamis.</head>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Proclée, Dynamis.</cast>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1208">Ils n’attendent la loi que de vos volontés.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1209">Qu’ils attendent mon frère, ô Dieux quelle surprise !</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1210">À des maux incertains vous donnez trop de prise,</l>
 	<l id="1211">Vous avez trop tôt cru ce rapport odieux,</l>
 	<l id="1212">Qu’a peut-être inventé le crime ingénieux.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1213" part="i">Mais Euristène a vu.</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1213" part="f">Mais ce même Euristène,</l>
 	<l id="1214">Aux passions d’Arcas peut bien prêter sa haine.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1215">Euristène si sage, et dont la probité</l>
 	<l id="1216">Passe facilement jusqu’à la sainteté.</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1217">Ce n’est pas le premier dont la sainte apparence,</l>
 	<l id="1218">A caché l’attentat sous un front d’innocence.</l>
 	<l id="1219">Ce qu’on voit de plus pur se corrompt à son tour :</l>
@@ -1760,15 +1760,15 @@
 	<l id="1221">Et je crois que celui qui me fait bonne mine,</l>
 	<l id="1222">De l’esprit et du cœur me perd et m’assassine.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1223">Quoi ! Tu croirais qu’Arcas déjà presque abattu,</l>
 	<l id="1224">Aurait osé tenter une telle vertu ?</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1225">Aurait-il employé pour cette perfidie,</l>
 	<l id="1226">Un méchant qu’on connaît, et dont on se défie ?</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1227">Déjà cette pensée a flatté mon Amour.</l>
 	<l id="1228">Mais hélas ! D’autres maux veulent paraître au jour ;</l>
 	<l id="1229">Et je ne saurais dire en ce sort lamentable,</l>
@@ -1779,25 +1779,25 @@
 	<l id="1234">Ce n’est que pour tomber dans d’autres précipices.</l>
 	<l id="1235" part="i">Mais le voici le traître.</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1235" part="f">Ô Dieux, qu’ai-je entendu ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Dynamis, Trasile.</head>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Dynamis, Trasile.</cast>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1236">Enfin les Députés ont assez attendu.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1237">Ici votre conseil est je crois nécessaire.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1238">Mon Conseil songe ailleurs aux choses qu’il doit faire.</l>
 	<l id="1239">Qu’ils entrent. Prenez place. Il faut les écouter,</l>
 	<l id="1240">Et suivre leurs conseils, s’ils peuvent profiter.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Les Députés, Dynamis.</head>
-<sp who="deputes"><speaker>LES DÉPUTÉS, dont il n’y en a qu’un qui parle.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Les Députés, Dynamis.</cast>
+<sp who="deputes"><hstage><speaker>LES DÉPUTÉS</speaker>, dont il n’y en a qu’un qui parle.</hstage>
 	<l id="1241">Ce n’est point l’intérêt, ce Tyran indomptable,</l>
 	<l id="1242">Qui nous a fait paraître en ce lieu vénérable,</l>
 	<l id="1243">Nous y venons pour vous, et poussés d’une ardeur</l>
@@ -1845,7 +1845,7 @@
 	<l id="1285">Nous parlons librement, votre bien nous y porte ;</l>
 	<l id="1286">Et quand le zèle est grand, il parle de la sorte.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1287">J’aime la liberté d’un zèle généreux,</l>
 	<l id="1288">Et les sages conseils rendent les Rois heureux.</l>
 	<l id="1289">Je considérerai vos avis salutaires,</l>
@@ -1854,9 +1854,9 @@
 	<l id="1292">J’aurai toujours pour but le bien de mes sujets.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Trasile, Dynamis, Proclée.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Trasile, Dynamis, Proclée.</cast>
 <stage>La Reine refuse quelque temps sur ce qu’on lui a dit.</stage>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1293">Madame excusez-moi si je romps le silence :</l>
 	<l id="1294">Peut-on s’imaginer une telle insolence ?</l>
 	<l id="1295">Hé Quoi, souffrirez-vous que leur témérité</l>
@@ -1882,7 +1882,7 @@
 	<l id="1315">Si c’est avec orgueil qu’ils viennent l’apporter,</l>
 	<l id="1316">Un Roi pour son honneur ne doit pas l’écouter.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1317">Vous me feriez régner par d’étranges maximes.</l>
 	<l id="1318">Nous laissons aux Tyrans les fureurs et les crimes.</l>
 	<l id="1319">Si les Rois rebutaient tous les libres discours,</l>
@@ -1896,7 +1896,7 @@
 	<l id="1327">Il faut vous avouer ce que je reconnais,</l>
 	<l id="1328">Qu’en vous nommant pour Roi je fis un mauvais choix.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1329">Je reçois toutefois, et j’estime et j’approuve</l>
 	<l id="1330">Un salutaire avis partout où je le trouve,</l>
 	<l id="1331">Et je ne prétends pas en ennemi des lois,</l>
@@ -1908,43 +1908,43 @@
 	<l id="1337">Ainsi j’approuverais qu’une Amour éclatante</l>
 	<l id="1338">Joignit vos grands États à ceux de Poliante</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1339">Ce Prince parricide ! À qui votre courroux</l>
 	<l id="1340">Peut enfin demander le sang de mon époux ?</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1341">Qui l’accuse, Madame ? Un seul homme, peut-être</l>
 	<l id="1342">Gagné par un peu d’or, qui s’est rendu son maître.</l>
 	<l id="1343">Un seul homme l’accuse ; et de ce grand trépas</l>
 	<l id="1344">L’univers tout entier vient accuser Arcas.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1345">Mais ce seul homme a vu cette action si noire,</l>
 	<l id="1346">Que l’Univers entier se contente de croire.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1347">Bientôt si vous voulez, sans bruit, sans passion,</l>
 	<l id="1348">Personne n’aura vu cette noire action.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1349">Je sais punir le crime, et l’on n’est pas coupable</l>
 	<l id="1350">Pour avoir vu commettre un crime détestable.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1351">Il l’est, il l’est assez, de blesser votre espoir,</l>
 	<l id="1352">Et d’avoir vu le mal qu’il ne devait pas voir.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1353">Quoi vous me conseillez l’hymen de Poliante ?</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1354">Régnez, régnez, Madame, et vous rendez contente.</l>
 	<l id="1355">Oui, je vous le conseille, et que sert de régner,</l>
 	<l id="1356">Si l’on n’ose l’apprendre, et se le témoigner ?</l>
 	<l id="1357">Suivez enfin les lois que l’Amour vous peut faire.</l>
 	<l id="1358">Le plus beau fruit du Sceptre est de se satisfaire.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1359">Ha cruel ! Ha méchant ! Indigne d’une sœur</l>
 	<l id="1360">Qui vous a jusqu’ici montré trop de douceur.</l>
 	<l id="1361">Non, je ne doute plus de tant de barbaries</l>
@@ -1960,51 +1960,51 @@
 	<l id="1371">C’est qu’il faut que mon crime abattant mes appuis</l>
 	<l id="1372">Serve aux tiens de degré pour monter où je suis.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1373">Moi, j’aurais ces desseins ? Le sang et la Nature</l>
 	<l id="1374">Me défendent assez contre cette imposture.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1375">La Nature et le sang par vos crimes confus,</l>
 	<l id="1376">S’étonnent de se voir jusques-là corrompus.</l>
 	<l id="1377" part="i">Oui, méchant, je sais tout.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1377" part="f">Que savez-vous, Madame.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1378">Le voulez-vous savoir, regardez dans votre âme.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1379">Elle est pleine pour vous et de zèle et de foi.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1380">Il faut s’en éclaircir, et pour vous et pour moi.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1381">Je ne crains rien, Madame, à quoi que l’on m’expose.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1382">Et moi j’apprends de vous à craindre toute chose.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1383">Vous reprendrez bientôt un meilleur sentiment.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1384">Cependant demeurez dans cet appartement,</l>
 	<l id="1385">Et pour vous témoignez à quel point je vous aime,</l>
 	<l id="1386">Ici vous répondrez vous-même de vous-même.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1387">Il vous faut obéir, mais c’est me traiter mal.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1388">Un autre ferait pis en un péril égal.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1389" part="i">Est-il en sûreté ?</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1389" part="f">Ne crains pas le contraire,</l>
 	<l id="1390">L’ordre est déjà donné de ce que l’on doit faire.</l>
 	<l id="1391">Enfin pour m’assurer dans ces maux infinis,</l>
@@ -2012,7 +2012,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="DYNAMIS"><speaker>DYNAMIS seule.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker> seule.</hstage>
 	<l id="1393">Hélas jusqu’à quel point mon malheur est extrême,</l>
 	<l id="1394">Que s’il faut me venger, c’est sur tout ce que j’aime ;</l>
 	<l id="1395">Et si ce faible cœur n’ose pas se venger,</l>
@@ -2062,8 +2062,8 @@
 	<l id="1439" part="i">Hélas ! Mais je le vois.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Poliante, Dynamis.</head>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Poliante, Dynamis.</cast>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1439" part="f">Enfin je crois qu’Arcas</l>
 	<l id="1440">Punis de ses desseins ne triomphera pas.</l>
 	<l id="1441">Je viens de voir vos gens de qui le grand courage</l>
@@ -2079,30 +2079,30 @@
 	<l id="1451">Craignez-vous le moment heureux et fortuné</l>
 	<l id="1452">Qui fait voir l’ennemi défait et ruiné ?</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1453">Ô prince ! Ô Dieux témoins d’un acte si perfide,</l>
 	<l id="1454">Oui je crains de punir un Prince parricide.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1455">Par quels charmes puissants un Prince furieux</l>
 	<l id="1456">S’est-il rendu si tôt agréable à vos yeux ?</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1457">Par les charmes puissants de cette vertu même,</l>
 	<l id="1458">Par qui vous me gagnez, et par qui je vous aime.</l>
 	<l id="1459">Mais pour ne rien cacher parmi de si grands coups,</l>
 	<l id="1460">Si ce qu’on dit est vrai, ce coupable c’est vous.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1461" part="i">Moi !</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1461" part="f">Le crime étant fait, étant irrévocable,</l>
 	<l id="1462">Je voudrais pour le moins qu’un autre en fût coupable.</l>
 	<l id="1463">Enfin l’on vous a vu le poignard à la main,</l>
 	<l id="1464">D’un Roi votre allié tirer l’âme du sein.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1465">Non, je ne nierai point d’une bouche tremblante</l>
 	<l id="1466">Qu’on n’ait vu le poignard dans cette main sanglante.</l>
 	<l id="1467">Mais si la vérité que vous découvre un Roi</l>
@@ -2124,26 +2124,26 @@
 	<l id="1483">Les Dieux qui voient tout avec les mêmes soins,</l>
 	<l id="1484">Parleraient de la sorte, eux qui sont mes témoins.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1485">Pourquoi donc jusqu’ici, comme l’on cache un crime,</l>
 	<l id="1486">Nous avez-vous caché cet acte légitime.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1487">De crainte d’obliger de secrets ennemis</l>
 	<l id="1488">À m’accuser d’un mal que je n’ai pas commis.</l>
 	<l id="1489">Qu’aurait enfin servi de rompre le silence</l>
 	<l id="1490">Qu’à vous faire plutôt soupçonner l’innocence ?</l>
 	<l id="1491">Vous en a-t-on plus dit pour me rendre confus ?</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1492">L’on n’en a pas plus dit, mais on en croira plus.</l>
 	<l id="1493">Et je crois cependant que pour sauver ma gloire</l>
 	<l id="1494">Je dois sur mon amour obtenir la victoire.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1495" part="i">Me croyez-vous coupable.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1495" part="f">Hélas pour notre bien</l>
 	<l id="1496">De peur de me tromper je ne veux croire rien.</l>
 	<l id="1497">Mais je dois regarder du Trône où je soupire,</l>
@@ -2155,7 +2155,7 @@
 	<l id="1503">Il aime, et vous aimez, et l’Amour en tous deux</l>
 	<l id="1504">Pourrait être suspect d’un crime si honteux.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1505">Moi soupçonné d’un crime ! Et me voir sans défense !</l>
 	<l id="1506">Ô Dieux, montrez-vous Dieux en montrant l’innocence.</l>
 	<l id="1507">Moi soupçonné d’un crime, et soupçonné par vous !</l>
@@ -2201,7 +2201,7 @@
 	<l id="1547">Est-ce là la fortune et le prix éclatant</l>
 	<l id="1548">Que le crime recherche, et dont il est content ?</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1549">Ha Prince, si ma bouche était jamais contrainte</l>
 	<l id="1550">De donner à ton cœur cette mortelle atteinte,</l>
 	<l id="1551">Le mien premier blessé périrait le premier,</l>
@@ -2215,7 +2215,7 @@
 	<l id="1559">Car qui veut être aimé quand l’honneur le défend,</l>
 	<l id="1560">Ferait pour être aimé ce que le crime apprend.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1561">Non, non, j’ai mérité votre haine indomptable,</l>
 	<l id="1562">Si d’un amour honteux je vous juge coupable ;</l>
 	<l id="1563">Et puisque vos soupçons me peignent à vos yeux</l>
@@ -2227,7 +2227,7 @@
 	<l id="1569">J’aime mieux, en l’état où le Ciel m’abandonne,</l>
 	<l id="1570">La haine qui me perd, que l’Amour qui soupçonne.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1571">Tu demandes ma haine, et parmi nos combats</l>
 	<l id="1572">S’il fallait la donner, je ne le pourrais pas.</l>
 	<l id="1573">Mais s’il fallait sur toi punir un si grand crime,</l>
@@ -2235,7 +2235,7 @@
 	<l id="1575">Et je me vengerais d’un Prince souverain,</l>
 	<l id="1576">L’Amour dedans le cœur, et la haine en la main.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1577">Au moins vous permettrez à ma faible puissance</l>
 	<l id="1578">De faire quelque effort pour sauver l’innocence.</l>
 	<l id="1579">Il faut, il faut qu’Arcas cédant à ma vertu,</l>
@@ -2243,19 +2243,19 @@
 	<l id="1581">Et par même victoire il faut sous la ruine</l>
 	<l id="1582">Étouffer de vos maux la fatale origine.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1583">Ne fais rien pour un cœur peut être envenimé</l>
 	<l id="1584">Qui ne sait plus s’il t’aime, et s’il t’a bien aimé.</l>
 	<l id="1585">S’il faut haïr un jour ton bras et ton courage,</l>
 	<l id="1586">Ne fais rien qui m’oblige à t’aimer davantage.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1587">Je cherche un parricide afin de me sauver.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1588">Et moi qu’il fait souffrir, je crains de le trouver.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1589">Ou la force et l’éclat d’une juste victoire</l>
 	<l id="1590">D’un Prince malheureux relèvera la gloire,</l>
 	<l id="1591">Ou pour le moins la mort, qui finit les malheurs</l>
@@ -2267,7 +2267,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII.</head>
-<sp who="DYNAMIS"><speaker>DYNAMIS seule.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker> seule.</hstage>
 	<l id="1597">Il me quitte, il s’enfuit, ô Dieux que va-t-il faire ?</l>
 	<l id="1598">Va-t-il à son supplice, ou bien à son salaire ?</l>
 	<l id="1599">Et doit-il être enfin dans cet événement</l>
@@ -2300,22 +2300,22 @@
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Proclée, Proxène.</head>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Proclée, Proxène.</cast>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1625" part="i">La Reine veut vous voir.</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="1625" part="f">La reine doute-t-elle</l>
 	<l id="1626">D’un rapport aussi vrai que je lui suis fidèle ?</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1627">Je ne le pense pas, mais elle veut vous voir,</l>
 	<l id="1628">Et croit qu’il reste encor quelque chose à savoir.</l>
 	<l id="1629" part="i">Entrez donc, elle attend.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Proclée, Dynamis, Poliante.</head>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Proclée, Dynamis, Poliante.</cast>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1629" part="f">Je veux me satisfaire.</l>
 	<l id="1630">Allez dire à Phorbas qu’il amène mon frère,</l>
 	<l id="1631">Proclée. Il faut, Proxène, aux yeux de tout l’État</l>
@@ -2327,14 +2327,14 @@
 	<l id="1637">Et la Nature même, ou trompeuse ou fidèle,</l>
 	<l id="1638">Me parle pour un frère, et m’attire avec elle.</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="1639">La Nature souvent comme une illusion,</l>
 	<l id="1640">Trompe qui veut la croire en cette occasion.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1641">Mais lui soutiendrez-vous ce forfait incroyable ?</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="1642">Oui, je lui soutiendrai ce crime épouvantable.</l>
 	<l id="1643">Bien que le malheureux ait dit pour se purger,</l>
 	<l id="1644">Que mon Amour jaloux a voulu se venger,</l>
@@ -2365,13 +2365,13 @@
 	<l id="1669">Et l’on peut en verser par un coup nécessaire,</l>
 	<l id="1670">La moindre portion pour sauver la plus chère.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1671">Enfin vous m’avez dit que ce frère inhumain</l>
 	<l id="1672">A fait venir Arcas les armes à la main.</l>
 	<l id="1673">Cependant à l’abord de ce Prince rebelle,</l>
 	<l id="1674">Trasile n’a rien fait que de montrer son zèle.</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="1675">C’est qu’à son attentat le secours a manqué ;</l>
 	<l id="1676">C’est que le peuple ému fut en vain provoqué,</l>
 	<l id="1677">Et que sa faction ou faible ou peu hardie,</l>
@@ -2387,7 +2387,7 @@
 	<l id="1687">Ainsi son seul aspect a rompu leurs desseins,</l>
 	<l id="1688">Et ses yeux sont pour vous aussi forts que ses mains.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1689">Que parmi tant de maux si pleins de violence,</l>
 	<l id="1690">Je trouve peu d’appui dans toute ma constance :</l>
 	<l id="1691">Qui croirait que Trasile, où parut tant de foi,</l>
@@ -2396,19 +2396,19 @@
 	<l id="1694">Puisqu’elle ne sert plus qu’à déguiser le crime ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Dynamis, Proclée, Proxène.</head>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Dynamis, Proclée, Proxène.</cast>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1695" part="i">Hé bien l’amène-t-on ?</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1695" part="f">Madame il s’est sauvé,</l>
 	<l id="1696">Et ceux qui le gardaient vous l’ont seuls enlevé.</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="1697">Au moins vous connaissez par des preuves nouvelles</l>
 	<l id="1698">Qu’il a gagné les cœurs que vous croyez fidèles.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1699">Et même je connais, moi qui dois le haïr,</l>
 	<l id="1700">Qu’il me gagna moi-même afin de me trahir ;</l>
 	<l id="1701">Et que par une erreur qu’un Dieu me fait connaître</l>
@@ -2422,7 +2422,7 @@
 	<l id="1709">Mais connaître le traître et sa pratique noire,</l>
 	<l id="1710">Est un commencement de force et de victoire.</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1711">Mais ce mal est suivi d’un mal qu’on n’attend pas,</l>
 	<l id="1712">Et Trasile en fuyant l’a semé sur ces pas.</l>
 	<l id="1713">On sait de tous côtés ce qu’a dit Euristène,</l>
@@ -2432,26 +2432,26 @@
 	<l id="1717">Et qu’enfin le remords, le bourreau de sa faute,</l>
 	<l id="1718">Pour le gêner ailleurs vous l’enlève, et vous l’ôte.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1719" part="i">Poliante fuirait !</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1719" part="f">Pour le moins on le dit.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1720">Mon esprit est confus et demeure interdit.</l>
 	<l id="1721">Si Trasile en fuyant d’une prison funeste,</l>
 	<l id="1722">Rend aux yeux du Soleil son crime manifeste,</l>
 	<l id="1723">Ô cruel Poliante, ô Prince infortuné,</l>
 	<l id="1724">Que fait un Roi qui fuit quand il est soupçonné ?</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1725">Mais pour le moins encore attendez à vous plaindre,</l>
 	<l id="1726">Qu’un peu de vérité vous y puisse contraindre.</l>
 	<l id="1727">Bien souvent tout le mal qui vient d’un bruit si haut</l>
 	<l id="1728">C’est celui qu’on se fait en le croyant trop tôt.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1729">Mais lorsqu’à son honneur sa présence est utile,</l>
 	<l id="1730">Pourquoi si promptement abandonner la ville ?</l>
 	<l id="1731">Je l’avais fait prier de tarder cette nuit,</l>
@@ -2489,19 +2489,19 @@
 	<l id="1763">Et qu’un sombre cercueil en l’état où je suis,</l>
 	<l id="1764">Est préférable au Trône où montent tant d’ennuis !</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1765">Pardonnez-moi, Madame, et souffrez que je die</l>
 	<l id="1766">Qu’à se persécuter votre âme s’étudie.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1767">Il est vrai, mais au moins c’est pour se préparer</l>
 	<l id="1768">D’endurer d’autres maux s’il les faut endurer.</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1769">Est-ce aimer noblement et d’un Amour extrême,</l>
 	<l id="1770">De soupçonner si tôt la personne qu’on aime ?</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1771">Mais aussi réponds-moi, lorsque l’on aime bien</l>
 	<l id="1772">N’est-ce pas s’aveugler que de ne croire rien ?</l>
 	<l id="1773">L’Amour voit-il si clair contre son ordinaire,</l>
@@ -2509,7 +2509,7 @@
 	<l id="1775">Et ce que nous aimons d’un transport si puissant,</l>
 	<l id="1776">Parce que nous l’aimons, doit-il être innocent ?</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker></hstage>
 	<l id="1777">Mais si ce Prince fuit, il est de la prudence</l>
 	<l id="1778">Qu’un Monarque en péril cherche son assurance,</l>
 	<l id="1779">Quoi lorsqu’il est sans force et ses envieux</l>
@@ -2523,19 +2523,19 @@
 	<l id="1787">Mais c’est aveuglément, fureur et désespoir,</l>
 	<l id="1788">Que de vouloir combattre où l’on est sans pouvoir.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1789">Qu’est ce que le discours ne rend pas excusable ?</l>
 </sp>
-<sp who="PROXENE"><speaker>PROXÈNE.</speaker>
+<sp who="PROXENE"><hstage><speaker>PROXÈNE</speaker>.</hstage>
 	<l id="1790">Mais il entre, et ses yeux ne sont pas d’un coupable.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1791">Ô l’heureuse surprise ! Ô destin florissant,</l>
 	<l id="1792">Si plutôt que vainqueur il revient innocent !</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Poliante, Dynamis.</head>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Poliante, Dynamis.</cast>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1793">Je ne sais si mon bras a relevé ma gloire,</l>
 	<l id="1794">Mais au moins il revient avecque la victoire.</l>
 	<l id="1795">Si toutefois le sort s’était assujetti</l>
@@ -2545,18 +2545,18 @@
 	<l id="1799">Enfin vos ennemis tous vaincus à la fois,</l>
 	<l id="1800">Éprouvent que le Ciel est toujours pour les Rois.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1801" part="i">Arcas est-il donc mort ?</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1801" part="f">Au moins on vous l’amène,</l>
 	<l id="1802">Pour rendre en expirant ses respects à se Reine.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1803">Dites-moi ce succès, s’il vous est glorieux</l>
 	<l id="1804">Alors j’estimerai mon sort victorieux.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1805">À peine avec les miens j’étais hors de la ville,</l>
 	<l id="1806">Quand d’un autre côté j’ai vu sortir Trasile</l>
 	<l id="1807">Peu de gens le suivaient, et courant à grands pas</l>
@@ -2570,10 +2570,10 @@
 	<l id="1815">Que chacun prend parti, que l’on est divisé,</l>
 	<l id="1816">Et qu’enfin le triomphe en paraît plus aisé.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1817" part="i">D’où vient cette querelle ?</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1817" part="f">On m’a dit que Trasile</l>
 	<l id="1818">Croyait trouver Arcas favorable et facile,</l>
 	<l id="1819">Mais qu’aussitôt Arcas les armes à la main,</l>
@@ -2587,7 +2587,7 @@
 	<l id="1827">Au reste l’on m’a dit qu’un soupçon seulement</l>
 	<l id="1828">A produit aujourd’hui ce grand événement.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1829">Non, non, le juste Ciel a conduit une trame</l>
 	<l id="1830">Qu’il a voulu lui-même inspirer à mon âme</l>
 	<l id="1831">Ainsi sachant les vœux de Trasile et d’Arcas,</l>
@@ -2597,15 +2597,15 @@
 	<l id="1835">Car quand des ennemis ont un corps si puissant,</l>
 	<l id="1836">On commence à les vaincre en les désunissant.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1837">Ainsi sans y penser je vous dois la victoire.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1838">Donnez-m’en le repos, et prenez-en la gloire.</l>
 	<l id="1839">Mais enfin achevez. L’ennemi, disiez-vous,</l>
 	<l id="1840" part="i">Paraissait divisé.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1840" part="f">Je le charge à grands coups,</l>
 	<l id="1841">Je prends l’occasion, je renverse, je tue</l>
 	<l id="1842">Tout ce qui se présente à mon bras, à ma vue,</l>
@@ -2631,10 +2631,10 @@
 	<l id="1862">Je le fus par l’Amour, mais il l’est par la haine.</l>
 	<l id="1863">Sache donc, me dit-il... Mais on l’amène ici.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1864" part="i">Et Trasile est-il mort ?</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1864" part="f">On vous l’amène aussi :</l>
 	<l id="1865">Et ce qu’a dit Arcas devant ces Capitaines,</l>
 	<l id="1866">Qui vous rendent partout les victoires certaines,</l>
@@ -2645,7 +2645,7 @@
 	<l id="1871">Mais ils ne sont pas loin, cet homme les menait.</l>
 	<l id="1872" part="i">Doit-il les faire entrer ?</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1872" part="f">Oui, Prince, l’on le doit.</l>
 	<l id="1873">Il faut que mes regards pour eux impitoyables,</l>
 	<l id="1874">Achèvent de punir ces deux fameux coupables.</l>
@@ -2653,14 +2653,14 @@
 	<l id="1876">Ne saurait-on régner sans avoir d’ennemis ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE DERNIÈRE. Dynamis, Arcas, Trasile, Proclée, Les Députés, Proxène, Poliante.</head>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE DERNIÈRE.</head><cast>Dynamis, Arcas, Trasile, Proclée, Les Députés, Proxène, Poliante.</cast>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1877">Enfin vous connaissez par de sanglantes marques</l>
 	<l id="1878">S’il est avantageux d’attaquer les Monarques,</l>
 	<l id="1879">Et que pour les méchants et les ambitieux</l>
 	<l id="1880">Le Trône a son tonnerre aussi bien que les Cieux.</l>
 </sp>
-<sp who="ARCAS"><speaker>ARCAS.</speaker>
+<sp who="ARCAS"><hstage><speaker>ARCAS</speaker>.</hstage>
 	<l id="1881">Ô reine, dont j’aimais et dont je crains la vue,</l>
 	<l id="1882">Retenez un moment ce regard qui me tue,</l>
 	<l id="1883">Et qu’il me laisse encore au moins un seul instant,</l>
@@ -2670,13 +2670,13 @@
 	<l id="1887">Oui, ce bras que la rage avait fait soulever,</l>
 	<l id="1888">Versa le sang du Roi qu’il devait conserver.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1889">Ô digne objet des coups de la fureur céleste !</l>
 </sp>
-<sp who="ARCAS"><speaker>ARCAS.</speaker>
+<sp who="ARCAS"><hstage><speaker>ARCAS</speaker>.</hstage>
 	<l id="1890">Seigneur, la voix me manque, et j’ai dit tout le reste.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1891">Oui, Madame, il a dit qu’à la fin du combat</l>
 	<l id="1892">Qui fit tomber et vous et votre État,</l>
 	<l id="1893">Sous ombre de sauver le Roi qu’il prit en garde,</l>
@@ -2690,26 +2690,26 @@
 	<l id="1901">Et que la peur qu’il eut d’être surpris en traître,</l>
 	<l id="1902">Lui fit laisser le fer dans le cœur de son Maître.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1903" part="i">Quel était ton dessein, méchant ?</l>
 </sp>
-<sp who="ARCAS"><speaker>ARCAS.</speaker>
+<sp who="ARCAS"><hstage><speaker>ARCAS</speaker>.</hstage>
 	<l id="1903" part="f">Je vous aimais,</l>
 	<l id="1904">Et ce crime m’offrait le bien que j’espérais.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1905">Est-ce assez d’une mort pour être son supplice ?</l>
 </sp>
-<sp who="ARCAS"><speaker>ARCAS.</speaker>
+<sp who="ARCAS"><hstage><speaker>ARCAS</speaker>.</hstage>
 	<l id="1906">Mais si ce crime est grand, Trasile est mon complice.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1907" part="i">Moi, méchant !</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1907" part="m">Que dit-il ?</l>
 </sp>
-<sp who="ARCAS"><speaker>ARCAS.</speaker>
+<sp who="ARCAS"><hstage><speaker>ARCAS</speaker>.</hstage>
 	<l id="1907" part="f">Oui, vous l’avez voulu,</l>
 	<l id="1908">Et ce grand parricide entre nous fut conclu.</l>
 	<l id="1909">Comme vous estimiez son conseil salutaire,</l>
@@ -2721,7 +2721,7 @@
 	<l id="1915">Ainsi je contentai nos lâches passions,</l>
 	<l id="1916">Et devins criminel à ces conditions.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS parlant à Trasile.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker> parlant à Trasile.</hstage>
 	<l id="1917">Quoi méchant ta fureur fit périr un Monarque,</l>
 	<l id="1918">Dont l’amour t’honora d’une si belle marque,</l>
 	<l id="1919">Qui malgré ta naissance, et cette sainte loi</l>
@@ -2737,7 +2737,7 @@
 	<l id="1929">Mais que n’as-tu cruel assez de sang de reste</l>
 	<l id="1930">Pour assouvir ma haine et la haine céleste ?</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1931">Ô détestable Arcas ! Ô cœur peu généreux !</l>
 	<l id="1932">Indigne de cueillir les fruits d’un crime heureux !</l>
 	<l id="1933">Quand tu peux pour le moins te conserver ta gloire,</l>
@@ -2753,25 +2753,25 @@
 	<l id="1943">C’est là ton plus grand mal, venge, venge-toi d’eux,</l>
 	<l id="1944">En laissant leur croyance et ton crime douteux.</l>
 </sp>
-<sp who="ARCAS"><speaker>ARCAS.</speaker>
+<sp who="ARCAS"><hstage><speaker>ARCAS</speaker>.</hstage>
 	<l id="1945">Exécrable en ta mort, de même qu’en ta vie,</l>
 	<l id="1946">Si j’outrageai la Reine au moins je l’ai servie,</l>
 	<l id="1947">En la vengeant sur toi d’un frère forcené,</l>
 	<l id="1948">À qui trop bonne sœur elle aurait pardonné.</l>
 </sp>
-<sp who="TRASILE"><speaker>TRASILE.</speaker>
+<sp who="TRASILE"><hstage><speaker>TRASILE</speaker>.</hstage>
 	<l id="1949">Parles-tu de pardon, ô lâche, ô détestable !</l>
 	<l id="1950">Que la Reine le garde, il est pour le coupable.</l>
 	<l id="1951">Et pour me venger d’elle et de ce brave Roi ;</l>
 	<l id="1952">Je souhaite à tous deux des sujets comme toi.</l>
 </sp>
-<sp who="ARCAS"><speaker>ARCAS.</speaker>
+<sp who="ARCAS"><hstage><speaker>ARCAS</speaker>.</hstage>
 	<l id="1953">Et moi qui leur souhaite un règne favorable,</l>
 	<l id="1954">Que la paix rende heureux et toujours indomptable,</l>
 	<l id="1955">Je leur souhaite aussi des sujets et des cœurs,</l>
 	<l id="1956">Non comme j’ai vécu, mais ainsi que je meurs.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1957">Qu’on les ôte, j’aimais à moi-même contraire</l>
 	<l id="1958">Un frère naturel de même qu’un vrai frère,</l>
 	<l id="1959">Et maintenant encore un reste d’amitié</l>
@@ -2783,13 +2783,13 @@
 <stage>Proclée qui avait suivi Arcas et Trasile revient.</stage>
 	<l id="1965" part="i">Hé bien, hé bien Proclée !</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1965" part="f">Ils ne sont plus Madame.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1966" part="i">N’ont-ils rien dit ?</l>
 </sp>
-<sp who="PROCLEE"><speaker>PROCLÉE.</speaker>
+<sp who="PROCLEE"><hstage><speaker>PROCLÉE</speaker>.</hstage>
 	<l id="1966" part="f">Arcas n’a fait que rendre l’âme.</l>
 	<l id="1967">Mais Trasile pressé d’un remords dévorant,</l>
 	<l id="1968">Je meurs avec justice, a-t-il dit en mourant.</l>
@@ -2797,7 +2797,7 @@
 	<l id="1970">Ainsi deux criminels sont bourreaux l’un de l’autre.</l>
 	<l id="1971" part="i">C’est tout ce qu’il a dit.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1971" part="f">Je profite en sa mort.</l>
 	<l id="1972">Au moins si ces pareils appréhendent son sort.</l>
 	<l id="1973">Ainsi nous apprendrons et souverains et maîtres,</l>
@@ -2807,33 +2807,33 @@
 	<l id="1977">Proxène c’est à toi que j’en dois l’avantage,</l>
 	<l id="1978">Et toujours mon amour en sera ton partage.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1979">Enfin ce témoignage et visible et pressant</l>
 	<l id="1980">Fait voir que dans mon cœur l’amour est innocent.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1981">Mon erreur me fait honte, et me fait pour ma peine,</l>
 	<l id="1982">Au lieu de votre amour mériter votre haine.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1983">Vous ne deviez pas moins à la mort d’un époux,</l>
 	<l id="1984">Et je vous croyais juste en me plaignant de vous.</l>
 </sp>
-<sp who="DEPUTES"><speaker>LES DÉPUTÉS.</speaker>
+<sp who="DEPUTES"><hstage><speaker>LES DÉPUTÉS</speaker>.</hstage>
 	<l id="1985">Mais enfin consentez qu’une juste alliance</l>
 	<l id="1986">De deux fameux États contente l’espérance.</l>
 	<l id="1987">Si la paix qui revient n’y pouvait séjourner</l>
 	<l id="1988">Les liens de l’hymen l’y sauraient enchaîner.</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1989">C’est par un si grand prix, c’est par cette victoire,</l>
 	<l id="1990">Que mes heureux destins peuvent combler ma gloire.</l>
 </sp>
-<sp who="DYNAMIS"><speaker>DYNAMIS.</speaker>
+<sp who="DYNAMIS"><hstage><speaker>DYNAMIS</speaker>.</hstage>
 	<l id="1991">Que ne puis-je honorer un Roi victorieux,</l>
 	<l id="1992">Un Roi mon défenseur, d’un prix plus glorieux ?</l>
 </sp>
-<sp who="POLIANTE"><speaker>POLIANTE.</speaker>
+<sp who="POLIANTE"><hstage><speaker>POLIANTE</speaker>.</hstage>
 	<l id="1993">Si j’ai vaincu pour vous le crime et l’injustice,</l>
 	<l id="1994">Ô que ce prix illustre excède le service !</l>
 	<l id="1995">C’est en récompensant être assez libéral</l>

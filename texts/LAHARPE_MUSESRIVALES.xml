@@ -68,9 +68,9 @@
 </front> 
 <body>
 <div1 type="acte" n="1"><head/>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Erato, Uranie.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Erato, Uranie.</cast>
 <stage>Le Théâtre représente un Bocage orné de tous les attributs des Arts.</stage>
-<sp who="ERATO"><speaker>ERATO.</speaker>
+<sp who="ERATO"><hstage><speaker>ERATO</speaker>.</hstage>
 	<l id="1">C’est donc en ces beaux lieux, c’est dans ce sanctuaire,</l>
 	<l id="2">Aux arts de tout temps consacré,</l>
 	<l id="3">De leurs attributs décoré,</l>
@@ -95,25 +95,25 @@
 	<l id="21">Au Dieu qui va le couronner ?</l>
 	<l id="22">Nous briguons toutes cette gloire.</l>
 </sp>
-<sp who="URANIE"><speaker>URANIE.</speaker>
+<sp who="URANIE"><hstage><speaker>URANIE</speaker>.</hstage>
 	<l id="23">Nous l’avons toutes inspiré.</l>
 </sp>
-<sp who="ERATO"><speaker>ERATO.</speaker>
+<sp who="ERATO"><hstage><speaker>ERATO</speaker>.</hstage>
 	<l id="24">Mais à qui cet honneur sera-t-il déféré ?</l>
 	<l id="25">Qui doit obtenir la victoire ?</l>
 </sp>
-<sp who="URANIE"><speaker>URANIE.</speaker>
+<sp who="URANIE"><hstage><speaker>URANIE</speaker>.</hstage>
 	<l id="26">De chacune de nous également chéri,</l>
 	<l id="27">Notre divinité lui fut toujours propice.</l>
 </sp>
-<sp who="ERATO"><speaker>ERATO.</speaker>
+<sp who="ERATO"><hstage><speaker>ERATO</speaker>.</hstage>
 	<l id="28">Mais celle dont surtout il fut le favori,</l>
 	<l id="29">Doit seule être sa conductrice.</l>
 </sp>
-<sp who="URANIE"><speaker>URANIE.</speaker>
+<sp who="URANIE"><hstage><speaker>URANIE</speaker>.</hstage>
 	<l id="30" part="i">Y prétendriez-vous ?</l>
 </sp>
-<sp who="ERATO"><speaker>ERATO.</speaker>
+<sp who="ERATO"><hstage><speaker>ERATO</speaker>.</hstage>
 	<l id="30" part="f">Mais je crois le pouvoir,</l>
 	<l id="31">Et j’ai bien quelques droits que je ferai valoir.</l>
 	<l id="32">À l’Amour Erato préside ;</l>
@@ -166,7 +166,7 @@
 <note type="L">Zaïre : tragédie de Voltaire (1732). </note>
 	<l id="71">Et pour qui sait aimer, mon chef-d’œuvre est Zaïre.</l>
 </sp>
-<sp who="URANIE"><speaker>URANIE.</speaker>
+<sp who="URANIE"><hstage><speaker>URANIE</speaker>.</hstage>
 	<l id="72">Ce titre est assez beau ; mais, soit dit entre nous,</l>
 	<l id="73">Croyez-vous donc que Melpomène</l>
 	<l id="74">Ne le réclame pas sur vous ?</l>
@@ -229,8 +229,8 @@
 	<l id="127">Mais j’aperçois Thalie, et toujours prête à rire.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÉNE II. Erato, Uranie, Thalie.</head>
-<sp who="THALIE"><speaker>THALIE.</speaker>
+<div2 type="scene" n="2"><head>SCÉNE II.</head><cast>Erato, Uranie, Thalie.</cast>
+<sp who="THALIE"><hstage><speaker>THALIE</speaker>.</hstage>
 	<l id="128">Mais je ris volontiers, et c’est assez mon goût ?</l>
 	<l id="129">Les ris, vous le savez, sont nés sous mon empire.</l>
 	<l id="130">La mode, il est vrai, passe, et le temps change tout :</l>
@@ -251,10 +251,10 @@
 	<l id="145">Le Burin, la Trompette et surtout le Poignard,</l>
 	<l id="146">Vont diviser tout le Parnasse.</l>
 </sp>
-<sp who="URANIE"><speaker>URANIE.</speaker>
+<sp who="URANIE"><hstage><speaker>URANIE</speaker>.</hstage>
 	<l id="147">La paisible Thalie y prendra peu de part.</l>
 </sp>
-<sp who="THALIE"><speaker>THALIE.</speaker>
+<sp who="THALIE"><hstage><speaker>THALIE</speaker>.</hstage>
 	<l id="148">Je me rends justice sans peine,</l>
 	<l id="149">Il faut que chacun ait son tour.</l>
 	<l id="150">Ce fut jadis le mien : j’ai régné sur la scène;</l>
@@ -272,19 +272,19 @@
 <note type="C">Nanine : comédie de Voltaire de 1749.</note>
 	<l id="160">Mais, Nanine à la main, je prétends l’embrasser.</l>
 </sp>
-<sp who="ERATO"><speaker>ERATO.</speaker>
+<sp who="ERATO"><hstage><speaker>ERATO</speaker>.</hstage>
 	<l id="161">Je cours près d’Apollon me ranger la première ;</l>
 	<l id="162">C’est à lui seul de nous juger.</l>
 <stage>Elle sort.</stage>
 </sp>
-<sp who="URANIE"><speaker>URANIE.</speaker>
+<sp who="URANIE"><hstage><speaker>URANIE</speaker>.</hstage>
 	<l id="163">Mais, je vais m’informer de notre Messager.</l>
 	<l id="164" part="i">Adieu, Thalie.</l>
 <stage>Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="THALIE"><speaker>THALIE.</speaker>
+<sp who="THALIE"><hstage><speaker>THALIE</speaker>.</hstage>
 	<l id="164" part="f">On vient. À sa démarche altière,</l>
 	<l id="165">Je reconnais Calliope ma sœur.</l>
 	<l id="166">Élie a l’air d’avoir de l’humeur.</l>
@@ -296,14 +296,14 @@
 	<l id="172">Ma foi, j’en ferais autant qu’elles.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Clio, Calliope.</head>
-<sp who="CALLIOPE"><speaker>CALLIOPE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Clio, Calliope.</cast>
+<sp who="CALLIOPE"><hstage><speaker>CALLIOPE</speaker>.</hstage>
 	<l id="173">Eh ! Quoi ? Dans ce grand jour, vous pensez précéder</l>
 	<l id="174">La Muse de Virgile et du Tasse et d’Homère ?</l>
 	<l id="175">Ce serait à moi de céder !</l>
 	<l id="176">Sur le Pinde toujours j’ai marché la première,</l>
 </sp>
-<sp who="CLIO"><speaker>CLIO.</speaker>
+<sp who="CLIO"><hstage><speaker>CLIO</speaker>.</hstage>
 	<l id="177">Vous l’avez prétendu; mais cette primauté</l>
 	<l id="178">Pourrait bien être une chimère,</l>
 	<l id="179">Et la loi de l’égalité</l>
@@ -322,14 +322,14 @@
 	<l id="191">Mais ils ont pour objet d’une étude constante,</l>
 	<l id="192">Mes solides instructions.</l>
 </sp>
-<sp who="CALLIOPE"><speaker>CALLIOPE.</speaker>
+<sp who="CALLIOPE"><hstage><speaker>CALLIOPE</speaker>.</hstage>
 	<l id="193">C’est moi qui de Voltaire illustrai le jeune âge.</l>
 </sp>
-<sp who="CLIO"><speaker>CLIO.</speaker>
+<sp who="CLIO"><hstage><speaker>CLIO</speaker>.</hstage>
 <note type="L">Clio : muse de l’Histoire.</note>
 	<l id="194">Il courtisa Clio dans sa maturité,</l>
 </sp>
-<sp who="CALLIOPE"><speaker>CALLIOPE.</speaker>
+<sp who="CALLIOPE"><hstage><speaker>CALLIOPE</speaker>.</hstage>
 <note type="C">Voltaire écrivit un poème épique nommé la Henriade sur Henri IV, publié à Rouen en 1723 puis à Londres en 1728.</note>
 	<l id="195">Le chantre de Henri, dont je dictai l’ouvrage,</l>
 	<l id="196">Me dut ses premiers droits à l’immortalité.</l>
@@ -339,7 +339,7 @@
 	<l id="199">On fit ce seul reproche au siècle de Louis ;</l>
 	<l id="200">Et Voltaire, à vingt ans, en vengea son pays.</l>
 </sp>
-<sp who="CLIO"><speaker>CLIO.</speaker>
+<sp who="CLIO"><hstage><speaker>CLIO</speaker>.</hstage>
 	<l id="201">De ce siècle fameux je lui traçai l’histoire ;</l>
 	<l id="202">J’ordonnai sous ses mains cet immense tableau.</l>
 	<l id="203">Je broyai les couleurs qu’employa son pinceau.</l>
@@ -367,7 +367,7 @@
 	<l id="225">L’humanité sacrée, à leur pieds abattue,</l>
 	<l id="226">Comme il en est le peintre, il en est le vengeur,</l>
 </sp>
-<sp who="CALLIOPE"><speaker>CALLIOPE.</speaker>
+<sp who="CALLIOPE"><hstage><speaker>CALLIOPE</speaker>.</hstage>
 	<l id="227">Moi, dans des vers divins, j’ai consacré l’image</l>
 	<l id="228">Du Roi le plus cher aux Français,</l>
 	<l id="229">Sujet le plus heureux du plus heureux ouvrage.</l>
@@ -397,8 +397,8 @@
 	<l id="253">Vous ne répondez rien... Mais voici Melpomène.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Clio, Calliope, Melpomène.</head>
-<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Clio, Calliope, Melpomène.</cast>
+<sp who="MELPOMÈNE"><hstage><speaker>MELPOMÈNE</speaker>.</hstage>
 	<l id="254">Qu’ai-je entendu, mes sœurs? Est-il vrai qu’aujourd’hui</l>
 	<l id="255">Par une rivalité vaine,</l>
 	<l id="256">On me dispute un droit dont je me crus certaine,</l>
@@ -419,13 +419,13 @@
 	<l id="269">Au plus grand de mes favoris ?</l>
 	<l id="270">Et sur quoi fondez-vous l’orgueil qui vous enivre ?</l>
 </sp>
-<sp who="CALLIOPE"><speaker>CALLIOPE.</speaker>
+<sp who="CALLIOPE"><hstage><speaker>CALLIOPE</speaker>.</hstage>
 	<l id="271" part="i">Je chante les Héros.</l>
 </sp>
-<sp who="CLIO"><speaker>CLIO.</speaker>
+<sp who="CLIO"><hstage><speaker>CLIO</speaker>.</hstage>
 	<l id="271" part="f">Moi, j’enseigne à les suivre.</l>
 </sp>
-<sp who="MELPOMÈNE"><speaker>MELPOMÈNE.</speaker>
+<sp who="MELPOMÈNE"><hstage><speaker>MELPOMÈNE</speaker>.</hstage>
 	<l id="272">Melpomène les fait revivre.</l>
 	<l id="273">Né pour m’appartenir, de mon art enchanteur,</l>
 	<l id="274">Voltaire, au premier pas, atteignit la hauteur;</l>
@@ -475,18 +475,18 @@
 	<l id="313">Vous puissiez encore prétendre,</l>
 	<l id="314">C’est là qu’il faut le disputer.</l>
 </sp>
-<sp who="CLIO"><speaker>CLIO.</speaker>
+<sp who="CLIO"><hstage><speaker>CLIO</speaker>.</hstage>
 	<l id="315">Vous avez vaincu, Melpomène,</l>
 	<l id="316">Je ne saurais vous résister.</l>
 </sp>
-<sp who="CALLIOPE"><speaker>CALLIOPE.</speaker>
+<sp who="CALLIOPE"><hstage><speaker>CALLIOPE</speaker>.</hstage>
 	<l id="317">Peut-être plus longtemps je pourrais contester ;</l>
 	<l id="318">Mais le cœur est pour vous, et ce juge m’entraîne.</l>
 	<l id="319" part="i">Je cède... Eh ! quoi ? Momus !</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Melpomène, Clio, Calliope, Momus.</head>
-<sp who="MOMUS"><speaker>MOMUS.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Melpomène, Clio, Calliope, Momus.</cast>
+<sp who="MOMUS"><hstage><speaker>MOMUS</speaker>.</hstage>
 	<l id="319" part="f">Le Dieu de la gaîté</l>
 	<l id="320">Doit être de toutes les fêtes.</l>
 	<l id="321">Je fais les apprêts que vous faites ;</l>
@@ -513,10 +513,10 @@
 <note type="C">Candide : conte philosophique de Voltaire paru en 1759.</note>
 	<l id="342">Et j’ai Candide dans ma poche.</l>
 </sp>
-<sp who="CLIO"><speaker>CLIO.</speaker>
+<sp who="CLIO"><hstage><speaker>CLIO</speaker>.</hstage>
 	<l id="343">Seigneur Momus, ici soyez le bien venu.</l>
 </sp>
-<sp who="MOMUS"><speaker>MOMUS.</speaker>
+<sp who="MOMUS"><hstage><speaker>MOMUS</speaker>.</hstage>
 	<l id="344">Mais je le fuis partout, et dans l’Olympe même,</l>
 	<l id="345">Où du grand Jupiter la majesté suprême</l>
 	<l id="346">Se divertit de mes bons mots,</l>
@@ -530,12 +530,12 @@
 	<l id="354">Sans moi dans l’Olympe on s’ennuie,</l>
 	<l id="355">Tout comme dans les autres Cours.</l>
 </sp>
-<sp who="CLIO"><speaker>CLIO.</speaker>
+<sp who="CLIO"><hstage><speaker>CLIO</speaker>.</hstage>
 	<l id="356">Votre gaîté vive et légère</l>
 	<l id="357">N’est point au Parnasse étrangère.</l>
 	<l id="358">Thalie est avec vous, ce me semble, assez bien.</l>
 </sp>
-<sp who="MOMUS"><speaker>MOMUS.</speaker>
+<sp who="MOMUS"><hstage><speaker>MOMUS</speaker>.</hstage>
 	<l id="359">Je dois vous l’avouer : je me plais sur la terre.</l>
 	<l id="360">Il est vrai que des gens dont l’humeur est austère</l>
 	<l id="361">Parfois m’y traitent en vaurien,</l>
@@ -549,10 +549,10 @@
 	<l id="369">« Ris, on te le permet; rire est ce qu’il nous faut ;</l>
 	<l id="370">Mais ne te nomme pas, et ne ris pas trop haut. »</l>
 </sp>
-<sp who="CALLIOPE"><speaker>CALLIOPE.</speaker>
+<sp who="CALLIOPE"><hstage><speaker>CALLIOPE</speaker>.</hstage>
 	<l id="371"> Cet avis est un bon office.</l>
 </sp>
-<sp who="MOMUS"><speaker>MOMUS.</speaker>
+<sp who="MOMUS"><hstage><speaker>MOMUS</speaker>.</hstage>
 	<l id="372">Oh ! Vraiment qans cela je vous aurais conté</l>
 	<l id="373">Les folâtres accès de verve et de gaîté,</l>
 	<l id="374">Où j’eus Voltaire pour complice ;</l>
@@ -562,21 +562,21 @@
 	<l id="378">Son exemple est pour moi la leçon du mystère ;</l>
 	<l id="379">Ce public, qui sait tout, nous garde le secret.</l>
 </sp>
-<sp who="CALLIOPE"><speaker>CALLIOPE.</speaker>
+<sp who="CALLIOPE"><hstage><speaker>CALLIOPE</speaker>.</hstage>
 	<l id="380">Momus est devenu bien sage.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Melpomène, Clio, Calliope, Momus, Apollon, Les Grâces, Erato, Thalie, Uranie, Euterpe, Therpsicore, Polymnie.</head>
-<sp who="MOMUS"><speaker>MOMUS.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Melpomène, Clio, Calliope, Momus, Apollon, Les Grâces, Erato, Thalie, Uranie, Euterpe, Therpsicore, Polymnie.</cast>
+<sp who="MOMUS"><hstage><speaker>MOMUS</speaker>.</hstage>
 	<l id="381">Ah ! Je puis enfin au seigneur Apollon</l>
 	<l id="382">Présenter ici mon hommage.</l>
 	<l id="383">Quoi ! Les Grâces aussi dans le sacré vallon !</l>
 </sp>
-<sp who="APOLLON"><speaker>APOLLON.</speaker>
+<sp who="APOLLON"><hstage><speaker>APOLLON</speaker>.</hstage>
 	<l id="384">Elles daignent souvent m’accorder leur présence.</l>
 	<l id="385">Aux Grâces, comme aux Arts, ce Temple est consacré»</l>
 </sp>
-<sp who="EUPHROSINE"><speaker>EUPHROSINE.</speaker>
+<sp who="EUPHROSINE"><hstage><speaker>EUPHROSINE</speaker>.</hstage>
 	<l id="386">En des lieux où Voltaire a droit d’être honoré,</l>
 	<l id="387">On eût remarqué notre absence.</l>
 	<l id="388">Nous avons toutes trois entouré son berceau,</l>
@@ -598,22 +598,22 @@
 	<l id="404">Ces agréments si doux dans la société,</l>
 	<l id="405">Qui font pardonner à la gloire.</l>
 </sp>
-<sp who="APOLLON"><speaker>APOLLON.</speaker>
+<sp who="APOLLON"><hstage><speaker>APOLLON</speaker>.</hstage>
 	<l id="406">La sienne m’est bien chère, et vous allez le voir.</l>
 	<l id="407">Les honneurs que pour lui j’apprête....</l>
 	<l id="408">Mais écoutons Mercure : il est tems de savoir</l>
 	<l id="409">Si nous aurons ici le Héros de la fête.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII et DERNIÈRE. Les acteurs précédents, Mercure.</head>
-<sp who="MERCURE"><speaker>MERCURE.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII et DERNIÈRE.</head><cast>Les acteurs précédents, Mercure.</cast>
+<sp who="MERCURE"><hstage><speaker>MERCURE</speaker>.</hstage>
 	<l id="410">Je ne saurais vous en flatter ;</l>
 </sp>
-<sp who="APOLLON"><speaker>APOLLON.</speaker>
+<sp who="APOLLON"><hstage><speaker>APOLLON</speaker>.</hstage>
 	<l id="411">Comment, il faut que j’y renonce ?</l>
 	<l id="412" part="i">Quoi !</l>
 </sp>
-<sp who="MERCURE"><speaker>MERCURE.</speaker>
+<sp who="MERCURE"><hstage><speaker>MERCURE</speaker>.</hstage>
 	<l id="412" part="f">Très fidèlement je vais vous rapporter</l>
 	<l id="413">Et mon message et sa réponse.</l>
 	<l id="414">Dans l’Elysée à peine on le faisait entrer,</l>
@@ -633,7 +633,7 @@
 	<l id="428">Si j’ai vécu trop peu sous le jeune Louis,</l>
 	<l id="429">Je demeure à jamais auprès de son modèle. »</l>
 </sp>
-<sp who="APOLLON"><speaker>APOLLON.</speaker>
+<sp who="APOLLON"><hstage><speaker>APOLLON</speaker>.</hstage>
 	<l id="430">Il dût faire un tel choix, et j’y dois déférer.</l>
 	<l id="431">Si de le posséder nous perdons l’avantage,</l>
 	<l id="432">Au moins rendons à son image</l>
@@ -655,7 +655,7 @@
 	<l id="444">Puisqu’il les a tous honorés.</l>
 <stage>On danse amour de la statue.</stage>
 </sp>
-<sp who="APOLLON"><speaker>APOLLON.</speaker>
+<sp who="APOLLON"><hstage><speaker>APOLLON</speaker>.</hstage>
 	<l id="445">Et vous à qui ma voix saura se faire entendre,</l>
 	<l id="446">Vous, ses concitoyens, mes plus chers favoris,</l>
 	<l id="447">Peuple heureux, dont la gloire ira partout s’étendre</l>

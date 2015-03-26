@@ -69,8 +69,8 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Livie, Agripine, Flavie.</head>
-<sp who="LIVIE"><speaker>LIVIE</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Livie, Agripine, Flavie.</cast>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker></hstage>
 	<l id="1">Ma sœur... Mais je m’oublie, et je perds le respect,</l>
 	<l id="2">Ce nom, qui m’était cher, vous doit être suspect,</l>
 	<l id="3">Madame, et votre hymen, dont la pompe s’étale,</l>
@@ -98,7 +98,7 @@
 	<l id="23">Tout ce qu’on peut devoir à l’épouse d’un homme,</l>
 	<l id="24">Trouvé digne à vingt ans d’être Consul de Rome.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="25">Madame, (puisqu’enfin vous m’ôtez la douceur</l>
 	<l id="26">Que j’ai toujours trouvée à vous nommer ma sœur,)</l>
 	<l id="27">Dans le trouble mortel dont mon âme est saisie</l>
@@ -130,7 +130,7 @@
 	<l id="52">À l’aimer tendrement s’était accoutumée.</l>
 	<l id="53">Plut au Ciel que César vous laissât à Drusus !</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="54">César me l’offrirait que je n’en voudrais plus,</l>
 	<l id="55">Madame. Je l’aimai cet ingrat qui me quitte ;</l>
 	<l id="56">Et pour fixer ses vœux j’eus trop peu de mérite.</l>
@@ -155,30 +155,30 @@
 	<l id="74">Il me rend les mépris qu’il reçut autrefois.</l>
 	<l id="75" part="i">Mais pour Drusus...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="75" part="f">Madame, il va bientôt paraître :</l>
 	<l id="76">En voyant tant d’appas son amour peut renaître :</l>
 	<l id="77">Pour l’ôter de mes fers essayer leur pouvoir.</l>
 	<l id="78">Je viens de le mander, et vous le pourrez voir.</l>
 	<l id="79" part="i">Un seul remords...</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="79" part="f">Adieu. Quoique l’ingrat m’oublie,</l>
 	<l id="80">Ma haine est faible encor et mon cœur s’en défie :</l>
 	<l id="81">Et je le veux, si je puis, le haïr assez bien</l>
 	<l id="82">Pour le voir, le braver, et n’en redouter rien.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Agripine, Drusus, Flavie.</head>
-<sp who="FLAVIE"><speaker>FLAVIE, à Agripine.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Agripine, Drusus, Flavie.</cast>
+<sp who="FLAVIE"><hstage><speaker>FLAVIE</speaker>, à Agripine.</hstage>
 	<l id="83" part="i">Le prince vient.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="83" part="f">Seigneur, ma main vous est promise,</l>
 	<l id="84">Et je puis avec vous parler avec franchise.</l>
 	<l id="85" part="i">M’aimez-vous?</l>
 </sp>
-<sp who="DRUSUS"><speaker>DRUSUS.</speaker>
+<sp who="DRUSUS"><hstage><speaker>DRUSUS</speaker>.</hstage>
 	<l id="85" part="f">Ah Madame ! En ce fatal instant</l>
 	<l id="86">Que mon sort serait beau si vous m’aimiez autant !</l>
 	<l id="87">De quelque espoir flatteur que mon cœur s’entretienne,</l>
@@ -190,10 +190,10 @@
 	<l id="93">Et parmi les amants il n’est rien si cruel</l>
 	<l id="94">Que d’avoir de l’amour qui n’est pas mutuel.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="95" part="i">Ah Seigneur !</l>
 </sp>
-<sp who="DRUSUS"><speaker>DRUSUS.</speaker>
+<sp who="DRUSUS"><hstage><speaker>DRUSUS</speaker>.</hstage>
 	<l id="95" part="f">Poursuivez, sans que rien vous contraigne.</l>
 	<l id="96">Je lis dans votre cœur, Germanicus y règne :</l>
 	<l id="97">En vain à votre sort le mien doit être joint ;</l>
@@ -203,7 +203,7 @@
 	<l id="101">Et de deux cœurs soumis qui vous rendront des soins,</l>
 	<l id="102">Ce sera votre époux qui vous plaira le moins.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="103">Je dois vous l’avouer, et le puis sans faiblesse :</l>
 	<l id="104">J’ai pour Germanicus eu beaucoup de tendresse.</l>
 	<l id="105">L’ordre exprès d’Agrippa, de qui je tiens le jour,</l>
@@ -229,10 +229,10 @@
 	<l id="125">Et si Germanicus aigrit votre courroux</l>
 	<l id="126">Laissez-le moi haïr avant que d’être à vous.</l>
 </sp>
-<sp who="DRUSUS"><speaker>DRUSUS.</speaker>
+<sp who="DRUSUS"><hstage><speaker>DRUSUS</speaker>.</hstage>
 	<l id="127">À le haïr, Madame, avez-vous quelque pente ?</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="128">Je ne vous promet pas que mon cœur y consente.</l>
 	<l id="129">Quand il faut à la haine abandonner ses jours,</l>
 	<l id="130">Le cœur à la raison n’obéit pas toujours.</l>
@@ -244,7 +244,7 @@
 	<l id="136">De reprendre le cœur qu’il faut que je vous donne.</l>
 	<l id="137" part="i">Un mois est peu de chose, il me suffit.</l>
 </sp>
-<sp who="DRUSUS"><speaker>DRUSUS.</speaker>
+<sp who="DRUSUS"><hstage><speaker>DRUSUS</speaker>.</hstage>
 	<l id="137" part="f">Hélas !</l>
 	<l id="138">Un mois est peu de chose à vous qui n’aimez pas !</l>
 	<l id="139">Mais, Madame, aux amants dont les flammes paraissent,</l>
@@ -265,29 +265,29 @@
 	<l id="154">Devez-vous quelque chose à qui fait tout pour vous.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Agripine, Flavie.</head>
-<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Agripine, Flavie.</cast>
+<sp who="FLAVIE"><hstage><speaker>FLAVIE</speaker>.</hstage>
 	<l id="155">À vos souhaits, Madame, il a daigné se rendre.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="156">Il a fait plus pour moi que je n’osais attendre.</l>
 </sp>
-<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+<sp who="FLAVIE"><hstage><speaker>FLAVIE</speaker>.</hstage>
 	<l id="157">Lui tiendrez-vous parole, et pourrez-vous haïr...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="158">L’Empereur le commande, il faut bien obéir.</l>
 </sp>
-<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+<sp who="FLAVIE"><hstage><speaker>FLAVIE</speaker>.</hstage>
 	<l id="159">Ce n’est pas là répondre, et quoi qu’on se propose</l>
 	<l id="160">Pour haïr ce qu’on aime un mois est peu de chose :</l>
 	<l id="161">Votre premier amant vit toujours sous vos lois.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="162">Tu sais bien qu’à l’aimer je ne mis pas un mois.</l>
 	<l id="163">Le terme est assez long pour avoir de la haine.</l>
 </sp>
-<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+<sp who="FLAVIE"><hstage><speaker>FLAVIE</speaker>.</hstage>
 	<l id="164">On hait mal-aisément ce qu’on aima sans peine :</l>
 	<l id="165">Et si j’ose, après tout, m’expliquer sur ce point,</l>
 	<l id="166">Vous ne le pouvez pas, et ne le voulez point.</l>
@@ -307,7 +307,7 @@
 	<l id="179">Ne vous exposez point à des peines mortelles.</l>
 	<l id="180" part="i">Germanicus...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="180" part="f">Demain j’en aurai des nouvelles.</l>
 	<l id="181">Pison, qui sert ma flamme en attend aujourd’hui.</l>
 	<l id="182">J’ai beaucoup de sujet de me louer de lui.</l>
@@ -319,20 +319,20 @@
 	<l id="188">Et montre en ma faveur une bonté si grande,</l>
 	<l id="189" part="i">Un respect si profond...</l>
 </sp>
-<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+<sp who="FLAVIE"><hstage><speaker>FLAVIE</speaker>.</hstage>
 	<l id="189" part="f">Madame, le voici.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="190">De peur de le contraindre éloigne-toi d’ici.</l>
 	<l id="191">Quand je l’aurai quitté je t’irai tout apprendre.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Agripine, Pison.</head>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Agripine, Pison.</cast>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="192">Que venez-vous de me dire, et qu’ai-je lieu d’attendre ?</l>
 	<l id="193" part="i">Cher Pison.</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="193" part="f">Cette lettre, où sont peints vos secrets,</l>
 	<l id="194">Dés hier me fut rendue, et je l’apporte exprès.</l>
 	<l id="195">Je serais criminel, sachant qui vous l’envoie,</l>
@@ -341,10 +341,10 @@
 	<l id="198">Et mon plus grand plaisir est de vous en causer,</l>
 	<l id="199" part="i">Madame.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="199" part="f">Votre zèle a déjà su paraître.</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="200">Il n’a pu jusqu’ici se bien faire connaître.</l>
 	<l id="201">Ce zèle impétueux, s’il osait découvrir,</l>
 	<l id="202">Aurait peine, peut-être, à se faire souffrir.</l>
@@ -353,7 +353,7 @@
 	<l id="205">Ne la différez point, contentez votre esprit ;</l>
 	<l id="206">Et réglez vos desseins sur ce qu’on vous écrit.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE, lit.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>, lit.</hstage>
 	<l id="207">Ainsi que mon amour mon malheur est extrême ;</l>
 	<l id="208">Tandis que dans ces lieux je signale ma foi</l>
 	<l id="209">On dispose de ce que j’aime</l>
@@ -378,28 +378,28 @@
 <stage>Agripine continue.</stage>
 	<l id="227" part="i">Il vient, Pison !</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="227" part="f">Votre âme en paraît toute émue ;</l>
 	<l id="228">Souhaitez-vous, Madame, ou craignez-vous sa vue ?</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="229" part="i">Je le veux voir.</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="229" part="f">De grâce, examinez-vous bien.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="230">Je le veux voir, vous dis-je, et par votre moyen.</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="231">Eh, ne pourriez-vous point vous servir de quelque autre ?</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="232">Et quel zèle pour moi peut être égal au vôtre ?</l>
 	<l id="233">De semblables secrets souffrent peu de témoins.</l>
 	<l id="234" part="i">Vous les savez.</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="234" part="f">Hélas ! Que n’en sais-je un peu moins.</l>
 	<l id="235">À servir votre amour le plaisir que je goûte,</l>
 	<l id="236">M’est un plaisir fatal par le prix qu’il me coûte.</l>
@@ -410,28 +410,28 @@
 	<l id="241">Et je meurs de regret de venir en ce lieu</l>
 	<l id="242">Pour y prendre votre ordre, et pour vous dire adieu.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="243">Ce discours me surprend, et j’ai peine à comprendre..</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="244">Je me suis bien douté que j’allais vous surprendre.</l>
 	<l id="245">Mais je sens dans mon cœur des transports si confus...</l>
 	<l id="246">Si je m’expliquais mieux je vous surprendrais plus.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="247">Et si vous m’estimiez, vous de qui je dispose,</l>
 	<l id="248">D’un départ si soudain vous me diriez la cause.</l>
 	<l id="249">Avez-vous des raisons pour quitter ce séjour ?</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="250">Manque-t-on de raisons quand on a de l’amour ?</l>
 	<l id="251">Une illustre beauté m’a su rendre sensible</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="252">Pour partir de ce lieu, le prétexte est plausible.</l>
 	<l id="253">Mais vous estes secret, j’ignore vos amours.</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="254">Et s’il se peut, Madame, ignorez-les toujours.</l>
 	<l id="255">Aux succès de mes feux tant d’obstacles s’opposent,</l>
 	<l id="256">Que j’en fais un secret aux beaux yeux qui les causent.</l>
@@ -458,16 +458,16 @@
 	<l id="277">Mais sous tant de faux noms il déguisa le sien,</l>
 	<l id="278">Qu’il régnait dans mon âme, et je n’en savais rien.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="279">Si vous eussiez parlé rien n’était difficile :</l>
 	<l id="280">Aux succès de vos feux je pouvais être utile :</l>
 	<l id="281">Vous deviez à ma foi confier vos secrets.</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="282">Hé quoi ! Mes yeux, Madame, ont-ils été muets ?</l>
 	<l id="283">Ne vous ont-ils rien dit d’une ardeur si puissante ?</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="284">Au langage des yeux je ne suis pas savante :</l>
 	<l id="285">Mais si votre destin en peut être plus doux,</l>
 	<l id="286">Dites qui vous aimez, et je parle pour vous.</l>
@@ -480,7 +480,7 @@
 	<l id="293">Ne vous obstinez point à vouloir vous trahir.</l>
 	<l id="294" part="i">Parlez.</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="294" part="f">Vous le voulez, et je vais obéir.</l>
 	<l id="295">L’adorable Beauté qui captive mon âme,</l>
 	<l id="296">Peut être comparée avecque vous, Madame :</l>
@@ -491,10 +491,10 @@
 	<l id="301">Vos appas et les siens lancent de mêmes coups ;</l>
 	<l id="302">Et pour être aimé d’elle, il faut l’être de vous.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="303" part="i">De moi, Pison ?</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="303" part="f">De grâce ; achevez de m’entendre ;</l>
 	<l id="304">Mais calmez ce courroux, ou daignez le suspendre ;</l>
 	<l id="305">Et d’une âme tranquille, en ce malheureux jour,</l>
@@ -508,7 +508,7 @@
 	<l id="313">Et qui des deux, enfin, fait un crime plus grand,</l>
 	<l id="314">Ou de l’œil qui le donne, ou du cœur qui le prend ?</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="315">Ah ! Pison, si mes yeux ont osé vous séduire,</l>
 	<l id="316">Puisque je l’ignorais deviez-vous m’en instruire ?</l>
 	<l id="317">Et ne saviez-vous pas qu’en trahissant leur sort,</l>
@@ -517,7 +517,7 @@
 	<l id="320">Cet amour qui m’outrage, et qui vous rend coupable :</l>
 	<l id="321">Vous pouviez m’estimer, et me rendre des soins...</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="322">Eh ! que n’ai-je pas fait pour aimer un peu moins ?</l>
 	<l id="323">À l’aspect imprévu d’un mérite sublime,</l>
 	<l id="324">On n’a pas le loisir d’arrêter à l’estime ;</l>
@@ -528,7 +528,7 @@
 	<l id="329">Et si c’est vous trahir que d’avoir tant d’ardeur,</l>
 	<l id="330">Le crime est de mon Astre, et non pas de mon cœur.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="331">Si mes faibles appas, qu’offensent votre flamme,</l>
 	<l id="332">Ont osé s’abaisser jusqu’à toucher votre âme,</l>
 	<l id="333">Je veux bien consentir qu’envers moi, sur ce point,</l>
@@ -542,7 +542,7 @@
 	<l id="341">Et ne songez-vous point que vous seriez perdu,</l>
 	<l id="342">Si quelqu’autre que moi vous avait entendu ?</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="343">Si ma témérité, qu’un seul mot peut confondre,</l>
 	<l id="344">À l’ardeur que je sens vous pressait de répondre ;</l>
 	<l id="345">Si mon cœur prévenu, corrompant mon devoir,</l>
@@ -577,10 +577,10 @@
 	<l id="374">Qu’aucun autre que moi n’aimera jamais tant.</l>
 	<l id="375" part="i">Adieu, Madame.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="375" part="f">Ah ciel ! est-ce ainsi qu’on me laisse ?</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="376">Pour votre intérêt propre épargnez ma faiblesse,</l>
 	<l id="377">Madame. Jusqu’ici je n’ai rien mis au jour</l>
 	<l id="378">Qui soit honteux pour vous, excepté mon amour :</l>
@@ -606,7 +606,7 @@
 	<l id="398">Qu’il serait tout à moi, s’il n’était tout à lui ;</l>
 	<l id="399">Et qu’enfin plus sensible à mon amour extrême...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="400">Partez, Pison, partez, je vous chasse moi-même.</l>
 	<l id="401">Vous m’étiez nécessaire, et vous le saviez bien :</l>
 	<l id="402">J’attendais tout de vous, je n’en attends plus rien.</l>
@@ -619,36 +619,36 @@
 	<l id="409">Disposez du pouvoir que j’aurai dans ce lieu.</l>
 	<l id="410" part="i">Je vous l’ordonne.</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="410" part="m">Hélas ! Adieu, Madame.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="410" part="f">Adieu.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Agripine, Albin, Flavie.</head>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Agripine, Albin, Flavie.</cast>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="411">Mon amour te retient, et mon devoir te chasse.</l>
 	<l id="412">Obéis au devoir, retire-toi de grâce.</l>
 </sp>
-<sp who="ALBIN"><speaker>ALBIN.</speaker>
+<sp who="ALBIN"><hstage><speaker>ALBIN</speaker>.</hstage>
 	<l id="413">Quoi ! Me chasser, Madame, avec un si grand soin.</l>
 	<l id="414" part="i">Ô Ciel !</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="414" part="f">Germanicus ne doit pas être loin,</l>
 	<l id="415" part="i">Je crains sa vue.</l>
 </sp>
-<sp who="ALBIN"><speaker>ALBIN.</speaker>
+<sp who="ALBIN"><hstage><speaker>ALBIN</speaker>.</hstage>
 	<l id="415" part="f">Hélas ! il suffit de le plaindre.</l>
 	<l id="416">D’un Amant si soumis vous n’avez rien à craindre.</l>
 	<l id="417">Quoique vous l’arrachiez à l’espoir d’être à vous,</l>
 	<l id="418">D’une main qu’il adore il respecte les coups.</l>
 	<l id="419">Mais ne l’aimez-vous plus ? Sa disgrâce imprévue...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="420">Et ne t’ai-je pas dit, que je craignais sa vue ?</l>
 	<l id="421">Dans la dure contrainte ou mes vœux sont forcés,</l>
 	<l id="422">Dire que je le crains, c’est m’expliquer assez.</l>
@@ -694,11 +694,11 @@
 	<l id="462">Je perds bien plus en lui qu’il ne peut perdre en moi.</l>
 	<l id="463">Fais-lui voir que mon âme est dans un trouble extrême...</l>
 </sp>
-<sp who="ALBIN"><speaker>ALBIN.</speaker>
+<sp who="ALBIN"><hstage><speaker>ALBIN</speaker>.</hstage>
 	<l id="464">Madame, il va paraître, il le verra lui-même.</l>
 	<l id="465">Son amour vous l’amène , il marche sur mes pas.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="466">Et que me dira-t-il que je ne sache pas ?</l>
 	<l id="467">Pense-t-il qu’à ses yeux je captive mes larmes ?</l>
 	<l id="468">Il m’est trop cher, Albin, pour le voir sans alarmes :</l>
@@ -710,7 +710,7 @@
 	<l id="474">On a qu’un pas à faire, et l’on est à l’amour.</l>
 	<l id="475" part="i">Qu’il me fuie.</l>
 </sp>
-<sp who="ALBIN"><speaker>ALBIN.</speaker>
+<sp who="ALBIN"><hstage><speaker>ALBIN</speaker>.</hstage>
 	<l id="475" part="f">À sa flamme épargnez ce supplice :</l>
 	<l id="476">Exiler sa douleur, c’est en être complice.</l>
 	<l id="477">Il ne s’oubliera point à votre auguste aspect :</l>
@@ -724,30 +724,30 @@
 	<l id="485">À le voir autrefois vos beaux yeux se sont plus,</l>
 	<l id="486" part="i">Vous l’aimiez.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="486" part="f">Et crois-tu que je ne l’aime plus ?</l>
 </sp>
-<sp who="ALBIN"><speaker>ALBIN.</speaker>
+<sp who="ALBIN"><hstage><speaker>ALBIN</speaker>.</hstage>
 	<l id="487">Voyez-le donc : ce bien est le seul qu’il implore,</l>
 	<l id="488">Au nom d’un peu d’amour, s’il vous en reste encore ;</l>
 	<l id="489">Et de peur de sa mort qui suivrait vos refus,</l>
 	<l id="490">Au nom de la pitié, si vous ne l’aimez plus.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE, à Flavie.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>, à Flavie.</hstage>
 	<l id="491" part="i">Le verrai-je ?</l>
 </sp>
-<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+<sp who="FLAVIE"><hstage><speaker>FLAVIE</speaker>.</hstage>
 	<l id="491" part="f">Du moins c’est trop être interdite :</l>
 	<l id="492">De l’absence du Prince, il est bon qu’on profite.</l>
 	<l id="493">Ou souffrez qu’il vous voit, ou donnez d’autres lois.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE, à Albin.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>, à Albin.</hstage>
 	<l id="494">Au moins ce sera donc pour la dernière fois.</l>
 </sp>
-<sp who="ALBIN"><speaker>ALBIN.</speaker>
+<sp who="ALBIN"><hstage><speaker>ALBIN</speaker>.</hstage>
 	<l id="495" part="i">Oui, Madame.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="495" part="f">Qu’il vienne. Et si je lui fut chère,</l>
 	<l id="496">Que pour prix de l’effort qu’il me contraint de faire,</l>
 	<l id="497">Il ait soin de ma gloire, et ne l’expose pas.</l>
@@ -759,7 +759,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE, seule.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>, seule.</hstage>
 	<l id="503">D’où me vient ce désordre, et pourquoi suis-je émue ?</l>
 	<l id="504">Pourquoi ? Fuis pour jamais cette fatale vue :</l>
 	<l id="505">D’un Amant qu’on doit perdre écouter les soupirs,</l>
@@ -772,12 +772,12 @@
 	<l id="512" part="i">Hola !</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Agripine, Pison.</head>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Agripine, Pison.</cast>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="512" part="f">Quelle surprise est égale à la mienne ?</l>
 	<l id="513" part="i">C’est Pison !</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="513" part="f">Oui, Madame : et malgré mon adieu,</l>
 	<l id="514">J’interromps mon voyage, et reviens en ce lieu.</l>
 	<l id="515">Si tantôt à vos yeux j’ai montré ma faiblesse,</l>
@@ -796,10 +796,10 @@
 	<l id="528">La beauté de mon crime en doit faire l’excuse.</l>
 	<l id="529">Cet amour de mon cœur est banni pour jamais.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="530" part="i">Me le promettez-vous ?</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="530" part="f">Oui, je vous le promets.</l>
 	<l id="531">Je suis guéri, Madame ; et vous allez connaître,</l>
 	<l id="532">Qu’il serait mal-aisé de le pouvoir mieux être.</l>
@@ -813,10 +813,10 @@
 	<l id="540">Me fait voir un supplice à l’hymen qui vous gêne :</l>
 	<l id="541">Je ne vous dirai plus qu’épris de vos appas...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="542">Vous ne le direz plus ! ne le dites-vous pas ?</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="543">Dans le trouble inquiet, dont mon âme est atteinte,</l>
 	<l id="544">J’avais presque oublié que ma flamme est éteinte :</l>
 	<l id="545">Mon esprit dégagé reprenait ses liens ;</l>
@@ -834,13 +834,13 @@
 	<l id="557">Le retour de ce Prince allait trop éclater ;</l>
 	<l id="558" part="i">Vous l’allez voir paraître.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="558" part="f">Et je veux l’éviter.</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="559" part="i">Vous, Madame ?</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="559" part="f">Oui, Pison, c’est en vain que j’hésite :</l>
 	<l id="560">Pour le voir sans alarme il a trop de mérite.</l>
 	<l id="561">Quand de quelque vertu mon cœur serait armé,</l>
@@ -862,7 +862,7 @@
 	<l id="577">Albin, son confident vient de sortir d’ici.</l>
 	<l id="578" part="i">Je vous l’apprends.</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="578" part="f">Madame, il me l’a dit aussi.</l>
 	<l id="579">C’est un homme discret, mais à quoi qu’il s’engage,</l>
 	<l id="580">Votre gloire est d’un prix qu’il est bon qu’on ménage.</l>
@@ -874,42 +874,42 @@
 	<l id="586">Vous voulez qu’il l’apprenne, et votre ordre est pressant :</l>
 	<l id="587">J’obéis sans réplique ; et de peur qu’on l’amène...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="588">N’a-t-il point demandé si je le perds sans peine ?</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="589">L’âme toute agitée, et le cœur plein d’ennui,</l>
 	<l id="590">Il s’est enquis à moi, si vous songiez à lui ?</l>
 	<l id="591">Si l’époux qu’on vous donne a pour vous tant de charmes ?</l>
 	<l id="592">Et si vous le perdez sans verser quelques larmes ?</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="593" part="i">Qu’avez-vous dit ?</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="593" part="f">J’ai dit qu’il vous eût été doux</l>
 	<l id="594">De n’aimer que lui seul, comme il n’aime que vous :</l>
 	<l id="595">Que son rare mérite est gravé dans votre âme ;</l>
 	<l id="596">Et qu’un Prince absolu vous arrache à sa flamme.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="597" part="i">Et qu’a-t-il répondu ?</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="597" part="f">Ses soupirs à l’instant...</l>
 	<l id="598">Mais, Madame, il viendra si vous m’arrêtez tant.</l>
 	<l id="599">Ne vous exposez point à ce péril extrême :</l>
 	<l id="600">Les moments durent peu quand on voit ce qu’on aime.</l>
 	<l id="601">Si Drusus avec lui vous surprend sans témoins...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="602">Ah ! Pison, je m’égare, et l’on s’égare à moins.</l>
 	<l id="603" part="i">Allez lui dire... Ô Ciel ! le voici.</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="603" part="f">Je vous laisse.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="604">Demeurez. Vous, présent, j’aurai moins de faiblesse.</l>
 	<l id="605">Si mon cœur se hasarde à rien faire de bas,</l>
 	<l id="606">Ayez soin de ma gloire, et ne le souffrez pas.</l>
@@ -919,8 +919,8 @@
 	<l id="610">Qu’un héros, comme lui, soit traité comme vous.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Germanicus, Agripine, Pison, Albin, Flavie.</head>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Germanicus, Agripine, Pison, Albin, Flavie.</cast>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="611">Enfin, Prince, votre âme a lieu d’être contente :</l>
 	<l id="612">Vos illustres exploits ont rempli notre attente :</l>
 	<l id="613">Si l’on doit d’un grand cœur attendre un grand effet,</l>
@@ -930,7 +930,7 @@
 	<l id="617">Et souvent de ma joie étalant tout l’excès,</l>
 	<l id="618">En voyant mon visage on lisait vos succès.</l>
 </sp>
-<sp who="GERMANICUS"><speaker>GERMANICUS.</speaker>
+<sp who="GERMANICUS"><hstage><speaker>GERMANICUS</speaker>.</hstage>
 	<l id="619">Si de l’Elbe et du Rhin l’audace est confondue,</l>
 	<l id="620">C’est à vous, plus qu’à moi, que la gloire en est due.</l>
 	<l id="621">Je dois moins les exploits que j’ai faits en tous lieux</l>
@@ -945,26 +945,26 @@
 	<l id="630">Immolez à l’État, qu’immolez à l’amour.</l>
 	<l id="631">Je vous aime, et vous vois, mon bonheur est extrême...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="632" part="i">Adieu, Prince.</l>
 </sp>
-<sp who="GERMANICUS"><speaker>GERMANICUS.</speaker>
+<sp who="GERMANICUS"><hstage><speaker>GERMANICUS</speaker>.</hstage>
 	<l id="632" part="m">Me fuir !</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="632" part="m">Vous m’aimez ?</l>
 </sp>
-<sp who="GERMANICUS"><speaker>GERMANICUS.</speaker>
+<sp who="GERMANICUS"><hstage><speaker>GERMANICUS</speaker>.</hstage>
 	<l id="632" part="f">Je vous aime.</l>
 	<l id="633">Aucun autre sujet ne m’amène en ce lieu :</l>
 	<l id="634" part="i">Vous aimer fait ma joie : Et vous, Madame ?</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="634" part="f">Adieu.</l>
 	<l id="635">Je crains trop un combat dont l’issue est douteuse,</l>
 	<l id="636" part="i">Seigneur.</l>
 </sp>
-<sp who="GERMANICUS"><speaker>GERMANICUS.</speaker>
+<sp who="GERMANICUS"><hstage><speaker>GERMANICUS</speaker>.</hstage>
 	<l id="636" part="f">Et votre fuite, est-elle point honteuse ?</l>
 	<l id="637">Après trois ans d’absence il m’eût été bien doux</l>
 	<l id="638">De pouvoir plus longtemps demeurer prés de vous.</l>
@@ -974,7 +974,7 @@
 	<l id="642">Charmerait tout le monde, et ne serait qu’à moi.</l>
 	<l id="643" part="i">Cependant...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="643" part="f">Ah ! Seigneur, laissez-moi l’innocence :</l>
 	<l id="644">Épargnez à ma gloire un soupçon qui l’offense :</l>
 	<l id="645">À mon cœur tout à vous n’imputez rien de bas ;</l>
@@ -1005,7 +1005,7 @@
 	<l id="669">Et de peur que l’amour n’ébranlât le devoir,</l>
 	<l id="670">N’ose s’accoutumer au plaisir de vous voir.</l>
 </sp>
-<sp who="GERMANICUS"><speaker>GERMANICUS.</speaker>
+<sp who="GERMANICUS"><hstage><speaker>GERMANICUS</speaker>.</hstage>
 	<l id="671">Et que sera, Madame, à ma douleur mortelle</l>
 	<l id="672">L’inutile secours d’une pitié cruelle ?</l>
 	<l id="673">Ces regrets si touchants ont pour moi peu d’appas ;</l>
@@ -1035,35 +1035,35 @@
 	<l id="697">Et de votre pitié le secours apparent,</l>
 	<l id="698">Rend-il mon sort moins rude, et mon malheur moins grand ?</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="699">Je vois avec douleur celle d’un si grand homme ;</l>
 	<l id="700" part="i">Mais que puis-je ?</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="700" part="f">Drusus va revenir de Rome.</l>
 	<l id="701">De peur de vous trahir, je vous le dit tout haut.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE, à Pison.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>, à Pison.</hstage>
 	<l id="702" part="i">Croyez-vous qu’il revienne ?</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="702" part="m">On l’attend.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="702" part="f">Quoi ! Si tôt !</l>
 </sp>
-<sp who="GERMANICUS"><speaker>GERMANICUS.</speaker>
+<sp who="GERMANICUS"><hstage><speaker>GERMANICUS</speaker>.</hstage>
 	<l id="703">Pour calmer un transport, qui me serait funeste,</l>
 	<l id="704">Votre bonté, Madame, aura du temps de reste.</l>
 	<l id="705">Sauvez-moi de moi-même, et sans plus m’alarmer...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="706" part="i">Je vous l’ai déjà dit, que puis-je, enfin ?</l>
 </sp>
-<sp who="GERMANICUS"><speaker>GERMANICUS.</speaker>
+<sp who="GERMANICUS"><hstage><speaker>GERMANICUS</speaker>.</hstage>
 	<l id="706" part="f">M’aimer.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="707">Vous aimer ! Ah, Seigneur, qu’osez-vous me prescrire ?</l>
 	<l id="708">Songez-y : des malheurs vous souhaitez le pire.</l>
 	<l id="709">Vous garder ma tendresse, et l’oser mettre au jour,</l>
@@ -1086,7 +1086,7 @@
 	<l id="726">Des maux que je vous fais, c’est me punir assez.</l>
 	<l id="727" part="i">Ramenez-moi, Pison. Adieu, Prince.</l>
 </sp>
-<sp who="GERMANICUS"><speaker>GERMANICUS.</speaker>
+<sp who="GERMANICUS"><hstage><speaker>GERMANICUS</speaker>.</hstage>
 	<l id="727" part="f">Ah ! Madame !</l>
 	<l id="728">À travers vos discours je pénètre en votre âme :</l>
 	<l id="729">Au fils de l’Empereur votre cœur fait la cour ;</l>
@@ -1112,7 +1112,7 @@
 	<l id="749">Et d’un prix assez grand c’est payer vos attraits,</l>
 	<l id="750">Quand il en coûte un crime à qui n’en fit jamais.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="751">Je n’attendais pas, Prince, en un si sort si contraire,</l>
 	<l id="752">Un outrage si grand d’une bouche si chère :</l>
 	<l id="753">Ce reproche est sensible ; et si vous m’aimiez bien,</l>
@@ -1137,28 +1137,28 @@
 	<l id="771" part="i">Ramenez-moi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Flavie, Agripine, Germanicus, Pison, Albin.</head>
-<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Flavie, Agripine, Germanicus, Pison, Albin.</cast>
+<sp who="FLAVIE"><hstage><speaker>FLAVIE</speaker>.</hstage>
 	<l id="771" part="m">Madame...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="771" part="f">Ah ! Que viens-tu m’apprendre ?</l>
 </sp>
-<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+<sp who="FLAVIE"><hstage><speaker>FLAVIE</speaker>.</hstage>
 	<l id="772">Que le Fils de César dans ce lieu se va rendre.</l>
 	<l id="773">Il arrive de Rome, et s’avance à grands pas.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="774">Sortez donc vite, Prince, et ne me perdez pas.</l>
 	<l id="775">Si Drusus... Ah ! Pison, il y va de ma gloire,</l>
 	<l id="776">Vous cherchez à me plaire, et je cherche à le croire :</l>
 	<l id="777">Pour conduire en secret ce Prince en d’autres lieux,</l>
 	<l id="778">C’est sur vous seul, enfin, que je jette les yeux.</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="779" part="i">Sur moi ! Madame ?</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE, à Germanicus.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>, à Germanicus.</hstage>
 	<l id="779" part="f">Et vous, dans ce moment funeste,</l>
 	<l id="780">Seigneur, si du passé le souvenir vous reste,</l>
 	<l id="781">Par bonté, par justice, ou du moins par pitié,</l>
@@ -1176,8 +1176,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Flavie, Pison.</head>
-<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Flavie, Pison.</cast>
+<sp who="FLAVIE"><hstage><speaker>FLAVIE</speaker>.</hstage>
 	<l id="791">Dans votre Appartement le Prince va se rendre ;</l>
 	<l id="792">J’ai devancé ses pas pour venir vous l’apprendre.</l>
 	<l id="793">Du secret qu’on lui cache il semble être éclairci ;</l>
@@ -1191,7 +1191,7 @@
 	<l id="801">Et si l’on voit ici son rival triomphant,</l>
 	<l id="802">Tout condamne Agripine, et rien ne la défend.</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="803">Assez loin de ce lieu je viens de le conduire :</l>
 	<l id="804">Pour la mettre en repos, retournez l’en instruire.</l>
 	<l id="805">Je l’aurais été voir, pour lui donner avis</l>
@@ -1200,7 +1200,7 @@
 	<l id="808">Je n’ai pu le contraindre à prendre une autre route.</l>
 	<l id="809">Dût-il rendre à jamais ses jours infortunés...</l>
 </sp>
-<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+<sp who="FLAVIE"><hstage><speaker>FLAVIE</speaker>.</hstage>
 	<l id="810">La Princesse saura ce que vous m’apprenez,</l>
 	<l id="811">Seigneur ; et de ce pas je m’en vais tout lui dire.</l>
 	<l id="812">Le Prince qui paraît, fait que je me retire.</l>
@@ -1208,17 +1208,17 @@
 	<l id="814">Une fille d’Auguste implorer votre appui.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Drusus, Pison.</head>
-<sp who="DRUSUS"><speaker>DRUSUS.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Drusus, Pison.</cast>
+<sp who="DRUSUS"><hstage><speaker>DRUSUS</speaker>.</hstage>
 	<l id="815">Si j’en crois un grand bruit qui se vient de répandre,</l>
 	<l id="816">Mon rival est dans Rome, ou du moins s’y va rendre.</l>
 	<l id="817">Prés du Mont Apennin Rufus l’a rencontré :</l>
 	<l id="818">L’Empereur par lui-même en vient d’être assuré.</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="819" part="i">Votre rival, Seigneur ! Germanicus ?</l>
 </sp>
-<sp who="DRUSUS"><speaker>DRUSUS.</speaker>
+<sp who="DRUSUS"><hstage><speaker>DRUSUS</speaker>.</hstage>
 	<l id="819" part="f">Lui-même.</l>
 	<l id="820">Rome de son retour montre une joie extrême :</l>
 	<l id="821">Et déjà le Sénat qui se veut assembler,</l>
@@ -1240,10 +1240,10 @@
 	<l id="837">L’inébranlable appui de l’Empire Romain ;</l>
 	<l id="838">Et pour dire encor plus, l’honneur du genre humain.</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="839">Ce bruit qui vous alarme est-il su d’Agripine ?</l>
 </sp>
-<sp who="DRUSUS"><speaker>DRUSUS.</speaker>
+<sp who="DRUSUS"><hstage><speaker>DRUSUS</speaker>.</hstage>
 	<l id="840">Ce bruit m’alarme moins qu’on ne se l’imagine.</l>
 	<l id="841">Plût au Ciel... Vous m’aimez, et vous estes discret :</l>
 	<l id="842">Un secret su de vous, n’en est pas moins secret :</l>
@@ -1258,10 +1258,10 @@
 	<l id="851">Vous me l’aviez promis, et je vous le confesse ;</l>
 	<l id="852">Mais vous m’avez trop bien tenu votre promesse.</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="853" part="i">Moi, Seigneur ?</l>
 </sp>
-<sp who="DRUSUS"><speaker>DRUSUS.</speaker>
+<sp who="DRUSUS"><hstage><speaker>DRUSUS</speaker>.</hstage>
 	<l id="853" part="f">Oui, Pison, je dois trop à vos soins :</l>
 	<l id="854">Je vivrais plus heureux si je vous devais moins.</l>
 	<l id="855">Car enfin, c’est en vain que l’Empereur s’obstine</l>
@@ -1289,7 +1289,7 @@
 	<l id="877">Et je me voudrais mal si des yeux pleins d’appas</l>
 	<l id="878">Répandaient une larme, et ne me touchaient pas.</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="879">Ce retour vers Livie a droit de me surprendre :</l>
 	<l id="880">Vous lui devez le cœur que vous lui voulez rendre ;</l>
 	<l id="881">Mais après tout, Seigneur, à vous parler sans fard,</l>
@@ -1302,14 +1302,14 @@
 	<l id="888">Vous prête un digne exemple à demeurer fidèle :</l>
 	<l id="889" part="i">Tout parle en sa faveur ; mais enfin...</l>
 </sp>
-<sp who="DRUSUS"><speaker>DRUSUS.</speaker>
+<sp who="DRUSUS"><hstage><speaker>DRUSUS</speaker>.</hstage>
 	<l id="889" part="f">Ah ! Pison,</l>
 	<l id="890">Elle vient ; vos conseils ne sont plus de saison.</l>
 	<l id="891" part="i">Laissez-nous seuls.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Livie, Drusus.</head>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Livie, Drusus.</cast>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="891" part="f">Seigneur, vous auriez quelque peine</l>
 	<l id="892">À vous imaginer le sujet qui m’amène.</l>
 	<l id="893">Je ne viens point ici par d’indignes soupirs</l>
@@ -1352,14 +1352,14 @@
 	<l id="930">Il suffira de vous pour m’en faire raison.</l>
 	<l id="931" part="i">Tenez, Prince.</l>
 </sp>
-<sp who="DRUSUS"><speaker>DRUSUS.</speaker>
+<sp who="DRUSUS"><hstage><speaker>DRUSUS</speaker>.</hstage>
 	<l id="931" part="f">Madame, au nom de ce que j’aime...</l>
 	<l id="932">En croirez-vous mon cœur, s’il dit que c’est vous-même ?</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="933" part="i">Moi ! Seigneur ?</l>
 </sp>
-<sp who="DRUSUS"><speaker>DRUSUS.</speaker>
+<sp who="DRUSUS"><hstage><speaker>DRUSUS</speaker>.</hstage>
 	<l id="933" part="f">Vous pouvez, pour hâter mon trépas,</l>
 	<l id="934">Avoir la cruauté de ne me croire pas.</l>
 	<l id="935">Vous aimer, vous le dire, après mon inconstance,</l>
@@ -1393,7 +1393,7 @@
 	<l id="963">J’en atteste des Dieux la majesté suprême ;</l>
 	<l id="964" part="i">J’en atteste...</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="964" part="f">Autrefois vous en usiez de même.</l>
 	<l id="965">Vos perfides serments, tant de fois redoublez,</l>
 	<l id="966">Par votre ingratitude ont été violez.</l>
@@ -1418,7 +1418,7 @@
 	<l id="985">Pour vous tyranniser tout prendrait mon parti ;</l>
 	<l id="986">Et vous ne sentiriez que ce que j’ai senti.</l>
 </sp>
-<sp who="DRUSUS"><speaker>DRUSUS.</speaker>
+<sp who="DRUSUS"><hstage><speaker>DRUSUS</speaker>.</hstage>
 	<l id="987">Hé bien, Madame, hé bien, si pour vous satisfaire</l>
 	<l id="988">Le retour de mes feux vous était nécessaire,</l>
 	<l id="989">S’il faut vous adorer pour mieux sentir vos coups ;</l>
@@ -1440,7 +1440,7 @@
 	<l id="1005">Et mon dernier soupir, offert à vos appas,</l>
 	<l id="1006" part="i">Justifiera...</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="1006" part="f">Seigneur, ne m’attendrissez pas.</l>
 	<l id="1007">Si je m’étais rendue à vos fausses tendresses</l>
 	<l id="1008">Vous me seriez garant de toutes mes faiblesses.</l>
@@ -1454,7 +1454,7 @@
 	<l id="1016">Reprenez vos écrits, si vous les voulez prendre,</l>
 	<l id="1017">Seigneur ; je risque trop à demeurer ici.</l>
 </sp>
-<sp who="DRUSUS"><speaker>DRUSUS.</speaker>
+<sp who="DRUSUS"><hstage><speaker>DRUSUS</speaker>.</hstage>
 	<l id="1018">Hé bien, je les reprends, vous le voulez ainsi.</l>
 	<l id="1019">Mais s’il vous reste encor quelque ombre de tendresse,</l>
 	<l id="1020">Souffrez que de nouveau mon cœur vous les adresse ;</l>
@@ -1505,13 +1505,13 @@
 	<l id="1062">M’a coûté trop de maux pour en jamais commettre.</l>
 	<l id="1063">Rendez-moi votre cœur, et calmez le courroux...</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="1064">Quand je vous le rendrais, ingrat, qu’en feriez-vous ?</l>
 	<l id="1065">Vous épousez demain la Princesse Agripine :</l>
 	<l id="1066">On l’arrache à mon frère, et on vous la destine :</l>
 	<l id="1067">Pour son intérêt seul, je sais tout sur ce point.</l>
 </sp>
-<sp who="DRUSUS"><speaker>DRUSUS.</speaker>
+<sp who="DRUSUS"><hstage><speaker>DRUSUS</speaker>.</hstage>
 	<l id="1068">Non, Madame, demain je ne l’épouse point.</l>
 	<l id="1069">J’ai tantôt vu César. Agripine qu’il gêne,</l>
 	<l id="1070">À l’hymen que je fuis ne consent qu’avec peine :</l>
@@ -1535,7 +1535,7 @@
 	<l id="1088">L’arracher à ses feux c’est le désespérer ;</l>
 	<l id="1089">De son sort, et du mien je vous rends la maîtresse.</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="1090">Seigneur, par trop d’endroits vous tentez ma faiblesse.</l>
 	<l id="1091">C’est après votre crime un nouvel attentat,</l>
 	<l id="1092">Que d’appeler mon frère au secours d’un Ingrat.</l>
@@ -1543,29 +1543,29 @@
 	<l id="1094">Et de peur de me rendre il est temps que je fuie.</l>
 	<l id="1095">Ma haine en sa faveur aurait peine à durer.</l>
 </sp>
-<sp who="DRUSUS"><speaker>DRUSUS.</speaker>
+<sp who="DRUSUS"><hstage><speaker>DRUSUS</speaker>.</hstage>
 	<l id="1096">Si je le rends heureux, qu’ai-je lieu d’espérer ?</l>
 	<l id="1097">Deviendrez-vous sensible à l’ardeur qui m’anime ?</l>
 	<l id="1098">En faveur de ce frère oublierez-vous mon crime ?</l>
 	<l id="1099">Vous contenterez-vous des maux que j’ai soufferts ?</l>
 	<l id="1100">Me sera-t-il permis de rentrer dans vos fers ?</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="1101">Rendez mon frère heureux, si vous le pouvez faire ;</l>
 	<l id="1102">Une belle action n’attend point de salaire :</l>
 	<l id="1103" part="i">Et s’il vous en faut un...</l>
 </sp>
-<sp who="DRUSUS"><speaker>DRUSUS.</speaker>
+<sp who="DRUSUS"><hstage><speaker>DRUSUS</speaker>.</hstage>
 	<l id="1103" part="m">Hé bien, Madame ?</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="1103" part="f">Adieu.</l>
 	<l id="1104">La Princesse Agripine arrive dans ce lieu.</l>
 	<l id="1105">Servez Germanicus, l’occasion est belle.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Agripine, Drusus, Flavie.</head>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Agripine, Drusus, Flavie.</cast>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1106">Seigneur, je vous apporte une grande nouvelle.</l>
 	<l id="1107">Je perds Germanicus, et le perds à regret ;</l>
 	<l id="1108">Je vous honore trop pour en faire un secret.</l>
@@ -1574,10 +1574,10 @@
 	<l id="1111">Pour m’en faire un devoir je suis preste demain</l>
 	<l id="1112">En présence des Dieux de vous donner la main.</l>
 </sp>
-<sp who="DRUSUS"><speaker>DRUSUS.</speaker>
+<sp who="DRUSUS"><hstage><speaker>DRUSUS</speaker>.</hstage>
 	<l id="1113" part="i">Ô Ciel !</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1113" part="f">D’aucun soupçon n’ayez l’âme blessée</l>
 	<l id="1114">Si je n’ai pas d’abord cette ardeur empressée,</l>
 	<l id="1115">Ces désirs violents, et ces transports si doux,</l>
@@ -1591,13 +1591,13 @@
 	<l id="1123">Vous aurez de la peine à vous apercevoir,</l>
 	<l id="1124">Si j’agis par amour, ou si c’est par devoir.</l>
 </sp>
-<sp who="DRUSUS"><speaker>DRUSUS.</speaker>
+<sp who="DRUSUS"><hstage><speaker>DRUSUS</speaker>.</hstage>
 	<l id="1125">Non, c’est trop vous gêner : l’Empereur pour vous plaire,</l>
 	<l id="1126">Consent que pour un mois notre Hymen se diffère.</l>
 	<l id="1127">Je l’ai vu par votre ordre, et sans être en courroux</l>
 	<l id="1128" part="i">Il m’a promis...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1128" part="f">Seigneur, je l’ai vu depuis vous.</l>
 	<l id="1129">Je viens de le quitter. Et pour ne vous rien taire,</l>
 	<l id="1130">L’effort qu’en ma faveur vous avez daigné faire,</l>
@@ -1620,21 +1620,21 @@
 	<l id="1147">Et que si prés, Seigneur, de vivre sous vos lois,</l>
 	<l id="1148">Je sois en liberté pour la dernière fois.</l>
 </sp>
-<sp who="DRUSUS"><speaker>DRUSUS.</speaker>
+<sp who="DRUSUS"><hstage><speaker>DRUSUS</speaker>.</hstage>
 	<l id="1149">Madame, j’obéis. Ce que je viens d’entendre</l>
 	<l id="1150">Me surprend d’autant plus que je n’osais l’attendre.</l>
 	<l id="1151">Votre bonté m’accable, et je jure à vos yeux...</l>
 	<l id="1152">Quand j’aurai vu César je m’expliquerai mieux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Agripine, Flavie.</head>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Agripine, Flavie.</cast>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1153">Hé bien, Flavie, hé bien, seras-tu satisfaite ?</l>
 	<l id="1154">Trouves-tu maintenant ma victoire imparfaite ?</l>
 	<l id="1155">Ai-je assez bien rempli mon sévère devoir ?</l>
 	<l id="1156">À mes sens interdits reste-t-il quelque espoir ?</l>
 </sp>
-<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+<sp who="FLAVIE"><hstage><speaker>FLAVIE</speaker>.</hstage>
 	<l id="1157">Madame, je comprends quel chagrin vous dévore</l>
 	<l id="1158">Si pour Germanicus vous soupirez encore :</l>
 	<l id="1159">Mais vouloir que Drusus vous épouse demain ;</l>
@@ -1644,7 +1644,7 @@
 	<l id="1163">Dérober tout espoir au grand Germanicus ;</l>
 	<l id="1164">Tout cela dit assez que vous ne l’aimez plus.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1165">Attends, attends, Flavie, à tenir ce langage,</l>
 	<l id="1166">Que le sort inflexible ait épuisé sa rage ;</l>
 	<l id="1167">Et qu’aux yeux du Sénat, comme je l’ai promis,</l>
@@ -1677,8 +1677,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Agripine, Pison.</head>
-<sp who="PISON"><speaker>PISON.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Agripine, Pison.</cast>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="1193">Madame, pardonnez à mon impatience ;</l>
 	<l id="1194">J’ai besoin en secret d’un moment d’audience :</l>
 	<l id="1195">Ce que je dois vous dire est assez délicat</l>
@@ -1689,7 +1689,7 @@
 	<l id="1200">Quand j’aurai signalé l’amour que j’ai pour vous.</l>
 	<l id="1201">Je mourrai sans regret si l’objet que j’adore...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1202">Téméraire Pison, qu’allez-vous dire encore ?</l>
 	<l id="1203">Ma coupable indulgence entretient votre erreur :</l>
 	<l id="1204">Mais si vous n’étouffez cette insolente ardeur ;</l>
@@ -1714,7 +1714,7 @@
 	<l id="1223">Sûre qu’à votre orgueil, que je viens d’abaisser,</l>
 	<l id="1224">Il n’échappera rien qui me puisse offenser.</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="1225">Malgré ce fier mépris, je ne perds pas l’envie</l>
 	<l id="1226">De vous être fidèle au dépens de ma vie.</l>
 	<l id="1227">Quoi que sous votre empire un cœur puisse endurer,</l>
@@ -1732,21 +1732,21 @@
 	<l id="1239">Et pour le Consulat il me fait designer,</l>
 	<l id="1240">Si je veux cette nuit l’aller assassiner.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1241" part="i">L’assassiner, Pison !</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="1241" part="f">Je l’ai promis, Madame.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1242">Tu l’as promis ! Sais-tu que c’est m’arracher l’âme ?</l>
 	<l id="1243">Pourras-tu sans remords te noircir à ce point ?</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="1244">Madame, au nom des Dieux ne vous emportez point.</l>
 	<l id="1245" part="i">C’est me perdre.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1245" part="f">Est-ce à tort, cruel, que je m’emporte ?</l>
 	<l id="1246">Que je te perde, ou non, malheureux, que m’importe ?</l>
 	<l id="1247">Si tu perds un héros qu’adore l’Univers,</l>
@@ -1760,7 +1760,7 @@
 	<l id="1255">Et tu vas acquérir, par un crime odieux,</l>
 	<l id="1256">Ce que par leurs vertus ont acquis tes aïeux.</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="1257">Ce que j’ai fait pour vous, vous permet-il de croire,</l>
 	<l id="1258">Que je trahisse ensemble, et ma flamme, et ma gloire ?</l>
 	<l id="1259">Et qu’osant violer les droits les plus sacrez</l>
@@ -1798,7 +1798,7 @@
 	<l id="1291">Et de taire un secret qui pourrait me ravir</l>
 	<l id="1292">L’honneur que je reçois quand je puis vous servir.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1293">Pardonnez, cher Pison, si l’horreur d’un tel crime</l>
 	<l id="1294">Vous a pour un moment dérobé mon estime :</l>
 	<l id="1295">Dans les premiers transports d’un si juste courroux,</l>
@@ -1806,7 +1806,7 @@
 	<l id="1297">Drusus d’un si grand crime est sans doute complice,</l>
 	<l id="1298" part="i">Pison ?</l>
 </sp>
-<sp who="PISON"><speaker>PISON.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>.</hstage>
 	<l id="1298" part="f">L’en soupçonner, c’est lui faire injustice.</l>
 	<l id="1299">Pour son propre intérêt le sensible Drusus</l>
 	<l id="1300">Voudrait vous voir unie avec Germanicus.</l>
@@ -1816,8 +1816,8 @@
 	<l id="1304">Empêchez que dans Rome il ne passe la nuit.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Germanicus, Agripine.</head>
-<sp who="GERMANICUS"><speaker>GERMANICUS.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Germanicus, Agripine.</cast>
+<sp who="GERMANICUS"><hstage><speaker>GERMANICUS</speaker>.</hstage>
 	<l id="1305">Je ne sais de quel œil vous verrez un coupable,</l>
 	<l id="1306">Dont l’amour violent rend le crime excusable :</l>
 	<l id="1307">J’ai tantôt, je l’avoue, avec un peu d’aigreur</l>
@@ -1841,7 +1841,7 @@
 	<l id="1325">Que vois-je ? Me trompai-je ? Ou, pleurez-vous encore,</l>
 	<l id="1326" part="i">Ma Princesse ?</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1326" part="f">Seigneur, si je ne vous adore,</l>
 	<l id="1327">Si vous n’êtes vous seul l’objet de tout mon soin,</l>
 	<l id="1328">Me punissent les Dieux que j’en prends à témoin.</l>
@@ -1866,10 +1866,10 @@
 	<l id="1347">Et d’infidélité vous m’allez soupçonner,</l>
 	<l id="1348">Quand je vous aurai dit qu’il faut m’abandonner,</l>
 </sp>
-<sp who="GERMANICUS"><speaker>GERMANICUS.</speaker>
+<sp who="GERMANICUS"><hstage><speaker>GERMANICUS</speaker>.</hstage>
 	<l id="1349" part="i">Moi, Madame ?</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1349" part="f">Seigneur, je souffre par avance,</l>
 	<l id="1350">Tout ce qu’a de cruel cette fatale absence :</l>
 	<l id="1351">Je prévois tous les maux qui me vont accabler ;</l>
@@ -1883,7 +1883,7 @@
 	<l id="1359">Et pour tromper le sort qu’il vous faut redouter,</l>
 	<l id="1360">Je n’examine point ce qu’il doit m’en coûter.</l>
 </sp>
-<sp who="GERMANICUS"><speaker>GERMANICUS.</speaker>
+<sp who="GERMANICUS"><hstage><speaker>GERMANICUS</speaker>.</hstage>
 	<l id="1361">Et qui peut mettre obstacle au succès de ma flamme ?</l>
 	<l id="1362">Excepté vos rigueurs, qu’ai-je à craindre, Madame ?</l>
 	<l id="1363">Que pourra de Drusus l’inutile courroux ?</l>
@@ -1894,7 +1894,7 @@
 	<l id="1368">Et je viens de sa part vous en entretenir.</l>
 	<l id="1369" part="i">Demain César, et moi...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1369" part="f">Point de demain, de grâce.</l>
 	<l id="1370">D’un péril trop certain cette nuit vous menace.</l>
 	<l id="1371">Seigneur, il faut sur l’heure abandonner ce lieu :</l>
@@ -1919,7 +1919,7 @@
 	<l id="1388">S’être acquis tant de gloire est un crime d’État.</l>
 	<l id="1389" part="i">Partez, vous dis-je.</l>
 </sp>
-<sp who="GERMANICUS"><speaker>GERMANICUS.</speaker>
+<sp who="GERMANICUS"><hstage><speaker>GERMANICUS</speaker>.</hstage>
 	<l id="1389" part="f">Hé quoi, voulez-vous que je crois</l>
 	<l id="1390">Que l’espoir de me perdre est ce qui fait sa joie ?</l>
 	<l id="1391">Et que de mon retour il feint d’être charmé,</l>
@@ -1948,7 +1948,7 @@
 	<l id="1414">Et ce qu’un si grand Prince a montré de tendresses !</l>
 	<l id="1415">Vous en seriez touchée, et loin de le haïr...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1416">Ah ! Seigneur, qu’un héros est facile à trahir !</l>
 	<l id="1417">Et que lorsqu’on possède une vertu sublime,</l>
 	<l id="1418">On se livre aisément aux embûches du crime !</l>
@@ -1984,7 +1984,7 @@
 	<l id="1448">Que perdez-vous en moi pour balancer ainsi ?</l>
 	<l id="1449" part="i">Seigneur.</l>
 </sp>
-<sp who="GERMANICUS"><speaker>GERMANICUS.</speaker>
+<sp who="GERMANICUS"><hstage><speaker>GERMANICUS</speaker>.</hstage>
 	<l id="1449" part="f">Ce que je perds ! l’ignorez-vous, Madame ?</l>
 	<l id="1450">Si le fils de César vous arrache à ma flamme ;</l>
 	<l id="1451">S’il faut qu’à cet affront le Ciel m’ait réservé ;</l>
@@ -2012,7 +2012,7 @@
 	<l id="1473">Il vous rend à mes feux, et je ne puis sans crime,</l>
 	<l id="1474">Soupçonner d’artifice un cœur si magnanime.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1475">Seigneur, à quelle honte allez-vous m’exposer ?</l>
 	<l id="1476">Il va m’en coûter un pour vous désabuser.</l>
 	<l id="1477">D’un ami généreux je vais trahir le zèle :</l>
@@ -2028,11 +2028,11 @@
 	<l id="1487">Et s’il ne l’avait pas il faudrait lui donner,</l>
 	<l id="1488">Puisqu’il veut cette nuit vous faire assassiner.</l>
 </sp>
-<sp who="GERMANICUS"><speaker>GERMANICUS.</speaker>
+<sp who="GERMANICUS"><hstage><speaker>GERMANICUS</speaker>.</hstage>
 	<l id="1489">Me faire assassiner ! Lui, Madame ? On vous trompe.</l>
 	<l id="1490" part="i">César...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1490" part="f">Hé bien, cruel, souffrez qu’il vous corrompe :</l>
 	<l id="1491">Où la mort vous attend précipitez vos pas :</l>
 	<l id="1492">Croyez qui vous veut perdre, et ne me croyez pas.</l>
@@ -2057,7 +2057,7 @@
 	<l id="1511">Si vous en frémissez ; quel serait votre effroi,</l>
 	<l id="1512">Si vous aviez le cœur aussi tendre que moi ?</l>
 </sp>
-<sp who="GERMANICUS"><speaker>GERMANICUS.</speaker>
+<sp who="GERMANICUS"><hstage><speaker>GERMANICUS</speaker>.</hstage>
 	<l id="1513">Et que m’importe, hélas ! quand tout me désespère,</l>
 	<l id="1514">Qui m’arrache le jour de vous, ou de Tibère ?</l>
 	<l id="1515">Si j’échappe à sa haine, expirer de douleur,</l>
@@ -2079,7 +2079,7 @@
 	<l id="1531">Je ne partirai point si vous en soupirez ;</l>
 	<l id="1532" part="i">Promettez-moi...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1532" part="f">Seigneur, vous me désespérez.</l>
 	<l id="1533">Dans l’état déplorable où mon âme est réduite,</l>
 	<l id="1534">Je crains votre présence, et je crains votre fuite.</l>
@@ -2097,8 +2097,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Agripine, Flavian.</head>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Agripine, Flavian.</cast>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1545">Vient-elle ? L’as-tu vue ? et puis-je me promettre</l>
 	<l id="1546">Qu’au dangereux Pison elle ait rendu ma lettre ?</l>
 	<l id="1547">Si du trouble où je suis il peut être averti,</l>
@@ -2134,8 +2134,8 @@
 	<l id="1576">Elle serait... Flavie est enfin de retour.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Agripine, Flavie, Flavian.</head>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Agripine, Flavie, Flavian.</cast>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1577">Hélas ! Flavie, hélas ! que tu m’as mise en peine !</l>
 	<l id="1578">Des malheurs que je crains viens me rendre certaine.</l>
 	<l id="1579">Dis-moi ce qu’on a fait, et ce que l’on résout.</l>
@@ -2143,7 +2143,7 @@
 	<l id="1581">Désespère mon cœur, ou le rends plus tranquille.</l>
 	<l id="1582" part="i">Parle.</l>
 </sp>
-<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+<sp who="FLAVIE"><hstage><speaker>FLAVIE</speaker>.</hstage>
 	<l id="1582" part="f">J’ai fait à Rome un voyage inutile,</l>
 	<l id="1583">Madame, et tous mes soins ont été superflus.</l>
 	<l id="1584">On ne m’a rien appris du grand Germanicus.</l>
@@ -2162,7 +2162,7 @@
 	<l id="1597">Que vous dirai-je ? on tremble, et loin qu’on se hasarde</l>
 	<l id="1598" part="i">À vouloir...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1598" part="f">Parle-moi de ce qui me regarde.</l>
 	<l id="1599">Parle-moi du héros pour qui j’eus tant d’amour,</l>
 	<l id="1600">Flavie ; et laisse-là l’Empereur et la Cour.</l>
@@ -2170,7 +2170,7 @@
 	<l id="1602">L’as-tu vu ? Viendra-t-il ? A-t-il reçu ma Lettre ?</l>
 	<l id="1603">S’il savait ma douleur il serait arrivé.</l>
 </sp>
-<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+<sp who="FLAVIE"><hstage><speaker>FLAVIE</speaker>.</hstage>
 	<l id="1604">Je l’ai cherché, Madame, et ne l’ai point trouvé,</l>
 	<l id="1605">Je m’en suis informée avec un soin extrême ;</l>
 	<l id="1606">J’ai vu tous ses amis, j’ai vu son père même,</l>
@@ -2183,7 +2183,7 @@
 	<l id="1613">En quelque lieu qu’il soit aucun n’en peut rien dire.</l>
 	<l id="1614" part="i">On ignore...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1614" part="f">Il suffit, souffre que je respire.</l>
 	<l id="1615">Ce que je désirais, Flavie, est arrivé :</l>
 	<l id="1616">Mes souhaits sont remplis : mon Amant est sauvé.</l>
@@ -2207,7 +2207,7 @@
 	<l id="1634">Soit que son zèle ardent n’ait songé à me plaire ;</l>
 	<l id="1635">De ce Prince sans doute il a suivi les pas.</l>
 </sp>
-<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+<sp who="FLAVIE"><hstage><speaker>FLAVIE</speaker>.</hstage>
 	<l id="1636">Je voudrais qu’il fût vrai, mais je ne le crois pas.</l>
 	<l id="1637">Si j’ose m’expliquer, mon erreur est extrême,</l>
 	<l id="1638">Ou bien Germanicus n’est point party lui-même.</l>
@@ -2215,10 +2215,10 @@
 	<l id="1640">Madame, il vous adore, et ne craint point la mort.</l>
 	<l id="1641">S’il vous eût obéie, il eût trahi sa flamme.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1642" part="i">Ne me déguise rien. L’as-tu vu ?</l>
 </sp>
-<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+<sp who="FLAVIE"><hstage><speaker>FLAVIE</speaker>.</hstage>
 	<l id="1642" part="f">Non, Madame.</l>
 	<l id="1643">Mais Albin est à Rome, et je l’ai rencontré.</l>
 	<l id="1644">Aussitôt qu’à mes yeux le hasard l’a montré,</l>
@@ -2229,7 +2229,7 @@
 	<l id="1649">J’ai vu dans ses regards un désordre funeste ;</l>
 	<l id="1650">Et je doute... Je crains de vous dire le reste.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1651">Parle, je te l’ordonne, ou cesse de me voir.</l>
 	<l id="1652">Je crains plus de malheur, que je n’en puis savoir.</l>
 	<l id="1653">Ne me dérobe pas la douceur de me plaindre.</l>
@@ -2237,17 +2237,17 @@
 	<l id="1655">Finis l’incertitude où flottent mes esprits.</l>
 	<l id="1656" part="i">Germanicus est mort ?</l>
 </sp>
-<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+<sp who="FLAVIE"><hstage><speaker>FLAVIE</speaker>.</hstage>
 	<l id="1656" part="f">Je n’en ai rien appris,</l>
 	<l id="1657">Madame. Mais enfin s’il faut parler sans feindre,</l>
 	<l id="1658">Pour un Prince si cher vous avez lieu de craindre.</l>
 	<l id="1659">On a fait en tumulte assembler le Sénat :</l>
 	<l id="1660">On parle sourdement de quelque assassinat.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1661" part="i">Ah, Dieux !</l>
 </sp>
-<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+<sp who="FLAVIE"><hstage><speaker>FLAVIE</speaker>.</hstage>
 	<l id="1661" part="f">On ne dit point, tant on craint sa colère,</l>
 	<l id="1662">À quelle illustre vie en a voulu Tibère ;</l>
 	<l id="1663">Car à chaque forfait dont il s’ose flétrir,</l>
@@ -2260,7 +2260,7 @@
 	<l id="1670">Ce qu’il a de mérite en est la seule cause.</l>
 	<l id="1671">Jusqu’ici cependant on ignore son sort.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1672">On l’ignore ! Dis tout. Germanicus est mort.</l>
 	<l id="1673">C’est me nier en vain ce qu’il faut que je sache :</l>
 	<l id="1674">Jamais de ses pareils le trépas ne se cache :</l>
@@ -2292,21 +2292,21 @@
 	<l id="1700">Après l’heureux succès d’un si noir attentat.</l>
 	<l id="1701">Flavie, as-tu compris la grandeur de ma peine ?</l>
 </sp>
-<sp who="FLAVIE"><speaker>FLAVIE.</speaker>
+<sp who="FLAVIE"><hstage><speaker>FLAVIE</speaker>.</hstage>
 	<l id="1702">Albin de votre sort va vous rendre certaine,</l>
 	<l id="1703" part="i">Il vient.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Agripine, Albin, Flavie, Flavian.</head>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Agripine, Albin, Flavie, Flavian.</cast>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1703" part="f">Hé bien, Albin, ce que j’aimais est mort ?</l>
 	<l id="1704" part="i">Germanicus...</l>
 </sp>
-<sp who="ALBIN"><speaker>ALBIN.</speaker>
+<sp who="ALBIN"><hstage><speaker>ALBIN</speaker>.</hstage>
 	<l id="1704" part="f">Pison a terminé son sort,</l>
 	<l id="1705" part="i">Madame.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1705" part="f">Le perfide ! Et tu ne peux me dire</l>
 	<l id="1706">En quel endroit fatal l’assassin se retire ?</l>
 	<l id="1707">J’irais, malgré César qui se fait son appui,</l>
@@ -2321,21 +2321,21 @@
 	<l id="1716">De peur de m’attendrir tu n’oses t’expliquer.</l>
 	<l id="1717">Parle ; je sais sa mort, je puis savoir le reste.</l>
 </sp>
-<sp who="ALBIN"><speaker>ALBIN.</speaker>
+<sp who="ALBIN"><hstage><speaker>ALBIN</speaker>.</hstage>
 	<l id="1718">Me préservent les Dieux d’un emploi si funeste !</l>
 	<l id="1719">Donnez moins de créance à des rapports confus.</l>
 	<l id="1720">Germanicus respire, et Pison ne vit plus.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1721" part="i">Et Pison ne vit plus !</l>
 </sp>
-<sp who="ALBIN"><speaker>ALBIN.</speaker>
+<sp who="ALBIN"><hstage><speaker>ALBIN</speaker>.</hstage>
 	<l id="1721" part="m">Non, Madame.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1721" part="f">Qu’entends-je ?</l>
 </sp>
-<sp who="ALBIN"><speaker>ALBIN.</speaker>
+<sp who="ALBIN"><hstage><speaker>ALBIN</speaker>.</hstage>
 	<l id="1722">Germanicus le pleure, et peut-être le venge.</l>
 	<l id="1723">Pison en le servant a fini son destin.</l>
 	<l id="1724">Je ne puis sans frémir en nommer l’assassin.</l>
@@ -2384,10 +2384,10 @@
 	<l id="1767">Et Pison, dont le sang criait vengeance aux Dieux,</l>
 	<l id="1768">Est le premier objet qui m’a frappé les yeux.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1769">Que je le plains, Albin, et que son sort me touche !</l>
 </sp>
-<sp who="ALBIN"><speaker>ALBIN.</speaker>
+<sp who="ALBIN"><hstage><speaker>ALBIN</speaker>.</hstage>
 	<l id="1770">Je me suis à l’instant approché de sa bouche.</l>
 	<l id="1771">Son cœur prêt d’expirer luttait contre la mort :</l>
 	<l id="1772">Cependant à ma voix il m’a connu d’abord.</l>
@@ -2436,27 +2436,27 @@
 	<l id="1815">Et sûr qu’en vous servant il va perdre le jour,</l>
 	<l id="1816">Prend les traits de la mort pour des traits de l’amour.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1817">Cher Pison, qui m’aimais d’une amitié si pure,</l>
 	<l id="1818">Pardonne à mon orgueil ce qu’il t’a fait d’injure ;</l>
 	<l id="1819">Et pour prix de tes soins dignes d’un autre sort</l>
 	<l id="1820">Daigne accepter les pleurs que je donne à ta mort.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE DERNIÈRE. Germanicus, Agrippine, Drusus, Livie, Albin, Flavian, Flavie.</head>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE DERNIÈRE.</head><cast>Germanicus, Agrippine, Drusus, Livie, Albin, Flavian, Flavie.</cast>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1821">Ou venez-vous, Seigneur, et quelle est votre envie ?</l>
 	<l id="1822">L’infortuné Pison vient de perdre la vie :</l>
 	<l id="1823">Des desseins de César sa mort vous éclaircit.</l>
 	<l id="1824" part="i">Fuyez, Seigneur.</l>
 </sp>
-<sp who="GERMANICUS"><speaker>GERMANICUS.</speaker>
+<sp who="GERMANICUS"><hstage><speaker>GERMANICUS</speaker>.</hstage>
 	<l id="1824" part="f">Albin m’en a fait le récit,</l>
 	<l id="1825">Madame, et le Sénat par un ordre équitable,</l>
 	<l id="1826">Pour venger ce trépas fait chercher le coupable.</l>
 	<l id="1827">César qui de ce crime a lieu d’être surpris...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1828">César, Seigneur ! Albin vous a-t-il tout appris ?</l>
 	<l id="1829">Vous a-t-il dit ?... César est surpris de ce crime !</l>
 	<l id="1830">Que je vous plains, Seigneur, d’être si magnanime.</l>
@@ -2465,7 +2465,7 @@
 	<l id="1832">Prince, il est votre père, et je perds le respect :</l>
 	<l id="1833">Mais de sa cruauté vous avez connaissance.</l>
 </sp>
-<sp who="DRUSUS"><speaker>DRUSUS.</speaker>
+<sp who="DRUSUS"><hstage><speaker>DRUSUS</speaker>.</hstage>
 	<l id="1834">Épargnez-le, Madame, au moins en ma présence ;</l>
 	<l id="1835">Et si quelque forfait vous le rend odieux,</l>
 	<l id="1836">Souffrez que mon devoir en détourne mes yeux.</l>
@@ -2477,11 +2477,11 @@
 	<l id="1842">Il me rend ma Princesse, et vous donne à mon frère :</l>
 	<l id="1843">Pour vous en assurer il nous envoie ici.</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1844">Il nous veut perdre tous, puisqu’il en use ainsi.</l>
 	<l id="1845">Je le connais, Seigneur, ses bontés sont à craindre.</l>
 </sp>
-<sp who="LIVIE"><speaker>LIVIE.</speaker>
+<sp who="LIVIE"><hstage><speaker>LIVIE</speaker>.</hstage>
 	<l id="1846">Ne craignez rien ; César s’est expliqué sans feindre.</l>
 	<l id="1847">Nous sortons du Palais, où le peuple irrité</l>
 	<l id="1848">Redemandait mon frère, et s’était révolté :</l>
@@ -2492,19 +2492,19 @@
 	<l id="1853">Et ce qu’a fait Drusus en faveur de mon frère,</l>
 	<l id="1854">A réparé sa faute, et calmé ma colère.</l>
 </sp>
-<sp who="GERMANICUS"><speaker>GERMANICUS, à Agripine.</speaker>
+<sp who="GERMANICUS"><hstage><speaker>GERMANICUS</speaker>, à Agripine.</hstage>
 	<l id="1855">Je n’ai plus, ma Princesse, à combattre que vous.</l>
 	<l id="1856">César s’est déclaré ; j’ai vaincu son courroux :</l>
 	<l id="1857">Vous seule à mon bonheur pouvez être contraire ;</l>
 	<l id="1858" part="i">Vous seule...</l>
 </sp>
-<sp who="AGRIPPINE"><speaker>AGRIPPINE.</speaker>
+<sp who="AGRIPPINE"><hstage><speaker>AGRIPPINE</speaker>.</hstage>
 	<l id="1858" part="f">Non, Seigneur, j’ai le cœur trop sincère :</l>
 	<l id="1859">Je vous aime : ce mot vous répond de ma foi ;</l>
 	<l id="1860">Et je me dois à vous si l’on me rend à moi.</l>
 	<l id="1861" part="i">Mais l’Empereur...</l>
 </sp>
-<sp who="GERMANICUS"><speaker>GERMANICUS.</speaker>
+<sp who="GERMANICUS"><hstage><speaker>GERMANICUS</speaker>.</hstage>
 	<l id="1861" part="f">Madame, il est au Capitole ;</l>
 	<l id="1862">C’est dans ce lieu si saint qu’il veut tenir parole :</l>
 	<l id="1863">Le Sénat l’accompagne ; et voici le grand jour</l>

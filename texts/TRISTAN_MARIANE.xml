@@ -148,7 +148,7 @@
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="HÉRODE"><speaker>HÉRODE, s’éveillant en sursaut.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>, s’éveillant en sursaut.</hstage>
 	<l id="1">Fantôme injurieux qui troubles mon repos,</l>
 	<l id="2">Ne renouvelle plus tes insolents propos ;</l>
 	<l id="3">Va dans l’ombre éternelle, ombre pleine d’envie,</l>
@@ -167,43 +167,43 @@
 	<l id="15" part="i">Holà.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Tharé, Capitaine des gardes, Hérode, Phérore.</head>
-<sp who="THARÉ"><speaker>THARÉ.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Tharé, Capitaine des gardes, Hérode, Phérore.</cast>
+<sp who="THARÉ"><hstage><speaker>THARÉ</speaker>.</hstage>
 	<l id="15" part="m">Que vous plaît-il, Sire ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="15" part="f">Ah ! Voici Phérore.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="16">On me disait ici que vous dormiez encore.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="17">Tu m’as bien entendu quand j’ai parlé tout haut,</l>
 	<l id="18">Je me suis éveillé tout à l’heure en sursaut,</l>
 	<l id="19">Après la vision la plus mélancolique</l>
 	<l id="20">Qui puisse devancer un accident tragique.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="21">Les songes les plus noirs que l’on puisse inventer,</l>
 	<l id="22">Seraient-ils suffisants de vous épouvanter :</l>
 	<l id="23">Vous qui savez braver les forces indomptables,</l>
 	<l id="24">Et qui craignez si peu les périls véritables ?</l>
 	<l id="25">Ce sont des visions qui n’ont jamais d’effet.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="26">Mon esprit est troublé du songe que j’ai fait.</l>
 	<l id="27">Il m’en revient sans cesse une idée importune</l>
 	<l id="28">Qui ne doit m’avertir que de quelque infortune :</l>
 	<l id="29">C’est un avant-coureur de quelque adversité.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="30">On ne doit pas en faire une nécessité ;</l>
 	<l id="31">Ces apparitions sont comme les images</l>
 	<l id="32">Qu’un mélange confus forme dans les nuages ;</l>
 	<l id="33">C’est un sombre tableau d’hommes et d’animaux</l>
 	<l id="34">Qui ne fait arriver ni des biens ni des maux.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="35">Quand tu nous fus ravi par un destin contraire,</l>
 	<l id="36">Mon généreux aîné, brave et fidèle frère,</l>
 	<l id="37">J’appris ton accident par un même rapport :</l>
@@ -211,17 +211,17 @@
 	<l id="39">J’eus aux bords du Jourdain des visions cruelles</l>
 	<l id="40">Qui prévinrent le bruit de ces tristes nouvelles.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="41">Pour moi j’ai mille fois des songes observé,</l>
 	<l id="42">Sans que de leur présage il soit rien arrivé ;</l>
 	<l id="43">Et selon qu’un rabbin me fit un jour entendre,</l>
 	<l id="44">C’est les prendre fort bien que de n’en rien attendre.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="45">Quelles fortes raisons apportait ce Docteur,</l>
 	<l id="46">Qui soutient que le songe est toujours un menteur ?</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="47">Il disait que l’humeur qui dans nos corps domine,</l>
 	<l id="48">À voir certains objets, en dormant nous incline :</l>
 	<l id="49">Le flegme humide et froid, s’élevant au cerveau,</l>
@@ -239,10 +239,10 @@
 	<l id="61">C’est ainsi que chacun aperçoit en dormant</l>
 	<l id="62">Les indices secrets de son tempérament.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="63">Ainsi l’on songerait toujours les mêmes choses ?</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="64">Les songes quelquefois viennent par d’autres causes ;</l>
 	<l id="65">De même que les uns expriment nos humeurs,</l>
 	<l id="66">Les autres bien souvent représentent nos mœurs.</l>
@@ -255,7 +255,7 @@
 	<l id="73">Et l’amant prévenu de crainte ou de désirs,</l>
 	<l id="74">Éprouve des rigueurs, ou goûte des plaisirs.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="75">Ces expositions ne me contentent guère,</l>
 	<l id="76">Ces principes communs ont des effets vulgaires ;</l>
 	<l id="77">Et tu sais qu’autrefois l’Égypte remarquait</l>
@@ -267,13 +267,13 @@
 	<l id="82">N’importe qu’il promette, ou du mal ou du bien.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Salomé, Hérode, Phérore, Soesme.</head>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Salomé, Hérode, Phérore, Soesme.</cast>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="83">Vous plaît-il que j’entende aussi cette aventure,</l>
 	<l id="84">Qui n’est à bien parler qu’une vaine peinture,</l>
 	<l id="85">Qu’un énigme confus sur le sable tracé ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="86">Ne m’interromps donc pas quand j’aurai commencé.</l>
 	<l id="87">La lumière et le bruit s’épandaient par le monde :</l>
 	<l id="88">Et lorsque le soleil qui se lève de l’onde</l>
@@ -296,14 +296,14 @@
 	<l id="105">Et dessus ce rivage, environné d’effroi,</l>
 	<l id="106">Le jeune Aristobule a paru devant moi.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="107">Ô cieux ! Je serais morte étant en votre place ;</l>
 	<l id="108">Le sang à ce récit dans mes veines se glace.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="109">Je sens la même horreur dans mes os se couler.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="110">Écoutez donc le reste, et me laissez parler ;</l>
 	<l id="111">Il n’avait point ici la tiare à la tête</l>
 	<l id="112">Comme aux jours solennels de notre grande fête,</l>
@@ -336,23 +336,23 @@
 	<l id="139">Voilà quel est mon songe : et bien que vous en semble,</l>
 	<l id="140" part="i">Salomé, qu’en dis-tu ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="140" part="f">Moi ! Je dis que j’en tremble.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="141">Je ne cèlerai pas que j’en suis effrayé.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="142">C’est quelque avis du ciel qui vous est envoyé.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="143">L’avis à déchiffrer est si fort difficile,</l>
 	<l id="144">Qu’il n’eût pu m’obliger d’un soin plus inutile.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="145">L’État d’un changement peut être menacé.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="146">Ce qu’écrit le destin, ne peut être effacé,</l>
 	<l id="147">Il faut bon gré, mal gré, que l’âme résolue</l>
 	<l id="148">Suive ce qu’a marqué sa puissance absolue :</l>
@@ -391,13 +391,13 @@
 	<l id="181">Qu’ils viendront confesser en recevant ma loi,</l>
 	<l id="182">Qu’on ne profite guère à s’attaquer à moi.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="183">Les princes vos voisins savent votre courage ;</l>
 	<l id="184">Ils en ont fait l’essai dès votre plus bas âge :</l>
 	<l id="185">Ils prêteront l’oreille à des conseils meilleurs,</l>
 	<l id="186">Et leur ambition prendra son cours ailleurs.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="187">Je n’avais pas quinze ans lorsque je pris les armes,</l>
 	<l id="188">Lorsque j’allai chercher la mort dans les alarmes,</l>
 	<l id="189">Et si dès ce temps-là mon bras par mille exploits</l>
@@ -411,7 +411,7 @@
 	<l id="197">Qui volaient en éclats partout où je donnais,</l>
 	<l id="198">Dans la brûlante ardeur dont je les moissonnais.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="199">Vos belles actions se trouvent sans pareilles,</l>
 	<l id="200">Jules, quoi que l’on die, avec plus de merveilles,</l>
 	<l id="201">Et par moins de combats et de travaux divers,</l>
@@ -419,7 +419,7 @@
 	<l id="203">Vous avez surmonté mille fâcheux obstacles,</l>
 	<l id="204">Et toute votre vie est pleine de miracles.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="205">Dans ma condition, je serais trop heureux,</l>
 	<l id="206">Si je n’étais pressé d’un tourment amoureux ;</l>
 	<l id="207">D’un feu continuel, d’une ardeur sans mesure,</l>
@@ -443,13 +443,13 @@
 	<l id="225">Si lorsque tout le monde en redoute l’effet,</l>
 	<l id="226">Je brûle d’un désir qui n’est point satisfait.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="227">Depuis qu’en votre lit Mariane est entrée,</l>
 	<l id="228">Et par tant de soins elle est idolâtrée :</l>
 	<l id="229">Votre Maison sans cesse est ouverte aux douleurs ;</l>
 	<l id="230">On observe en vous deux que plaintes et que pleurs.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="231">Mes plaintes sont toujours plus justes que ses larmes,</l>
 	<l id="232">Pourquoi me parut-elle avecque tant de charmes.</l>
 	<l id="233">Tant de rares vertus, et de divins appas,</l>
@@ -459,13 +459,13 @@
 	<l id="237">Que je sois si sensible, elle l’étant si peu ?</l>
 	<l id="238">Que son cœur soit de glace, et le mien soit de feu ?</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="239">Après avoir acquis des honneurs à la guerre,</l>
 	<l id="240">Qui vous font envier aux deux bouts de la terre,</l>
 	<l id="241">Succombant dans la paix à d’invisibles coups,</l>
 	<l id="242">Vous voulez que partout on ait pitié de vous.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="243">L’erreur dont on m’accuse a troublé de grands hommes,</l>
 	<l id="244">Soit aux siècles passés, soit au temps où nous sommes.</l>
 	<l id="245">L’amour est tellement fatal à la valeur,</l>
@@ -483,7 +483,7 @@
 	<l id="257">Je n’ai pas des désirs que l’on puisse blâmer :</l>
 	<l id="258">Car j’aime seulement ce que je dois aimer.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="259">Si dans la passion d’une amour conjugale,</l>
 	<l id="260">De la Reine et de vous, l’ardeur était égale,</l>
 	<l id="261">Qui pourrait condamner votre ressentiment ?</l>
@@ -493,13 +493,13 @@
 	<l id="265">Qui pour récompenser un traitement si doux</l>
 	<l id="266">N’applique son esprit qu’à médire de vous.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="267">Sans mentir cette erreur est digne de reproche ;</l>
 	<l id="268">Quel plaisir prenez-vous de chérir une roche,</l>
 	<l id="269">Dont les sources de pleurs coulent incessamment,</l>
 	<l id="270">Et qui pour votre amour n’a point de sentiment ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="271">Si le divin objet dont je suis idolâtre,</l>
 	<l id="272">Passe pour un rocher, c’est un rocher d’albâtre,</l>
 	<l id="273">Un écueil agréable, où l’on voit éclater,</l>
@@ -509,11 +509,11 @@
 	<l id="277">Et l’éclat de ses yeux veut que mes sentiments</l>
 	<l id="278">Les mettent pour le moins au rang des diamants.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="279">La beauté toutefois doit être dédaignée.</l>
 	<l id="280">Qui de bon naturel n’est point accompagnée.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="281">Toute sa rigueur vient de sa chasteté,</l>
 	<l id="282">Mais son humeur hautaine est pleine de bonté,</l>
 	<l id="283">Quand le Parthe inhumain prit Hyrcane et Pharselle,</l>
@@ -531,7 +531,7 @@
 	<l id="295">Mille rois glorieux sont ses dignes ancêtres,</l>
 	<l id="296">Et on peut la nommer la fille de nos maîtres.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="297">Elle en use donc bien, car on sait au Palais,</l>
 	<l id="298">Qu’elle parle de nous comme de ses valets.</l>
 	<l id="299">Et c’est de quoi pourtant nous ne ferions que rire,</l>
@@ -539,7 +539,7 @@
 	<l id="301">Par où son cœur ingrat, avec émotion,</l>
 	<l id="302">Témoigne contre vous sa noire intention.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="303">Nous ne pouvons jamais, avecque bienséance,</l>
 	<l id="304">Aux rapports des valets, donner tant de créance :</l>
 	<l id="305">Ainsi que l’intérêt les a rendus flatteurs,</l>
@@ -547,14 +547,14 @@
 	<l id="307">Et même le mensonge est assez ordinaire</l>
 	<l id="308">À ces petites gens dont l’âme est mercenaire.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="309">Les miens n’ont pas le cœur, ni l’esprit d’inventer</l>
 	<l id="310">Tout ce que de la Reine ils me viennent conter.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="311">Apprends-nous quelque trait de cette violence ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="312">Elle parle de vous avec une insolence,</l>
 	<l id="313">Que sans beaucoup d’horreur on ne peut révéler,</l>
 	<l id="314">Et que sans crime aussi l’on ne saurait celer,</l>
@@ -563,7 +563,7 @@
 	<l id="317">Et de mille raisons anime son courroux,</l>
 	<l id="318">Pour faire soulever le peuple contre vous.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="319">La Judée aujourd’hui soumise à ma puissance,</l>
 	<l id="320">Ne trouve son bonheur qu’en son obéissance.</l>
 	<l id="321">On ne peut l’émouvoir ainsi facilement,</l>
@@ -575,11 +575,11 @@
 	<l id="327">On verrait dans les Cours une guerre éternelle,</l>
 	<l id="328">Il faudrait chaque jour faire maison nouvelle.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="329">En cas de ces avis, pour se gouverner bien,</l>
 	<l id="330">Il ne faut pas tout croire, et ne négliger rien.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="331">Je la verrai bientôt cette belle indiscrète,</l>
 	<l id="332">Je lui reprocherai cette injure secrète.</l>
 	<l id="333">Et sa bouche pourtant, avec un seul baiser,</l>
@@ -587,20 +587,20 @@
 <stage>Il appelle Soesme et lui parle à l’oreille.</stage>
 	<l id="335" part="i">Soesme écoute un mot.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="335" part="f">Ô faiblesse indicible !</l>
 <stage>Parlant à Phérore.</stage>
 	<l id="336">Il est ensorcelé, le charme est tout visible :</l>
 	<l id="337">Mais il faut s’employer à faire adroitement,</l>
 	<l id="338">Dissiper la vertu de cet enchantement.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="339">Madame, cette amour est une maladie,</l>
 	<l id="340">À laquelle il faudra que le temps remédie,</l>
 	<l id="341">Nos avis aujourd’hui ne sont pas de saison.</l>
 	<l id="342">Ce mal envenimé résiste à la raison.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE, achevant d’instruire Soesme.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>, achevant d’instruire Soesme.</hstage>
 	<l id="343">Observe bien surtout en faisant ce message,</l>
 	<l id="344">Et le ton de sa voix, et l’air de son visage :</l>
 	<l id="345">Si son teint devient pâle, ou s’il devient vermeil,</l>
@@ -609,20 +609,20 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Mariane, Dina.</head>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Mariane, Dina.</cast>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="347">Je croirais ton conseil, s’il était raisonnable :</l>
 	<l id="348">Mais quoi ? Veux-tu que j’aime un monstre abominable,</l>
 	<l id="349">Qui du trépas des miens me parait tout sanglant ?</l>
 </sp>
-<sp who="DINA"><speaker>DINA.</speaker>
+<sp who="DINA"><hstage><speaker>DINA</speaker>.</hstage>
 	<l id="350">Si vous ne l’aimez pas, faites-en le semblant ;</l>
 	<l id="351">En cette occasion vous devez vous contraindre,</l>
 	<l id="352">C’est un art excellent que de savoir bien feindre :</l>
 	<l id="353">Lorsque l’on est réduit à cette extrémité,</l>
 	<l id="354">De ne pouvoir agir avecque liberté.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="355">Moi ? Que je me contraigne ? Étant d’une naissance,</l>
 	<l id="356">Qui peut impunément prendre toute licence,</l>
 	<l id="357">Et qui sans abuser de cette autorité,</l>
@@ -631,10 +631,10 @@
 	<l id="360">À plaire au sentiment d’un Barbare, d’un Scythe :</l>
 	<l id="361" part="i">Meurtrier de mes parents !</l>
 </sp>
-<sp who="DINA"><speaker>DINA.</speaker>
+<sp who="DINA"><hstage><speaker>DINA</speaker>.</hstage>
 	<l id="361" part="f">Madame, parlez bas.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="362">Si mon corps est captif, mon âme ne l’est pas.</l>
 	<l id="363">Je laisse la contrainte aux serviles personnes,</l>
 	<l id="364">Je sors de trop d’aïeux qui portaient des couronnes,</l>
@@ -643,7 +643,7 @@
 	<l id="367">Qu’Hérode m’importune, ou d’amour, ou de haine,</l>
 	<l id="368">On me verra toujours vivre et mourir en Reine.</l>
 </sp>
-<sp who="DINA"><speaker>DINA.</speaker>
+<sp who="DINA"><hstage><speaker>DINA</speaker>.</hstage>
 	<l id="369">Madame, le Palais est tout plein d’espions</l>
 	<l id="370">Qui veillent jour et nuit dessus vos actions ;</l>
 	<l id="371">Depuis un certain temps Salomé tient à gages</l>
@@ -651,15 +651,15 @@
 	<l id="373">Sans cesse à cette porte ils viennent écouter</l>
 	<l id="374">Quels sont tous vos propos, qu’ils lui vont rapporter.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="375">N’importe, laissons-les écouter à leur aise,</l>
 	<l id="376">Ils n’auront pas le bien d’ouïr rien qu’il lui plaise.</l>
 </sp>
-<sp who="DINA"><speaker>DINA.</speaker>
+<sp who="DINA"><hstage><speaker>DINA</speaker>.</hstage>
 	<l id="377">Le roi vous a-t-il fait quelque nouvel ennui</l>
 	<l id="378">Pour causer ces dédains que vous avez pour lui ?</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="379">Quoi ! T’imagines-tu que la tragique histoire</l>
 	<l id="380">De mes plus chers parents sorte de ma mémoire ?</l>
 	<l id="381">Toujours les vieux Hyrcane et mon frère meurtris</l>
@@ -711,7 +711,7 @@
 	<l id="427">Plutôt le feu me brûle, ou l’onde son contraire</l>
 	<l id="428">Rende mon sort pareil à celui de mon frère.</l>
 </sp>
-<sp who="DINA"><speaker>DINA.</speaker>
+<sp who="DINA"><hstage><speaker>DINA</speaker>.</hstage>
 	<l id="429">Tous ces traits de malheur depuis longtemps passés</l>
 	<l id="430">De votre souvenir doivent être effacés :</l>
 	<l id="431">Faut-il qu’à tous propos cette triste peinture</l>
@@ -727,21 +727,21 @@
 	<l id="441">On vous a fait des maux, mais pour ne rien celer</l>
 	<l id="442">On prend beaucoup de soin pour vous en consoler.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="443" part="i">Comment ?</l>
 </sp>
-<sp who="DINA"><speaker>DINA.</speaker>
+<sp who="DINA"><hstage><speaker>DINA</speaker>.</hstage>
 	<l id="443" part="m">Le roi vous aime.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="443" part="f">Il m’aime, ô l’innocente !</l>
 </sp>
-<sp who="DINA"><speaker>DINA.</speaker>
+<sp who="DINA"><hstage><speaker>DINA</speaker>.</hstage>
 	<l id="444">Il soupire toujours quand vous êtes absente,</l>
 	<l id="445">Il vous nomme à toute heure, il compte tous vos pas ;</l>
 	<l id="446" part="i">N’est-ce pas vous aimer ?</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="446" part="f">Et quoi ? Ne sais-tu pas</l>
 	<l id="447">Que cette âme infidèle est pleine d’artifices,</l>
 	<l id="448">Que ma perte dépend de ses premiers caprices,</l>
@@ -752,7 +752,7 @@
 	<l id="453">Lorsque tout effrayé pour Rhodes il partait,</l>
 	<l id="454">Redoutant d’y trouver la mort qu’il méritait.</l>
 </sp>
-<sp who="DINA"><speaker>DINA.</speaker>
+<sp who="DINA"><hstage><speaker>DINA</speaker>.</hstage>
 	<l id="455">Ce trait est sans mentir cruel et tyrannique,</l>
 	<l id="456">Je ne demande plus quelle chose vous pique,</l>
 	<l id="457">Les ordres inhumains de cet esprit jaloux</l>
@@ -766,7 +766,7 @@
 	<l id="465">Ne perdez pas le soin qui les doit conserver :</l>
 	<l id="466">Si le roi vous attend il faut l’aller trouver.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 <stage>Salomé se montre à l’entrée de la chambre.</stage>
 	<l id="467">J’irai : mais ce sera pour lui faire paraître</l>
 	<l id="468">Qu’il est un parricide, un scélérat, un traître,</l>
@@ -774,151 +774,151 @@
 	<l id="470">Qui me puisse obliger désormais à le voir :</l>
 	<l id="471" part="i">Le conseil en est pris.</l>
 </sp>
-<sp who="DINA"><speaker>DINA.</speaker>
+<sp who="DINA"><hstage><speaker>DINA</speaker>.</hstage>
 	<l id="471" part="f">Ô cieux ! Je tremble toute.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="472" part="i">Pourquoi ?</l>
 </sp>
-<sp who="DINA"><speaker>DINA.</speaker>
+<sp who="DINA"><hstage><speaker>DINA</speaker>.</hstage>
 	<l id="472" part="f">Tout est perdu, Salomé, nous écoute,</l>
 	<l id="473">Que je hais ces esprits méchants et curieux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Mariane, Salomé.</head>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Mariane, Salomé.</cast>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="474">Approchez-vous plus près, vous nous entendrez mieux.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="475">Je m’allais retirer vous croyant empêchée,</l>
 	<l id="476">Et l’on dirait aussi que vous êtes fâchée.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="477">Une juste colère animait mon discours.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="478">C’est une passion qui vous émeut toujours.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="479">Je souffre aussi toujours une rigueur insigne.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="480">Vous avez des malheurs dont vous n’êtes pas digne.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="481">Je crois qu’on ne voit rien dans mes déportements,</l>
 	<l id="482">Qui puisse mériter ces mauvais traitements.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="483">Vous êtes fort à plaindre en l’état où vous êtes,</l>
 	<l id="484">Mais toutes les beautés ne sont pas satisfaites.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="485">Pour vous en vos destins vous n’avez que du bien.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="486">Vous sentez votre mal, et moi je sens le mien.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="487">Votre cœur relevé se plaint de la fortune ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="488">J’ai bien d’autres ennuis dont le cours m’importune.</l>
 	<l id="489">Mais ainsi que j’entrais, que disiez-vous du roi.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="490">Je me plaignais de lui comme il se plaint de moi.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="491">Je ne puis deviner ces grands sujets de plainte.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="492">C’est que ses espions me tiennent en contrainte.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="493">L’innocence partout peut avoir des témoins.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="494">J’aurais plus de repos s’ils m’importunaient moins.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="495">Vous devriez dire au roi combien cela vous blesse.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="496">Vous devriez l’avertir aussi de sa faiblesse.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="497">S’il a de la faiblesse, à votre jugement,</l>
 	<l id="498">On ne l’aperçoit guère à son gouvernement.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="499">Le déplorable état où l’on me voit réduite,</l>
 	<l id="500">Est le plus rare effet de sa grande conduite.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="501">Vous y remarqueriez moins d’imperfection,</l>
 	<l id="502">Si vous n’aviez pour lui beaucoup d’aversion.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="503">Je n’ai d’aversion que pour l’horreur du crime,</l>
 	<l id="504">Mais tous les gens de bien l’ont en la même estime.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="505">S’ils ont ces sentiments ils en parlent bien bas.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="506">C’est qu’ils craignent la mort, et je ne la crains pas.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="507">C’est en dire un peu trop ; vous devez ce me semble,</l>
 	<l id="508">Portez plus de respect au nœud qui vous assemble.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="509">Les respects qu’on lui doit me sont assez connus,</l>
 	<l id="510">Car je n’ignore pas d’où vous êtes venus.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="511">Moi, j’ignore d’où vient cette haine apparente.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="512">Cette mauvaise humeur vous est indifférente.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="513">Si vous aviez pourtant quelque division,</l>
 	<l id="514">Je m’offrirais à vous à cette occasion,</l>
 	<l id="515">Et vous présenterais mes très humbles services.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="516">Vous me rendez toujours assez de bons offices.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="517">Je vous en rends bien moins que vous ne méritez.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="518">Le ciel reconnaîtra toutes ces charités.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="519">L’honneur de vous servir m’est trop de récompense.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE, se lève.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>, se lève.</hstage>
 	<l id="520">Chacune de nous deux sait bien ce qu’elle en pense.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="521" part="i">Vous allez voir le roi.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="521" part="f">Oui j’y vais de ce pas</l>
 	<l id="522">Lui tenir un discours qui ne lui plaira pas.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="523">Vous ne lui direz rien qui lui puisse déplaire,</l>
 	<l id="524">Il aime tout de vous jusqu’à votre colère.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="525">Et moi qu’il a rendue un objet de pitié,</l>
 	<l id="526">J’abhorre tout de lui, jusqu’à son amitié.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ, seule.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>, seule.</hstage>
 	<l id="527">Superbe, dédaigneuse, au courage invincible,</l>
 	<l id="528">Ne t’imagine pas que je sois insensible :</l>
 	<l id="529">Non, non, je ne suis pas de ces lâches esprits,</l>
@@ -946,15 +946,15 @@
 	<l id="551">Il porte sur le front une morne tristesse.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. L’Échanson, Salomé.</head>
-<sp who="L-ÉCHANSON"><speaker>L’ÉCHANSON.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>L’Échanson, Salomé.</cast>
+<sp who="L-ÉCHANSON"><hstage><speaker>L’ÉCHANSON</speaker>.</hstage>
 	<l id="552">Pourrais-je dire encore un mot à votre Altesse,</l>
 	<l id="553">Sur l’exécution de son commandement ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="554">Oui je l’écouterai ; parle donc hardiment.</l>
 </sp>
-<sp who="L-ÉCHANSON"><speaker>L’ÉCHANSON.</speaker>
+<sp who="L-ÉCHANSON"><hstage><speaker>L’ÉCHANSON</speaker>.</hstage>
 	<l id="555">Madame, en vous servant j’affronte des supplices,</l>
 	<l id="556">Je m’en vais me conduire entre des précipices,</l>
 	<l id="557">Dans un sentier glissant, où faisant un faux pas</l>
@@ -970,7 +970,7 @@
 	<l id="567">Et puis vous m’assurez que par cette industrie,</l>
 	<l id="568">Je m’expose à la mort pour sauver ma patrie.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="569">Si tu fermes les yeux pour m’exprimer ta foi</l>
 	<l id="570">Je le veux reconnaître ouvrant la main pour toi,</l>
 	<l id="571">Mais tu fais ta fortune, et t’acquiers une gloire,</l>
@@ -1002,7 +1002,7 @@
 	<l id="597">Tout rit à nos desseins, tout répond à nos vœux,</l>
 	<l id="598">L’occasion paraît, prends-la par les cheveux.</l>
 </sp>
-<sp who="L-ÉCHANSON"><speaker>L’ÉCHANSON.</speaker>
+<sp who="L-ÉCHANSON"><hstage><speaker>L’ÉCHANSON</speaker>.</hstage>
 	<l id="599">Ces puissantes raisons mettraient en assurance</l>
 	<l id="600">L’âme la plus timide et la plus en balance :</l>
 	<l id="601">Mais puisque votre Altesse et les cieux l’ont voulu,</l>
@@ -1016,7 +1016,7 @@
 	<l id="609">Ajoutez à mon ordre un peu d’enseignement,</l>
 	<l id="610">Afin que mon effort succède heureusement.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="611">Il faut dans ce rapport par une adresse extrême,</l>
 	<l id="612">Que pour le mieux tromper tu te trompes toi-même ;</l>
 	<l id="613">Figure-toi un fait d’un penser ingénu,</l>
@@ -1040,21 +1040,21 @@
 	<l id="631">De peur que par l’emploi de quelque autre ministre,</l>
 	<l id="632">Vous soyez prévenu d’un accident sinistre.</l>
 </sp>
-<sp who="L-ÉCHANSON"><speaker>L’ÉCHANSON.</speaker>
+<sp who="L-ÉCHANSON"><hstage><speaker>L’ÉCHANSON</speaker>.</hstage>
 	<l id="633">Je trouve ce discours fort propre à l’émouvoir,</l>
 	<l id="634">Et j’espère, Madame, y faire mon devoir.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="635">La reine en son quartier se sera retirée,</l>
 	<l id="636">Porte donc ce propos d’une voix assurée.</l>
 	<l id="637">Je m’y rencontrerai : feras-tu cet effort ?</l>
 </sp>
-<sp who="L-ÉCHANSON"><speaker>L’ÉCHANSON.</speaker>
+<sp who="L-ÉCHANSON"><hstage><speaker>L’ÉCHANSON</speaker>.</hstage>
 	<l id="638">Oui, Madame, dussé-je y rencontrer la mort.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Hérode, Mariane.</head>
-<sp who="HÉRODE"><speaker>HÉRODE, chassant Mariane de sa chambre.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Hérode, Mariane.</cast>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>, chassant Mariane de sa chambre.</hstage>
 	<l id="639">Va, va, je te tiendrai ce que je te promets,</l>
 	<l id="640">Sors vite de ma chambre, et n’y rentre jamais.</l>
 	<l id="641">Te rendre inexorable alors que je te prie ?</l>
@@ -1072,33 +1072,33 @@
 	<l id="652">Qu’on ne doit pas manquer de respect à son roi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Salomé, Hérode.</head>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Salomé, Hérode.</cast>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="653">Quel est donc le sujet qui vous met en colère ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="654">Celui qui tous les jours ne fait que me déplaire.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="655">C’est possible la reine avec sa cruauté,</l>
 	<l id="656">Car ces traits de rigueur n’ont point de nouveauté.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="657">Tu l’as bien deviné, oui c’est cette cruelle,</l>
 	<l id="658">Et le dernier affront que je recevrai d’elle.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="659">Vous en direz de même encore au premier jour.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="660">Nullement, son mépris a détruit mon amour.</l>
 	<l id="661">Je la hais maintenant à l’égal de la peste,</l>
 	<l id="662">Et trouve que pour moi c’est un fléau céleste.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="663">Puis-je savoir quel est ce mécontentement ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="664">Je m’en vais te l’apprendre, assieds-toi seulement ;</l>
 	<l id="665">Désirant de la voir, non sans impatience,</l>
 	<l id="666">Je l’avais demandée avec beaucoup d’instance,</l>
@@ -1117,7 +1117,7 @@
 	<l id="679">Voilà ce qui me pique, et me trouble si fort,</l>
 	<l id="680">Vois quelle est sa manie, et me dis si j’ai tort.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="681">Oui, vous avez grand tort, et son ingratitude</l>
 	<l id="682">Devait vous affliger d’un traitement plus rude ;</l>
 	<l id="683">Puisque sans redouter ses dangereux effets,</l>
@@ -1127,11 +1127,11 @@
 	<l id="687">Si la faveur du ciel ne détourne ses coups,</l>
 	<l id="688">Sa malice à la fin se défera de vous.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="689">Étant assez instruit de sa mauvaise envie,</l>
 	<l id="690">Je l’empêcherai bien d’attenter sur ma vie.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="691">J’en doute ; notre sexe est fort vindicatif,</l>
 	<l id="692">Et dans ses trahisons se rend bien inventif :</l>
 	<l id="693">La tigresse qui voit enlever sa portée,</l>
@@ -1139,7 +1139,7 @@
 	<l id="695">Veuillez considérer que dans un juste effroi,</l>
 	<l id="696">Pour votre sûreté je parle contre moi.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="697">Je mettrai tant de gens à veiller autour d’elle,</l>
 	<l id="698">Que son âme offensée, après cette querelle,</l>
 	<l id="699">N’aura pas le moyen de prendre aucun parti,</l>
@@ -1148,41 +1148,41 @@
 	<l id="702">Son meilleur est d’avoir toujours la bouche close,</l>
 	<l id="703" part="i">Autrement qu’est-ce ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="703" part="f">On vient vous dire quelque chose.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. L’Huissier, Hérode, Salomé, L’Échanson, et le Capitaine des Gardes.</head>
-<sp who="HUISSIER"><speaker>L’HUISSIER.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>L’Huissier, Hérode, Salomé, L’Échanson, et le Capitaine des Gardes.</cast>
+<sp who="HUISSIER"><hstage><speaker>L’HUISSIER</speaker>.</hstage>
 	<l id="704">Un de vos échansons à la porte arrêté,</l>
 	<l id="705">Désire de parler à votre Majesté,</l>
 	<l id="706">Et proteste que c’est un avis d’importance,</l>
 	<l id="707">Dont il doit tout soudain vous donner connaissance.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="708">Un avis d’importance ? Et bien, fais-le avancer,</l>
 	<l id="709" part="i">Quel serait cet avis ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="709" part="f">Je n’en sais que penser.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="710">Il est tout interdit ; qu’as-tu donc à me dire ?</l>
 </sp>
-<sp who="L-ÉCHANSON"><speaker>L’ÉCHANSON.</speaker>
+<sp who="L-ÉCHANSON"><hstage><speaker>L’ÉCHANSON</speaker>.</hstage>
 	<l id="711">Un complot qui regarde, et vous, et votre Empire</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="712">Viens me conter ici le tout distinctement.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="713">Si la fin se rapporte à son commencement,</l>
 	<l id="714">La victoire est à nous, et pour cette orgueilleuse,</l>
 	<l id="715">Cette nouvelle ruse est assez périlleuse,</l>
 	<l id="716">Nous courons dans la lice, et nos fronts à peu près,</l>
 	<l id="717">Ont, le mien du laurier, et le sien du cyprès.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="718">Ô noire perfidie ! Ô trahison damnable !</l>
 	<l id="719">Ô femme dangereuse ! Ô peste abominable !</l>
 	<l id="720">Elle t’a pratiqué pour me faire périr,</l>
@@ -1199,27 +1199,27 @@
 	<l id="730">Conduisez-la vous-même, et ne la quittez pas :</l>
 	<l id="731">Car si vous y manquez, vous me répondrez d’elle.</l>
 </sp>
-<sp who="THARÉ"><speaker>LE CAPITAINE DES GARDES.</speaker>
+<sp who="THARÉ"><hstage><speaker>LE CAPITAINE DES GARDES</speaker>.</hstage>
 	<l id="732">Je ferai le devoir d’un serviteur fidèle.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Phérore, Salomé, Hérode.</head>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Phérore, Salomé, Hérode.</cast>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="733">Madame, qu’a le roi, qui paraît interdit ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="734">Nous le saurons tantôt, il ne m’en a rien dit.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="735">Voilà qu’il vient à nous tout changé de visage.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="736">La reine pour me perdre a mis tout en usage.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="737">Vous rebutiez toujours nos fidèles avis.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="738">J’ai beaucoup de regret qu’ils n’ont été suivis.</l>
 	<l id="739">Mais voyant le péril j’ose bien me promettre,</l>
 	<l id="740">Que vous approuverez l’ordre que j’y vais mettre.</l>
@@ -1233,7 +1233,7 @@
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="HÉRODE"><speaker>HÉRODE, au Conseil.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>, au Conseil.</hstage>
 	<l id="745">Observant de l’État la blessure inhumaine,</l>
 	<l id="746">Ôtons-en la partie où paraît la gangrène,</l>
 	<l id="747">Opposons sagement l’antidote au poison,</l>
@@ -1248,8 +1248,8 @@
 	<l id="756">Dépite ma justice, et brave le trépas,</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Hérode, Mariane, L’Échanson, Phérore, Salomé, deux juges, le Grand Prévôt, et le capitaine des Gardes.</head>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Hérode, Mariane, L’Échanson, Phérore, Salomé, deux juges, le Grand Prévôt, et le capitaine des Gardes.</cast>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="757">Avance, malheureuse, hé bien méchante femme,</l>
 	<l id="758">À qui j’avais donné la moitié de mon âme,</l>
 	<l id="759">Et qui par le seul droit de cette sainte ardeur,</l>
@@ -1261,25 +1261,25 @@
 	<l id="765">Voudrais-tu pallier ce crime manifeste,</l>
 	<l id="766">Que nous a découvert la justice céleste ?</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="767">Ces discours angoissés ont des obscurités,</l>
 	<l id="768">Qui se rapportent fort au sang dont vous sortez.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="769">Insolente, oses-tu me dire ces paroles ?</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="770">Osez-vous m’accuser de ces crimes frivoles ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="771">Ce n’est que sur son roi simplement attenter.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="772">Ce crime est fort nouveau, l’on vient de l’inventer</l>
 	<l id="773">Mais jamais votre esprit n’a manqué d’artifice</l>
 	<l id="774">Pour perdre l’innocent sous couleur de justice.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="775">La mort émoussera tous ces piquants propos,</l>
 	<l id="776">Qui blessant mon honneur, traversent mon repos :</l>
 	<l id="777">Au lieu de s’excuser l’ingrate en sa défense,</l>
@@ -1294,29 +1294,29 @@
 	<l id="785">Mais que la vérité se montre toute nue,</l>
 	<l id="786">Ne fais pas que le crime, ou croisse ou diminue.</l>
 </sp>
-<sp who="L-ÉCHANSON"><speaker>L’ÉCHANSON.</speaker>
+<sp who="L-ÉCHANSON"><hstage><speaker>L’ÉCHANSON</speaker>.</hstage>
 	<l id="787">Sire, que sur ma tête un foudre soit lancé,</l>
 	<l id="788">Si je n’ai dit le tout ainsi qu’il s’est passé.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="789">Viens donc lui soutenir, et mettre en évidence</l>
 	<l id="790">Un fait qu’elle dénie avec tant d’impudence.</l>
 	<l id="791" part="i">Parle.</l>
 </sp>
-<sp who="L-ÉCHANSON"><speaker>L’ÉCHANSON.</speaker>
+<sp who="L-ÉCHANSON"><hstage><speaker>L’ÉCHANSON</speaker>.</hstage>
 	<l id="791" part="f">Si le devoir d’un fidèle sujet,</l>
 	<l id="792">Permettait de celer cet important projet,</l>
 	<l id="793">Madame, je serais encore à me produire :</l>
 	<l id="794">Mais le salut du roi me force de vous nuire,</l>
 	<l id="795">Veuillez me pardonner si j’ai tout révélé</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="796" part="i">Quoi méchant !</l>
 </sp>
-<sp who="L-ÉCHANSON"><speaker>L’ÉCHANSON.</speaker>
+<sp who="L-ÉCHANSON"><hstage><speaker>L’ÉCHANSON</speaker>.</hstage>
 	<l id="796" part="f">Le poison dont vous m’avez parlé.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="797">Monstre issu de l’enfer pour nuire à l’innocence,</l>
 	<l id="798">Oses-tu bien mentir avec tant d’assurance ?</l>
 	<l id="799">De ta noire action tu recevrais le fruit</l>
@@ -1328,13 +1328,13 @@
 	<l id="805">Cette injure est contrainte et n’a rien qui me fâche,</l>
 	<l id="806">De tous mes ennemis tu n’es pas le plus lâche.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="807">Tu devrais t’efforcer de te défendre mieux,</l>
 	<l id="808">Sur un crime abhorré de la terre et des cieux :</l>
 	<l id="809">Car répondant au fait que ce témoin dépose,</l>
 	<l id="810">Il faut ou dénier, ou confesser la chose.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="811">Par force ou par adresse il sera malaisé,</l>
 	<l id="812">Qu’on me fasse avouer un crime supposé,</l>
 	<l id="813">Et n’était mes malheurs, je suis assez bien née</l>
@@ -1344,14 +1344,14 @@
 	<l id="817">Encore qu’il en eût un sujet assez ample,</l>
 	<l id="818">S’il était obligé de faillir par exemple.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="819">Quels exemples as-tu de ces déloyautés ?</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="820">J’ai mille trahisons, et mille cruautés,</l>
 	<l id="821">Le meurtre d’un aïeul, l’assassinat d’un frère.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="822">À peine en cet endroit je retiens ma colère.</l>
 	<l id="823">Ah ! Cerbère têtu, fatal à ma maison,</l>
 	<l id="824">Tu sais bien contre moi produire du poison :</l>
@@ -1371,21 +1371,21 @@
 	<l id="837">Dépêchez, c’est un droit qu’il faut que l’on me rende,</l>
 	<l id="838">La justice le veut, et je vous le demande.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="839">Je trouve que ce crime est sans rémission.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="840">C’est trop peu qu’une mort pour sa punition.</l>
 </sp>
-<sp who="1er-JUGE"><speaker>1er JUGE.</speaker>
+<sp who="1er-JUGE"><hstage><speaker>1er JUGE</speaker>.</hstage>
 	<l id="841">Si votre Majesté ne lui fait point de grâce,</l>
 	<l id="842">Le crime est capital, la loi veut qu’elle passe.</l>
 </sp>
-<sp who="1nd-JUGE"><speaker>2nd JUGE.</speaker>
+<sp who="1nd-JUGE"><hstage><speaker>2nd JUGE</speaker>.</hstage>
 	<l id="843">Ou qu’elle soit au moins confinée en prison,</l>
 	<l id="844">En cas que l’on ne puisse avérer le poison.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="845">Il semble que la chose est assez avérée ;</l>
 	<l id="846">Quoi ? N’en avons-nous pas une preuve assurée ?</l>
 <stage>Regardant en colère le second juge</stage>
@@ -1400,7 +1400,7 @@
 	<l id="855">Et n’avait-elle pas assez de cet agent</l>
 	<l id="856">Si sa rage l’eût pu corrompre par argent ?</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="857">Poursuis, poursuis barbare, et sois inexorable,</l>
 	<l id="858">Tu me rends un devoir qui m’est fort agréable,</l>
 	<l id="859">Et ta main obstinée à me priver du jour,</l>
@@ -1425,7 +1425,7 @@
 	<l id="877">Qu’une rude marâtre ainsi qu’il est croyable</l>
 	<l id="878">Maltraitera bientôt d’un air impitoyable,</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="879">Au point que mon courroux était le plus aigri,</l>
 	<l id="880">Par le cours de ses pleurs mon cœur s’est attendri,</l>
 	<l id="881">Il semble que l’amour qui se rend son complice,</l>
@@ -1468,24 +1468,24 @@
 	<l id="917">Et que ton cœur touché d’un remords véritable,</l>
 	<l id="918">Déteste avec horreur un crime détestable.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="919">On connaît à ce style, et doux, et décevant,</l>
 	<l id="920">Comme en l’art de trahir ton esprit est savant,</l>
 	<l id="921">C’est avec trop de soin m’ouvrir la sépulture,</l>
 	<l id="922">Pour me perdre il suffit d’une seule imposture.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="923">Mauvaise, tu crois donc que je sois un trompeur,</l>
 	<l id="924">Et toute cette audace est l’effet de ta peur.</l>
 	<l id="925">Ne crains point, pour ta grâce, elle est entérinée,</l>
 	<l id="926">Je tiendrai ma parole après l’avoir donnée ;</l>
 	<l id="927">Cesse de m’affliger avecque tes douleurs :</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="928">Mais fais plutôt cesser ma vie et mes malheurs,</l>
 	<l id="929">Tous les miens sont passés, je brûle de les suivre.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="930">Comment ? Veux-tu mourir pour m’empêcher de vivre ?</l>
 	<l id="931">Et violant encor toutes sortes de droits ?</l>
 	<l id="932">Attenter sur ton roi pour la seconde fois ?</l>
@@ -1494,38 +1494,38 @@
 	<l id="935">Le beau fil de tes jours ne peut être accourci,</l>
 	<l id="936">Sans que du même temps le mien le soit aussi.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="937">Lorsque ta vie au moins finira sa durée,</l>
 	<l id="938">La mienne il est certain sera mal assurée,</l>
 	<l id="939">Car les précautions de ta soigneuse amour,</l>
 	<l id="940">Me feront, s’il se peut, partir le même jour :</l>
 	<l id="941">Certes ce sont des traits d’une amitié bien tendre.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="942">Ce propos est obscur, je ne saurais l’entendre.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="943">Ne perdons point le temps en discours superflus,</l>
 	<l id="944" part="i">La chose est trop récente.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="944" part="f">Il ne m’en souvient plus.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="945">Quand tu crains lâchement la justice d’Auguste,</l>
 	<l id="946">Ma mort est résolue, et tu la trouves juste ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="947">D’Auguste ? Ah ! Par ce mot je suis assez instruit,</l>
 	<l id="948">Et de ce qui t’anime, et de ce qui me nuit,</l>
 	<l id="949">Je connais les raisons qui tes dédains aigrissent,</l>
 	<l id="950">Et l’ingrate façon dont mes gens me trahissent,</l>
 	<l id="951">Soesme t’en a fait un secret entretien ?</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="952">Il ne m’en a rien dit, mais je le sais fort bien.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="953">Ah ! Perfide Soesme, avoir trompé ton maître.</l>
 <stage>Se tournant vers le grand Prévôt.</stage>
 	<l id="954">Allez diligemment vous saisir de ce traître,</l>
@@ -1535,10 +1535,10 @@
 	<l id="958">Ceux qui seront suspects d’être de sa cabale,</l>
 	<l id="959">Vite, et que les bourreaux ne les épargnent point.</l>
 </sp>
-<sp who="GRAND-PREVOT"><speaker>GRAND PRÉVÔT.</speaker>
+<sp who="GRAND-PREVOT"><hstage><speaker>GRAND PRÉVÔT</speaker>.</hstage>
 	<l id="960">Sire, j’accomplirai le tout de point en point.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="961">L’eunuque de la reine est de l’intelligence,</l>
 	<l id="962">Faites qu’on me l’amène avecque diligence ;</l>
 	<l id="963">Ce fut à sa faveur que je fus offensé,</l>
@@ -1562,17 +1562,17 @@
 	<l id="980">Ne lève point les yeux, et réponds là-dessus ;</l>
 	<l id="981">L’aurais-tu satisfait par d’autres récompenses ?</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="982">Crois tout ce que tu dis, et tout ce que tu penses.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="983">Oui, oui, je le veux croire, et te faire sentir,</l>
 	<l id="984">De cette perfidie un cuisant repentir.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="985">Tu peux m’ôter la vie, et non pas l’innocence.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="986">Ah ! Je suis assuré de cette jouissance ;</l>
 	<l id="987">Tu ne te riras plus de m’avoir outragé.</l>
 	<l id="988">J’en ai reçu l’affront, mais j’en serai vengé,</l>
@@ -1582,12 +1582,12 @@
 	<l id="992">D’avoir fait tant de maux avec impunité ;</l>
 	<l id="993">La mort pour t’enlever est déjà préparée.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="994">Elle viendra plus tard qu’elle n’est désirée ;</l>
 	<l id="995">Et me la proposant pour finir ma langueur,</l>
 	<l id="996">Je n’en puis redouter que la seule longueur.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="997">On verra ta constance au milieu des supplices :</l>
 	<l id="998">Mais voici ton amour et tes chères délices,</l>
 <stage>Parlant au Capitaine des gardes.</stage>
@@ -1595,15 +1595,15 @@
 	<l id="1000">Conduis la dans la tour, et ne la quitte pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Hérode, Soesme, Le Grand Prévôt.</head>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Hérode, Soesme, Le Grand Prévôt.</cast>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1001">Exécrable sujet de mon impatience,</l>
 	<l id="1002">Qui t’a fait lâchement trahir ma confiance,</l>
 	<l id="1003">Et porté ton audace au mépris de la mort,</l>
 	<l id="1004">Découvrant un secret qui m’importait si fort ?</l>
 	<l id="1005">Réponds, tu connais bien l’attente qui me blesse.</l>
 </sp>
-<sp who="SOESME"><speaker>SOESME.</speaker>
+<sp who="SOESME"><hstage><speaker>SOESME</speaker>.</hstage>
 	<l id="1006">Hé Sire ! Je commis ce crime par faiblesse !</l>
 	<l id="1007">Ce fut par imprudence et par légèreté</l>
 	<l id="1008">Que je fis cette offense à votre Majesté.</l>
@@ -1612,7 +1612,7 @@
 	<l id="1011">Prince rare en clémence aussi bien qu’en valeur,</l>
 	<l id="1012">Excusez un défaut arrivé par malheur.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1013">Ce n’est donc pas un trait d’une âme déloyale,</l>
 	<l id="1014">Que semer le divorce en la Maison Royale :</l>
 	<l id="1015">Et porter une femme à perdre son époux,</l>
@@ -1621,14 +1621,14 @@
 	<l id="1018">Ton excuse perfide aggrave ton offense ;</l>
 	<l id="1019">Tu ferais mieux pour toi de n’en rien déguiser.</l>
 </sp>
-<sp who="SOESME"><speaker>SOESME.</speaker>
+<sp who="SOESME"><hstage><speaker>SOESME</speaker>.</hstage>
 	<l id="1020">Sire, j’ai trop failli pour vouloir m’excuser ;</l>
 	<l id="1021">Je suis trop criminel, ayant pu vous déplaire.</l>
 	<l id="1022">Je n’ai point de raisons contre votre colère :</l>
 	<l id="1023">Aussi dans le péril où je me suis jeté,</l>
 	<l id="1024">Je n’attends mon salut que de votre bonté.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1025">Oui, mais par un moyen qui n’est pas ordinaire,</l>
 	<l id="1026">J’ai bien su le secret de toute cette affaire.</l>
 	<l id="1027">Si tu veux excuser cet acte plein d’horreur,</l>
@@ -1644,16 +1644,16 @@
 	<l id="1037">Trouvas-tu dans son âme un peu de résistance ?</l>
 	<l id="1038">Et quels progrès fis-tu devant la jouissance ?</l>
 </sp>
-<sp who="SOESME"><speaker>SOESME.</speaker>
+<sp who="SOESME"><hstage><speaker>SOESME</speaker>.</hstage>
 	<l id="1039">Cet étrange propos m’étonne tellement,</l>
 	<l id="1040">Que j’en pers la parole avec le sentiment,</l>
 	<l id="1041">J’y voudrais répartir, mais il m’est impossible.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1042">Pour un amant discret cette atteinte est sensible,</l>
 	<l id="1043">Mais reprends tes esprits, et m’en fait le discours.</l>
 </sp>
-<sp who="SOESME"><speaker>SOESME.</speaker>
+<sp who="SOESME"><hstage><speaker>SOESME</speaker>.</hstage>
 	<l id="1044">Ô Prince ! La merveille et l’honneur de nos jours,</l>
 	<l id="1045">Peut-on croire qu’une âme et si noble et si belle,</l>
 	<l id="1046">Conçoive des soupçons qui sont indignes d’elle ;</l>
@@ -1671,35 +1671,35 @@
 	<l id="1058">Qu’elle sert de miroir à celles de cet âge ?</l>
 	<l id="1059">Vous lui faites grand tort de prendre ces soupçons.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1060">Traître je suis lassé d’entendre tes leçons :</l>
 	<l id="1061">Crois-tu donc t’excuser en louant ta complice,</l>
 	<l id="1062">Et d’un charme subtil endormir ma justice ?</l>
 </sp>
-<sp who="SOESME"><speaker>SOESME.</speaker>
+<sp who="SOESME"><hstage><speaker>SOESME</speaker>.</hstage>
 	<l id="1063">Si je parle autrement je paraîtrai menteur.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1064">Que l’on aille égorger ce fâcheux orateur.</l>
 </sp>
-<sp who="SOESME"><speaker>SOESME.</speaker>
+<sp who="SOESME"><hstage><speaker>SOESME</speaker>.</hstage>
 	<l id="1065">On répandra du sang qui doit crier vengeance.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1066">Dépêchez ce perfide avecque diligence ;</l>
 	<l id="1067" part="i">Et l’eunuque est-il là ?</l>
 </sp>
-<sp who="PRÉVOT"><speaker>LE GRAND PRÉVÔT.</speaker>
+<sp who="PRÉVOT"><hstage><speaker>LE GRAND PRÉVÔT</speaker>.</hstage>
 	<l id="1067" part="f">Oui Sire, le voici.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1068">Il faut qu’en même temps on l’expédie aussi,</l>
 	<l id="1069">Il était du complot cet animal infâme,</l>
 	<l id="1070">Qui ne saurait passer pour homme, ni pour femme.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Hérode, l’Eunuque, Le Grand Prévôt</head>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Hérode, l’Eunuque, Le Grand Prévôt</cast>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1071">Horreur de la nature et le mépris des cieux !</l>
 	<l id="1072">Monstre sans jugement, Dragon pernicieux,</l>
 	<l id="1073">Je t’avais confié le trésor le plus rare,</l>
@@ -1712,12 +1712,12 @@
 	<l id="1080">Tu fermais les rideaux et veillais à l’entour :</l>
 	<l id="1081">Ainsi tu ménageais le temps de mon absence ?</l>
 </sp>
-<sp who="L-EUNUQUE"><speaker>L’EUNUQUE.</speaker>
+<sp who="L-EUNUQUE"><hstage><speaker>L’EUNUQUE</speaker>.</hstage>
 	<l id="1082">Sire, un Dieu tout-puissant qui connaît l’innocence</l>
 	<l id="1083">Pourra faire connaître à votre Majesté</l>
 	<l id="1084">Comme je l’ai servie avec fidélité.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1085">Avec fidélité, méchant ? Que l’on l’entraîne,</l>
 	<l id="1086">Et que jusqu’à la mort on l’applique à la gêne :</l>
 	<l id="1087">Il découvrira tout au plus fort du tourment,</l>
@@ -1726,8 +1726,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Hérode, Salomé, Phérore.</head>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Hérode, Salomé, Phérore.</cast>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1089">Un démon diligent qui sans cesse regarde,</l>
 	<l id="1090">Les dépôts que le ciel a commis à sa garde,</l>
 	<l id="1091">Veille pour mon salut, et me fait dissiper</l>
@@ -1756,14 +1756,14 @@
 	<l id="1114">Eût partagé mon sceptre avecque son infâme,</l>
 	<l id="1115">Sans cet heureux avis Hérode était perdu.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1116">Déjà pour cet effet le piège était tendu,</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="1117">Si l’avertissement eût tardé davantage,</l>
 	<l id="1118">Mariane eut fini son malheureux ouvrage,</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1119">Ah ! Que je suis piqué de ce cruel affront,</l>
 	<l id="1120">J’en ai la rage au cœur comme la honte au front,</l>
 	<l id="1121">Et de quelque façon que ma rigueur la traite,</l>
@@ -1791,7 +1791,7 @@
 	<l id="1143">Me trouver en l’état où j’étais en naissant,</l>
 	<l id="1144">Et que ce cœur ingrat se trouvât innocent.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1145">Ce vif ressentiment d’une amour véritable,</l>
 	<l id="1146">Aggrave son offense et la rend plus coupable,</l>
 	<l id="1147">Et son ingratitude est une lâcheté,</l>
@@ -1803,27 +1803,27 @@
 	<l id="1153">Vous faisant voir sa rage et son hypocrisie,</l>
 	<l id="1154">Ôtera ces ennuis de votre fantaisie.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1155">Je suis à la punir justement animé :</l>
 	<l id="1156">Mais quoi, faire périr ce que j’ai tant aimé ?</l>
 	<l id="1157">Pourrai-je me résoudre à foudroyer un temple,</l>
 	<l id="1158">Que j’ai tenu si cher, et qui n’a point d’exemple ?</l>
 	<l id="1159">Mon esprit y résiste, et se trouve étonné.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1160">Respectez-vous si fort un temple profané ?</l>
 	<l id="1161">Le meurtre, l’adultère, et l’ingrate arrogance,</l>
 	<l id="1162">N’en ont-ils pas ôté toute la révérence ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1163">L’adultère n’est pas trop bien vérifié,</l>
 	<l id="1164">Soesme en expirant s’en est justifié.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="1165">Il a cru le niant avoir plus d’espérance</l>
 	<l id="1166">De recevoir de vous quelque trait de clémence.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 <stage>Elle fait semblant de pleurer.</stage>
 	<l id="1167">Quoi ce trait déloyal ne peut vous étonner ?</l>
 	<l id="1168">Vous ne l’examinez que pour le pardonner ?</l>
@@ -1832,11 +1832,11 @@
 	<l id="1171">Suivez vos sentiments, nous les approuvons tous,</l>
 	<l id="1172">Il faut bien se résoudre à périr avec vous.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="1173">Votre esprit est contraint par un charme effroyable,</l>
 	<l id="1174">De prendre contre vous ce dessein pitoyable.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1175">Nullement, le biais que j’y voudrais tenir,</l>
 	<l id="1176">Ne la conserverait que pour la mieux punir.</l>
 	<l id="1177">En lui donnant la mort je finis sa misère ;</l>
@@ -1848,7 +1848,7 @@
 	<l id="1183">Et lui représentant son crime et mon amour,</l>
 	<l id="1184">La tiendront à la gêne, et la nuit, et le jour.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="1185">Avec cette pitié qui vous paraît suspecte,</l>
 	<l id="1186">Vos tentez des bontés dignes qu’on les respecte :</l>
 	<l id="1187">Croyez-vous qu’à jamais les desseins qu’elle fait,</l>
@@ -1858,7 +1858,7 @@
 	<l id="1191">Sachez que bien souvent ses avis négligés,</l>
 	<l id="1192">Lui font abandonner ceux qu’il a protégés.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1193">Puisque de vos malheurs vous aimez tant la cause,</l>
 	<l id="1194">Vous ne deviez donc pas faire éclater la chose,</l>
 	<l id="1195">Ce procédé nouveau ne fait rien qu’animer</l>
@@ -1866,7 +1866,7 @@
 	<l id="1197">Que ne fera-t-il point après ce grand outrage,</l>
 	<l id="1198">Si même vos bontés ont excité sa rage ?</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="1199">Lorsque l’on veut choquer un puissant ennemi,</l>
 	<l id="1200">Il ne faut pas penser le détruire à demi,</l>
 	<l id="1201">En ces occasions l’indiscrète indulgence,</l>
@@ -1888,7 +1888,7 @@
 	<l id="1217">N’aurait-il pas enfin d’une embûche traîtresse,</l>
 	<l id="1218">Impitoyablement payé votre tendresse ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1219">Pourriez-vous conserver sans appréhension,</l>
 	<l id="1220">Ce levain de révolte, et de sédition,</l>
 	<l id="1221">Dont le cœur offensé ne pense qu’à vous nuire,</l>
@@ -1906,7 +1906,7 @@
 	<l id="1233">Vous vous repentiriez d’en avoir fait la faute.</l>
 	<l id="1234" part="i">Mais ce serait trop tard.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1234" part="f">Bien, qu’on l’ôte, qu’on l’ôte,</l>
 	<l id="1235">Il sera nécessaire incontinent après</l>
 	<l id="1236">D’en avertir César par un courrier exprès,</l>
@@ -1917,7 +1917,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="MARIANE"><speaker>MARIANE, en prison.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>, en prison.</hstage>
 <poem type="stances">
 <lg n="1">
 	<l id="1241">Pour augmenter l’affront que l’injuste licence</l>
@@ -1968,21 +1968,21 @@
 </poem>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Le Concierge, Mariane.</head>
-<sp who="LE-CONCIERGE"><speaker>LE CONCIERGE, pleurant.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Le Concierge, Mariane.</cast>
+<sp who="LE-CONCIERGE"><hstage><speaker>LE CONCIERGE</speaker>, pleurant.</hstage>
 	<l id="1275">Madame, on vous attend dedans la salle basse,</l>
 	<l id="1276" part="i">C’est de la part du roi.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="1276" part="f">Mon dieu ! Je te rends grâce,</l>
 	<l id="1277">D’où vient qu’en me parlant tu parais si troublé ?</l>
 </sp>
-<sp who="LE-CONCIERGE"><speaker>LE CONCIERGE.</speaker>
+<sp who="LE-CONCIERGE"><hstage><speaker>LE CONCIERGE</speaker>.</hstage>
 	<l id="1278">D’avoir vu là dehors tout le peuple assemblé,</l>
 	<l id="1279">Dont les cris et les pleurs sont de mauvais présage</l>
 	<l id="1280" part="i">Pour votre Majesté.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="1280" part="f">Le peuple n’est pas sage,</l>
 	<l id="1281">D’affliger son esprit et de se tourmenter,</l>
 	<l id="1282">D’un bien que mes amis me doivent souhaiter.</l>
@@ -1992,8 +1992,8 @@
 	<l id="1286">Et départir entre eux si peu que j’ai de biens.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Alexandre et son chevalier d’honneur.</head>
-<sp who="ALEXANDRA"><speaker>ALEXANDRA.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Alexandre et son chevalier d’honneur.</cast>
+<sp who="ALEXANDRA"><hstage><speaker>ALEXANDRA</speaker>.</hstage>
 	<l id="1287">On te mène égorger innocente victime,</l>
 	<l id="1288">Tu vas donc au supplice, et n’as point fait de crime,</l>
 	<l id="1289">On t’a donc vu sortir du sang de tant de rois,</l>
@@ -2013,10 +2013,10 @@
 	<l id="1303">Ô grand dieu ! je t’invoque au fort de ma misère,</l>
 	<l id="1304">Veuille prendre la fille, et conserver la mère.</l>
 </sp>
-<sp who="LE-CHEVALIER-D-HONNEUR"><speaker>LE CHEVALIER D’HONNEUR.</speaker>
+<sp who="LE-CHEVALIER-D-HONNEUR"><hstage><speaker>LE CHEVALIER D’HONNEUR</speaker>.</hstage>
 	<l id="1305">Madame, c’est ici qu’on la fera passer.</l>
 </sp>
-<sp who="ALEXANDRA"><speaker>ALEXANDRA.</speaker>
+<sp who="ALEXANDRA"><hstage><speaker>ALEXANDRA</speaker>.</hstage>
 	<l id="1306">J’aperçois bien l’endroit où je me dois placer.</l>
 	<l id="1307">Prends garde seulement que tes yeux ne produisent,</l>
 	<l id="1308">Voyant ce triste objet des larmes qui me nuisent,</l>
@@ -2026,14 +2026,14 @@
 	<l id="1312">Trahir ses sentiments, et cacher son courage.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Le Capitaine des gardes, Mariane, Dina.</head>
-<sp who="THARÉ"><speaker>LE CAPITAINE DES GARDES.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Le Capitaine des gardes, Mariane, Dina.</cast>
+<sp who="THARÉ"><hstage><speaker>LE CAPITAINE DES GARDES</speaker>.</hstage>
 	<l id="1313">Madame, à contre cœur je sers à cet office,</l>
 	<l id="1314">Je vous rends à regret ce funeste service :</l>
 	<l id="1315">Mais mon obéissance et ma fidélité</l>
 	<l id="1316">Me tiennent ici lieu d’une nécessité.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="1317">Cette compassion m’est fort peu nécessaire,</l>
 	<l id="1318">Ma mort est à la fois contrainte et volontaire,</l>
 	<l id="1319">Mène-moi sans scrupule affronter le trépas,</l>
@@ -2084,14 +2084,14 @@
 	<l id="1364">Et la dernière larme, et le dernier baiser,</l>
 	<l id="1365" part="i">Ce sera bientôt fait.</l>
 </sp>
-<sp who="THARÉ"><speaker>LE CAPITAINE DES GARDES.</speaker>
+<sp who="THARÉ"><hstage><speaker>LE CAPITAINE DES GARDES</speaker>.</hstage>
 	<l id="1365" part="f">Dépêchez donc, Madame,</l>
 	<l id="1366">Car de cette longueur je porterais le blâme,</l>
 	<l id="1367">Mon ordre est fort exprès, et doit être observé.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Mariane, Alexandra, Le Capitaine des gardes, Dina.</head>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Mariane, Alexandra, Le Capitaine des gardes, Dina.</cast>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="1368">Tu verras ce discours en trois mots achevé.</l>
 	<l id="1369">Madame, on me contraint de changer de demeure,</l>
 	<l id="1370">Mais j’en vais habiter une beaucoup meilleure,</l>
@@ -2106,7 +2106,7 @@
 	<l id="1379">Consolez-vous-en donc, et veillez m’embrasser,</l>
 	<l id="1380">Adieu Madame, adieu, je m’en vais vous laisser.</l>
 </sp>
-<sp who="ALEXANDRA"><speaker>ALEXANDRA.</speaker>
+<sp who="ALEXANDRA"><hstage><speaker>ALEXANDRA</speaker>.</hstage>
 	<l id="1381">Achève tes destins, méchante et malheureuse,</l>
 	<l id="1382">Cette mort pour ton crime est trop peu rigoureuse,</l>
 	<l id="1383">Il fallait que la flamme expiât ton péché,</l>
@@ -2121,22 +2121,22 @@
 	<l id="1392">Je ne te connais point, tu ne viens pas de moi,</l>
 	<l id="1393">Car de ces trahisons je ne suis pas capable.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="1394">Vous vivrez innocente, et je mourrai coupable.</l>
 </sp>
-<sp who="THARÉ"><speaker>LE CAPITAINE DES GARDES.</speaker>
+<sp who="THARÉ"><hstage><speaker>LE CAPITAINE DES GARDES</speaker>.</hstage>
 	<l id="1395" part="i">Allons, Madame, allons.</l>
 </sp>
-<sp who="MARIANE"><speaker>MARIANE.</speaker>
+<sp who="MARIANE"><hstage><speaker>MARIANE</speaker>.</hstage>
 	<l id="1395" part="m">Par où ?</l>
 </sp>
-<sp who="THARÉ"><speaker>LE CAPITAINE DES GARDES.</speaker>
+<sp who="THARÉ"><hstage><speaker>LE CAPITAINE DES GARDES</speaker>.</hstage>
 	<l id="1395" part="f">De ce côté.</l>
 </sp>
-<sp who="DINA"><speaker>DINA.</speaker>
+<sp who="DINA"><hstage><speaker>DINA</speaker>.</hstage>
 	<l id="1396">Ô cieux ! Quelle constance, et quelle cruauté.</l>
 </sp>
-<sp who="ALEXANDRA"><speaker>ALEXANDRA seule.</speaker>
+<sp who="ALEXANDRA"><hstage><speaker>ALEXANDRA</speaker> seule.</hstage>
 	<l id="1397">Ô lâche stratagème ! Ô cruel artifice !</l>
 	<l id="1398">Je devais bien plutôt passer pour sa complice.</l>
 	<l id="1399">Pour éviter la mort fallait-il recourir,</l>
@@ -2150,7 +2150,7 @@
 </div1>
 <div1 type="scene" n="5"><head>ACTE V</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="HÉRODE"><speaker>HÉRODE, seul.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>, seul.</hstage>
 	<l id="1405">Serpent couvert de fleurs, dangereuse vipère,</l>
 	<l id="1406">Jaune fille d’amour qui fais mourir ton père,</l>
 	<l id="1407">Dragon toujours veillant avec cent yeux ouverts,</l>
@@ -2186,23 +2186,23 @@
 	<l id="1437" part="i">Il en parle tout seul.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Hérode, Narbal.</head>
-<sp who="NARBAL"><speaker>NARBAL.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Hérode, Narbal.</cast>
+<sp who="NARBAL"><hstage><speaker>NARBAL</speaker>.</hstage>
 	<l id="1437" part="f">Ô cieux ! Cette aventure</l>
 	<l id="1438">Met de grandes vertus dans une sépulture,</l>
 	<l id="1439">La constance et l’honneur, comme la piété</l>
 	<l id="1440">Viennent de rendre l’âme avec cette beauté.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1441">Quel accident t’oblige à pleurer de la sorte ?</l>
 </sp>
-<sp who="NARBAL"><speaker>NARBAL.</speaker>
+<sp who="NARBAL"><hstage><speaker>NARBAL</speaker>.</hstage>
 	<l id="1442" part="i">Un grand sujet de deuil.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1442" part="f">Quoi ? Mariane est morte ?</l>
 </sp>
-<sp who="NARBAL"><speaker>NARBAL.</speaker>
+<sp who="NARBAL"><hstage><speaker>NARBAL</speaker>.</hstage>
 	<l id="1443">Oui Sire, cette reine est au nombre des morts,</l>
 	<l id="1444">On vient de séparer sa tête de son corps ;</l>
 <stage>Hérode tombe en faiblesse.</stage>
@@ -2211,7 +2211,7 @@
 	<l id="1447">Voici le triste effet qui fut prévu de tous :</l>
 	<l id="1448">Hé ! Sire, ouvrez les yeux, et revenez à vous.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1449">Mariane a des morts accru le triste nombre ?</l>
 	<l id="1450">Ce qui fut mon soleil n’est donc plus rien qu’une ombre ?</l>
 	<l id="1451">Quoi ? Dans son orient cet astre de beauté,</l>
@@ -2248,14 +2248,14 @@
 	<l id="1482">Ne doit jamais trouver de place en ma créance.</l>
 	<l id="1483">Dis-tu qu’on a détruit ce chef-d’œuvre des cieux ?</l>
 </sp>
-<sp who="NARBAL"><speaker>NARBAL.</speaker>
+<sp who="NARBAL"><hstage><speaker>NARBAL</speaker>.</hstage>
 	<l id="1484">Sire, ce triste coup s’est fait devant mes yeux.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1485">Viens m’en conter au long la pitoyable histoire,</l>
 	<l id="1486">Je n’en saurais douter, et je ne la saurais croire.</l>
 </sp>
-<sp who="NARBAL"><speaker>NARBAL.</speaker>
+<sp who="NARBAL"><hstage><speaker>NARBAL</speaker>.</hstage>
 	<l id="1487">Alors que dans la tour on la vint avertir,</l>
 	<l id="1488">Qu’un rigoureux arrêt la pressait d’en sortir,</l>
 	<l id="1489">Le funeste récit de sa triste sentence,</l>
@@ -2286,10 +2286,10 @@
 	<l id="1514">Et que son sang versé vous coûterait des larmes,</l>
 	<l id="1515">Dès que de son trépas vous seriez averti.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1516">Ah ! Que n’ai-je évité ce qu’ils ont pressenti ?</l>
 </sp>
-<sp who="NARBAL"><speaker>NARBAL.</speaker>
+<sp who="NARBAL"><hstage><speaker>NARBAL</speaker>.</hstage>
 	<l id="1517">Sa mère l’abordant changea par quelque crainte</l>
 	<l id="1518">Sa pitié véritable en une vigueur feinte ;</l>
 	<l id="1519">Son esprit inventif pour ôter le soupçon,</l>
@@ -2301,14 +2301,14 @@
 	<l id="1525">Et passant, répartit à cette vaine offense,</l>
 	<l id="1526">D’un modeste souris, et d’une révérence.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1527">Ah ! je suis tout percé des traits de la pitié,</l>
 	<l id="1528">Mon cœur à ce discours se fend par la moitié.</l>
 	<l id="1529">Quoi dans ce triste état sa mère la querelle ?</l>
 	<l id="1530">Et sa seule vertu se déclare pour elle.</l>
 	<l id="1531" part="i">Achève tout le reste ?</l>
 </sp>
-<sp who="NARBAL"><speaker>NARBAL.</speaker>
+<sp who="NARBAL"><hstage><speaker>NARBAL</speaker>.</hstage>
 	<l id="1531" part="f">Étant sur l’échafaud</l>
 	<l id="1532">Elle joignit les mains, leva les yeux en haut,</l>
 	<l id="1533">Conjurant à genoux la divine puissance,</l>
@@ -2340,7 +2340,7 @@
 	<l id="1559">Voilà comme finit votre illustre moitié,</l>
 	<l id="1560">Avec un monde entier qui mourut de pitié.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1561">Avoir ôté la vie à des beautés si rares,</l>
 	<l id="1562">Ô rigueur inconnue aux cœurs les plus barbares !</l>
 	<l id="1563">Un Sarmate inhumain ne pourrait l’exercer,</l>
@@ -2363,10 +2363,10 @@
 	<l id="1580">Prête-la moi de grâce en ce juste dessein,</l>
 	<l id="1581">Ou si tu l’aimes mieux, pousse la dans mon sein.</l>
 </sp>
-<sp who="NARBAL"><speaker>NARBAL.</speaker>
+<sp who="NARBAL"><hstage><speaker>NARBAL</speaker>.</hstage>
 	<l id="1582">Hé Sire, revenez de ces transports extrêmes.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1583">C’est empêcher l’arrêt que tu donnes toi-même ;</l>
 	<l id="1584">Ne m’as-tu pas déjà frappé mortellement ?</l>
 	<l id="1585">Tu m’as dit que la reine est dans le monument :</l>
@@ -2378,10 +2378,10 @@
 	<l id="1591">Ne me diffère point la peine qui m’est due ?</l>
 	<l id="1592">Il faut que je me perde après l’avoir perdue.</l>
 </sp>
-<sp who="NARBAL"><speaker>NARBAL.</speaker>
+<sp who="NARBAL"><hstage><speaker>NARBAL</speaker>.</hstage>
 	<l id="1593" part="i">Sire.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1593" part="f">Ah, je suis l’auteur de ce meurtre inhumain,</l>
 	<l id="1594">Ma bouche à son bourreau mit le fer à la main :</l>
 	<l id="1595">Ma bouche complaisante à ma rage animée,</l>
@@ -2446,84 +2446,84 @@
 	<l id="1654">Viens enlever le tout dont tu pris la moitié.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Salomé, Narbal, Phérore, Hérode, Tharé.</head>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Salomé, Narbal, Phérore, Hérode, Tharé.</cast>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1655" part="i">Narbal, que fait le roi ?</l>
 </sp>
-<sp who="NARBAL"><speaker>NARBAL.</speaker>
+<sp who="NARBAL"><hstage><speaker>NARBAL</speaker>.</hstage>
 	<l id="1655" part="f">Madame, il se tourmente,</l>
 	<l id="1656">Sa douleur est si vive, et si fort véhémente,</l>
 	<l id="1657">Que si vos bons conseils n’en détournent le cours,</l>
 	<l id="1658">Vous le verriez bientôt à la fin de ses jours.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1659">Lui serait-il venu des nouvelles d’Auguste,</l>
 	<l id="1660">Ou quelque changement rendit ce trouble juste ?</l>
 </sp>
-<sp who="NARBAL"><speaker>NARBAL.</speaker>
+<sp who="NARBAL"><hstage><speaker>NARBAL</speaker>.</hstage>
 	<l id="1661" part="i">Non, Madame.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="1661" part="f">Quoi donc ? Qui le rend affligé ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1662" part="i">Le trépas de la reine.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="1662" part="f">Ah ! Je l’ai bien jugé.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1663">Il conçoit trop d’ennui d’un sujet d’allégresse.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="1664">Il faudra l’aborder avec beaucoup d’adresse,</l>
 	<l id="1665">Son courroux là-dessus doit être appréhendé.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1666">Nullement, son esprit veut être gourmandé.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="1667">Le voici qui revient troublé de sa manie :</l>
 	<l id="1668">Mille tristes pensers lui tiennent compagnie,</l>
 	<l id="1669">Il a le teint tout pâle, et les yeux égarés,</l>
 	<l id="1670">Observez sa démarche, et la considérez.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1671">Seigneur, vos sentiments sont bien mélancoliques.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1672">C’est que j’ai trop de soins des affaires publiques,</l>
 	<l id="1673">Mais je veux aujourd’hui prendre un peu de repos.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1674" part="i">Ce serait fort bien fait.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="1674" part="f">Il serait à propos.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1675">À parler librement, ce qui me tient en peine,</l>
 	<l id="1676">C’est que depuis hier je n’ai point vu la reine,</l>
 	<l id="1677">Commandez de ma part qu’on la fasse venir.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1678">Son jugement s’égare, il perd le souvenir.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1679">Envoyez-la quérir, faites-moi cette grâce.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="1680">Hé ! Seigneur, le moyen que l’on vous satisfasse ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1681">Qu’on aille l’avertir que je veux lui parler,</l>
 	<l id="1682">Est-il si mal aisé, n’y veut-on pas aller ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1683">Vous peut-elle parler, et vous peut-elle entendre ?</l>
 	<l id="1684">C’est un corps sans chaleur qui se réduit en cendre.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1685">Quoi, Mariane est morte ! Ô destins ennemis !</l>
 	<l id="1686">La Parque l’a ravie, et vous l’avez permis ?</l>
 	<l id="1687">Vous avez donc souffert cette triste aventure,</l>
@@ -2548,16 +2548,16 @@
 	<l id="1706">Ou bien meurs du regret de ne pouvoir mourir.</l>
 	<l id="1707">Ne te console point, Monarque misérable.</l>
 </sp>
-<sp who="PHÉRORE"><speaker>PHÉRORE.</speaker>
+<sp who="PHÉRORE"><hstage><speaker>PHÉRORE</speaker>.</hstage>
 	<l id="1708">Oubliez cette perte, elle est irréparable,</l>
 	<l id="1709">Et si vous employant à la considérer,</l>
 	<l id="1710">Vous ne la voudriez pas vous-même réparer.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1711">Vous direz quelque jour que ce trait exemplaire,</l>
 	<l id="1712">Était pour votre État un mal fort nécessaire,</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1713">Ministres de ses maux à me nuire obstinés,</l>
 	<l id="1714">Vous m’osez consoler, vous qui m’assassinez ?</l>
 	<l id="1715">Vous m’avez fait donner par vos mauvais offices</l>
@@ -2584,15 +2584,15 @@
 	<l id="1735">Oui, je veux que sa fête en ces lieux s’établisse,</l>
 	<l id="1736">Et qu’on la solennise, ou bien que l’on périsse.</l>
 </sp>
-<sp who="NARBAL"><speaker>NARBAL.</speaker>
+<sp who="NARBAL"><hstage><speaker>NARBAL</speaker>.</hstage>
 	<l id="1737">La douleur de ce prince est sans comparaison,</l>
 <stage>S’adressant à Tharé.</stage>
 	<l id="1738">Le trouble de son âme offusque sa raison.</l>
 </sp>
-<sp who="THARÉ"><speaker>THARÉ.</speaker>
+<sp who="THARÉ"><hstage><speaker>THARÉ</speaker>.</hstage>
 	<l id="1739">On voit à ces propos qu’il perd la connaissance.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1740">Je ne saurais souffrir plus longtemps son absence :</l>
 	<l id="1741">Ce long éloignement me met au désespoir,</l>
 	<l id="1742">Dites-lui de ma part qu’elle me vienne voir,</l>
@@ -2601,39 +2601,39 @@
 	<l id="1745">On mettra son eunuque en pleine liberté,</l>
 	<l id="1746">Quand j’aurai là-dessus appris sa volonté.</l>
 </sp>
-<sp who="NARBAL"><speaker>NARBAL.</speaker>
+<sp who="NARBAL"><hstage><speaker>NARBAL</speaker>.</hstage>
 	<l id="1747">L’excès de cet ennui brouille sa fantaisie.</l>
 </sp>
-<sp who="THARÉ"><speaker>THARÉ.</speaker>
+<sp who="THARÉ"><hstage><speaker>THARÉ</speaker>.</hstage>
 	<l id="1748">En effet l’on dirait qu’il est en frénésie.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1749">Alors que je commande on ne m’obéit pas,</l>
 	<l id="1750">Quoi pour me faire entendre ai-je parlé trop bas ?</l>
 </sp>
-<sp who="NARBAL"><speaker>NARBAL.</speaker>
+<sp who="NARBAL"><hstage><speaker>NARBAL</speaker>.</hstage>
 	<l id="1751" part="i">Sire, que vous plaît-il ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1751" part="f">Qu’on aille en diligence</l>
 	<l id="1752">Faire venir la reine. Ah ! J’ai trop d’indulgence.</l>
 </sp>
-<sp who="NARBAL"><speaker>NARBAL.</speaker>
+<sp who="NARBAL"><hstage><speaker>NARBAL</speaker>.</hstage>
 	<l id="1753" part="i">Vous demandez la reine ? Hé Sire !</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1753" part="f">Pourquoi non ?</l>
 </sp>
-<sp who="NARBAL"><speaker>NARBAL.</speaker>
+<sp who="NARBAL"><hstage><speaker>NARBAL</speaker>.</hstage>
 	<l id="1754">Il ne reste plus rien d’elle que son beau nom.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1755">Son nom seul est resté ? Serait-elle expirée ?</l>
 </sp>
-<sp who="NARBAL"><speaker>NARBAL.</speaker>
+<sp who="NARBAL"><hstage><speaker>NARBAL</speaker>.</hstage>
 	<l id="1756">Je vous en ai porté la nouvelle assurée.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1757">Ah ! Narbal, je commence à m’en ressouvenir ;</l>
 	<l id="1758">Cet objet affligeant revient pour me punir ;</l>
 	<l id="1759">Et ma triste mémoire en m’offrant son image,</l>
@@ -2683,13 +2683,13 @@
 	<l id="1803">Vois l’excès de l’ennui dont elle est désolée,</l>
 	<l id="1804">Et comment pour te suivre elle prend sa volée.</l>
 </sp>
-<sp who="THARÉ"><speaker>THARÉ.</speaker>
+<sp who="THARÉ"><hstage><speaker>THARÉ</speaker>.</hstage>
 	<l id="1805">La force lui défaut, et le teint lui pâlit,</l>
 	<l id="1806">Il est évanoui, portons-le sur un lit,</l>
 	<l id="1807">Possible que des sens il reprendra l’usage,</l>
 	<l id="1808">Quand on aura jeté de l’eau sur son visage.</l>
 </sp>
-<sp who="NARBAL"><speaker>NARBAL.</speaker>
+<sp who="NARBAL"><hstage><speaker>NARBAL</speaker>.</hstage>
 	<l id="1809">Ô Prince pitoyable en tes grandes douleurs !</l>
 	<l id="1810">Toi-même es l’artisan de tes propres malheurs,</l>
 	<l id="1811">Ton amour, tes soupçons, ta crainte et ta colère</l>

@@ -123,7 +123,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 <stage>Soldats dans l’enfoncement.</stage>
 	<l id="1">Orateur insolent, qu’un vil peuple seconde,</l>
 	<l id="2">Assis au premier rang des souverains du monde,</l>
@@ -151,13 +151,13 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="24">Faiblesses des humains, évanouissez-vous.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Catilina, Céthégus ; affranchis et soldats dans le lointain.</head>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Catilina, Céthégus ; affranchis et soldats dans le lointain.</cast>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="25">Eh bien ! cher Céthégus, tandis que la nuit sombre</l>
 	<l id="26">Cache encor nos desseins et Rome, dans son ombre,</l>
 	<l id="27">Avez-vous réuni les chefs des conjurés ?</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="28">Ils viendront dans ces lieux du consul ignorés,</l>
 	<l id="29">Sous ce portique même, et près du temple impie</l>
 	<l id="30">Où domine un sénat, tyran de l’Italie.</l>
@@ -165,13 +165,13 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="32">Mais tout est-il prévu ? César est-il à toi ?</l>
 	<l id="33">Seconde-t-il enfin Catilina qu’il aime ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="34">Cet esprit dangereux n’agit que pour lui-même.</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="35" part="i">Conspirer sans César !</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="35" part="f">Ah ! je l’y veux forcer.</l>
 	<l id="36">Dans ce piège sanglant je veux l’embarrasser.</l>
 	<l id="37">Mes soldats, en son nom, vont surprendre Préneste ;</l>
@@ -183,13 +183,13 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="43">Je veux que Cicéron réveille son courroux,</l>
 	<l id="44">Et force ce grand homme à combattre pour nous.</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="45">Mais Nonnius enfin dans Préneste est le maître ;</l>
 	<l id="46">Il aime la patrie, et tu dois le connaître :</l>
 	<l id="47">Tes soins pour le tenter ont été superflus.</l>
 	<l id="48">Que faut-il décider du sort de Nonnius ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="49">Je t’entends ; tu sais trop que sa fille m’est chère.</l>
 	<l id="50">Ami, j’aime Aurélie en détestant son père.</l>
 	<l id="51">Quand il sut que sa fille avait conçu pour moi</l>
@@ -222,8 +222,8 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="76">Toi, conduis d’un coup d’œil tous ces grands mouvements.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Aurélie, Catilina.</head>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Aurélie, Catilina.</cast>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="77">Ah ! Calmez les horreurs dont je suis poursuivie,</l>
 	<l id="78">Cher époux, essuyez les larmes d’Aurélie.</l>
 	<l id="79">Quel trouble, quel spectacle, et quel réveil affreux !</l>
@@ -242,7 +242,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="92">Ayez pitié du trouble où mes sens sont livrés :</l>
 	<l id="93" part="i">Expliquez-vous.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="93" part="f">Sachez que mon nom, ma fortune,</l>
 	<l id="94">Ma sûreté, la vôtre, et la cause commune,</l>
 	<l id="95">Exigent ces apprêts qui causent votre effroi.</l>
@@ -254,7 +254,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="101">On se menace, on s’arme ; et, dans ces conjonctures,</l>
 	<l id="102">Je prends un parti sage, et de justes mesures.</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="103">Je le souhaite au moins. Mais me tromperiez-vous ?</l>
 	<l id="104">Peut-on cacher son cœur aux cœurs qui sont à nous ?</l>
 	<l id="105">En vous justifiant, vous redoublez ma crainte.</l>
@@ -273,13 +273,13 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="118">Caton, Rome, les dieux, sont du parti contraire.</l>
 	<l id="119">Peut-être Nonnius vient vous perdre aujourd’hui.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="120">Non, il ne viendra point ; ne craignez rien de lui.</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="121" part="i">Comment ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="121" part="f">Aux murs de Rome il ne pourra se rendre</l>
 	<l id="122">Que pour y respecter et sa fille et son gendre.</l>
 	<l id="123">Je ne puis m’expliquer, mais souvenez-vous bien</l>
@@ -291,7 +291,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="129">Je vous ouvre à tous deux, et vous devez m’en croire,</l>
 	<l id="130">Une source éternelle et d’honneur et de gloire.</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="131">La gloire est bien douteuse, et le péril certain.</l>
 	<l id="132">Que voulez-vous ? Pourquoi forcer votre destin ?</l>
 	<l id="133">Ne vous suffit-il pas, dans la paix, dans la guerre,</l>
@@ -315,12 +315,12 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="151">Je vous retrouve, hélas ! et vous me replongez</l>
 	<l id="152">Dans l’abîme des maux qui me sont présagés.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="153">Allez, Catilina ne craint point les augures ;</l>
 	<l id="154">Et je veux du courage, et non pas des murmures,</l>
 	<l id="155">Quand je sers et l’état, et vous, et mes amis.</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="156">Ah ! Cruel ! Est-ce ainsi que l’on sert son pays ?</l>
 	<l id="157">J’ignore à quels desseins ta fureur s’est portée ;</l>
 	<l id="158">S’ils étaient généreux, tu m’aurais consultée :</l>
@@ -329,21 +329,21 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="161">Tu te perdras : déjà ta conduite est suspecte</l>
 	<l id="162">A ce consul sévère, et que Rome respecte.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="163">Cicéron respecté ! Lui, mon lâche rival !</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Aurélie, Catilina, Martian, l’un des conjurés.</head>
-<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Aurélie, Catilina, Martian, l’un des conjurés.</cast>
+<sp who="MARTIAN"><hstage><speaker>MARTIAN</speaker>.</hstage>
 	<l id="164">Seigneur, Cicéron vient près de ce lieu fatal ;</l>
 	<l id="165">Par son ordre bientôt le sénat se rassemble :</l>
 	<l id="166" part="i">Il vous mande en secret.</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="166" part="f">Catilina, je tremble</l>
 	<l id="167">A cet ordre subit, à ce funeste nom.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="168">Mon épouse trembler au nom de Cicéron !</l>
 	<l id="169">Que Nonnius séduit le craigne et le révère ;</l>
 	<l id="170">Qu’il déshonore ainsi son rang, son caractère ;</l>
@@ -355,7 +355,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="176">Vous seriez sans orgueil et sans ambition ?</l>
 	<l id="177" part="i">Il en faut aux grands cœurs.</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="177" part="f">Tu crois le mien timide ;</l>
 	<l id="178">La seule cruauté te paraît intrépide.</l>
 	<l id="179">Tu m’oses reprocher d’avoir tremblé pour toi.</l>
@@ -365,36 +365,36 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="183">Qui ne peut te changer, qui ne peut t’attendrir,</l>
 	<l id="184">Plus Romaine que toi, peut t’apprendre à mourir.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="185">Que de chagrins divers il faut que je dévore !</l>
 	<l id="186">Cicéron que je vois est moins à craindre encore.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Cicéron dans l’enfoncement, le chef des licteurs, Catilina.</head>
-<sp who="CICERON"><speaker>CICÉRON, au chef des licteurs.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Cicéron dans l’enfoncement, le chef des licteurs, Catilina.</cast>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>, au chef des licteurs.</hstage>
 	<l id="187">Suivez mon ordre, allez ; de ce perfide cœur</l>
 	<l id="188">Je prétends, sans témoin, sonder la profondeur.</l>
 	<l id="189">La crainte quelquefois peut ramener un traître.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="190">Quoi ! C’est ce plébéien dont Rome a fait son maître !</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="191">Avant que le sénat se rassemble à ma voix,</l>
 	<l id="192">Je viens, Catilina, pour la dernière fois,</l>
 	<l id="193">Apporter le flambeau sur le bord de l’abîme</l>
 	<l id="194">Où votre aveuglement vous conduit par le crime.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="195" part="i">Qui ? Vous ?</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="195" part="m">Moi.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="195" part="f">C’est ainsi que votre inimitié...</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="196">C’est ainsi que s’explique un reste de pitié.</l>
 	<l id="197">Vos cris audacieux, votre plainte frivole,</l>
 	<l id="198">Ont assez fatigué les murs du Capitole.</l>
@@ -421,11 +421,11 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="219">Mon nom commence en moi : de votre honneur jaloux,</l>
 	<l id="220">Tremblez que votre nom ne finisse dans vous.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="221">Vous abusez beaucoup, magistrat d’une année,</l>
 	<l id="222">De votre autorité passagère et bornée.</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="223">Si j’en avais usé, vous seriez dans les fers,</l>
 	<l id="224">Vous, l’éternel appui des citoyens pervers ;</l>
 	<l id="225">Vous qui, de nos autels souillant les privilèges,</l>
@@ -465,7 +465,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="259">Des lois qui se taisaient sur vos crimes passés,</l>
 	<l id="260">De ces lois que je venge, et que vous renversez.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="261">Je vous ai déjà dit, seigneur, que votre place</l>
 	<l id="262">Avec Catilina permet peu cette audace ;</l>
 	<l id="263">Mais je veux pardonner des soupçons si honteux,</l>
@@ -484,13 +484,13 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="276">Rendu Rome terrible aux yeux des nations.</l>
 	<l id="277">Moi je la trahirais ! Moi qui l’ai su défendre !</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="278">Marius et Sylla, qui la mirent en cendre,</l>
 	<l id="279">Ont mieux servi l’état, et l’ont mieux défendu.</l>
 	<l id="280">Les tyrans ont toujours quelque ombre de vertu ;</l>
 	<l id="281">Ils soutiennent les lois avant de les abattre.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="282">Ah ! Si vous soupçonnez ceux qui savent combattre,</l>
 	<l id="283">Accusez donc César, et Pompée, et Crassus.</l>
 	<l id="284">Pourquoi fixer sur moi vos yeux toujours déçus ?</l>
@@ -498,10 +498,10 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="286">Pourquoi suis-je l’objet de votre défiance ?</l>
 	<l id="287">Pourquoi me choisir, moi ? par quel zèle emporté ?...</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="288">Vous-même jugez-vous ; l’avez-vous mérité ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="289">Non, mais j’ai trop daigné m’abaisser à l’excuse ;</l>
 	<l id="290">Et plus je me défends, plus Cicéron m’accuse.</l>
 	<l id="291">Si vous avez voulu me parler en ami,</l>
@@ -510,13 +510,13 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="294">Et si c’est en consul, ce consul n’est pas maître ;</l>
 	<l id="295">Il préside au sénat, et je peux l’y braver.</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="296">J’y punis les forfaits ; tremble de m’y trouver.</l>
 	<l id="297">Malgré toute ta haine, à mes yeux méprisable,</l>
 	<l id="298">Je t’y protégerai, si tu n’es point coupable :</l>
 	<l id="299" part="i">Fuis Rome, si tu l’es.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="299" part="f">C’en est trop ; arrêtez.</l>
 	<l id="300">C’est trop souffrir le zèle où vous vous emportez.</l>
 	<l id="301">De vos vagues soupçons j’ai dédaigné l’injure ;</l>
@@ -526,47 +526,47 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="CICERON"><speaker>CICÉRON, seul.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>, seul.</hstage>
 	<l id="305">Le traître pense-t-il, à force d’insolence,</l>
 	<l id="306">Par sa fausse grandeur prouver son innocence ?</l>
 	<l id="307">Tu ne peux m’imposer, perfide ; ne crois pas</l>
 	<l id="308">Éviter l’œil vengeur attaché sur tes pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Cicéron, Caton.</head>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Cicéron, Caton.</cast>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="309">Eh bien ! Ferme Caton, Rome est-elle en défense ?</l>
 </sp>
-<sp who="CATON"><speaker>CATON.</speaker>
+<sp who="CATON"><hstage><speaker>CATON</speaker>.</hstage>
 	<l id="310">Vos ordres sont suivis. Ma prompte vigilance</l>
 	<l id="311">A disposé déjà ces braves chevaliers</l>
 	<l id="312">Qui sous vos étendards marcheront les premiers.</l>
 	<l id="313">Mais je crains tout du peuple, et du sénat lui-même.</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="314" part="i">Du sénat ?</l>
 </sp>
-<sp who="CATON"><speaker>CATON.</speaker>
+<sp who="CATON"><hstage><speaker>CATON</speaker>.</hstage>
 	<l id="314" part="f">Enivré de sa grandeur suprême,</l>
 	<l id="315">Dans ses divisions il se forge des fers.</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="316">Les vices des Romains ont vengé l’univers,</l>
 	<l id="317">La vertu disparaît, la liberté chancelle ;</l>
 	<l id="318">Mais Rome a des Catons, j’espère encor pour elle.</l>
 </sp>
-<sp who="CATON"><speaker>CATON.</speaker>
+<sp who="CATON"><hstage><speaker>CATON</speaker>.</hstage>
 	<l id="319">Ah ! Qui sert son pays sert souvent un ingrat.</l>
 	<l id="320">Votre mérite même irrite le sénat ;</l>
 	<l id="321">Il voit d’un œil jaloux cet éclat qui l’offense.</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="322">Les regards de Caton seront ma récompense.</l>
 	<l id="323">Au torrent de mon siècle, à son iniquité,</l>
 	<l id="324">J’oppose ton suffrage et la postérité.</l>
 	<l id="325">Faisons notre devoir : les dieux feront le reste.</l>
 </sp>
-<sp who="CATON"><speaker>CATON.</speaker>
+<sp who="CATON"><hstage><speaker>CATON</speaker>.</hstage>
 	<l id="326">Eh ! Comment résister à ce torrent funeste,</l>
 	<l id="327">Quand je vois dans ce temple, aux vertus élevé,</l>
 	<l id="328">L’infâme trahison marcher le front levé ?</l>
@@ -583,7 +583,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="339">César fut le premier que mon cœur soupçonna.</l>
 	<l id="340" part="i">Oui, j’accuse César.</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="340" part="f">Et moi, Catilina !</l>
 	<l id="341">De brigues, de complots, de nouveautés avide,</l>
 	<l id="342">Vaste dans ses projets, impétueux, perfide,</l>
@@ -597,13 +597,13 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="350">Tous ses crimes passés sont mes premiers indices.</l>
 	<l id="351" part="i">J’en préviendrai la suite.</l>
 </sp>
-<sp who="CATON"><speaker>CATON.</speaker>
+<sp who="CATON"><hstage><speaker>CATON</speaker>.</hstage>
 	<l id="351" part="f">Il a beaucoup d’amis ;</l>
 	<l id="352">Je crains pour les Romains des tyrans réunis.</l>
 	<l id="353">L’armée est en Asie, et le crime est dans Rome ;</l>
 	<l id="354">Mais pour sauver l’état il suffit d’un grand homme.</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="355">Si nous sommes unis, il suffit de nous deux.</l>
 	<l id="356">La discorde est bientôt parmi les factieux.</l>
 	<l id="357">César peut conjurer, mais je connais son âme ;</l>
@@ -622,14 +622,14 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Catilina, Céthégus.</head>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Catilina, Céthégus.</cast>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="369">Tandis que tout s’apprête, et que ta main hardie</l>
 	<l id="370">Va de Rome et du monde allumer l’incendie,</l>
 	<l id="371">Tandis que ton armée approche de ces lieux,</l>
 	<l id="372">Sais-tu ce qui se passe en ces murs odieux ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="373">Je sais que d’un consul la sombre défiance</l>
 	<l id="374">Se livre à des terreurs qu’il appelle prudence ;</l>
 	<l id="375">Sur le vaisseau public ce pilote égaré</l>
@@ -647,12 +647,12 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="387">C’est un homme expirant qu’on voit d’un faible effort</l>
 	<l id="388">Se débattre et tomber dans les bras de la mort.</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="389">Il a des envieux, mais il parle, il entraîne ;</l>
 	<l id="390">Il réveille la gloire, il subjugue la haine ;</l>
 	<l id="391" part="i">Il domine au sénat.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="391" part="f">Je le brave en tous lieux ;</l>
 	<l id="392">J’entends avec mépris ses cris injurieux :</l>
 	<l id="393">Qu’il déclame à son gré jusqu’à sa dernière heure ;</l>
@@ -660,24 +660,24 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="395">De plus cruels soucis, des chagrins plus pressants,</l>
 	<l id="396">Occupent mon courage, et règnent sur mes sens.</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="397">Que dis-tu ? qui t’arrête en ta noble carrière ?</l>
 	<l id="398">Quand l’adresse et la force ont ouvert la barrière,</l>
 	<l id="399" part="i">Que crains-tu ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="399" part="f">Ce n’est pas mes nombreux ennemis ;</l>
 	<l id="400">Mon parti seul m’alarme, et je crains mes amis,</l>
 	<l id="401">De Lentulus-Sura l’ambition jalouse,</l>
 	<l id="402">Le grand cœur de César, et surtout mon épouse.</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="403">Ton épouse ? Tu crains une femme et des pleurs ?</l>
 	<l id="404">Laisse-lui ses remords, laisse-lui ses terreurs ;</l>
 	<l id="405">Tu l’aimes, mais en maître, et son amour docile</l>
 	<l id="406">Est de tes grands desseins un instrument utile.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="407">Je vois qu’il peut enfin devenir dangereux.</l>
 	<l id="408">Rome, un époux, un fils, partagent trop ses vœux.</l>
 	<l id="409">Ô Rome ! Ô nom fatal ! Ô liberté chérie !</l>
@@ -690,25 +690,25 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="416">Ne doivent point troubler ces terribles moments.</l>
 	<l id="417" part="i">Mais César !</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="417" part="f">Que veux-tu ? Si par ton artifice</l>
 	<l id="418">Tu ne peux réussir à t’en faire un complice,</l>
 	<l id="419">Dans le rang des proscrits faut-il placer son nom ?</l>
 	<l id="420">Faut-il confondre enfin César et Cicéron ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="421">C’est là ce qui m’occupe, et s’il faut qu’il périsse,</l>
 	<l id="422">Je me sens étonné de ce grand sacrifice.</l>
 	<l id="423">Il semble qu’en secret, respectant son destin,</l>
 	<l id="424">Je révère dans lui l’honneur du nom romain.</l>
 	<l id="425" part="i">Mais Sura viendra-t-il ?</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="425" part="f">Compte sur son audace ;</l>
 	<l id="426">Tu sais comme, ébloui des grandeurs de sa race,</l>
 	<l id="427">A partager ton règne il se croit destiné.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="428">Qu’à cet espoir trompeur il reste abandonné.</l>
 	<l id="429">Tu vois avec quel art il faut que je ménage</l>
 	<l id="430">L’orgueil présomptueux de cet esprit sauvage,</l>
@@ -718,18 +718,18 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="434">Que Rome et Cicéron ne coûtent à détruire.</l>
 	<l id="435">O d’un chef de parti dur et pénible emploi !</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="436">Le soupçonneux Sura s’avance ici vers toi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Catilina, Céthégus, Lentulus-Sura.</head>
-<sp who="SURA"><speaker>SURA.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Catilina, Céthégus, Lentulus-Sura.</cast>
+<sp who="SURA"><hstage><speaker>SURA</speaker>.</hstage>
 	<l id="437">Ainsi, malgré mes soins et malgré ma prière,</l>
 	<l id="438">Vous prenez dans César une assurance entière ;</l>
 	<l id="439">Vous lui donnez Préneste ; il devient notre appui.</l>
 	<l id="440">Pensez-vous me forcer à dépendre de lui ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="441">Le sang des Scipions n’est point fait pour dépendre.</l>
 	<l id="442">Ce n’est qu’au premier rang que vous devez prétendre.</l>
 	<l id="443">Je traite avec César, mais sans m’y confier ;</l>
@@ -737,7 +737,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="445">Croyez qu’en mon parti, s’il faut que je l’engage,</l>
 	<l id="446">Je me sers de son nom, mais pour votre avantage.</l>
 </sp>
-<sp who="SURA"><speaker>SURA.</speaker>
+<sp who="SURA"><hstage><speaker>SURA</speaker>.</hstage>
 	<l id="447">Ce nom est-il plus grand que le vôtre et le mien ?</l>
 	<l id="448">Pourquoi vous abaisser à briguer ce soutien ?</l>
 	<l id="449">On le fait trop valoir, et Rome est trop frappée</l>
@@ -745,7 +745,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="451">Pourquoi le rechercher alors que je vous sers ?</l>
 	<l id="452">Ne peut-on sans César subjuguer l’univers ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="453">Nous le pouvons, sans doute, et sur votre vaillance</l>
 	<l id="454">J’ai fondé dès longtemps ma plus forte espérance ;</l>
 	<l id="455">Mais César est aimé du peuple et du sénat ;</l>
@@ -754,7 +754,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="458">Par cent chemins divers il court à la fortune.</l>
 	<l id="459" part="i">Il nous est nécessaire.</l>
 </sp>
-<sp who="SURA"><speaker>SURA.</speaker>
+<sp who="SURA"><hstage><speaker>SURA</speaker>.</hstage>
 	<l id="459" part="f">Il nous sera fatal :</l>
 	<l id="460">Notre égal aujourd’hui, demain notre rival,</l>
 	<l id="461">Bientôt notre tyran, tel est son caractère ;</l>
@@ -766,7 +766,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="467">Je vous ai prodigué mon service et ma foi,</l>
 	<l id="468">Et je renonce à vous, s’il l’emporte sur moi.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="469">J’y consens ; faites plus, arrachez-moi la vie,</l>
 	<l id="470">Je m’en déclare indigne, et je la sacrifie,</l>
 	<l id="471">Si je permets jamais, de nos grandeurs jaloux,</l>
@@ -783,21 +783,21 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="481">Par un autre chemin tu reviendras m’attendre</l>
 	<l id="482">Vers ces lieux retirés où César va m’entendre.</l>
 </sp>
-<sp who="SURA"><speaker>SURA.</speaker>
+<sp who="SURA"><hstage><speaker>SURA</speaker>.</hstage>
 	<l id="483">Enfin donc sans César vous n’entreprenez rien ?</l>
 	<l id="484">Nous attendrons le fruit de ce grand entretien.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="485">Allez, j’espère en vous plus que dans César même.</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="486">Je cours exécuter ta volonté suprême,</l>
 	<l id="487">Et sous tes étendards à jamais réunir</l>
 	<l id="488">Ceux qui mettent leur gloire à savoir t’obéir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Catilina, César.</head>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Catilina, César.</cast>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="489">Eh bien ! César, eh bien ! Toi de qui la fortune</l>
 	<l id="490">Dès le temps de Sylla me fut toujours commune,</l>
 	<l id="491">Toi dont j’ai présagé les éclatants destins,</l>
@@ -831,26 +831,26 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="519">De Rome qui te parle as-tu quelque pitié ?</l>
 	<l id="520">César est-il fidèle à ma tendre amitié ?</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="521">Oui, si dans le sénat on te fait injustice,</l>
 	<l id="522">César te défendra, compte sur mon service.</l>
 	<l id="523">Je ne peux te trahir ; n’exige rien de plus.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="524">Et tu bornerais là tes vœux irrésolus ?</l>
 	<l id="525">C’est à parler pour moi que tu peux te réduire ?</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="526">J’ai pesé tes projets, je ne veux pas leur nuire ;</l>
 	<l id="527">Je peux leur applaudir, je n’y veux point entrer.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="528">J’entends : pour les heureux tu veux te déclarer.</l>
 	<l id="529">Des premiers mouvements spectateur immobile,</l>
 	<l id="530">Tu veux ravir les fruits de la guerre civile,</l>
 	<l id="531">Sur nos communs débris établir ta grandeur.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="532">Non, je veux des dangers plus dignes de mon cœur.</l>
 	<l id="533">Ma haine pour Caton, ma fière jalousie</l>
 	<l id="534">Des lauriers dont Pompée est couvert en Asie,</l>
@@ -859,25 +859,25 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="537">Sur les rives du Rhin, de la Seine et du Tage,</l>
 	<l id="538">La victoire m’appelle ; et voilà mon partage.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="539">Commence donc par Rome, et songe que demain</l>
 	<l id="540">J’y pourrais avec toi marcher en souverain.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="541">Ton projet est bien grand, peut-être téméraire ;</l>
 	<l id="542">Il est digne de toi ; mais, pour ne te rien taire,</l>
 	<l id="543">Plus il doit t’agrandir, moins il est fait pour moi.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="544" part="i">Comment ?</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="544" part="f">Je ne veux pas servir ici sous toi.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="545">Ah ! Crois qu’avec César on partage sans peine.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="546">On ne partage point la grandeur souveraine.</l>
 	<l id="547">Va, ne te flatte pas que jamais à son char</l>
 	<l id="548">L’heureux Catilina puisse enchaîner César.</l>
@@ -906,7 +906,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="571">Je serai digne d’eux, et je veux que leurs fers,</l>
 	<l id="572">D’eux-mêmes respectés, de lauriers soient couverts.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="573">Le moyen que je t’offre est plus aisé, peut-être.</l>
 	<l id="574">Qu’était donc ce Sylla qui s’est fait notre maître ?</l>
 	<l id="575">Il avait une armée, et j’en forme aujourd’hui ;</l>
@@ -916,7 +916,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="579">Veux-tu de Cicéron subir ici la loi,</l>
 	<l id="580">Vivre son courtisan, ou régner avec moi ?</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="581">Je ne veux l’un ni l’autre : il n’est pas temps de feindre.</l>
 	<l id="582">J’estime Cicéron, sans l’aimer ni le craindre.</l>
 	<l id="583">Je t’aime, je l’avoue, et je ne te crains pas.</l>
@@ -928,7 +928,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="589">Ah ! Qu’il serve, s’il l’ose, au dessein qui m’anime ;</l>
 	<l id="590">Et s’il n’en est l’appui, qu’il en soit la victime.</l>
 	<l id="591">Sylla voulait le perdre, il le connaissait bien.</l>
@@ -936,19 +936,19 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="593">Je ferai ce qu’enfin Sylla craignit de faire.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Catilina, Céthégus, Lentulus-Sura.</head>
-<sp who="SURA"><speaker>SURA.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Catilina, Céthégus, Lentulus-Sura.</cast>
+<sp who="SURA"><hstage><speaker>SURA</speaker>.</hstage>
 	<l id="594">César s’est-il montré favorable ou contraire ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="595">Sa stérile amitié nous offre un faible appui.</l>
 	<l id="596">Il faut et nous servir, et nous venger de lui.</l>
 	<l id="597">Nous avons des soutiens plus sûrs et plus fidèles.</l>
 	<l id="598">Les voici ces héros vengeurs de nos querelles.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"> <head>SCÈNE VI. Catilina, les conjurés.</head>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<div2 type="scene" n="6"> <head>SCÈNE VI.</head><cast>Catilina, les conjurés.</cast>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="599">Venez, noble Pison, vaillant Autronius,</l>
 	<l id="600">Intrépide Vargonte, ardent Statilius ;</l>
 	<l id="601">Vous tous, braves guerriers de tout rang, de tout âge,</l>
@@ -993,18 +993,18 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="639">Leur joignez-vous surtout ces braves vétérans,</l>
 	<l id="640">Qu’un odieux repos fatigua trop longtemps ?</l>
 </sp>
-<sp who="LENTULUS"><speaker>LENTULUS.</speaker>
+<sp who="LENTULUS"><hstage><speaker>LENTULUS</speaker>.</hstage>
 	<l id="641">Je dois les amener, sitôt que la nuit sombre</l>
 	<l id="642">Cachera sous son voile et leur marche et leur nombre ;</l>
 	<l id="643">Je les armerai tous dans ce lieu retiré.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="644">Vous, du mont Célius êtes-vous assuré ?</l>
 </sp>
-<sp who="STATILIUS"><speaker>STATILIUS.</speaker>
+<sp who="STATILIUS"><hstage><speaker>STATILIUS</speaker>.</hstage>
 	<l id="645">Les gardes sont séduits ; on peut tout entreprendre.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="646">Vous, au mont Aventin que tout soit mis en cendre.</l>
 	<l id="647">Dès que de Mallius vous verrez les drapeaux,</l>
 	<l id="648">De ce signal terrible allumez les flambeaux.</l>
@@ -1033,28 +1033,28 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="670">Qui du sang des tyrans sera bientôt trempée.</l>
 	<l id="671">Jurez tous de périr ou de vaincre avec moi.</l>
 </sp>
-<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+<sp who="MARTIAN"><hstage><speaker>MARTIAN</speaker>.</hstage>
 	<l id="672">Oui, nous le jurons tous par ce fer et par toi !</l>
 </sp>
-<sp who="AUTRE-CONJURE"><speaker>UN AUTRE CONJURÉ.</speaker>
+<sp who="AUTRE-CONJURE"><hstage><speaker>UN AUTRE CONJURÉ</speaker>.</hstage>
 	<l id="673" part="i">Périsse le sénat !</l>
 </sp>
-<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+<sp who="MARTIAN"><hstage><speaker>MARTIAN</speaker>.</hstage>
 	<l id="673" part="f">Périsse l’infidèle</l>
 	<l id="674">Qui pourra différer de venger ta querelle !</l>
 	<l id="675">Si quelqu’un se repent, qu’il tombe sous nos coups !</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="676">Allez, et cette nuit Rome entière est à vous.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Catilina, Céthégus, affranchis, Martian, Septime.</head>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Catilina, Céthégus, affranchis, Martian, Septime.</cast>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="677">Tout est-il prêt ? Enfin l’année avance-t-elle ?</l>
 </sp>
-<sp who="MARTIAN"><speaker>MARTIAN.</speaker>
+<sp who="MARTIAN"><hstage><speaker>MARTIAN</speaker>.</hstage>
 	<l id="678">Oui, seigneur ; Mallius, à ses serments fidèle,</l>
 	<l id="679">Vient entourer ces murs aux flammes destinés.</l>
 	<l id="680">Au-dehors, au-dedans les ordres sont donnés.</l>
@@ -1062,7 +1062,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="682">Et des moindres délais leurs courages s’irritent.</l>
 	<l id="683">Prescrivez le moment où Rome doit périr.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="684">Sitôt que du sénat vous me verrez sortir,</l>
 	<l id="685">Commencez à l’instant nos sanglants sacrifices ;</l>
 	<l id="686">Que du sang des proscrits les fatales prémices</l>
@@ -1071,12 +1071,12 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="689">Si d’un consul trompé les ardents émissaires</l>
 	<l id="690">Oseraient épier nos terribles mystères.</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="691">Peut-être avant le temps faudrait-il l’attaquer</l>
 	<l id="692">Au milieu du sénat qu’il vient de convoquer ;</l>
 	<l id="693">Je vois qu’il prévient tout, et que Rome alarmée...</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="694">Prévient-il Mallius ? Prévient-il mon armée ?</l>
 	<l id="695">Connaît-il mes projets ? Sait-il, dans son effroi,</l>
 	<l id="696">Que Mallius n’agit, n’est armé que pour moi ?</l>
@@ -1099,10 +1099,10 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="713">Que Rome doit nourrir, que rien ne peut éteindre :</l>
 	<l id="714">Voilà notre destin, dis-moi s’il est à craindre.</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="715">Sous le nom de César, Préneste est-elle à nous ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="716">C’est là mon premier pas ; c’est un des plus grands coups</l>
 	<l id="717">Qu’au sénat incertain je porte en assurance.</l>
 	<l id="718">Tandis que Nonnius tombe sous ma puissance,</l>
@@ -1117,19 +1117,19 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="727">Et que rien ne partage un si grand intérêt.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Catilina, Céthégus, etc ; Aurélie.</head>
-<sp who="AURELIE"><speaker>AURÉLIE, une lettre à la main.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Catilina, Céthégus, etc ; Aurélie.</cast>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>, une lettre à la main.</hstage>
 	<l id="728">Lis ton sort et le mien, ton crime et ton arrêt ;</l>
 	<l id="729" part="i">Voilà ce qu’on m’écrit...</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="729" part="f">Quelle main téméraire ?...</l>
 	<l id="730">Eh bien ! je reconnais le seing de votre père.</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="731" part="i">Lis...</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA, lit la lettre.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>, lit la lettre.</hstage>
 	<l id="731" part="f">« La mort trop longtemps a respecté mes jours.</l>
 	<l id="732">Une fille que j’aime en termine le cours,</l>
 	<l id="733">Je suis trop bien puni, dans ma triste vieillesse,</l>
@@ -1141,10 +1141,10 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="739">Mais comment Nonnius aurait-il pu connaître</l>
 	<l id="740">Des secrets qu’un consul ignore encor peut-être ?</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="741" part="i">Ce billet peut vous perdre.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA à Céthégus.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker> à Céthégus.</hstage>
 	<l id="741" part="f">Il pourra nous servir.</l>
 <stage>À Aurélie.</stage>
 	<l id="742">Il faut tout vous apprendre, il faut tout éclaircir.</l>
@@ -1153,12 +1153,12 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="745">Voulez-vous préférer un père à votre époux ?</l>
 	<l id="746">Pour la dernière fois dois-je compter sur vous ?</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="747">Tu m’avais ordonné le silence et la fuite ;</l>
 	<l id="748">Tu voulais à mes pleurs dérober ta conduite ;</l>
 	<l id="749" part="i">Eh bien ! Que prétends-tu ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="749" part="f">Partez au même instant ;</l>
 	<l id="750">Envoyez au consul ce billet important.</l>
 	<l id="751">J’ai mes raisons, je veux qu’il apprenne à connaître</l>
@@ -1178,28 +1178,28 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="765">Et ce n’est pas à vous de partager mes soins :</l>
 	<l id="766">Vainqueur et couronné, cette nuit je vous joins.</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="767">Tu vas ce jour dans Rome ordonner le carnage ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="768">Oui, de nos ennemis j’y vais punir la rage.</l>
 	<l id="769" part="i">Tout est prêt ; on m’attend.</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="769" part="f">Commence donc par moi,</l>
 	<l id="770">Commence par ce meurtre, il est digne de toi :</l>
 	<l id="771">Barbare, j’aime mieux, avant que tout périsse,</l>
 	<l id="772">Expirer par tes mains, que vivre ta complice.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="773">Qu’au nom de nos liens votre esprit raffermi...</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="774">Ne désespérez point un époux, un ami.</l>
 	<l id="775">Tout vous est confié ; la carrière est ouverte,</l>
 	<l id="776">Et reculer d’un pas, c’est courir à sa perte.</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="777">Ma perte fut certaine au moment où mon cœur</l>
 	<l id="778">Reçut de vos conseils le poison séducteur ;</l>
 	<l id="779">Quand j’acceptai sa main, quand je fus abusée,</l>
@@ -1225,7 +1225,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="799">Et couvert de son sang, libre dans ta furie,</l>
 	<l id="800">Barbare, assouvis-toi du sang de ta patrie.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="801">C’est donc là ce grand cœur, et qui me fut soumis ?</l>
 	<l id="802">Ainsi vous vous rangez parmi mes ennemis ?</l>
 	<l id="803">Ainsi dans la plus juste et la plus noble guerre</l>
@@ -1236,13 +1236,13 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="808">Arment contre moi-même une épouse si chère ?</l>
 	<l id="809">Et vous mêlez enfin la menace à l’effroi ?</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="810">Je menace le crime... et je tremble pour toi.</l>
 	<l id="811">Dans mes emportements vois encor ma tendresse.</l>
 	<l id="812">Frémis d’en abuser, c’est ma seule, faiblesse.</l>
 	<l id="813" part="i">Crains...</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="813" part="f">Cet indigne mot n’est pas fait pour mon cœur.</l>
 	<l id="814">Ne me parlez jamais de paix ni de terreur :</l>
 	<l id="815">C’est assez m’offenser. Écoutez : je vous aime ;</l>
@@ -1253,7 +1253,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="820">Jugez de mon amour, puisque je vous pardonne :</l>
 	<l id="821" part="i">Mais sachez...</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="821" part="f">La couronne où tendent tes desseins,</l>
 	<l id="822">Cet objet du mépris du reste des Romains,</l>
 	<l id="823">Va, je l’arracherais sur mon front affermie,</l>
@@ -1265,8 +1265,8 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="829" part="i">Et je cours...</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Catilina, Céthégue, Lentulus-Sura, Aurélie, etc.</head>
-<sp who="SURA"><speaker>SURA.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Catilina, Céthégue, Lentulus-Sura, Aurélie, etc.</cast>
+<sp who="SURA"><hstage><speaker>SURA</speaker>.</hstage>
 	<l id="829" part="f">C’en est fait, et nous sommes perdus ;</l>
 	<l id="830">Nos amis sont trahis, nos projets confondus.</l>
 	<l id="831">Préneste entre nos mains n’a point été remise ;</l>
@@ -1281,11 +1281,11 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="840">Ces destins de Sylla, ce trône, cet empire !</l>
 	<l id="841">Es-tu désabusé ? tes yeux sont-ils ouverts ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA, après un moment de silence.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>, après un moment de silence.</hstage>
 	<l id="842">Je ne m’attendais pas à ce nouveau revers.</l>
 	<l id="843" part="i">Mais... me trahiriez-vous ?</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="843" part="f">Je le devrais peut-être.</l>
 	<l id="844">Je devrais servir Rome, en la vengeant d’un traître :</l>
 	<l id="845">Nos dieux m’en avoueraient. Je ferai plus ; je veux</l>
@@ -1314,7 +1314,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="868">Adieu : Catilina doit apprendre à me croire :</l>
 	<l id="869" part="i">Je l’avais mérité.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA, l’arêtant.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>, l’arêtant.</hstage>
 	<l id="869" part="f">Que faire, et quel danger ?</l>
 	<l id="870">Ecoutez... Le sort change, il me force à changer...</l>
 	<l id="871">Je me rends... Je vous cède... Il faut vous satisfaire...</l>
@@ -1322,21 +1322,21 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="873">Et que, dans le péril dont nous sommes pressés,</l>
 	<l id="874">Si je prends un parti, c’est vous qui m’y forcez.</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="875">Je me charge de tout, fût-ce encor de ta haine.</l>
 	<l id="876">Je te sers, c’est assez. Fille, épouse, et Romaine,</l>
 	<l id="877">Voilà tous mes devoirs, je les suis ; et le tien</l>
 	<l id="878">Est d’égaler un cœur aussi pur que le mien.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Catilina, Céthégus, affranchis, Lentulus-Sura.</head>
-<sp who="SURA"><speaker>SURA.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Catilina, Céthégus, affranchis, Lentulus-Sura.</cast>
+<sp who="SURA"><hstage><speaker>SURA</speaker>.</hstage>
 	<l id="879">Est-ce Catilina que nous venons d’entendre ?</l>
 	<l id="880">N’es-tu de Nonnius que le timide gendre ?</l>
 	<l id="881">Esclave d’une femme, et d’un seul mot troublé,</l>
 	<l id="882">Ce grand cœur s’est rendu sitôt qu’elle a parlé.</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="883">Non, tu ne peux changer ; ton génie invincible,</l>
 	<l id="884">Animé par l’obstacle, en sera plus terrible.</l>
 	<l id="885">Sans ressource à Préneste, accusés au sénat,</l>
@@ -1345,23 +1345,23 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="888">Nous avons trop d’amis, trop d’illustres complices,</l>
 	<l id="889">Un parti trop puissant, pour ne pas éclater.</l>
 </sp>
-<sp who="SURA"><speaker>SURA.</speaker>
+<sp who="SURA"><hstage><speaker>SURA</speaker>.</hstage>
 	<l id="890">Mais avant le signal on peut nous arrêter.</l>
 	<l id="891">C’est lorsque dans la nuit le sénat se sépare,</l>
 	<l id="892">Que le parti s’assemble, et que tout se déclare.</l>
 	<l id="893" part="i">Que faire ?</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS, à Catilina.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>, à Catilina.</hstage>
 	<l id="893" part="f">Tu te tais, et tu frémis d’effroi ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="894">Oui, je frémis du coup que mon sort veut de moi.</l>
 </sp>
-<sp who="SURA"><speaker>SURA.</speaker>
+<sp who="SURA"><hstage><speaker>SURA</speaker>.</hstage>
 	<l id="895">J’attends peu d’Aurélie ; et, dans ce jour funeste,</l>
 	<l id="896">Vendre cher notre vie est tout ce qui nous reste.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="897">Je compte les moments, et j’observe les lieux.</l>
 	<l id="898">Aurélie, en flattant ce vieillard odieux,</l>
 	<l id="899">En le baignant de pleurs, en lui demandant grâce,</l>
@@ -1384,44 +1384,44 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="916" part="i">Vous... Ciel ! Que vois-je ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Cicéron et les précédents.</head>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Cicéron et les précédents.</cast>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="916" part="f">Arrête, audacieux coupable ;</l>
 	<l id="917">Où portes-tu tes pas ? Vous, CÉTHÉGUS, parlez...</l>
 	<l id="918">Sénateurs, affranchis, qui vous a rassemblés ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="919">Bientôt dans le sénat nous pourrons te l’apprendre.</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="920">De ta poursuite vaine on saura s’y défendre.</l>
 </sp>
-<sp who="SURA"><speaker>SURA.</speaker>
+<sp who="SURA"><hstage><speaker>SURA</speaker>.</hstage>
 	<l id="921">Nous verrons si, toujours prompt à nous outrager,</l>
 	<l id="922">Le fils de Tullius nous ose interroger.</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="923">J’ose au moins demander qui sont ces téméraires.</l>
 	<l id="924">Sont-ils, ainsi que vous, des Romains consulaires,</l>
 	<l id="925">Que la loi de l’état me force à respecter,</l>
 	<l id="926">Et que le sénat seul ait le droit d’arrêter ?</l>
 	<l id="927">Qu’on les charge de fers ; allez, qu’on les entraîne.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="928">C’est donc toi qui détruis la liberté romaine ?</l>
 	<l id="929">Arrêter des Romains sur tes lâches soupçons !</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="930">Ils sont de ton conseil, et voilà mes raisons.</l>
 	<l id="931">Vous-mêmes, frémissez. Licteurs, qu’on m’obéisse.</l>
 <stage>On emmène Septime et Martian.</stage>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="932">Implacable ennemi, poursuis ton injustice ;</l>
 	<l id="933">Abuse de ta place, et profite du temps.</l>
 	<l id="934">Il faudra rendre compte, et c’est où je t’attends.</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="935">Qu’on fasse à l’instant même interroger ces traîtres.</l>
 	<l id="936">Va, je pourrai bientôt traiter ainsi leurs maîtres.</l>
 	<l id="937">J’ai mandé Nonnius : il sait tous tes desseins.</l>
@@ -1434,13 +1434,13 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="944">Viens t’asseoir au sénat, et suis-moi, si tu l’oses.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Catilina, Céthégus, Lentulus-Sura.</head>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Catilina, Céthégus, Lentulus-Sura.</cast>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="945">Faut-il donc succomber sous les puissants efforts</l>
 	<l id="946">D’un bras habile et prompt qui rompt tous nos ressorts ?</l>
 	<l id="947">Faut-il qu’à Cicéron le sort nous sacrifie ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="948">Jusqu’au dernier moment ma fureur le défie.</l>
 	<l id="949">C’est un homme alarmé, que son trouble conduit,</l>
 	<l id="950">Qui cherche à tout apprendre, et qui n’est pas instruit :</l>
@@ -1451,19 +1451,19 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="955">Mallius et l’armée aux portes vont paraître.</l>
 	<l id="956">Vous m’avez cru perdu ; marchez, et je suis maître.</l>
 </sp>
-<sp who="SURA"><speaker>SURA.</speaker>
+<sp who="SURA"><hstage><speaker>SURA</speaker>.</hstage>
 	<l id="957">Nonnius du consul éclaircit les soupçons.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="958">Il ne le verra pas, c’est moi qui t’en réponds.</l>
 	<l id="959">Marchez, dis-je ; au sénat parlez en assurance,</l>
 	<l id="960">Et laissez-moi le soin de remplir ma vengeance.</l>
 	<l id="961" part="i">Allons... Où vais-je ?</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="961" part="m">Eh bien ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="961" part="f">Aurélie ! ah, grands dieux !</l>
 	<l id="962">Qu’allez-vous ordonner de ce cœur furieux ?</l>
 	<l id="963">écartez-la, surtout. Si je la vois paraître,</l>
@@ -1473,26 +1473,26 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
 <stage>Le théâtre doit représenter le lieu préparé pour le sénat. Cette salle laisse voir une partie de la galerie qui conduit du palais d’Aurélie au temple de Tellus. Un double rang de sièges forme un cercle dans cette salle ; le siège de Cicéron, plus élevé, est au milieu.</stage>
-<div2 type="scene" n="1"><head>SCÈNE I. Céthegus, Lentulus - Sura, retirés</head>vers le devant.
-<sp who="SURA"><speaker>SURA.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Céthegus, Lentulus - Sura, retirés</cast>vers le devant.
+<sp who="SURA"><hstage><speaker>SURA</speaker>.</hstage>
 	<l id="965">Tous ces pères de Rome, au sénat appelés,</l>
 	<l id="966">Incertains de leur sort, et de soupçons troublés,</l>
 	<l id="967">Ces monarques tremblants tardent bien à paraître.</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="968">L’oracle des Romains, ou qui du moins croit l’être,</l>
 	<l id="969">Dans d’impuissants travaux sans relâche occupé,</l>
 	<l id="970">Interroge Septime ; et, par ses soins trompé,</l>
 	<l id="971">Il a retardé tout par ses fausses alarmes.</l>
 </sp>
-<sp who="SURA"><speaker>SURA.</speaker>
+<sp who="SURA"><hstage><speaker>SURA</speaker>.</hstage>
 	<l id="972">Plût au ciel que déjà nous eussions pris les armes !</l>
 	<l id="973">Je crains, je l’avouerai, cet esprit du sénat,</l>
 	<l id="974">Ces préjugés sacrés de l’amour de l’état,</l>
 	<l id="975">Cet antique respect, et cette idolâtrie,</l>
 	<l id="976">Que réveille en tout temps le nom de la patrie.</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="977">La patrie est un nom sans force et sans effet ;</l>
 	<l id="978">On le prononce encor, mais il n’a plus d’objet.</l>
 	<l id="979">Le fanatisme usé des siècles héroïques</l>
@@ -1502,27 +1502,27 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="983">Caton est sans crédit ; César nous favorise :</l>
 	<l id="984">Défendons-nous ici, Rome sera soumise.</l>
 </sp>
-<sp who="SURA"><speaker>SURA.</speaker>
+<sp who="SURA"><hstage><speaker>SURA</speaker>.</hstage>
 	<l id="985">Mais si Catilina, par sa femme séduit,</l>
 	<l id="986">De tant de nobles soins nous ravissait le fruit !</l>
 	<l id="987">Tout homme a sa faiblesse, et cette âme hardie</l>
 	<l id="988">Reconnaît en secret l’ascendant d’Aurélie.</l>
 	<l id="989">Il l’aime, il la respecte, il pourra lui céder.</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="990">Sois sûr qu’à son amour il saura commander.</l>
 </sp>
-<sp who="SURA"><speaker>SURA.</speaker>
+<sp who="SURA"><hstage><speaker>SURA</speaker>.</hstage>
 	<l id="991">Mais tu l’as vu frémir ; tu sais ce qu’il en coûte,</l>
 	<l id="992" part="i">Quand de tels intérêts...</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS, en le tirant à part.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>, en le tirant à part.</hstage>
 	<l id="992" part="f">Caton approche, écoute.</l>
 <stage>Lentulus et Céthégus s’asseyent à un bout de la salle.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Caton entre au sénat avec Lucullus, Crassus, Favonius, Clodius, Muréna, César, Catullus, Marcellus, etc.</head>
-<sp who="CATON"><speaker>CATON, en regardant les deux conjurés.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Caton entre au sénat avec Lucullus, Crassus, Favonius, Clodius, Muréna, César, Catullus, Marcellus, etc.</cast>
+<sp who="CATON"><hstage><speaker>CATON</speaker>, en regardant les deux conjurés.</hstage>
 	<l id="993">Lucullus, je me trompe, ou ces deux confidents</l>
 	<l id="994">S’occupent en secret de soins trop importants.</l>
 	<l id="995">Le crime est sur leur front, qu’irrite ma présence.</l>
@@ -1531,10 +1531,10 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="998">Le démon de Sylla semble nous aveugler.</l>
 	<l id="999">L’âme de ce tyran dans le sénat respire.</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="1000">Je vous entends assez, Caton ; qu’osez-vous dire ?</l>
 </sp>
-<sp who="CATON"><speaker>CATON, en s’asseyant, tandis que les autres prennent place.</speaker>
+<sp who="CATON"><hstage><speaker>CATON</speaker>, en s’asseyant, tandis que les autres prennent place.</hstage>
 	<l id="1001">Que les dieux du sénat, les dieux de Scipion,</l>
 	<l id="1002">Qui contre toi, peut-être, ont inspiré Caton,</l>
 	<l id="1003">Permettent quelquefois les attentats des traîtres ;</l>
@@ -1546,39 +1546,39 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1009">Pourra dans Céthégus et dans Catilina</l>
 	<l id="1010">Punir tous les forfaits qu’il permit à Sylla.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="1011">Caton, que faites-vous ? et quel affreux langage !</l>
 	<l id="1012">Toujours votre vertu s’explique avec outrage.</l>
 	<l id="1013">Vous révoltez les cœurs, au lieu de les gagner.</l>
 <stage>César s’assied.</stage>
 </sp>
-<sp who="CATON"><speaker>CATON, à César.</speaker>
+<sp who="CATON"><hstage><speaker>CATON</speaker>, à César.</hstage>
 	<l id="1014">Sur les cœurs corrompus vous cherchez à régner.</l>
 	<l id="1015">Pour les séditieux César toujours facile</l>
 	<l id="1016">Conserve en nos périls un courage tranquille.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="1017">Caton, il faut agir dans les jours des combats ;</l>
 	<l id="1018">Je suis tranquille ici, ne vous en plaignez pas.</l>
 </sp>
-<sp who="CATON"><speaker>CATON.</speaker>
+<sp who="CATON"><hstage><speaker>CATON</speaker>.</hstage>
 	<l id="1019">Je plains Rome, César, et je la vois trahie.</l>
 	<l id="1020">Ô ciel ! Pourquoi faut-il qu’aux climats de l’Asie,</l>
 	<l id="1021">Pompée, en ces périls, soit encore arrêté ?</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="1022">Quand César est pour vous ? Pompée est regretté ?</l>
 </sp>
-<sp who="CATON"><speaker>CATON.</speaker>
+<sp who="CATON"><hstage><speaker>CATON</speaker>.</hstage>
 	<l id="1023">L’amour de la patrie anime ce grand homme.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="1024">Je lui dispute tout, jusqu’à l’amour de Rome.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Les mêmes, Cicéron</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Les mêmes, Cicéron</cast>
 <stage>Cicéron, arrivant avec précipitation, tous les sénateurs se lèvent.</stage>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1025">Ah ! Dans quels vains débats perdez-vous ces instants ?</l>
 	<l id="1026">Quand Rome à son secours appelle ses enfants,</l>
 	<l id="1027">Qu’elle vous tend les bras, et que ses sept collines</l>
@@ -1586,13 +1586,13 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1029">Qu’on a déjà donné le signal des fureurs,</l>
 	<l id="1030">Qu’on a déjà versé le sang des sénateurs ?</l>
 </sp>
-<sp who="LUCULLUS"><speaker>LUCULLUS.</speaker>
+<sp who="LUCULLUS"><hstage><speaker>LUCULLUS</speaker>.</hstage>
 	<l id="1031" part="i">Ô ciel !</l>
 </sp>
-<sp who="CATON"><speaker>CATON.</speaker>
+<sp who="CATON"><hstage><speaker>CATON</speaker>.</hstage>
 	<l id="1031" part="m">Que dites-vous ?</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON, debout.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>, debout.</hstage>
 	<l id="1031" part="f">J’avais d’un pas rapide</l>
 	<l id="1032">Guidé des chevaliers la cohorte intrépide,</l>
 	<l id="1033">Assuré des secours aux postes menacés,</l>
@@ -1618,31 +1618,31 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 <stage>Cicéron s’assied avec le sénat.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Les mêmes, Catilina.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Les mêmes, Catilina.</cast>
 <stage>Catilina, debout entre Caton et César. CÉTHÉGUS est auprès de César, le sénat assis.</stage>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="1053">Oui, sénat, j’ai tout fait, et vous voyez la main</l>
 	<l id="1054">Qui de votre ennemi vient de percer le sein.</l>
 	<l id="1055">Oui, c’est Catilina qui venge la patrie,</l>
 	<l id="1056">C’est moi qui d’un perfide ai terminé la vie.</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1057" part="i">Toi, fourbe ? Toi, barbare ?</l>
 </sp>
-<sp who="CATON"><speaker>CATON.</speaker>
+<sp who="CATON"><hstage><speaker>CATON</speaker>.</hstage>
 	<l id="1057" part="f">Oses-tu te vanter ?...</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="1058">Nous pourrons le punir, mais il faut l’écouter.</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="1059">Parle, Catilina, parle, et force au silence</l>
 	<l id="1060">De tous tes ennemis l’audace et l’éloquence.</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1061" part="i">Romains, où sommes-nous ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="1061" part="f">Dans les temps du malheur,</l>
 	<l id="1062">Dans la guerre civile, au milieu de l’horreur,</l>
 	<l id="1063">Parmi l’embrasement qui menace le monde,</l>
@@ -1668,7 +1668,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1083">Qui m’osera punir d’un si juste homicide ?</l>
 	<l id="1084">Qui de vous peut encor m’accuser ?</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1085">Moi, perfide !</l>
 	<l id="1086">Moi, qu’un Catilina se vante de sauver ;</l>
 	<l id="1087">Moi, qui connais ton crime, et qui vais le prouver.</l>
@@ -1679,7 +1679,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1092">Vous souffrez qu’il vous trompe, alors qu’il vous opprime ?</l>
 	<l id="1093">Qu’il fasse insolemment des vertus de son crime ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="1094">Et vous souffrez, Romains, que mon accusateur</l>
 	<l id="1095">Des meilleurs citoyens soit le persécuteur ?</l>
 	<l id="1096">Apprenez des secrets que le consul ignore ;</l>
@@ -1693,18 +1693,18 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1104">Pour prix de mon service, approuvez mes alarmes ;</l>
 	<l id="1105">Sénateurs, ordonnez qu’on saisisse ces armes.</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON, aux licteurs.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>, aux licteurs.</hstage>
 	<l id="1106">Courez chez Nonnius, allez, et qu’à nos yeux</l>
 	<l id="1107">On amène sa fille en ces augustes lieux.</l>
 	<l id="1108" part="i">Tu trembles à ce nom !</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="1108" part="f">Moi, trembler ? Je méprise</l>
 	<l id="1109">Cette ressource indigne où ta haine s’épuise.</l>
 	<l id="1110">Sénat, le péril croît, quand vous délibérez.</l>
 	<l id="1111">Eh bien ! Sur ma conduite êtes-vous éclairés ?</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1112">Oui, je le suis, Romains, je le suis sur son crime.</l>
 	<l id="1113">Qui de vous peut penser, qu’un vieillard magnanime</l>
 	<l id="1114">Ait formé de si loin ce redoutable amas,</l>
@@ -1730,19 +1730,19 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1134">Rome ou Catilina doit périr aujourd’hui.</l>
 	<l id="1135">Vous n’avez qu’un moment : jugez entre elle et lui.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="1136">Un jugement trop prompt est souvent sans justice.</l>
 	<l id="1137">C’est la cause de Rome ; il faut qu’on l’éclaircisse.</l>
 	<l id="1138">Aux droits de nos égaux est-ce à nous d’attenter ?</l>
 	<l id="1139">Toujours dans ses pareils il faut se respecter.</l>
 	<l id="1140">Trop de sévérité tient de la tyrannie.</l>
 </sp>
-<sp who="CATON"><speaker>CATON.</speaker>
+<sp who="CATON"><hstage><speaker>CATON</speaker>.</hstage>
 	<l id="1141">Trop d’indulgence ici tient de la perfidie.</l>
 	<l id="1142">Quoi ! Rome, est d’un côté, de l’autre un assassin,</l>
 	<l id="1143">C’est Cicéron qui parle, et l’on est incertain ?</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="1144">Il nous faut une preuve ; on n’a que des alarmes.</l>
 	<l id="1145">Si l’on trouve en effet ces parricides armes,</l>
 	<l id="1146">Et si de Nonnius le crime est avéré,</l>
@@ -1750,18 +1750,18 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 <stage>À Catilina.</stage>
 	<l id="1148">Tu me connais : en tout je te tiendrai parole.</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1149">Ô Rome ! Ô ma patrie ! Ô dieux du Capitole !</l>
 	<l id="1150">Ainsi d’un scélérat un héros est l’appui !</l>
 	<l id="1151">Agissez-vous pour vous, en nous parlant pour lui ?</l>
 	<l id="1152">César, vous m’entendez ; et Rome trop à plaindre</l>
 	<l id="1153">N’aura donc désormais que ses enfants à craindre ?</l>
 </sp>
-<sp who="CLODIUS"><speaker>CLODIUS.</speaker>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker>.</hstage>
 	<l id="1154">Rome est en sûreté ; César est citoyen.</l>
 	<l id="1155">Qui peut avoir ici d’autre avis que le sien ?</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1156">Clodius, achevez : que votre main seconde</l>
 	<l id="1157">La main qui prépara la ruine du monde.</l>
 	<l id="1158">C’en est trop, je ne vois dans ces murs menacés</l>
@@ -1783,8 +1783,8 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1174" part="i">Mais vous n’en avez plus.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Le sénat, Aurélie.</head>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Le sénat, Aurélie.</cast>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="1174" part="f">Ô vous ! Sacrés vengeurs,</l>
 	<l id="1175">Demi-dieux sur la terre, et mes seuls protecteurs,</l>
 	<l id="1176">Consul, auguste appui qu’implore l’innocence,</l>
@@ -1795,71 +1795,71 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1180">Secourez-moi, vengez ce sang qui fume encore,</l>
 	<l id="1181">Sur l’infâme assassin que ma douleur ignore.</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON, en montrant Catilina.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>, en montrant Catilina.</hstage>
 	<l id="1182" part="i">Le voici.</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="1182" part="m">Dieux !</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1182" part="f">C’est lui, lui qui l’assassina,</l>
 	<l id="1183" part="i">Qui s’en ose vanter.</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="1183" part="f">Ô ciel ! Catilina !</l>
 	<l id="1184">L’ai-je bien entendu ? Quoi ! Monstre sanguinaire !</l>
 	<l id="1185">Quoi ! C’est toi, c’est ta main qui massacra mon père ?</l>
 <stage>Des licteurs la sontiennent.</stage>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA, se tournant vers Céthégus, et se jetant éperdu entre ses bras.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>, se tournant vers Céthégus, et se jetant éperdu entre ses bras.</hstage>
 	<l id="1186">Quel spectacle, grands dieux ! Je suis trop bien puni.</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="1187">À ce fatal objet quel trouble t’a saisi ?</l>
 	<l id="1188">Aurélie à nos pieds vient demander vengeance :</l>
 	<l id="1189">Mais si tu servis Rome, attends ta récompense.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA, se tournant vers Aurélie</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>, se tournant vers Aurélie</hstage>
 	<l id="1190">Aurélie, il est vrai... qu’un horrible devoir...</l>
 	<l id="1191">M’a forcé... Respectez mon cœur, mon désespoir...</l>
 	<l id="1192">Songez qu’un nœud plus saint et plus inviolable...</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Le Sénat, Aurélie, le chef des licteurs.</head>	
-<sp who="CHEF_LICTEURS"><speaker>LE CHEF DES LICTEURS.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Le Sénat, Aurélie, le chef des licteurs.</cast>	
+<sp who="CHEF_LICTEURS"><hstage><speaker>LE CHEF DES LICTEURS</speaker>.</hstage>
 	<l id="1193">Seigneur, on a saisi ce dépôt formidable.</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1194" part="i">Chez Nonnius ?</l>
 </sp>
-<sp who="CHEF_LICTEURS"><speaker>LE CHEF DES LICTEURS.</speaker>
+<sp who="CHEF_LICTEURS"><hstage><speaker>LE CHEF DES LICTEURS</speaker>.</hstage>
 	<l id="1194" part="f">Chez lui. Ceux qui sont arrêtés</l>
 	<l id="1195">N’accusent que lui seul de tant d’iniquités.</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="1196">Ô comble de la rage et de la calomnie !</l>
 	<l id="1197">On lui donne la mort : on veut flétrir sa vie !</l>
 	<l id="1198">Le cruel dont la main porta sur lui les coups...</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1199" part="i">Achevez...</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="1199" part="f">Justes dieux ! Où me réduisez-vous ?</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1200">Parlez ; la vérité dans son jour doit paraître.</l>
 	<l id="1201">Vous gardez le silence à l’aspect de ce traître !</l>
 	<l id="1202">Vous baissez devant lui vos yeux intimidés !</l>
 	<l id="1203">Il frémit devant vous ! Achevez, répondez.</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="1204">Ah ! je vous ai trahis ; c’est moi qui suis coupable.</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="1205" part="i">Non, vous ne l’êtes point...</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="1205" part="f">Va, monstre impitoyable ;</l>
 	<l id="1206">Va, ta pitié m’outrage, elle me fait horreur.</l>
 	<l id="1207">Dieux ! J’ai trop tard connu ma détestable erreur.</l>
@@ -1882,22 +1882,22 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1223">Voilà votre ennemi !... Perfide, imite-moi.</l>
 <stage>Elle se frappe.</stage>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="1224" part="i">Où suis-je ? Malheureux !</l>
 </sp>
-<sp who="CATON"><speaker>CATON.</speaker>
+<sp who="CATON"><hstage><speaker>CATON</speaker>.</hstage>
 	<l id="1224" part="f">Ô jour épouvantable !</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON, se levant.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>, se levant.</hstage>
 	<l id="1225">Jour trop digne en effet d’un siècle si coupable !</l>
 </sp>
-<sp who="AURELIE"><speaker>AURÉLIE.</speaker>
+<sp who="AURELIE"><hstage><speaker>AURÉLIE</speaker>.</hstage>
 	<l id="1226">Je devais... un billet remis entre vos mains...</l>
 	<l id="1227">Consul... de tous côtés je vois vos assassins...</l>
 	<l id="1228" part="i">Je me meurs...</l>
 <stage>On emmène Aurélie.</stage>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1228" part="f">S’il se peut, qu’on la secoure, Aufide ;</l>
 	<l id="1229">Qu’on cherche cet écrit. En est-ce assez, perfide ?</l>
 	<l id="1230">Sénateurs, vous tremblez, vous ne vous joignez pas</l>
@@ -1905,7 +1905,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1232">Il vous impose, encor ? Vous laissez impunie</l>
 	<l id="1233">La mort de Nonnius, et celle d’Aurélie ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="1234">Va, toi-même as tout fait ; c’est ton inimitié</l>
 	<l id="1235">Qui me rend dans ma rage un objet de pitié :</l>
 	<l id="1236">Toi, dont l’ambition, de la mienne rivale,</l>
@@ -1925,23 +1925,23 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1250">C’est le sort qui t’attend, et qui va s’accomplir ;</l>
 	<l id="1251">C’est l’espoir qui me reste, et je cours le remplir.</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1252" part="i">Qu’on saisisse ce traître.</l>
 </sp>
-<sp who="CETHEGUS"><speaker>CÉTHÉGUS.</speaker>
+<sp who="CETHEGUS"><hstage><speaker>CÉTHÉGUS</speaker>.</hstage>
 	<l id="1252" part="f">En as-tu la puissance ?</l>
 </sp>
-<sp who="SURA"><speaker>SURA.</speaker>
+<sp who="SURA"><hstage><speaker>SURA</speaker>.</hstage>
 	<l id="1253">Oses-tu prononcer quand le sénat balance ?</l>
 </sp>
-<sp who="CATILINA"><speaker>CATILINA.</speaker>
+<sp who="CATILINA"><hstage><speaker>CATILINA</speaker>.</hstage>
 	<l id="1254">La guerre est déclarée ; amis, suivez mes pas.</l>
 	<l id="1255">C’en est fait ; le signal vous appelle aux combats.</l>
 	<l id="1256">Vous, Sénat incertain, qui venez de m’entendre,</l>
 	<l id="1257">Choisissez à loisir le parti qu’il faut prendre.</l>
 <stage>Il sort avec quelques sénateurs de son parti.</stage>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1258">Eh bien ! Choisissez donc, vainqueurs de l’univers,</l>
 	<l id="1259">De commander au monde, ou de porter des fers.</l>
 	<l id="1260">Ô grandeur des Romains ! Ô majesté flétrie !</l>
@@ -1954,28 +1954,28 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1267">Qu’on nomme le plus digne, et je marche sous lui.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Le sénat, le chef des licteurs.</head>
-<sp who="CHEF_LICTEURS"><speaker>LE CHEF DES LICTEURS.</speaker>	
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Le sénat, le chef des licteurs.</cast>
+<sp who="CHEF_LICTEURS"><hstage><speaker>LE CHEF DES LICTEURS</speaker>.</hstage>	
 	<l id="1268">Seigneur, en secourant la mourante Aurélie,</l>
 	<l id="1269">Que nos soins vainement rappelaient à la vie,</l>
 	<l id="1270">J’ai trouvé ce billet par son père adressé.</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON, en lisant.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>, en lisant.</hstage>
 	<l id="1271">Quoi ! D’un danger plus grand l’état est menacé !</l>
 	<l id="1272">César qui nous trahit veut enlever Préneste.</l>
 	<l id="1273">Vous, César, vous trempiez dans ce complot funeste !</l>
 	<l id="1274">Lisez, mettez le comble à des malheurs si grands.</l>
 	<l id="1275">César, étiez-vous fait pour servir des tyrans ?</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="1276">J’ai lu, je suis Romain, notre perte s’annonce.</l>
 	<l id="1277">Le danger croît, j’y vole, et voilà ma réponse.</l>
 <stage>Il sort.</stage>
 </sp>
-<sp who="CATON"><speaker>CATON.</speaker>
+<sp who="CATON"><hstage><speaker>CATON</speaker>.</hstage>
 	<l id="1278">Sa réponse est douteuse, il est trop leur appui.</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1279">Marchons ; servons l’état contre eux et contre lui.</l>
 <stage>À une partie des sénateurs.</stage>
 	<l id="1280">Vous, si les derniers cris d’Aurélie expirante,</l>
@@ -2000,8 +2000,8 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Caton, et une partie des sénateurs, debout, en habits de guerre.</head>
-<sp who="CLODIUS"><speaker>CLODIUS, à Caton.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Caton, et une partie des sénateurs, debout, en habits de guerre.</cast>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker>, à Caton.</hstage>
 	<l id="1296">Quoi ! Lorsque défendant cette enceinte sacrée,</l>
 	<l id="1297">A peine aux factieux nous en fermons l’entrée,</l>
 	<l id="1298">Quand partout le sénat s’exposant au danger,</l>
@@ -2019,7 +2019,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1310">Je partage avec vous les malheurs de l’état ;</l>
 	<l id="1311">Mais je ne peux souffrir la honte du sénat.</l>
 </sp>
-<sp who="CATON"><speaker>CATON.</speaker>
+<sp who="CATON"><hstage><speaker>CATON</speaker>.</hstage>
 	<l id="1312">La honte, Clodius, n’est que dans vos murmures.</l>
 	<l id="1313">Allez de vos amis déplorer les injures ;</l>
 	<l id="1314">Mais sachez que le sang de nos patriciens,</l>
@@ -2045,7 +2045,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1334">Et vous considérez, entourés d’ennemis,</l>
 	<l id="1335">Si celui qui vous sert vous a trop bien servis !</l>
 </sp>
-<sp who="CLODIUS"><speaker>CLODIUS.</speaker>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker>.</hstage>
 	<l id="1336">Caton, plus implacable encor que magnanime,</l>
 	<l id="1337">Aime les châtiments plus qu’il ne hait le crime.</l>
 	<l id="1338">Respectez le sénat ; ne lui reprochez rien.</l>
@@ -2061,19 +2061,19 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1348">Dans le péril pressant qui croît et nous obsède,</l>
 	<l id="1349">Vous montrez tous nos maux : montrez-vous le remède ?</l>
 </sp>
-<sp who="CATON"><speaker>CATON.</speaker>
+<sp who="CATON"><hstage><speaker>CATON</speaker>.</hstage>
 	<l id="1350">Oui, j’ose conseiller, esprit fier et jaloux,</l>
 	<l id="1351">Que l’on veille à la fois sur César et sur vous.</l>
 	<l id="1352">Je conseillerais plus ; mais voici votre père.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Cicéron, Caton, une partie des sénateurs.</head>
-<sp who="CATON"><speaker>CATON, à Cicéron.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Cicéron, Caton, une partie des sénateurs.</cast>
+<sp who="CATON"><hstage><speaker>CATON</speaker>, à Cicéron.</hstage>
 	<l id="1353">Viens, tu vois des ingrats. Mais Rome te défère</l>
 	<l id="1354">Les noms, les sacrés noms de père et de vengeur ;</l>
 	<l id="1355">Et l’envie à tes pieds t’admire avec terreur.</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1356">Romains, j’aime la gloire, et ne veux point m’en taire ;</l>
 	<l id="1357">Des travaux des humains c’est le digne salaire.</l>
 	<l id="1358">Sénat, en vous servant il la faut acheter :</l>
@@ -2107,10 +2107,10 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1386">Assiégée au-dehors, embrasée au-dedans,</l>
 	<l id="1387">Est cent fois en un jour à ses derniers moments.</l>
 </sp>
-<sp who="CRASSUS"><speaker>CRASSUS</speaker>
+<sp who="CRASSUS"><hstage><speaker>CRASSUS</speaker></hstage>
 	<l id="1388" part="i">Que fait César ?</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1388" part="f">Il a, dans ce jour mémorable,</l>
 	<l id="1389">Déployé, je l’avoue, un courage indomptable ;</l>
 	<l id="1390">Mais Rome exigeait plus d’un cœur tel que le sien.</l>
@@ -2125,33 +2125,33 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1399">Semblait inviter Rome à le servir un jour.</l>
 	<l id="1400">D’un trop coupable sang sa main était avare.</l>
 </sp>
-<sp who="CATON"><speaker>CATON.</speaker>
+<sp who="CATON"><hstage><speaker>CATON</speaker>.</hstage>
 	<l id="1401">Je vois avec horreur tout ce qu’il nous prépare.</l>
 	<l id="1402">Je le redis encore, et veux le publier,</l>
 	<l id="1403">De César en tout temps il faut se défier.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Le sénat, César.</head>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Le sénat, César.</cast>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="1404">Eh bien ! Dans ce sénat, trop prêt à se détruire,</l>
 	<l id="1405">La vertu de Caton cherche encore à me nuire ?</l>
 	<l id="1406" part="i">De quoi m’accuse-t-il ?</l>
 </sp>
-<sp who="CATON"><speaker>CATON.</speaker>
+<sp who="CATON"><hstage><speaker>CATON</speaker>.</hstage>
 	<l id="1406" part="f">D’aimer Catilina,</l>
 	<l id="1407">De l’avoir protégé lorsqu’on le soupçonna,</l>
 	<l id="1408">De ménager encor ceux qu’on pouvait abattre,</l>
 	<l id="1409">De leur avoir parlé quand il fallait combattre.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="1410">Un tel sang n’est pas fait pour teindre mes lauriers.</l>
 	<l id="1411">Je parle aux citoyens ; je combats les guerriers.</l>
 </sp>
-<sp who="CATON"><speaker>CATON.</speaker>
+<sp who="CATON"><hstage><speaker>CATON</speaker>.</hstage>
 	<l id="1412">Mais tous ces conjurés, ce peuple de coupables,</l>
 	<l id="1413" part="i">Que sont-ils à vos yeux ?</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="1413" part="f">Des mortels méprisables.</l>
 	<l id="1414">À ma voix, à mes coups ils n’ont pu résister.</l>
 	<l id="1415">Qui se soumet à moi n’a rien à redouter.</l>
@@ -2164,7 +2164,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1422">Les guerriers de Sylla font trembler les Romains.</l>
 	<l id="1423">Qu’ordonnez-vous, consul, et quels sont vos desseins ?</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1424">Les voici : que le ciel m’entende et les couronne.</l>
 	<l id="1425">Vous avez mérité que Rome vous soupçonne.</l>
 	<l id="1426">Je veux laver l’affront dont vous êtes chargé,</l>
@@ -2184,15 +2184,15 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1440">Vous l’êtes, c’est sur vous que mon espoir se fonde :</l>
 	<l id="1441">César, entre vos mains je mets le sort du monde.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR, en l’embrassant.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>, en l’embrassant.</hstage>
 	<l id="1442">Cicéron à César a dû se confier ;</l>
 	<l id="1443">Je vais mourir, seigneur, ou vous justifier.</l>
 <stage>Il sort.</stage>
 </sp>
-<sp who="CATON"><speaker>CATON.</speaker>
+<sp who="CATON"><hstage><speaker>CATON</speaker>.</hstage>
 	<l id="1444">De son ambition vous allumez les flammes.</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1445">Va, c’est ainsi qu’on traite avec les grandes âmes.</l>
 	<l id="1446">Je l’enchaîne à l’état en me fiant à lui ;</l>
 	<l id="1447">Ma générosité le rendra notre appui.</l>
@@ -2209,7 +2209,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 <stage>.Se tournant vers le chef des licteurs, qui entre en armes.</stage>
 	<l id="1458">Eh bien ! Les conjurés ?</l>
 </sp>
-<sp who="CHEF-LICTEURS"><speaker>LE CHEF DES LICTEURS</speaker>
+<sp who="CHEF-LICTEURS"><hstage><speaker>LE CHEF DES LICTEURS</speaker></hstage>
 	<l id="1459">Seigneur, ils sont punis ;</l>
 	<l id="1460">Mais leur sang a produit de nouveaux ennemis.</l>
 	<l id="1461">C’est le feu de l’Etna qui couvait sous la cendre ;</l>
@@ -2229,12 +2229,12 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1475">Redemandent le sang répandu par vos mains :</l>
 	<l id="1476">On parle de punir le vengeur des Romains.</l>
 </sp>
-<sp who="CLODIUS"><speaker>CLODIUS</speaker>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker></hstage>
 	<l id="1477">Vos égaux après tout, que vous deviez entendre,</l>
 	<l id="1478">Par vous seul condamnés, n’ayant pu se défendre,</l>
 	<l id="1479" part="i">Semblent autoriser...</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1479" part="f">Clodius, arrêtez ;</l>
 	<l id="1480">Renfermez votre envie et vos témérités ;</l>
 	<l id="1481">Ma puissance absolue est de peu de durée ;</l>
@@ -2250,14 +2250,14 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1491">à l’état malgré vous j’ai consacré mes jours ;</l>
 	<l id="1492">Et, toujours envié, je servirai toujours.</l>
 </sp>
-<sp who="CATON"><speaker>CATON.</speaker>
+<sp who="CATON"><hstage><speaker>CATON</speaker>.</hstage>
 	<l id="1493">Permettez que dans Rome encor je me présente,</l>
 	<l id="1494">Que j’aille intimider une foule insolente,</l>
 	<l id="1495">Que je vole au rempart, que du moins mon aspect</l>
 	<l id="1496">Contienne encor César, qui m’est toujours suspect.</l>
 	<l id="1497">Et si dans ce grand jour la fortune contraire...</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1498">Caton, votre présence est ici nécessaire.</l>
 	<l id="1499">Mes ordres sont donnés, César est au combat ;</l>
 	<l id="1500">Caton de la vertu doit l’exemple au sénat.</l>
@@ -2266,7 +2266,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 <stage>Il court au-devant de César.</stage>
 	<l id="1503">Ah ! C’est donc par vos mains que l’état soutenu...</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="1504">Je l’ai servi peut-être, et vous m’aviez connu.</l>
 	<l id="1505">Pétréius est couvert d’une immortelle gloire ;</l>
 	<l id="1506">Le courage et l’adresse ont fixé la victoire ;</l>
@@ -2297,7 +2297,7 @@ Les savants ne trouveront pas ici une histoire fidèle de la conjuration de Cati
 	<l id="1531">J’aimai Catilina ; mais vous voyez mon cœur ;</l>
 	<l id="1532">Jugez si l’amitié l’emporte sur l’honneur.</l>
 </sp>
-<sp who="CICERON"><speaker>CICÉRON.</speaker>
+<sp who="CICERON"><hstage><speaker>CICÉRON</speaker>.</hstage>
 	<l id="1533">Tu n’as point démenti mes vœux et mon estime.</l>
 	<l id="1534">Va, conserve à jamais cet esprit magnanime.</l>
 	<l id="1535">Que Rome admire en toi son éternel soutien.</l>

@@ -58,8 +58,8 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Philoctète, Dimas.</head>
-<sp who="DIMAS"><speaker>DIMAS</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Philoctète, Dimas.</cast>
+<sp who="DIMAS"><hstage><speaker>DIMAS</speaker></hstage>
 	<l id="1">Philoctète, est-ce vous ? quel coup affreux du sort</l>
 	<l id="2">Dans ces lieux empestés vous fait chercher la mort ?</l>
 	<l id="3">Venez-vous de nos dieux affronter la colère ?</l>
@@ -70,13 +70,13 @@
 	<l id="8">Du reste des vivants semble être séparée</l>
 	<l id="9" part="i">Retournez ....</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="9" part="f">Ce séjour convient aux malheureux :</l>
 	<l id="10">Va, laisse-moi le soin de mes destins affreux,</l>
 	<l id="11">Et dis-moi si des dieux la colère inhumaine,</l>
 	<l id="12">En accablant ce peuple, a respecté la reine.</l>
 </sp>
-<sp who="DIMAS"><speaker>DIMAS</speaker>
+<sp who="DIMAS"><hstage><speaker>DIMAS</speaker></hstage>
 	<l id="13">Oui, Seigneur, elle vit ; mais la contagion</l>
 	<l id="14">Jusqu’au pied de son trône apporte son poison.</l>
 	<l id="15">Chaque instant lui dérobe un serviteur fidèle,</l>
@@ -85,26 +85,26 @@
 	<l id="18">Va retirer son bras appesanti sur nous :</l>
 	<l id="19">Tant de sang, tant de morts, ont dû le satisfaire.</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="20">Eh ! quel crime a produit un courroux si sévère ?</l>
 </sp>
-<sp who="DIMAS"><speaker>DIMAS</speaker>
+<sp who="DIMAS"><hstage><speaker>DIMAS</speaker></hstage>
 	<l id="21" part="i">Depuis la mort du roi...</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="21" part="f"> Qu’entends-je ? quoi ! Laïus...</l>
 </sp>
-<sp who="DIMAS"><speaker>DIMAS</speaker>
+<sp who="DIMAS"><hstage><speaker>DIMAS</speaker></hstage>
 	<l id="22">Seigneur, depuis quatre ans ce héros ne vit plus.</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="23">Il ne vit plus ! quel mot a frappé mon oreille !</l>
 	<l id="24">Quel espoir séduisant dans mon cœur se réveille !</l>
 	<l id="25">Quoi ! Jocaste... Les dieux me seraient-ils plus doux ?</l>
 	<l id="26">Quoi ! Philoctète enfin pourrait-il être à vous ?</l>
 	<l id="27">Il ne vit plus !... quel sort a terminé sa vie ?</l>
 </sp>
-<sp who="DIMAS"><speaker>DIMAS</speaker>
+<sp who="DIMAS"><hstage><speaker>DIMAS</speaker></hstage>
 	<l id="28">Quatre ans sont écoulés depuis qu’en Béotie</l>
 	<l id="29">Pour la dernière fois le sort guida vos pas.</l>
 	<l id="30">A peine vous quittiez le sein de vos États,</l>
@@ -112,10 +112,10 @@
 	<l id="32">Lorsque, d’un coup perfide, une main ennemie</l>
 	<l id="33">Ravit à ses sujets ce prince infortuné.</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="34">Quoi ! Dimas, votre maître est mort assassiné ?</l>
 </sp>
-<sp who="DIMAS"><speaker>DIMAS</speaker>
+<sp who="DIMAS"><hstage><speaker>DIMAS</speaker></hstage>
 	<l id="35">Ce fut de nos malheurs la première origine</l>
 	<l id="36">Ce crime a de l’empire entraîné la ruine.</l>
 	<l id="37">Du bruit de son trépas mortellement frappés,</l>
@@ -165,7 +165,7 @@
 	<l id="81">Qui du sein de la gloire a pu vous arracher ?</l>
 	<l id="82">Dans ce séjour affreux que venez-vous chercher ?</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="83">J’y viens porter mes pleurs et ma douleur profonde.</l>
 	<l id="84">Apprends mon infortune et les malheurs du monde.</l>
 	<l id="85">Mes yeux ne verront plus ce digne fils des dieux,</l>
@@ -173,10 +173,10 @@
 	<l id="87">L’innocent opprimé perd son dieu tutélaire ;</l>
 	<l id="88">Je pleure mon ami, le monde pleure un père.</l>
 </sp>
-<sp who="DIMAS"><speaker>DIMAS</speaker>
+<sp who="DIMAS"><hstage><speaker>DIMAS</speaker></hstage>
 	<l id="89" part="i">Hercule est mort ?</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="89" part="f">Ami, ces malheureuses mains</l>
 	<l id="90">Ont mis sur le bûcher le plus grand des humains ;</l>
 	<l id="91">Je rapporte en ces lieux ses flèches invincibles,</l>
@@ -190,7 +190,7 @@
 	<l id="99">Tu ne me verrais point, suivant l’amour pour guide,</l>
 	<l id="100">Pour servir une femme abandonner Alcide.</l>
 </sp>
-<sp who="DIMAS"><speaker>DIMAS</speaker>
+<sp who="DIMAS"><hstage><speaker>DIMAS</speaker></hstage>
 	<l id="101">J’ai plaint longtemps ce feu si puissant et si doux ;</l>
 	<l id="102">Il naquit dans l’enfance, il croissait avec vous,</l>
 	<l id="103">Jocaste, par un père à son hymen forcée,</l>
@@ -202,7 +202,7 @@
 	<l id="109">En vain l’amour parlait à ce cœur agité,</l>
 	<l id="110">C’est le premier tyran que vous avez dompté.</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="111">Il fallut fuir pour vaincre ; oui, je te le confesse,</l>
 	<l id="112">Je luttai quelque temps. ; je sentis ma faiblesse</l>
 	<l id="113">Il fallut m’arracher de ce funeste lieu,</l>
@@ -222,27 +222,27 @@
 	<l id="127">Rien qu’un prince vulgaire, et je serais peut-être</l>
 	<l id="128">Esclave de mes sens, dont il m’a rendu maître.</l>
 </sp>
-<sp who="DIMAS"><speaker>DIMAS</speaker>
+<sp who="DIMAS"><hstage><speaker>DIMAS</speaker></hstage>
 	<l id="129">Ainsi donc désormais, sans plainte et sans courroux,</l>
 	<l id="130">Vous reverrez Jocaste et son nouvel époux ?</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="131">Comment ! que dites-vous ? un nouvel hyménée...</l>
 </sp>
-<sp who="DIMAS"><speaker>DIMAS</speaker>
+<sp who="DIMAS"><hstage><speaker>DIMAS</speaker></hstage>
 	<l id="132">Oedipe à cette reine a joint sa destinée.</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="133">Oedipe est trop heureux ! je n’en suis point surpris ;</l>
 	<l id="134">Et qui sauva son peuple est digne d’un tel prix :</l>
 	<l id="135" part="i">Le ciel est juste.</l>
 </sp>
-<sp who="DIMAS"><speaker>DIMAS</speaker>
+<sp who="DIMAS"><hstage><speaker>DIMAS</speaker></hstage>
 	<l id="135" part="f"> Oedipe en ces lieux va paraître :</l>
 	<l id="136">Tout le peuple avec lui, conduit par le grand-prêtre,</l>
 	<l id="137">Vient des dieux irrités conjurer les rigueurs.</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="138">Je me sens attendri, je partage leurs pleurs.</l>
 	<l id="139">Ô toi, du haut des cieux, veille sur ta patrie ;</l>
 	<l id="140">Exauce en sa faveur un ami qui te prie ;</l>
@@ -250,21 +250,21 @@
 	<l id="142">Que leurs vœux jusqu’à toi montent avec les miens !</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Le Grand-Prêtre, le chœur.</head>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Le Grand-Prêtre, le chœur.</cast>
 <stage>La porte du temple s’ouvre, et LE GRAND-PRÊTRE paraît au milieu du peuple.</stage>
-<sp who="CHŒUR"><speaker>PREMIER PERSONNAGE DU CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>PREMIER PERSONNAGE DU CHŒUR</speaker>.</hstage>
 	<l id="143">Esprits contagieux, tyrans de cet empire,</l>
 	<l id="144">Qui soufflez dans ces murs la mort qu’on y respire,</l>
 	<l id="145">Redoublez contre nous votre lente fureur,</l>
 	<l id="146">Et d’un trépas trop long épargnez-nous l’horreur.</l>
 </sp>
-<sp who="CHŒUR"><speaker>SECOND PERSONNAGE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>SECOND PERSONNAGE</speaker>.</hstage>
 	<l id="147">Frappez, dieux tout-puissants ; vos victimes sont prêtes :</l>
 	<l id="148">Ô monts, écrasez-nous... Cieux, tombez sur nos têtes !</l>
 	<l id="149">Ô mort, nous implorons ton funeste secours !</l>
 	<l id="150">Ô mort, viens nous sauver, viens terminer nos jours !</l>
 </sp>
-<sp who="GRAND_PRETRE"><speaker>LE GRAND-PRÊTRE.</speaker>
+<sp who="GRAND_PRETRE"><hstage><speaker>LE GRAND-PRÊTRE</speaker>.</hstage>
 	<l id="151">Cessez, et retenez ces clameurs lamentables,</l>
 	<l id="152">Faible soulagement aux maux des misérables.</l>
 	<l id="153">Fléchissons sous un dieu qui veut nous éprouver,</l>
@@ -277,8 +277,8 @@
 	<l id="160">Va du peuple et du roi changer la destinée.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Oedipe, Jocaste, Le Grand-Prêtre, Égine, Dimas, Araspe, Le Chœur.</head>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Oedipe, Jocaste, Le Grand-Prêtre, Égine, Dimas, Araspe, Le Chœur.</cast>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="161">Peuple qui, dans ce temple apportant vos douleurs,</l>
 	<l id="162">Présentez à nos dieux des offrandes de pleurs,</l>
 	<l id="163">Que ne puis-je, sur moi détournant leurs vengeances,</l>
@@ -291,7 +291,7 @@
 	<l id="169">Verront-ils sans pitié finir nos tristes jours ?</l>
 	<l id="170">Ces maîtres des humains sont-ils muets et sourds ?</l>
 </sp>
-<sp who="GRAND_PRETRE"><speaker>LE GRAND-PRÊTRE.</speaker>
+<sp who="GRAND_PRETRE"><hstage><speaker>LE GRAND-PRÊTRE</speaker>.</hstage>
 	<l id="171">Roi, peuple, écoutez-moi. Cette nuit, à ma vue,</l>
 	<l id="172">Du ciel sur nos autels la flamme est descendue ;</l>
 	<l id="173">L’ombre du grand Laïus a paru parmi nous,</l>
@@ -303,7 +303,7 @@
 	<l id="179">Il faut qu’on le connaisse, il faut qu’on le punisse.</l>
 	<l id="180">Peuple, votre salut dépend de son supplice.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="181">Thébains, je l’avouerai, vous souffrez justement</l>
 	<l id="182">D’un crime inexcusable un rude châtiment.</l>
 	<l id="183">Laïus vous était cher, et votre négligence</l>
@@ -334,7 +334,7 @@
 	<l id="207">Et, de vos seuls périls chaque jour alarmée,</l>
 	<l id="208">Mon âme à d’autres soins semblait être fermée.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="209">Seigneur, quand le destin, me réservant à vous,</l>
 	<l id="210">Par un coup imprévu m’enleva mon époux,</l>
 	<l id="211">Lorsque, de ses États parcourant les frontières,</l>
@@ -362,10 +362,10 @@
 	<l id="233">Et l’on ne pouvait guère, en un pareil effroi,</l>
 	<l id="234">Venger la mort d’autrui quand on tremblait pour soi.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="235">Madame, qu’a-t-on fait de ce sujet fidèle ?</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="236">Seigneur, on paya mal son service et son zèle.</l>
 	<l id="237">Tout l’État en secret était son ennemi :</l>
 	<l id="238">Il était trop puissant pour n’être point haï ;</l>
@@ -382,7 +382,7 @@
 	<l id="249">Sans se plaindre de moi ni du peuple irrité,</l>
 	<l id="250">De sa seule innocence attend sa liberté.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 <stage>À sa suite.</stage>
 	<l id="251">Madame, c’est assez. Courez ; que l’on s’empresse ;</l>
 	<l id="252">Qu’on ouvre sa prison, qu’il vienne, qu’il paraisse.</l>
@@ -399,10 +399,10 @@
 	<l id="263">Et que son corps sanglant, privé de sépulture,</l>
 	<l id="264">Des vautours dévorants devienne la pâture !</l>
 </sp>
-<sp who="GRAND_PRETRE"><speaker>LE GRAND-PRÊTRE.</speaker>
+<sp who="GRAND_PRETRE"><hstage><speaker>LE GRAND-PRÊTRE</speaker>.</hstage>
 	<l id="265">A ces serments affreux nous nous unissons tous.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="266">Dieux, que le crime seul éprouve enfin vos coups !</l>
 	<l id="267">Ou si de vos décrets l’éternelle justice</l>
 	<l id="268">Abandonne à mon bras le soin de son supplice,</l>
@@ -420,23 +420,23 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Jocaste, Égine, Araspe, Le Chœur.</head>
-<sp who="ARASPE"><speaker>ARASPE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Jocaste, Égine, Araspe, Le Chœur.</cast>
+<sp who="ARASPE"><hstage><speaker>ARASPE</speaker>.</hstage>
 	<l id="279">Oui, ce peuple expirant, dont je suis l’interprète,</l>
 	<l id="280">D’une commune voix accuse Philoctète,</l>
 	<l id="281">Madame ; et les destins, dans ce triste séjour,</l>
 	<l id="282">Pour nous sauver, sans doute, ont permis son retour.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="283" part="i">Qu’ai-je entendu, grands dieux !</l>
 </sp>
-<sp who="EGINE"><speaker>ÉGINE.</speaker>
+<sp who="EGINE"><hstage><speaker>ÉGINE</speaker>.</hstage>
 	<l id="283" part="f"> Ma surprise est extrême !...</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="284" part="i">Qui ? lui ! qui ? Philoctète !</l>
 </sp>
-<sp who="ARASPE"><speaker>ARASPE.</speaker>
+<sp who="ARASPE"><hstage><speaker>ARASPE</speaker>.</hstage>
 	<l id="284" part="f"> Oui, Madame, lui-même.</l>
 	<l id="285">A quel autre, en effet, pourraient-ils imputer</l>
 	<l id="286">Un meurtre qu’à nos yeux il sembla méditer ?</l>
@@ -465,13 +465,13 @@
 	<l id="309">En vain sa gloire parle à ces cœurs agités ;</l>
 	<l id="310">Les dieux veulent du sang, et sont seuls écoutés.</l>
 </sp>
-<sp who="CHŒUR"><speaker>PREMIER PERSONNAGE DU CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>PREMIER PERSONNAGE DU CHŒUR</speaker>.</hstage>
 	<l id="311">Ô reine ! ayez pitié d’un peuple qui vous aime ;</l>
 	<l id="312">Imitez de ces dieux la justice suprême ;</l>
 	<l id="313">Livrez-nous leur victime ; adressez-leur nos vœux :</l>
 	<l id="314">Qui peut mieux les toucher qu’un cœur si digne d’eux ?</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="315">Pour fléchir leur courroux s’il ne faut que ma vie,</l>
 	<l id="316">Hélas ! c’est sans regret que je la sacrifie.</l>
 	<l id="317">Thébains, qui me croyez encor quelques vertus,</l>
@@ -479,23 +479,23 @@
 	<l id="319" part="i">Allez.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Jocaste, Égine.</head>
-<sp who="EGINE"><speaker>ÉGINE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Jocaste, Égine.</cast>
+<sp who="EGINE"><hstage><speaker>ÉGINE</speaker>.</hstage>
 	<l id="319" part="m"> Que je vous plains !</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="319" part="f"> Hélas ! je porte envie</l>
 	<l id="320">A ceux qui dans ces murs ont terminé leur vie.</l>
 	<l id="321">Quel état ! quel tourment pour un cœur vertueux</l>
 </sp>
-<sp who="EGINE"><speaker>ÉGINE.</speaker>
+<sp who="EGINE"><hstage><speaker>ÉGINE</speaker>.</hstage>
 	<l id="322">Il n’en faut point douter, votre sort est affreux !</l>
 	<l id="323">Ces peuples, qu’un faux zèle aveuglément anime,</l>
 	<l id="324">Vont bientôt à grands cris demander leur victime.</l>
 	<l id="325">Je n’ose l’accuser ; mais quelle horreur pour vous</l>
 	<l id="326">Si vous trouvez en lui l’assassin d’un époux !</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="327">Et l’on ose à tous deux faire un pareil outrage !</l>
 	<l id="328">Le crime, la bassesse eût été son partage !</l>
 	<l id="329">Égine, après les nœuds qu’il a fallu briser,</l>
@@ -503,10 +503,10 @@
 	<l id="331">Apprends que ces soupçons irritent ma colère,</l>
 	<l id="332">Et qu’il est vertueux, puisqu’il m’avait su plaire.</l>
 </sp>
-<sp who="EGINE"><speaker>ÉGINE.</speaker>
+<sp who="EGINE"><hstage><speaker>ÉGINE</speaker>.</hstage>
 	<l id="333" part="i">Cet amour si constant..,</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="333" part="f"> Ne crois pas que mon cœur</l>
 	<l id="334">De cet amour funeste ait pu nourrir l’ardeur ;</l>
 	<l id="335">Je l’ai trop combattu. Cependant, chère Égine,</l>
@@ -518,11 +518,11 @@
 	<l id="341">Et la vertu sévère, en de si durs combats,</l>
 	<l id="342">Résiste aux passions et ne les détruit pas.</l>
 </sp>
-<sp who="EGINE"><speaker>ÉGINE.</speaker>
+<sp who="EGINE"><hstage><speaker>ÉGINE</speaker>.</hstage>
 	<l id="343">Votre douleur est juste autant que vertueuse,</l>
 	<l id="344" part="i">Et de tels sentiments...</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="344" part="f"> Que je suis malheureuse !</l>
 	<l id="345">Tu connais, chère Égine, et mon cœur et mes maux ;</l>
 	<l id="346">J’ai deux fois de l’hymen allumé les flambeaux ;</l>
@@ -543,41 +543,41 @@
 	<l id="361">Que, déguisant mon trouble et dévorant mes pleurs,</l>
 	<l id="362">Je n’osais à moi-même avouer mes douleurs...</l>
 </sp>
-<sp who="EGINE"><speaker>ÉGINE.</speaker>
+<sp who="EGINE"><hstage><speaker>ÉGINE</speaker>.</hstage>
 	<l id="363">Comment donc pouviez-vous du joug de l’hyménée</l>
 	<l id="364">Une seconde fois tenter la destinée ?</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="365" part="i">Hélas !</l>
 </sp>
-<sp who="EGINE"><speaker>ÉGINE.</speaker>
+<sp who="EGINE"><hstage><speaker>ÉGINE</speaker>.</hstage>
 	<l id="365" part="f"> M’est-il permis de ne vous rien cacher ?</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="366" part="i">Parle.</l>
 </sp>
-<sp who="EGINE"><speaker>ÉGINE.</speaker>
+<sp who="EGINE"><hstage><speaker>ÉGINE</speaker>.</hstage>
 	<l id="366" part="f"> Oedipe, Madame, a paru vous toucher ;</l>
 	<l id="367">Et votre cœur, du moins sans trop de résistance,</l>
 	<l id="368">De vos États sauvés donna la récompense.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="369" part="i">Ah ! grands dieux !</l>
 </sp>
-<sp who="EGINE"><speaker>ÉGINE.</speaker>
+<sp who="EGINE"><hstage><speaker>ÉGINE</speaker>.</hstage>
 	<l id="369" part="f"> Était-il plus heureux que Laïus,</l>
 	<l id="370">Ou Philoctète absent ne vous touchait-il plus ?</l>
 	<l id="371">Entre ces deux héros étiez-vous partagée ?</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="372">Par un monstre cruel Thèbe alors ravagée</l>
 	<l id="373">A son libérateur avait promis ma foi ;</l>
 	<l id="374">Et le vainqueur du sphinx était digne de moi.</l>
 </sp>
-<sp who="EGINE"><speaker>ÉGINE.</speaker>
+<sp who="EGINE"><hstage><speaker>ÉGINE</speaker>.</hstage>
 	<l id="375" part="i">Vous l’aimiez ?</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="375" part="f"> Je sentis pour lui quelque tendresse ;</l>
 	<l id="376">Mais que ce sentiment fut loin de la faiblesse !</l>
 	<l id="377">Ce n’était point Égine, un feu tumultueux,</l>
@@ -611,15 +611,15 @@
 	<l id="405">Et Philoctète encor trop présent dans mon cœur</l>
 	<l id="406">De ce trouble fatal augmentait la terreur.</l>
 </sp>
-<sp who="EGINE"><speaker>ÉGINE.</speaker>
+<sp who="EGINE"><hstage><speaker>ÉGINE</speaker>.</hstage>
 	<l id="407">J’entends du bruit, on vient, je le vois qui s’avance.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="408">C’est lui-même ; je tremble : évitons sa présence.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Jocaste, Philoctète.</head>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Jocaste, Philoctète.</cast>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="409">Ne fuyez point, Madame, et cessez de trembler ;</l>
 	<l id="410">Osez me voir, osez m’entendre et me parler.</l>
 	<l id="411">Ne craignez point ici que mes jalouses larmes</l>
@@ -633,7 +633,7 @@
 	<l id="419">Un cœur pour qui le vôtre avait quelque tendresse,</l>
 	<l id="420">N’a point appris de vous à montrer de faiblesse.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="421">De pareils sentiments n’appartenaient qu’à nous ;</l>
 	<l id="422">J’en dois donner l’exemple, ou le prendre de vous.</l>
 	<l id="423">Si Jocaste avec vous n’a pu se voir unie,</l>
@@ -645,7 +645,7 @@
 	<l id="429">Vous savez quels fléaux ont éclaté sur nous,</l>
 	<l id="430" part="i">Et qu’Oedipe...</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="430" part="f"> Je sais qu’Oedipe est votre époux ;</l>
 	<l id="431">Je sais qu’il en est digne ; et, malgré sa jeunesse,</l>
 	<l id="432">L’empire des Thébains sauvé par sa sagesse,</l>
@@ -663,13 +663,13 @@
 	<l id="444">D’un autre cependant Jocaste est la conquête !</l>
 	<l id="445">Un autre a pu jouir de cet excès d’honneur !</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="446">Vous ne connaissez pas quel est votre malheur.</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="447">Je perds Alcide et vous : qu’aurais-je à craindre encore ?</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="448">Vous êtes en des lieux qu’un dieu vengeur abhorre ;</l>
 	<l id="449">Un feu contagieux annonce son courroux,</l>
 	<l id="450">Et le sang de Laïus est retombé sur nous.</l>
@@ -678,13 +678,13 @@
 	<l id="453">On doit sur nos autels immoler l’assassin ;</l>
 	<l id="454">On le cherche, on vous nomme, on vous accuse enfin.</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="455">Madame, je me tais, une pareille offense</l>
 	<l id="456">Étonne mon courage et me force au silence.</l>
 	<l id="457">Qui ? moi, de tels forfaits ! moi, des assassinats !</l>
 	<l id="458">Et que de votre époux... Vous ne le croyez pas.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="459">Non, je ne le crois point, et c’est vous faire injure</l>
 	<l id="460">Que daigner un moment combattre l’imposture.</l>
 	<l id="461">Votre cœur m’est connu, vous avez eu ma foi,</l>
@@ -711,11 +711,11 @@
 	<l id="482">Puisque je vous aimais, et qu’il est mon époux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Oedipe, Philoctète, Araspe.</head>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Oedipe, Philoctète, Araspe.</cast>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="483">Araspe, c’est donc là le prince Philoctète ?</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="484">Oui, c’est lui qu’en ces murs un sort aveugle jette,</l>
 	<l id="485">Et que le ciel encore, à sa perte animé,</l>
 	<l id="486">A souffrir des affronts n’a point accoutumé.</l>
@@ -732,7 +732,7 @@
 	<l id="497">Et soutenez surtout, par un trait généreux,</l>
 	<l id="498">L’honneur que vous avez d’être placé près d’eux.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="499">Être utile aux mortels, et sauver cet empire,</l>
 	<l id="500">Voilà, Seigneur, voilà l’honneur seul où j’aspire,</l>
 	<l id="501">Et ce que m’ont appris en ces extrémités</l>
@@ -752,7 +752,7 @@
 	<l id="515">Et je me tiens heureux s’il faut que je vous traite,</l>
 	<l id="516">Non comme un accusé, mais comme Philoctète.</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="517">Je veux bien l’avouer ; sur la foi de mon nom</l>
 	<l id="518">J’avais osé me croire au-dessus du soupçon.</l>
 	<l id="519">Cette main qu’on accuse, au défaut du tonnerre,</l>
@@ -760,7 +760,7 @@
 	<l id="521">Hercule à les dompter avait instruit mon bras</l>
 	<l id="522">Seigneur, qui les punit ne les imite pas.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="523">Ah ! je ne pense point qu’aux exploits consacrées</l>
 	<l id="524">Vos mains par des forfaits se soient déshonorées,</l>
 	<l id="525">Seigneur, et si Laïus est tombé sous vos coups,</l>
@@ -768,7 +768,7 @@
 	<l id="527">Vous ne l’avez vaincu qu’en guerrier magnanime ;</l>
 	<l id="528" part="i">Je vous rends trop justice.</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="528" part="f"> Eh ! quel serait mon crime ?</l>
 	<l id="529">Si ce fer chez les morts eût fait tomber Laïus,</l>
 	<l id="530">Ce n’eût été pour moi qu’un triomphe de plus.</l>
@@ -777,7 +777,7 @@
 	<l id="533">J’ai défendu des rois ; et vous devez songer</l>
 	<l id="534">Que j’ai pu les combattre, ayant pu les venger.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="535">Je connais Philoctète à ces illustres marques :</l>
 	<l id="536">Des guerriers somme vous sont égaux aux monarques ;</l>
 	<l id="537">Je le sais : cependant, prince, n’en doutez pas,</l>
@@ -785,7 +785,7 @@
 	<l id="539">Sa tête répondra des malheurs de l’empire ;</l>
 	<l id="540" part="i">Et vous...</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="540" part="f"> Ce n’est point moi : ce mot doit vous suffire.</l>
 	<l id="541">Seigneur, si c’était moi, j’en ferais vanité.</l>
 	<l id="542">En vous parlant ainsi, je dois être écouté.</l>
@@ -806,22 +806,22 @@
 	<l id="557">Mais c’est trop me défendre et trop m’humilier :</l>
 	<l id="558">La vertu s’avilit à se justifier.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="559">Votre vertu m’est chère, et votre orgueil m’offense.</l>
 	<l id="560">On vous jugera, prince ; et si votre innocence</l>
 	<l id="561">De l’équité des lois n’a rien à redouter,</l>
 	<l id="562">Avec plus de splendeur elle en doit éclater.</l>
 	<l id="563" part="i">Demeurez parmi nous...</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="563" part="f"> J’y resterai, sans doute :</l>
 	<l id="564">Il y va de ma gloire ; et le ciel qui m’écoute</l>
 	<l id="565">Ne me verra partir que vengé de l’affront</l>
 	<l id="566">Dont vos soupçons honteux ont fait rougir mon front.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Oedipe, Araspe.</head>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Oedipe, Araspe.</cast>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="567">Je l’avouerai, j’ai peine à le croire coupable.</l>
 	<l id="568">D’un cœur tel que le sien l’audace inébranlable</l>
 	<l id="569">Ne sait point s’abaisser à des déguisements :</l>
@@ -839,7 +839,7 @@
 	<l id="581">Car les dieux irrités ne nous répondent plus :</l>
 	<l id="582">Ils ont par leur silence expliqué leur refus.</l>
 </sp>
-<sp who="ARASPE"><speaker>ARASPE.</speaker>
+<sp who="ARASPE"><hstage><speaker>ARASPE</speaker>.</hstage>
 	<l id="583">Tandis que par vos soins vous pouvez tout apprendre,</l>
 	<l id="584">Quel besoin que le ciel ici se fasse entendre ?</l>
 	<l id="585">Ces dieux dont le pontife a promis le secours,</l>
@@ -857,7 +857,7 @@
 	<l id="597">Ne nous fions qu’à nous ; voyons tout par nos yeux :</l>
 	<l id="598">Ce sont là nos trépieds, nos oracles, nos dieux.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="599">Serait-il dans le temple un cœur assez perfide ?...</l>
 	<l id="600">Non, si le ciel enfin de nos destins décide,</l>
 	<l id="601">On ne le verra point mettre en d’indignes mains</l>
@@ -872,12 +872,12 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Jocaste, Égine.</head>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Jocaste, Égine.</cast>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="609">Oui, j’attends Philoctète, et je veux qu’en ces lieux</l>
 	<l id="610">Pour la dernière fois il paraisse à mes yeux.</l>
 </sp>
-<sp who="EGINE"><speaker>ÉGINE.</speaker>
+<sp who="EGINE"><hstage><speaker>ÉGINE</speaker>.</hstage>
 	<l id="611">Madame vous savez jusqu’à quelle insolence</l>
 	<l id="612">Le peuple a de ses cris fait monter la licence :</l>
 	<l id="613">Ces Thébains, que la mort assiège à tout moment,</l>
@@ -889,7 +889,7 @@
 	<l id="619">Pourrez-vous résister à tant de violence ?</l>
 	<l id="620">Pourrez-vous le servir et prendre sa défense ?</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="621">Moi ! si je la prendrai ? Dussent tous les Thébains</l>
 	<l id="622">Porter jusque sur moi leurs parricides mains,</l>
 	<l id="623">Sous ces murs tout fumants dussé-je être écrasée,</l>
@@ -900,12 +900,12 @@
 	<l id="628">Ma gloire, mes époux, mes dieux, et ma patrie ;</l>
 	<l id="629" part="i">Que mon cœur brûle encore.</l>
 </sp>
-<sp who="EGINE"><speaker>ÉGINE.</speaker>
+<sp who="EGINE"><hstage><speaker>ÉGINE</speaker>.</hstage>
 	<l id="629" part="f"> Ah ! calmez cet effroi :</l>
 	<l id="630">Cet amour malheureux n’eut de témoin que moi ;</l>
 	<l id="631" part="i">Et jamais...</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="631" part="f"> Que dis-tu ? crois-tu qu’une princesse</l>
 	<l id="632">Puisse jamais cacher sa haine ou sa tendresse ?</l>
 	<l id="633">Des courtisans sur nous les inquiets regards</l>
@@ -921,14 +921,14 @@
 	<l id="643">Portant sur notre vie une triste lumière,</l>
 	<l id="644">Vont de nos passions remplir la terre entière.</l>
 </sp>
-<sp who="EGINE"><speaker>ÉGINE.</speaker>
+<sp who="EGINE"><hstage><speaker>ÉGINE</speaker>.</hstage>
 	<l id="645">Eh ! qu’avez-vous, Madame, à craindre de leurs coups ?</l>
 	<l id="646">Quels regards si perçants sont dangereux pour vous ?</l>
 	<l id="647">Quel secret pénétré peut flétrir votre gloire ?</l>
 	<l id="648">Si l’on sait votre amour, on sait votre victoire :</l>
 	<l id="649">On sait que la vertu fut toujours votre appui.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="650">Et c’est cette vertu qui me trouble aujourd’hui.</l>
 	<l id="651">Peut-être, à m’accuser toujours prompte et sévère,</l>
 	<l id="652">Je porte sur moi-même un regard trop austère ;</l>
@@ -943,10 +943,10 @@
 	<l id="661">Je me reproche enfin mes bontés et mes soins :</l>
 	<l id="662">Je le servirais mieux si je l’eusse aimé moins.</l>
 </sp>
-<sp who="EGINE"><speaker>ÉGINE.</speaker>
+<sp who="EGINE"><hstage><speaker>ÉGINE</speaker>.</hstage>
 	<l id="663" part="i">Mais voulez-vous qu’il parte ?</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="663" part="f"> Oui, je le veux sans doute,</l>
 	<l id="664">C’est ma seule espérance ; et pour peu qu’il m’écoute,</l>
 	<l id="665">Pour peu que ma prière ait sur lui de pouvoir,</l>
@@ -957,8 +957,8 @@
 	<l id="670" part="i">Chère Égine, va, cours.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Jocaste, Philoctète, Égine.</head>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Jocaste, Philoctète, Égine.</cast>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="670" part="f"> Ah ! prince, vous voici !</l>
 	<l id="671">Dans le mortel effroi dont mon âme est émue,</l>
 	<l id="672">Je ne m’excuse point de chercher votre vue :</l>
@@ -966,11 +966,11 @@
 	<l id="674">Je dois vous oublier, et non pas vous trahir :</l>
 	<l id="675">Je crois que vous avez le sort qu’on vous apprête.</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="676">Un vain peuple en tumulte a demandé ma tête :</l>
 	<l id="677">Il souffre, il est injuste, il faut lui pardonner.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="678">Gardez à ses fureurs de vous abandonner.</l>
 	<l id="679">Partez ; de votre sort vous êtes encor maître ;</l>
 	<l id="680">Mais ce moment, Seigneur, est le dernier peut-être</l>
@@ -979,7 +979,7 @@
 	<l id="683">Pour prix de votre vie heureusement sauvée,</l>
 	<l id="684">Oubliez que c’est moi qui vous l’ai conservée.</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="685">Daignez montrer, Madame, à mon cœur agité</l>
 	<l id="686">Moins de compassion et plus de fermeté ;</l>
 	<l id="687">Préférez, comme moi, mon honneur à ma vie ;</l>
@@ -995,7 +995,7 @@
 	<l id="697">Quelque indigne soupçon qu’il ait conçu de moi,</l>
 	<l id="698">Je ne sais point encor comme on manque de foi.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="699">Seigneur, au nom des dieux, au nom de cette flamme</l>
 	<l id="700">Dont la triste Jocaste avait touché votre âme,</l>
 	<l id="701">Si d’une si parfaite et si tendre amitié</l>
@@ -1005,7 +1005,7 @@
 	<l id="705">Daignez sauver des jours de gloire environnés,</l>
 	<l id="706">Des jours à qui les miens ont été destinés.</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="707">Je vous les consacrai ; je veux que leur carrière</l>
 	<l id="708">De vous, de vos vertus, soit digne tout entière.</l>
 	<l id="709">J’ai vécu loin de vous ; mais mon sort est trop beau</l>
@@ -1020,8 +1020,8 @@
 	<l id="718">Et le mien vaut du moins qu’il daigne l’accepter.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Oedipe, Jocaste, Philoctète, Égine, Araspe ; suite.</head>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Oedipe, Jocaste, Philoctète, Égine, Araspe ; suite.</cast>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="719">Prince, ne craignez point l’impétueux caprice</l>
 	<l id="720">D’un peuple dont la voix presse votre supplice :</l>
 	<l id="721">J’ai calmé son tumulte, et même contre lui</l>
@@ -1039,7 +1039,7 @@
 	<l id="733">Et je laisse à nos dieux, plus éclairés que nous,</l>
 	<l id="734">Le soin de décider entre mon peuple et vous.</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="735">Votre équité, Seigneur, est inflexible et pure  ;</l>
 	<l id="736">Mais l’extrême justice est une extrême injure :</l>
 	<l id="737">Il n’en faut pas toujours écouter la rigueur.</l>
@@ -1058,69 +1058,69 @@
 	<l id="750">Par pitié pour ce peuple, et non par intérêt.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Oedipe, Jocaste, Le Grand-Prêtre, Araspe, Philoctète, Égine, Ssuite, Le Chœur.</head>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Oedipe, Jocaste, Le Grand-Prêtre, Araspe, Philoctète, Égine, Ssuite, Le Chœur.</cast>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="751">Eh bien ! les dieux, touchés des vœux qu’on leur adresse,</l>
 	<l id="752">Suspendent-ils enfin leur fureur vengeresse ?</l>
 	<l id="753">Quelle main parricide a pu les offenser ?</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="754">Parlez, quel est le sang que nous devons verser ?</l>
 </sp>
-<sp who="GRAND_PRETRE"><speaker>LE GRAND-PRÊTRE.</speaker>
+<sp who="GRAND_PRETRE"><hstage><speaker>LE GRAND-PRÊTRE</speaker>.</hstage>
 	<l id="755">Fatal présent du ciel ! science malheureuse !</l>
 	<l id="756">Qu’aux mortels curieux vous êtes dangereuse !</l>
 	<l id="757">Plût aux cruels destins qui pour moi sont ouverts,</l>
 	<l id="758">Que d’un voile éternel mes yeux fussent couverts !</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="759">Eh bien ! que venez-vous annoncer de sinistre ?</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="760">D’une haine éternelle êtes-vous le ministre ?</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="761" part="i">Ne craignez rien.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="761" part="f"> Les dieux veulent-ils mon trépas ?</l>
 </sp>
-<sp who="GRAND_PRETRE"><speaker>LE GRAND-PRÊTRE, à Œdipe.</speaker>
+<sp who="GRAND_PRETRE"><hstage><speaker>LE GRAND-PRÊTRE</speaker>, à Œdipe.</hstage>
 	<l id="762">Ah ! si vous m’en croyez, ne m’interrogez pas ;</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="763">Quel que soit le destin que le ciel nous annonce,</l>
 	<l id="764">Le salut des Thébains dépend de sa réponse.</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="765" part="i">Parlez.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="765" part="f">Ayez pitié de tant de malheureux ;</l>
 	<l id="766" part="i">Songez qu’Oedipe...</l>
 </sp>
-<sp who="GRAND_PRETRE"><speaker>LE GRAND-PRÊTRE.</speaker>
+<sp who="GRAND_PRETRE"><hstage><speaker>LE GRAND-PRÊTRE</speaker>.</hstage>
 	<l id="766" part="f"> Oedipe est plus à plaindre qu’eux.</l>
 </sp>
-<sp who="CHŒUR"><speaker>PREMIER PERSONNAGE DU CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>PREMIER PERSONNAGE DU CHŒUR</speaker>.</hstage>
 	<l id="767">Oedipe a pour son peuple une amour paternelle ;</l>
 	<l id="768">Nous joignons à sa voix notre plainte éternelle.</l>
 	<l id="769">Vous à qui le ciel parle, entendez nos clameurs.</l>
 </sp>
-<sp who="CHŒUR"><speaker>DEUXIÈME PERSONNAGE DU CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>DEUXIÈME PERSONNAGE DU CHŒUR</speaker>.</hstage>
 	<l id="770">Nous mourons, sauvez-nous, détournez ses fureurs ;</l>
 	<l id="771">Nommez cet assassin, ce monstre, ce perfide.</l>
 </sp>
-<sp who="CHŒUR"><speaker>PREMIER PERSONNAGE DU CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>PREMIER PERSONNAGE DU CHŒUR</speaker>.</hstage>
 	<l id="772">Nos bras vont dans son sang laver son parricide.</l>
 </sp>
-<sp who="GRAND_PRETRE"><speaker>LE GRAND-PRÊTRE.</speaker>
+<sp who="GRAND_PRETRE"><hstage><speaker>LE GRAND-PRÊTRE</speaker>.</hstage>
 	<l id="773">Peuples infortunés, que me demandez-vous ?</l>
 </sp>
-<sp who="CHŒUR"><speaker>PREMIER PERSONNAGE DU CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>PREMIER PERSONNAGE DU CHŒUR</speaker>.</hstage>
 	<l id="774">Dites un mot, il meurt, et vous nous sauvez tous.</l>
 </sp>
-<sp who="GRAND_PRETRE"><speaker>LE GRAND-PRÊTRE.</speaker>
+<sp who="GRAND_PRETRE"><hstage><speaker>LE GRAND-PRÊTRE</speaker>.</hstage>
 	<l id="775">Quand vous serez instruits du destin qui l’accable,</l>
 	<l id="776">Vous frémirez d’horreur au seul nom du coupable.</l>
 	<l id="777">Le dieu qui par ma voix vous parle en ce moment</l>
@@ -1130,40 +1130,40 @@
 	<l id="781">De son supplice affreux vos yeux seront surpris,</l>
 	<l id="782">Et vous croirez vos jours trop payés à ce prix.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="783" part="i">Obéissez.</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="783" part="m"> Parlez.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="783" part="f"> C’est trop de résistance.</l>
 </sp>
-<sp who="GRAND_PRETRE"><speaker>LE GRAND-PRÊTRE à OEdipe.</speaker>
+<sp who="GRAND_PRETRE"><hstage><speaker>LE GRAND-PRÊTRE</speaker> à OEdipe.</hstage>
 	<l id="784">C’est vous qui me forcez à rompre le silence.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="785">Que ces retardements allument mon courroux !</l>
 </sp>
-<sp who="GRAND_PRETRE"><speaker>LE GRAND-PRÊTRE.</speaker>
+<sp who="GRAND_PRETRE"><hstage><speaker>LE GRAND-PRÊTRE</speaker>.</hstage>
 	<l id="786" part="i">Vous le voulez... eh bien !... c’est...</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="786" part="m"> Achève : qui ?</l>
 </sp>
-<sp who="GRAND_PRETRE"><speaker>LE GRAND-PRÊTRE.</speaker>
+<sp who="GRAND_PRETRE"><hstage><speaker>LE GRAND-PRÊTRE</speaker>.</hstage>
 	<l id="786" part="f"> Vous.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="787" part="i">Moi ?</l>
 </sp>
-<sp who="GRAND_PRETRE"><speaker>LE GRAND-PRÊTRE.</speaker>
+<sp who="GRAND_PRETRE"><hstage><speaker>LE GRAND-PRÊTRE</speaker>.</hstage>
 	<l id="787" part="m"> Vous, malheureux prince !</l>
 </sp>
-<sp who="CHŒUR"><speaker>DEUXIÈME PERSONNAGE DU CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>DEUXIÈME PERSONNAGE DU CHŒUR</speaker>.</hstage>
 	<l id="787" part="f"> Ah ! que viens-je d’entendre !</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="788">Interprète des dieux, qu’osez-vous nous apprendre ?</l>
 <stage>À Oedipe.</stage>
 	<l id="789">Qui, vous ! de mon époux vous seriez l’assassin ?</l>
@@ -1171,11 +1171,11 @@
 	<l id="791">Non, Seigneur, non : des dieux l’oracle nous abuse ;</l>
 	<l id="792">Votre vertu dément la voix qui vous accuse.</l>
 </sp>
-<sp who="CHŒUR"><speaker>PREMIER PERSONNAGE DU CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>PREMIER PERSONNAGE DU CHŒUR</speaker>.</hstage>
 	<l id="793">Ô ciel, dont le pouvoir préside à notre sort,</l>
 	<l id="794">Nommez une autre tête, ou rendez-nous la mort.</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker></hstage>
 	<l id="795">N’attendez point, Seigneur, outrage pour outrage ;</l>
 	<l id="796">Je ne tirerai point un indigne avantage</l>
 	<l id="797">Du revers inouï qui vous presse à mes yeux :</l>
@@ -1187,7 +1187,7 @@
 	<l id="803">Un prêtre, quel qu’il soit, quelque dieu qui l’inspire,</l>
 	<l id="804">Doit prier pour ses rois, et non pas les maudire.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="805">Quel excès de vertu ! mais quel comble d’horreur !</l>
 	<l id="806">L’un parle en demi-dieu, l’autre en prêtre imposteur.</l>
 <stage>Au grand-prêtre.</stage>
@@ -1200,7 +1200,7 @@
 	<l id="813">Traître, au pied des autels il faudrait t’immoler,</l>
 	<l id="814">A l’aspect de tes dieux que ta voix fait parler.</l>
 </sp>
-<sp who="GRAND_PRETRE"><speaker>LE GRAND-PRÊTRE.</speaker>
+<sp who="GRAND_PRETRE"><hstage><speaker>LE GRAND-PRÊTRE</speaker>.</hstage>
 	<l id="815">Ma vie est en vos mains, vous en êtes le maître :</l>
 	<l id="816">Profitez des moments que vous avez à l’être ;</l>
 	<l id="817">Aujourd’hui votre arrêt vous sera prononcé.</l>
@@ -1218,7 +1218,7 @@
 	<l id="829">Au crime, au châtiment, malgré vous destiné,</l>
 	<l id="830">Vous seriez trop heureux de n’être jamais né.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="831">J’ai forcé jusqu’ici ma colère à t’entendre ;</l>
 	<l id="832">Si ton sang méritait qu’on daignât le répandre,</l>
 	<l id="833">De ton juste trépas mes regards satisfaits</l>
@@ -1227,14 +1227,14 @@
 	<l id="836">Et respecte un courroux que ta présence irrite ;</l>
 	<l id="837">Fuis, d’un mensonge indigne abominable auteur.</l>
 </sp>
-<sp who="GRAND_PRETRE"><speaker>LE GRAND-PRÊTRE.</speaker>
+<sp who="GRAND_PRETRE"><hstage><speaker>LE GRAND-PRÊTRE</speaker>.</hstage>
 	<l id="838">Vous me traitez toujours de traître et d’imposteur :</l>
 	<l id="839">Votre père autrefois me croyait plus sincère.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="840">Arrête : que dis-tu ? qui ? Polybe mon père...</l>
 </sp>
-<sp who="GRAND_PRETRE"><speaker>LE GRAND-PRÊTRE.</speaker>
+<sp who="GRAND_PRETRE"><hstage><speaker>LE GRAND-PRÊTRE</speaker>.</hstage>
 	<l id="841">Vous apprendrez trop tôt votre funeste sort ;</l>
 	<l id="842">Ce jour va vous donner la naissance et la mort.</l>
 	<l id="843">Vos destins sont comblés, vous allez vous connaître.</l>
@@ -1248,8 +1248,8 @@
 	<l id="851" part="i">Sortons.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Oedipe, Philoctète, Jocaste.</head>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Oedipe, Philoctète, Jocaste.</cast>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="851" part="f">Ces derniers mots me rendent immobile :</l>
 	<l id="852">Je ne sais où je suis ; ma fureur est tranquille :</l>
 	<l id="853">Il me semble qu’un dieu descendu parmi nous,</l>
@@ -1257,7 +1257,7 @@
 	<l id="855">Et, prêtant au pontife une force divine,</l>
 	<l id="856">Par sa terrible voix m’annonce ma ruine.</l>
 </sp>
-<sp who="PHILOCTETE"><speaker>PHILOCTÈTE.</speaker>
+<sp who="PHILOCTETE"><hstage><speaker>PHILOCTÈTE</speaker>.</hstage>
 	<l id="857">Si vous n’aviez, Seigneur, à craindre que des rois,</l>
 	<l id="858">Philoctète avec vous combattrait sous vos lois ;</l>
 	<l id="859">Mais un prêtre est ici d’autant plus redoutable</l>
@@ -1271,7 +1271,7 @@
 	<l id="867">Surtout quand l’intérêt, père de la licence,</l>
 	<l id="868">Vient de leur zèle impie enhardir l’insolence.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="869">Ah ! Seigneur, vos vertus redoublent mes douleurs :</l>
 	<l id="870">La grandeur de votre âme égale mes malheurs ;</l>
 	<l id="871">Accablé sous le poids du soin qui me dévore,</l>
@@ -1279,7 +1279,7 @@
 	<l id="873">Quelle plaintive voix crie au fond de mon cœur ?</l>
 	<l id="874">Quel crime ai-je commis ? Est-il vrai, dieu vengeur ?</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="875">Seigneur, c’en est assez, ne parlons plus de crime ;</l>
 	<l id="876">A ce peuple expirant il faut une victime ;</l>
 	<l id="877">Il faut sauver l’État, et c’est trop différer.</l>
@@ -1291,7 +1291,7 @@
 	<l id="883">Contents de mon trépas, n’en point exiger d’autre,</l>
 	<l id="884">Et que mon sang versé puisse épargner le vôtre !</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="885">Vous, mourir ! vous, Madame ! ah ! n’est-ce point assez</l>
 	<l id="886">De tant de maux affreux sur ma tête amassés ?</l>
 	<l id="887">Quittez, reine, quittez ce langage terrible ;</l>
@@ -1302,18 +1302,18 @@
 	<l id="892">Un soupçon que je forme avec trop de justice.</l>
 	<l id="893" part="i">Venez.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="893" part="m">Comment, Seigneur, vous pourriez...</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="893" part="f">Suivez-moi,</l>
 	<l id="894">Et venez dissiper ou combler mon effroi.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Oedipe, Jocaste.</head>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Oedipe, Jocaste.</cast>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="895">Non, quoi que vous disiez, mon âme inquiétée</l>
 	<l id="896">De soupçons importuns n’est pas moins agitée.</l>
 	<l id="897">Le grand-prêtre me gêne, et, prêt à l’excuser,</l>
@@ -1326,29 +1326,29 @@
 	<l id="904">Je lis dans l’avenir un sort épouvantable</l>
 	<l id="905">Et le crime partout semble suivre mes pas.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="906">Eh quoi ! votre vertu ne vous rassure pas !</l>
 	<l id="907">N’êtes-vous pas enfin sûr de votre innocence ?</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="908">On est plus criminel quelquefois qu’on ne pense.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="909">Ah ! d’un prêtre indiscret dédaignant les fureurs,</l>
 	<l id="910">Cessez de l’excuser par ces lâches terreurs.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="911">Au nom du grand Laïus et du courroux céleste,</l>
 	<l id="912">Quand Laïus entreprit ce voyage funeste,</l>
 	<l id="913">Avait-il près de lui des gardes, des soldats ?</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="914">Je vous l’ai déjà dit, un seul suivait ses pas.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="915" part="i">Un seul homme ?</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="915" part="f">Ce roi, plus grand que sa fortune,</l>
 	<l id="916">Dédaignait comme vous une pompe importune ;</l>
 	<l id="917">On ne voyait jamais marcher devant son char</l>
@@ -1357,13 +1357,13 @@
 	<l id="920">Comme il était sans crainte, il marchait sans défense ;</l>
 	<l id="921">Par l’amour de son peuple il se croyait gardé.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="922">Ô héros ! par le ciel aux mortels accordé,</l>
 	<l id="923">Des véritables rois exemple auguste et rare !</l>
 	<l id="924">Oedipe a-t-il sur toi porté sa main barbare ?</l>
 	<l id="925">Dépeignez-moi du moins ce prince malheureux.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="926">Puisque vous rappelez un souvenir fâcheux,</l>
 	<l id="927">Malgré le froid des ans, dans sa mâle vieillesse,</l>
 	<l id="928">Ses yeux brillaient encor du feu de la jeunesse ;</l>
@@ -1375,13 +1375,13 @@
 	<l id="934">Ainsi que les vertus, les traits de mon époux.</l>
 	<l id="935">Seigneur, qu’a ce discours qui doive vous surprendre ?</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="936">J’entrevois des malheurs que je ne puis comprendre</l>
 	<l id="937">Je crains que par les dieux le pontife inspiré</l>
 	<l id="938">Sur mes destins affreux ne soit trop éclairé.</l>
 	<l id="939">Moi, j’aurais massacré !... Dieux ! serait-il possible ?</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="940">Cet organe des dieux est-il donc infaillible ?</l>
 	<l id="941">Un ministère saint les attache aux autels ;</l>
 	<l id="942">Ils approchent des dieux, mais ils sont des mortels ;</l>
@@ -1396,10 +1396,10 @@
 	<l id="951">Nos prêtres ne sont pas ce qu’un vain peuple pense,</l>
 	<l id="952">Notre crédulité fait toute leur science.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="953">Ah dieux ! s’il était vrai, quel serait mon bonheur !</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="954">Seigneur, il est trop vrai ; croyez-en ma douleur.</l>
 	<l id="955">Comme vous autrefois pour eux préoccupée,</l>
 	<l id="956">Hélas ! pour mon malheur je suis bien détrompée,</l>
@@ -1408,11 +1408,11 @@
 	<l id="959">Il m’en coûta mon fils. Oracles que j’abhorre !</l>
 	<l id="960">Sans vos ordres, sans vous, mon fils vivrait encore.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="961">Votre fils ! par quel coup l’avez-vous donc perdu ?</l>
 	<l id="962">Quel oracle sur vous les dieux ont-ils rendu ?</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="963">Apprenez, apprenez, dans ce péril extrême,</l>
 	<l id="964">Ce que j’aurais voulu me cacher à moi-même ;</l>
 	<l id="965">Et d’un oracle faux ne vous alarmez plus.</l>
@@ -1428,10 +1428,10 @@
 	<l id="975">« Ton fils tuera son père, et ce fils sacrilège,</l>
 	<l id="976">Inceste et parricide... » O dieux ! achèverai-je ?</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="977" part="i">Eh bien ! Madame ?</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="977" part="f">Enfin, Seigneur, on me prédit</l>
 	<l id="978">Que mon fils, que ce monstre entrerait dans mon lit :</l>
 	<l id="979">Que je le recevrais, moi, Seigneur, moi sa mère,</l>
@@ -1441,11 +1441,11 @@
 	<l id="983">Vous vous troublez, Seigneur, à ce récit funeste ;</l>
 	<l id="984">Vous craignez de m’entendre et d’écouter le reste.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="985">Ah ! Madame, achevez : dites, que fîtes-vous</l>
 	<l id="986">De cet enfant, l’objet du céleste courroux ?</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="987">Je crus les dieux, Seigneur ; et, saintement cruelle,</l>
 	<l id="988">J’étouffai pour mon fils mon amour maternelle.</l>
 	<l id="989">En vain de cet amour l’impérieuse voix</l>
@@ -1466,7 +1466,7 @@
 	<l id="1004">Bannissez cet effroi qu’un prêtre vous inspire ;</l>
 	<l id="1005">Profitez de ma faute, et calmez vos esprits.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1006">Après le grand secret que vous m’avez appris,</l>
 	<l id="1007">Il est juste à mon tour que ma reconnaissance</l>
 	<l id="1008">Fasse de mes destins l’horrible confidence.</l>
@@ -1498,17 +1498,17 @@
 	<l id="1034">Dont le ciel autrefois menaça votre fils,</l>
 	<l id="1035">Me dit que je serais l’assassin de mon père.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1036" part="i">Ah dieux !</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1036" part="f">Que je serais le mari de ma mère.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1037">Où suis-je ? Quel démon en unissant nos cœurs,</l>
 	<l id="1038">Cher prince, a pu dans nous rassembler tant d’horreurs ?</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1039">Il n’est pas encor temps de répandre des larmes ;</l>
 	<l id="1040">Vous apprendrez bientôt d’autres sujets d’alarmes.</l>
 	<l id="1041">Écoutez-moi, Madame, et vous allez trembler. Du sein de ma patrie il fallut m’exiler.</l>
@@ -1555,52 +1555,52 @@
 	<l id="1082">Moi-même en le perçant, je sentis dans mon âme,</l>
 	<l id="1083">Tout vainqueur que j’étais... Vous frémissez, Madame.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1084">Seigneur, voici Phorbas ; on le conduit ici.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1085">Hélas ! mon doute affreux va donc être éclairci !</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Oedipe, Jocaste, Phorbas, suite.</head>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Oedipe, Jocaste, Phorbas, suite.</cast>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1086">Viens, malheureux vieillard, viens, approche... A sa vue</l>
 	<l id="1087">D’un trouble renaissant je sens mon âme émue ;</l>
 	<l id="1088">Un confus souvenir vient encor m’affliger</l>
 	<l id="1089">Je tremble de le voir et de l’interroger.</l>
 </sp>
-<sp who="PHORBAS"><speaker>PHORBAS.</speaker>
+<sp who="PHORBAS"><hstage><speaker>PHORBAS</speaker>.</hstage>
 	<l id="1090">Eh bien ! est-ce aujourd’hui qu’il faut que je périsse ?</l>
 	<l id="1091">Grande reine, avez-vous ordonné mon supplice ?</l>
 	<l id="1092">Vous ne fûtes jamais injuste que pour moi.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1093">Rassurez-vous, Phorbas, et répondez au roi.</l>
 </sp>
-<sp who="PHORBAS"><speaker>PHORBAS.</speaker>
+<sp who="PHORBAS"><hstage><speaker>PHORBAS</speaker>.</hstage>
 	<l id="1094" part="i">Au roi !</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1094" part="f">C’est devant lui que je vous fais paraître.</l>
 </sp>
-<sp who="PHORBAS"><speaker>PHORBAS.</speaker>
+<sp who="PHORBAS"><hstage><speaker>PHORBAS</speaker>.</hstage>
 	<l id="1095">Ô dieux ! Laïus est mort, et vous êtes mon maître !</l>
 	<l id="1096" part="i">Vous, Seigneur ?</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1096" part="f">Épargnons les discours superflus :</l>
 	<l id="1097">Tu fus le seul témoin du meurtre de Laïus ;</l>
 	<l id="1098">Tu fus blessé, dit-on, en voulant le défendre.</l>
 </sp>
-<sp who="PHORBAS"><speaker>PHORBAS.</speaker>
+<sp who="PHORBAS"><hstage><speaker>PHORBAS</speaker>.</hstage>
 	<l id="1099">Seigneur, Laïus est mort, laissez en paix sa cendre ;</l>
 	<l id="1100">N’insultez pas du moins au malheureux destin</l>
 	<l id="1101">D’un fidèle sujet blessé de votre main.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1102" part="i">Je t’ai blessé ? qui, moi ?</l>
 </sp>
-<sp who="PHORBAS"><speaker>PHORBAS.</speaker>
+<sp who="PHORBAS"><hstage><speaker>PHORBAS</speaker>.</hstage>
 	<l id="1102" part="f">Contentez votre envie ;</l>
 	<l id="1103">Achevez de m’ôter une importune vie ;</l>
 	<l id="1104">Seigneur, que votre bras, que les dieux ont trompé,</l>
@@ -1608,87 +1608,87 @@
 	<l id="1106">Et puisqu’il vous souvient de ce sentier funeste</l>
 	<l id="1107" part="i">Où mon roi...</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1107" part="f">Malheureux ! épargne-moi le reste ;</l>
 	<l id="1108">J’ai tout fait, je le vois, c’en est assez.</l>
 	<l id="1109">Ô dieux ! Enfin après quatre ans vous dessillez mes yeux.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1110" part="i">Hélas ! il est donc vrai !</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1110" part="f">Quoi ! c’est toi que ma rage</l>
 	<l id="1111">Attaqua vers Daulis en cet étroit passage !</l>
 	<l id="1112">Oui, c’est toi : vainement je cherche à m’abuser ;</l>
 	<l id="1113">Tout parle contre moi, tout sert à m’accuser ;</l>
 	<l id="1114">Et mon œil étonné ne peut te méconnaître.</l>
 </sp>
-<sp who="PHORBAS"><speaker>PHORBAS.</speaker>
+<sp who="PHORBAS"><hstage><speaker>PHORBAS</speaker>.</hstage>
 	<l id="1115">Il est vrai, sous vos coups j’ai vu tomber mon maître ;</l>
 	<l id="1116">Vous avez fait le crime, et j’en fus soupçonné ;</l>
 	<l id="1117">J’ai vécu dans les fers, et vous avez régné.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1118">Va, bientôt à mon tour je me rendrai justice ;</l>
 	<l id="1119">Va, laisse-moi du moins le soin de mon supplice :</l>
 	<l id="1120">Laisse-moi, sauve-moi de l’affront douloureux</l>
 	<l id="1121">De voir un innocent que j’ai fait malheureux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Oedipe, Jocaste.</head>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Oedipe, Jocaste.</cast>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1122">Jocaste... car enfin la fortune jalouse</l>
 	<l id="1123">M’interdit à jamais le tendre nom d’épouse ;</l>
 	<l id="1124">Vous voyez mes forfaits : libre de votre foi,</l>
 	<l id="1125">Frappez, délivrez-vous de l’horreur d’être à moi.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1126" part="i">Hélas !</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1126" part="f">Prenez ce fer, instrument de ma rage ;</l>
 	<l id="1127">Qu’il vous serve aujourd’hui pour un plus juste usage ;</l>
 	<l id="1128" part="i">Plongez-le dans mon sein.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1128" part="f">Que faites-vous, Seigneur ?</l>
 	<l id="1129">Arrêtez ; modérez cette aveugle douleur ;</l>
 	<l id="1130" part="i">Vivez.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1130" part="f">Quelle pitié pour moi vous intéresse ?</l>
 	<l id="1131" part="i">Je dois mourir.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1131" part="f">Vivez, c’est moi qui vous en presse ;</l>
 	<l id="1132" part="i">Écoutez ma prière.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1132" part="f">Ah ! je n’écoute rien ;</l>
 	<l id="1133" part="i">J’ai tué votre époux.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1133" part="f">Mais vous êtes le mien.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1134" part="i">Je le suis par le crime.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1134" part="f">Il est involontaire.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1135" part="i">N’importe, il est commis.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1135" part="f">Ô comble de misère !</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1136">Ô trop funeste hymen ! ô feux jadis si doux !</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1137">Ils ne sont point éteints ; vous êtes mon époux.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1138">Non, je ne le suis plus ; et ma main ennemie</l>
 	<l id="1139">N’a que trop bien rompu le saint nœud qui nous lie.</l>
 	<l id="1140">Je remplis ces climats du malheur qui me suit.</l>
@@ -1700,7 +1700,7 @@
 	<l id="1146">Ayez du moins pitié de tant d’antres victimes</l>
 	<l id="1147">Frappez, ne craignez rien, vous m’épargnez des crimes.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1148">Ne vous accusez point d’un destin si cruel</l>
 	<l id="1149">Vous êtes malheureux, et non pas criminel</l>
 	<l id="1150">Dans ce fatal combat que Daulis vous vit rendre,</l>
@@ -1709,7 +1709,7 @@
 	<l id="1153">Je ne puis que me plaindre, et non pas vous punir.</l>
 	<l id="1154" part="i">Vivez...</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1154" part="f">Moi, que je vive ! Il faut que je vous fuie.</l>
 	<l id="1155">Hélas ! où traînerai-je une mourante vie ?</l>
 	<l id="1156">Sur quels bords malheureux, en quels tristes climats,</l>
@@ -1721,12 +1721,12 @@
 	<l id="1162">Corinthe ! que jamais ta détestable rive...</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Oedipe, Jocaste, Dimas.</head>
-<sp who="DIMAS"><speaker>DIMAS</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Oedipe, Jocaste, Dimas.</cast>
+<sp who="DIMAS"><hstage><speaker>DIMAS</speaker></hstage>
 	<l id="1163">Seigneur, en ce moment un étranger arrive</l>
 	<l id="1164">Il se dit de Corinthe, et demande à vous voir.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE.</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker>.</hstage>
 	<l id="1165">Allons, dans un moment je vais le recevoir.</l>
 <stage>À Jocaste.</stage>
 	<l id="1166">Adieu : que de vos pleurs la source se dissipe.</l>
@@ -1741,8 +1741,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Oedipe, Araspe, Dimas, suite.</head>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Oedipe, Araspe, Dimas, suite.</cast>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1174">Finissez vos regrets, et retenez vos larmes</l>
 	<l id="1175">Vous plaignez mon exil, il a pour moi des charmes ;</l>
 	<l id="1176">Ma fuite à vos malheurs assure un prompt secours ;</l>
@@ -1765,26 +1765,26 @@
 	<l id="1193" part="i">Vous, demeurez.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Oedipe, Araspe, Icare, suite.</head>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Oedipe, Araspe, Icare, suite.</cast>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1193" part="f">Icare, est-ce vous que je voi ?</l>
 	<l id="1194">Vous, de mes premiers ans sage dépositaire,</l>
 	<l id="1195">Vous, digne favori de Polybe mon père ?</l>
 	<l id="1196">Quel sujet important vous conduit parmi nous ?</l>
 </sp>
-<sp who="ICARE"><speaker>ICARE.</speaker>
+<sp who="ICARE"><hstage><speaker>ICARE</speaker>.</hstage>
 	<l id="1197" part="i">Seigneur, Polybe est mort.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1197" part="f">Ah ! que m’apprenez-vous ?</l>
 	<l id="1198" part="i">Mon père...</l>
 </sp>
-<sp who="ICARE"><speaker>ICARE.</speaker>
+<sp who="ICARE"><hstage><speaker>ICARE</speaker>.</hstage>
 	<l id="1198" part="f">A son trépas vous deviez vous attendre.</l>
 	<l id="1199">Dans la nuit du tombeau les ans l’ont fait descendre ;</l>
 	<l id="1200">Ses jours étaient remplis, il est mort à mes yeux.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1201">Qu’êtes-vous devenus, oracles de nos dieux ?</l>
 	<l id="1202">Vous qui faisiez trembler ma vertu trop timide,</l>
 	<l id="1203">Vous qui me prépariez l’horreur d’un parricide.</l>
@@ -1803,30 +1803,30 @@
 	<l id="1216">Partons. Vous vous taisez, je vois vos pleurs couler :</l>
 	<l id="1217" part="i">Que ce silence...</l>
 </sp>
-<sp who="ICARE"><speaker>ICARE.</speaker>
+<sp who="ICARE"><hstage><speaker>ICARE</speaker>.</hstage>
 	<l id="1217" part="f">Ô ciel ! oserai-je parler ?</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1218">Vous reste-t-il encor des malheurs à m’apprendre ?</l>
 </sp>
-<sp who="ICARE"><speaker>ICARE.</speaker>
+<sp who="ICARE"><hstage><speaker>ICARE</speaker>.</hstage>
 	<l id="1219">Un moment sans témoin daignerez-vous m’entendre ?</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 <stage>À sa suite.</stage>
 	<l id="1220">Allez, retirez-vous. Que va-t-il m’annoncer ?</l>
 </sp>
-<sp who="ICARE"><speaker>ICARE.</speaker>
+<sp who="ICARE"><hstage><speaker>ICARE</speaker>.</hstage>
 	<l id="1221">A Corinthe, Seigneur, il ne faut plus penser :</l>
 	<l id="1222">Si vous y paraissez, votre mort est jurée.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1223">Eh ! qui de mes États me défendrait l’entrée ?</l>
 </sp>
-<sp who="ICARE"><speaker>ICARE.</speaker>
+<sp who="ICARE"><hstage><speaker>ICARE</speaker>.</hstage>
 	<l id="1224">Du sceptre de Polybe un autre est l’héritier.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1225">Est-ce assez ? et ce trait sera-t-il le dernier ?</l>
 	<l id="1226">Poursuis, destin, poursuis, tu ne pourras m’abattre.</l>
 	<l id="1227">Eh bien ! j’allais régner ; Icare, allons combattre :</l>
@@ -1837,32 +1837,32 @@
 	<l id="1232">Je dois périr en roi. Quels sont mes ennemis ?</l>
 	<l id="1233">Parle, quel étranger sur mon trône est assis ?</l>
 </sp>
-<sp who="ICARE"><speaker>ICARE.</speaker>
+<sp who="ICARE"><hstage><speaker>ICARE</speaker>.</hstage>
 	<l id="1234">Le gendre de Polybe ; et Polybe lui-même</l>
 	<l id="1235">Sur son front en mourant a mis le diadème.</l>
 	<l id="1236">A son maître nouveau tout le peuple obéit.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1237">Eh quoi ! mon père aussi, mon père me trahit ?</l>
 	<l id="1238">De la rébellion mon père est le complice ?</l>
 	<l id="1239" part="i">Il me chasse du trône !</l>
 </sp>
-<sp who="ICARE"><speaker>ICARE.</speaker>
+<sp who="ICARE"><hstage><speaker>ICARE</speaker>.</hstage>
 	<l id="1239" part="f">Il vous a fait justice ;</l>
 	<l id="1240">Vous n’étiez point son fils.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1241" part="i">Icare !...</l>
 </sp>
-<sp who="ICARE"><speaker>ICARE.</speaker>
+<sp who="ICARE"><hstage><speaker>ICARE</speaker>.</hstage>
 	<l id="1241" part="f">Avec regret</l>
 	<l id="1242">Je révèle en tremblant ce terrible secret ;</l>
 	<l id="1243">Mais il le faut, Seigneur ; et toute la province...</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1244" part="i">Je ne suis point son fils !</l>
 </sp>
-<sp who="ICARE"><speaker>ICARE.</speaker>
+<sp who="ICARE"><hstage><speaker>ICARE</speaker>.</hstage>
 	<l id="1244" part="f">Non, Seigneur ; et ce prince</l>
 	<l id="1245">A tout dit en mourant. De ses remords pressé,</l>
 	<l id="1246">Pour le sang de nos rois il vous a renoncé ;</l>
@@ -1870,28 +1870,28 @@
 	<l id="1248">Craignant du nouveau roi la sévère justice,</l>
 	<l id="1249">Je venais implorer votre appui dans ces lieux.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1250">Je n’étais point son fils ! et qui suis-je, grands dieux ?</l>
 </sp>
-<sp who="ICARE"><speaker>ICARE.</speaker>
+<sp who="ICARE"><hstage><speaker>ICARE</speaker>.</hstage>
 	<l id="1251">Le ciel, qui dans mes mains a remis votre enfance,</l>
 	<l id="1252">D’une profonde nuit couvre votre naissance ;</l>
 	<l id="1253">Et je sais seulement qu’en naissant condamné,</l>
 	<l id="1254">Et sur un mont désert à périr destiné,</l>
 	<l id="1255">La lumière sans moi vous eût été ravie.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1256">Ainsi donc mon malheur commence avec ma vie ;</l>
 	<l id="1257">J’étais dès le berceau l’horreur de ma maison.</l>
 	<l id="1258" part="i">Où tombai-je en vos mains ?</l>
 </sp>
-<sp who="ICARE"><speaker>ICARE.</speaker>
+<sp who="ICARE"><hstage><speaker>ICARE</speaker>.</hstage>
 	<l id="1258" part="f">Sur le mont Cithéron.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1259" part="i">Près de Thèbe ?</l>
 </sp>
-<sp who="ICARE"><speaker>ICARE.</speaker>
+<sp who="ICARE"><hstage><speaker>ICARE</speaker>.</hstage>
 	<l id="1259" part="f">Un Thébain, qui se dit votre père,</l>
 	<l id="1260">Exposa votre enfance en ce lieu solitaire.</l>
 	<l id="1261">Quelque dieu bienfaisant guida vers vous mes pas :</l>
@@ -1907,7 +1907,7 @@
 	<l id="1271">Mais le trône en effet n’était point votre place ;</l>
 	<l id="1272">L’intérêt vous y mit, le remords vous en chasse.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1273">Ô vous qui présidez aux fortunes des rois,</l>
 	<l id="1274">Dieux ! faut-il en un jour m’accabler tant de fois,</l>
 	<l id="1275">Et, préparant vos coups par vos trompeurs oracles,</l>
@@ -1915,14 +1915,14 @@
 	<l id="1277">Mais ce vieillard, ami, de qui tu m’as reçu,</l>
 	<l id="1278">Depuis ce temps fatal ne l’as-tu jamais vu ?</l>
 </sp>
-<sp who="ICARE"><speaker>ICARE.</speaker>
+<sp who="ICARE"><hstage><speaker>ICARE</speaker>.</hstage>
 	<l id="1279">Jamais ; et le trépas vous a ravi peut-être</l>
 	<l id="1280">Le seul qui vous eût dit quel sang vous a fait naître.</l>
 	<l id="1281">Mais longtemps de ses traits mon esprit occupé</l>
 	<l id="1282">De son image encore est tellement frappé</l>
 	<l id="1283">Que je le connaîtrais s’il venait à paraître.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1284">Malheureux ! eh ! pourquoi chercher à le connaître ?</l>
 	<l id="1285">Je devrais bien plutôt, d’accord avec les dieux,</l>
 	<l id="1286">Chérir l’heureux bandeau qui me couvre les yeux.</l>
@@ -1936,116 +1936,116 @@
 	<l id="1294">Je crains de me connaître, et ne puis m’ignorer.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Oedipe, Icare, Phorbas.</head>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Oedipe, Icare, Phorbas.</cast>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1295" part="i">Ah ! Phorbas, approchez !</l>
 </sp>
-<sp who="ICARE"><speaker>ICARE.</speaker>
+<sp who="ICARE"><hstage><speaker>ICARE</speaker>.</hstage>
 	<l id="1295" part="f">Ma surprise est extrême :</l>
 	<l id="1296">Plus je le vois, et plus... Ah ! Seigneur, c’est lui-même ;</l>
 	<l id="1297" part="i">C’est lui.</l>
 </sp>
-<sp who="PHORBAS"><speaker>PHORBAS à Icare.</speaker>
+<sp who="PHORBAS"><hstage><speaker>PHORBAS</speaker> à Icare.</hstage>
 	<l id="1297" part="f">Pardonnez-moi si vos traits inconnus...</l>
 </sp>
-<sp who="ICARE"><speaker>ICARE.</speaker>
+<sp who="ICARE"><hstage><speaker>ICARE</speaker>.</hstage>
 	<l id="1298">Quoi ! du mont Cithéron ne vous souvient-il plus ?</l>
 </sp>
-<sp who="PHORBAS"><speaker>PHORBAS.</speaker>
+<sp who="PHORBAS"><hstage><speaker>PHORBAS</speaker>.</hstage>
 	<l id="1299" part="i">Comment ?</l>
 </sp>
-<sp who="ICARE"><speaker>ICARE.</speaker>
+<sp who="ICARE"><hstage><speaker>ICARE</speaker>.</hstage>
 	<l id="1299" part="f">Quoi ! cet enfant qu’en mes mains vous remîtes ;</l>
 	<l id="1300" part="i">Cet enfant qu’au trépas...</l>
 </sp>
-<sp who="PHORBAS"><speaker>PHORBAS.</speaker>
+<sp who="PHORBAS"><hstage><speaker>PHORBAS</speaker>.</hstage>
 	<l id="1300" part="f">Ah ! qu’est-ce que vous dites ?</l>
 	<l id="1301">Et de quel souvenir venez-vous m’accabler ?</l>
 </sp>
-<sp who="ICARE"><speaker>ICARE.</speaker>
+<sp who="ICARE"><hstage><speaker>ICARE</speaker>.</hstage>
 	<l id="1302">Allez, ne craignez rien, cessez de vous troubler :</l>
 	<l id="1303">Vous n’avez en ces lieux que des sujets de joie.</l>
 	<l id="1304" part="i">Oedipe est cet enfant.</l>
 </sp>
-<sp who="PHORBAS"><speaker>PHORBAS.</speaker>
+<sp who="PHORBAS"><hstage><speaker>PHORBAS</speaker>.</hstage>
 	<l id="1304" part="f">Que le ciel te foudroie !</l>
 	<l id="1305" part="i">Malheureux ! qu’as-tu dit ?</l>
 </sp>
-<sp who="ICARE"><speaker>ICARE à OEdipe.</speaker>
+<sp who="ICARE"><hstage><speaker>ICARE</speaker> à OEdipe.</hstage>
 	<l id="1305" part="f">Seigneur, n’en doutez pas :</l>
 	<l id="1306">Quoi que ce Thébain dise, il vous mit dans mes bras :</l>
 	<l id="1307">Vos destins sont connus, et voilà votre père...</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1308">Ô sort qui me confond ! ô comble de misère !</l>
 <stage>À Phorbas.</stage>
 	<l id="1309">Je serais né de vous ? le ciel aurait permis</l>
 	<l id="1310" part="i">Que votre sang versé...</l>
 </sp>
-<sp who="PHORBAS"><speaker>PHORBAS.</speaker>
+<sp who="PHORBAS"><hstage><speaker>PHORBAS</speaker>.</hstage>
 	<l id="1310" part="f">Vous n’êtes point mon fils.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1311">Eh quoi ! n’avez-vous point exposé mon enfance ?</l>
 </sp>
-<sp who="PHORBAS"><speaker>PHORBAS.</speaker>
+<sp who="PHORBAS"><hstage><speaker>PHORBAS</speaker>.</hstage>
 	<l id="1312">Seigneur, permettez-moi de fuir votre présence,</l>
 	<l id="1313">Et de vous épargner cet horrible entretien.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1314">Phorbas, au nom des dieux, ne me déguise rien.</l>
 </sp>
-<sp who="PHORBAS"><speaker>PHORBAS.</speaker>
+<sp who="PHORBAS"><hstage><speaker>PHORBAS</speaker>.</hstage>
 	<l id="1315">Partez, Seigneur, fuyez vos enfants et la reine.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1316">Réponds-moi seulement ; la résistance est vaine.</l>
 	<l id="1317">Cet enfant, par toi-même à la mort destiné,</l>
 <stage>En montrant Icare.</stage>
 	<l id="1318" part="i">Le mis-tu dans ses bras ?</l>
 </sp>
-<sp who="PHORBAS"><speaker>PHORBAS.</speaker>
+<sp who="PHORBAS"><hstage><speaker>PHORBAS</speaker>.</hstage>
 	<l id="1318" part="f">Oui, je le lui donnai.</l>
 	<l id="1319">Que ce jour ne fut-il le dernier de ma vie !</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1320" part="i">Quel était son pays ?</l>
 </sp>
-<sp who="PHORBAS"><speaker>PHORBAS.</speaker>
+<sp who="PHORBAS"><hstage><speaker>PHORBAS</speaker>.</hstage>
 	<l id="1320" part="f">Thèbe était sa patrie.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1321" part="i">Tu n’étais point son père ?</l>
 </sp>
-<sp who="PHORBAS"><speaker>PHORBAS.</speaker>
+<sp who="PHORBAS"><hstage><speaker>PHORBAS</speaker>.</hstage>
 	<l id="1321" part="f">Hélas ! il était né</l>
 	<l id="1322">D’un sang plus glorieux et plus infortuné.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1323" part="i">Quel était-il enfin ?</l>
 </sp>
-<sp who="PHORBAS"><speaker>PHORBAS se jette aux genoux du roi.</speaker>
+<sp who="PHORBAS"><hstage><speaker>PHORBAS</speaker> se jette aux genoux du roi.</hstage>
 	<l id="1323" part="f">Seigneur, qu’allez-vous faire ?</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1324" part="i">Achève, je le veux.</l>
 </sp>
-<sp who="PHORBAS"><speaker>PHORBAS.</speaker>
+<sp who="PHORBAS"><hstage><speaker>PHORBAS</speaker>.</hstage>
 	<l id="1324" part="f">Jocaste était sa mère.</l>
 </sp>
-<sp who="ICARE"><speaker>ICARE.</speaker>
+<sp who="ICARE"><hstage><speaker>ICARE</speaker>.</hstage>
 	<l id="1325">Et voilà donc le fruit de mes généreux soins ?</l>
 </sp>
-<sp who="PHORBAS"><speaker>PHORBAS.</speaker>
+<sp who="PHORBAS"><hstage><speaker>PHORBAS</speaker>.</hstage>
 	<l id="1326" part="i">Qu’avons-nous fait tous deux ?</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1326" part="f">Je n’attendais pas moins.</l>
 </sp>
-<sp who="ICARE"><speaker>ICARE.</speaker>
+<sp who="ICARE"><hstage><speaker>ICARE</speaker>.</hstage>
 	<l id="1327" part="i">Seigneur...</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1327" part="f">Sortez, cruels, sortez de ma présence ;</l>
 	<l id="1328">De vos affreux bienfaits craignez la récompense :</l>
 	<l id="1329">Fuyez ; à tant d’horreurs par vous seuls réservé,</l>
@@ -2053,7 +2053,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1331">Le voilà donc rempli cet oracle exécrable</l>
 	<l id="1332">Dont ma crainte a pressé l’effet inévitable !</l>
 	<l id="1333">Et je me vois enfin, par un mélange affreux,</l>
@@ -2083,67 +2083,67 @@
 	<l id="1357" part="i">Viens, je te suis.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Oedipe, Jocaste, Égine, Le Chœur.</head>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Oedipe, Jocaste, Égine, Le Chœur.</cast>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1357" part="f"> Seigneur, dissipez mon effroi ;</l>
 	<l id="1358">Vos redoutables cris sont venus jusqu’à moi.</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1359">Terre, pour m’engloutir entrouvre tes abîmes !</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1360" part="i">Quel malheur imprévu vous accable ?</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1360" part="f">Mes crimes.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1361" part="i">Seigneur...</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1361" part="m">Fuyez, Jocaste.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1361" part="f">Ah ! trop cruel époux !</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1362">Malheureuse ! arrêtez ; quel nom prononcez-vous ?</l>
 	<l id="1363">Moi, votre époux ! quittez ce titre abominable,</l>
 	<l id="1364">Qui nous rend l’un à l’autre un objet exécrable.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1365" part="i">Qu’entends-je ?</l>
 </sp>
-<sp who="OEDIPE"><speaker>OEDIPE</speaker>
+<sp who="OEDIPE"><hstage><speaker>OEDIPE</speaker></hstage>
 	<l id="1365" part="f">C’en est fait ; nos destins sont remplis.</l>
 	<l id="1366">Laïus était mon père, et je suis votre fils.</l>
 <stage>Il sort.</stage>
 </sp>
-<sp who="CHŒUR"><speaker>PREMIER PERSONNAGE DU CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>PREMIER PERSONNAGE DU CHŒUR</speaker>.</hstage>
 	<l id="1367" part="i">Ô crime !</l>
 </sp>
-<sp who="CHŒUR"><speaker>SECOND PERSONNAGE DU CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>SECOND PERSONNAGE DU CHŒUR</speaker>.</hstage>
 	<l id="1367" part="f">Ô jour affreux ! jour à jamais terrible !</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1368">Égine, arrache-moi de ce palais horrible.</l>
 </sp>
-<sp who="EGINE"><speaker>ÉGINE.</speaker>
+<sp who="EGINE"><hstage><speaker>ÉGINE</speaker>.</hstage>
 	<l id="1369" part="i">Hélas !</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1369" part="f"> Si tant de maux ont de quoi te toucher,</l>
 	<l id="1370">Si ta main, sans frémir, peut encor m’approcher,</l>
 	<l id="1371">Aide-moi, soutiens-moi, prends pitié de ta reine.</l>
 </sp>
-<sp who="CHŒUR"><speaker>PREMIER PERSONNAGE DU CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>PREMIER PERSONNAGE DU CHŒUR</speaker>.</hstage>
 	<l id="1372">Dieux ! est-ce donc ainsi que finit votre haine ?</l>
 	<l id="1373">Reprenez, reprenez vos funestes bienfaits ;</l>
 	<l id="1374">Cruels ! il valait mieux nous punir à jamais.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Jocaste, Égine, Le Grand-Prêtre, Le Chœur.</head>
-<sp who="GRAND_PRETRE"><speaker>LE GRAND-PRÊTRE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Jocaste, Égine, Le Grand-Prêtre, Le Chœur.</cast>
+<sp who="GRAND_PRETRE"><hstage><speaker>LE GRAND-PRÊTRE</speaker>.</hstage>
 	<l id="1375">Peuples, un calme heureux écarte les tempêtes ;</l>
 	<l id="1376">Un soleil plus serein se lève sur vos têtes ;</l>
 	<l id="1377">Les feux contagieux ne sont plus allumés ;</l>
@@ -2152,11 +2152,11 @@
 	<l id="1380">Annonce ses bontés par la voix du tonnerre.</l>
 <stage>Ici on entend gronder la foudre, et l’on voit briller les éclairs.</stage>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1381">Quels éclats ! ciel ! où suis-je ? et qu’est-ce que j’entends ?</l>
 	<l id="1382" part="i">Barbares !...</l>
 </sp>
-<sp who="GRAND_PRETRE"><speaker>LE GRAND-PRÊTRE.</speaker>
+<sp who="GRAND_PRETRE"><hstage><speaker>LE GRAND-PRÊTRE</speaker>.</hstage>
 	<l id="1382" part="f">C’en est fait, et les dieux sont contents.</l>
 	<l id="1383">C’en es fait : nos destins sont remplis :</l>
 	<l id="1384">Laïus était mon père, et je suis votre fils</l>
@@ -2164,15 +2164,15 @@
 	<l id="1386">Il vous permet encor de régner et de vivre ;</l>
 	<l id="1387">Le sang d’Oedipe enfin suffit à son courroux.</l>
 </sp>
-<sp who="CHŒUR"><speaker>LE CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 	<l id="1388" part="i">Dieux !</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1388" part="f">Ô mon fils ! hélas ! dirai-je mon époux ?</l>
 	<l id="1389">Ô des noms les plus chers assemblage effroyable !</l>
 	<l id="1390" part="i">Il est donc mort ?</l>
 </sp>
-<sp who="GRAND_PRETRE"><speaker>LE GRAND-PRÊTRE.</speaker>
+<sp who="GRAND_PRETRE"><hstage><speaker>LE GRAND-PRÊTRE</speaker>.</hstage>
 	<l id="1390" part="f"> Il vit, et le sort qui l’accable</l>
 	<l id="1391">Des morts et des vivants semble le séparer :</l>
 	<l id="1392">Il s’est privé du jour avant que d’expirer.</l>
@@ -2185,17 +2185,17 @@
 	<l id="1399">Ses traits sont épuisés sur ce malheureux fils.</l>
 	<l id="1400" part="i">Vivez, il vous pardonne.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE, se frappant.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>, se frappant.</hstage>
 	<l id="1400" part="f"> Et moi, je me punis.</l>
 	<l id="1401">Par un pouvoir affreux réservée à l’inceste,</l>
 	<l id="1402">La mort est le seul bien, le seul dieu qui me reste.</l>
 	<l id="1403">Laïus, reçois mon sang, je te suis chez les morts :</l>
 	<l id="1404">J’ai vécu vertueuse, et je meurs sans remords.</l>
 </sp>
-<sp who="CHŒUR"><speaker>LE CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 	<l id="1405">Ô malheureuse reine ! ô destin que j’abhorre !</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1406">Ne plaignez que mon fils, puisqu’il respire encore.</l>
 	<l id="1407">Prêtres, et vous Thébains, qui fûtes mes sujets,</l>
 	<l id="1408">Honorez mon bûcher, et songez à jamais</l>

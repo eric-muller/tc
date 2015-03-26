@@ -58,8 +58,8 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE I. César, Antoine.</head>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>César, Antoine.</cast>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="1">César, tu vas régner ; voici le jour auguste</l>
 	<l id="2">Où le peuple romain, pour toi toujours injuste,</l>
 	<l id="3">Changé par tes vertus, va reconnaître en toi</l>
@@ -76,7 +76,7 @@
 	<l id="14">César peut-il gémir, ou César peut-il craindre ?</l>
 	<l id="15">Qui peut à ta grande âme inspirer la terreur ?</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="16">L’amitié, cher Antoine : il faut t’ouvrir mon cœur.</l>
 	<l id="17">Tu sais que je te quitte, et le destin m’ordonne</l>
 	<l id="18">De porter nos drapeaux aux champs de Babylone.</l>
@@ -117,7 +117,7 @@
 	<l id="53">Ta promesse suffit, et je la crois plus pure</l>
 	<l id="54">Que les autels des dieux entourés du parjure.</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="55">C’est déjà pour Antoine une assez dure loi</l>
 	<l id="56">Que tu cherches la guerre et le trépas sans moi,</l>
 	<l id="57">Et que ton intérêt m’attache à l’Italie</l>
@@ -129,7 +129,7 @@
 	<l id="63">Tu n’as de fils qu’Octave, et nulle adoption</l>
 	<l id="64">N’a d’un autre César appuyé ta maison.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="65">Il n’est plus temps, ami, de cacher l’amertume</l>
 	<l id="66">Dont mon cœur paternel en secret se consume :</l>
 	<l id="67">Octave n’est mon sang qu’à la faveur des lois ;</l>
@@ -139,11 +139,11 @@
 	<l id="71">D’un fils que je chéris, mais qui, pour mon malheur,</l>
 	<l id="72">A ma tendre amitié répond avec horreur.</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="73">Et quel est cet enfant ? Quel ingrat peut-il être</l>
 	<l id="74">Si peu digne du sang dont les dieux l’ont fait naître ?</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="75">Écoute : tu connais ce malheureux Brutus,</l>
 	<l id="76">Dont Caton cultiva les farouches vertus.</l>
 	<l id="77">De nos antiques lois ce défenseur austère,</l>
@@ -154,16 +154,16 @@
 	<l id="82">A qui j’ai malgré lui sauvé deux fois la vie ;</l>
 	<l id="83">Né, nourri loin de moi chez mes fiers ennemis...</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="84" part="i">Brutus ! il se pourrait...</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="84" part="f">Ne m’en crois pas ; tiens, lis.</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="85">Dieux ! La sœur de Caton, la fière Servilie !</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="86">Par un hymen secret elle me fut unie.</l>
 	<l id="87">Ce farouche Caton, dans nos premiers débats,</l>
 	<l id="88">La fit presque à mes yeux passer en d’autres bras :</l>
@@ -173,7 +173,7 @@
 	<l id="92">Pour me haïr, ô ciel ! était-il réservé ?</l>
 	<l id="93">Mais lis : tu sauras tout par cet écrit funeste.</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE, lit.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>, lit.</hstage>
 	<l id="94">« César, je vais mourir. La colère céleste</l>
 	<l id="95">Va finir à la fois ma vie et mon amour.</l>
 	<l id="96">Souviens-toi qu’à Brutus César donna le jour.</l>
@@ -183,7 +183,7 @@
 	<l id="99">Quoi ! Faut-il que du sort la tyrannique loi,</l>
 	<l id="100">César, te donne un fils si peu semblable à toi !</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="101">Il a d’autres vertus : son superbe courage</l>
 	<l id="102">Flatte en secret le mien, même alors qu’il l’outrage.</l>
 	<l id="103">Il m’irrite, il me plaît ; son cœur indépendant</l>
@@ -213,7 +213,7 @@
 	<l id="127">La nature, le sang, mes bienfaits, tes avis,</l>
 	<l id="128">Le devoir, l’intérêt, tout me rendra mon fils.</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="129">J’en doute, je connais sa fermeté farouche :</l>
 	<l id="130">La secte dont il est n’admet rien qui la touche.</l>
 	<l id="131">Cette secte intraitable, et qui fait vanité</l>
@@ -229,26 +229,26 @@
 	<l id="141">Caton fut moins altier, moins dur, et moins à craindre</l>
 	<l id="142">Que l’ingrat qu’à t’aimer ta bonté veut contraindre.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="143">Cher ami, de quels coups tu viens de me frapper !</l>
 	<l id="144" part="i">Que m’as-tu dit ?</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="144" part="f">Je t’aime, et ne te puis tromper.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="145" part="i">Le temps amollit tout.</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="145" part="f">Mon cœur en désespère.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="146" part="i">Quoi ! sa haine...</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="146" part="m">Crois-moi.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="146" part="f">N’importe, je suis père.</l>
 	<l id="147">J’ai chéri, j’ai sauvé mes plus grands ennemis :</l>
 	<l id="148">Je veux me faire aimer de Rome et de mon fils ;</l>
@@ -261,25 +261,25 @@
 	<l id="155">Au secret important qu’il lui faut révéler,</l>
 	<l id="156">Et dont mon cœur encore hésite à lui parler.</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="157">Je ferai tout pour toi ; mais j’ai peu d’espérance.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. César, Antoine, Dolabella.</head>
-<sp who="DOLABELLA"><speaker>DOLABELLA.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>César, Antoine, Dolabella.</cast>
+<sp who="DOLABELLA"><hstage><speaker>DOLABELLA</speaker>.</hstage>
 	<l id="158">César, les sénateurs attendent audience ;</l>
 	<l id="159">À ton ordre suprême ils se rendent ici.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="160" part="i">Ils ont tardé longtemps... Qu’ils entrent.</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="160" part="f">Les voici.</l>
 	<l id="161">Que je lis sur leur front de dépit et de haine !</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. César, Antoine, Brutus, Cassius, Cimber, Décime, Cinna, Casca, etc. ; Licteurs.</head>
-<sp who="CESAR"><speaker>CÉSAR assis.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>César, Antoine, Brutus, Cassius, Cimber, Décime, Cinna, Casca, etc. ; Licteurs.</cast>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker> assis.</hstage>
 	<l id="162">Venez, dignes soutiens de la grandeur romaine,</l>
 	<l id="163">Compagnons de César. Approchez, Cassius,</l>
 	<l id="164">Cimber, Cinna, Décime, et toi, mon cher Brutus.</l>
@@ -316,7 +316,7 @@
 	<l id="195">Romains, vous m’entendez, vous savez mon espoir ;</l>
 	<l id="196">Songez à mes bienfaits, songez à mon pouvoir.</l>
 </sp>
-<sp who="CIMBER"><speaker>CIMBER.</speaker>
+<sp who="CIMBER"><hstage><speaker>CIMBER</speaker>.</hstage>
 	<l id="197">César, il faut parler. Ces sceptres, ces couronnes,</l>
 	<l id="198">Ce fruit de nos travaux, l’univers que tu donnes,</l>
 	<l id="199">Seraient, aux yeux du peuple et du sénat jaloux,</l>
@@ -329,13 +329,13 @@
 	<l id="206">Un don plus précieux, une faveur plus juste,</l>
 	<l id="207">Au-dessus des États donnés par ta bonté...</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="208" part="i">Qu’oses-tu demander, Cimber ?</l>
 </sp>
-<sp who="CIMBER"><speaker>CIMBER.</speaker>
+<sp who="CIMBER"><hstage><speaker>CIMBER</speaker>.</hstage>
 	<l id="208" part="f">La liberté.</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="209">Tu nous l’avais promise, et tu juras toi-même</l>
 	<l id="210">D’abolir pour jamais l’autorité suprême ;</l>
 	<l id="211">Et je croyais toucher à ce moment heureux</l>
@@ -345,7 +345,7 @@
 	<l id="215">Avant que d’être à toi nous sommes ses enfants :</l>
 	<l id="216">Je songe à ton pouvoir ; mais songe à tes serments.</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="217">Oui, que César soit grand ; mais que Rome soit libre.</l>
 	<l id="218">Dieux ! maîtresse de l’Inde, esclave au bord du Tibre !</l>
 	<l id="219">Qu’importe que son nom commande à l’univers,</l>
@@ -355,14 +355,14 @@
 	<l id="223">Les Persans ne sont pas nos plus fiers ennemis ;</l>
 	<l id="224">Il en est de plus grands. Je n’ai point d’autre avis.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="225" part="i">Et toi, Brutus, aussi !</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE, à César.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>, à César.</hstage>
 	<l id="225" part="f">Tu connais leur audace :</l>
 	<l id="226">Vois si ces cœurs ingrats sont dignes de leur grâce.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="227">Ainsi vous voulez donc, dans vos témérités,</l>
 	<l id="228">Tenter ma patience et lasser mes bontés ?</l>
 	<l id="229">Vous qui m’appartenez par le droit de l’épée,</l>
@@ -381,7 +381,7 @@
 	<l id="242">La fortune entre nous devient trop inégale :</l>
 	<l id="243">Si vous n’avez su vaincre, apprenez à servir.</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="244">César, aucun de nous n’apprendra qu’à mourir.</l>
 	<l id="245">Nul ne m’en désavoue, et nul, en Thessalie,</l>
 	<l id="246">N’abaissa son courage à demander la vie.</l>
@@ -391,7 +391,7 @@
 	<l id="250">Commence ici par moi : si tu veux régner, frappe.</l>
 </sp>
 <stage>Les sénateurs sortent.</stage>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="251">Écoute... Et vous, sortez. Brutus m’ose offenser !</l>
 	<l id="252">Mais sais-tu de quels traits tu viens de me percer ?</l>
 	<l id="253">Va, César est bien loin d’en vouloir à ta vie.</l>
@@ -399,15 +399,15 @@
 	<l id="255">Demeure, c’est toi seul qui peux me désarmer ;</l>
 	<l id="256">Demeure, c’est toi seul que César veut aimer.</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="257">Tout mon sang est à toi, si tu tiens ta promesse ;</l>
 	<l id="258">Si tu n’es qu’un tyran, j’abhorre ta tendresse ;</l>
 	<l id="259">Et je ne peux rester avec Antoine et toi,</l>
 	<l id="260">Puisqu’il n’est plus Romain, et qu’il demande un roi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. César, Antoine.</head>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>César, Antoine.</cast>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="261">Eh bien ! t’ai-je trompé ? Crois-tu que la nature</l>
 	<l id="262">Puisse amollir une âme et si fière et si dure ?</l>
 	<l id="263">Laisse, laisse à jamais dans son obscurité</l>
@@ -418,10 +418,10 @@
 	<l id="268">Ingrat à tes bontés, ingrat à ton amour,</l>
 	<l id="269" part="i">Renonce-le pour fils.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="269" part="f">Je ne le puis : je l’aime.</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="270">Ah ! cesse donc d’aimer l’éclat du diadème,</l>
 	<l id="271">Descends donc de ce rang où je te vois monté</l>
 	<l id="272">La bonté convient mal à ton autorité ;</l>
@@ -431,16 +431,16 @@
 	<l id="276">Aux yeux du roi du monde affectent ces hauteurs !</l>
 	<l id="277">Ils bravent ta puissance, et ces vaincus respirent !</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="278">Ils sont nés mes égaux, mes armes les vainquirent.</l>
 	<l id="279">Et, trop au-dessus d’eux, je leur puis pardonner</l>
 	<l id="280">De frémir sous le joug que je veux leur donner.</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="281">Marius de leur sang eût été moins avare ;</l>
 	<l id="282" part="i">Sylla les eût punis.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="282" part="f">Sylla fut un barbare ;</l>
 	<l id="283">Il n’a su qu’opprimer : le meurtre et la fureur</l>
 	<l id="284">Faisaient sa politique ainsi que sa grandeur :</l>
@@ -457,20 +457,20 @@
 	<l id="295">Lui plaire en l’accablant, l’asservir, le charmer,</l>
 	<l id="296">Et punir mes rivaux en me faisant aimer.</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="297">Il faudrait être craint : C’est ainsi que l’on règne.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="298">Va, ce n’est qu’aux combats que je veux qu’on me craigne.</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="299">Le peuple abusera de ta facilité.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="300">Le peuple a jusqu’ici consacré ma bonté :</l>
 	<l id="301">Vois ce temple que Rome élève à la Clémence.</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="302">Crains qu’elle n’en élève un autre à la Vengeance ;</l>
 	<l id="303">Crains des cœurs ulcérés, nourris de désespoir,</l>
 	<l id="304">Idolâtres de Rome, et cruels par devoir.</l>
@@ -480,7 +480,7 @@
 	<l id="308">Des plus impétueux tu devrais t’assurer ;</l>
 	<l id="309">A prévenir leurs coups daigne au moins te contraindre.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="310">Je les aurais punis si je les pouvais craindre.</l>
 	<l id="311">Ne me conseille point de me faire haïr.</l>
 	<l id="312">Je sais combattre, vaincre, et ne sais point punir.</l>
@@ -490,8 +490,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Brutus, Antoine, Dolabella</head>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Brutus, Antoine, Dolabella</cast>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="315">Ce superbe refus, cette animosité,</l>
 	<l id="316">Marquent moins de vertu que de férocité.</l>
 	<l id="317">Les bontés de César, et surtout sa puissance,</l>
@@ -500,7 +500,7 @@
 	<l id="320">Vous ne connaissez pas qui vous osez haïr ;</l>
 	<l id="321">Et vous en frémiriez si vous pouviez apprendre...</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="322">Ah ! je frémis déjà ; mais c’est de vous entendre.</l>
 	<l id="323">Ennemi des Romains, que vous avez vendus,</l>
 	<l id="324">Pensez-vous, ou tromper, ou corrompre Brutus ?</l>
@@ -508,7 +508,7 @@
 	<l id="326">Je sais tous vos desseins, vous brûlez d’être esclave ;</l>
 	<l id="327">Vous voulez un monarque, et vous êtes Romain !</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="328">Je suis ami, Brutus, et porte un cœur humain ;</l>
 	<l id="329">Je ne recherche point une vertu plus rare.</l>
 	<l id="330">Tu veux être un héros, va, tu n’es qu’un barbare ;</l>
@@ -517,7 +517,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="333">Quelle bassesse, ô ciel ! et quelle ignominie !</l>
 	<l id="334">Voilà donc les soutiens de ma triste patrie !</l>
 	<l id="335">Voilà vos successeurs, Horace, Décius,</l>
@@ -550,8 +550,8 @@
 	<l id="362">On demande du sang... Rome sera contente.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Brutus, Cassius, Cinna, Casca, Décime, suite.</head>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Brutus, Cassius, Cinna, Casca, Décime, suite.</cast>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="363">Je t’embrasse, Brutus, pour la dernière fois.</l>
 	<l id="364">Amis, il faut tomber sous les débris des lois.</l>
 	<l id="365">De César désormais je n’attends plus de grâce ;</l>
@@ -569,28 +569,28 @@
 	<l id="377">Ah, Brutus ! es-tu né pour servir sous un maître ?</l>
 	<l id="378" part="i">La liberté n’est plus.</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="378" part="f">Elle est prête à renaître.</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="379">Que dis-tu ? Mais quel bruit vient frapper mes esprits ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="380">Laisse là ce vil peuple, et ses indignes cris.</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="381">La liberté, dis-tu ?... Mais quoi... le bruit redouble.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Brutus, Cassieus, Cimber, Décime.</head>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Brutus, Cassieus, Cimber, Décime.</cast>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="382">Ah ! Cimber, est-ce toi ? Parle, quel est ce trouble ?</l>
 </sp>
-<sp who="DECIME"><speaker>DÉCIME.</speaker>
+<sp who="DECIME"><hstage><speaker>DÉCIME</speaker>.</hstage>
 	<l id="383">Trame-t-on contre Rome un nouvel attentat ?</l>
 	<l id="384" part="i">Qu’a-t-on fait ? qu’as-tu vu ?</l>
 </sp>
-<sp who="CIMBER"><speaker>CIMBER.</speaker>
+<sp who="CIMBER"><hstage><speaker>CIMBER</speaker>.</hstage>
 	<l id="384" part="f">La honte de l’État.</l>
 	<l id="385">César était au temple, et cette fière idole</l>
 	<l id="386">Semblait être le dieu qui tonne au Capitole.</l>
@@ -636,7 +636,7 @@
 	<l id="426">Le peuple la refuse, et le sénat la donne.</l>
 	<l id="427">Que faut-il faire enfin, héros qui m’écoutez ?</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="428">Mourir, finir des jours dans l’opprobre comptés.</l>
 	<l id="429">J’ai traîné les liens de mon indigne vie</l>
 	<l id="430">Tant qu’un peu d’espérance a flatté ma patrie ;</l>
@@ -648,7 +648,7 @@
 	<l id="435">Je vais où sont nos dieux... Pompée et Scipion,</l>
 	<l id="436">Il est temps de vous suivre, et d’imiter Caton.</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="437">Non, n’imitons personne, et servons tous d’exemple ;</l>
 	<l id="438">C’est nous, braves amis, que l’univers contemple ;</l>
 	<l id="439">C’est à nous de répondre à l’admiration</l>
@@ -660,33 +660,33 @@
 	<l id="445">Faisant tout pour la gloire, il ne fit rien pour Rome ;</l>
 	<l id="446">Et c’est la seule faute où tomba ce grand homme.</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="447">Que veux-tu donc qu’on fasse en un tel désespoir ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS, montrant le billet.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>, montrant le billet.</hstage>
 	<l id="448">Voilà ce qu’on m’écrit, voilà notre devoir.</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="449">On m’en écrit autant, j’ai reçu ce reproche.</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="450" part="i">C’est trop le mériter.</l>
 </sp>
-<sp who="CIMBER"><speaker>CIMBER.</speaker>
+<sp who="CIMBER"><hstage><speaker>CIMBER</speaker>.</hstage>
 	<l id="450" part="f">L’heure fatale approche.</l>
 	<l id="451">Dans une heure un tyran détruit le nom romain.</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="452">Dans une heure à César il faut percer le sein.</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="453">Ah ! je te reconnais à cette noble audace.</l>
 </sp>
-<sp who="DECIME"><speaker>DÉCIME.</speaker>
+<sp who="DECIME"><hstage><speaker>DÉCIME</speaker>.</hstage>
 	<l id="454">Ennemi des tyrans, et digne de ta race,</l>
 	<l id="455">Voilà les sentiments que j’avais dans mon cœur.</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="456">Tu me rends à moi-même, et je t’en dois l’honneur ;</l>
 	<l id="457">C’est là ce qu’attendaient ma haine et ma colère</l>
 	<l id="458">De la mâle vertu qui fait ton caractère.</l>
@@ -697,22 +697,22 @@
 	<l id="463">Toi, Cimber ; toi, Cinna ; vous, Romains indomptés,</l>
 	<l id="464">Avez-vous une autre âme et d’autres volontés ?</l>
 </sp>
-<sp who="CIMBER"><speaker>CIMBER.</speaker>
+<sp who="CIMBER"><hstage><speaker>CIMBER</speaker>.</hstage>
 	<l id="465">Nous pensons comme toi, nous méprisons la vie :</l>
 	<l id="466">Nous détestons César, nous aimons la patrie ;</l>
 	<l id="467">Nous la vengerons tous : Brutus et Cassius</l>
 	<l id="468">De quiconque est Romain raniment les vertus.</l>
 </sp>
-<sp who="DECIME"><speaker>DÉCIME.</speaker>
+<sp who="DECIME"><hstage><speaker>DÉCIME</speaker>.</hstage>
 	<l id="469">Nés juges de l’État, nés les vengeurs du crime,</l>
 	<l id="470">C’est souffrir trop longtemps la main qui nous opprime ;</l>
 	<l id="471">Et quand sur un tyran nous suspendons nos coups,</l>
 	<l id="472">Chaque instant qu’il respire est un crime pour nous.</l>
 </sp>
-<sp who="CIMBER"><speaker>CIMBER.</speaker>
+<sp who="CIMBER"><hstage><speaker>CIMBER</speaker>.</hstage>
 	<l id="473">Admettons-nous quelque autre à ces honneurs suprêmes ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="474">Pour venger la patrie il suffit de nous-mêmes.</l>
 	<l id="475">Dolabella, Lépide, Émile, Bibulus,</l>
 	<l id="476">Ou tremblent sous César, ou bien lui sont vendus.</l>
@@ -741,13 +741,13 @@
 	<l id="499">Et que la liberté, qu’oppriment ses forfaits,</l>
 	<l id="500">Renaisse de sa cendre, et revive à jamais.</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="501">Ne balançons donc plus, courons au Capitole :</l>
 	<l id="502">C’est là qu’il nous opprime, et qu’il faut qu’on l’immole.</l>
 	<l id="503">Ne craignons rien du peuple, il semble encor douter ;</l>
 	<l id="504">Mais si l’idole tombe, il va la détester.</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="505">Jurez donc avec moi, jurez sur cette épée,</l>
 	<l id="506">Par le sang de Caton, par celui de Pompée,</l>
 	<l id="507">Par les mânes sacrés de tous ces vrais Romains</l>
@@ -755,7 +755,7 @@
 	<l id="509">Jurez par tous les dieux, vengeurs de la patrie,</l>
 	<l id="510">Que César sous vos coups va terminer sa vie.</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="511">Faisons plus, mes amis ; jurons d’exterminer</l>
 	<l id="512">Quiconque ainsi que lui prétendra gouverner :</l>
 	<l id="513">Fussent nos propres fils, nos frères ou nos pères ;</l>
@@ -763,7 +763,7 @@
 	<l id="515">Un vrai républicain n’a pour père et pour fils</l>
 	<l id="516">Que la vertu, les dieux, les lois, et son pays.</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="517">Oui, j’unis pour jamais mon sang avec le vôtre,</l>
 	<l id="518">Tous dès ce moment même adoptés l’un par l’autre,</l>
 	<l id="519">Le salut de l’État nous a rendus parents.</l>
@@ -778,21 +778,21 @@
 	<l id="527">Allons, préparons-nous : c’est trop nous arrêter.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Cécar, Brutus.</head>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Cécar, Brutus.</cast>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="528">Demeure, c’est ici que tu dois m’écouter.</l>
 	<l id="529" part="i">Où vas-tu, malheureux ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="529" part="f">Loin de la tyrannie.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="530" part="i">Licteurs, qu’on le retienne.</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="530" part="f">Achève, et prends ma vie.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="531">Brutus, si ma colère en voulait à tes jours,</l>
 	<l id="532">Je n’aurais qu’à parler, j’aurais fini leur cours.</l>
 	<l id="533">Tu l’as trop mérité. Ta fière ingratitude</l>
@@ -802,16 +802,16 @@
 	<l id="537">Avec ceux qui tantôt ont osé me déplaire,</l>
 	<l id="538">Ont blâmé ma conduite, ont bravé ma colère.</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="539">Ils parlaient en Romains, César ; et leurs avis,</l>
 	<l id="540">Si les dieux t’inspiraient, seraient encor suivis.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="541">Je souffre ton audace, et consens à t’entendre :</l>
 	<l id="542">De mon rang avec toi je me plais à descendre.</l>
 	<l id="543" part="i">Que me reproches-tu ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="543" part="f">Le monde ravagé,</l>
 	<l id="544">Le sang des nations, ton pays saccagé ;</l>
 	<l id="545">Ton pouvoir, tes vertus, qui font tes injustices,</l>
@@ -819,7 +819,7 @@
 	<l id="547">Ta funeste bonté, qui fait aimer tes fers,</l>
 	<l id="548">Et qui n’est qu’un appât pour tromper l’univers.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="549">Ah ! c’est ce qu’il fallait reprocher à Pompée :</l>
 	<l id="550">Par sa feinte vertu la tienne fut trompée.</l>
 	<l id="551">Ce citoyen superbe, à Rome plus fatal,</l>
@@ -829,44 +829,44 @@
 	<l id="555">Sous un joug despotique il t’aurait accablé.</l>
 	<l id="556" part="i">Qu’eût fait Brutus alors ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="556" part="f">Brutus l’eût immolé.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="557">Voilà donc ce qu’enfin ton grand cœur me destine !</l>
 	<l id="558">Tu ne t’en défends point. Tu vis pour ma ruine,</l>
 	<l id="559" part="i">Brutus !</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="559" part="f">Si tu le crois, préviens donc ma fureur.</l>
 	<l id="560" part="i">Qui peut te retenir ?</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR, lui présentant la lettre de Servilie.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>, lui présentant la lettre de Servilie.</hstage>
 	<l id="560" part="f">La nature et mon cœur.</l>
 	<l id="561">Lis, ingrat, lis ; connais le sang que tu m’opposes ;</l>
 	<l id="562">Vois qui tu peux haïr, et poursuis si tu l’oses.</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="563">Où suis-je ? Qu’ai-je lu ? Me trompez-vous, mes yeux ?</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="564" part="i">Eh bien ! Brutus, mon fils !</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="564" part="f">Lui, mon père ! grands dieux !</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="565">Oui, je le suis, ingrat ! Quel silence farouche !</l>
 	<l id="566">Que dis-je ? Quels sanglots échappent de ta bouche ?</l>
 	<l id="567">Mon fils... Quoi ! Je te tiens muet entre mes bras !</l>
 	<l id="568">La nature t’étonne, et ne t’attendrit pas !</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="569">Ô sort épouvantable, et qui me désespère !</l>
 	<l id="570">Ô serments ! Ô patrie ! Ô Rome toujours chère !</l>
 	<l id="571">César !... Ah, malheureux ! j’ai trop longtemps vécu.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="572">Parle. Quoi ! D’un remords ton cœur est combattu !</l>
 	<l id="573">Ne me déguise rien. Tu gardes le silence !</l>
 	<l id="574">Tu crains d’être mon fils ; ce nom sacré t’offense :</l>
@@ -877,36 +877,36 @@
 	<l id="579">Je voulais partager, avec Octave et toi,</l>
 	<l id="580">Le prix de cent combats, et le titre de roi.</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="581" part="i">Ah, dieux !</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="581" part="f">Tu veux parler, et te retiens à peine !</l>
 	<l id="582">Ces transports sont-ils donc de tendresse ou de haine ?</l>
 	<l id="583">Quel est donc le secret qui semble t’accabler ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="584" part="i">César...</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="584" part="m">Eh bien ! mon fils ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="584" part="f">Je ne puis lui parler.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="585">Tu n’oses me nommer du tendre nom de père ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="586">Si tu l’es, je te fais une unique prière.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="587">Parle : en te l’accordant, je croirai tout gagner.</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="588">Fais-moi mourir sur l’heure, ou cesse de régner.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="589">Ah ! Barbare ennemi, tigre que je caresse !</l>
 	<l id="590">Ah ! Cœur dénaturé qu’endurcit ma tendresse !</l>
 	<l id="591">Va, tu n’es plus mon fils. Va, cruel citoyen,</l>
@@ -926,15 +926,15 @@
 	<l id="605">On sait ce que je puis, on verra ce que j’ose :</l>
 	<l id="606">Je deviendrai barbare, et toi seul en es cause.</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="607">Ah ! ne le quittons point dans ses cruels desseins,</l>
 	<l id="608">Et sauvons, s’il se peut, César et les Romains.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Cassius, Cimber, Décime, Cinna, Casca, les conjurés.</head>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Cassius, Cimber, Décime, Cinna, Casca, les conjurés.</cast>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="609">Enfin donc l’heure approche où Rome va renaître.</l>
 	<l id="610">La maîtresse du monde est aujourd’hui sans maître :</l>
 	<l id="611">L’honneur en est à vous, Cimber, Casca, Probus,</l>
@@ -944,13 +944,13 @@
 	<l id="615">Et je veux qu’en ce jour on dise à l’univers :</l>
 	<l id="616">« Mortels, respectez Rome ; elle n’est plus aux fers. »</l>
 </sp>
-<sp who="CIMBER"><speaker>CIMBER.</speaker>
+<sp who="CIMBER"><hstage><speaker>CIMBER</speaker>.</hstage>
 	<l id="617">Tu vois tous nos amis, ils sont prêts à te suivre,</l>
 	<l id="618">A frapper, à mourir, à vivre s’il faut vivre ;</l>
 	<l id="619">A servir le sénat dans l’un et l’autre sort,</l>
 	<l id="620">En donnant à César, ou recevant la mort.</l>
 </sp>
-<sp who="DECIME"><speaker>DÉCIME.</speaker>
+<sp who="DECIME"><hstage><speaker>DÉCIME</speaker>.</hstage>
 	<l id="621">Mais d’où vient que Brutus ne paraît point encore,</l>
 	<l id="622">Lui, ce fier ennemi du tyran qu’il abhorre ;</l>
 	<l id="623">Lui qui prit nos serments, qui nous rassembla tous ;</l>
@@ -960,26 +960,26 @@
 	<l id="627">Mais le voici. Grands dieux ! qu’il paraît abattu !</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Cassius, Brutus, Cimber, Casca, Décime, les conjurés.</head>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Cassius, Brutus, Cimber, Casca, Décime, les conjurés.</cast>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="628">Brutus, quelle infortune accable ta vertu ?</l>
 	<l id="629">Le tyran sait-il tout ? Rome est-elle trahie ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="630">Non, César ne sait point qu’on va trancher sa vie.</l>
 	<l id="631" part="i">Il se confie à vous.</l>
 </sp>
-<sp who="DECIME"><speaker>DÉCIME.</speaker>
+<sp who="DECIME"><hstage><speaker>DÉCIME</speaker>.</hstage>
 	<l id="631" part="f">Qui peut donc te troubler ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="632">Un malheur, un secret, qui vous fera trembler.</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="633">De nous ou du tyran, c’est la mort qui s’apprête :</l>
 	<l id="634" part="i">Nous pouvons tous périr ; mais trembler, nous !</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="634" part="f">Arrête :</l>
 	<l id="635">Je vais t’épouvanter par ce secret affreux.</l>
 	<l id="636">Je dois sa mort à Rome, à vous, à vos neveux,</l>
@@ -988,28 +988,28 @@
 	<l id="639">L’honneur du premier coup à mes mains est remis ;</l>
 	<l id="640">Tout est prêt : apprenez que Brutus est son fils.</l>
 </sp>
-<sp who="CIMBER"><speaker>CIMBER.</speaker>
+<sp who="CIMBER"><hstage><speaker>CIMBER</speaker>.</hstage>
 	<l id="641" part="i">Toi, son fils !</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="641" part="m">De César !</l>
 </sp>
-<sp who="DECIME"><speaker>DÉCIME.</speaker>
+<sp who="DECIME"><hstage><speaker>DÉCIME</speaker>.</hstage>
 	<l id="641" part="m">Ô Rome !</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="641" part="f">Servilie</l>
 	<l id="642">Par un hymen secret à César fut unie ;</l>
 	<l id="643">Je suis de cet hymen le fruit infortuné.</l>
 </sp>
-<sp who="CIMBER"><speaker>CIMBER.</speaker>
+<sp who="CIMBER"><hstage><speaker>CIMBER</speaker>.</hstage>
 	<l id="644" part="i">Brutus, fils d’un tyran !</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="644" part="f">Non, tu n’en es pas né ;</l>
 	<l id="645" part="i">Ton cœur est trop romain.</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="645" part="f">Ma honte est véritable.</l>
 	<l id="646">Vous, amis, qui voyez le destin qui m’accable,</l>
 	<l id="647">Soyez par mes serments les maîtres de mon sort.</l>
@@ -1022,13 +1022,13 @@
 	<l id="654">Aucun ne m’encourage, ou ne m’arrache au crime !</l>
 	<l id="655">Tu frémis, Cassius et, prompt à t’étonner...</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="656">Je frémis du conseil que je vais te donner.</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="657" part="i">Parle.</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="657" part="f">Si tu n’étais qu’un citoyen vulgaire,</l>
 	<l id="658">Je te dirais : Va, sers, sois tyran sous ton père ;</l>
 	<l id="659">Écrase cet État que tu dois soutenir ;</l>
@@ -1040,10 +1040,10 @@
 	<l id="665">Écoute : tu connais avec quelle furie</l>
 	<l id="666">Jadis Catilina menaça sa patrie ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="667" part="i">Oui.</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="667" part="f">Si, le même jour que ce grand criminel</l>
 	<l id="668">Dut à la liberté porter le coup mortel ;</l>
 	<l id="669">Si, lorsque le sénat eut condamné ce traître,</l>
@@ -1051,12 +1051,12 @@
 	<l id="671">Entre ce monstre et nous forcé de décider,</l>
 	<l id="672" part="i">Parle : qu’aurais-tu fait ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="672" part="f">Peux-tu le demander ?</l>
 	<l id="673">Penses-tu qu’un instant ma vertu démentie</l>
 	<l id="674">Eût mis dans la balance un homme et la patrie ?</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="675">Brutus, par ce seul mot ton devoir est dicté.</l>
 	<l id="676">C’est l’arrêt du sénat, Rome est en sûreté.</l>
 	<l id="677">Mais ; dis, sens-tu ce trouble, et ce secret murmure,</l>
@@ -1082,17 +1082,17 @@
 	<l id="697">Qu’à nos serments communs ta fermeté réponde ;</l>
 	<l id="698">Et tu n’as de parents que les vengeurs du monde.</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="699">Et vous, braves amis, parlez, que pensez-vous ?</l>
 </sp>
-<sp who="CIMBER"><speaker>CIMBER.</speaker>
+<sp who="CIMBER"><hstage><speaker>CIMBER</speaker>.</hstage>
 	<l id="700">Jugez de nous par lui, jugez de lui par nous.</l>
 	<l id="701">D’un autre sentiment si nous étions capables,</l>
 	<l id="702">Rome n’aurait point eu des enfants plus coupables.</l>
 	<l id="703">Mais à d’autres qu’à toi pourquoi t’en rapporter ?</l>
 	<l id="704">C’est ton cœur, c’est Brutus qu’il te faut consulter.</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="705">Eh bien ! à vos regards mon âme est dévoilée,</l>
 	<l id="706">Lisez-y les horreurs dont elle est accablée.</l>
 	<l id="707">Je ne vous cèle rien, ce cœur s’est ébranlé ;</l>
@@ -1131,14 +1131,14 @@
 	<l id="740">Mon devoir me suffit, tout le reste n’est rien.</l>
 	<l id="741">Allez, ne songez plus qu’à sortir d’esclavage.</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="742">Du salut de l’État ta parole est le gage.</l>
 	<l id="743">Nous comptons tous sur toi, comme si dans ces lieux</l>
 	<l id="744">Nous entendions Caton, Rome même, et nos dieux.</l>
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="745">Voici donc le moment où César va m’entendre ;</l>
 	<l id="746">Voici ce Capitole où la mort va l’attendre ;</l>
 	<l id="747">Épargnez-moi, grands dieux, l’horreur de le haïr !</l>
@@ -1149,15 +1149,15 @@
 	<l id="752">Ô mânes de Caton, soutenez ma vertu !</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. César, Brutus.</head>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>César, Brutus.</cast>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="753">Eh bien ! que veux-tu ? Parle. As-tu le cœur d’un homme ?</l>
 	<l id="754" part="i">Es-tu fils de César ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="754" part="f">Oui, si tu l’es de Rome.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="755">Républicain farouche, où vas-tu t’emporter ?</l>
 	<l id="756">N’as-tu voulu me voir que pour mieux m’insulter ?</l>
 	<l id="757">Quoi ! tandis que sur toi mes faveurs se répandent,</l>
@@ -1165,14 +1165,14 @@
 	<l id="759">L’empire, mes bontés, rien ne fléchit ton cœur ?</l>
 	<l id="760">De quel œil vois-tu donc le sceptre ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="761" part="i">Avec horreur.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="761" part="f">Je plains tes préjugés, je les excuse même.</l>
 	<l id="762" part="i">Mais peux-tu me haïr ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="762" part="f">Non, César, et je t’aime.</l>
 	<l id="763">Mon cœur par tes exploits fut pour toi prévenu,</l>
 	<l id="764">Avant que pour ton sang tu m’eusses reconnu.</l>
@@ -1182,10 +1182,10 @@
 	<l id="768">Mais César citoyen serait un dieu pour moi ;</l>
 	<l id="769">Je lui sacrifierais ma fortune et ma vie.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="770" part="i">Que peux-tu donc haïr en moi ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="770" part="f">La tyrannie.</l>
 	<l id="771">Daigne écouter les vœux, les larmes, les avis</l>
 	<l id="772">De tous les vrais Romains, du sénat, de ton fils.</l>
@@ -1193,17 +1193,17 @@
 	<l id="774">Jouir d’un droit plus saint que celui de la guerre,</l>
 	<l id="775">Être encor plus que roi, plus même que César ?</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="776" part="i">Eh bien ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="776" part="f">Tu vois la terre enchaînée à ton char ;</l>
 	<l id="777">Romps nos fers, sois Romain, renonce au diadème.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="778" part="i">Ah ! que proposes-tu ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="778" part="f">Ce qu’a fait Sylla même.</l>
 	<l id="779">Longtemps dans notre sang Sylla s’était noyé ;</l>
 	<l id="780">Il rendit Rome libre, et tout fut oublié.</l>
@@ -1217,7 +1217,7 @@
 	<l id="788">Alors tu sais régner ; alors je suis ton fils.</l>
 	<l id="789" part="i">Quoi ! je te parle en vain ?</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="789" part="f">Rome demande un maître ;</l>
 	<l id="790">Un jour à tes dépens tu l’apprendras peut-être.</l>
 	<l id="791">Tu vois nos citoyens plus puissants que des rois :</l>
@@ -1242,15 +1242,15 @@
 	<l id="810">Ne force point ton âme à vaincre la nature.</l>
 	<l id="811">Tu ne me réponds rien ? tu détournes les yeux ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="812">Je ne le connais plus. Tonnez sur moi, grands dieux !</l>
 	<l id="813" part="i">César...</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="813" part="f">Quoi ! tu t’émeus ? ton âme est amollie ?</l>
 	<l id="814" part="i">Ah ! mon fils...</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="814" part="f">Sais-tu bien qu’il y va de ta vie !</l>
 	<l id="815">Sais-tu que le sénat n’a point de vrai Romain</l>
 	<l id="816">Qui n’aspire en secret à te percer le sein ?</l>
@@ -1264,43 +1264,43 @@
 	<l id="823">Qui te préfère au monde, et Rome seule à toi ?</l>
 	<l id="824" part="i">Ne me rebute pas !</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="824" part="f">Malheureux, laisse-moi.</l>
 	<l id="825" part="i">Que me veux-tu ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="825" part="f">Crois-moi, ne sois point insensible.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="826">L’univers peut changer ; mon âme est inflexible.</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="827" part="i">Voilà donc la réponse ?</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="827" part="f">Oui, tout est résolu.</l>
 	<l id="828">Rome doit obéir quand César a voulu.</l> 
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS, d’un air consterné.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>, d’un air consterné.</hstage>
 	<l id="829" part="i">Adieu, César.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="829" part="f">Eh quoi ! d’où viennent tes alarmes ?</l>
 	<l id="830">Demeure encor, mon fils. Quoi ! tu verses des larmes !</l>
 	<l id="831">Quoi ! Brutus peut pleurer ! Est-ce d’avoir un roi ?</l>
 	<l id="832" part="i">Pleures-tu les Romains ?</l>
 </sp>
-<sp who="BRUTUS"><speaker>BRUTUS.</speaker>
+<sp who="BRUTUS"><hstage><speaker>BRUTUS</speaker>.</hstage>
 	<l id="832" part="f">Je ne pleure que toi.</l>
 	<l id="833" part="i">Adieu, te dis-je.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="833" part="f">Ô Rome ! ô rigueur héroïque !</l>
 	<l id="834">Que ne puis-je à ce point aimer ma république !</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. César, Dolabella, Romains.</head>
-<sp who="DOLABELLA"><speaker>DOLABELLA.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>César, Dolabella, Romains.</cast>
+<sp who="DOLABELLA"><hstage><speaker>DOLABELLA</speaker>.</hstage>
 	<l id="835">Le sénat par ton ordre au temple est arrivé :</l>
 	<l id="836">On n’attend plus que toi, le trône est élevé.</l>
 	<l id="837">Tous ceux qui t’ont vendu leur vie et leurs suffrages</l>
@@ -1311,16 +1311,16 @@
 	<l id="842">Nos présages affreux, nos devins, nos dieux même,</l>
 	<l id="843">César différerait ce grand événement.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="844">Quoi ! lorsqu’il faut régner, différer d’un moment !</l>
 	<l id="845" part="i">Qui pourrait m’arrêter, moi ?</l>
 </sp>
-<sp who="DOLABELLA"><speaker>DOLABELLA.</speaker>
+<sp who="DOLABELLA"><hstage><speaker>DOLABELLA</speaker>.</hstage>
 	<l id="845" part="f">Toute la nature</l>
 	<l id="846">Conspire à t’avertir par un sinistre augure.</l>
 	<l id="847">Le ciel, qui fait les rois, redoute ton trépas.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="848">Va, César n’est qu’un homme, et je ne pense pas</l>
 	<l id="849">Que le ciel de mon sort à ce point s’inquiète,</l>
 	<l id="850">Qu’il anime pour moi la nature muette,</l>
@@ -1330,41 +1330,41 @@
 	<l id="854">Suivons sans reculer nos hautes destinées.</l>
 	<l id="855" part="i">César n’a rien à craindre.</l>
 </sp>
-<sp who="DOLABELLA"><speaker>DOLABELLA.</speaker>
+<sp who="DOLABELLA"><hstage><speaker>DOLABELLA</speaker>.</hstage>
 	<l id="855" part="f">Il a des ennemis</l>
 	<l id="856">Qui sous un joug nouveau sont à peine asservis :</l>
 	<l id="857">Qui sait s’ils n’auraient point conspiré leur vengeance ?</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="858" part="i">Ils n’oseraient.</l>
 </sp>
-<sp who="DOLABELLA"><speaker>DOLABELLA.</speaker>
+<sp who="DOLABELLA"><hstage><speaker>DOLABELLA</speaker>.</hstage>
 	<l id="858" part="f">Ton cœur a trop de confiance.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="859">Tant de précautions contre mon jour fatal</l>
 	<l id="860">Me rendraient méprisable, et me défendraient mal.</l>
 </sp>
-<sp who="DOLABELLA"><speaker>DOLABELLA.</speaker>
+<sp who="DOLABELLA"><hstage><speaker>DOLABELLA</speaker>.</hstage>
 	<l id="861">Pour le salut de Rome il faut que César vive ;</l>
 	<l id="862">Dans le sénat au moins permets que je te suive.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="863">Non ; pourquoi changer l’ordre entre nous concerté ?</l>
 	<l id="864">N’avançons point, ami, le moment arrêté</l>
 	<l id="865">Qui change ses desseins découvre sa faiblesse.</l>
 </sp>
-<sp who="DOLABELLA"><speaker>DOLABELLA.</speaker>
+<sp who="DOLABELLA"><hstage><speaker>DOLABELLA</speaker>.</hstage>
 	<l id="866">Je te quitte à regret. Je crains, je le confesse :</l>
 	<l id="867">Ce nouveau mouvement dans mon cœur est trop fort.</l>
 </sp>
-<sp who="CESAR"><speaker>CÉSAR.</speaker>
+<sp who="CESAR"><hstage><speaker>CÉSAR</speaker>.</hstage>
 	<l id="868">Va, j’aime mieux mourir que de craindre la mort !</l>
 	<l id="869" part="i">Allons.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Dolabella, Romains.</head>
-<sp who="DOLABELLA"><speaker>DOLABELLA.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Dolabella, Romains.</cast>
+<sp who="DOLABELLA"><hstage><speaker>DOLABELLA</speaker>.</hstage>
 	<l id="869" part="f">Chers citoyens, quel héros, quel courage</l>
 	<l id="870">De la terre et de vous méritait mieux l’hommage ?</l>
 	<l id="871">Joignez vos vœux aux miens, peuples qui l’admirez ;</l>
@@ -1372,29 +1372,29 @@
 	<l id="873">Vivez pour le servir, mourez pour le défendre...</l>
 	<l id="874">Quelles clameurs, ô ciel ! quels cris se font entendre !</l>
 </sp>
-<sp who="CONJURES"><speaker>LES CONJURÉS, derrière le théâtre.</speaker>
+<sp who="CONJURES"><hstage><speaker>LES CONJURÉS</speaker>, derrière le théâtre.</hstage>
 	<l id="875">Meurs, expire, tyran ! Courage, Cassius !</l>
 </sp>
-<sp who="DOLABELLA"><speaker>DOLABELLA.</speaker>
+<sp who="DOLABELLA"><hstage><speaker>DOLABELLA</speaker>.</hstage>
 	<l id="876" part="i">Ah ! courons le sauver.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Cassius, un poignard à la main ; Dolabella, Romains.</head>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Cassius, un poignard à la main ; Dolabella, Romains.</cast>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="876" part="f">C’en est fait, il n’est plus.</l>
 </sp>
-<sp who="DOLABELLA"><speaker>DOLABELLA.</speaker>
+<sp who="DOLABELLA"><hstage><speaker>DOLABELLA</speaker>.</hstage>
 	<l id="877">Peuples, secondez-moi ; frappons, perçons ce traître.</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="878">Peuples, imitez-moi, vous n’avez plus de maître.</l>
 	<l id="879">Nation de héros, vainqueurs de l’univers,</l>
 	<l id="880">Vive la liberté ! ma main brise vos fers.</l>
 </sp>
-<sp who="DOLABELLA"><speaker>DOLABELLA.</speaker>
+<sp who="DOLABELLA"><hstage><speaker>DOLABELLA</speaker>.</hstage>
 	<l id="881">Vous trahissez, Romains, le sang de ce grand homme ?</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="882">J’ai tué mon ami pour le salut de Rome !</l>
 	<l id="883">Il vous asservit tous, son sang est répandu.</l>
 	<l id="884">Est-il quelqu’un de vous de si peu de vertu,</l>
@@ -1404,10 +1404,10 @@
 	<l id="888">S’il en est un, qu’il parle, et qu’il se plaigne à moi.</l>
 	<l id="889">Mais vous n’applaudissez, vous aimez tous la gloire.</l>
 </sp>
-<sp who="ROMAINS"><speaker>ROMAINS.</speaker>
+<sp who="ROMAINS"><hstage><speaker>ROMAINS</speaker>.</hstage>
 	<l id="890">César fut un tyran, périsse sa mémoire !</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="891">Maîtres du monde entier, de Rome heureux enfants,</l>
 	<l id="892">Conservez à jamais ces nobles sentiments.</l>
 	<l id="893">Je sais que devant vous Antoine va paraître :</l>
@@ -1432,30 +1432,30 @@
 	<l id="912">Ne vous trahissez pas, c’est tout ce que je veux ;</l>
 	<l id="913">Redoutez tout d’Antoine, et surtout l’artifice.</l>
 </sp>
-<sp who="ROMAINS"><speaker>ROMAINS.</speaker>
+<sp who="ROMAINS"><hstage><speaker>ROMAINS</speaker>.</hstage>
 	<l id="914">S’il vous ose accuser, que lui-même il périsse !</l>
 </sp>
-<sp who="CASSIUS"><speaker>CASSIUS.</speaker>
+<sp who="CASSIUS"><hstage><speaker>CASSIUS</speaker>.</hstage>
 	<l id="915">Souvenez-vous, Romains, de ces serments sacrés.</l>
 </sp>
-<sp who="ROMAINS"><speaker>ROMAINS.</speaker>
+<sp who="ROMAINS"><hstage><speaker>ROMAINS</speaker>.</hstage>
 	<l id="916">Aux vengeurs de l’État nos cœurs sont assurés.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Antoine, Romains, Dolabella.</head>
-<sp who="ROMAIN"><speaker>UN ROMAIN.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Antoine, Romains, Dolabella.</cast>
+<sp who="ROMAIN"><hstage><speaker>UN ROMAIN</speaker>.</hstage>
 	<l id="917" part="i">Mais Antoine paraît.</l>
 </sp>
-<sp who="ROMAIN"><speaker>AUTRE ROMAIN.</speaker>
+<sp who="ROMAIN"><hstage><speaker>AUTRE ROMAIN</speaker>.</hstage>
 	<l id="917" part="f">Qu’osera-t-il nous dire ?</l>
 </sp>
-<sp who="ROMAIN"><speaker>UN ROMAIN.</speaker>
+<sp who="ROMAIN"><hstage><speaker>UN ROMAIN</speaker>.</hstage>
 	<l id="918">Ses yeux versent des pleurs ; il se trouble, il soupire.</l>
 </sp>
-<sp who="ROMAIN"><speaker>UN AUTRE.</speaker>
+<sp who="ROMAIN"><hstage><speaker>UN AUTRE</speaker>.</hstage>
 	<l id="919" part="i">Il aimait trop César.</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE, montant à la tribune aux harangues.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>, montant à la tribune aux harangues.</hstage>
 	<l id="919" part="f">Oui, je l’aimais, Romains ;</l>
 	<l id="920">Oui, j’aurais de mes jours prolongé ses destins.</l>
 	<l id="921">Hélas ! Vous avez tous pensé comme moi-même ;</l>
@@ -1467,17 +1467,17 @@
 	<l id="927">Mais de mon désespoir ayez quelque pitié,</l>
 	<l id="928">Et pardonnez du moins des pleurs à l’amitié.</l>
 </sp>
-<sp who="ROMAIN"><speaker>UN ROMAIN.</speaker>
+<sp who="ROMAIN"><hstage><speaker>UN ROMAIN</speaker>.</hstage>
 	<l id="929">Il les fallait verser quand Rome avait un maître.</l>
 	<l id="930">César fut un héros ; mais César fut un traître.</l>
 </sp>
-<sp who="ROMAIN"><speaker>AUTRE ROMAIN.</speaker>
+<sp who="ROMAIN"><hstage><speaker>AUTRE ROMAIN</speaker>.</hstage>
 	<l id="931">Puisqu’il était tyran, il n’eut point de vertus.</l>
 </sp>
-<sp who="ROMAIN"><speaker>UN TROISIÈME.</speaker>
+<sp who="ROMAIN"><hstage><speaker>UN TROISIÈME</speaker>.</hstage>
 	<l id="932">Oui, nous approuvons tous Cassius et Brutus.</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="933">Contre ses meurtriers je n’ai rien à vous dire ;</l>
 	<l id="934">C’est à servir l’État que leur grand cœur aspire.</l>
 	<l id="935">De votre dictateur ils ont percé le flanc :</l>
@@ -1499,10 +1499,10 @@
 	<l id="951">Vous, dieux, qui lui laissiez le monde à gouverner,</l>
 	<l id="952">Vous savez si son cœur aimait à pardonner !</l>
 </sp>
-<sp who="ROMAIN"><speaker>UN ROMAIN.</speaker>
+<sp who="ROMAIN"><hstage><speaker>UN ROMAIN</speaker>.</hstage>
 	<l id="953">Il est vrai que César fit aimer sa clémence.</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="954">Hélas ! si sa grande âme eût connu la vengeance,</l>
 	<l id="955">Il vivrait, et sa vie eût rempli nos souhaits.</l>
 	<l id="956">Sur tous ses meurtriers il versa ses bienfaits ;</l>
@@ -1511,20 +1511,20 @@
 	<l id="959">Chers amis, je succombe ; et mes sens interdits...</l>
 	<l id="960">Brutus ; son assassin !... ce monstre était son fils.</l>
 </sp>
-<sp who="ROMAIN"><speaker>ROMAINS.</speaker>
+<sp who="ROMAIN"><hstage><speaker>ROMAINS</speaker>.</hstage>
 	<l id="961" part="i">Ah, dieux !</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="961" part="f">Je vois frémir vos généreux courages ;</l>
 	<l id="962">Amis, je vois les pleurs qui mouillent vos visages.</l>
 	<l id="963">Oui, Brutus est son fils ; mais vous qui m’écoutez,</l>
 	<l id="964">Vous étiez ses enfants dans son cœur adoptés.</l>
 	<l id="965">Hélas ! si vous saviez sa volonté dernière !</l>
 </sp>
-<sp who="ROMAIN"><speaker>ROMAINS.</speaker>
+<sp who="ROMAIN"><hstage><speaker>ROMAINS</speaker>.</hstage>
 	<l id="966" part="i">Quelle est-elle ? parlez.</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="966" part="f">Rome est son héritière.</l>
 	<l id="967">Ses trésors sont vos biens ; vous en allez jouir :</l>
 	<l id="968">Au delà du tombeau César veut vous servir.</l>
@@ -1534,13 +1534,13 @@
 	<l id="972">Commandez à César, César à l’univers. »</l>
 	<l id="973">Brutus ou Cassius eût-il fait davantage ?</l>  
 </sp>
-<sp who="ROMAINS"><speaker>ROMAINS.</speaker>
+<sp who="ROMAINS"><hstage><speaker>ROMAINS</speaker>.</hstage>
 	<l id="974">Ah ! nous les détestons. Ce doute nous outrage.</l>
 </sp>
-<sp who="ROMAINS"><speaker>UN ROMAIN.</speaker>
+<sp who="ROMAINS"><hstage><speaker>UN ROMAIN</speaker>.</hstage>
 	<l id="975">César fut en effet le père de l’État.</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="976">Votre père n’est plus : un lâche assassinat</l>
 	<l id="977">Vient de trancher ici les jours de ce grand homme,</l>
 	<l id="978">L’honneur de la nature et la gloire de Rome.</l>
@@ -1549,10 +1549,10 @@
 	<l id="981" part="i">On l’apporte à vos yeux.</l>
 </sp>
 <stage>Le fond du théâtre s’ouvre ; des licteurs apportent le corps de César couvert d’une robe sanglante ; Antoine descend de la tribune, et se jette à genoux auprès du corps.</stage>
-<sp who="ROMAINS"><speaker>ROMAINS.</speaker>
+<sp who="ROMAINS"><hstage><speaker>ROMAINS</speaker>.</hstage>
 	<l id="981" part="f">Ô spectacle funeste !</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="982">Du plus grand des Romains voilà ce qui vous reste ;</l>
 	<l id="983">Voilà ce dieu vengeur, idolâtré par vous,</l>
 	<l id="984">Que ses assassins même adoraient à genoux ;</l>
@@ -1572,14 +1572,14 @@
 	<l id="998">Est le seul qu’en mourant César ait fait entendre :</l>
 	<l id="999" part="i">« Ô mon fils ! » disait-il.</l>
 </sp>
-<sp who="ROMAIN"><speaker>UN ROMAIN.</speaker>
+<sp who="ROMAIN"><hstage><speaker>UN ROMAIN</speaker>.</hstage>
 	<l id="999" part="f">Ô monstre que les dieux</l>
 	<l id="1000">Devaient exterminer avant ce coup affreux !</l>
 </sp>
-<sp who="ROMAINS"><speaker>AUTRES ROMAINS en regardant le corps dont ils sont proches.</speaker>
+<sp who="ROMAINS"><hstage><speaker>AUTRES ROMAINS</speaker> en regardant le corps dont ils sont proches.</hstage>
 	<l id="1001" part="i">Dieux ! son sang coule encore.</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker>.</hstage>
 	<l id="1001" part="f">Il demande vengeance,</l>
 	<l id="1002">Il l’attend de vos mains et de votre vaillance.</l>
 	<l id="1003">Entendez-vous sa voix ? Réveillez-vous, Romains ;</l>
@@ -1591,12 +1591,12 @@
 	<l id="1009">Venez, dignes amis ; venez, vengeurs des crimes,</l>
 	<l id="1010">Au dieu de la patrie immoler ces victimes.</l>
 </sp>
-<sp who="ROMAINS"><speaker>ROMAINS.</speaker>
+<sp who="ROMAINS"><hstage><speaker>ROMAINS</speaker>.</hstage>
 	<l id="1011">Oui, nous les punirons ; oui, nous suivrons vos pas.</l>
 	<l id="1012">Nous jurons par son sang de venger son trépas.</l>
 	<l id="1013" part="i">Courons.</l>
 </sp>
-<sp who="ANTOINE"><speaker>ANTOINE à Dolabella.</speaker>
+<sp who="ANTOINE"><hstage><speaker>ANTOINE</speaker> à Dolabella.</hstage>
 	<l id="1013" part="f">Ne laissons pas leur fureur inutile ;</l>
 	<l id="1014">Précipitons ce peuple inconstant et facile :</l>
 	<l id="1015">Entraînons-le à la guerre ; et, sans rien ménager,</l>

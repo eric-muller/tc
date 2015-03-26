@@ -76,8 +76,8 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Mariamne, Phoedime.</head>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Mariamne, Phoedime.</cast>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1">Madame, il est trop vrai, votre crainte était juste,</l>
 	<l id="2">Un bruit sourd se répand jusqu’au Trône d’Auguste.</l>
 	<l id="3">Hérode en va subir l’inflexible rigueur.</l>
@@ -87,7 +87,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="7">De ses plus affidés le visage interdit,</l>
 	<l id="8">Leur trouble, leur silence, en un mot tout vous dit...</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="9">Que dis-tu là toi-même ? Arrête et considère</l>
 	<l id="10">Que tout cruel qu’il est, se gloire encor m’est chère.</l>
 	<l id="11">De toute ma famille il usurpa les droits.</l>
@@ -113,38 +113,38 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="31">Ne m’avais-tu pas dit qu’il se rendrait ici,</l>
 	<l id="32" part="i">Qu’il voulait me parler ?</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="32" part="f">Madame le voici.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="33" part="i">Phoedime laisse-nous.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Mariamne, Soësme.</head>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Mariamne, Soësme.</cast>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="33" part="f">Qu’avez-vous à m’apprendre,</l>
 	<l id="34" part="i">Soësme ?</l>
 </sp>
-<sp who="SOËSME"><speaker>SOËSME.</speaker>
+<sp who="SOËSME"><hstage><speaker>SOËSME</speaker>.</hstage>
 	<l id="34" part="f">Un bruit fâcheux commence à se répandre.</l>
 	<l id="35">Autour de ce Palais le peuple est consterné,</l>
 	<l id="36" part="i">Et l’on dit...</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="36" part="m">Achevez.</l>
 </sp>
-<sp who="SOËSME"><speaker>SOËSME.</speaker>
+<sp who="SOËSME"><hstage><speaker>SOËSME</speaker>.</hstage>
 	<l id="36" part="f">Qu’Hérode est condamné ;</l>
 	<l id="37">Que la haine d’Auguste à le perdre obstinée...</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="38">Et du Roi sur ce bruit réglant la destinée</l>
 	<l id="39">Jusques là de son sort Soësme est incertain ;</l>
 	<l id="40">Lui qui partageant seul le pouvoir souverain,</l>
 	<l id="41">Dans l’absence d’Hérode, à ses ordres fidèle</l>
 	<l id="42">Nous tient mon fils et moi soumis à sa tutelle !</l>
 </sp>
-<sp who="SOËSME"><speaker>SOËSME.</speaker>
+<sp who="SOËSME"><hstage><speaker>SOËSME</speaker>.</hstage>
 	<l id="43">Eh ! Que puis-je savoir ? Ses amis arrêtés,</l>
 	<l id="44">De fidèles avis sans doute interceptés ;</l>
 	<l id="45">Ce pays tout remplis de partis, de cabales,</l>
@@ -152,7 +152,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="47">Par qui des Souverains les droits mal assurés...</l>
 	<l id="48">Mais qu’est-ce que je vois, madame ? Vous pleurez.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="49">J’ignore si parmi de confuses alarmes,</l>
 	<l id="50">C’est faiblesse ou vertu qui m’arrache des larmes.</l>
 	<l id="51">Je tremble du péril qui menace ses jours,</l>
@@ -172,17 +172,17 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="65">Qu’ils rallument ma haine, aussi bien le perfide</l>
 	<l id="66">Ne mettrait point de borne au courroux qui le guide.</l>
 </sp>
-<sp who="SOËSME"><speaker>SOËSME.</speaker>
+<sp who="SOËSME"><hstage><speaker>SOËSME</speaker>.</hstage>
 	<l id="67">Vous dites vrai, Madame, et quel que soit son sort,</l>
 	<l id="68">Vos malheurs ne sont point terminés par sa mort.</l>
 	<l id="69">Quelle foule de maux la jalousie entraîne !</l>
 	<l id="70">L’amour est quelquefois plus cruel que la haine,</l>
 	<l id="71" part="i">Et je n’en puis douter...</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="71" part="f">Où tendent ces discours ?</l>
 </sp>
-<sp who="SOËSME"><speaker>SOËSME.</speaker>
+<sp who="SOËSME"><hstage><speaker>SOËSME</speaker>.</hstage>
 	<l id="72">Peut-être en faudrait-il interrompre le cours.</l>
 	<l id="73">Je devrais vous cacher ces mouvements, Madame,</l>
 	<l id="74">Que ma gloire indignée élève dans mon âme.</l>
@@ -191,19 +191,19 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="77">Ah ! Qu’éloigné d’entrer dans ce projet barbare,</l>
 	<l id="78" part="i">Mon cœur...</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="78" part="f">Dans quel transport votre zèle s’égare ?</l>
 	<l id="79" part="i">Soësme ?</l>
 </sp>
-<sp who="SOËSME"><speaker>SOËSME.</speaker>
+<sp who="SOËSME"><hstage><speaker>SOËSME</speaker>.</hstage>
 	<l id="79" part="f">Cet aveu sans doute est peu discret.</l>
 	<l id="80">Mais, Madame, apprenez un terrible secret,</l>
 	<l id="81">Dans toute sa fureur reconnaissez Hérode.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="82" part="i">Expliquez-vous.</l>
 </sp>
-<sp who="SOËSME"><speaker>SOËSME.</speaker>
+<sp who="SOËSME"><hstage><speaker>SOËSME</speaker>.</hstage>
 	<l id="82" part="f">Avant que de partir pour Rhode,</l>
 	<l id="83">Et tout sanglant encore au sortir du combat,</l>
 	<l id="84">Je remets dans tes mains les rênes de l’État,</l>
@@ -220,19 +220,19 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="95">J’exige de ta foi cet effort éclatant.</l>
 	<l id="96">Je pars sûr de ton zèle, et je mourrai content.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="97">Et qu’est-ce qu’a produit ce discours sur votre âme ?</l>
 	<l id="98" part="i">Que lui promîtes-vous ?</l>
 </sp>
-<sp who="SOËSME"><speaker>SOËSME.</speaker>
+<sp who="SOËSME"><hstage><speaker>SOËSME</speaker>.</hstage>
 	<l id="98" part="f">Je promis tout, Madame.</l>
 	<l id="99">À cet ordre cruel tout semblait m‘asservir,</l>
 	<l id="100">Et je ne l’acceptai que pour mieux vous servir.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="101">Jusques ici comment avez-vous pu vous taire ?</l>
 </sp>
-<sp who="SOËSME"><speaker>SOËSME.</speaker>
+<sp who="SOËSME"><hstage><speaker>SOËSME</speaker>.</hstage>
 	<l id="102">Je cacherais encor ce funeste mystère,</l>
 	<l id="103">Mais si le Roi n’est plus, Madame, j’ai jugé</l>
 	<l id="104">Que d’un ordre pareil un autre était chargé,</l>
@@ -246,12 +246,12 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="112">Pour garants de ma foi vos pleurs et mon devoir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Mariamne, Alexandre.</head>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Mariamne, Alexandre.</cast>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="113">Mon fils vient. S’il se peut, renfermons dans mon âme</l>
 	<l id="114" part="i">Le trouble dont je suis agitée.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="114" part="f">Ah ! Madame,</l>
 	<l id="115">Permettez que mon cœur percé de mille traits</l>
 	<l id="116">Vienne dans votre sein répandre ses regrets.</l>
@@ -265,7 +265,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="124">Qu’une vengeance illustre irrite à tous moments ;</l>
 	<l id="125">Qu’enfin tout doit céder aux douleurs que j’éprouve.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="126">Calmez, mon fils, calmez un transport que j’approuve</l>
 	<l id="127">Moi-même encor du Roi j’ignore le destin :</l>
 	<l id="128">On n’a fait de sa mort qu’un rapport incertain.</l>
@@ -275,10 +275,10 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="132">Ne poussez point ici vos murmures plus loin.</l>
 	<l id="133">Et qui sait si l’effort d’une main sanguinaire...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="134" part="i">Ciel !</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="134" part="f">Mon fils, votre aspect me rappelle mon frère.</l>
 	<l id="135">La nature se joue en de vivants portraits.</l>
 	<l id="136">Il était votre image, ou vous avez ses traits.</l>
@@ -301,7 +301,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="153">Le Ciel gronda, le jour se couvrit de nuages,</l>
 	<l id="154">Et le Jourdain sanglant inonda ses rivages.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="155">Ciel ! Où votre douleur va-t-elle s’égarer ?</l>
 	<l id="156">Quel souvenir encor vient de vous déchirer ?</l>
 	<l id="157">Oubliez les malheurs de votre auguste Race.</l>
@@ -314,19 +314,19 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="164">Quand l’intérêt d’un Fils doit seul vous occuper ?</l>
 	<l id="165">Ciel ! À qui dans mes maux faut-il que je m’adresse ?</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="166">Mon Fils, vous devez mieux juger de ma tendresse.</l>
 	<l id="167">Ne me condamnez point. Vous saurez tôt ou tard</l>
 	<l id="168">Ce qui cause mon trouble et d’où ma douleur part.</l>
 	<l id="169">Mais sachons quel avis Phoedime nous apporte.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Mariamne, Alexandre, Salome, Phoedime.</head>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Mariamne, Alexandre, Salome, Phoedime.</cast>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="170">Madame, j’ai laissé Salome à votre porte,</l>
 	<l id="171">Pour vous en informer je devance ses pas,</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="172">Tu peux la prévenir, je ne la verrai pas.</l>
 	<l id="173">Tu ne connais que trop l’accueil qu’elle mérite,</l>
 	<l id="174">Tu sais jusqu’à quel point sa présence m’irrite.</l>
@@ -336,16 +336,16 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="178" part="i">Allons, mon Fils rentrons.</l>
 <stage>Mariamne et Alexandre sortent.</stage>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="178" part="f">Ah ! Que j’ai lieu de craindre</l>
 	<l id="179">D’un mépris trop marqué les retours éclatants !</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Salome, Phoedime, Élise.</head>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Salome, Phoedime, Élise.</cast>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="180" part="i">La Reine s’est soustraite à nos yeux.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ, à part.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>, à part.</hstage>
 	<l id="180" part="f">Je t’entends.</l>
 	<l id="181">Je sais de ses chagrins la cause déplorable,</l>
 	<l id="182">Et prendrai pour la voir un moment favorable.</l>
@@ -354,12 +354,12 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="185">Et dans le bruit public d’un changement funeste,</l>
 	<l id="186">De mes faibles secours offrir tout ce qui  reste.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="187" part="i">Madame, c’est assez.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Salome, Élise.</head>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Salome, Élise.</cast>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="187" part="f">De tes cruels mépris</l>
 	<l id="188">Avec usure encor je te garde le prix,</l>
 	<l id="189">Reine trop orgueilleuse, et tu vas me connaître.</l>
@@ -372,7 +372,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="196">La gloire pour le moins ne dépend que de nous,</l>
 	<l id="197">Elle éleva mon frère au Trône de Judée.</l>
 </sp>
-<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+<sp who="ÉLISE"><hstage><speaker>ÉLISE</speaker>.</hstage>
 	<l id="198">Que dites-vous, Madame ? Et quelle est votre idée ?</l>
 	<l id="199">Quel temps votre courroux prend-il pour éclater ?</l>
 	<l id="200">Dans quels périls vous-même allez-vous vous jeter ?</l>
@@ -380,7 +380,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="202">Et pouvez-vous douter qu’Alexandre, la Reine,</l>
 	<l id="203">Ne trouvent bientôt grâce auprès de l’Empereur ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="204">Élise, il est temps, sors toi-même d’erreur.</l>
 	<l id="205">Au gré de mes désirs aujourd’hui tout conspire.</l>
 	<l id="206">Hérode vit encor. Mais c’est peu qu’il respire,</l>
@@ -391,29 +391,29 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="211">C’est ce qu’en arrivant lui-même il s’est promis</l>
 	<l id="212">De tout ce grand pouvoir entre ses mais remis.</l>
 </sp>
-<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+<sp who="ÉLISE"><hstage><speaker>ÉLISE</speaker>.</hstage>
 	<l id="213">Et de quel œil, ô Ciel ! Le peuple, Mariamne,</l>
 	<l id="214">Vous-même verriez-vous cette fête profane,</l>
 	<l id="215">Et d’un Roi de Juda quel peut-être l’objet ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="216">Arrête. C’est sur quoi je médite un projet,</l>
 	<l id="217">Dont je ne t’ose encor confier l’importance.</l>
 </sp>
-<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+<sp who="ÉLISE"><hstage><speaker>ÉLISE</speaker>.</hstage>
 	<l id="218">Madame, ce succès passe votre espérance.</l>
 	<l id="219">Puissent vos ennemis bientôt être écartés !</l>
 	<l id="220">Et parmi ces honneurs, et ces prospérités,</l>
 	<l id="221">Dit-on pourquoi César avec tant d’avantage....</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="222">Tharès qui me l’écrit n’en dit pas davantage.</l>
 </sp>
-<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+<sp who="ÉLISE"><hstage><speaker>ÉLISE</speaker>.</hstage>
 	<l id="223">Tharès ! Et depuis quand servant vos intérêts,</l>
 	<l id="224">Madame, est-il admis jusques dans vos secrets ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="225">De tous mes confidents connais le plus fidèle,</l>
 	<l id="226">Il attend que ma main couronne un jour son zèle,</l>
 	<l id="227">C’est ce qu’adroitement je lui laisse espérer,</l>
@@ -424,10 +424,10 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="232">Il m’apprend son départ, et qu’Hérode de près</l>
 	<l id="233" part="i">Sur ses pas...</l>
 </sp>
-<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+<sp who="ÉLISE"><hstage><speaker>ÉLISE</speaker>.</hstage>
 	<l id="233" part="f">Et d’où vient qu’un bruit si peu fidèle...</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="234">C’est moi qui de sa mort ai semé la nouvelle.</l>
 	<l id="235">De mes desseins secrets mes amis informés</l>
 	<l id="236">Pour tout autre ont tenu les passages fermés.</l>
@@ -454,27 +454,27 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="257" part="i">Mais on vient. C’est Tharès.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Salome, Tharès, Élise.</head>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Salome, Tharès, Élise.</cast>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="257" part="f">Dans mon impatience,</l>
 	<l id="258">J’ose jusqu’en ces lieux chercher votre présence,</l>
 	<l id="259">J’avais couru, madame, à votre appartement.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="260">C’est mal choisir le lieu, Tharès, et le moment,</l>
 	<l id="261">Toutefois parlez-moi. Le jour qui nous éclaire</l>
 	<l id="262">À ses peuples surpris va-t-il rendre mon Frère ?</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="263">Si du départ du Roi je compte les instants,</l>
 	<l id="264">Dans une heure au plus tard vos vœux seront contents.</l>
 	<l id="265">Bientôt dans ses transports l’amour et la nature...</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="266">Racontez-moi, Tharès, cette illustre aventure</l>
 	<l id="267">Mais quoique seuls, songez que ces murs aujourd’hui...</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="268">Hérode a vu César et tout l’Empire en lui :</l>
 	<l id="269">Aux pieds du Trône où tout disparaît à sa vue,</l>
 	<l id="270">Des Peuples et des Rois la foule est confondue.</l>
@@ -501,10 +501,10 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="291">S’emparât de son Trône, et que sûr de ma foi</l>
 	<l id="292">Il se mit en état de te donner la loi.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="293">Mon âme à ce récit demeure encor troublée.</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="294">Un murmure s’élève en toute l’assemblée</l>
 	<l id="295">César surtout frappé de ces traits hasardeux</l>
 	<l id="296">Attira les regards partagés entre eux deux,</l>
@@ -521,10 +521,10 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="307">Par ma reconnaissance augure de ma foi,</l>
 	<l id="308">César, cette offre est digne et de Rome et de toi.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="309">Tel se montre un grand cœur que le revers éprouve.</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="310">Dans ces hauts sentiments Auguste se retrouve,</l>
 	<l id="311">Et parmi le transport d’une noble pitié</l>
 	<l id="312">D’Hérode dans ses bras accepta l’amitié.</l>
@@ -532,38 +532,38 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="314">A calmé de César la fureur vengeresse.</l>
 	<l id="315">Mais Madame, songez à l’aller recevoir.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="316">La Reine va sur lui reprendre son pouvoir</l>
 	<l id="317" part="i">Sans doute.</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="317" part="f">Époux jaloux, Amant toujours fidèle,</l>
 	<l id="318">Son cœur impatient n’est occupé que d’elle.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="319">Vous savez entre nous quels projets concertés,</l>
 	<l id="320">Tharès, et quels serments par la gloire dictés,</l>
 	<l id="321" part="i">Doivent unir nos cœurs, nos intérêts...</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="321" part="f">Madame,</l>
 	<l id="322">Avec le même espoir, même zèle m’enflamme.</l>
 	<l id="323">Fidèle à seconder vos desseins glorieux...</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="324">C’est assez, mais surtout ôtons-nous de ces lieux.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Mariamne, Alexandre.</head>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Mariamne, Alexandre.</cast>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="325">Ah ! Du moins attendez qu’un avis plus fidèle,</l>
 	<l id="326">De la mort de mon père assure la nouvelle,</l>
 	<l id="327">Madame, et jusques là suspendez vos douleurs.</l>
 	<l id="328" part="i">Que l’intérêt d’un fils...</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="328" part="f">Hélas ! Tous mes malheurs</l>
 	<l id="329">Ne sont connus, mon Fils, que du Dieu que j’implore ;</l>
 	<l id="330">Mais Phoedime à mes yeux ne s’offre point encore.</l>
@@ -579,7 +579,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="340">Le Sceptre de Juda vous est peut-être ôté.</l>
 	<l id="341" part="i">Le Sang d’Antipater...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="341" part="f">Ah ! Quoi qu’il ose attendre,</l>
 	<l id="342">Le fils de Mariamne a seul droit d’y prétendre.</l>
 	<l id="343">D’un autre hymen mon père avait subi la loi.</l>
@@ -591,25 +591,25 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="349">Et que loin de souiller la gloire de leur race...</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Mariamne, Alexandre, Phoedime.</head>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Mariamne, Alexandre, Phoedime.</cast>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="350">Madame, votre sort va prendre une autre face.</l>
 	<l id="351">Déjà j’ai vu Tharès, et bientôt dans ces lieux</l>
 	<l id="352">Hérode va paraître encor plus glorieux.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="353" part="i">Ciel !</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="353" part="f">De ses grands desseins le cours toujours prospère...</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="354" part="i">Hérode vit encor ?</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="354" part="f">Le Ciel me rend mon Père ?</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="355">Non loin de nos remparts il a, dit-on, paru,</l>
 	<l id="356">Au-devant de ses pas tout un peuple a couru.</l>
 	<l id="357">Soësme m’a chargé d’en informer la Reine.</l>
@@ -617,7 +617,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="359">De divers sentiments se laisse pénétrer.</l>
 	<l id="360">Il en est temps : venez vous-même vous montrer.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="361">Ah ! Loin de ce Palais sans plus t’en rendre compte,</l>
 	<l id="362">Que ne puis-je, Phoedime, aller cacher ma honte !</l>
 	<l id="363">Ne peux-tu pas toi-même assez te rappeler</l>
@@ -629,13 +629,13 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="369">À l’ombre de mon Trône encor plus méprisée,</l>
 	<l id="370">Je vais de tout un Peuple essuyer la risée.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="371">Ah ! Ses ordres sans doute ont été mal suivis.</l>
 	<l id="372">De son retour, Salome interceptant l’avis,</l>
 	<l id="373">La cruelle a joui de votre inquiétude.</l>
 	<l id="374">Interrogez Tharès dans cette incertitude.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="375">Hé bien, va le trouver, Phoedime, en ce moment,</l>
 	<l id="376">Et dis-lui qu’il m’attende en mon appartement.</l>
 <stage>Phoedime sort.</stage>
@@ -645,7 +645,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="380">Il m’abandonne en proie à l’orgueil de sa sœur.</l>
 	<l id="381">Mais puisque ma vertu devient mon seul asile...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="382">Je ne puis vous entendre avec un cœur tranquille</l>
 	<l id="383">Madame, c’en est fait, ou daignez vous calmer,</l>
 	<l id="384">Ou pour votre querelle enfin je vais m’armer.</l>
@@ -654,7 +654,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="387">Et leur plainte mêlée à votre désespoir</l>
 	<l id="388">Par votre bouche ici m’annonce mon devoir.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="389">Gardez-vous de confondre, et ma cause et la vôtre.</l>
 	<l id="390">Je sais quel nœud sacré nous unit l’un et l’autre.</l>
 	<l id="391">Mais songez bien qu’un Père est aussi votre Roi,</l>
@@ -666,7 +666,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE, seul.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>, seul.</hstage>
 	<l id="397">Ô vertu que j’admire ! Ainsi donc la nature</l>
 	<l id="398">Ne permet à mon cœur ni plainte ni murmure ?</l>
 	<l id="399">Ses plus chers intérêts opposés tour à tour,</l>
@@ -674,19 +674,19 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="401">J’entends du bruit. On vient. Partons. C’est trop attendre.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Hérode, Alexandre, Soësme, Tharès, Alcime. Suite du Roi, Gardes.</head>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Hérode, Alexandre, Soësme, Tharès, Alcime. Suite du Roi, Gardes.</cast>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="402">Ciel ! Je respire enfin. Mais que vois-je ? Alexandre ?</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="403" part="i">Souffrez, Seigneur, souffrez...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="403" part="f">Dois-je vous embrasser ?</l>
 	<l id="404">Mon fils, et deviez-vous si peu vous empresser,</l>
 	<l id="405">Pour me rendre un devoir qu’exige ma tendresse ?</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="406">Ah ! Seigneur, est-ce à moi que ce discours s’adresse ?</l>
 	<l id="407">Permettez-moi plutôt de me plaindre à mon tour.</l>
 	<l id="408">À peine en ce moment j’apprends votre retour ?</l>
@@ -694,7 +694,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="410">Le trouble de la Reine, et le cours de mes larmes ?</l>
 	<l id="411">Ce Palais de nos cris doit encor retentir...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="412">De ma présence allez vous-même l’avertir,</l>
 	<l id="413">Et l’embrassant pour moi, dites à l’inhumaine,</l>
 	<l id="414">Que pour elle en ces lieux l’amour seul me ramène.</l>
@@ -712,8 +712,8 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="426">Je ne vous retiens plus, et vais bientôt vous suivre.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Hérode, Soësme, Tharès, Alcime. Suite du Roi, Gardes.</head>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Hérode, Soësme, Tharès, Alcime. Suite du Roi, Gardes.</cast>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="427">Alcime, prenez soin d’assembler le Conseil,</l>
 	<l id="428">Et vous Tharès, qu’au Temple un pompeux appareil</l>
 	<l id="429">En l’honneur de César annonce un sacrifice.</l>
@@ -722,8 +722,8 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="432">Ne perdez point de temps. Soësme demeurez.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Hérode, Soësme.</head>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Hérode, Soësme.</cast>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="433">Viens-je éprouver ici ta faveur ou ta haine,</l>
 	<l id="434">Ô Ciel ! Approche. Avant que d’entrer chez la Reine,</l>
 	<l id="435">Soësme, j’ai voulu te parler un instant.</l>
@@ -735,18 +735,18 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="441">Qu’un mystère éternel cacherait à la Reine</l>
 	<l id="442">Es dangereux excès où mon amour m’entraîne.</l>
 </sp>
-<sp who="SOËSME"><speaker>SOËSME.</speaker>
+<sp who="SOËSME"><hstage><speaker>SOËSME</speaker>.</hstage>
 	<l id="443">Puis-je entendre, Seigneur, avec tranquillité</l>
 	<l id="444">Un discours... Doutez-vous de ma fidélité ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="445">Je crois qu’à tes devoirs rien ne peut te soustraire.</l>
 	<l id="446">Loin de te soupçonner, je rends grâce au contraire</l>
 	<l id="447">À tes yeux surveillants, à tes soins assidus,</l>
 	<l id="448">Sans qui mes sens peut-être à toute heure éperdus</l>
 	<l id="449">N’auraient pu soutenir les rigueurs d’une absence...</l>
 </sp>
-<sp who="SOËSME"><speaker>SOËSME.</speaker>
+<sp who="SOËSME"><hstage><speaker>SOËSME</speaker>.</hstage>
 	<l id="450">Je sais ce qu’aux dépens souvent de l’innocence</l>
 	<l id="451">Peut soupçonner un cœur trop plein de son amour ;</l>
 	<l id="452">Quels mouvements divers l’agitent tour à tour ;</l>
@@ -755,15 +755,15 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="455">Mais que dis-je ? Seigneur, un Héros tel que vous</l>
 	<l id="456">Se livre rarement à ses transports jaloux.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="457">Soësme, tu dis vrai. Je ne suis point injuste.</l>
 	<l id="458">Mais pendant le séjour que j’ai fait chez Auguste,</l>
 	<l id="459">Que faisait Mariamne ? Et de quels soins divers...</l>
 </sp>
-<sp who="SOËSME"><speaker>SOËSME.</speaker>
+<sp who="SOËSME"><hstage><speaker>SOËSME</speaker>.</hstage>
 	<l id="460">Seigneur sans cesse aux pleurs j’ai vu ses yeux ouverts.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="461">Et ce sont là ces pleurs dont l’ingrate m’opprime,</l>
 	<l id="462">Dont toujours mon amour lui devrait faire un crime.</l>
 	<l id="463">Le souvenir des siens bien plus cruels que moi</l>
@@ -777,7 +777,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="471">Au rang de ses devoirs met-elle ses mépris,</l>
 	<l id="472">Et de mes feux ardents est-ce là tout le prix ?</l>
 </sp>
-<sp who="SOËSME"><speaker>SOËSME.</speaker>
+<sp who="SOËSME"><hstage><speaker>SOËSME</speaker>.</hstage>
 	<l id="473">Vous le savez, Seigneur, sur tout ce qui vous touche,</l>
 	<l id="474">La vérité toujours a parlé par ma bouche.</l>
 	<l id="475">Du fruit de vos travaux, il est temps de jouir.</l>
@@ -795,33 +795,33 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="487">Égale sa beauté qui paraît à nos yeux,</l>
 	<l id="488">Comme aux vôtres, Seigneur, le chef d’œuvre des Cieux.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="489">Oui, je sens croître encor le beau feu qui m’enflamme.</l>
 	<l id="490">J’en croirai tes conseils, cher Soësme, et mon âme</l>
 	<l id="491">Va sur ton amitié fonder tout son bonheur.</l>
 	<l id="492" part="i">Entrons. Mais quelqu’un vient.</l>
 </sp>
-<sp who="SOËSME"><speaker>SOËSME.</speaker>
+<sp who="SOËSME"><hstage><speaker>SOËSME</speaker>.</hstage>
 	<l id="492" part="f">C’est la Reine, Seigneur.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Hérode, Mariamne, Alexandre, Soësme, Phoedime. Suite de Mariamne.</head>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Hérode, Mariamne, Alexandre, Soësme, Phoedime. Suite de Mariamne.</cast>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="493">Ciel, qui la viens d’orner d’une grâce nouvelle</l>
 	<l id="494">Inspire-lui pour moi ce que je sens pour elle !</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="495">Quelle affreuse contrainte ? Et que veut-on de moi ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="496">Divine Mariamne, est-ce vous que je vois ?</l>
 	<l id="497">Craignez-vous ma présence ? Ô Ciel ! Le puis-je croire ?</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="498">Jouissez à loisir, Seigneur, de votre gloire,</l>
 	<l id="499">Des dépouilles d’Antoine, et laissez-moi mes pleurs.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="500">Ah ! Que vous me percez de mortelles douleurs !</l>
 	<l id="501">Mais la plainte sied mal, lorsque après tant d’alarmes,</l>
 	<l id="502">À mes désirs brûlants le Ciel rend tous vos charmes,</l>
@@ -830,14 +830,14 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="505">Peut-être à mon Fils seul je dois votre présence.</l>
 	<l id="506">Je vous sais gré pourtant de cette complaisance.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="507">Que parlez-vous de plainte ? Et sur quoi fondez-vous</l>
 	<l id="508">Seigneur, ce dernier trait d’un injuste courroux ?</l>
 	<l id="509">Est-ce que sous vos lois comme une autre rangée,</l>
 	<l id="510">À toute heure, en tous lieux, de témoins assiégée,</l>
 	<l id="511">De vos ordres pressants j’ai voulu m’affranchir ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="512">Hé quoi ! Votre courroux ne peut-il se fléchir ?</l>
 	<l id="513">Quand la gloire m’élève au-dessus de l’envie,</l>
 	<l id="514">Quel chagrin domestique empoisonne ma vie ?</l>
@@ -857,7 +857,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="528">Mes yeux vous cherchent seule et ne vous trouvent pas.</l>
 	<l id="529" part="i">Le retour d’un époux...</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="529" part="f">Je vois avec surprise</l>
 	<l id="530">Dans quel reproche ici votre cœur s’autorise.</l>
 	<l id="531">Quelques avis du moins devaient me préparer</l>
@@ -874,11 +874,11 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="542">Je ne sais tout à coup quelle douleur me presse.</l>
 	<l id="543">Daignez me pardonner ces tristes mouvements.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="544">Et moi, vous me livrez aux plus cruels tourments.</l>
 	<l id="545">Israël m’est témoin et l’Éternel lui-même...</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="546">Gardez-vous d’attester sa puissance suprême,</l>
 	<l id="547">Ces augustes serments ne vous sont plus permis,</l>
 	<l id="548">Quand par vous à César des Autels sont promis.</l>
@@ -888,22 +888,22 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="552">Mais craignez d’éprouver un châtiment soudain.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Hérode, Alexandre.</head>
-<sp who="HÉRODE"><speaker>HÉRODE, retient Alexandre qui suit Mariamne.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Hérode, Alexandre.</cast>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>, retient Alexandre qui suit Mariamne.</hstage>
 	<l id="553">Vous voyez jusqu’où va l’aigreur de votre Mère.</l>
 	<l id="554">Mais je puis la calmer, ou du moins je l’espère,</l>
 	<l id="555">Si mon amour pour vous se trouve au mien pareil.</l>
 	<l id="556">Alcime par mon ordre assemble le Conseil.</l>
 	<l id="557">Pour la première fois venez y prendre place.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="558">Seigneur, je sens le prix d’une pareille grâce,</l>
 	<l id="559">Et quand vous voudrez bien vous-même m’enseigner</l>
 	<l id="560">Ce grand art que le Ciel vous donna pour régner,</l>
 	<l id="561">Jeune encor au Conseil, et sans expérience</l>
 	<l id="562">J’espère m’y montrer digne de ma naissance.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="563">J’y dois délibérer sur de grands intérêts,</l>
 	<l id="564">Et vos yeux vont s’ouvrir à d’augustes secrets,</l>
 	<l id="565">Dont la seule importance est un frein pour se taire.</l>
@@ -926,26 +926,26 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="582">Remet à d’autres temps à s’ouvrir davantage.</l>
 	<l id="583">Sur les divers partis, sur les sages soupçons...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="584">Vos exemples, Seigneur, abrègent les leçons.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="585" part="i">Allez voir votre Mère.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Hérode, Salomé.</head>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>Hérode, Salomé.</cast>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="585" part="f">Hé quoi déjà votre âme,</l>
 	<l id="586" part="i">Seigneur, d’un nouveau trouble...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="586" part="f">Ah ! Bien plutôt, Madame,</l>
 	<l id="587">Dites qu’un ennemi couvert et soupçonneux</l>
 	<l id="588">D’une sainte amitié cherche à rompre les nœuds ;</l>
 	<l id="589">Que contre Mariamne une cruelle envie</l>
 	<l id="590">M’ôte avec son amour le repos de ma vie.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="591">Ah ! Reconnaissez mieux cet ennemi, Seigneur,</l>
 	<l id="592">Et ne le cherchez point ailleurs qu’en votre cœur.</l>
 	<l id="593">Souffrez ma liberté, c’est de votre faiblesse</l>
@@ -955,13 +955,13 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="597">Pour vaincre ses dédains, et la fléchir peut-être,</l>
 	<l id="598">Dans un Époux haï, faites-lui voir un maître.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="599">Ah ! Gardez-vous vous-même ici de m’offenser,</l>
 	<l id="600">De tous ses sentiments vous devez mieux penser.</l>
 	<l id="601">Loin de la soupçonner d’aucune injuste haine,</l>
 	<l id="602">J’impute à sa vertu cet orgueil qui l’entraîne.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="603">Avec tant de vertu, dans leur injuste cours,</l>
 	<l id="604">Seigneur, j’ignore l’art d’accorder ses discours.</l>
 	<l id="605">Elle devrait du moins plus humble en ses misères</l>
@@ -969,7 +969,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="607">De lâche Usurpateur, de Tyran odieux</l>
 	<l id="608">Qui n’a connu qu’Antoine, et César pour ses Dieux.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="609">Je le sais bien, ma sœur, elle est trop indiscrète ;</l>
 	<l id="610">Mais de mon cœur aussi la justice secrète</l>
 	<l id="611">Lui souffrant ces discours un peu hors de saison,</l>
@@ -983,7 +983,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="619">Mais le vôtre est injuste, et son illustre sang</l>
 	<l id="620">Exige qu’avec vous elle garde son rang.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="621">Je le vois bien, Seigneur, quoi qu’elle ose entreprendre,</l>
 	<l id="622">Il est temps de me taire, et c’est à moi d’apprendre</l>
 	<l id="623">À souffrir ses mépris désormais trop certains ;</l>
@@ -991,7 +991,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="625">Que ses cris soutenus des droits de sa naissance</l>
 	<l id="626">Sur un Peuple volage auront peu de puissance</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="627">Rien n’est ici, Madame, à redouter pour nous,</l>
 	<l id="628">Trop heureux ! Si je puis apaiser son courroux !</l>
 	<l id="629">Si je la crains, ce n’est que parce que je l’aime,</l>
@@ -1003,7 +1003,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="SOËSME"><speaker>SOËSME, seul.</speaker>
+<sp who="SOËSME"><hstage><speaker>SOËSME</speaker>, seul.</hstage>
 	<l id="633">Du secret entretien que Salome désire</l>
 	<l id="634">Quel serait le motif ? Et qu’a-t-elle à me dire ?</l>
 	<l id="635">J’attends sa confidence, et prévois ses discours,</l>
@@ -1024,24 +1024,24 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="650">Mais on entre, voici sa cruelle ennemie.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Salome, Soësme.</head>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Salome, Soësme.</cast>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="651">Avant que le Conseil soit prêt à s’assembler,</l>
 	<l id="652">J’ai cru devoir Soësme, in moment vous parler.</l>
 </sp>
-<sp who="SOËSME"><speaker>SOËSME.</speaker>
+<sp who="SOËSME"><hstage><speaker>SOËSME</speaker>.</hstage>
 	<l id="653">Madame, attendez tout d’un zèle légitime.</l>
 	<l id="654" part="i">Que puis-je...</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="654" part="f">Vous savez combien je vous estime,</l>
 	<l id="655">De quels secours partout appuyant votre espoir...</l>
 </sp>
-<sp who="SOËSME"><speaker>SOËSME.</speaker>
+<sp who="SOËSME"><hstage><speaker>SOËSME</speaker>.</hstage>
 	<l id="656">Trop heureux, si toujours fidèle à mon devoir</l>
 	<l id="657">Je n’ai point écarté les bontés de Salome !</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="658">Je m’en plaindrais à tort. Et lorsque Auguste et Rome</l>
 	<l id="659">S’empressent pour Hérode et d’une égale ardeur</l>
 	<l id="660">Viennent sur tant d’États d’élever sa grandeur ;</l>
@@ -1050,12 +1050,12 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="663">Et que dans votre sein du même zèle épris</l>
 	<l id="664">Sa main de sa faveur va recueillir le prix ?</l>
 </sp>
-<sp who="SOËSME"><speaker>SOËSME.</speaker>
+<sp who="SOËSME"><hstage><speaker>SOËSME</speaker>.</hstage>
 	<l id="665">Je dois vous l’avouer, ce discours m’embarrasse,</l>
 	<l id="666">Madame, il me surprend, et d’où partent, de grâce,</l>
 	<l id="667">Ce doute injurieux, et ces soupçons couverts ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="668">Oui, Soësme, sur vous tous les yeux sont ouverts.</l>
 	<l id="669">Le Roi, vous confia la garde de la Reine,</l>
 	<l id="670">Son retour en ces lieux n’a-t-il rien qui vous gêne ?</l>
@@ -1067,7 +1067,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="676">Dans l’absence d’Hérode elle a pu tout oser.</l>
 	<l id="677">Elle l’a cru perdu. La Cour trop mal instruite...</l>
 </sp>
-<sp who="SOËSME"><speaker>SOËSME.</speaker>
+<sp who="SOËSME"><hstage><speaker>SOËSME</speaker>.</hstage>
 	<l id="678">Je ne rends qu’au Roi seul compte de ma conduite,</l>
 	<l id="679">Madame, et sans sortir d’un devoir rigoureux,</l>
 	<l id="680">Je ne sais point trahir d’illustres malheureux.</l>
@@ -1084,7 +1084,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="691">Avoir le plein succès qu’il en faut souhaiter,</l>
 	<l id="692">Et qu’au prix de mes jours je voudrais acheter !</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="693">Ce zèle doit trouver son prix. Le Ciel est juste,</l>
 	<l id="694">Il vient de prononcer par la bouche d’Auguste.</l>
 	<l id="695">Vous le savez... Enfin j’ignore quels projets</l>
@@ -1097,7 +1097,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="702">Profitez de l’avis que Salome vous donne.</l>
 	<l id="703">On ouvre. C’est Tharès que j’avais demandé.</l>
 </sp>
-<sp who="SOËSME"><speaker>SOËSME.</speaker>
+<sp who="SOËSME"><hstage><speaker>SOËSME</speaker>.</hstage>
 	<l id="704">Déjà sur son parti Soësme a décidé.</l>
 	<l id="705">Qui connaît ses devoirs, les suit sans violence.</l>
 	<l id="706">L’honneur, les sentiments emportent la balance.</l>
@@ -1106,18 +1106,18 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 <stage>Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Salome, Tharès.</head>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Salome, Tharès.</cast>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="709">Il suffit, j’entrevois l’intérêt qui l’entraîne,</l>
 	<l id="710" part="i">Et c’est à moi...</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="710" part="f">Je viens de parler à la Reine</l>
 	<l id="711">Et mandé par son ordre avec empressement,</l>
 	<l id="712">Phoedime m’a conduit à son appartement.</l>
 	<l id="713">Devant la Reine en pleurs tout gardait le silence.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="714">Je viens d’en être instruite, et sais votre audience :</l>
 	<l id="715">Je rends grâce à vos soins par qui sont écartés</l>
 	<l id="716">Les soupçons que sur moi Mariamne a jetés.</l>
@@ -1126,15 +1126,15 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="719">Ait même négligé de la faire avertir</l>
 	<l id="720">De sa grâce, et du temps qu’il a voulu partir.</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="721">Je vois comment instruite, au gré de son envie,</l>
 	<l id="722">Salome est en ces lieux fidèlement servie.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="723">De ce même entretien j’attends bientôt le fruit,</l>
 	<l id="724">Et le Ciel chez la Reine exprès vous a conduit.</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="725">Enfin j’ai cru devoir lui faire un rapport juste</l>
 	<l id="726">Des titres, des honneurs accordés chez Auguste,</l>
 	<l id="727">Du bruit même qu’y fait sa beauté, sa vertu ;</l>
@@ -1145,7 +1145,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="732">Peut-être un regard seul va tromper nos efforts,</l>
 	<l id="733">Peut-être nos projets par un retour funeste...</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="734">Servez-les seulement, je me charge du reste.</l>
 	<l id="735">Quelque ardeur que pour elle Hérode ait dans le sein,</l>
 	<l id="736">C’est même sa beauté qui sert notre dessein.</l>
@@ -1156,14 +1156,14 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="741">L’Amour seul est l’auteur du tourment qui l’accable ;</l>
 	<l id="742">Mais vous d’un grand effort vous sentez-vous capable ?</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="743">Et quel courage ici ne serait excité</l>
 	<l id="744">Par l’hymen glorieux dont vous m’avez flatté ?</l>
 	<l id="745">Quand pour prix de mes soins votre main m’est offerte,</l>
 	<l id="746">Madame, en périssant je bénirai ma perte ;</l>
 	<l id="747">Et dans le noble espoir dont je suis prévenu...</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="748">Au Trône de plus loin Hérode est parvenu.</l>
 	<l id="749">C’est vous en dire assez, le reste il le faut taire.</l>
 	<l id="750">De mon dessein bientôt vous saurez le mystère.</l>
@@ -1171,11 +1171,11 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="752">De sublimes honneurs à César décernés...</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Salomé, Élise.</head>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Salomé, Élise.</cast>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="753" part="i">Hé bien Élise ?</l>
 </sp>
-<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+<sp who="ÉLISE"><hstage><speaker>ÉLISE</speaker>.</hstage>
 	<l id="753" part="f">Hérode est entré chez la Reine,</l>
 	<l id="754">Il était attendu. Je n’ai percé qu’à peine</l>
 	<l id="755">Ces flots de Courtisans à ses pas attachés,</l>
@@ -1189,13 +1189,13 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="763">Et que ce sentiment qui n’a rien de suspect</l>
 	<l id="764">Sur le sang de Juda tient Hérode en respect.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="765">J’ai peine à croire entre eux autant d’intelligence.</l>
 </sp>
-<sp who="ÉLISE"><speaker>ÉLISE.</speaker>
+<sp who="ÉLISE"><hstage><speaker>ÉLISE</speaker>.</hstage>
 	<l id="766">Contre elle suspendez du moins votre vengeance.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="767">Sa fierté jusques là n’a pu se démentir,</l>
 	<l id="768">Et sa haine s’accroît loin de se ralentir.</l>
 	<l id="769">Le dépit et l’effroi contre lui tout s’assemble :</l>
@@ -1205,17 +1205,17 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="773">Et toujours dépendant d’une vertu farouche</l>
 	<l id="774">Ne suit que son chagrin ou l’orgueil qui la touche.</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="775">Son Fils vient, avec lui je vous laisse en ces lieux,</l>
 	<l id="776">Ma présence sans doute y blesserait ses yeux.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="777">J’attends ici le Roi, s’il faut que par sa flamme</l>
 	<l id="778" part="i">Mes projets traversés...</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Alexandre, Salomé.</head>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Alexandre, Salomé.</cast>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="778" part="f">Je vous cherchais, Madame.</l>
 	<l id="779">Tout va changer de face, et calmant son courroux,</l>
 	<l id="780">Le Ciel semble répondre à mes vœux les plus doux.</l>
@@ -1226,7 +1226,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="785">Et me montrant un cœur sensible à mes alarmes</l>
 	<l id="786">M’a tenu dans ses bras tout baigné de ses larmes.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="787">D’un pareil changement mon cœur n’est point surpris.</l>
 	<l id="788">Les vertus de la Reine ont retrouvé leur prix.</l>
 	<l id="789">Le Roi, quoi qu’il soupçonne, est sûr de sa tendresse.</l>
@@ -1234,7 +1234,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="791">En vous montrant par là digne d’elle et de lui</l>
 	<l id="792">De leur réunion vous devenez l’appui.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="793">Madame ; ce discours qui me flatte et me touche</l>
 	<l id="794">À tous vos ennemis devrait fermer la bouche ;</l>
 	<l id="795">Vous seule dans ces lieux, si j’en crois leur rapport,</l>
@@ -1248,7 +1248,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="803">Si la discorde encor souffle ici son poison,</l>
 	<l id="804">Je ne dois qu’à vous seule en demander raison.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="805">Prince, j’ignore encor d’où ce transport peut naître,</l>
 	<l id="806">Et Salome à ces traits doit peu se reconnaître ;</l>
 	<l id="807">Mais vous-même apprenez à mieux juger du Roi,</l>
@@ -1258,7 +1258,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="811">Croit-on qu’à ses conseils j’ose m’associer ?</l>
 	<l id="812">Mais je l’offenserais à me justifier.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="813">Je vous entends, Madame, et vois par quelle adresse</l>
 	<l id="814">Vous pourriez loin de moi détourner sa tendresse,</l>
 	<l id="815">Et malgré ses bontés exciter ses soupçons.</l>
@@ -1278,7 +1278,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="SALOMÉ"><speaker>SALOMÉ, seule.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>, seule.</hstage>
 	<l id="829">Quel fruit espères-tu d’une telle menace ?</l>
 	<l id="830">Du sang Asmonéen je trouve en toi l’audace,</l>
 	<l id="831">Crains-en tous les malheurs. Mais voyons cependant</l>
@@ -1287,24 +1287,24 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="834">Le Roi vient. Quel transport semble ici le conduire ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Hérode, Salome.</head>
-<sp who="HÉRODE"><speaker>HÉRODE entre d’un air sombre et agité, et regarde du côté de l’appartement de la Reine.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Hérode, Salome.</cast>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker> entre d’un air sombre et agité, et regarde du côté de l’appartement de la Reine.</hstage>
 	<l id="835">Oui, je dois tout permettre à mon juste courroux</l>
 	<l id="836">Pour la dernière fois, cruelle, à tes genoux</l>
 	<l id="837">Sans doute tu m’as vu. Jusqu’où son insolence</l>
 	<l id="838">A poussé ses mépris, même sa violence !</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="839">Dans quel état, Seigneur, est-ce que je vous vois ?</l>
 	<l id="840">Je ne reconnais plus vos traits, ni votre voix.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="841">Et sur quel fondement son injuste querelle ?</l>
 	<l id="842">J’arrive dans ces lieux, qu’ai-je entrepris contre elle ?</l>
 	<l id="843">S’il faut même qu’elle ait ignoré mon retour,</l>
 	<l id="844">La fortune a trahi les soins de mon amour.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="845">Hé quoi de son espoir la Cour préoccupée,</l>
 	<l id="846">Sur Mariamne ainsi se trouverait trompée !</l>
 	<l id="847">Et du Peuple en tous lieux reçus avidement</l>
@@ -1313,7 +1313,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="850">Mais, Seigneur, quel motif excite sa colère ?</l>
 	<l id="851">De quels nouveaux chagrins ses esprits irrités...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="852">Son désespoir s’aigrit par mes prospérités.</l>
 	<l id="853">Ma gloire l’inquiète, et même l’importune ;</l>
 	<l id="854">Elle me souhaitait toute une autre fortune ;</l>
@@ -1348,10 +1348,10 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="883">Peu s’en faut qu’à ses yeux terminant mes douleurs,</l>
 	<l id="884">Mon bras n’ait fait couler mon sang avec ses pleurs.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="885" part="i">Ciel ! Que me dites-vous ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="885" part="f">Ce n’est pas tout, Madame,</l>
 	<l id="886">La pitié jusques là s’emparait de mon âme ;</l>
 	<l id="887">Je n’imputais qu’à moi ce transport furieux :</l>
@@ -1367,7 +1367,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="897">Irrité, furieux, je me suis craint moi-même,</l>
 	<l id="898">Et suis sorti, ma sœur, dans ce désordre extrême.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="899">Voilà, Seigneur, l’effet d’un amour généreux</l>
 	<l id="900">Que l’excès de vos soins a rendu malheureux.</l>
 	<l id="901">La Reine à vos bontés est trop accoutumée,</l>
@@ -1378,26 +1378,26 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="906">Ou dans sa haine encor maintenue et conduite</l>
 	<l id="907">De conseils dangereux on l’ose empoisonner.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="908">Et quel des miens, Madame, ose-t-on soupçonner,</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="909">Je sais jusqu’où je vais vous étonner vous-même,</l>
 	<l id="910" part="i">Et ne puis sans regret vous nommer...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="910" part="m">Qui ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="910" part="f">Soësme.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="911" part="i">Lui !</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="911" part="f">Mon zèle pour vous ne peut rien vous farder.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="912">Gardez-vous de chercher à me persuader.</l>
 	<l id="913">Ciel ! Où me conduirait cette affreuse pensée,</l>
 	<l id="914">Ce soupçon si contraire à sa gloire passée ?</l>
@@ -1408,18 +1408,18 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="919">Je punirais bientôt ce courroux indiscret,</l>
 	<l id="920">Si moi-même arrêté par un motif secret...</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="921">Ah ! Pour vous retenir quelle cause assez juste</l>
 	<l id="922" part="i">Pourrait, Seigneur...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="922" part="m">Je crains.</l>
 <note>L’original porte comme locuteur suivant SOËSME, il s’agit évidemment de SALOMÉ. </note>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="922" part="m">Que craignez-vous ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="922" part="f">Auguste.</l>
 	<l id="923">D’une foule de maux à peine respirant,</l>
 	<l id="924">Et quand de ma clémence il s’est rendu garant,</l>
@@ -1428,7 +1428,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="927">Montrer toujours Hérode à ses regards surpris,</l>
 	<l id="928">D’un hommage forcé redemandant le prix ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="929">Daignez donc écouter des conseils salutaires.</l>
 	<l id="930">Du nouveau sacrifice achevez les mystères.</l>
 	<l id="931">Associez la Reine à vos augustes soins,</l>
@@ -1438,7 +1438,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="935">De l’honneur d’Israël, alors son cœur jaloux</l>
 	<l id="936">Va par de là vos vœux servir votre courroux.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="937">J’approuve vos conseils, ma sœur, je dois les suivre.</l>
 	<l id="938">Il faut que de ses cris enfin je me délivre.</l>
 	<l id="939">La cruelle, à ce point où je la vois venir,</l>
@@ -1452,8 +1452,8 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="947">Disposez tout vous-même, allez, ma Sœur, allez.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Hérode, Alcime.</head>
-<sp who="ALCIME"><speaker>ALCIME.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Hérode, Alcime.</cast>
+<sp who="ALCIME"><hstage><speaker>ALCIME</speaker>.</hstage>
 	<l id="948">Par votre ordre, seigneur, les Prêtres appelés</l>
 	<l id="949">Refusent hautement leurs sacrés ministères ;</l>
 	<l id="950">Traitent tous vos apprêts d’offrandes adultères,</l>
@@ -1463,7 +1463,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="954">Mais des Ministres Saints craignez la violence,</l>
 	<l id="955">Un orgueil dangereux saisit les plus abjects.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="956">Mon aspect va lui seul assurer mes projets.</l>
 	<l id="957">Quoi qu’un zèle indiscret ose encor entreprendre,</l>
 	<l id="958">Rendons tous les honneurs que j’ai promis de rendre.</l>
@@ -1473,8 +1473,8 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Salome, Tharès.</head>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Salome, Tharès.</cast>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="961">Votre prudence est grande, et dans cette entreprise</l>
 	<l id="962">Oui, Madame, je vois que tout vous favorise.</l>
 	<l id="963">L’honneur de présider à ces libations</l>
@@ -1485,7 +1485,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="968">Je sens un mouvement qui m’était inconnu.</l>
 	<l id="969">Le crime m’épouvante en se montrant si proche.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="970">Donnez moins de croyance à ce secret reproche,</l>
 	<l id="971">Tharès un vain remords lui-même se détruit ;</l>
 	<l id="972">La vertu n’est souvent qu’un nom qui nous séduit.</l>
@@ -1495,7 +1495,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="976">Quels puissants intérêts vous attachent à moi ?</l>
 	<l id="977">Que même en reculant votre chute est certaine ?</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="978">C’est en trompant le Roi qu’il faut perdre la Reine.</l>
 	<l id="979">Du feu de son amour ses yeux toujours remplis</l>
 	<l id="980">De mon cœur déguisé vont percer les replis.</l>
@@ -1506,7 +1506,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="985">Et sûr de votre main je sers votre vengeance ;</l>
 	<l id="986">Mais aidez-moi du moins, et que votre présence...</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="987">Oui, je vous soutiendrai dans un pareil effort ;</l>
 	<l id="988">Et présente en effet pendant votre rapport,</l>
 	<l id="989">Du projet jusqu’au bout conduisant le mystère,</l>
@@ -1520,16 +1520,16 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="SALOMÉ"><speaker>SALOMÉ, seule.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>, seule.</hstage>
 	<l id="997">Mais moi-même à mon tout quel mouvement me presse ?</l>
 	<l id="998">D’où vient... Ah ! Sans vouloir l’imputer à faiblesse :</l>
 	<l id="999">Un grand cœur que conduit le crime ou la vertu</l>
 	<l id="1000">Au point d’exécuter est toujours combattu.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Hérode, Salome, Suite du Roi ou Assistants au Sacrifice.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Hérode, Salome, Suite du Roi ou Assistants au Sacrifice.</cast>
 <stage>Le Théâtre s’ouvre et sur la porte du Temple qui n’est séparée du Palais d’Hérode que par un vestibule, on voit avec plusieurs drapeaux et trophées les Aigles Romaines, et dans l’enfoncement un Autel paré pour un sacrifice.</stage>
-<sp who="HÉRODE"><speaker>HÉRODE, à Salomé.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>, à Salomé.</hstage>
 	<l id="1001">Ainsi donc tout est prêt pour ce grand sacrifice.</l>
 	<l id="1002">Du Pontife sacré je prends sur moi l’office ;</l>
 	<l id="1003">Son refus m’offensait ; mais ses augustes droits</l>
@@ -1544,40 +1544,40 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="1012">Comme un augure heureux consacre ce moment,</l>
 	<l id="1013">Rende plus vive encor la splendeur immortelle.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1014" part="i">Qu’attendons-nous, Seigneur ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1014" part="f">Mariamne vient-elle ?</l>
 	<l id="1015">Sur son retardement ne puis-je être éclairci ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1016">Tharès seul vous en peut informer. Le voici.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Hérode, Salome, Tharès, Assistants.</head>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Hérode, Salome, Tharès, Assistants.</cast>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1017" part="i">Hé bien !</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="1017" part="f">À vos genoux j’apporte ici ma tête.</l>
 	<l id="1018">Punissez-moi, Seigneur, que rien ne vous arrête.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1019" part="i">Que vois-je ? Ô Ciel ! Quoi donc ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1019" part="f">Parlez ; de quels remords ?</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="1020">Ne craignez point de moi de criminels efforts.</l>
 	<l id="1021">Mais d’attenter sur vous dès qu’on me croit capable</l>
 	<l id="1022">Ce soupçon seul suffit, je suis assez coupable.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1023">Cesse de te répandre en des discours si vains.</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="1024">Vous savez quelle Fête et quels honneurs divins,</l>
 	<l id="1025">On allait célébrer pour un tribut trop juste ;</l>
 	<l id="1026">Que dans le cours pompeux d’un sacrifice auguste</l>
@@ -1592,26 +1592,26 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="1035">Dont vos lèvres à peine auraient touché le bord</l>
 	<l id="1036">Qu’un trait seul vous jetait dans les bras de la mort.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1037">Ô crime auquel le Ciel vengeur des parricides</l>
 	<l id="1038">Semblait prêter son voile et des secours perfides !</l>
 	<l id="1039">À qui dois-je imputer ce funeste dessein ?</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="1040">Son projet devait bien expirer dans son sein.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1041">Celle qui l’a tramé se découvre sans peine.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1042">Devrais-je à tant d’horreurs reconnaître la Reine ?</l>
 	<l id="1043">Est-ce donc Mariamne et mon cœur combattu ;</l>
 	<l id="1044">Pourra-t-elle accorder son crime et sa vertu ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1045">Hé ! Quel serait, Seigneur, le fruit de l’imposture ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1046">Je vous en crois, Madame, et vous faisais injure.</l>
 	<l id="1047">Voilà d’où l’Imprudente en son ressentiment</l>
 	<l id="1048">Me menaçait tantôt d’un soudain châtiment,</l>
@@ -1630,55 +1630,55 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="1060">Dût tomber sur moi son sang et son trépas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Hérode, Mariamne, Alexandre, Salome, Tharès.</head>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Hérode, Mariamne, Alexandre, Salome, Tharès.</cast>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1061">Que vois-je ? Où suis-je ? Ô Ciel ! Quelles mains sacrilèges</l>
 	<l id="1062">De l’Autel du vrai Dieu souillent les privilèges ?</l>
 	<l id="1063">L’abomination règne aux lieux les plus saints.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1064">Qu’y venez-vous chercher ? Et quels sont vos desseins ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1065">J’ai tout appris, cruelle, et le Ciel que j’atteste...</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1066" part="i">De quoi me parles-tu ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1066" part="f">De ton projet funeste.</l>
 	<l id="1067">J’ai vu dans son rapport Tharès même en pâlir.</l>
 	<l id="1068">La coupe qu’à l’Autel sa main devait remplir</l>
 	<l id="1069" part="i">D’un poison que la tienne...</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1069" part="f">Ô fureur qui m’opprime !</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1070">Votre fils règnera sans le secours du crime.</l>
 	<l id="1071">Au Trône paternel un plus noble chemin...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1072">Eh quoi ! D’un Fils encor la sacrilège main...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1073">À la Reine, Seigneur, épargnez cet outrage.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1074" part="i">Ton Fils est innocent.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1074" part="f">Il secondait ta rage.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1075">Il hait les attentats, quoique sorti de toi.</l>
 	<l id="1076">Ces flancs qui l’ont porté sont garants de sa foi,</l>
 	<l id="1077">Ainsi que tant de Rois auteurs de sa naissance.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1078">Perfide, est-ce donc là prouver ton innocence ?</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1079">De quoi que ta fureur ose se défier,</l>
 	<l id="1080">Il ne me convient point de me justifier,</l>
 	<l id="1081">Surtout lorsqu’en esclave en ces lieux amenée,</l>
@@ -1695,7 +1695,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="1091">Si la surprise a part à ton inimitié,</l>
 	<l id="1092">Roi cruel, je te dois encor quelque pitié.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1093">De quels traits à mes yeux l’orgueilleuse m’accable ?</l>
 	<l id="1094">Est-elle donc mon Juge, et suis-je le coupable ?</l>
 	<l id="1095">Quel destin est le mien ? Eh qui n’a pas appris</l>
@@ -1709,15 +1709,15 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="1103">Contre moi la discorde allumant son tison</l>
 	<l id="1104">Au sein de ma famille arme jusqu’au poison.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1105">Dis plutôt que ta main protège l’imposture.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1106">Oui, c’est trop outrager l’amour et la nature.</l>
 	<l id="1107">Reconnaissez, Seigneur, vos plus grands ennemis</l>
 	<l id="1108">Au soin de vous armer contre une épouse, un fils.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1109">Si tu v eux me prouver que tu n’es point coupable,</l>
 	<l id="1110">Et que de tant d’horreurs mon fils n’est point capable,</l>
 	<l id="1111">Contraint donc la nature, et laisse agir la loi.</l>
@@ -1725,7 +1725,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="1113">Défends-la si tu peux, l’effort est légitime.</l>
 	<l id="1114">Mais la trouvant coupable, ose punir le crime.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1115">Moi ! Que j’entre au Conseil pour la première fois</l>
 	<l id="1116">Pour l’y voir exposée au caprice des lois ?</l>
 	<l id="1117">Pour voir ainsi souiller d’une tache éternelle</l>
@@ -1740,11 +1740,11 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="1126">La vérité bientôt percera le nuage,</l>
 	<l id="1127">Et dans tous les espoirs portant un trait vainqueur...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1128">Hé bien si cet espoir luit encor dans ton cœur,</l>
 	<l id="1129">Viens. Suis-moi, que crains-tu du Conseil qui s’assemble ?</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1130">J’irai pour la défendre, et le venger ensemble ;</l>
 	<l id="1131">Pour punir l’imposture, et sans crainte à vos yeux</l>
 	<l id="1132">J’irai faire parler le sang de ses aïeux.</l>
@@ -1762,38 +1762,38 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="1143">Madame, leur Conseil n’est qu’un complot affreux ;</l>
 	<l id="1144">S’ils condamnent leur Reine, ils prononcent contre eux.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1145">Traître ! Je reconnais ton crime à ton audace.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1146">Vous vous perdez, mon Fils ! Ô comble de disgrâce !</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1147">Tu n’en n’est pas encor, perfide, où tu prétends,</l>
 	<l id="1148" part="i">Et bientôt contre toi mon ordre...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 <stage>Il sort.</stage>
 	<l id="1148" part="f">Je l’attends.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1149" part="i">Téméraire !</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1149" part="f">Seigneur cet éclat vous regarde.</l>
 	<l id="1150" part="i">Vous l’entendez.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE, à Soësme.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>, à Soësme.</hstage>
 	<l id="1150" part="f">Je mets la Reine sous ta garde,</l>
 	<l id="1151">Quelque soupçon qu’on m’ait donné contre ta foi,</l>
 	<l id="1152">Soësme, j’ose encor m’en reposer sur toi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Mariamne, Soësme.</head>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Mariamne, Soësme.</cast>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1153">Ainsi ce nouvel ordre est remis à Soësme ?</l>
 </sp>
-<sp who="SOËSME"><speaker>SOËSME.</speaker>
+<sp who="SOËSME"><hstage><speaker>SOËSME</speaker>.</hstage>
 	<l id="1154">Et je l’accepte aussi pour vous rendre à vous-même.</l>
 	<l id="1155">Seul je vous ai perdue, et mon zèle indiscret</l>
 	<l id="1156">N’a pu vous dérober un dangereux secret.</l>
@@ -1813,7 +1813,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="1170">De ce premier péril une fois garantie,</l>
 	<l id="1171">À votre sûreté partout je puis pourvoir.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1172">Obéissez au Roi ; c’est là votre devoir,</l>
 	<l id="1173">Soësme, et ne chargeant que moi de ma défense,</l>
 	<l id="1174">Abandonnez un soin dont ma vertu s’offense.</l>
@@ -1823,19 +1823,19 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="1178" part="i">Et s’il se peut du moins...</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Mariamne, Soësme, Phoedime.</head>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Mariamne, Soësme, Phoedime.</cast>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1178" part="f">Ah ! Que viens-tu m’apprendre ?</l>
 	<l id="1179">Parle, que fait mon Fils ? Je ne crains que pour lui.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1180">Tout un Peuple en fureur le prend sous son appui,</l>
 	<l id="1181">Reste de tant de Rois qu’en lui chacun contemple.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1182" part="i">Hé que prétendent-ils ?</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1182" part="f">Ils le mènent au Temple.</l>
 	<l id="1183">Et sans doute, Madame, aux pieds de l’Éternel</l>
 	<l id="1184">Vont se lier entre eux d’un serment solennel</l>
@@ -1845,12 +1845,12 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="1188">Vont rejeter l’effroi parmi vos ennemis.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Mariamne, Salome, Soësme, Phoedime, Alcime.</head>
-<sp who="ALCIME"><speaker>ALCIME.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Mariamne, Salome, Soësme, Phoedime, Alcime.</cast>
+<sp who="ALCIME"><hstage><speaker>ALCIME</speaker>.</hstage>
 	<l id="1189">J’exécute à regret ce que l’on me commande ;</l>
 	<l id="1190">Le Roi veut vous entendre et le Conseil vous mande.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1191">Hé bien j’y vais montrer la fille de vos Rois,</l>
 	<l id="1192">L’héritière du Sceptre. Instruite de mes droits</l>
 	<l id="1193">Dans quelque extrémité que le sort m’est réduite,</l>
@@ -1865,16 +1865,16 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Mariamne, Alcime.</head>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Mariamne, Alcime.</cast>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1201">À quelle épreuve encor prétend-t-on me réduire ?</l>
 </sp>
-<sp who="ALCIME"><speaker>ALCIME.</speaker>
+<sp who="ALCIME"><hstage><speaker>ALCIME</speaker>.</hstage>
 	<l id="1202">Madame, c’est ici que je dois vous conduire,</l>
 	<l id="1203">J’en ai reçu moi-même un ordre exprès du Roi.</l>
 	<l id="1204">J’obéis. Tout le reste est un secret pour moi.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1205">À prolonger mes maux, quelle haine obstinée</l>
 	<l id="1206">Suspend encor la mort où l’on m’a condamnée ?</l>
 	<l id="1207">Pardonne-moi, Grand Dieu ! Seul Juge souverain,</l>
@@ -1887,8 +1887,8 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="1214">Va descendre du Trône, et faire place au crime.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Mariamne, Alexandre, Alcime.</head>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Mariamne, Alexandre, Alcime.</cast>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1215">En vain de votre mort on dresse les apprêts.</l>
 	<l id="1216">Pour défendre vos jours nos amis sont tout prêts,</l>
 	<l id="1217">Venez ; espérez tout de leur vaillante escorte.</l>
@@ -1896,7 +1896,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="1219">Et de vos ennemis jusqu’ici triomphants</l>
 	<l id="1220" part="i">Je saurai réprimer...</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1220" part="f">Non, je vous le défends.</l>
 	<l id="1221">Profitez seulement, mon Fils, de ma disgrâce,</l>
 	<l id="1222">Songez à prévenir le coup qui vous menace.</l>
@@ -1915,35 +1915,35 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="1235">Vous coûte les horreurs qu’il entraîne après soi,</l>
 	<l id="1236">Vivez digne de lui, mais mourez comme moi.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1237">Ah ! Puisque jusques là mon sort vous intéresse,</l>
 	<l id="1238">Madame, suivez-moi, le temps, le péril presse.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1239">Ah ! Craignez pour vous-même un dangereux effort.</l>
 	<l id="1240">Si l’on peut vous sauver, ce n’est que par ma mort.</l>
 	<l id="1241">Mon sang seul peut du Roi calmer la violence.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Mariamne, Alexandre, Achas.</head>
-<sp who="ACHAS"><speaker>ACHAS.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Mariamne, Alexandre, Achas.</cast>
+<sp who="ACHAS"><hstage><speaker>ACHAS</speaker>.</hstage>
 	<l id="1242">Ah ! Prince, sauvez-vous, le roi par sa présence</l>
 	<l id="1243">A dissipé les flots des Peules mutinés,</l>
 	<l id="1244">Et déjà contre vous ses ordres sont donnés,</l>
 	<l id="1245">Il s’avance en ces lieu, et prêt à tout enfreindre...</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1246">Dans les bras de la mort, Ciel ! Faut-il encor craindre ?</l>
 	<l id="1247" part="i">Fuyez, mon Fils.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1247" part="f">Moi, fuir ! Je bénis son courroux.</l>
 	<l id="1248">Je ne puis vous venger ; mais je meurs avec vous.</l>
 	<l id="1249" part="i">Apprenons toutefois comment...</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Hérode, Mariamne, Alexandre, Alcime, Achas.</head>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Hérode, Mariamne, Alexandre, Alcime, Achas.</cast>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1249" part="f">Perfide, arrête.</l>
 	<l id="1250">Les mutins sont calmés. Mais tremble pour ta tête,</l>
 	<l id="1251">Et crois que du Conseil les avis réunis,</l>
@@ -1951,7 +1951,7 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="1253">Un égal châtiment juste autant que funeste,</l>
 	<l id="1254">Du sang Asmonéen va perdre ce qui reste.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1255">Jouissez en effet d’un si noble courroux,</l>
 	<l id="1256">Et perdez tous les noms, et de père et d’époux :</l>
 	<l id="1257">Je vois que dépouillant une pitié secrète,</l>
@@ -1963,10 +1963,10 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="1263">Hâte-toi. Mais apprends, que malgré ton courroux</l>
 	<l id="1264">Tu n’es en sûreté peut-être qu’entre nous.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1265" part="i">Ciel ! Qu’entends-je ?</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1265" part="f">Arme-toi d’un cœur inexorable,</l>
 	<l id="1266">Ta main en me perdant me devient secourable.</l>
 	<l id="1267">Plus ta rigueur s’accroît, et plus je la bénis</l>
@@ -1987,23 +1987,23 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="1282">Et daigne à la nature accorder quelques larmes,</l>
 	<l id="1283">Faibles soulagements d’une injuste rigueur.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1284">Quels transports tout à coup s’élèvent dans mon cœur !</l>
 	<l id="1285">Ô Ciel ! Des pleurs si chers y rallument la flamme.</l>
 	<l id="1286" part="i">Embrassez-moi, mon Fils, et laissez-nous.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Hérode, Mariamne.</head>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Hérode, Mariamne.</cast>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1286" part="f">Madame,</l>
 	<l id="1287">Au point de me venger expire mon courroux ;</l>
 	<l id="1288">Mais aussi reprenez des sentiments plus doux.</l>
 	<l id="1289">C’est en votre faveur que je vous en conjure.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1290">Quel garant du retour que ta bouche me jure ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1291">Contre toi la rigueur est un pesant fardeau.</l>
 	<l id="1292">Sur mes yeux la Justice avait mis son bandeau,</l>
 	<l id="1293">L’amour l’a déchiré. J’ai vu que tant de charmes</l>
@@ -2024,64 +2024,64 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="1308">Je mourrais mille fois pour te la conserver,</l>
 	<l id="1309">À tes moindres désirs la mienne est asservie.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1310">Toi, cruel ! Tu mourrais pour assurer ma vie ?</l>
 	<l id="1311">Non, non, je te connais, et quoique sans retour</l>
 	<l id="1312">Ta haine est moins à craindre encor que ton amour.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1313">Ciel ! Que prétend encor ta défiance injuste ?</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1314" part="i">Perfide !</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1314" part="m">Explique-toi.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1314" part="f">Quand tu craignais qu’Auguste...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1315">Auguste... Où tend ici ce reproche indiscret ?</l>
 	<l id="1316">Ah ! J’entends. Un ingrat a trahi mon secret.</l>
 	<l id="1317" part="i">Mes malheurs sont comblés.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1317" part="f">Dans quelle erreur extrême...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1318">Que sans perdre de temps on immole Soësme...</l>
 	<l id="1319" part="i">Tout est examiné.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1319" part="f">De quel courroux épris...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1320">Je sais quel intérêt, quel espoir l’a surpris.</l>
 	<l id="1321">Il n’eût point exposé ses jours, sa renommée,</l>
 	<l id="1322">La faveur de son Roi, s’il ne t’eût point aimée ;</l>
 	<l id="1323">S’il n’eût cru que sensible à ses indignes feux,</l>
 	<l id="1324" part="i">Ta lâcheté bientôt...</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1324" part="f">Que dis-tu, malheureux ?</l>
 	<l id="1325">Ah qu’aisément un cœur dont la gloire est bannie,</l>
 	<l id="1326">Du crime sur autrui jette l’ignominie ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1327">Ton infidélité redouble ton orgueil,</l>
 	<l id="1328">Mais déjà l’un et l’autre ont creusé ton cercueil.</l>
 	<l id="1329">Et je veux qu’à ton crime on égale ta peine.</l>
 	<l id="1330">Dans son appartement, Gardes, qu’on la ramène.</l>
 </sp>
-<sp who="MARIAMNE"><speaker>MARIAMNE.</speaker>
+<sp who="MARIAMNE"><hstage><speaker>MARIAMNE</speaker>.</hstage>
 	<l id="1331">De ton aspect du moins la mort va m’affranchir.</l>
 	<l id="1332">Adieu. Garde-toi bien de te laisser fléchir.</l>
 <stage>Elle sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="HÉRODE"><speaker>HÉRODE, seul.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>, seul.</hstage>
 	<l id="1333">Qu’allais-je faire ! Ô Ciel ! Sensible à ses alarmes</l>
 	<l id="1334">Je lui pardonnais tout, je cédais à ses larmes,</l>
 	<l id="1335">Lorsque dans le transport d’un courroux indiscret</l>
@@ -2091,25 +2091,25 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="1339">Sur son perfide cœur le mien est éclairé.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Hérode, Alcime.</head>
-<sp who="ALCIME"><speaker>ALCIME.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Hérode, Alcime.</cast>
+<sp who="ALCIME"><hstage><speaker>ALCIME</speaker>.</hstage>
 	<l id="1340">Déjà dans les tourments Soësme est expiré,</l>
 	<l id="1341">Mais lui-même du Ciel attestant la puissance</l>
 	<l id="1342">De la Reine à grands cris déplorait l’innocence,</l>
 	<l id="1343">Parlait de ses vertus avec un saint respect</l>
 	<l id="1344">Et la voix de son sang vous rend Tharès suspect.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1345">Prétends-tu de leur crime attaquer l’évidence ?</l>
 </sp>
-<sp who="ALCIME"><speaker>ALCIME.</speaker>
+<sp who="ALCIME"><hstage><speaker>ALCIME</speaker>.</hstage>
 	<l id="1346">Faites agir encor cette haute prudence</l>
 	<l id="1347">Qui du cœur des mortels perçant l’obscurité,</l>
 	<l id="1348">Sous mille affreux replis trouva la vérité,</l>
 	<l id="1349">De tant de noirs complots sut découvrir la trame.</l>
 	<l id="1350">Mais le temps est pressant, seigneur, et si votre âme...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1351">Ô Ciel ! Un juste arrêt traîne-t-il après soi</l>
 	<l id="1352">Ces secrets mouvements qui me glacent d’effroi ?</l>
 	<l id="1353">Cher Alcime, va cours, prends soin de le surprendre.</l>
@@ -2118,126 +2118,126 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="1356">Et s’il faut qu’en effet... Il entre, le voici.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Hérode, Tharès.</head>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Hérode, Tharès.</cast>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1357">Si Mariamne meurt, c’est sur ton témoignage.</l>
 	<l id="1358">Ton rapport est-il vrai ? Je vois sur ton visage</l>
 	<l id="1359">Le trouble, la pâleur compagne du remords.</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="1360">Seigneur, me voilà prêt à souffrir mille morts,</l>
 	<l id="1361" part="i">Si...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1361" part="f">Prépare-toi donc aux plus cruels supplices,</l>
 	<l id="1362">Et viens dans les tourments déclarer tes complices.</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="1363">Contre un si grand courroux j’ose me rassurer,</l>
 	<l id="1364">Et de votre équité je dois tout espérer.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1365">Tu te flattes, je sens qu’injuste ou légitime</l>
 	<l id="1366" part="i">Ton supplice me va soulager.</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="1366" part="f">D’un tel crime</l>
 	<l id="1367">Moi l’auteur... Quels témoins déposent contre moi ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1368">Le sang de l’innocence élevé contre toi,</l>
 	<l id="1369" part="i">La vérité sacrée.</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="1369" part="f">Oui, du Ciel équitable</l>
 	<l id="1370" part="i">Le bras vengeur...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1370" part="m">Poursuis.</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="1370" part="f">Votre cri redoutable...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1371" part="i">Il s’égare.</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="1371" part="f">Salome... À qui j’avais promis...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1372" part="i">Parle...</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="1372" part="f">A conduit le crime, et moi je l’ai commis.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1373">La Reine est innocente ? Ô projet trop funeste !</l>
 	<l id="1374">Monstre qu’épargne à tort la colère céleste,</l>
 	<l id="1375" part="i">Crains...</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="1375" part="f">Qui t’osas trahir doit mourir sans effroi.</l>
 <stage>Il se frappe.</stage>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1376" part="i">Malheureux tu te rends Justice.</l>
 </sp>
-<sp who="THARÈS"><speaker>THARÈS.</speaker>
+<sp who="THARÈS"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="1376" part="f">Imite-moi.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1377">Ah traître à la vertu quand tu fais tant d’outrage,</l>
 	<l id="1378">Est-ce à toi de mourir avec ce grand courage ?</l>
 	<l id="1379">Qu’on l’ôte de mes yeux, et toi, perfide sœur</l>
 	<l id="1380" part="i">Tu ne jouiras pas de ton crime.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE DERNIÈRE. Hérode, Alexandre, Alcime, Achas.</head>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE DERNIÈRE.</head><cast>Hérode, Alexandre, Alcime, Achas.</cast>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1380" part="f">Ah ! Seigneur</l>
 	<l id="1381">Reprenez tout mon sang, je vous l’offre sans peine.</l>
 	<l id="1382">Ajoutez mon supplice à celui de la Reine.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1383">Où ta douleur, mon Fils, va-t-elle s’égarer ?</l>
 	<l id="1384" part="i">La Reine vit encor.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1384" part="f">Elle vient d’expirer.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1385" part="i">Mariamne n’est plus ?</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1385" part="f">Non, Seigneur, et la vie</l>
 	<l id="1386">Dans ce même Palais lui vient d’être ravie</l>
 	<l id="1387">Tandis qu’à l’échafaud qu’on venait d’élever</l>
 	<l id="1388">Tout un Peuple éperdu l’attend pour la sauver.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1389">Satisfais, tu le dois, le courroux qui t’enflamme,</l>
 	<l id="1390">Et méconnais ton Père aux fureurs de son âme.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1391">Ah ! Je sais trop sur qui doit tomber mon courroux,</l>
 	<l id="1392">Et quelque nœud sacré qui l’unisse avec vous...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1393">Frappe, tranche une vie à ta douleur offerte...</l>
 	<l id="1394" part="i">J’ai fait mourir ta Mère...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1394" part="f">Il faut venger sa perte.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1395">Venge-la sur moi seul. Au comble parvenus</l>
 	<l id="1396" part="i">Mes forfaits...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1396" part="f">De sa mort les auteurs sont connus,</l>
 	<l id="1397">Vous entendez leurs noms dans les pleurs de Solyme.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1398">Tu n’en dois qu’à moi seul imputer tout le crime.</l>
 	<l id="1399">Quel fatal ascendant m’en imposa la loi ?</l>
 	<l id="1400">Que dis-je ? C’est un crime entre le Ciel et moi,</l>
@@ -2257,18 +2257,18 @@ Salome sœur d’Hérode est une de ces femmes artificieuses et capables selon l
 	<l id="1414">Et l’opprobre passant à tes dernières races,</l>
 	<l id="1415">Ce Trône mis en poudre, et le Temple détruit...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1416">Vivez, et que bientôt la gloire qui vous fuit...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1417">Au plus grand des forfaits je ne dois point survivre,</l>
 	<l id="1418">Mariamne n’est plus, c’est à moi de la suivre.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1419">Elle vous laisse un Fils, que percent vos douleurs.</l>
 	<l id="1420">Permettez que sa main puisse essuyer vos pleurs.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1421">Crois-tu me consoler dans ma douleur amère,</l>
 	<l id="1422">Quand tu m’offres la voix et les traits de ta Mère ?</l>
 	<l id="1423">Non, rien ne peut calmer mon trouble et mon effroi,</l>

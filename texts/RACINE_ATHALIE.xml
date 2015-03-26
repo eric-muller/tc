@@ -77,8 +77,8 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Joad, Abner.</head>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Joad, Abner.</cast>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="1">Oui, je viens dans son Temple adorer l’Éternel.</l>
 	<l id="2">Je viens, selon l’usage antique et solennel,</l>
 	<l id="3">Célébrer avec vous la fameuse journée,</l>
@@ -105,10 +105,10 @@
 	<l id="23">N’achève enfin sur vous ses vengeances funestes,</l>
 	<l id="24">Et d’un respect forcé ne dépouille les restes.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="25">D’où vous vient aujourd’hui ce noir pressentiment ?</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="26">Pensez-vous être saint et juste impunément ?</l>
 	<l id="27">Dès longtemps elle hait cette fermeté rare</l>
 	<l id="28">Qui rehausse en Joad l’éclat de la tiare.</l>
@@ -146,7 +146,7 @@
 	<l id="59">Et que de Jézabel la fille sanguinaire</l>
 	<l id="60">Ne vienne attaquer Dieu jusqu’en son sanctuaire.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="61">Celui qui met un frein à la fureur des flots,</l>
 	<l id="62">Sait aussi des méchants arrêter les complots.</l>
 	<l id="63">Soumis avec respect à sa volonté sainte,</l>
@@ -181,7 +181,7 @@
 	<l id="92">Et vous viendrez alors m’immoler des victimes.</l>
 <note type="V">Variante, éd. 1691 et 1692 : v.92, « vos victimes » au lieu de « des victimes ».</note>
 </sp>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="93">Hé que puis-je au milieu de ce peuple abattu ?</l>
 	<l id="94">Benjamin est sans force, et Juda sans vertu.</l>
 	<l id="95">Le jour qui de leur roi vit éteindre la race,</l>
@@ -194,7 +194,7 @@
 	<l id="102">De merveilles sans nombre effrayer les humains.</l>
 	<l id="103">L’Arche sainte est muette, et ne rend plus d’oracles.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="104">Et quel temps fut jamais si fertile en miracles ?</l>
 	<l id="105">Quand Dieu par plus d’effets montra-t-il son pouvoir ?</l>
 	<l id="106">Auras-tu donc toujours des yeux pour ne point voir,</l>
@@ -221,7 +221,7 @@
 	<l id="127">Il sait quand il lui plaît faire éclater sa gloire,</l>
 	<l id="128">Et son peuple est toujours présent à sa mémoire.</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="129">Mais où sont ces honneurs à David tant promis,</l>
 	<l id="130">Et prédits même encore à Salomon son fils ?</l>
 	<l id="131">Hélas ! nous espérions que de leur race heureuse,</l>
@@ -231,10 +231,10 @@
 	<l id="135">Ferait cesser partout la discorde et la guerre,</l>
 	<l id="136">Et verrait à ses pieds tous les rois de la terre.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="137">Aux promesses du ciel pourquoi renoncez-vous ?</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="138">Ce roi fils de David, où le chercherons-nous ?</l>
 	<l id="139">Le ciel même peut-il réparer les ruines</l>
 	<l id="140">De cet arbre séché jusque dans ses racines ?</l>
@@ -243,10 +243,10 @@
 	<l id="143">Ah ! si dans sa fureur elle s’était trompée,</l>
 	<l id="144">Si du sang de nos rois quelque goutte échappée...</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="145" part="i">Hé bien ? Que feriez-vous ?</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="145" part="f">Ô jour heureux pour moi !</l>
 	<l id="146">De quelle ardeur j’irais reconnaître mon roi !</l>
 	<l id="147">Doutez-vous qu’à ses pieds nos tribus empressées...</l>
@@ -256,7 +256,7 @@
 	<l id="151">Par les traits de Jéhu je vis percer le père,</l>
 	<l id="152">Vous avez vu les fils massacrés par la mère.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="153">Je ne m’explique point. Mais quand l’astre du jour</l>
 	<l id="154">Aura sur l’horizon fait le tiers de son tour,</l>
 	<l id="155">Lorsque la troisième heure aux prières rappelle,</l>
@@ -266,14 +266,14 @@
 	<l id="159">Allez, pour ce grand jour il faut que je m’apprête.</l>
 	<l id="160">Et du Temple déjà l’aube blanchit le faîte.</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="161">Quel sera ce bienfait que je ne comprends pas ?</l>
 	<l id="162">L’illustre Josabet porte vers vous ses pas.</l>
 	<l id="163">Je sors, et vais me joindre à la troupe fidèle</l>
 	<l id="164">Qu’attire de ce jour la pompe solennelle.</l></sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Joad, Josabet.</head>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Joad, Josabet.</cast>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="165">Les temps sont accomplis, Princesse, il faut parler,</l>
 	<l id="166">Et votre heureux larcin ne se peut plus celer.</l>
 	<l id="167">Des ennemis de Dieu la coupable insolence</l>
@@ -291,23 +291,23 @@
 	<l id="179">Aussitôt assemblant nos lévites, nos prêtres,</l>
 	<l id="180">Je leur déclarerai l’héritier de leurs maîtres.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="181">Sait-il déjà son nom, et son noble destin ?</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="182">Il ne répond encor qu’au nom d’Éliacin,</l>
 	<l id="183">Et se croit quelque enfant rejeté par sa mère,</l>
 	<l id="184">À qui j’ai par pitié daigné servir de père.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="185">Hélas ! de quel péril je l’avais su tirer !</l>
 	<l id="186">Dans quel péril encore est-il prêt de rentrer !</l>
 <note type="V">Variante, éd. 1691 et 1692 : v.186, « il est » au lieu de « est-il ».</note>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="187">Quoi ? Déjà votre foi s’affaiblit et s’étonne ?</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="188">À vos sages conseils, Seigneur, je m’abandonne.</l>
 	<l id="189">Du jour que j’arrachai cet enfant à la mort,</l>
 	<l id="190">Je remis en vos mains tout le soin de son sort.</l>
@@ -322,25 +322,25 @@
 	<l id="199">Abner, le brave Abner viendra-t-il nous défendre ?</l>
 	<l id="200">A-t-il près de son roi fait serment de se rendre ?</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="201">Abner, quoiqu’on se pût assurer sur sa foi,</l>
 	<l id="202">Ne sait pas même encor si nous avons un roi.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="203">Mais à qui de Joas confiez-vous la garde ?</l>
 	<l id="204">Est-ce Obed ? Est-ce Amnon que cet honneur regarde ?</l>
 	<l id="205">De mon père sur eux les bienfaits répandus...</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="206">À l’injuste Athalie ils se sont tous vendus.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="207">Qui donc opposez-vous contre ses satellites ?</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="208">Ne vous l’ai-je pas dit ? Nos prêtres, nos lévites.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="209">Je sais que près de vous en secret assemblé</l>
 <note type="V">Variante, éd. 1691 et 1692 : v.92, « rassemblé » au lieu de « assemblé ».</note>
 	<l id="210">Par vos soins prévoyants leur nombre est redoublé ;</l>
@@ -360,7 +360,7 @@
 	<l id="224">Et n’ont jamais versé que le sang des victimes ?</l>
 	<l id="225">Peut-être dans leurs bras Joas percé de coups...</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="226">Et comptez-vous pour rien Dieu qui combat pour nous ?</l>
 	<l id="227">Dieu, qui de l’orphelin protège l’innocence,</l>
 	<l id="228">Et fait dans la faiblesse éclater sa puissance ;</l>
@@ -371,7 +371,7 @@
 	<l id="233">Dieu, dont le bras vengeur, pour un temps suspendu,</l>
 	<l id="234">Sur cette race impie est toujours étendu.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="235">Et c’est sur tous ces rois sa justice sévère,</l>
 	<l id="236">Que je crains pour le fils de mon malheureux frère.</l>
 	<l id="237">Qui sait si cet enfant par leur crime entraîné,</l>
@@ -403,7 +403,7 @@
 	<l id="263">Conserve l’héritier de tes saintes promesses,</l>
 	<l id="264">Et ne punis que moi de toutes mes faiblesses.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="265">Vos larmes, Josabet, n’ont rien de criminel.</l>
 	<l id="266">Mais Dieu veut qu’on espère en son soin paternel.</l>
 	<l id="267">Il ne recherche point, aveugle en sa colère,</l>
@@ -437,8 +437,8 @@
 	<l id="295">L’heure me presse. Adieu. Des plus saintes familles</l>
 	<l id="296">Votre fils et sa sœur vous amènent les filles.</l></sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Josabet, Zacharie, Salomith, Le Chœur.</head>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Josabet, Zacharie, Salomith, Le Chœur.</cast>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="297">Cher Zacharie, allez, ne vous arrêtez pas,</l>
 	<l id="298">De votre auguste père accompagnez les pas.</l>
 	<l id="299">Ô filles de Lévi, troupe jeune et fidèle,</l>
@@ -454,14 +454,14 @@
 	<l id="309">Tandis que je me vais préparer à marcher,</l>
 	<l id="310">Chantez, louez le Dieu que vous venez chercher.</l></sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Le Chœur.</head>
-<sp who="CHŒUR"><speaker>TOUT LE CHŒUR chante.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Le Chœur.</cast>
+<sp who="CHŒUR"><hstage><speaker>TOUT LE CHŒUR</speaker> chante.</hstage>
 	<l id="311">Tout l’univers est plein de sa magnificence.</l>
 	<l id="312">Qu’on l’adore, ce Dieu, qu’on l’invoque à jamais.</l>
 	<l id="313">Son empire a des temps précédé la naissance.</l>
 	<l id="314">Chantons, publions ses bienfaits.</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE VOIX, seule.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE VOIX</speaker>, seule.</hstage>
 	<l id="315">En vain l’injuste violence</l>
 	<l id="316">Au peuple qui le loue, imposerait silence,</l>
 	<l id="317">Son nom ne périra jamais.</l>
@@ -469,24 +469,24 @@
 	<l id="319">Tout l’univers est plein de sa magnificence,</l>
 	<l id="320">Chantons, publions ses bienfaits.</l>
 </sp>
-<sp who="CHŒUR"><speaker>TOUT LE CHŒUR répète.</speaker>
+<sp who="CHŒUR"><hstage><speaker>TOUT LE CHŒUR</speaker> répète.</hstage>
 	<l id="321">Tout l’univers est plein de sa magnificence.</l>
 	<l id="322">Chantons, publions ses bienfaits.</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE VOIX, seule.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE VOIX</speaker>, seule.</hstage>
 	<l id="323">Il donne aux fleurs leur aimable peinture.</l>
 	<l id="324">Il fait naître et mûrir les fruits.</l>
 	<l id="325">Il leur dispense avec mesure</l>
 	<l id="326">Et la chaleur des jours, et la fraîcheur des nuits ;</l>
 	<l id="327">Le champ qui les reçut, les rend avec usure.</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE AUTRE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE AUTRE</speaker>.</hstage>
 	<l id="328">Il commande au soleil d’animer la nature,</l>
 	<l id="329">Et la lumière est un don de ses mains.</l>
 	<l id="330">Mais sa Loi sainte, sa Loi pure</l>
 	<l id="331">Est le plus riche don qu’il ait fait aux humains.</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE AUTRE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE AUTRE</speaker>.</hstage>
 	<l id="332">Ô mont de Sinaï, conserve la mémoire</l>
 	<l id="333">De ce jour à jamais auguste et renommé,</l>
 	<l id="334">Quand sur ton sommet enflammé</l>
@@ -499,39 +499,39 @@
 	<l id="341">Sur ses antiques fondements</l>
 	<l id="342">Venait-il ébranler la terre ?</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE AUTRE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE AUTRE</speaker>.</hstage>
 	<l id="343">Il venait révéler aux enfants des Hébreux,</l>
 	<l id="344">De ses préceptes saints la lumière immortelle.</l>
 	<l id="345">Il venait à ce peuple heureux</l>
 	<l id="346">Ordonner de l’aimer d’une amour éternelle.</l>
 </sp>
-<sp who="CHŒUR"><speaker>TOUT LE CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>TOUT LE CHŒUR</speaker>.</hstage>
 	<l id="347">Ô divine, ô charmante loi !</l>
 	<l id="348">Ô justice, ô bonté suprême !</l>
 	<l id="349">Que de raisons, quelle douceur extrême</l>
 	<l id="350">D’engager à ce Dieu son amour et sa foi !</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE VOIX, seule.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE VOIX</speaker>, seule.</hstage>
 	<l id="351">D’un joug cruel il sauva nos aïeux,</l>
 	<l id="352">Les nourrit au désert d’un pain délicieux.</l>
 	<l id="353">Il nous donne ses lois, il se donne lui-même :</l>
 	<l id="354">Pour tant de biens il commande qu’on l’aime.</l>
 </sp>
-<sp who="CHŒUR"><speaker>LE CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 	<l id="355">Ô justice ! ô bonté suprême !</l>
 </sp>
-<sp who="CHŒUR"><speaker>LA MÊME VOIX.</speaker>
+<sp who="CHŒUR"><hstage><speaker>LA MÊME VOIX</speaker>.</hstage>
 	<l id="356">Des mers pour eux il entr’ouvrit les eaux,</l>
 	<l id="357">D’un aride rocher fit sortir des ruisseaux.</l>
 	<l id="358">Il nous donne ses lois, il se donne lui-même.</l>
 	<l id="359">Pour tant de biens il commande qu’on l’aime.</l>
 </sp>
-<sp who="CHŒUR"><speaker>LE CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 	<l id="360">Ô divine, ô charmante loi !</l>
 	<l id="361">Que de raisons, quelle douceur extrême,</l>
 	<l id="362">D’engager à ce Dieu son amour et sa foi !</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE AUTRE VOIX, seule.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE AUTRE</speaker> VOIX, seule.</hstage>
 	<l id="363">Vous, qui ne connaissez qu’une crainte servile,</l>
 	<l id="364">Ingrats, un Dieu si bon ne peut-il vous charmer ?</l>
 	<l id="365">Est-il donc à vos cœurs, est-il si difficile</l>
@@ -542,7 +542,7 @@
 	<l id="370">Et ne l’aimer jamais ?</l>
 <note type="V">Variante, éd. 1697 : v.369 et 370, présents uniquement dans le version de 1697.</note>
 </sp>
-<sp who="CHŒUR"><speaker>TOUT LE CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>TOUT LE CHŒUR</speaker>.</hstage>
 	<l id="371">Ô divine, ô charmante loi !</l>
 	<l id="372">Ô justice, ô bonté suprême !</l>
 	<l id="373">Que de raisons, quelle douceur extrême</l>
@@ -550,37 +550,37 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Josabet, Salomith, Le Chœur.</head>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Josabet, Salomith, Le Chœur.</cast>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="375">Mes filles, c’est assez, suspendez vos cantiques.</l>
 	<l id="376">Il est temps de nous joindre aux prières publiques.</l>
 	<l id="377">Voici notre heure. Allons célébrer ce grand jour,</l>
 	<l id="378">Et devant le Seigneur paraître à notre tour.</l></sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Zacharie, Josabet, Salomith, Le Chœur.</head>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Zacharie, Josabet, Salomith, Le Chœur.</cast>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="379">Mais que vois-je ? mon fils, quel sujet vous ramène ?</l>
 	<l id="380">Où courez-vous ainsi tout pâle et hors d’haleine ?</l>
 </sp>
-<sp who="ZACHARIE"><speaker>ZACHARIE.</speaker>
+<sp who="ZACHARIE"><hstage><speaker>ZACHARIE</speaker>.</hstage>
 	<l id="381" part="i">Ô ma mère !</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="381" part="m">Hé bien, quoi ?</l>
 </sp>
-<sp who="ZACHARIE"><speaker>ZACHARIE.</speaker>
+<sp who="ZACHARIE"><hstage><speaker>ZACHARIE</speaker>.</hstage>
 	<l id="381" part="f">Le Temple est profané.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="382" part="i">Comment ?</l>
 </sp>
-<sp who="ZACHARIE"><speaker>ZACHARIE.</speaker>
+<sp who="ZACHARIE"><hstage><speaker>ZACHARIE</speaker>.</hstage>
 	<l id="382" part="f">Et du Seigneur l’autel abandonné.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="383">Je tremble. Hâtez-vous d’éclaircir votre mère.</l>
 </sp>
-<sp who="ZACHARIE"><speaker>ZACHARIE.</speaker>
+<sp who="ZACHARIE"><hstage><speaker>ZACHARIE</speaker>.</hstage>
 	<l id="384">Déjà, selon la Loi, le grand prêtre mon père,</l>
 	<l id="385">Après avoir au Dieu qui nourrit les humains,</l>
 	<l id="386">De la moisson nouvelle offert les premiers pains,</l>
@@ -595,10 +595,10 @@
 	<l id="395">Une femme... Peut-on la nommer sans blasphème ?</l>
 	<l id="396">Une femme... C’était Athalie elle-même.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="397" part="i">Ciel !</l>
 </sp>
-<sp who="ZACHARIE"><speaker>ZACHARIE.</speaker>
+<sp who="ZACHARIE"><hstage><speaker>ZACHARIE</speaker>.</hstage>
 	<l id="397" part="f">Dans un des parvis aux hommes réservé,</l>
 	<l id="398">Cette femme superbe entre le front levé,</l>
 	<l id="399">Et se préparait même à passer les limites</l>
@@ -618,46 +618,46 @@
 	<l id="413">Ses yeux comme effrayés n’osaient se détourner.</l>
 	<l id="414">Surtout, Eliacin paraissait l’étonner.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="415">Quoi donc ? Éliacin a paru devant elle ?</l>
 </sp>
-<sp who="ZACHARIE"><speaker>ZACHARIE.</speaker>
+<sp who="ZACHARIE"><hstage><speaker>ZACHARIE</speaker>.</hstage>
 	<l id="416">Nous regardions tous deux cette reine cruelle,</l>
 	<l id="417">Et d’une égale horreur nos cœurs étaient frappés.</l>
 	<l id="418">Mais les prêtres bientôt nous ont enveloppés.</l>
 	<l id="419">On nous a fait sortir. J’ignore tout le reste,</l>
 	<l id="420">Et venais vous conter ce désordre funeste.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="421">Ah ! de nos bras sans doute elle vient l’arracher,</l>
 	<l id="422">Et c’est lui qu’à l’autel sa fureur vient chercher.</l>
 	<l id="423">Peut-être en ce moment l’objet de tant de larmes...</l>
 	<l id="424">Souviens-toi de David, Dieu, qui vois mes alarmes.</l>
 </sp>
-<sp who="SALOMITH"><speaker>SALOMITH.</speaker>
+<sp who="SALOMITH"><hstage><speaker>SALOMITH</speaker>.</hstage>
 	<l id="425">Quel est-il, cet objet des pleurs que vous versez ?</l>
 </sp>
-<sp who="ZACHARIE"><speaker>ZACHARIE.</speaker>
+<sp who="ZACHARIE"><hstage><speaker>ZACHARIE</speaker>.</hstage>
 	<l id="426">Les jours d’Éliacin seraient-ils menacés ?</l>
 </sp>
-<sp who="SALOMITH"><speaker>SALOMITH.</speaker>
+<sp who="SALOMITH"><hstage><speaker>SALOMITH</speaker>.</hstage>
 	<l id="427">Aurait-il de la reine attiré la colère ?</l>
 </sp>
-<sp who="ZACHARIE"><speaker>ZACHARIE.</speaker>
+<sp who="ZACHARIE"><hstage><speaker>ZACHARIE</speaker>.</hstage>
 	<l id="428">Que craint-on d’un enfant sans support, et sans père ?</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="429">Ah ! la voici. Sortons. Il la faut éviter.</l></sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Athalie, Agar, Abner, Suite d’Athalie.</head>
-<sp who="AGAR"><speaker>AGAR.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Athalie, Agar, Abner, Suite d’Athalie.</cast>
+<sp who="AGAR"><hstage><speaker>AGAR</speaker>.</hstage>
 	<l id="430">Madame, dans ces lieux, pourquoi vous arrêter ?</l>
 	<l id="431">Ici tous les objets vous blessent, vous irritent,</l>
 	<l id="432">Abandonnez ce temple aux prêtres qui l’habitent.</l>
 	<l id="433">Fuyez tout ce tumulte, et dans votre palais</l>
 	<l id="434">À vos sens agités venez rendre la paix.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="435">Non, je ne puis, tu vois mon trouble, et ma faiblesse.</l>
 	<l id="436">Va, fais dire à Mathan qu’il vienne, qu’il se presse.</l>
 	<l id="437">Heureuse, si je puis trouver par son secours</l>
@@ -666,8 +666,8 @@
 <stage>Elle s’assied.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Athalie, Abner, etc.</head>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Athalie, Abner, etc.</cast>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="439">Madame, pardonnez si j’ose le défendre.</l>
 	<l id="440">Le zèle de Joad n’a point dû vous surprendre.</l>
 	<l id="441">Du Dieu que nous servons, tel est l’ordre éternel.</l>
@@ -681,7 +681,7 @@
 	<l id="449">Ignorez-vous nos lois ? Et faut-il qu’aujourd’hui...</l>
 	<l id="450">Voici votre Mathan, je vous laisse avec lui.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="451">Votre présence, Abner, est ici nécessaire.</l>
 	<l id="452">Laissons là de Joad l’audace téméraire,</l>
 	<l id="453">Et tout ce vain amas de superstitions,</l>
@@ -693,15 +693,15 @@
 	<l id="459" part="i">Demeurez.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Mathan, Athalie, Abner, etc.</head>
-<sp who="MATHAN"><speaker>MATHAN.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Mathan, Athalie, Abner, etc.</cast>
+<sp who="MATHAN"><hstage><speaker>MATHAN</speaker>.</hstage>
 	<l id="459" part="f">Grande Reine, est-ce ici votre place ?</l>
 	<l id="460">Quel trouble vous agite, et quel effroi vous glace ?</l>
 	<l id="461">Parmi vos ennemis que venez-vous chercher ?</l>
 	<l id="462">De ce temple profane osez-vous approcher ?</l>
 	<l id="463">Avez-vous dépouillé cette haine si vive...</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="464">Prêtez-moi l’un et l’autre une oreille attentive.</l>
 	<l id="465">Je ne veux point ici rappeler le passé,</l>
 	<l id="466">Ni vous rendre raison du sang que j’ai versé.</l>
@@ -746,10 +746,10 @@
 	<l id="505">Des lambeaux pleins de sang, et des membres affreux,</l>
 	<l id="506">Que des chiens dévorants se disputaient entre eux.</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="507" part="i">Grand Dieu !</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="507" part="f">Dans ce désordre à mes yeux se présente</l>
 	<l id="508">Un jeune enfant couvert d’une robe éclatante,</l>
 	<l id="509">Tels qu’on voit des Hébreux les prêtres revêtus.</l>
@@ -788,19 +788,19 @@
 	<l id="542">Et sur quoi j’ai voulu tous deux vous consulter.</l>
 	<l id="543">Que présage, Mathan, ce prodige incroyable ?</l>
 </sp>
-<sp who="MATHAN"><speaker>MATHAN.</speaker>
+<sp who="MATHAN"><hstage><speaker>MATHAN</speaker>.</hstage>
 	<l id="544">Ce songe, et ce rapport, tout me semble effroyable.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="545">Mais cet enfant fatal, Abner, vous l’avez vu.</l>
 	<l id="546">Quel est-il ? De quel sang ? Et de quelle tribu ?</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="547">Deux enfants à l’autel prêtaient leur ministère.</l>
 	<l id="548">L’un est fils de Joad, Josabet est sa mère.</l>
 	<l id="549" part="i">L’autre m’est inconnu.</l>
 </sp>
-<sp who="MATHAN"><speaker>MATHAN.</speaker>
+<sp who="MATHAN"><hstage><speaker>MATHAN</speaker>.</hstage>
 	<l id="549" part="f">Pourquoi délibérer ?</l>
 	<l id="550">De tous les deux, Madame, il se faut assurer.</l>
 	<l id="551">Vous savez pour Joad mes égards, mes mesures,</l>
@@ -809,21 +809,21 @@
 	<l id="554">Mais lui-même après tout, fût-ce son propre fils,</l>
 	<l id="555">Voudrait-il un moment laisser vivre un coupable ?</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="556">De quel crime un enfant peut-il être capable ?</l>
 </sp>
-<sp who="MATHAN"><speaker>MATHAN.</speaker>
+<sp who="MATHAN"><hstage><speaker>MATHAN</speaker>.</hstage>
 	<l id="557">Le ciel nous le fait voir un poignard à la main.</l>
 	<l id="558">Le ciel est juste et sage et ne fait rien en vain.</l>
 	<l id="559" part="i">Que cherchez-vous de plus ?</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="559" part="f">Mais sur la foi d’un songe</l>
 	<l id="560">Dans le sang d’un enfant voulez-vous qu’on se plonge ?</l>
 	<l id="561">Vous ne savez encor de quel père il est né,</l>
 	<l id="562" part="i">Quel il est.</l>
 </sp>
-<sp who="MATHAN"><speaker>MATHAN.</speaker>
+<sp who="MATHAN"><hstage><speaker>MATHAN</speaker>.</hstage>
 	<l id="562" part="f">On le craint, tout est examiné.</l>
 	<l id="563">À d’illustres parents s’il doit son origine,</l>
 	<l id="564">La splendeur de son sort doit hâter sa ruine.</l>
@@ -834,7 +834,7 @@
 	<l id="569">N’allons point les gêner d’un soin embarrassant.</l>
 	<l id="570">Dès qu’on leur est suspect on n’est plus innocent.</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="571">Hé quoi, Mathan ? D’un prêtre est-ce là le langage ?</l>
 	<l id="572">Moi, nourri dans la guerre aux horreurs du carnage,</l>
 	<l id="573">Des vengeances des rois ministre rigoureux,</l>
@@ -848,17 +848,17 @@
 	<l id="581">Un songe, un faible enfant, que votre ?il prévenu</l>
 	<l id="582">Peut-être sans raison croit avoir reconnu.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="583">Je le veux croire, Abner ; je puis m’être trompée.</l>
 	<l id="584">Peut-être un songe vain m’a trop préoccupée.</l>
 	<l id="585">Hé bien ! Il faut revoir cet enfant de plus près.</l>
 	<l id="586">Il en faut à loisir examiner les traits.</l>
 	<l id="587">Qu’on les fasse tous deux paraître en ma présence.</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="588" part="i">Je crains...</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="588" part="f">Manquerait-on pour moi de complaisance ?</l>
 	<l id="589">De ce refus bizarre où seraient les raisons ?</l>
 	<l id="590">Il pourrait me jeter en d’étranges soupçons !</l>
@@ -874,8 +874,8 @@
 	<l id="600">Et ne m’irrite point par un second outrage.</l>
 	<l id="601" part="i">Allez.</l></sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Athalie, Mathan, etc.</head>
-<sp who="MATHAN"><speaker>MATHAN.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Athalie, Mathan, etc.</cast>
+<sp who="MATHAN"><hstage><speaker>MATHAN</speaker>.</hstage>
 	<l id="601" part="f">Enfin je puis parler en liberté.</l>
 	<l id="602">Je puis dans tout son jour mettre la vérité.</l>
 	<l id="603">Quelque monstre naissant dans ce temple s’élève,</l>
@@ -886,7 +886,7 @@
 	<l id="608">Substituer l’enfant dont le ciel vous menace,</l>
 	<l id="609" part="i">Soit son fils, soit quelque autre...</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="609" part="f">Oui, vous m’ouvrez les yeux.</l>
 	<l id="610">Je commence à voir clair dans cet avis des cieux.</l>
 	<l id="611">Mais je veux de mon doute être débarrassée.</l>
@@ -896,207 +896,207 @@
 	<l id="615">Vous cependant allez, et sans jeter d’alarmes,</l>
 	<l id="616">À tous mes Tyriens faites prendre les armes.</l></sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Joas, Josabet, Athalie, Zacharie, Abner, Salomith, deux Lévites, Le Chœur, etc.</head>
-<sp who="JOSABET"><speaker>JOSABET, aux deux lévites.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Joas, Josabet, Athalie, Zacharie, Abner, Salomith, deux Lévites, Le Chœur, etc.</cast>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>, aux deux lévites.</hstage>
 	<l id="617">Ô vous, sur ces enfants si chers, si précieux,</l>
 	<l id="618">Ministres du Seigneur, ayez toujours les yeux.</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER, à Josabet.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>, à Josabet.</hstage>
 	<l id="619">Princesse, assurez-vous, je les prends sous ma garde.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="620">Ô ciel ! plus j’examine et plus je le regarde,</l>
 	<l id="621">C’est lui. D’horreur encor tous mes sens sont saisis.</l>
 	<l id="622">Epouse de Joad, est-ce là votre fils ?</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="623" part="i">Qui ? Lui, Madame ?</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="623" part="m">Lui.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="623" part="f">Je ne suis point sa mère.</l>
 	<l id="624" part="i">Voilà mon fils.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="624" part="f">Et vous, quel est donc votre père ?</l>
 	<l id="625" part="i">Jeune enfant, répondez.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="625" part="f">Le ciel jusqu’aujourd’hui...</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="626">Pourquoi vous pressez-vous de répondre pour lui ?</l>
 	<l id="627" part="i">C’est à lui de parler.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="627" part="m">Dans un âge si tendre</l>
 	<l id="628">Quel éclaircissement en pouvez-vous attendre ?</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="629">Cet âge est innocent. Son ingénuité</l>
 	<l id="630">N’altère point encor la simple vérité.</l>
 	<l id="631">Laissez-le s’expliquer sur tout ce qui le touche.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET, tout bas.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>, tout bas.</hstage>
 	<l id="632">Daigne mettre, grand Dieu, ta sagesse en sa bouche.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="633" part="i">Comment vous nommez-vous ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="633" part="f">J’ai nom Éliacin.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="634" part="i">Votre père ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="634" part="f">Je suis, dit-on, un orphelin</l>
 	<l id="635">Entre les bras de Dieu jeté dès ma naissance,</l>
 	<l id="636">Et qui de mes parents n’eus jamais connaissance.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="637" part="i">Vous êtes sans parents ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="637" part="f">Ils m’ont abandonné.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="638" part="i">Comment ? Et depuis quand ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="638" part="f">Depuis que je suis né.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="639">Ne sait-on pas au moins quel pays est le vôtre ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="640">Ce Temple est mon pays, je n’en connais point d’autre.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="641">Où dit-on que le sort vous a fait rencontrer ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="642">Parmi des loups cruels prêts à me dévorer.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="643" part="i">Qui vous mit dans ce temple ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="643" part="f">Une femme inconnue,</l>
 	<l id="644">Qui ne dit point son nom, et qu’on n’a point revue.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="645">Mais de vos premiers ans quelles mains ont pris soin ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="646">Dieu laissa-t-il jamais ses enfants au besoin ?</l>
 	<l id="647">Aux petits des oiseaux il donne leur pâture,</l>
 	<l id="648">Et sa bonté s’étend sur toute la nature.</l>
 	<l id="649">Tous les jours je l’invoque, et d’un soin paternel</l>
 	<l id="650">Il me nourrit des dons offerts sur son autel.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="651">Quel prodige nouveau me trouble et m’embarrasse ?</l>
 	<l id="652">La douceur de sa voix, son enfance, sa grâce,</l>
 	<l id="653">Font insensiblement à mon inimitié</l>
 	<l id="654">Succéder... Je serais sensible à la pitié ?</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="655">Madame, voilà donc cet ennemi terrible.</l>
 	<l id="656">De vos songes menteurs l’imposture est visible,</l>
 	<l id="657">À moins que la pitié, qui semble vous troubler,</l>
 	<l id="658">Ne soit ce coup fatal qui vous faisait trembler.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE à Joas et à Josabet.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker> à Joas et à Josabet.</hstage>
 	<l id="659" part="i">Vous sortez ?</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="659" part="f">Vous avez entendu sa fortune.</l>
 	<l id="660">Sa présence à la fin pourrait être importune.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="661">Non. Revenez. Quel est tous les jours votre emploi ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="662">J’adore le Seigneur. On m’explique sa Loi.</l>
 	<l id="663">Dans son Livre divin on m’apprend à la lire,</l>
 	<l id="664">Et déjà de ma main je commence à l’écrire.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="665" part="i">Que vous dit cette loi ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="665" part="f">Que Dieu veut être aimé,</l>
 	<l id="666">Qu’il venge tôt ou tard son saint Nom blasphémé,</l>
 	<l id="667">Qu’il est le défenseur de l’orphelin timide,</l>
 	<l id="668">Qu’il résiste au superbe, et punit l’homicide.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="669">J’entends. Mais tout ce peuple enfermé en ce lieu,</l>
 	<l id="670" part="i">À quoi s’occupe-t-il ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="670" part="f">Il loue, il bénit Dieu.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="671">Dieu veut-il qu’à toute heure on prie, on le contemple ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="672">Tout profane exercice est banni de son Temple.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="673" part="i">Quels sont donc vos plaisirs ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="673" part="f">Quelquefois à l’autel</l>
 	<l id="674">Je présente au grand prêtre ou l’encens, ou le sel.</l>
 	<l id="675">J’entends chanter de Dieu les grandeurs infinies.</l>
 	<l id="676">Je vois l’ordre pompeux de ses cérémonies.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="677">Hé quoi ? Vous n’avez point de passe-temps plus doux ?</l>
 	<l id="678">Je plains le triste sort d’un enfant tel que vous.</l>
 	<l id="679">Venez dans mon palais, vous y verrez ma gloire.</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="680">Moi des bienfaits de Dieu je perdrais la mémoire ?</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="681">Non, je ne vous veux pas contraindre à l’oublier.</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="682" part="i">Vous ne le priez point.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="682" part="f">Vous pourrez le prier.</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="683">Je verrais cependant en invoquer un autre ?</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="684">J’ai mon Dieu que je sers. Vous servirez le vôtre.</l>
 	<l id="685" part="i">Ce sont deux puissants dieux.</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="685" part="f">Il faut craindre le mien,</l>
 	<l id="686">Lui seul est Dieu, Madame, et le vôtre n’est rien.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="687">Les plaisirs près de moi vous chercheront en foule.</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="688">Le bonheur des méchants comme un torrent s’écoule.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="689" part="i">Ces méchants, qui sont-ils ?</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="689" part="f">Hé, Madame ! excusez</l>
 	<l id="690" part="i">Un enfant...</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE, à Josabet.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>, à Josabet.</hstage>
 	<l id="690" part="f">J’aime à voir comme vous l’instruisez.</l>
 	<l id="691">Enfin, Éliacin, vous avez su me plaire.</l>
 	<l id="692">Vous n’êtes point sans doute un enfant ordinaire.</l>
@@ -1107,23 +1107,23 @@
 	<l id="697">À ma table, partout, à mes côtés assis,</l>
 	<l id="698">Je prétends vous traiter comme mon propre fils.</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="699" part="i">Comme votre fils ?</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="699" part="m">Oui. Vous vous taisez ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="699" part="f">Quel père</l>
 	<l id="700" part="i">Je quitterais ! Et pour...</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="700" part="m">Hé bien ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="700" part="f">Pour quelle mère ?</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE, à Josabet.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>, à Josabet.</hstage>
 	<l id="701">Sa mémoire est fidèle, et dans tout ce qu’il dit</l>
 	<l id="702">De vous et de Joad je reconnais l’esprit.</l>
 	<l id="703">Voilà comme infectant cette simple jeunesse</l>
@@ -1131,11 +1131,11 @@
 	<l id="705">Vous cultivez déjà leur haine et leur fureur.</l>
 	<l id="706">Vous ne leur prononcez mon nom qu’avec horreur.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="707">Peut-on de nos malheurs leur dérober l’histoire ?</l>
 	<l id="708">Tous l’univers les sait. Vous-même en faites gloire.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="709">Oui, ma juste fureur, et j’en fais vanité,</l>
 	<l id="710">A vengé mes parents sur ma postérité.</l>
 	<l id="711">J’aurais vu massacrer et mon père, et mon frère,</l>
@@ -1159,10 +1159,10 @@
 	<l id="729">David m’est en horreur, et les fils de ce roi</l>
 	<l id="730">Quoique nés de mon sang, sont étrangers pour moi.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="731">Tout vous a réussi ? Que Dieu voie, et nous juge.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="732">Ce Dieu depuis longtemps votre unique refuge,</l>
 	<l id="733">Que deviendra l’effet de ses prédictions ?</l>
 	<l id="734">Qu’il vous donne ce roi promis aux nations,</l>
@@ -1170,17 +1170,17 @@
 	<l id="736">Mais nous nous reverrons. Adieu, je sors contente,</l>
 	<l id="737" part="i">J’ai voulu voir, j’ai vu.</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER, à Josabet.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>, à Josabet.</hstage>
 	<l id="737" part="f">Je vous l’avais promis,</l>
 	<l id="738">Je vous rends le dépôt que vous m’avez commis.</l>
  </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Joad, Josabet, Joas, Zacharie, Abner, Salomith, Lévites, Le Chœur.</head>
-<sp who="JOSABET"><speaker>JOSABET, à Joad.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Joad, Josabet, Joas, Zacharie, Abner, Salomith, Lévites, Le Chœur.</cast>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>, à Joad.</hstage>
 	<l id="739">Avez-vous entendu cette superbe reine,</l>
 	<l id="740" part="i">Seigneur ?</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="740" part="f">J’entendais tout, et plaignais votre peine.</l>
 	<l id="741">Ces lévites et moi prêts à vous secourir</l>
 	<l id="742">Nous étions avec vous résolus de périr.</l>
@@ -1194,15 +1194,15 @@
 	<l id="749">Rentrons, et qu’un sang pur par mes mains épanché</l>
 	<l id="750">Lave jusques au marbre où ses pas ont touché.</l></sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Le Chœur.</head>
-<sp who="CHŒUR"><speaker>UNE DES FILLES DU CHŒUR.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>Le Chœur.</cast>
+<sp who="CHŒUR"><hstage><speaker>UNE DES FILLES DU CHŒUR</speaker>.</hstage>
 	<l id="751">Quel astre à nos yeux vient de luire ?</l>
 	<l id="752">Quel sera quelque jour cet enfant merveilleux ?</l>
 	<l id="753">Il brave le faste orgueilleux,</l>
 	<l id="754">Et ne se laisse point séduire</l>
 	<l id="755">À tous ses attraits périlleux.</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE AUTRE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE AUTRE</speaker>.</hstage>
 	<l id="756">Pendant que du dieu d’Athalie</l>
 	<l id="757">Chacun court encenser l’autel,</l>
 	<l id="758">Un enfant courageux publie</l>
@@ -1210,17 +1210,17 @@
 	<l id="760">Et parle comme un autre Élie</l>
 	<l id="761">Devant cette autre Jézabel.</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE AUTRE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE AUTRE</speaker>.</hstage>
 	<l id="762">Qui nous révélera ta naissance secrète,</l>
 	<l id="763">Cher enfant ? Es-tu fils de quelque saint prophète ?</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE AUTRE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE AUTRE</speaker>.</hstage>
 	<l id="764">Ainsi l’on vit l’aimable Samuel</l>
 	<l id="765">Croître à l’ombre du tabernacle.</l>
 	<l id="766">Il devint des Hébreux l’espérance et l’oracle.</l>
 	<l id="767">Puisses-tu, comme lui, consoler Israël !</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE AUTRE, chante.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE AUTRE</speaker>, chante.</hstage>
 	<l id="768">Ô bienheureux mille fois</l>
 	<l id="769">L’enfant que le Seigneur aime,</l>
 	<l id="770">Qui de bonne heure entend sa voix,</l>
@@ -1230,11 +1230,11 @@
 	<l id="774">Et du méchant l’abord contagieux</l>
 	<l id="775"> N’altère point son innocence.</l>
 </sp>
-<sp who="CHŒUR"><speaker>TOUT LE CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>TOUT LE CHŒUR</speaker>.</hstage>
 	<l id="776">Heureuse, heureuse l’enfance</l>
 	<l id="777">Que le Seigneur instruit et prend sous sa défense !</l>
 </sp>
-<sp who="CHŒUR"><speaker>LA MÊME VOIX, seule.</speaker>
+<sp who="CHŒUR"><hstage><speaker>LA MÊME VOIX</speaker>, seule.</hstage>
 	<l id="778">Tel en un secret vallon</l>
 	<l id="779">Sur le bord d’une onde pure</l>
 	<l id="780">Croît à l’abri de l’aquilon</l>
@@ -1244,11 +1244,11 @@
 	<l id="784">Et du méchant l’abord contagieux</l>
 	<l id="785"> N’altère point son innocence.</l>
 </sp>
-<sp who="CHŒUR"><speaker>TOUT LE CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>TOUT LE CHŒUR</speaker>.</hstage>
 	<l id="786">Heureux, heureux mille fois</l>
 	<l id="787">L’enfant que le Seigneur rend docile à ses lois !</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE VOIX, seule.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE VOIX</speaker>, seule.</hstage>
 	<l id="788">Mon Dieu, qu’une vertu naissante</l>
 	<l id="789">Parmi tant de périls marche à pas incertains !</l>
 	<l id="790">Qu’une âme qui te cherche, et veut être innocente,</l>
@@ -1258,7 +1258,7 @@
 	<l id="794">Les pécheurs couvrent la terre.</l>
 <note type="V">Variante, v.782-794 absents de l’édition 1691.</note>
 </sp>
-<sp who="CHŒUR"><speaker>UNE AUTRE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE AUTRE</speaker>.</hstage>
 	<l id="795">Ô palais de David, et sa chère cité,</l>
 	<l id="796">Mont fameux, que Dieu même a longtemps habité,</l>
 	<l id="797">Comment as-tu du ciel attiré la colère ?</l>
@@ -1266,12 +1266,12 @@
 	<l id="799">Une impie étrangère</l>
 	<l id="800">Assise, hélas ! au trône de tes rois ?</l>
 </sp>
-<sp who="CHŒUR"><speaker>TOUT LE CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>TOUT LE CHŒUR</speaker>.</hstage>
 	<l id="801">Sion, chère Sion, que dis-tu quand tu vois</l>
 	<l id="802">Une impie étangère</l>
 	<l id="803">Assise, hélas ! au trône de tes rois ?</l>
 </sp>
-<sp who="CHŒUR"><speaker>LA MÊME VOIX, continue.</speaker>
+<sp who="CHŒUR"><hstage><speaker>LA MÊME VOIX</speaker>, continue.</hstage>
 	<l id="804">Au lieu des cantiques charmants,</l>
 	<l id="805">Où David t’exprimait ses saints ravissements,</l>
 	<l id="806">Et bénissait son Dieu, son Seigneur, et son père ;</l>
@@ -1280,7 +1280,7 @@
 	<l id="809">Et blasphémer le nom qu’ont adoré tes rois ?</l>
 <note type="V">Variante, v.804-809 absents de l’édition 1691.</note>
 </sp>
-<sp who="CHŒUR"><speaker>UNE VOIX, seule.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE VOIX</speaker>, seule.</hstage>
 	<l id="810">Combien de temps, Seigneur, combien de temps encore</l>
 	<l id="811">Verrons-nous contre toi les méchants s’élever ?</l>
 	<l id="812">Jusque dans ton saint Temple ils viennent te braver.</l>
@@ -1288,13 +1288,13 @@
 	<l id="814">Combien de temps, Seigneur, combien de temps encore</l>
 	<l id="815">Verrons-nous contre toi les méchants s’élever ?</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE AUTRE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE AUTRE</speaker>.</hstage>
 	<l id="816">Que vous sert, disent-ils, cette vertu sauvage ?</l>
 	<l id="817">De tant de plaisirs si doux</l>
 	<l id="818">Pourquoi fuyez-vous l’usage ?</l>
 	<l id="819">Votre Dieu ne fait rien pour vous.</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE AUTRE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE AUTRE</speaker>.</hstage>
 	<l id="820">Rions, chantons, dit cette troupe impie,</l>
 	<l id="821">De fleurs en fleurs, de plaisirs en plaisirs</l>
 	<l id="822">Promenons nos désirs.</l>
@@ -1303,7 +1303,7 @@
 	<l id="825">Hâtons-nous aujourd’hui de jouir de la vie,</l>
 	<l id="826">Qui sait si nous serons demain !</l>
 </sp>
-<sp who="CHŒUR"><speaker>TOUT LE CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>TOUT LE CHŒUR</speaker>.</hstage>
 	<l id="827">Qu’ils pleurent, ô mon Dieu, qu’ils frémissent de crainte</l>
 	<l id="828">Ces malheureux, qui de ta cité sainte</l>
 	<l id="829">Ne verront point l’éternelle splendeur.</l>
@@ -1311,7 +1311,7 @@
 	<l id="831">Tes clartés immortelles,</l>
 	<l id="832">C’est à nous de chanter tes dons et ta grandeur.</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE VOIX, seule.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE VOIX</speaker>, seule.</hstage>
 	<l id="833">De tous ces vains plaisirs où leur âme se plonge,</l>
 	<l id="834">Que leur restera-t-il ? Ce qui reste d’un songe</l>
 	<l id="835">Dont on a reconnu l’erreur.</l>
@@ -1322,29 +1322,29 @@
 	<l id="840">Que tu présenteras au jour de ta fureur</l>
 	<l id="841">À toute la race coupable.</l>
 </sp>
-<sp who="CHŒUR"><speaker>TOUT LE CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>TOUT LE CHŒUR</speaker>.</hstage>
 	<l id="842">Ô réveil plein d’horreur !</l>
 	<l id="843">Ô songe peu durable !</l>
 	<l id="844">Ô dangereuse erreur !</l></sp>
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Mathan, Nabal, Le Chœur.</head>
-<sp who="MATHAN"><speaker>MATHAN.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Mathan, Nabal, Le Chœur.</cast>
+<sp who="MATHAN"><hstage><speaker>MATHAN</speaker>.</hstage>
 	<l id="845">Jeunes filles, allez. Qu’on dise à Josabet</l>
 	<l id="846">Que Mathan veut ici lui parler en secret.</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE DES FILLES DU CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE DES FILLES DU CHŒUR</speaker>.</hstage>
 	<l id="847">Mathan ! Ô Dieu du ciel, puisses-tu le confondre.</l>
 </sp>
-<sp who="NABAL"><speaker>NABAL.</speaker>
+<sp who="NABAL"><hstage><speaker>NABAL</speaker>.</hstage>
 	<l id="848">Hé quoi ? Tout se disperse et fuit sans vous répondre ?</l>
 </sp>
-<sp who="MATHAN"><speaker>MATHAN.</speaker>
+<sp who="MATHAN"><hstage><speaker>MATHAN</speaker>.</hstage>
 	<l id="849" part="i">Approchons.</l></sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Zacharie, Mathan, Nabal.</head>
-<sp who="ZACHARIE"><speaker>ZACHARIE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Zacharie, Mathan, Nabal.</cast>
+<sp who="ZACHARIE"><hstage><speaker>ZACHARIE</speaker>.</hstage>
 	<l id="849" part="f">Téméraire, où voulez-vous passer ?</l>
 	<l id="850">Au delà de ce lieu gardez-vous d’avancer.</l>
 	<l id="851">C’est des ministres saints la demeure sacrée.</l>
@@ -1354,13 +1354,13 @@
 	<l id="855">Et devant le Seigneur maintenant prosternée</l>
 	<l id="856">Ma mère en ce devoir craint d’être détournée.</l>
 </sp>
-<sp who="MATHAN"><speaker>MATHAN.</speaker>
+<sp who="MATHAN"><hstage><speaker>MATHAN</speaker>.</hstage>
 	<l id="857">Mon fils, nous attendrons, cessez de vous troubler.</l>
 	<l id="858">C’est votre illustre mère à qui je veux parler.</l>
 	<l id="859">Je viens ici chargé d’un ordre de la reine.</l></sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Mathan, Nabal.</head>
-<sp who="NABAL"><speaker>NABAL.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Mathan, Nabal.</cast>
+<sp who="NABAL"><hstage><speaker>NABAL</speaker>.</hstage>
 	<l id="860">Leurs enfants ont déjà leur audace hautaine.</l>
 	<l id="861">Mais que veut Athalie en cette occasion ?</l>
 	<l id="862">D’où naît dans ses conseils cette confusion ?</l>
@@ -1372,7 +1372,7 @@
 	<l id="868">Et j’espérais ma part d’une si riche proie.</l>
 	<l id="869">Qui fait changer ainsi ses vœux irrésolus ?</l>
 </sp>
-<sp who="MATHAN"><speaker>MATHAN.</speaker>
+<sp who="MATHAN"><hstage><speaker>MATHAN</speaker>.</hstage>
 	<l id="870">Ami, depuis deux jours je ne la connais plus.</l>
 	<l id="871">Ce n’est plus cette reine éclairée, intrépide,</l>
 	<l id="872">Élevée au-dessus de son sexe timide,</l>
@@ -1405,12 +1405,12 @@
 	<l id="899">Rien ne peut de leur temple empêcher le ravage,</l>
 	<l id="900">Si je n’ai de leur foi cet enfant pour otage. »</l>
 </sp>
-<sp who="NABAL"><speaker>NABAL.</speaker>
+<sp who="NABAL"><hstage><speaker>NABAL</speaker>.</hstage>
 	<l id="901">Hé bien ! Pour un enfant qu’ils ne connaissent pas,</l>
 	<l id="902">Que le hasard peut-être a jeté dans leurs bras,</l>
 	<l id="903">Voudront-ils que leur temple enseveli sous l’herbe...</l>
 </sp>
-<sp who="MATHAN"><speaker>MATHAN.</speaker>
+<sp who="MATHAN"><hstage><speaker>MATHAN</speaker>.</hstage>
 	<l id="904">Ah ! de tous les mortels connais le plus superbe.</l>
 	<l id="905">Plutôt que dans mes mains par Joad soit livré</l>
 	<l id="906">Un enfant qu’à son Dieu Joad a consacré,</l>
@@ -1423,13 +1423,13 @@
 	<l id="913">Et j’espère qu’enfin de ce temple odieux</l>
 	<l id="914">Et la flamme et le fer vont délivrer mes yeux.</l>
 </sp>
-<sp who="NABAL"><speaker>NABAL.</speaker>
+<sp who="NABAL"><hstage><speaker>NABAL</speaker>.</hstage>
 	<l id="915">Qui peut vous inspirer une haine si forte ?</l>
 	<l id="916">Est-ce que de Baal le zèle vous transporte ?</l>
 	<l id="917">Pour moi, vous le savez, descendu d’Ismaël</l>
 	<l id="918">Je ne sers ni Baal, ni le Dieu d’Israël.</l>
 </sp>
-<sp who="MATHAN"><speaker>MATHAN.</speaker>
+<sp who="MATHAN"><hstage><speaker>MATHAN</speaker>.</hstage>
 	<l id="919">Ami, peux-tu penser que d’un zèle frivole</l>
 	<l id="920">Je me laisse aveugler pour une vaine idole,</l>
 	<l id="921">Pour un fragile bois, que malgré mon secours</l>
@@ -1476,8 +1476,8 @@
 	<l id="962">À force d’attentats perdre tous mes remords.</l>
 	<l id="963" part="i">Mais voici Josabet.</l></sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Josabet, Mathan, Nabal.</head>
-<sp who="MATHAN"><speaker>MATHAN.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Josabet, Mathan, Nabal.</cast>
+<sp who="MATHAN"><hstage><speaker>MATHAN</speaker>.</hstage>
 	<l id="963" part="f">Envoyé par la reine</l>
 	<l id="964">Pour rétablir le calme et dissiper la haine,</l>
 	<l id="965">Princesse, en qui le ciel mit un esprit si doux,</l>
@@ -1495,30 +1495,30 @@
 	<l id="977">C’est, pour l’en détourner j’ai fait ce que j’ai pu,</l>
 	<l id="978">Cet enfant sans parents, qu’elle dit qu’elle a vu.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="979" part="i">Éliacin !</l>
 </sp>
-<sp who="MATHAN"><speaker>MATHAN.</speaker>
+<sp who="MATHAN"><hstage><speaker>MATHAN</speaker>.</hstage>
 	<l id="979" part="f">J’en ai pour elle quelque honte.</l>
 	<l id="980">D’un vain songe peut-être elle fait trop de compte ;</l>
 	<l id="981">Mais vous vous déclarez ses mortels ennemis,</l>
 	<l id="982">Si cet enfant sur l’heure en mes mains n’est remis.</l>
 	<l id="983">La reine impatiente attend votre réponse.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="984">Et voilà de sa part la paix qu’on nous annonce !</l>
 </sp>
-<sp who="MATHAN"><speaker>MATHAN.</speaker>
+<sp who="MATHAN"><hstage><speaker>MATHAN</speaker>.</hstage>
 	<l id="985">Pourriez-vous un moment douter de l’accepter ?</l>
 	<l id="986">D’un peu de complaisance, est-ce trop l’acheter ?</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="987">J’admirais si Mathan dépouillant l’artifice,</l>
 	<l id="988">Avait pu de son cœur surmonter l’injustice,</l>
 	<l id="989">Et si de tant de maux le funeste inventeur,</l>
 	<l id="990">De quelque ombre de bien pouvait être l’auteur.</l>
 </sp>
-<sp who="MATHAN"><speaker>MATHAN.</speaker>
+<sp who="MATHAN"><hstage><speaker>MATHAN</speaker>.</hstage>
 	<l id="991">De quoi vous plaignez-vous ? Vient-on avec furie</l>
 	<l id="992">Arracher de vos bras votre fils Zacharie ?</l>
 	<l id="993">Quel est cet autre enfant si cher à votre amour ?</l>
@@ -1528,17 +1528,17 @@
 	<l id="997">Songez-y. Vos refus pourraient me confirmer</l>
 	<l id="998">Un bruit sourd, que déjà l’on commence à semer.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="999" part="i">Quel bruit ?</l>
 </sp>
-<sp who="MATHAN"><speaker>MATHAN.</speaker>
+<sp who="MATHAN"><hstage><speaker>MATHAN</speaker>.</hstage>
 	<l id="999" part="f">Que cet enfant vient d’illustre origine,</l>
 	<l id="1000">Qu’à quelque grand projet votre époux le destine.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="1001">Et Mathan par ce bruit qui flatte sa fureur...</l>
 </sp>
-<sp who="MATHAN"><speaker>MATHAN.</speaker>
+<sp who="MATHAN"><hstage><speaker>MATHAN</speaker>.</hstage>
 	<l id="1002">Princesse, c’est à vous à me tirer d’erreur.</l>
 	<l id="1003">Je sais que du mensonge implacable ennemie,</l>
 	<l id="1004">Josabet livrerait même sa propre vie,</l>
@@ -1551,7 +1551,7 @@
 	<l id="1011">Parlez, je vous écoute, et suis prêt de vous croire.</l>
 	<l id="1012">Au Dieu que vous servez, Princesse, rendez gloire.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="1013">Méchant, c’est bien à vous d’oser ainsi nommer</l>
 	<l id="1014">Un Dieu que votre bouche enseigne à blasphémer.</l>
 	<l id="1015">Sa vérité par vous peut-elle être attestée,</l>
@@ -1559,8 +1559,8 @@
 	<l id="1017">Où le mensonge règne et répand son poison,</l>
 	<l id="1018">Vous, nourri dans la fourbe et dans la trahison ?</l></sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Joad, Josabet, Mathan, Nabal.</head>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Joad, Josabet, Mathan, Nabal.</cast>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1019">Où suis-je ? De Baal ne vois-je pas le prêtre ?</l>
 	<l id="1020">Quoi, fille de David, vous parlez à ce traître ?</l>
 	<l id="1021">Vous souffrez qu’il vous parle ? Et vous ne craignez pas</l>
@@ -1570,20 +1570,20 @@
 	<l id="1025">Que veut-il ? De quel front cet ennemi de Dieu</l>
 	<l id="1026">Vient-il infecter l’air qu’on respire en ce lieu ?</l>
 </sp>
-<sp who="MATHAN"><speaker>MATHAN.</speaker>
+<sp who="MATHAN"><hstage><speaker>MATHAN</speaker>.</hstage>
 	<l id="1027">On reconnaît Joad à cette violence.</l>
 	<l id="1028">Toutefois il devrait montrer plus de prudence,</l>
 	<l id="1029">Respecter une reine, et ne pas outrager</l>
 	<l id="1030">Celui que de son ordre elle a daigné charger.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1031">Hé bien que nous fait-elle annoncer de sinistre ?</l>
 	<l id="1032">Quel sera l’ordre affreux qu’apporte un tel ministre ?</l>
 </sp>
-<sp who="MATHAN"><speaker>MATHAN.</speaker>
+<sp who="MATHAN"><hstage><speaker>MATHAN</speaker>.</hstage>
 	<l id="1033">J’ai fait à Josabet savoir sa volonté.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1034">Sors donc de devant moi, monstre d’impiété.</l>
 	<l id="1035">De toutes tes horreurs, va, comble la mesure.</l>
 	<l id="1036">Dieu s’apprête à te joindre à la race parjure,</l>
@@ -1592,29 +1592,29 @@
 	<l id="1039">Attendant que sur toi sa fureur se déploie,</l>
 	<l id="1040">Déjà sont à ta porte et demandent leur proie.</l>
 </sp>
-<sp who="MATHAN"><speaker>MATHAN.</speaker>
+<sp who="MATHAN"><hstage><speaker>MATHAN</speaker>.</hstage>
 <stage>Il se trouble.</stage>
 	<l id="1041">Avant la fin du jour... on verra qui de nous...</l>
 	<l id="1042" part="i">Doit... Mais sortons, Nabal.</l>
 </sp>
-<sp who="NABAL"><speaker>NABAL.</speaker>
+<sp who="NABAL"><hstage><speaker>NABAL</speaker>.</hstage>
 	<l id="1042" part="f">Où vous égarez-vous ?</l>
 	<l id="1043">De vos sens étonnés, quel désordre s’empare ?</l>
 	<l id="1044" part="i">Voilà votre chemin.</l></sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Joad, Josabet.</head>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Joad, Josabet.</cast>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="1044" part="f">L’orage se déclare.</l>
 	<l id="1045">Athalie en fureur demande Éliacin.</l>
 	<l id="1046">Déjà de sa naissance et de votre dessein</l>
 	<l id="1047">On commence, Seigneur, à percer le mystère.</l>
 	<l id="1048">Peu s’en faut que Mathan ne m’ait nommé son père.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1049">Au perfide Mathan, qui l’aurait révélé ?</l>
 	<l id="1050">Votre trouble à Mathan n’a-t-il point trop parlé ?</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="1051">J’ai fait ce que j’ai pu pour m’en rendre maîtresse.</l>
 	<l id="1052">Cependant, croyez-moi, Seigneur, le péril presse.</l>
 	<l id="1053">Réservons cet enfant pour un temps plus heureux.</l>
@@ -1642,17 +1642,17 @@
 	<l id="1075">Qui d’un tel suppliant ne plaignît l’infortune ?</l>
 	<l id="1076">Sa cause à tous les rois n’est-elle pas commune ?</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1077">Quels timides conseils m’osez-vous suggérer ?</l>
 	<l id="1078">En l’appui de Jéhu pourriez-vous espérer ?</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="1079">Dieu défend-il tout soin et toute prévoyance ?</l>
 	<l id="1080">Ne l’offense-t-on point par trop de confiance ?</l>
 	<l id="1081">À ses desseins sacrés employant les humains,</l>
 	<l id="1082">N’a-t-il pas de Jéhu lui-même armé les mains ?</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1083">Jéhu qu’avait choisi sa sagesse profonde,</l>
 	<l id="1084">Jéhu, sur qui je vois que votre espoir se fonde,</l>
 	<l id="1085">D’un oubli trop ingrat a payé ses bienfaits.</l>
@@ -1669,17 +1669,17 @@
 	<l id="1096">Je veux même avancer l’heure déterminée,</l>
 	<l id="1097">Avant que de Mathan le complot soit formé.</l></sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Joad, Joasabet, Azarias suivi du chœur et de plusieurs Lévites.</head>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Joad, Joasabet, Azarias suivi du chœur et de plusieurs Lévites.</cast>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1098">Hé bien, Azarias, le Temple est-il fermé ?</l>
 </sp>
-<sp who="AZARIAS"><speaker>AZARIAS.</speaker>
+<sp who="AZARIAS"><hstage><speaker>AZARIAS</speaker>.</hstage>
 	<l id="1099">J’en ai fait devant moi fermer toutes les portes.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1100">N’y reste-t-il que vous, et vos saintes cohortes ?</l>
 </sp>
-<sp who="AZARIAS"><speaker>AZARIAS.</speaker>
+<sp who="AZARIAS"><hstage><speaker>AZARIAS</speaker>.</hstage>
 	<l id="1101">De ses parvis sacrés j’ai deux fois fait le tour.</l>
 	<l id="1102">Tout a fui. Tous se sont séparés sans retour,</l>
 	<l id="1103">Misérable troupeau, qu’a dispersé la crainte,</l>
@@ -1687,17 +1687,17 @@
 	<l id="1105">Depuis qu’à Pharaon ce peuple est échappé,</l>
 	<l id="1106">Une égale terreur ne l’avait point frappé.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1107">Peuple lâche en effet, et né pour l’esclavage,</l>
 	<l id="1108">Hardi contre Dieu seul ! Poursuivons notre ouvrage.</l>
 	<l id="1109">Mais qui retient encor ces enfants parmi nous ?</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE DES FILLES DU CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE DES FILLES DU CHŒUR</speaker>.</hstage>
 	<l id="1110">Hé ! pourrions-nous, Seigneur, nous séparer de vous ?</l>
 	<l id="1111">Dans le Temple de Dieu sommes-nous étrangères ?</l>
 	<l id="1112">Vous avez près de vous nos pères, et nos frères.</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE AUTRE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE AUTRE</speaker>.</hstage>
 	<l id="1113">Hélas ! si pour venger l’opprobre d’Israël</l>
 	<l id="1114">Nos mains ne peuvent pas, comme autrefois Jahel,</l>
 	<l id="1115">Des ennemis de Dieu percer la tête impie,</l>
@@ -1705,7 +1705,7 @@
 	<l id="1117">Quand vos bras combattront pour son Temple attaqué,</l>
 	<l id="1118">Par nos larmes du moins il peut être invoqué.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1119">Voilà donc quels vengeurs s’arment pour ta querelle,</l>
 	<l id="1120">Des prêtres, des enfants, ô Sagesse éternelle !</l>
 	<l id="1121">Mais si tu les soutiens, qui peut les ébranler ?</l>
@@ -1723,13 +1723,13 @@
 	<l id="1133">Lévites, de vos sons prêtez-moi les accords,</l>
 	<l id="1134">Et de ses mouvements secondez les transports.</l>
 </sp>
-<sp who="CHŒUR"><speaker>LE CHŒUR chante au son de toute la symphonie des instruments.</speaker>
+<sp who="CHŒUR"><hstage><speaker>LE CHŒUR</speaker> chante au son de toute la symphonie des instruments.</hstage>
 	<l id="1135">Que du Seigneur la voix se fasse entendre,</l>
 	<l id="1136">Et qu’à nos cœurs son oracle divin</l>
 	<l id="1137">Soit ce qu’à l’herbe tendre</l>
 	<l id="1138">Est au printemps la fraîcheur du matin.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1139">Cieux, écoutez ma voix. Terre, prête l’oreille.</l>
 	<l id="1140">Ne dis plus, ô Jacob, que ton Seigneur sommeille.</l>
 	<l id="1141">Pécheurs disparaissez, le Seigneur se réveille.</l>
@@ -1751,18 +1751,18 @@
 	<l id="1155">Qui changera mes yeux en deux sources de larmes</l>
 	<l id="1156">Pour pleurer ton malheur ?</l>
 </sp>
-<sp who="AZARIAS"><speaker>AZARIAS.</speaker>
+<sp who="AZARIAS"><hstage><speaker>AZARIAS</speaker>.</hstage>
 	<l id="1157" part="i">Ô saint temple !</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="1157" part="m">Ô David !</l>
 </sp>
-<sp who="CHŒUR"><speaker>LE CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 	<l id="1157" part="f">Dieu de Sion, rappelle,</l>
 	<l id="1158">Rappelle en sa faveur tes antiques bontés.</l>
 <stage>La symphonie recommence encore, et Joad un moment après l’interrompt.</stage>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1159">Quelle Jérusalem nouvelle</l>
 	<l id="1160">Sort du fond du désert brillante de clartés,</l>
 	<l id="1161">Et porte sur le front une marque immortelle ?</l>
@@ -1780,11 +1780,11 @@
 	<l id="1173">Cieux, répandez votre rosée,</l>
 	<l id="1174">Et que la terre enfante son Sauveur.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="1175">Hélas ! d’où nous viendra cette insigne faveur,</l>
 	<l id="1176">Si les rois de qui doit descendre ce Sauveur...</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1177">Préparez, Josabet, le riche diadème,</l>
 	<l id="1178">Que sur son front sacré David porta lui-même.</l>
 <stage>Aux lévites.</stage>
@@ -1797,26 +1797,26 @@
 	<l id="1185">Peut-on les employer pour un plus noble usage ?</l>
 	<l id="1186">Venez, je veux moi-même en faire le partage.</l></sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Salomith, Le Chœur.</head>
-<sp who="SALOMITH"><speaker>SALOMITH.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Salomith, Le Chœur.</cast>
+<sp who="SALOMITH"><hstage><speaker>SALOMITH</speaker>.</hstage>
 	<l id="1187">Que de craintes, mes sœurs, que de troubles mortels !</l>
 	<l id="1188">Dieu tout-puissant, sont-ce là les prémices,</l>
 	<l id="1189">Les parfums, et les sacrifices</l>
 	<l id="1190">Qu’on devait en ce jour offrir sur tes autels ?</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE FILLE DU CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE FILLE DU CHŒUR</speaker>.</hstage>
 	<l id="1191">Quel spectacle à nos yeux timides !</l>
 	<l id="1192">Qui l’eût crû, qu’on dût voir jamais</l>
 	<l id="1193">Les glaives meurtriers, les lances homicides</l>
 	<l id="1194">Briller dans la maison de paix ?</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE AUTRE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE AUTRE</speaker>.</hstage>
 	<l id="1195">D’où vient que pour son Dieu pleine d’indifférence,</l>
 	<l id="1196">Jérusalem se tait en ce pressant danger ?</l>
 	<l id="1197">D’où vient, mes sœurs, que pour nous protéger,</l>
 	<l id="1198">Le brave Abner au moins ne rompt pas le silence ?</l>
 </sp>
-<sp who="SALOMITH"><speaker>SALOMITH.</speaker>
+<sp who="SALOMITH"><hstage><speaker>SALOMITH</speaker>.</hstage>
 	<l id="1199">Hélas ! dans une cour, où l’on n’a d’autres lois</l>
 	<l id="1200">Que la force et la violence,</l>
 	<l id="1201">Où les honneurs et les emplois</l>
@@ -1825,64 +1825,64 @@
 	<l id="1204">Qui voudrait élever sa voix ?</l>
 <note type="V">Variante, v.1195-12044 absents de l’édition 1691.</note>
 </sp>
-<sp who="CHŒUR"><speaker>UNE AUTRE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE AUTRE</speaker>.</hstage>
 	<l id="1205">Dans ce péril, dans ce désordre extrême,</l>
 	<l id="1206">Pour qui prépare-t-on le sacré diadème ?</l>
 </sp>
-<sp who="SALOMITH"><speaker>SALOMITH.</speaker>
+<sp who="SALOMITH"><hstage><speaker>SALOMITH</speaker>.</hstage>
 	<l id="1207">Le Seigneur a daigné parler,</l>
 	<l id="1208">Mais ce qu’à son prophète il vient de révéler,</l>
 	<l id="1209">Qui pourra nous le faire entendre ?</l>
 	<l id="1210">S’arme-t-il pour nous défendre ?</l>
 	<l id="1211">S’arme-t-il pour nous accabler ?</l>
 </sp>
-<sp who="CHŒUR"><speaker>TOUT LE CHŒUR, chante.</speaker>
+<sp who="CHŒUR"><hstage><speaker>TOUT LE CHŒUR</speaker>, chante.</hstage>
 	<l id="1212">Ô promesse ! ô menace ! ô ténébreux mystère !</l>
 	<l id="1213">Que de maux, que de biens sont prédits tour à tour !</l>
 	<l id="1214">Comment peut-on avec tant de colère,</l>
 	<l id="1215">Accorder tant d’amour ?</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE VOIX, seule.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE VOIX</speaker>, seule.</hstage>
 	<l id="1216">Sion ne sera plus. Une flamme cruelle</l>
 	<l id="1217">Détruira tous ses ornements.</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE AUTRE VOIX.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE AUTRE</speaker> VOIX.</hstage>
 	<l id="1218">Dieu protège Sion. Elle a pour fondements</l>
 	<l id="1219">Sa parole éternelle.</l>
 </sp>
-<sp who="CHŒUR"><speaker>LA PREMIÈRE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>LA PREMIÈRE</speaker>.</hstage>
 	<l id="1220">Je vois tout son éclat disparaître à mes yeux.</l>
 </sp>
-<sp who="CHŒUR"><speaker>LA SECONDE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>LA SECONDE</speaker>.</hstage>
 	<l id="1221">Je vois de toutes parts sa clarté répandue.</l>
 </sp>
-<sp who="CHŒUR"><speaker>LA PREMIÈRE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>LA PREMIÈRE</speaker>.</hstage>
 	<l id="1222">Dans un gouffre profond Sion est descendue.</l>
 </sp>
-<sp who="CHŒUR"><speaker>LA SECONDE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>LA SECONDE</speaker>.</hstage>
 	<l id="1223">Sion a son front dans les cieux.</l>
 </sp>
-<sp who="CHŒUR"><speaker>LA PREMIÈRE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>LA PREMIÈRE</speaker>.</hstage>
 	<l id="1224" part="i">Quel triste abaissement !</l>
 </sp>
-<sp who="CHŒUR"><speaker>LA SECONDE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>LA SECONDE</speaker>.</hstage>
 	<l id="1224" part="f">Quelle immortelle gloire !</l>
 </sp>
-<sp who="CHŒUR"><speaker>LA PREMIÈRE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>LA PREMIÈRE</speaker>.</hstage>
 	<l id="1225" part="i">Que de cris de douleur !</l>
 </sp>
-<sp who="CHŒUR"><speaker>LA SECONDE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>LA SECONDE</speaker>.</hstage>
 	<l id="1225" part="f">Que de chants de victoire !</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE TROISIÈME.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE TROISIÈME</speaker>.</hstage>
 	<l id="1226">Cessons de nous troubler. Notre Dieu quelque jour</l>
 	<l id="1227">Dévoilera ce grand mystère.</l>
 </sp>
-<sp who="CHŒUR"><speaker>TOUTES TROIS.</speaker>
+<sp who="CHŒUR"><hstage><speaker>TOUTES TROIS</speaker>.</hstage>
 	<l id="1228">Révérons sa colère.</l>
 	<l id="1229">Espérons en son amour.</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE AUTRE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE AUTRE</speaker>.</hstage>
 	<l id="1230">D’un cœur qui t’aime,</l>
 	<l id="1231">Mon Dieu, qui peut troubler la paix ?</l>
 	<l id="1232">Il cherche en tout ta volonté suprême,</l>
@@ -1893,14 +1893,14 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Joas, Joasabet, Zacharie, Salomith, un Lévite, Le Chœur.</head>
-<sp who="SALOMITH"><speaker>SALOMITH.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Joas, Joasabet, Zacharie, Salomith, un Lévite, Le Chœur.</cast>
+<sp who="SALOMITH"><hstage><speaker>SALOMITH</speaker>.</hstage>
 	<l id="1237">D’un pas majestueux à côté de ma mère,</l>
 	<l id="1238">Le jeune Éliacin s’avance avec mon frère.</l>
 	<l id="1239">Dans ces voiles, mes sœurs, que portent-ils tous deux ?</l>
 	<l id="1240">Quel est ce glaive enfin qui marche devant eux ?</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET, à Zacharie.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>, à Zacharie.</hstage>
 	<l id="1241">Mon fils, avec respect posez sur cette table</l>
 	<l id="1242">De notre sainte Loi le Livre redoutable.</l>
 	<l id="1243">Et vous aussi posez, aimable Éliacin,</l>
@@ -1908,25 +1908,25 @@
 	<l id="1245">Lévite, il faut placer, Joad ainsi l’ordonne,</l>
 	<l id="1246">Le glaive de David auprès de sa couronne.</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="1247">Princesse, quel est donc ce spectacle nouveau ?</l>
 	<l id="1248">Pourquoi ce Livre saint, ce glaive, ce bandeau ?</l>
 	<l id="1249">Depuis que le Seigneur m’a reçu dans son Temple,</l>
 	<l id="1250">D’un semblable appareil je n’ai point vu d’exemple.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="1251">Tous vos doutes, mon fils, bientôt s’éclairciront.</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="1252">Vous voulez essayer ce bandeau sur mon front ?</l>
 	<l id="1253">Ah, Princesse, gardez d’en profaner la gloire.</l>
 	<l id="1254">Du roi qui l’a porté respectez la mémoire.</l>
 	<l id="1255">Un malheureux enfant aux ours abandonné...</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET, lui essayant le diadème.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>, lui essayant le diadème.</hstage>
 	<l id="1256">Laissez, mon fils, je fais ce qui m’est ordonné.</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="1257">Mais j’entends les sanglots sortir de votre bouche !</l>
 	<l id="1258">Princesse, vous pleurez ! Quelle pitié vous touche ?</l>
 	<l id="1259">Est-ce qu’en holocauste aujourd’hui présenté</l>
@@ -1934,21 +1934,21 @@
 	<l id="1261">Du Seigneur par ma mort apaiser la colère ?</l>
 	<l id="1262">Hélas ! un fils n’a rien qui ne soit à son père.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="1263">Voici qui vous dira les volontés des cieux.</l>
 	<l id="1264">Ne craignez rien. Et nous, sortons tous de ces lieux.</l></sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Joad, Joas.</head>
-<sp who="JOAS"><speaker>JOAS, courant dans les bras du grand prêtre.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Joad, Joas.</cast>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>, courant dans les bras du grand prêtre.</hstage>
 	<l id="1265" part="i">Mon père !</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1265" part="m">Hé bien, mon fils ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="1265" part="f">Qu’est-ce donc qu’on prépare ?</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1266">Il est juste, mon fils, que je vous le déclare.</l>
 	<l id="1267">Il faut que vous soyez instruit, même avant tous,</l>
 	<l id="1268">Des grands desseins de Dieu sur son peuple et sur vous.</l>
@@ -1958,51 +1958,51 @@
 	<l id="1272">Et de payer à Dieu ce que vous lui devez.</l>
 	<l id="1273">Sentez-vous cette noble et généreuse envie ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="1274">Je me sens prêt, s’il veut, de lui donner ma vie.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1275">On vous a lu souvent l’histoire de nos rois.</l>
 	<l id="1276">Vous souvient-il, mon fils, quelles étroites lois</l>
 	<l id="1277">Doit s’imposer un roi digne du diadème ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="1278">Un roi sage, ainsi Dieu l’a prononcé lui-même,</l>
 	<l id="1279">Sur la richesse et l’or ne met point son appui,</l>
 	<l id="1280">Craint le Seigneur son Dieu ; sans cesse a devant lui</l>
 	<l id="1281">Ses préceptes, ses lois, ses jugements sévères,</l>
 	<l id="1282">Et d’injustes fardeaux n’accable point ses frères.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1283">Mais sur l’un de ces rois s’il fallait vous régler,</l>
 	<l id="1284">À qui choisiriez-vous, mon fils, de ressembler ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="1285">David, pour le Seigneur plein d’un amour fidèle,</l>
 	<l id="1286">Me paraît des grands rois le plus parfait modèle.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1287">Ainsi dans leurs excès vous n’imiteriez pas</l>
 	<l id="1288">L’infidèle Joram, l’impie Ochosias.</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="1289" part="i">Ô mon père !</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1289" part="f">Achevez, dites, que vous en semble ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="1290">Puisse périr comme eux quiconque leur ressemble.</l>
 	<l id="1291">Mon père, en quel état vous vois-je devant moi ?</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD, se prosternant à ses pieds.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>, se prosternant à ses pieds.</hstage>
 	<l id="1292">Je vous rends le respect que je dois à mon roi.</l>
 	<l id="1293">De votre aïeul David, Joas, rendez-vous digne.</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="1294" part="i">Joas ? Moi ?</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1294" part="f">Vous saurez par quelle grâce insigne,</l>
 	<l id="1295">D’une mère en fureur Dieu trompant le dessein,</l>
 	<l id="1296">Quand déjà son poignard était dans votre sein,</l>
@@ -2017,18 +2017,18 @@
 	<l id="1305">Entrez, généreux chefs des familles sacrées,</l>
 	<l id="1306">Du ministère saint tour à tour honorées.</l></sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Joas, Joad, Azarias, Ismaël et les trois autres chefs des Lévites.</head>
-<sp who="JOAD"><speaker>JOAD continue.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Joas, Joad, Azarias, Ismaël et les trois autres chefs des Lévites.</cast>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker> continue.</hstage>
 	<l id="1307">Roi, voilà vos vengeurs contre vos ennemis.</l>
 	<l id="1308">Prêtres, voilà le roi que je vous ai promis.</l>
 </sp>
-<sp who="AZARIAS"><speaker>AZARIAS.</speaker>
+<sp who="AZARIAS"><hstage><speaker>AZARIAS</speaker>.</hstage>
 	<l id="1309" part="i">Quoi c’est Éliacin ?</l>
 </sp>
-<sp who="ISMAEL"><speaker>ISMAËL.</speaker>
+<sp who="ISMAEL"><hstage><speaker>ISMAËL</speaker>.</hstage>
 	<l id="1309" part="f">Quoi cet enfant aimable...</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1310">Est du roi de Juda l’héritier véritable,</l>
 	<l id="1311">Dernier né des enfants du triste Ochosias ;</l>
 	<l id="1312">Nourri, vous le savez, sous le nom de Joas.</l>
@@ -2043,11 +2043,11 @@
 	<l id="1321">Et n’ayant de son vol que moi seul pour complice,</l>
 	<l id="1322">Dans le Temple cachât l’enfant et la nourrice.</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="1323">Hélas ! de tant d’amour et de tant de bienfaits,</l>
 	<l id="1324">Mon père, quel moyen de m’acquitter jamais ?</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1325">Gardez pour d’autres temps cette reconnaissance.</l>
 	<l id="1326">Voilà donc votre roi, votre unique espérance.</l>
 	<l id="1327">J’ai pris soin jusqu’ici de vous le conserver.</l>
@@ -2097,7 +2097,7 @@
 	<l id="1371">À ce roi que le ciel vous redonne aujourd’hui,</l>
 	<l id="1372">De vivre, de combattre, et de mourir pour lui.</l>
 </sp>
-<sp who="AZARIAS"><speaker>AZARIAS.</speaker>
+<sp who="AZARIAS"><hstage><speaker>AZARIAS</speaker>.</hstage>
 	<l id="1373">Oui, nous jurons ici pour nous, pour tous nos frères,</l>
 	<l id="1374">De rétablir Joas au trône de ses pères,</l>
 	<l id="1375">De ne poser le fer entre nos mains remis,</l>
@@ -2107,14 +2107,14 @@
 	<l id="1379">Qu’avec lui, ses enfants de ton partage exclus,</l>
 	<l id="1380">Soient au rang de ces morts que tu ne connais plus.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1381">Et vous, à cette Loi, votre règle éternelle,</l>
 	<l id="1382">Roi, ne jurez-vous pas d’être toujours fidèle ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="1383">Pourrais-je à cette Loi ne me pas conformer ?</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1384">Ô mon fils, de ce nom j’ose encor vous nommer,</l>
 	<l id="1385">Souffrez cette tendresse, et pardonnez aux larmes</l>
 	<l id="1386">Que m’arrachent pour vous de trop justes alarmes.</l>
@@ -2141,51 +2141,51 @@
 	<l id="1407">Vous souvenant, mon fils, que caché sous ce lin,</l>
 	<l id="1408">Comme eux vous fûtes pauvre, et comme eux orphelin.</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="1409">Je promets d’observer ce que la Loi m’ordonne.</l>
 	<l id="1410">Mon Dieu, punissez-moi, si je vous abandonne.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1411">Venez, de l’huile sainte il faut vous consacrer.</l>
 	<l id="1412">Paraissez, Josabet, vous pouvez vous montrer.</l></sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Joas, Joad, Joasabet, Zacharie, Azarias, etc., Salomith, Le Chœur.</head>
-<sp who="JOSABET"><speaker>JOSABET, embrassant Joas.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Joas, Joad, Joasabet, Zacharie, Azarias, etc., Salomith, Le Chœur.</cast>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>, embrassant Joas.</hstage>
 	<l id="1413" part="i">Ô Roi, fils de David !</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="1413" part="f">Ô mon unique mère !</l>
 	<l id="1414">Venez, cher Zacharie, embrasser votre frère.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET, à Zacharie.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>, à Zacharie.</hstage>
 	<l id="1415">Aux pieds de votre roi prosternez-vous, mon fils.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD, pendant qu’ils s’embrassent.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>, pendant qu’ils s’embrassent.</hstage>
 	<l id="1416">Enfants, ainsi toujours puissiez-vous être unis !</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET, à Joas.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>, à Joas.</hstage>
 	<l id="1417">Vous savez donc quel sang vous a donné la vie ?</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="1418">Et je sais quelle main sans vous me l’eût ravie.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="1419">De votre nom, Joas, je puis donc vous nommer.</l>
 </sp>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="1420">Joas ne cessera jamais de vous aimer.</l>
 </sp>
-<sp who="CHŒUR"><speaker>LE CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 	<l id="1421" part="i">Quoi, c’est là...</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="1421" part="m">C’est Joas.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1421" part="f">Écoutons ce lévite.</l></sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Joas, Joasabet, Joad, etc., Un Lévite.</head>
-<sp who="LEVITES"><speaker>UN LÉVITE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Joas, Joasabet, Joad, etc., Un Lévite.</cast>
+<sp who="LEVITES"><hstage><speaker>UN LÉVITE</speaker>.</hstage>
 	<l id="1422">J’ignore contre Dieu quel projet on médite.</l>
 	<l id="1423">Mais l’airain menaçant frémit de toutes parts.</l>
 	<l id="1424">On voit luire des feux parmi des étendards.</l>
@@ -2196,12 +2196,12 @@
 	<l id="1429">L’un d’eux en blasphémant, vient de nous faire entendre</l>
 	<l id="1430">Qu’Abner est dans les fers, et ne peut nous défendre.</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET, à Joas.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>, à Joas.</hstage>
 	<l id="1431">Cher enfant, que le ciel en vain m’avait rendu,</l>
 	<l id="1432">Hélas ! pour vous sauver j’ai fait ce que j’ai pu.</l>
 	<l id="1433">Dieu ne se souvient plus de David votre père.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD, à Josabet.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>, à Josabet.</hstage>
 	<l id="1434">Quoi ! Vous ne craignez pas d’attirer sa colère</l>
 	<l id="1435">Sur vous, et sur ce roi si cher à votre amour ?</l>
 	<l id="1436">Et quand Dieu de vos bras l’arrachant sans retour,</l>
@@ -2236,30 +2236,30 @@
 	<l id="1461" part="f"> donnez-moi ces armes.</l>
 	<l id="1462">Enfants, offrez à Dieu vos innocentes larmes.</l></sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Salomith, Le Chœur.</head>
-<sp who="CHŒUR"><speaker>TOUT LE CHŒUR, chante.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Salomith, Le Chœur.</cast>
+<sp who="CHŒUR"><hstage><speaker>TOUT LE CHŒUR</speaker>, chante.</hstage>
 	<l id="1463">Partez, enfants d’Aaron, partez.</l>
 	<l id="1464">Jamais plus illustre querelle</l>
 	<l id="1465">De vos aïeux n’arma le zèle.</l>
 	<l id="1466">Partez, enfants d’Aaron, partez.</l>
 	<l id="1467">C’est votre roi, c’est Dieu, pour qui vous combattez.</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE VOIX, seule.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE VOIX</speaker>, seule.</hstage>
 	<l id="1468">Où sont les traits que tu lances,</l>
 	<l id="1469">Grand Dieu, dans ton juste courroux ?</l>
 	<l id="1470">N’es-tu plus le Dieu jaloux ?</l>
 	<l id="1471">N’es-tu plus le Dieu des vengeances ?</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE AUTRE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE AUTRE</speaker>.</hstage>
 	<l id="1472">Où sont, Dieu de Jacob, tes antiques bontés ?</l>
 	<l id="1473">Dans l’horreur qui nous environne,</l>
 	<l id="1474">N’entends-tu que la voix de nos iniquités ?</l>
 	<l id="1475">N’es-tu plus le Dieu qui pardonne ?</l>
 </sp>
-<sp who="CHŒUR"><speaker>TOUT LE CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>TOUT LE CHŒUR</speaker>.</hstage>
 	<l id="1476">Où sont, Dieu de Jacob, tes antiques bontés ?</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE VOIX, seule.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE VOIX</speaker>, seule.</hstage>
 	<l id="1477">C’est à toi que dans cette guerre</l>
 	<l id="1478">Les flèches des méchants prétendent s’adresser.</l>
 	<l id="1479">Faisons, disent-ils, cesser</l>
@@ -2270,13 +2270,13 @@
 	<l id="1484">Il ne reste plus de mémoire.</l>
 	<l id="1485">Que ni lui, ni son Christ ne règnent plus sur nous.</l>
 </sp>
-<sp who="CHŒUR"><speaker>TOUT LE CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>TOUT LE CHŒUR</speaker>.</hstage>
 	<l id="1486">Où sont les traits que tu lances,</l>
 	<l id="1487">Grand Dieu, dans ton juste courroux ?</l>
 	<l id="1488">N’es-tu plus le Dieu jaloux ?</l>
 	<l id="1489">N’es-tu plus le Dieu des vengeances ?</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE VOIX, seule.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE VOIX</speaker>, seule.</hstage>
 	<l id="1490">Triste reste de nos rois,</l>
 	<l id="1491">Chère et dernière fleur d’une tige si belle,</l>
 	<l id="1492">Hélas ! sous le couteau d’une mère cruelle</l>
@@ -2286,20 +2286,20 @@
 	<l id="1496">Ou si dans la nuit du tombeau</l>
 	<l id="1497">La voix du Dieu vivant a ranimé ta cendre.</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE AUTRE.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE AUTRE</speaker>.</hstage>
 	<l id="1498">D’un père et d’un aïeul contre toi révoltés,</l>
 	<l id="1499">Grand Dieu, les attentats lui sont-ils imputés ?</l>
 	<l id="1500">Est-ce que sans retour ta pitié l’abandonne ?</l>
 </sp>
-<sp who="CHŒUR"><speaker>LE CHŒUR.</speaker>
+<sp who="CHŒUR"><hstage><speaker>LE CHŒUR</speaker>.</hstage>
 	<l id="1501">Où sont, Dieu de Jacob, tes antiques bontés ?</l>
 	<l id="1502">N’es-tu plus le Dieu qui pardonne ?</l>
 </sp>
-<sp who="CHŒUR"><speaker>UNE DES FILLES DU CHŒUR, sans chanter.</speaker>
+<sp who="CHŒUR"><hstage><speaker>UNE DES FILLES DU CHŒUR</speaker>, sans chanter.</hstage>
 	<l id="1503">Chères sœurs, n’entendez-vous pas</l>
 	<l id="1504">Des cruels Tyriens la trompette qui sonne ?</l>
 </sp>
-<sp who="SALOMITH"><speaker>SALOMITH.</speaker>
+<sp who="SALOMITH"><hstage><speaker>SALOMITH</speaker>.</hstage>
 	<l id="1505">J’entends même les cris des barbares soldats,</l>
 	<l id="1506">Et d’horreur j’en frissonne.</l>
 	<l id="1507">Courons, fuyons, retirons-nous</l>
@@ -2308,19 +2308,19 @@
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Zacharie, Salomith, Le Chœur.</head>
-<sp who="SALOMITH"><speaker>SALOMITH.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Zacharie, Salomith, Le Chœur.</cast>
+<sp who="SALOMITH"><hstage><speaker>SALOMITH</speaker>.</hstage>
 	<l id="1510">Cher Zacharie, hé bien ? Que nous apprenez-vous ?</l>
 </sp>
-<sp who="ZACHARIE"><speaker>ZACHARIE.</speaker>
+<sp who="ZACHARIE"><hstage><speaker>ZACHARIE</speaker>.</hstage>
 	<l id="1511">Redoublez au Seigneur votre ardente prière.</l>
 	<l id="1512">Peut-être nous touchons à notre heure dernière.</l>
 	<l id="1513">Pour l’horrible combat, ma sœur, l’ordre est donné.</l>
 </sp>
-<sp who="SALOMITH"><speaker>SALOMITH.</speaker>
+<sp who="SALOMITH"><hstage><speaker>SALOMITH</speaker>.</hstage>
 	<l id="1514" part="i">Que fait Joas ?</l>
 </sp>
-<sp who="ZACHARIE"><speaker>ZACHARIE.</speaker>
+<sp who="ZACHARIE"><hstage><speaker>ZACHARIE</speaker>.</hstage>
 	<l id="1514" part="f">Joas vient d’être couronné.</l>
 	<l id="1515">Le grand prêtre a sur lui répandu l’huile sainte.</l>
 	<l id="1516">Ô ciel ! dans tous les yeux quelle joie était peinte</l>
@@ -2337,10 +2337,10 @@
 	<l id="1527">Jurait de se régler par leurs avis sincères,</l>
 	<l id="1528">Et les appelait tous ses pères ou ses frères.</l>
 </sp>
-<sp who="SALOMITH"><speaker>SALOMITH.</speaker>
+<sp who="SALOMITH"><hstage><speaker>SALOMITH</speaker>.</hstage>
 	<l id="1529">Ce secret au dehors est-il aussi semé ?</l>
 </sp>
-<sp who="ZACHARIE"><speaker>ZACHARIE.</speaker>
+<sp who="ZACHARIE"><hstage><speaker>ZACHARIE</speaker>.</hstage>
 	<l id="1530">Ce secret dans le Temple est encor renfermé.</l>
 	<l id="1531">Des enfants de Lévi la troupe partagée</l>
 	<l id="1532">Dans un profond silence aux portes s’est rangée.</l>
@@ -2369,18 +2369,18 @@
 	<l id="1555">Et, s’il faut aujourd’hui que notre roi périsse,</l>
 	<l id="1556">Allons, qu’un même sort avec lui nous unisse.</l>
 </sp>
-<sp who="SALOMITH"><speaker>SALOMITH.</speaker>
+<sp who="SALOMITH"><hstage><speaker>SALOMITH</speaker>.</hstage>
 	<l id="1557">Quelle insolente main frappe à coups redoublés ?</l>
 	<l id="1558">Qui fait courir ainsi ces lévites troublés ?</l>
 	<l id="1559">Quelle précaution leur fait cacher leurs armes ?</l>
 	<l id="1560" part="i">Le Temple est-il forcé ?</l>
 </sp>
-<sp who="ZACHARIE"><speaker>ZACHARIE.</speaker>
+<sp who="ZACHARIE"><hstage><speaker>ZACHARIE</speaker>.</hstage>
 	<l id="1560" part="f">Dissipez vos alarmes.</l>
 	<l id="1561" part="i">Dieu nous envoie Abner.</l></sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Abner, Joad, Josabet, Zacharie, Salomith, Ismaël, deux Lévites, etc.</head>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Abner, Joad, Josabet, Zacharie, Salomith, Ismaël, deux Lévites, etc.</cast>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1561" part="f">En croirai-je mes yeux,</l>
 	<l id="1562">Cher Abner ? Quel chemin a pu jusqu’en ces lieux</l>
 	<l id="1563">Vous conduire au travers d’un camp qui nous assiège ?</l>
@@ -2388,7 +2388,7 @@
 	<l id="1565">Avait, pour assurer ses projets inhumains,</l>
 	<l id="1566">Chargé d’indignes fers vos généreuses mains.</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="1567">Oui, Seigneur, elle a craint mon zèle et mon courage.</l>
 	<l id="1568">Mais c’est le moindre prix que me gardait sa rage.</l>
 	<l id="1569">Dans l’horreur d’un cachot par son ordre enfermé,</l>
@@ -2398,10 +2398,10 @@
 	<l id="1573">Et retrancher des jours, qu’aurait dû mille fois</l>
 	<l id="1574">Terminer la douleur de survivre à mes rois.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1575">Par quel miracle a-t-on obtenu votre grâce ?</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="1576">Dieu dans ce cœur cruel sait seul ce qui se passe.</l>
 	<l id="1577">Elle m’a fait venir, et d’un air égaré,</l>
 	<l id="1578"><q who="Athalie" direct="y"><hi rend="italic">Tu vois de mes soldats tout ce temple entouré,</hi></q></l>
@@ -2415,10 +2415,10 @@
 	<l id="1586"><q who="Athalie" direct="y"><hi rend="italic">Sous le sceau du secret au grand prêtre laissé.</hi></q></l>
 	<l id="1587"><q who="Athalie" direct="y"><hi rend="italic">Va, dis-leur qu’à ce prix je leurs permets de vivre.</hi></q></l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1588">Quel conseil, cher Abner, croyez-vous qu’on doit suivre ?</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="1589">Et tout l’or de David, s’il est vrai qu’en effet</l>
 	<l id="1590">Vous gardiez de David quelque trésor secret,</l>
 	<l id="1591">Et tout ce que des mains de cette reine avare,</l>
@@ -2428,13 +2428,13 @@
 	<l id="1595">Et portant sur notre Arche une main téméraire,</l>
 	<l id="1596">De votre propre sang souiller le sanctuaire ?</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1597">Mais siérait-il, Abner, à des cœurs généreux</l>
 	<l id="1598">De livrer au supplice un enfant malheureux,</l>
 	<l id="1599">Un enfant que Dieu même à ma garde confie,</l>
 	<l id="1600">Et de nous racheter aux dépens de sa vie ?</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="1601">Hélas ! Dieu voit mon cœur. Plût à ce Dieu puissant</l>
 	<l id="1602">Qu’Athalie oubliât un enfant innocent,</l>
 	<l id="1603">Et que du sang d’Abner sa cruauté contente</l>
@@ -2462,14 +2462,14 @@
 	<l id="1625">Que feriez-vous de plus, si des rois vos aïeux</l>
 	<l id="1626">Ce jeune enfant était un reste précieux ?</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET, tout bas à Joad.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>, tout bas à Joad.</hstage>
 	<l id="1627">Pour le sang de ses rois vous voyez sa tendresse.</l>
 	<l id="1628" part="i">Que ne lui parlez-vous ?</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1628" part="f">Il n’est pas temps, Princesse.</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="1629">Le temps est cher, Seigneur, plus que vous ne pensez.</l>
 	<l id="1630">Tandis qu’à me répondre ici vous balancez,</l>
 	<l id="1631">Mathan près d’Athalie étincelant de rage</l>
@@ -2489,7 +2489,7 @@
 	<l id="1645">Et qu’aux portes du Temple où l’ennemi m’attend,</l>
 	<l id="1646">Abner puisse du moins mourir en combattant.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1647">Je me rends. Vous m’ouvrez un avis que j’embrasse.</l>
 	<l id="1648">De tant de maux, Abner, détournons la menace.</l>
 	<l id="1649">Il est vrai de David un trésor est resté.</l>
@@ -2510,22 +2510,22 @@
 	<l id="1664">Vous verrez, s’il le faut remettre en sa puissance.</l>
 	<l id="1665">Et je vous ferai juge entre Athalie et lui.</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="1666">Ah ! je le prends déjà, Seigneur, sous mon appui.</l>
 	<l id="1667">Ne craignez rien. Je cours vers celle qui m’envoie.</l></sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Joad, Josabet, Ismaël, Zacharie, etc.</head>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Joad, Josabet, Ismaël, Zacharie, etc.</cast>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1668">Grand Dieu, voici ton heure, on t’amène ta proie.</l>
 	<l id="1669" part="i">Ismaël, écoutez.</l></sp>
 <stage>Il lui parle à l’oreille.</stage>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="1669" part="f">Puissant maître des cieux,</l>
 	<l id="1670">Remets lui le bandeau, dont tu couvris ses yeux,</l>
 	<l id="1671">Lorsque lui dérobant tout le fruit de son crime,</l>
 	<l id="1672">Tu cachas dans mon sein cette tendre victime.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1673">Allez, sage Ismaël, ne perdez point de temps.</l>
 	<l id="1674">Suivez de point en point ces ordres importants.</l>
 	<l id="1675">Surtout, qu’à son entrée, et que sur son passage,</l>
@@ -2546,8 +2546,8 @@
 	<l id="1688">De Joas conservé l’étonnante merveille.</l>
 	<l id="1689" part="i">Il vient.</l></sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Joas, Joad, Josabet, Troupes de prêtres et de lévites, etc.</head>
-<sp who="JOAD"><speaker>JOAD, continue.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Joas, Joad, Josabet, Troupes de prêtres et de lévites, etc.</cast>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>, continue.</hstage>
 	<l id="1689" part="f">Lévites saints, prêtres de notre Dieu,</l>
 	<l id="1690">Partout, sans vous montrer, environnez ce lieu.</l>
 	<l id="1691">Et laissant à mes soins gouverner votre zèle,</l>
@@ -2564,17 +2564,17 @@
 <stage>Il tire une rideau.</stage>
 	<l id="1701" part="i">Vous changez de couleur, Princesse ?</l>
 </sp>
-<sp who="JOSABET"><speaker>JOSABET.</speaker>
+<sp who="JOSABET"><hstage><speaker>JOSABET</speaker>.</hstage>
 	<l id="1701" part="f">Ah ! sans pâlir</l>
 	<l id="1702">Puis-je voir d’assassins le Temple se remplir ?</l>
 	<l id="1703">Quoi ? Ne voyez-vous pas quelle nombreuse escorte...</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1704">Je vois que du saint temple on referme la porte.</l>
 	<l id="1705" part="i">Tout est en sûreté.</l></sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Athalie, Joas caché derrière le rideau, Joad, Josabet, Abner, Suite d’Athalie.</head>
-<sp who="ATHALIE"><speaker>ATHALIE à Joad.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Athalie, Joas caché derrière le rideau, Joad, Josabet, Abner, Suite d’Athalie.</cast>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker> à Joad.</hstage>
 	<l id="1705" part="f">Te voilà, séducteur,</l>
 	<l id="1706">De ligues, de complots pernicieux auteur,</l>
 	<l id="1707">Qui dans le trouble seul as mis tes espérances,</l>
@@ -2588,7 +2588,7 @@
 	<l id="1715">Cet enfant, ce trésor, qu’il faut qu’on me remette,</l>
 	<l id="1716" part="i">Où sont-ils ?</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1716" part="f">Sur le champ tu seras satisfaite.</l>
 	<l id="1717">Je te les vais montrer l’un et l’autre à la fois.</l>
 <stage>Le rideau se tire.</stage>
@@ -2598,59 +2598,59 @@
 	<l id="1721">Voilà ton roi, ton fils, le fils d’Ochosias.</l>
 	<l id="1722">Peuples, et vous Abner, reconnaissez Joas.</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="1723" part="i">Ciel !</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE, à Joad.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>, à Joad.</hstage>
 	<l id="1723" part="m">Perfide !</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1723" part="f">Vois-tu cette Juive fidèle,</l>
 	<l id="1724">Dont tu sais bien qu’alors il suçait la mamelle ?</l>
 	<l id="1725">Il fut par Josabet à ta rage enlevé.</l>
 	<l id="1726">Ce Temple le reçut, et Dieu l’a conservé.</l>
 	<l id="1727">Des trésors de David voilà ce qui me reste.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="1728">Ta fourbe à cet enfant, traître, sera funeste.</l>
 	<l id="1729">D’un fantôme odieux, soldats, délivrez-moi.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1730">Soldats du Dieu vivant, défendez votre roi.</l>
 <stage>Ici le fond du théâtre s’ouvre. On voit le dedans du Temple, et les lévites armés sortent de tous côtés sur la scène.</stage>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="1731">Où suis-je ? Ô trahison ! Ô reine infortunée !</l>
 	<l id="1732">D’armes et d’ennemis je suis environnée.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1733">Tes yeux cherchent en vain, tu ne peux échapper,</l>
 	<l id="1734">Et Dieu de toutes parts a su t’envelopper.</l>
 	<l id="1735">Ce Dieu que tu bravais, en nos mains t’a livrée.</l>
 	<l id="1736">Rends lui compte du sang dont tu t’es enivrée.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="1737">Quoi ? La peur a glacé mes indignes soldats ?</l>
 	<l id="1738">Lâche Abner, dans quel piège as-tu conduit mes pas ?</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>.</hstage>
 	<l id="1739" part="i">Reine, Dieu m’est témoin...</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="1739" part="f">Laisse là ton Dieu, traître,</l>
 	<l id="1740" part="i">Et venge-moi.</l>
 </sp>
-<sp who="ABNER"><speaker>ABNER, se jetant aux pieds de Joas.</speaker>
+<sp who="ABNER"><hstage><speaker>ABNER</speaker>, se jetant aux pieds de Joas.</hstage>
 	<l id="1740" part="f">Sur qui ? Sur Joas ! Sur mon maître !</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="1741">Lui Joas ? Lui ton roi ? Songez, méchants, songez</l>
 	<l id="1742">Que mes armes encor vous tiennent assiégés.</l>
 	<l id="1743">J’entends à haute voix tout mon camp qui m’appelle.</l>
 	<l id="1744">On vient à mon secours. Tremblez, troupe rebelle.</l></sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Ismaël, Joas, Joad, Athalie, etc.</head>
-<sp who="ISMAEL"><speaker>ISMAËL, à Joad.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Ismaël, Joas, Joad, Athalie, etc.</cast>
+<sp who="ISMAEL"><hstage><speaker>ISMAËL</speaker>, à Joad.</hstage>
 	<l id="1745">Seigneur, le Temple est libre, et n’a plus d’ennemis.</l>
 	<l id="1746">L’étranger est en fuite, et le Juif est soumis.</l>
 	<l id="1747">Comme le vent dans l’air dissipe la fumée,</l>
@@ -2676,7 +2676,7 @@
 	<l id="1767">De son temple profane on a brisé les portes.</l>
 	<l id="1768" part="i">Mathan est égorgé.</l>
 </sp>
-<sp who="ATHALIE"><speaker>ATHALIE.</speaker>
+<sp who="ATHALIE"><hstage><speaker>ATHALIE</speaker>.</hstage>
 	<l id="1768" part="f">Dieu des Juifs, tu l’emportes !</l>
 	<l id="1769">Oui, c’est Joas, je cherche en vain à me tromper.</l>
 	<l id="1770">Je reconnais l’endroit où je le fis frapper.</l>
@@ -2701,7 +2701,7 @@
 	<l id="1789">Abolir tes honneurs, profaner ton autel,</l>
 	<l id="1790">Et venger Athalie, Achab, et Jézabel.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1791">Qu’à l’instant hors du Temple elle soit emmenée,</l>
 	<l id="1792">Et que la sainteté n’en soit point profanée.</l>
 	<l id="1793">Allez, sacrés vengeurs de vos princes meurtris,</l>
@@ -2709,14 +2709,14 @@
 	<l id="1795">Si quelque audacieux embrasse sa querelle,</l>
 	<l id="1796">Qu’à la fureur du glaive on le livre avec elle.</l></sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Joas, Joas, Joasbet, Abner, etc.</head>
-<sp who="JOAS"><speaker>JOAS.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Joas, Joas, Joasbet, Abner, etc.</cast>
+<sp who="JOAS"><hstage><speaker>JOAS</speaker>.</hstage>
 	<l id="1797">Dieu, qui voyez mon trouble et mon affliction,</l>
 	<l id="1798">Détournez loin de moi sa malédiction,</l>
 	<l id="1799">Et ne souffrez jamais qu’elle soit accomplie.</l>
 	<l id="1800">Faites que Joas meure, avant qu’il vous oublie.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD, aux lévites.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>, aux lévites.</hstage>
 	<l id="1801">Appelez tout le peuple, et montrons lui son roi,</l>
 	<l id="1802">Qu’il lui vienne en ses mains renouveler sa foi.</l>
 	<l id="1803">Roi, prêtres, peuple, allons, pleins de reconnaissance,</l>
@@ -2726,14 +2726,14 @@
 	<l id="1807">Abner, auprès du roi reprenez votre place.</l>
 	<l id="1808">Hé bien ? de cette impie a-t-on puni l’audace ?</l></sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE DERNIÈRE. Un Lévite, Joas, Joad, etc.</head>
-<sp who="LEVITES"><speaker>UN LÉVITE.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE DERNIÈRE.</head><cast>Un Lévite, Joas, Joad, etc.</cast>
+<sp who="LEVITES"><hstage><speaker>UN LÉVITE</speaker>.</hstage>
 	<l id="1809">Le fer a de sa vie expié les horreurs.</l>
 	<l id="1810">Jérusalem longtemps en proie à ses fureurs,</l>
 	<l id="1811">De son joug odieux à la fin soulagée,</l>
 	<l id="1812">Avec joie en son sang la regarde plongée.</l>
 </sp>
-<sp who="JOAD"><speaker>JOAD.</speaker>
+<sp who="JOAD"><hstage><speaker>JOAD</speaker>.</hstage>
 	<l id="1813">Par cette fin terrible, et due à ses forfaits,</l>
 	<l id="1814">Apprenez, roi des Juifs, et n’oubliez jamais,</l>
 	<l id="1815">Que les rois dans le ciel ont un juge sévère,</l>

@@ -52,8 +52,8 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Dangeste, Coucy.</head>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Dangeste, Coucy.</cast>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="1">Seigneur, en arrivant dans ce séjour d’alarmes,</l>
 	<l id="2">Je dérobe un instant au tumulte des armes.</l>
 	<l id="3">Frère d’Adélaïde, et, comme elle, engagé</l>
@@ -65,10 +65,10 @@
 	<l id="9">Mais il faut vous parler, et vous faire connaître</l>
 	<l id="10">L’âme d’un vrai soldat, digne de vous peut-être.</l>
 </sp>
-<sp who="DANGESTE"><speaker>DANGESTE.</speaker>
+<sp who="DANGESTE"><hstage><speaker>DANGESTE</speaker>.</hstage>
 	<l id="11" part="i">Seigneur, vous pouvez tout.</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="11" part="f">Mes mains, aux champs de Mars,</l>
 	<l id="12">Du prince d’Alençon portent les étendards.</l>
 	<l id="13">Je l’aimai dans la paix, je le sers dans la guerre ;</l>
@@ -91,10 +91,10 @@
 	<l id="30">Dans le sang des Français à regret s’est trempée.</l>
 	<l id="31" part="i">Le dauphin généreux...</l>
 </sp>
-<sp who="DANGESTE"><speaker>DANGESTE.</speaker>
+<sp who="DANGESTE"><hstage><speaker>DANGESTE</speaker>.</hstage>
 	<l id="31" part="f">Osez le nommer roi.</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="32">Jusqu’aujourd’hui, seigneur, il ne l’est pas pour moi.</l>
 	<l id="33">Je voudrais, il est vrai, lui porter mon hommage ;</l>
 	<l id="34">Tous mes veux sont pour lui, mais l’amitié m’engage.</l>
@@ -145,7 +145,7 @@
 	<l id="79">Songez que si l’hymen la range sous sa loi,</l>
 	<l id="80">Si le prince la sert, il servira son roi.</l>
 </sp>
-<sp who="DANGESTE"><speaker>DANGESTE.</speaker>
+<sp who="DANGESTE"><hstage><speaker>DANGESTE</speaker>.</hstage>
 	<l id="81">Qu’avec étonnement, seigneur, je vous contemple !</l>
 	<l id="82">Que vous donnez au monde un rare et grand exemple !</l>
 	<l id="83">Quoi ! Ce cour (je le crois sans feinte et sans détour)</l>
@@ -157,8 +157,8 @@
 	<l id="89">Mais du duc d’Alençon la fatale poursuite...</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Le Duc d’Alençon, Coucy, Dangeste.</head>
-<sp who="LE DUC"><speaker>LE DUC, à Dangeste.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Le Duc d’Alençon, Coucy, Dangeste.</cast>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>, à Dangeste.</hstage>
 	<l id="90">Est-ce elle qui m’échappe ? Est-ce elle qui m’évite ?</l>
 	<l id="91">Dangeste, demeurez. Vous connaissez trop bien</l>
 	<l id="92">Les transports douloureux d’un cour tel que le mien ;</l>
@@ -180,18 +180,18 @@
 	<l id="108">L’autel est prêt, j’y cours ; allez l’y préparer.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Le Duc d’Alençon, Coucy.</head>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Le Duc d’Alençon, Coucy.</cast>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="109">Seigneur, songez-vous bien que de cette journée</l>
 	<l id="110">Peut-être de l’État dépend la destinée ?</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="111">Oui, vous me verrez vaincre, ou mourir son époux.</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="112">Le dauphin s’avançait, et n’est pas loin de nous.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="113">Je l’attends sans le craindre, et je vais le combattre.</l>
 	<l id="114">Crois-tu que ma faiblesse ait pu jamais m’abattre ?</l>
 	<l id="115">Penses-tu que l’amour, mon tyran, mon vainqueur,</l>
@@ -206,7 +206,7 @@
 	<l id="124">Et du sein du bonheur ils volent au trépas.</l>
 	<l id="125">Je mourrai digne au moins de l’ingrate que j’aime.</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="126">Que mon prince plutôt soit digne de lui-même.</l>
 	<l id="127">Le salut de l’État m’occupait en ce jour ;</l>
 	<l id="128">Je vous parle du vôtre, et vous parlez d’amour.</l>
@@ -218,7 +218,7 @@
 	<l id="134">Pour frapper par degrés cette vaste puissance.</l>
 	<l id="135">Le dauphin vous offrait une honorable paix...</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="136">Non, de ses favoris je ne l’aurai jamais.</l>
 	<l id="137">Ami, je hais l’Anglais ; mais je hais davantage</l>
 	<l id="138">Ces lâches conseillers dont la faveur m’outrage,</l>
@@ -230,20 +230,20 @@
 	<l id="144">Pour baisser dans sa cour nos fronts humiliés,</l>
 	<l id="145">Pour servir lâchement un ministre arbitraire.</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="146">Non, c’est pour obtenir une paix nécessaire.</l>
 	<l id="147">Eh ! Quel autre intérêt pourriez-vous écouter ?</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="148">L’intérêt d’un courroux que rien ne peut dompter.</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="149">Vous poussez à l’excès l’amour et la colère.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="150">Je le sais ; je n’ai pu fléchir mon caractère.</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="151">On le doit, on le peut ; je ne vous flatte pas ;</l>
 	<l id="152">Mais, en vous condamnant, je suivrai tous vos pas ;</l>
 	<l id="153">Il faut à son ami montrer son injustice,</l>
@@ -251,19 +251,19 @@
 	<l id="155">Je l’ai dû, je l’ai fait malgré votre courroux ;</l>
 	<l id="156">Vous y voulez tomber, et j’y cours avec vous.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="157" par="i">Ami, que m’as-tu dit ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Le Duc d’Alençon, Coucy, Un officier.</head>
-<sp who="L-OFFICIER"><speaker>L’OFFICIER.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Le Duc d’Alençon, Coucy, Un officier.</cast>
+<sp who="L-OFFICIER"><hstage><speaker>L’OFFICIER</speaker>.</hstage>
 	<l id="157" part="f">Seigneur, l’assaut s’apprête :</l>
 	<l id="158" part="i">Ces murs sont entourés.</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="158" part="f">Marchez à notre tête.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="159">Je ne suis pas en peine, ami, de résister</l>
 	<l id="160">Aux téméraires mains qui viennent m’insulter.</l>
 	<l id="161">De tous les ennemis qu’il faut combattre encore,</l>
@@ -272,8 +272,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Le Duc d’Alençon, Coucy.</head>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Le Duc d’Alençon, Coucy.</cast>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="163">La victoire est à nous, vos soins l’ont assurée ;</l>
 	<l id="164">Vos conseils ont guidé ma jeunesse égarée.</l>
 	<l id="165">C’est vous dont l’esprit ferme et les yeux pénétrants</l>
@@ -283,7 +283,7 @@
 	<l id="169">Coucy m’est nécessaire aux conseils, aux combats,</l>
 	<l id="170">Et c’est à sa grande âme à diriger mon bras.</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="171">Prince, ce feu guerrier qu’en vous on voit paraître</l>
 	<l id="172">Sera maître de tout quand vous en serez maître.</l>
 	<l id="173">Vous l’avez su régler, et vous avez vaincu ;</l>
@@ -299,7 +299,7 @@
 	<l id="183">Sans doute au pied des murs exhalant sa furie,</l>
 	<l id="184">A payé cet assaut des restes de sa vie.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="185">Quel est donc, cher ami, ce chef audacieux</l>
 	<l id="186">Qui, cherchant le trépas, se cachait à nos yeux ?</l>
 	<l id="187">Son casque était fermé : quel charme inconcevable</l>
@@ -319,7 +319,7 @@
 	<l id="201">Ou que le trait fatal enfoncé dans mon cour</l>
 	<l id="202">Corrompe en tous les temps ma gloire et mon bonheur.</l> 
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="203">Quant aux traits dont votre âme a senti la puissance,</l>
 	<l id="204">Tous les conseils sont vains : agréez mon silence ;</l>
 	<l id="205">Mais ce sang des Français que nos mains font couler,</l>
@@ -340,7 +340,7 @@
 	<l id="220">L’intérêt les forma, l’honneur peut les dissoudre :</l>
 	<l id="221">Tels sont mes sentiments, que je ne peux trahir.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="222">Quoi ! Toujours à mes yeux elle craint de s’offrir !</l>
 	<l id="223">Quoi ! Lorsqu’à ses genoux soumettant ma fortune,</l>
 	<l id="224">Me dérobant aux cris d’une foule importune,</l>
@@ -352,14 +352,14 @@
 	<l id="230">Jouit de ma faiblesse et rit de mes douleurs !</l>
 	<l id="231">Oh ! Si je le croyais, si cet amour trop tendre...</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="232">Seigneur, à mon devoir il est temps de me rendre ;</l>
 	<l id="233">Je vais en votre nom, par des soins assidus,</l>
 	<l id="234">Honorer les vainqueurs, soulager les vaincus,</l>
 	<l id="235">Calmer les différends des Anglais et des vôtres :</l>
 	<l id="236">Voilà vos intérêts ; je n’en connais point d’autres.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="237">Tu ne m’écoutes pas, tu parles de devoir</l>
 	<l id="238">Quand mon cour dans le tien répand son désespoir.</l>
 	<l id="239">Va donc, remplis des soins dont je suis incapable :</l>
@@ -370,12 +370,12 @@
 	<l id="244">Ce que j’aime me fuit, et je fuis tout le monde ;</l>
 	<l id="245">Va, tu condamnes trop les transports de mon cour.</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="246">Non, je plains sa faiblesse, et j’en crains la fureur.</l>
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="LE DUC"><speaker>LE DUC, seul.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>, seul.</hstage>
 	<l id="247">Ô ciel ! Qu’il est heureux, et que je porte envie</l>
 	<l id="248">À la libre fierté de cette âme hardie !</l>
 	<l id="249">Il voit sans s’alarmer, il voit sans s’éblouir,</l>
@@ -390,32 +390,32 @@
 	<l id="258">Tout, hors Adélaïde, ici blesse mes yeux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Le Duc de Nemours, Dangeste.</head>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Le Duc de Nemours, Dangeste.</cast>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="259">Enfin, après trois ans, tu me revois, Dangeste !</l>
 	<l id="260">Mais en quels lieux, ô ciel ! En quel état funeste !</l>
 </sp>
-<sp who="DANGESTE"><speaker>DANGESTE.</speaker>
+<sp who="DANGESTE"><hstage><speaker>DANGESTE</speaker>.</hstage>
 	<l id="261">Vos jours sont en péril, et ce sang agité...</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="262">Mes déplorables jours sont trop en sûreté ;</l>
 	<l id="263">Ma blessure est légère, elle m’est insensible ;</l>
 	<l id="264">Que celle de mon cour est profonde et terrible !</l>
 </sp>
-<sp who="DANGESTE"><speaker>DANGESTE.</speaker>
+<sp who="DANGESTE"><hstage><speaker>DANGESTE</speaker>.</hstage>
 	<l id="265">Rendez grâces au ciel de ce qu’il a permis</l>
 	<l id="266">Que vous soyez tombé sous de tels ennemis,</l>
 	<l id="267">Non sous le joug affreux d’une main étrangère.</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="268">Qu’il est dur bien souvent d’être aux mains de son frère !</l>
 </sp>
-<sp who="DANGESTE"><speaker>DANGESTE.</speaker>
+<sp who="DANGESTE"><hstage><speaker>DANGESTE</speaker>.</hstage>
 	<l id="269">Mais, ensemble élevés, dans des temps plus heureux,</l>
 	<l id="270">La plus tendre amitié vous unissait tous deux.</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="271">Il m’aimait autrefois, c’est ainsi qu’on commence ;</l>
 	<l id="272">Mais bientôt l’amitié s’envole avec l’enfance.</l>
 	<l id="273">Ah ! Combien le cruel s’est éloigné de moi !</l>
@@ -425,11 +425,11 @@
 	<l id="277">Il ne sait pas encor ce qu’il me fait souffrir,</l>
 	<l id="278">Et mon cour déchiré ne saurait le haïr.</l>
 </sp>
-<sp who="DANGESTE"><speaker>DANGESTE.</speaker>
+<sp who="DANGESTE"><hstage><speaker>DANGESTE</speaker>.</hstage>
 	<l id="279">Il ne soupçonne pas qu’il ait en sa puissance</l>
 	<l id="280">Un frère infortuné qu’animait la vengeance.</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="281">Non, la vengeance, ami, n’entra point dans mon cour ;</l>
 	<l id="282">Qu’un soin trop différent égara ma valeur !</l>
 	<l id="283">Ah ! Parle : est-il bien vrai ce que la renommée</l>
@@ -439,67 +439,67 @@
 	<l id="287">Adélaïde, enfin, le tient sous sa puissance ?</l>
 	<l id="288">Qu’a-t-on dit ? Que sais-tu de leur intelligence ?</l>
 </sp>
-<sp who="DANGESTE"><speaker>DANGESTE.</speaker>
+<sp who="DANGESTE"><hstage><speaker>DANGESTE</speaker>.</hstage>
 	<l id="289">Prisonnier comme vous dans ces murs odieux,</l>
 	<l id="290">Ces mystères secrets offenseraient mes yeux ;</l>
 	<l id="291">Et tout ce que j’ai su... Mais je le vois paraître.</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="292">Ô honte ! Ô désespoir dont je ne suis pas maître !</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Le Duc d’Alençon, Nemours, Dangeste, Suite.</head>
-<sp who="LE DUC"><speaker>LE DUC, à sa suite.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Le Duc d’Alençon, Nemours, Dangeste, Suite.</cast>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>, à sa suite.</hstage>
 	<l id="293">Après avoir montré cette rare valeur,</l>
 	<l id="294">Peut-il rougir encor de m’avoir pour vainqueur ?</l>
 	<l id="295" part="i">Il détourne la vue.</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="295" part="f">Ô sort ! Ô jour funeste,</l>
 	<l id="296">Qui de ma triste vie arrachera le reste !</l>
 	<l id="297">En quelles mains, ô ciel, mon malheur m’a remis !</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="298">Qu’entends-je, et quels accents ont frappé mes esprits !</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="299" part="i">M’as-tu pu méconnaître ?</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="299" part="f">Ah ! Nemours, ah ! Mon frère.</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="300">Ce nom jadis si cher, ce nom me désespère.</l>
 	<l id="301">Je ne le suis que trop, ce frère infortuné,</l>
 	<l id="302">Ton ennemi vaincu, ton captif enchaîné.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="303">Tu n’es plus que mon frère, et mon cour te pardonne ;</l>
 	<l id="304">Mais, je te l’avouerai, ta cruauté m’étonne.</l>
 	<l id="305">Si ton roi me poursuit, Nemours, était-ce à toi</l>
 	<l id="306">À briguer, à remplir cet odieux emploi ?</l>
 	<l id="307" part="i">Que t’ai-je fait ?</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="307" part="f">Tu fais le malheur de ma vie ;</l>
 	<l id="308">Je voudrais qu’aujourd’hui ta main me l’eût ravie.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="309">De nos troubles civils quel effet malheureux !</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="310">Les troubles de mon cour sont encor plus affreux.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="311">J’eusse aimé contre un autre à montrer mon courage :</l>
 	<l id="312" part="i">Hélas ! Que je te plains !</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="312" part="f">Je te plains davantage</l>
 	<l id="313">De haïr ton pays, de trahir sans remords</l>
 	<l id="314">Et le roi qui t’aimait, et le sang dont tu sors.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="315">Arrête, épargne-moi l’infâme nom de traître !</l>
 	<l id="316">A cet indigne mot je m’oublierais peut-être.</l>
 	<l id="317">Non, mon frère, jamais je n’ai moins mérité</l>
@@ -509,31 +509,31 @@
 	<l id="321">L’exemple auguste et saint de la réunion,</l>
 	<l id="322">Après l’avoir donné de la division.</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="323" part="i">Toi ! tu pourrais...</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="323" part="f">Ce jour, qui semble si funeste,</l>
 	<l id="324">Des feux de la discorde éteindra ce qui reste.</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="325" part="i">Ce jour est trop horrible !</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="325" part="f">Il va combler mes voux.</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="326" part="i">Comment ?</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="326" part="f">Tout est changé, ton frère est trop heureux.</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="327">Je te crois ; on disait que d’un amour extrême,</l>
 	<l id="328">Violent, effréné (car c’est ainsi qu’on aime),</l>
 	<l id="329">Ton cour depuis trois mois s’occupait tout entier ?</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="330">J’aime, oui, la renommée a pu le publier ;</l>
 	<l id="331">Oui, j’aime avec fureur une telle alliance</l>
 	<l id="332">Semblait pour mon bonheur attendre ta présence ;</l>
@@ -548,25 +548,25 @@
 	<l id="339">Ne blâme point l’amour où ton frère est en proie :</l>
 	<l id="340">Pour me justifier, il suffit qu’on la voie.</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 <stage>À part.</stage>
 	<l id="341" part="i">Cruel !...</l>
 <stage>Au Duc.</stage>
 	<l id="341" part="m">Elle vous aime !</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="341" part="f">Elle le doit du moins.</l>
 	<l id="342">Il n’était qu’un obstacle au succès de mes soins :</l>
 	<l id="343">Il n’en est plus ; je veux que rien ne nous sépare.</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS, à part.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>, à part.</hstage>
 	<l id="344">Quels effroyables coups le cruel me prépare !</l>
 <stage>Haut.</stage>
 	<l id="345">Écoute ! À ma douleur ne veux-tu qu’insulter ?</l>
 	<l id="346">Me connais-tu ? Sais-tu ce que j’osais tenter ?</l>
 	<l id="347">Dans ces funestes lieux sais-tu ce qui m’amène ?</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="348">Oublions ces sujets de discorde et de haine ;</l>
 	<l id="349">Et vous, mon frère, et vous, soyez ici témoin</l>
 	<l id="350">Si l’excès de l’amour peut emporter plus loin !</l>
@@ -590,31 +590,31 @@
 	<l id="367">Qui d’un prince ennemi fait un sujet fidèle,</l>
 	<l id="368">Changé par ses regards, et vertueux par elle !</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS, à part.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>, à part.</hstage>
 	<l id="369">Il fait ce que je veux, et c’est pour m’accabler.</l>
 <stage>Haut.</stage>
 	<l id="370" part="i">Ô frère trop cruel !</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="370" part="m">Qu’entends-je ?</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="370" part="f">Il faut parler.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="371">Que me voulez-vous dire ? Et pourquoi tant d’alarmes ?</l>
 	<l id="372">Vous ne connaissez pas ses redoutables charmes.</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="373">Le ciel met entre nous un obstacle éternel.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="374">Entre nous... c’en est trop. Qui vous l’a dit, cruel ?</l>
 	<l id="375">Mais de vous, en effet, était-elle ignorée ?</l>
 	<l id="376">Ciel ! À quel piège affreux ma foi serait livrée !</l>
 	<l id="377" part="i">Tremblez !</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="377" part="f">Moi, que je tremble ! Ah ! J’ai trop dévoré</l>
 	<l id="378">L’inexprimable horreur où toi seul m’as livré ;</l>
 	<l id="379">J’ai forcé trop longtemps mes transports au silence ;</l>
@@ -622,10 +622,10 @@
 	<l id="381">Connais un désespoir à tes fureurs égal :</l>
 	<l id="382">Frappe ! Voilà mon cour, et voilà ton rival !</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="383" part="i">Toi, cruel ! Toi, Nemours !</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="383" part="f">Oui, depuis deux années</l>
 	<l id="384">L’amour le plus secret a joint nos destinées.</l>
 	<l id="385">C’est toi dont les fureurs ont voulu m’arracher</l>
@@ -662,13 +662,13 @@
 	<l id="416">Traîne au pied des autels ta sour et mon épouse !</l>
 	<l id="417" part="i">Frappe, dis-je : oses-tu ?</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="417" part="f">Traître ! C’en est assez.</l>
 	<l id="418">Qu’on l’ôte de mes yeux : soldats, obéissez !</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Le Duc, Nemours, Dangeste, Coucy, Suite.</head>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Le Duc, Nemours, Dangeste, Coucy, Suite.</cast>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="419">J’allais partir, Seigneur ; un peuple téméraire</l>
 	<l id="420">Se soulève en tumulte au nom de votre frère.</l>
 	<l id="421">Le désordre est partout : vos soldats consternés</l>
@@ -676,7 +676,7 @@
 	<l id="423">Et pour comble de maux, vers la ville alarmée,</l>
 	<l id="424">L’ennemi rassemblé fait marcher son armée.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="425">Allez, cruel, allez ! Vous ne jouirez pas</l>
 	<l id="426">Du fruit de votre haine et de vos attentats.</l>
 	<l id="427">Rentrez : aux factieux je vais montrer leur maître.</l>
@@ -684,20 +684,20 @@
 	<l id="428">Dangeste, suivez-moi ; vous, veillez sur ce traître.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Nemours, Coucy.</head>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Nemours, Coucy.</cast>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="429">Le seriez-vous, Seigneur ? Auriez-vous démenti</l>
 	<l id="430">Le sang de ces héros dont vous êtes sorti ?</l>
 	<l id="431">Auriez-vous violé, par cette lâche injure,</l>
 	<l id="432">Et les droits de la guerre et ceux de la nature ?</l>
 	<l id="433">Un prince à cet excès pourrait-il s’oublier ?</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="434">Non ; mais suis-je réduit à me justifier ?</l>
 	<l id="435">Coucy, ce peuple est juste, il t’apprend à connaître</l>
 	<l id="436">Que mon frère est rebelle, et que Charle est son maître.</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="437">Écoutez ; ce serait le comble de mes voux</l>
 	<l id="438">De pouvoir aujourd’hui vous réunir tous deux ;</l>
 	<l id="439">Je vois avec regret la France désolée,</l>
@@ -710,7 +710,7 @@
 	<l id="446">Pour calmer votre frère et fléchir votre roi,</l>
 	<l id="447">Pour éteindre le feu de nos guerres civiles.</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="448">Ne vous en flattez pas : vos soins sont inutiles.</l>
 	<l id="449">Si la discorde seule avait armé mon bras,</l>
 	<l id="450">Si la guerre et la haine avaient conduit mes pas,</l>
@@ -718,15 +718,15 @@
 	<l id="452">L’un de l’autre écartés dans des partis contraires ;</l>
 	<l id="453">Un obstacle plus grand s’oppose à ce retour.</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="454" part="i">Et quel est-il, seigneur ?</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="454" part="f">Ah ! Reconnais l’amour ;</l>
 	<l id="455">Reconnais la fureur qui de nous deux s’empare,</l>
 	<l id="456">Qui m’a fait téméraire, et qui le rend barbare.</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="457">Ciel ! Faut-il voir ainsi, par des caprices vains,</l>
 	<l id="458">Anéantir le fruit des plus nobles desseins ;</l>
 	<l id="459">L’amour subjuguer tout, ses cruelles faiblesses</l>
@@ -745,10 +745,10 @@
 	<l id="472">Soyez mon prisonnier, mais sur votre parole ;</l>
 	<l id="473" part="i">Elle me suffira.</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="473" part="m">Je vous la donne.</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="473" part="f">Et moi,</l>
 	<l id="474">Je voudrais de ce pas porter la sienne au roi ;</l>
 	<l id="475">Je voudrais cimenter, dans l’ardeur de lui plaire,</l>
@@ -759,8 +759,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Nemours, Dangeste.</head>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Nemours, Dangeste.</cast>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="479">Non, non, ce peuple en vain s’armait pour ma défense ;</l>
 	<l id="480">Mon frère, teint de sang, enivré de vengeance,</l>
 	<l id="481">Devenu plus jaloux, plus fier, et plus cruel,</l>
@@ -771,13 +771,13 @@
 	<l id="486">Par sa fuite du moins mon cour peut se venger.</l>
 	<l id="487" part="i">Juste ciel !</l>
 </sp>
-<sp who="DANGESTE"><speaker>DANGESTE.</speaker>
+<sp who="DANGESTE"><hstage><speaker>DANGESTE</speaker>.</hstage>
 	<l id="487" part="f">Ah ! Seigneur, où l’avez-vous conduite ?</l>
 	<l id="488">Quoi ! Vous l’abandonnez, vous ordonnez sa fuite !</l>
 	<l id="489">Elle ne veut partir qu’en suivant son époux ;</l>
 	<l id="490">Laissez-moi seul du prince affronter le courroux.</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="491">Prisonnier sur ma foi, dans l’horreur qui me presse,</l>
 	<l id="492">Je suis plus enchaîné par ma seule promesse</l>
 	<l id="493">Que si de cet État les tyrans inhumains</l>
@@ -788,43 +788,43 @@
 	<l id="498">Qui la rendront bientôt sous ces coupables murs :</l>
 	<l id="499">L’amour nous a rejoint, que l’amour nous sépare.</l>
 </sp>
-<sp who="DANGESTE"><speaker>DANGESTE.</speaker>
+<sp who="DANGESTE"><hstage><speaker>DANGESTE</speaker>.</hstage>
 	<l id="500">Cependant vous restez au pouvoir d’un barbare.</l>
 	<l id="501">Seigneur, de votre sang l’Anglais est altéré ;</l>
 	<l id="502">Ce sang à votre frère est-il donc si sacré ?</l>
 	<l id="503">Craindra-t-il d’accorder, dans son courroux funeste,</l>
 	<l id="504">Aux alliés qu’il aime un rival qu’il déteste ?</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="505" part="i">Il n’oserait.</l>
 </sp>
-<sp who="DANGESTE"><speaker>DANGESTE.</speaker>
+<sp who="DANGESTE"><hstage><speaker>DANGESTE</speaker>.</hstage>
 	<l id="505" part="f">Son cour ne connaît point de frein.</l>
 	<l id="506">Il vous a menacé : menace-t-il en vain ?</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="507">Il tremblera bientôt : le roi vient et nous venge ;</l>
 	<l id="508">La moitié de ce peuple à ses drapeaux se range.</l>
 	<l id="509">Ne craignons rien, ami... Ciel ! Quel tumulte affreux !</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Le Duc, Nemours, Dangeste, Gardes.</head>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Le Duc, Nemours, Dangeste, Gardes.</cast>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="510">Je l’entends. C’est lui-même. Arrête, malheureux !</l>
 	<l id="511">Lâche qui me trahis, rival indigne, arrête !</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="512">Il ne te trahit point, mais il t’offre sa tête.</l>
 	<l id="513">Porte à tous les excès ta haine et ta fureur.</l>
 	<l id="514">Va, ne perds point de temps : le ciel arme un vengeur.</l>
 	<l id="515">Tremble ! Ton roi s’approche ; il vient, il va paraître ;</l>
 	<l id="516">Tu n’as vaincu que moi : redoute encor ton maître.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="517">Il pourra te venger, mais non te secourir ;</l>
 	<l id="518" part="i">Et ton sang...</l>
 </sp>
-<sp who="DANGESTE"><speaker>DANGESTE.</speaker>
+<sp who="DANGESTE"><hstage><speaker>DANGESTE</speaker>.</hstage>
 	<l id="518" part="f">Non, cruel, c’est à moi de mourir.</l>
 	<l id="519">J’ai tout fait, c’est par moi que ta garde est séduite ;</l>
 	<l id="520">J’ai gagné tes soldats, j’ai préparé sa fuite.</l>
@@ -835,33 +835,33 @@
 	<l id="525">Il voulait te servir quand lu veux l’opprimer ;</l>
 	<l id="526">Est-ce à toi de punir quand le crime est d’aimer ?</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="527">Qu’on les garde tous deux ; allez, qu’on m’obéisse !</l>
 	<l id="528">Allez, dis-je ; leur vue augmente mon supplice.</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="529">Cruel, de notre sang je connais les ardeurs :</l>
 	<l id="530">Toutes les passions sont en nous des fureurs.</l>
 	<l id="531">J’attends la mort de toi ; mais, dans mon malheur même,</l>
 	<l id="532">Je suis assez vengé l’on te hait, et l’on m’aime.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Le Duc D’Alençon, Coucy.</head>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Le Duc D’Alençon, Coucy.</cast>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="533">On t’aime, et tu mourras ! Que d’horreurs à la fois !</l>
 	<l id="534">L’amour, l’indigne amour nous a perdus tous trois !</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="535">Il ne se connaît plus, il succombe à sa rage.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="536">Eh bien ! Souffriras-tu ma honte et mon outrage ?</l>
 	<l id="537">Le temps presse : veux-tu qu’un rival odieux</l>
 	<l id="538">Enlève la perfide, et l’épouse à mes yeux ?</l>
 	<l id="539">Tu crains de me répondre. Attends-tu que le traître</l>
 	<l id="540">Ait soulevé mon peuple, et me livre à son maître ?</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="541">Je vois trop en effet que le parti du roi</l>
 	<l id="542">Dans ces cœurs fatigués fait chanceler la foi.</l>
 	<l id="543">De la sédition la flamme réprimée</l>
@@ -874,10 +874,10 @@
 	<l id="550">Croit dans la trahison trouver sa sûreté ;</l>
 	<l id="551" part="i">Vos dangers sont accrus.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="551" part="f">Cruel, que faut-il faire ?</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="552">Les prévenir ; dompter l’amour et la colère.</l>
 	<l id="553">Ayons encor, mon prince, en cette extrémité,</l>
 	<l id="554">Pour prendre un parti sûr assez de fermeté.</l>
@@ -890,7 +890,7 @@
 	<l id="561">Mais s’il vous tant combattre et courir au trépas,</l>
 	<l id="562">Vous savez qu’un ami ne vous survivra pas.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="563">Ami, dans le tombeau laisse-moi seul descendre ;</l>
 	<l id="564">Vis pour servir ma cause, et pour venger ma cendre.</l>
 	<l id="565">Mon destin s’accomplit, et je cours l’achever.</l>
@@ -898,16 +898,16 @@
 	<l id="567">Mais je la veux terrible, et lorsque je succombe,</l>
 	<l id="568">Je veux voir mon rival entraîné dans ma tombe.</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="569">Comment ! De quelle horreur vos sens sont possédés !</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="570">Il est dans cette tour où vous seul commandez.</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="571" part="i">Quoi ! Votre frère ?</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="571" part="f">Lui ? Nemours est-il mon frère ?</l>
 	<l id="572">Il brave mon amour, il brave ma colère ;</l>
 	<l id="573">Il me livre à son maître ; il m’a seul opprimé ;</l>
@@ -918,25 +918,25 @@
 	<l id="578">Le chef de ces Anglais, dans la ville introduit,</l>
 	<l id="579">Demande au nom des siens la tête du parjure.</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="580">Vous leur avez promis de trahir la nature ?</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="581">Dès longtemps du perfide ils ont proscrit le sang.</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="582">Et, pour leur obéir, vous lui percez le flanc !</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="583">Non, je n’obéis point à leur haine étrangère :</l>
 	<l id="584">J’obéis à ma rage, et veux la satisfaire.</l>
 	<l id="585">Que m’importent l’État et mes vains alliés ?</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="586">Ainsi donc à l’amour vous le sacrifiez,</l>
 	<l id="587">Et vous me chargez, moi, du soin de son supplice !</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="588">Je n’attends pas de vous cette prompte justice.</l>
 	<l id="589">Je suis bien malheureux, bien digne de pitié,</l>
 	<l id="590">Trahi dans mon amour, trahi dans l’amitié.</l>
@@ -945,10 +945,10 @@
 	<l id="593">Et Tangui du Châtel, quand tu fus offensé,</l>
 	<l id="594">T’a servi sans scrupule, et n’a pas balancé.</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="595">Il a payé bien cher cet affreux sacrifice.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="596">Le mien coûtera plus, mais je veux ce service.</l>
 	<l id="597">Oui, je le veux : ma mort à l’instant le suivra ;</l>
 	<l id="598">Mais, du moins, mon rival avant moi périra.</l>
@@ -957,7 +957,7 @@
 	<l id="601">D’autres me serviront, et n’allégueront pas</l>
 	<l id="602">Cette triste vertu, l’excuse des ingrats.</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY, après un long silence.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>, après un long silence.</hstage>
 	<l id="603">Non, j’ai pris mon parti ; soit crime, soit justice,</l>
 	<l id="604">Vous ne vous plaindrez pas qu’un ami vous trahisse.</l>
 	<l id="605">Je me rends, non à vous, non à votre fureur,</l>
@@ -970,8 +970,8 @@
 	<l id="612">Si Coucy vous aimait, et s’il vous fut fidèle.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Le Duc d’Alençon, Gardes.</head>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Le Duc d’Alençon, Gardes.</cast>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="613">Non, sa froide amitié ne me servira pas ;</l>
 	<l id="614">Non ; je n’ai point d’amis : tous les cœurs sont ingrats.</l>
 <stage>À un soldat.</stage>
@@ -1019,24 +1019,24 @@
 	<l id="653" part="i">Il en est temps encor.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Le Duc, Un Officier.</head>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Le Duc, Un Officier.</cast>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="653" part="f">Que tout soit suspendu :</l>
 	<l id="654" part="i">Vole à la tour.</l>
 </sp>
-<sp who="L-OFFICIER"><speaker>L’OFFICIER.</speaker>
+<sp who="L-OFFICIER"><hstage><speaker>L’OFFICIER</speaker>.</hstage>
 	<l id="654" part="m">Seigneur...</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="654" part="f">De quoi t’alarmes-tu ?</l>
 	<l id="655" part="i">Ciel ! tu pleures.</l>
 </sp>
-<sp who="L-OFFICIER"><speaker>L’OFFICIER.</speaker>
+<sp who="L-OFFICIER"><hstage><speaker>L’OFFICIER</speaker>.</hstage>
 	<l id="655" part="f">J’ai vu, non loin de cette porte,</l>
 	<l id="656">Un corps souillé de sang qu’en secret on emporte.</l>
 	<l id="657">C’est Coucy qui l’ordonne, et je crains que le sort...</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 <stage>On entend le canon.</stage>
 	<l id="658">Quoi ! Déjà ! Dieux ! Qu’entends-je ? Ah ciel ! Mon frère est mort !</l>
 	<l id="659">Il est mort ! Et je vis, et la terre entr’ouverte,</l>
@@ -1051,11 +1051,11 @@
 	<l id="668">Je sais que tu m’aimais, et mon bras t’assassine !...</l>
 	<l id="669" part="i">Mon frère !</l>
 </sp>
-<sp who="L-OFFICIER"><speaker>L’OFFICIER.</speaker>
+<sp who="L-OFFICIER"><hstage><speaker>L’OFFICIER</speaker>.</hstage>
 	<l id="669" part="f">Adélaïde, avec empressement,</l>
 	<l id="670">Veut, seigneur, en secret vous parler un moment.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="671">Chers amis, empêchez que la cruelle avance ;</l>
 	<l id="672">Je ne puis soutenir ni souffrir sa présence ;</l>
 	<l id="673">Je ne mérite pas de périr à ses yeux.</l>
@@ -1063,32 +1063,32 @@
 <stage>Il tire son épée.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Le Duc d’Alençon, Coucy, Gardes.</head>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Le Duc d’Alençon, Coucy, Gardes.</cast>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="674" part="f">Quels transports furieux !</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="675">Laissez-moi me punir et me rendre justice.</l>
 <stage>À Coucy.</stage>
 	<l id="676">Quoi ! D’un assassinat tu t’es fait le complice !</l>
 	<l id="677">Ministre de mon crime, as-tu pu m’obéir ?</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="678">Je vous avais promis, Seigneur, de vous servir.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="679">Malheureux que je suis ! Ta sévère rudesse</l>
 	<l id="680">A cent fois de mes sens combattu la faiblesse :</l>
 	<l id="681">Ne devais-tu te rendre à mes tristes souhaits</l>
 	<l id="682">Que quand ma passion t’ordonnait des forfaits ?</l>
 	<l id="683">Tu ne m’as obéi que pour perdre mon frère !</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="684">Lorsque j’ai refusé ce sanglant ministère,</l>
 	<l id="685">Votre aveugle courroux n’allait-il pas soudain</l>
 	<l id="686">Du soin de vous venger charger une autre main ?</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="687">L’amour, le seul amour, de mes sens toujours maître,</l>
 	<l id="688">En m’ôtant la raison, m’eut excusé peut-être...</l>
 	<l id="689">Mais toi, dont la sagesse et les réflexions</l>
@@ -1096,7 +1096,7 @@
 	<l id="691">Toi, dont j’avais tant craint l’esprit ferme et rigide,</l>
 	<l id="692">Avec tranquillité permettre un parricide !</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="693">Eh bien ! Puisque la honte, et que le repentir,</l>
 	<l id="694">Par qui la vertu parle à qui peut la trahir,</l>
 	<l id="695">D’un si juste remords ont pénétré votre âme ;</l>
@@ -1113,32 +1113,32 @@
 <stage>Le Duc de Nemours paraît.</stage> 
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Le Duc, Nemours, Coucy, Dangeste.</head>
-<sp who="DANGESTE"><speaker>DANGESTE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Le Duc, Nemours, Coucy, Dangeste.</cast>
+<sp who="DANGESTE"><hstage><speaker>DANGESTE</speaker>.</hstage>
 	<l id="705" part="i">Seigneur...</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="705" part="m">Mon frère...</l>
 </sp>
-<sp who="DANGESTE"><speaker>DANGESTE.</speaker>
+<sp who="DANGESTE"><hstage><speaker>DANGESTE</speaker>.</hstage>
 	<l id="705" part="m">Ah ! Ciel !</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="705" part="f">Qui l’aurait pu penser ?</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS, s’avançant du fond du théâtre.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>, s’avançant du fond du théâtre.</hstage>
 	<l id="706">J’ose encor te revoir, te plaindre et t’embrasser.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="707">Mon crime en est plus grand, puisque ton cour l’oublie.</l>
 </sp>
-<sp who="DANGESTE"><speaker>DANGESTE.</speaker>
+<sp who="DANGESTE"><hstage><speaker>DANGESTE</speaker>.</hstage>
 	<l id="708">Coucy, digne héros, qui lui donnes la vie...</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="709" part="i">Il la donne à tous trois.</l>
 </sp>
-<sp who="COUCY"><speaker>COUCY.</speaker>
+<sp who="COUCY"><hstage><speaker>COUCY</speaker>.</hstage>
 	<l id="709" part="f">Un indigne assassin</l>
 	<l id="710">Sur Nemours à mes yeux avait levé la main :</l>
 	<l id="711">J’ai frappé le barbare ; et prévenant encore</l>
@@ -1146,15 +1146,15 @@
 	<l id="713">J’ai fait donner soudain le signal odieux,</l>
 	<l id="714">Sûr que dans quelque temps vous ouvririez les yeux.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="715">Après ce grand exemple et ce service insigne,</l>
 	<l id="716">Le prix que je t’en dois, c’est de m’en rendre digne.</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="717">Tous deux auprès du roi nous voulions te servir.</l>
 	<l id="718" part="i">Quel est donc ton dessein ?... Parle.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="718" part="f">De me punir ;</l>
 	<l id="719">De nous rendre à tous trois une égale justice ;</l>
 	<l id="720">D’expier devant vous, par le plus grand supplice,</l>
@@ -1169,16 +1169,16 @@
 	<l id="729">Je m’arrache le cour en vous rendant heureux :</l>
 	<l id="730">Aimez-vous, mais au moins pardonnez-moi tous deux.</l>
 </sp>
-<sp who="NEMOURS"><speaker>NEMOURS.</speaker>
+<sp who="NEMOURS"><hstage><speaker>NEMOURS</speaker>.</hstage>
 	<l id="731">Ah ! Ton frère à tes pieds, digne de ta clémence,</l>
 	<l id="732">Égale tes bienfaits par sa reconnaissance.</l>
 </sp>
-<sp who="DANGESTE"><speaker>DANGESTE.</speaker>
+<sp who="DANGESTE"><hstage><speaker>DANGESTE</speaker>.</hstage>
 	<l id="733">Oui, seigneur, avec lui j’embrasse vos genoux ;</l>
 	<l id="734">La plus tendre amitié va me rejoindre à vous :</l>
 	<l id="735">Vous nous payez trop bien de nos douleurs souffertes.</l>
 </sp>
-<sp who="LE DUC"><speaker>LE DUC.</speaker>
+<sp who="LE DUC"><hstage><speaker>LE DUC</speaker>.</hstage>
 	<l id="736">Ah ! C’est trop me montrer mes malheurs et mes pertes ;</l>
 	<l id="737">Mais vous m’apprenez tous à suivre la vertu.</l>
 	<l id="738">Ce n’est point à demi que mon cour est rendu.</l>

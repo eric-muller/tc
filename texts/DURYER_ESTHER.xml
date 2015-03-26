@@ -7,7 +7,7 @@
 				<date>1644</date>
 			</titleStmt>
 			<publicationStmp>	
-                                <editor/>
+                                <editor></editor>
 				<publisher>publié par Ernest FIEVRE, janvier 2009</publisher>
 			</publicationStmp>
 			<SourceDesc>
@@ -58,8 +58,8 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Esther, Thamar.</head>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Esther, Thamar.</cast>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1">En vain cette grandeur, cette course d’alarmes</l>
 	<l id="2">Se présente à mes yeux avecques tous ses charmes ;</l>
 	<l id="3">Quelque tranquillité qui suive mes travaux,</l>
@@ -69,19 +69,19 @@
 	<l id="7">Et je ne crois monter sur un siège si beau</l>
 	<l id="8">Que pour choir de plus haut dans l’horreur du tombeau.</l>
 </sp>
-<sp who="THAMAR"><speaker>THAMAR.</speaker>
+<sp who="THAMAR"><hstage><speaker>THAMAR</speaker>.</hstage>
 	<l id="9">N’allez pont pénétrer dans les choses futures</l>
 	<l id="10">Pour chercher des sujets de tristes aventures.</l>
 	<l id="11">Laissez enfin agir la Justice des Cieux,</l>
 	<l id="12">Que veut vous rendre un trône ou régnaient vos aïeux.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="13">Hélas, chère Thamar, je sais que mes Ancêtres</l>
 	<l id="14">Du trône d’Israël furent jadis les Maîtres ;</l>
 	<l id="15">Mais s’ils en sont tombés me dois-tu contester</l>
 	<l id="16">Que c’est avec raison que je crains d’y monter ?</l>
 </sp>
-<sp who="THAMAR"><speaker>THAMAR.</speaker>
+<sp who="THAMAR"><hstage><speaker>THAMAR</speaker>.</hstage>
 	<l id="17">Comme toutes les mers ne sont pas orageuses,</l>
 	<l id="18">Toutes grandeurs aussi ne sont pas périlleuses.</l>
 	<l id="19">Quand le Ciel relevant un grand trône abattu</l>
@@ -103,7 +103,7 @@
 	<l id="35">La Couronne est charmante à tous les grands esprits,</l>
 	<l id="36">Et qui la croit un faix n’en connaît pas le prix.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="37">Un grand roi me chérit ; un Monarque qui m’aime</l>
 	<l id="38">M’offre avec son amour la part d’un Diadème,</l>
 	<l id="39">Et peut-être qu’une autre avecque cet honneur</l>
@@ -119,16 +119,16 @@
 	<l id="49">Dois-je me confier aux biens qu’il me présente,</l>
 	<l id="50">Et qui n’ont pour appui qu’une amour inconstante ?</l>
 </sp>
-<sp who="THAMAR"><speaker>THAMAR.</speaker>
+<sp who="THAMAR"><hstage><speaker>THAMAR</speaker>.</hstage>
 	<l id="51">Vos vertus garderont la prise de vos yeux.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="52">Cette garde est un bien que j’attendrai des Cieux.</l>
 </sp>
-<sp who="THAMAR"><speaker>THAMAR.</speaker>
+<sp who="THAMAR"><hstage><speaker>THAMAR</speaker>.</hstage>
 	<l id="53" part="i">Enfin le Roi vous aime.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="53" part="f">Il aima cette Reine,</l>
 	<l id="54">Qui ressent aujourd’hui ce que pèse sa haine,</l>
 	<l id="55">Ainsi comme un écueil renommé sur les eaux</l>
@@ -145,8 +145,8 @@
 	<l id="66">Mais voici mon appui le frère de mon Père.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Mardochée, Esther, Thamar.</head>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Mardochée, Esther, Thamar.</cast>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="67">Jugera-t-on toujours vous voyant comme en deuil,</l>
 	<l id="68">Qu’au lieu d’une couronne on vous donne un cercueil ?</l>
 	<l id="69">Donnez par votre joie une éclatante marque</l>
@@ -156,11 +156,11 @@
 	<l id="73">Puisque c’est par des mains si nobles et si chères</l>
 	<l id="74">Que le ciel nous conduit aux fortunes prospères.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="75">C’est dans notre fortune une espèce d’appui</l>
 	<l id="76">Que de craindre toujours ce qui fait choir autrui.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="77">Je sais bien que le sort d’une Reine chassée</l>
 	<l id="78">Peut avecques raison troubler votre pensée,</l>
 	<l id="79">Mais en jetant les yeux sur son adversité,</l>
@@ -190,17 +190,17 @@
 	<l id="103">Enfin puisque le Ciel ne fait rien vainement,</l>
 	<l id="104">Joignez à son vouloir votre consentement.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="105">Je veux tout ce qu’il veut, enfin quoi qu’il ordonne,</l>
 	<l id="106">Je verrai d’un même œil les fers ou la couronne.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="107">Mais ce n’est pas assez de ce cœur sans pareil,</l>
 	<l id="108">Il faut vous souvenir de mon premier conseil,</l>
 	<l id="109">Et pour vous assurer le bien qu’on vous présente,</l>
 	<l id="110">Continuer encore une ruse innocente.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="111">Certes votre discours me donne de l’effroi,</l>
 	<l id="112">Il faut, il faut trembler quand on abuse un Roi,</l>
 	<l id="113">Et la ruse après tout, à soi-même importune,</l>
@@ -240,7 +240,7 @@
 	<l id="147">Évitons le péril que je vois approcher ;</l>
 	<l id="148">Et découvrons enfin ce qu’on ne peut cacher.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="149">Ne précipitez rien, montrez de la constance,</l>
 	<l id="150">Cachez votre pays, cachez votre naissance,</l>
 	<l id="151">Traitez-moi, traitez-moi comme un indifférent,</l>
@@ -249,7 +249,7 @@
 	<l id="154">Elle n’éclatera que pour frapper ma tête.</l>
 	<l id="155" part="i">Que craignez-vous ?</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="155" part="f">Les Juifs, peuple odieux au Roi,</l>
 	<l id="156">Les Juifs de qui je sors me donnent de l’effroi.</l>
 	<l id="157">Si le Roi les déteste, et leur montre sa haine,</l>
@@ -261,25 +261,25 @@
 	<l id="163">Il m’aime sans savoir pour qui brûle ses feux,</l>
 	<l id="164">Et comme il hait les Juifs, il me hait avec eux.</l>
 </sp>
-<sp who="THAMAR"><speaker>THAMAR.</speaker>
+<sp who="THAMAR"><hstage><speaker>THAMAR</speaker>.</hstage>
 	<l id="165">Si par notre malheur jusqu’ici manifeste</l>
 	<l id="166">Il brûla pour les Juifs d’une haine funeste,</l>
 	<l id="167">Par un effet d’amour qui peut tout surmonter</l>
 	<l id="168">Il aimera les Juifs parce qu’il aime Esther.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="169">Peut-on dire qu’il m’aime, et que son cœur me suive,</l>
 	<l id="170">Puisqu’il ne pense pas brûler pour une Juive,</l>
 	<l id="171">Et que je lui serais un objet odieux</l>
 	<l id="172">Sans le voile trompeur qui me cache à ses yeux ?</l>
 </sp>
-<sp who="THAMAR"><speaker>THAMAR.</speaker>
+<sp who="THAMAR"><hstage><speaker>THAMAR</speaker>.</hstage>
 	<l id="173">Mais qui sait dans la Perse où vous fûtes gardée</l>
 	<l id="174">Que vous tenez le jour des Princes de Judée ?</l>
 	<l id="175">Qui le sait que nous trois ? Quand les Juifs ruinés</l>
 	<l id="176">Furent dans Babylone esclaves amenés...</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="177">Ha ! Je sais que ma mère avec eux opprimée</l>
 	<l id="178">Encore dans ses flancs me tenait enfermée ;</l>
 	<l id="179">Et comme elle craignait que l’orgueil des vainqueurs</l>
@@ -291,7 +291,7 @@
 	<l id="185">Mais hélas ! En malheur la fortune fertile</l>
 	<l id="186">A rendu trop souvent la prudence inutile.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="187">Mais vous savez aussi par le soin des Cieux</l>
 	<l id="188">Qui voulurent en vous relever vos aïeux,</l>
 	<l id="189">Je vous fis élever loin d’un peuple profane,</l>
@@ -307,7 +307,7 @@
 	<l id="199">Le Ciel commence ainsi quelque chose de grand,</l>
 	<l id="200">Le Ciel achèvera l’œuvre qu’il entreprend.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="201">Soit que par vos soins ma raison se rappelle,</l>
 	<l id="202">Soit que le Ciel m’inspire une force nouvelle,</l>
 	<l id="203">Je sens que dans mon cœur autrefois abattu</l>
@@ -315,22 +315,22 @@
 	<l id="205">Et par cette Vertu que le Ciel me suggère,</l>
 	<l id="206">Je sens bien qu’il nous aime, et qu’il veut que j’espère.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="207">Mais si mes sentiments sont pour vous une Loi,</l>
 	<l id="208">Défiez-vous d’Haman, ce flatteur d’un grand Roi.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="209">D’Haman à qui je suis, et vénérable et chère !</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="210">Défiez-vous de lui comme d’un adversaire</l>
 	<l id="211">Qui dessous une langue où le miel est semé;</l>
 	<l id="212">Cache à votre malheur un cœur envenimé.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="213" part="i">Toutefois...</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="213" part="f">Croyez-moi, comme il feint il faut feindre,</l>
 	<l id="214">Je le connais assez pour vous le faire craindre.</l>
 	<l id="215">Il vous offre ses vœux, mais ses vœux et ses soins</l>
@@ -350,22 +350,22 @@
 	<l id="229">Je vous l’ai dit cent fois, je vous le dis encore,</l>
 	<l id="230">Redoutez à la Cour quiconque vous adore.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="231">Je suivrai les chemins que vous m’avez montrés.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="232">Mais j’aperçois Haman, je passe, et vous rentrez.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Haman, Tharès.</head>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Haman, Tharès.</cast>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="233">J’ai l’âme dans les soins comme aux fers attachée</l>
 	<l id="234">Mais qui vient de passer, n’est-ce pas Mardochée.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="235" part="i">C’est lui.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="235" part="f">Cet insolent, ce Juif audacieux</l>
 	<l id="236">Qui semble défier les puissances des Cieux,</l>
 	<l id="237">Qui croit qu’en me choquant il élève sa gloire,</l>
@@ -377,10 +377,10 @@
 	<l id="243">Et ce mépris tout seul occupant tous mes sens</l>
 	<l id="244">Du monde universel m’empoisonne l’encens.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="245">Tous excès est permis contre cette insolence.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="246">Mais d’un trait plus mortel cet esclave m’offense.</l>
 	<l id="247">C’est par lui seulement que mes profonds respects</l>
 	<l id="248">Sont à l’esprit d’Esther des hommages suspects.</l>
@@ -389,27 +389,27 @@
 	<l id="251">Enfin c’est par lui seul que l’espoir m’est ôté,</l>
 	<l id="252">Et que l’horreur se joint à ma captivité.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="253">Seigneur que dites-vous ? Hé quoi que peut-il faire ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="254">Sache, mais que dirai-je ? Hélas, il se faut taire,</l>
 	<l id="255">Aussi bien de ton bras l’inutile vigueur</l>
 	<l id="256">Ne pas rompre des fers qu’on porte dans le cœur.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="257">Ce discours est obscur, je ne puis le comprendre.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="258">Ne pouvant pas m’aider, tu ne dois pas l’entendre.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="259">Si l’amour, ce transport si cruel est si doux</l>
 	<l id="260">Était un mouvement qui fut digne de vous,</l>
 	<l id="261">Comme dans vos discours je vois briller sa flamme,</l>
 	<l id="262">Je vous demanderais s’il règne dans votre âme ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="263">Si tu crois que l’amour si fertile en langueur</l>
 	<l id="264">Soit une passion indigne de mon cœur,</l>
 	<l id="265">Ne la croirais-tu pas et ridicule et folle</l>
@@ -423,18 +423,18 @@
 	<l id="273">Lorsqu’une passion nous gêne et nous possède,</l>
 	<l id="274">Une autre passion est souvent son remède.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="275">Faut-il perdre ce Juif ? Prononcez-en l’Arrêt,</l>
 	<l id="276">Commandez seulement et l’orage est tout prêt.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="277">T’engager à sa perte injuste ou légitime,</l>
 	<l id="278">C’est hasarder ta vie ou du moins ton estime,</l>
 	<l id="279">Et ce n’est à mon gré se venger qu’à demi</l>
 	<l id="280">Qu’exposer un Ami pour perdre un ennemi.</l>
 	<l id="281">J’attends l’occasion tant de fois désirée.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="282">Mais cette occasion vous est-elle assurée ?</l>
 	<l id="283">Non, non, ne cherchez point un secours incertain</l>
 	<l id="284">Lorsque vous le trouvez assuré dans ma main.</l>
@@ -453,24 +453,24 @@
 	<l id="297">C’est enfin un effet de parfaite prudence</l>
 	<l id="298">Que de prendre toujours la plus proche assistance.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 <note type="C">L’original utilise « employerais » avec un « y », nous laissons pour avoir 4 pieds. </note>
 	<l id="299">Je suivrais ton conseil, j’employerais ton bras,</l>
 	<l id="300">Mais la perte d’un seul ne me contente pas,</l>
 	<l id="301">Il faut qu’avecques lui sa nation périsse,</l>
 	<l id="302">Et que par l’infamie il aille au précipice.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="303" part="i">Ce dessein est bien grand.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="303" part="f">Aussi dans ce dessein</l>
 	<l id="304">Je veux que le Roi m’aide et me prête la main.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="305">Le Roi ! M’est-il permis de savoir ce mystère ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="306">À qui doit me servir je ne dois pas le taire.</l>
 	<l id="307">Tu sais bien que les Juifs dans la Perse arrêtés</l>
 	<l id="308">Sont des peuples suspects et du Roi détestés.</l>
@@ -486,10 +486,10 @@
 	<l id="318">Lui seul de son pays il sera la ruine.</l>
 	<l id="319">Quoi ! Ce dessein t’étonne et te trouble les sens ?</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="320">Quoi ! Seigneur, pour un seul perdre tant d’innocents ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="321">Homme ignorant des biens dont la vengeance abonde !</l>
 	<l id="322">Ha pour les posséder je perdrais tout un monde,</l>
 	<l id="323">Oui, j’aime à voir couler le sang des innocents</l>
@@ -497,30 +497,30 @@
 	<l id="325">Oui, mes yeux le verront couler avecques joie,</l>
 	<l id="326">Pourvu que dans ses flots mon ennemi se noie.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="327">Mais si le sien suffit pour éteindre ses jours,</l>
 	<l id="328">Ne suffira-t-il pas pour vous donner secours ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="329">Il ne suffira pas pour éteindre la flamme</l>
 	<l id="330">Que le dépit allume, et nourrit dans mon âme,</l>
 	<l id="331">La vengeance est un bien savoureux seulement</l>
 	<l id="332">Quand l’esprit offensé le cueille abondamment.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="333">Mais du mépris d’un seul tous ne sont pas complices.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="334">S’ils n’ont part à l’offense, ils l’auront aux supplices,</l>
 	<l id="335">Et si je hais les Juifs, et si de tous côtés</l>
 	<l id="336">Ma haine les destine à cent calamités,</l>
 	<l id="337">Hélas ! L’amour d’Esther, cette amour inhumaine</l>
 	<l id="338">Les venge des malheurs dont les charge ma haine.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="339" part="i">Mais enfin...</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="339" part="f">Mais enfin à mon cœur, à mes yeux</l>
 	<l id="340">Un seul Juif a rendu tous les Juifs odieux.</l>
 	<l id="341">Si ce que j’entreprends te semble illégitime,</l>
@@ -531,22 +531,22 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Tharès, Haman, Vasthi.</head>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Tharès, Haman, Vasthi.</cast>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="345">Seigneur, votre vengeance est-elle préparée,</l>
 	<l id="346">La ruine des Juifs a-t-elle été jurée ?</l>
 	<l id="347">Enfin le Roi contre eux prend il votre parti ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="348" part="i">Mais qui vois-je ? La Reine.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="348" part="f">Oui, Seigneur, c’est Vasthi.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="349">Évitons son abord, sa disgrâce m’étonne.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="350">Doncques Haman me fuit, donc Haman m’abandonne !</l>
 	<l id="351">Haman qui me plaçait au nombre de ses Dieux</l>
 	<l id="352">Tandis que ma Couronne éclatait à ses yeux !</l>
@@ -557,7 +557,7 @@
 	<l id="357">Trouves-tu difficile en ce destin étrange</l>
 	<l id="358">D’abaisser tes regards pour me voir dans la fange ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="359">Ayez, ayez pour moi de meilleurs sentiments,</l>
 	<l id="360">Si j’eus part à vos maux, j’ai part à vos tourments,</l>
 	<l id="361">Et mon cœur animé d’une vertu plus haute</l>
@@ -567,16 +567,16 @@
 	<l id="365">Et d’où l’ordre du Roi trop prompt et trop injuste</l>
 	<l id="366">Avait comme exilé votre personne auguste ?</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="367">Je viens pour l’accuser de sa brutalité,</l>
 	<l id="368">Je viens lui reprocher son inhumanité,</l>
 	<l id="369">Je viens, je viens par une noble audace</l>
 	<l id="370">Mériter aujourd’hui ma honte et ma disgrâce.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="371" part="i">Mais vous vous exposez.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="371" part="f">On ne s’expose pas</l>
 	<l id="372">Lorsque pour s’alléger on cherche le trépas.</l>
 	<l id="373">Moi, moi je pourrais voir une indigne rivale</l>
@@ -587,11 +587,11 @@
 	<l id="378">Quand le sort irrité les contraint de descendre,</l>
 	<l id="379">Le trône ou le tombeau, tout le reste est honteux.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="380">Ne vous exposez point à des chemins douteux,</l>
 	<l id="381" part="i">Attendez ou craignez.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="381" part="f">Moi ! J’en suis incapable</l>
 	<l id="382">Pour craindre et pour trembler de quoi suis-je coupable ?</l>
 	<l id="383">Un Roi capricieux, bizarre en ses projets,</l>
@@ -605,16 +605,16 @@
 	<l id="391">J’ai voulu conserver la Majesté des Rois,</l>
 	<l id="392">En quoi cette action blesse-t-elle les Lois ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="393">Mais elle offense un Roi que peu de choses offense.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="394">D’un Monarque aveuglé ne prend point la défense.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="395">Vous deviez à ses vœux accorder ce plaisir.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="396">J’ai satisfait Haman à son lâche désir,</l>
 	<l id="397">Puisqu’il ne me faisait une Loi si cruelle</l>
 	<l id="398">Qu’afin de m’obliger de paraître rebelle,</l>
@@ -641,47 +641,47 @@
 	<l id="419">Mais le plus grand des maux dont je sente les coups,</l>
 	<l id="420">C’est de céder le trône à de moindres que nous.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="421">Certes, ce mal est grand, certes il est extrême,</l>
 	<l id="422">Et pour m’en garantir je me perdrais moi-même.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="423">J’arme aussi contre Esther ce que j’ai de pouvoir.</l>
 	<l id="424">Comme c’est aujourd’hui qu’on la doit recevoir,</l>
 	<l id="425">Je viens, je viens moi-même à la mort toute prête</l>
 	<l id="426">Pour différer au moins cette funeste fête.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="427">Ô dessein, digne enfant d’un esprit généreux,</l>
 	<l id="428">À qui le juste Ciel doit un succès heureux !</l>
 </sp>8
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="429">Pourrais-tu voir enfin dans un trône adorable</l>
 	<l id="430">Une esclave de Perse et vile et méprisable ?</l>
 	<l id="431">Pourrais-tu sans murmure obéir à sa voix,</l>
 	<l id="432">Toi qui fus en état de lui donner les lois ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="433">Non, non, Madame, non, il faudra que j’expire</l>
 	<l id="434">Si le bonheur d’Esther la conduit à l’Empire.</l>
 	<l id="435">Ha, s’il lui faut un trône, il me faut un tombeau,</l>
 	<l id="436">Et la grandeur d’Esther est enfin mon bourreau.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="437">Aujourd’hui toutefois elle sera ta Reine.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="438">Esther femme du Roi ! C’est là, c’est là ma peine,</l>
 	<l id="439">Mais c’est là seulement le plus grand de mes maux,</l>
 	<l id="440">Parce que c’est de là que naissent vos travaux.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="441">Garde, garde toujours cette ardeur qui te presse,</l>
 	<l id="442">Puisque c’est le seul bien que mon destin me laisse.</l>
 	<l id="443">Mais enfin il est temps de s’opposer aux coups</l>
 	<l id="444">Qui sont déjà tous prêts à tomber dessus nous.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="445">Oui, Madame, il est temps de montrer son courage,</l>
 	<l id="446">Puisque déjà l’éclair vous annonce l’orage.</l>
 	<l id="447">Allez, allez sans crainte en ce funeste jour</l>
@@ -699,16 +699,16 @@
 	<l id="459">Allez donc maintenant par un noble attentat</l>
 	<l id="460">Ou remonter au trône, ou troubler tout l’État.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="461" part="i">L’un ou l’autre est mon but.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="461" part="f">Suivez donc cette voie.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="462">Mais va sonder le Roi devant que je le voie.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="463">J’embrasse avec plaisir votre commandement,</l>
 	<l id="464">Mais votre seul aspect peut agir puissamment.</l>
 	<l id="465">Vos pleurs seront des traits qui perceront son âme,</l>
@@ -728,7 +728,7 @@
 	<l id="479">Poursuivez donc, Madame, allez jusques au bout,</l>
 	<l id="480">N’employez que vos pleurs, vos pleurs obtiendront tout.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="481">Moi que par des soupirs et par des larmes lâches</l>
 	<l id="482">À ma condition je fasse quelques taches ;</l>
 	<l id="483">Non, non, ce noble orgueil qui m’anima toujours</l>
@@ -739,29 +739,29 @@
 	<l id="488">J’ai du sang à verser, mais je n’ai point de pleurs.</l>
 	<l id="489" part="i">Moi gémir, moi pleurer.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="489" part="f">C’est pourtant dans vos larmes</l>
 	<l id="490">Que vous devez trouver de la force et des charmes.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="491">Le trône me serait une autre adversité</l>
 	<l id="492">S’il fallait le devoir à cette lâcheté ;</l>
 	<l id="493">Et toutes les grandeurs me seraient odieuses</l>
 	<l id="494">Si je les achetais par des larmes honteuses.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="495">Les pleurs qui font régner sont toujours glorieux.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="496">En toute extrémité les pleurs sont odieux.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="497">Si des pleurs répandus par un cœur d’Amazone</l>
 	<l id="498">Sont des chemins honteux pour remonter au trône,</l>
 	<l id="499">Le seul prix de ce trône est capable d’ôter</l>
 	<l id="500">La honte des chemins qu’on tient pour y monter.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="501">Hé bien, hé bien, Haman, puisque le sort me presse;</l>
 	<l id="502">J’irai par des soupirs témoigner ma faiblesse,</l>
 	<l id="503">Et sans considérer l’éclat de notre sang</l>
@@ -777,40 +777,40 @@
 	<l id="513">Moi demander pardon, c’est tacher mon estime</l>
 	<l id="514">Puisque enfin tout pardon présuppose le crime.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="515" part="i">Que ferez-vous enfin ? Quoi ?</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="515" part="f">Tout ce que je puis.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="516" part="i">Troublerez-vous l’État ?</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="516" part="f">Je vaincrai mes ennuis.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="517">Le trouble de l’État est le dernier remède.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="518">Oui, mais sonde le Roi avant que je m’en aide.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="519" part="i">Mais, Madame...</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="519" part="m">Vas-y.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="519" part="m">Mais Madame...</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="519" part="f">Crains-tu ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="520" part="i">Moi ! Madame, ha plutôt...</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="520" part="f">Montre donc ta vertu,</l>
 	<l id="521">Ne me fais pas juger en ce malheur extrême</l>
 	<l id="522">Que tu veux m’employer pour t’épargner toi-même,</l>
@@ -819,36 +819,36 @@
 	<l id="525">Crains-tu de voir le Roi, crains-tu pour moi l’orage ?</l>
 	<l id="526" part="i">Crains-tu de t’exposer ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="526" part="f">Vous blessez mon courage,</l>
 	<l id="527" part="i">Madame épargnez-moi.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="527" part="f">Ne t’épargne donc pas.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="528">Votre service seul a pour moi des appas.</l>
 	<l id="529">Remettez en mes mains le soin de vos délices,</l>
 	<l id="530">Esther a des attraits, moi j’ai des artifices</l>
 	<l id="531" part="i">Mais ne vous montrez point.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="531" part="f">Je vais chez Thamis,</l>
 	<l id="532">Où ma calamité m’a laissé des amis.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Haman, Tharès.</head>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Haman, Tharès.</cast>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="533">Seigneur, que faites-vous ? Le Ciel vous est propice,</l>
 	<l id="534">Voulez-vous malgré lui vous faire un précipice ?</l>
 	<l id="535">Et croyez-vous enfin combattre impunément</l>
 	<l id="536">D’un Monarque offensé le juste sentiment.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="537">Tharès, le Roi me croit, nous éteindrons sa flamme,</l>
 	<l id="538">Il est Roi des Persans, je suis Roi de son âme.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="539">Cet Empire est un bien qu’on ne peut trop priser,</l>
 	<l id="540">Mais il est dangereux d’en trop souvent user.</l>
 	<l id="541">Plaignez si vous voulez le sort de cette Reine,</l>
@@ -856,7 +856,7 @@
 	<l id="543">Si le Ciel la veut voir d’un regard rigoureux,</l>
 	<l id="544">Qu’elle soit malheureuse, et demeurez heureux.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="545">Qu’elle soit malheureuse et Reine déplorable</l>
 	<l id="546">Si je puis par ses maux n’être pas misérable.</l>
 	<l id="547">Mais qu’elle soit heureuse, et vive dans l’honneur</l>
@@ -874,34 +874,34 @@
 	<l id="559">Allons parler pour elle, allons parler au Roi,</l>
 	<l id="560">L’adoucir pour Vasthi, c’est l’adoucir pour moi.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="561">Ha Seigneur ! Triomphez de cette amour naissante.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="562">On ne triomphe point d’une amour si puissante.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="563">Mais l’Amour ce Tyran des esprits enchantés</l>
 	<l id="564">Peut être le poison de vos prospérités.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="565">Il n’importe, exposons d’une ardeur non commune</l>
 	<l id="566">Pour les biens de l’Amour les biens de la Fortune,</l>
 	<l id="567">Puisque par mille maux je ressens à mon tour</l>
 	<l id="568">Que la Fortune même en fait moins que l’Amour.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="569">Quoi pour un bien léger, quoi pour un bien qui passe,</l>
 	<l id="570">Pour de vaines beautés tenter votre disgrâce !</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="571">Et ces vaines grandeurs où tu vois tant d’appas</l>
 	<l id="572">Comme les autres biens ne passent-elles pas ?</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="573" part="i">Aimez, mais autre part.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="573" part="f">Quand on est dans les gênes</l>
 	<l id="574">Hélas il n’est plus temps de faire choix des chaînes.</l>
 	<l id="575">Ne me contredis plus, mon amour est ma loi,</l>
@@ -909,8 +909,8 @@
 	<l id="577" part="i">Mais il sort.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Le Roi, Haman.</head>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Le Roi, Haman.</cast>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="577" part="f">Cher Haman, la douceur et la grâce</l>
 	<l id="578">Dans le trône des Rois vont enfin trouver place.</l>
 	<l id="579">Ainsi cette superbe autrefois mon amour,</l>
@@ -920,7 +920,7 @@
 	<l id="583">Et que même une Reine esclave de la Loi</l>
 	<l id="584">Toute Reine quelle est, est sujette du Roi.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="585">Jusqu’ici vos bontés vainquant votre Justice</l>
 	<l id="586">Semblaient se contenter de montrer son supplice,</l>
 	<l id="587">Et pour moi j’aurais cru que son juste remords</l>
@@ -934,7 +934,7 @@
 	<l id="595">Et qu’au ressouvenir de ses calamités</l>
 	<l id="596">Vous puissiez résister à vos propres bontés.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="597">Si l’injuste refus de son obéissance</l>
 	<l id="598">En moi seul outragé terminait son offense,</l>
 	<l id="599">Peut-être qu’en mon cœur les traits de la pitié</l>
@@ -952,7 +952,7 @@
 	<l id="611">Bien que par cent liens, on puisse l’arrêter,</l>
 	<l id="612">Il faut pour un jouir quelquefois le flatter.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="613">Quoi Sire aux passions d’un peuple téméraire</l>
 	<l id="614">Vous pourriez immoler une Reine si chère !</l>
 	<l id="615">Quoi Sire un lâche esclave aujourd’hui respecté</l>
@@ -974,13 +974,13 @@
 	<l id="631">Peut-être que ce monstre inconstant et sans foi</l>
 	<l id="632">Demandera demain qu’on immole son Roi.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="633">Le peuple est inconstant, mais enfin son caprice</l>
 	<l id="634">Ne doit pas m’empêcher de lui rendre Justice.</l>
 	<l id="635">Que s’il en abusait, il apprendrait qu’un Roi</l>
 	<l id="636">Peut se la rendre aussi contre un peuple sans foi.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="637">Vous voulez à l’État épargner une injure,</l>
 	<l id="638">Vous voulez apaiser le peuple qui murmure,</l>
 	<l id="639">Et certes ce dessein nous peut bien enseigner</l>
@@ -1023,20 +1023,20 @@
 	<l id="675">Vous rendrez, en tous lieux pour affermir la paix</l>
 	<l id="676">Et le peuple content et les Grands satisfaits.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="677">Esther, me dites-vous, ne sort pas d’une race,</l>
 	<l id="678">Qui donne à ses beautés une nouvelle grâce !</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="679" part="i">Non Sire.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="679" part="m">Esther n’est rien ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="679" part="m">Non Sire.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="679" part="f">Mais dis-moi,</l>
 	<l id="680">Qu’étais-tu, qu’étais-tu, sans l’amour de ton roi !</l>
 	<l id="681">Quelle était ta fortune en la paix, en la guerre,</l>
@@ -1062,7 +1062,7 @@
 	<l id="701">Je sais, je sais régner ! Et ma main souveraine</l>
 	<l id="702">Peut faire aux moins zélés, adorer une Reine.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="703">Sire, en ce grand dessein, j’ai cru que mon devoir</l>
 	<l id="704">M’obligeait à montrer ce que j’ai pu prévoir ;</l>
 	<l id="705">J’ai parlé librement pour vous donner des marques</l>
@@ -1070,7 +1070,7 @@
 	<l id="707">M’étant imaginé dans cet événement,</l>
 	<l id="708">Que c’est aimer son Roi, que parler librement.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="709">Je mets entre les biens aux Princes souhaitables,</l>
 	<l id="710">D’un fidèle sujet les libertés aimables ;</l>
 	<l id="711">Ainsi j’aime ton zèle, Haman, et tu me plais,</l>
@@ -1082,55 +1082,55 @@
 	<l id="717">Va donc au-devant d’elle, avance et me l’amène,</l>
 	<l id="718">Afin que de tes mains je reçoive une Reine.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="719" part="i">Cet honneur est trop grand !</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI, en s’en allant.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>, en s’en allant.</hstage>
 	<l id="719" part="f">Il est digne de toi.</l>
 	<l id="720" part="i">Va.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="720" part="m">Je vous obéis.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Haman, Tharès.</head>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Haman, Tharès.</cast>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="720" part="f">Mais hélas malgré moi !</l>
 	<l id="721">Quelle horrible disgrâce à nos yeux manifeste</l>
 	<l id="722">Est plus que cet honneur effroyable et funeste.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="723" part="i">Mais il faut obéir.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="723" part="f">Va, va trouver Vasthi,</l>
 	<l id="724">Dis lui qu’à son malheur le Ciel a consenti,</l>
 	<l id="725">Et que c’est seulement en excitant l’orage</l>
 	<l id="726">Qu’elle peut désormais empêcher son naufrage.</l>
 	<l id="727" part="i">Qu’elle vienne, dis-lui.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="727" part="m">Mais...</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="727" part="f">Mais obéis-moi.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="728">Souffrira-t-on Seigneur, qu’elle approche du Roi...</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="729">Va, rends-lui ce devoir sans tarder davantage.</l>
 	<l id="730">Je disposerai tout pour lui faire un passage.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Le Roi, Esther, Haman et toute le Cour.</head>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Le Roi, Esther, Haman et toute le Cour.</cast>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="731">Avancez belle Esther, et montez dans les Cieux,</l>
 	<l id="732">Puisqu’un Trône est le Ciel d’un Prince glorieux.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="733">Approchez chère Esther, venez prendre la place</l>
 	<l id="734">Que vous donne l’amour, que vous donne la grâce.</l>
 	<l id="735">Et par un juste arrêt du plus grand de nos Dieux</l>
@@ -1144,7 +1144,7 @@
 	<l id="743">Que je tire aujourd’hui d’un état languissant,</l>
 	<l id="744">Puisque toutes beautés sont Reines en naissant.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="745">Sire, c’est en esclave, et non en souveraine,</l>
 	<l id="746">Que j’approche d’un Roi, qui me regarde en Reine,</l>
 	<l id="747">Et pour toutes beautés, ô Monarque puissant,</l>
@@ -1162,7 +1162,7 @@
 	<l id="759">Et qu’en me faisant voir les biens que je vous dois,</l>
 	<l id="760">Il m’apprend d’autant mieux à respecter mon Roi.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="761">Cette soumission aussi rare que belle</l>
 	<l id="762">Vous rend digne du Trône où le Ciel vous appelle.</l>
 	<l id="763">Je ne recherche point si parmi vos Aïeux,</l>
@@ -1176,16 +1176,16 @@
 	<l id="771">Et combien le bonheur d’un Monarque amoureux,</l>
 	<l id="772">Que la seule grandeur ne saurait rendre heureux.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN, à l’écart.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>, à l’écart.</hstage>
 	<l id="773">Puis-je être le témoin des maux que j’appréhende !</l>
 	<l id="774" part="i">Mais j’aperçois Vasthi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Le Roi, Vasthi, Esther, Mardochée.</head>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Le Roi, Vasthi, Esther, Mardochée.</cast>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="774" part="f">Que vois-je ! Qui vous mande ?</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="775">Je ne viens pas ici le flambeau dans les mains</l>
 	<l id="776">Allumer la discorde et rompre vos desseins ;</l>
 	<l id="777">Non, non je ne viens pas par mon triste spectacle</l>
@@ -1213,19 +1213,19 @@
 	<l id="799">Et qu’enfin mon dépit, mes cris et mon transport,</l>
 	<l id="800">Vous respectant toujours, n’accusent que mon sort.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="801">Vous saurez mes raisons, vous saurez vos offenses</l>
 	<l id="802">Quand vous regarderez vos désobéissances ;</l>
 	<l id="803">Mais vous saurez de plus qu’aux yeux d’un Potentat,</l>
 	<l id="804">Cette nouvelle audace est un autre attentat.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="805">Sire, si cette audace et noble et légitime</l>
 	<l id="806">Aux yeux des Potentats doit passer pour un crime,</l>
 	<l id="807">L’innocence assurée aux yeux des Potentats</l>
 	<l id="808">Est sujette à former de pareils attentats.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="809">Le trouble d’un État que votre orgueil outrage,</l>
 	<l id="810">Est de votre innocence un ample témoignage.</l>
 	<l id="811">Retirez-vous, Madame, et montrer une fois</l>
@@ -1233,7 +1233,7 @@
 	<l id="813">Enfin n’augmentez point cette coupable audace,</l>
 	<l id="814">Qui pourrait rendre juste une injuste disgrâce.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="815">Ce crime en mon malheur serait mon réconfort,</l>
 	<l id="816">S’il devenait si grand qu’il méritât la mort.</l>
 	<l id="817">Mais si quelque raison, qui doit être couverte,</l>
@@ -1243,18 +1243,18 @@
 	<l id="821">Alors me soumettant, chacun m’entendre dire,</l>
 	<l id="822">Je veux bien endurer, car le Roi le désire.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="823">Retirez-vous, Madame, il suffit une fois</l>
 	<l id="824">De tenter le péril, et de déplaire aux Rois.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="825">Si je suis criminelle, achevez mon supplice ;</l>
 	<l id="826">Quiconque sort d’un Trône, aime le précipice.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="827" part="i">Ainsi vous y courrez.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="827" part="f">Ne m’arrêtez donc pas,</l>
 	<l id="828">Et donnez seulement plus de pente à mes pas.</l>
 	<l id="829">On mérite la mort et les maux qu’elle donne,</l>
@@ -1266,11 +1266,11 @@
 	<l id="835">Prévenez mes forfaits, et qu’un dernier effort</l>
 	<l id="836">M’empêche par ma mort, de mériter la mort.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="837">Faites votre devoir, vivez on vous l’ordonne,</l>
 	<l id="838">C’est assez pour un coup de perdre une Couronne.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="839">Non, non, délivrez-vous de mes tristes soupirs,</l>
 	<l id="840">Et par ma perte entière assurez vos plaisirs ;</l>
 	<l id="841">Donnez, donnez mon sang, et la mort que j’espère,</l>
@@ -1278,7 +1278,7 @@
 	<l id="843">Et si l’amour d’Esther vous doit rendre content,</l>
 	<l id="844">Rendez par mon trépas son triomphe éclatant.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="845">Ha, Sire, regardez d’un œil plus pitoyable</l>
 	<l id="846">Une grande Princesse, une Princesse aimable,</l>
 	<l id="847">Et ne m’élevez point à des prospérités</l>
@@ -1308,22 +1308,22 @@
 	<l id="871">Tout l’honneur que je cherche, et que j’ai prétendu,</l>
 	<l id="872">C’est de céder le Trône, à qui le Trône est dû.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="873">Bientôt ma volonté vous sera manifeste,</l>
 	<l id="874">Attendez un destin ou propice ou funeste.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="875" part="i">Que je crains justement.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="875" part="f">Mes amis suivez-moi.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE, demeure.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>, demeure.</hstage>
 	<l id="876">Vous en qui j’espérai, Cieux, inspirez le Roi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Vasthi, Esther, Mardochée demeure.</head>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Vasthi, Esther, Mardochée demeure.</cast>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="877">Belle et charmante Esther, épargnez-vous la peine,</l>
 	<l id="878">À ma confusion de défendre une Reine ;</l>
 	<l id="879">Ne me secourez point dans un sort si douteux,</l>
@@ -1331,7 +1331,7 @@
 	<l id="881">Et que me servirait où je suis méprisée,</l>
 	<l id="882">La faveur d’une esclave en Reine déguisée ?</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="883">Au moins à faire voir qu’en sa captivité</l>
 	<l id="884">Cette esclave garda sa générosité ;</l>
 	<l id="885">Et qu’en vous remettant un Sceptre qu’on lui donne,</l>
@@ -1339,24 +1339,24 @@
 	<l id="887">Pardonnez ce transport à mon ressentiment,</l>
 	<l id="888">Un injuste mépris l’excite justement.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="889">Déjà la vanité s’empare de votre âme,</l>
 	<l id="890" part="i">Mais enfin, qu’êtes-vous ?</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="890" part="f">Ce que je suis Madame,</l>
 	<l id="891">Telle que d’un grand Roi l’ordonnera l’Arrêt,</l>
 	<l id="892">Esclave s’il le veut, et Reine s’il lui plaît.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="893">L’aspect d’une grandeur à vos yeux inconnue,</l>
 	<l id="894">Vous charme, vous séduit, et vous ôte la vue.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="895">Non, non, je me connais, mais je respecte en moi,</l>
 	<l id="896">Et l’amour, et la grâce, et le choix d’un grand Roi.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="897">Mais quand le Roi charmé par une amour si basse,</l>
 	<l id="898">Vous tirant du néant vous mettrait à ma place,</l>
 	<l id="899">Pensez-vous que l’État pendant à vos genoux,</l>
@@ -1366,30 +1366,30 @@
 	<l id="903">L’honneur n’est pas honneur quand il est mal donné,</l>
 	<l id="904">Et vous feriez d’un Trône un autel profané.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="905">Si le Trône est pour moi comme un char de victoire,</l>
 	<l id="906">Le Roi qui m’y conduit, lui gardera sa gloire,</l>
 	<l id="907">Puisqu’aux ambitieux le Trône si charmant</l>
 	<l id="908">N’emprunte son éclat que du Roi seulement.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="909">Ainsi dans son néant la bassesse se flatte.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="910">Par elle des grands Rois la gloire même éclate.</l>
 	<l id="911">Plus notre sort est bas, plus en le rehaussant</l>
 	<l id="912">Se montre le pouvoir d’un Monarque puissant.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="913">Mais craignez ses faveurs ainsi que des menaces.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="914">C’est faire tort aux Rois que de craindre leurs grâces.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="915">C’est se mettre en péril que de trop s’y fier.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="916">Qui se résout à tout, se peut humilier.</l>
 	<l id="917">Quoi qu’il faille trouver, le port ou le naufrage,</l>
 	<l id="918">Comme un présent du Ciel, je garde le courage.</l>
@@ -1400,21 +1400,21 @@
 	<l id="923">Il me laisse bien plus qu’il ne saurait m’ôter,</l>
 	<l id="924">Puisqu’il me laisse un cœur qui peut tout supporter.</l>
 </sp>
-<sp who="VASTHI"><speaker>VASTHI.</speaker>
+<sp who="VASTHI"><hstage><speaker>VASTHI</speaker>.</hstage>
 	<l id="925">Espérez néanmoins un sort plus salutaire,</l>
 	<l id="926">L’amour étant pour vous, rien ne vous est contraire,</l>
 	<l id="927">Espérez, espérez un bel événement,</l>
 	<l id="928">Puisqu’en ce grand procès le juge est votre Amant.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Mardochée, Esther.</head>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Mardochée, Esther.</cast>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="929">Hélas sur qui des deux doit tomber la tempête !</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="930">À tout événement le Ciel me verra prête.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="931">Si vous ne méritez que le plus grand des Rois</l>
 	<l id="932">Brûle de votre amour et soutienne son choix,</l>
 	<l id="933">Faites voir pour le moins un cœur magnanime,</l>
@@ -1426,93 +1426,93 @@
 	<l id="939">J’ai su même qu’Haman, que vous comptez pour vous,</l>
 	<l id="940">Vous attaque en secret, et nous attaque tous.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="941">Haman dont les discours témoignent tant de zèle !</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="942">Lui, lui, de qui le cœur est un cœur infidèle :</l>
 	<l id="943">Il vous rend des respects à vos yeux complaisants ;</l>
 	<l id="944">Mais c’est un ennemi qui vous fait des présents.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="945">Que fais-je à ce méchant, pour en être opprimée.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="946">Ce que fait aux méchants l’innocence estimée.</l>
 	<l id="947">Mais enfin attendez avec un front égal,</l>
 	<l id="948">Ou le Trône, ou les fers, ou le bien, ou le mal.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Mardochée, Haman, Esther.</head>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Mardochée, Haman, Esther.</cast>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="949" part="i">Enfin Haman revient, qu’apporte-t-il ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="949" part="f">Madame,</l>
 	<l id="950">Que j’ai de part aux maux qui traversent votre âme ;</l>
 	<l id="951">Et que je suis touché de ce triste destin,</l>
 	<l id="952">Qui semble des grandeurs vous fermer le chemin.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE, à part.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>, à part.</hstage>
 	<l id="953" part="i">Le méchant.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="953" part="f">Mais au moins ai-je cet avantage</l>
 	<l id="954">D’avoir tâché pour vous de détourner l’orage,</l>
 	<l id="955">Et de contribuer avec votre vertu,</l>
 	<l id="956">Afin de vous garder un rang qui vous est dû.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="957">Certes quand la fortune en disgrâces féconde</l>
 	<l id="958">Nous rend et le mépris, et le rebut du monde ;</l>
 	<l id="959">Ce nous est un bonheur, et bien grand et bien doux</l>
 	<l id="960">Que d’avoir des amis généreux comme vous.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="961">Mais ce m’est un malheur de manquer de puissance.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="962">La volonté suffit, et j’en ai connaissance.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="963">Que n’ai-je sur le Prince un moment de pouvoir.</l>
 	<l id="964">On vous verrait Madame, où je voudrais vous voir.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="965">Que n’ai-je le pouvoir de qui je suis sujette,</l>
 	<l id="966">On vous verrait de même où mon cœur vous souhaite.</l>
 	<l id="967">Mais enfin, faut-il vaincre, ou faut-il succomber ?</l>
 	<l id="968">Faut-il monter au Trône, ou faut-il en tomber ?</l>
 	<l id="969" part="i">Qu’a résolu le Roi ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="969" part="f">Rien encore, Madame,</l>
 	<l id="970" part="i">Mais enfin...</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="970" part="m">Mais parlez.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="970" part="f">Mais c’est vous percer l’âme.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="971" part="i">Non, non, ne craignez point.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="971" part="f">Le Roi presque rendu,</l>
 	<l id="972">Entre Esther et Vasthi demeure suspendu.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="973" part="i">Quoi Seigneur il balance ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="973" part="f">Oui, mais de telle sorte</l>
 	<l id="974" part="i">Qu’il paraît...</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="974" part="m">Dites tout.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="974" part="f">Que la Reine l’emporte ?</l>
 	<l id="975">Il semble que pour elle un rayon de pitié</l>
 	<l id="976">Rallume dans son cœur sa première amitié.</l>
@@ -1522,19 +1522,19 @@
 	<l id="980">Mais pour y rêver seul, il nous a fait sortir.</l>
 	<l id="981" part="i">Ainsi je crains pour vous.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="981" part="f">Il faut au moins attendre,</l>
 	<l id="982">Je ne tomberai pas, je saurai bien descendre.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="983">Il est même honorable en cette extrémité,</l>
 	<l id="984">De quitter librement ce qui nous eût quitté.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="985">Avez-vous ordre, Haman, de tenir ce langage ?</l>
 	<l id="986">Et de me préparer à mon proche naufrage ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="987">Non pas, mais dans les biens qui vous seraient offerts,</l>
 	<l id="988">Je crains pour vous les maux que d’autres ont soufferts.</l>
 	<l id="989">Quoi qu’en votre faveur le Roi veuille résoudre,</l>
@@ -1542,13 +1542,13 @@
 	<l id="991">Et tel y croit monter afin de vivre heureux,</l>
 	<l id="992">Qui monte seulement en un lieu dangereux.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="993">Si le Trône est un lieu dangereux et funeste,</l>
 	<l id="994">Qu’attaque incessamment la colère céleste,</l>
 	<l id="995">Je ferai voir un cœur, et ferme et généreux,</l>
 	<l id="996">En montant sans trembler sur un lieu dangereux.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="997">Vous venez d’éprouver qu’à l’instant qu’on y monte</l>
 	<l id="998">On peut au premier pas rencontrer de la honte ;</l>
 	<l id="999">Croyez qu’un lieu si haut doit être redouté,</l>
@@ -1556,44 +1556,44 @@
 	<l id="1001">On trouve quelquefois avecques moins d’ombrage,</l>
 	<l id="1002">Et dans un moindre sort, un plus grand avantage.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1003">Il ne m’importe Haman, si le Roi, si les Cieux</l>
 	<l id="1004">Me destinent à choir d’un lieu si glorieux.</l>
 	<l id="1005">Je ferai voir alors une vertu si haute,</l>
 	<l id="1006">Qu’on croira que je donne un Sceptre que l’on m’ôte.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1007">L’exemple de Vasthi vous doit épouvanter.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1008">Il m’apprend les chemins que je dois éviter.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1009">Si l’orgueil la fit choir, on peut, on peut de même</l>
 	<l id="1010">Tomber par mille endroits de ce degré suprême,</l>
 	<l id="1011">Puisque de tous côtés le Trône infortuné</l>
 	<l id="1012">Est un siège d’honneur, de gouffres couronné.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1013">On peut, on peut périr, et c’est là mon attente,</l>
 	<l id="1014">Mais ce n’est pas périr que périr innocente.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1015">Mais Madame, ce mal des maux le plus affreux,</l>
 	<l id="1016">Ce seul tourment des cœurs que l’on croit généreux,</l>
 	<l id="1017">La honte qui nous tue, et qui nous persécute,</l>
 	<l id="1018">Accompagne toujours cette mortelle chute.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1019">Bien qu’un Trône éminent fut le Ciel de l’honneur,</l>
 	<l id="1020">Bien qu’il fut ici-bas le souverain bonheur,</l>
 	<l id="1021">Bien que la gloire suive aussitôt qu’on y monte,</l>
 	<l id="1022">En tomber innocent, c’est en tomber sans honte.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1023" part="i">Mais enfin c’est tomber.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1023" part="f">Mais c’est vaincre en tombant</l>
 <note type="C">Le texte utilise « mêmes » avec un « s », nous laissons pour le nombre de pieds. </note>
 	<l id="1024">Et se faire un appui mêmes en succombant.</l>
@@ -1604,15 +1604,15 @@
 	<l id="1029">Quoi qu’on ait résolu, ma gloire ou ma disgrâce,</l>
 	<l id="1030">Si le Roi m’appela, j’attendrai qu’il me chasse.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1031">Je vous souhaite un sort plus heureux et plus doux,</l>
 	<l id="1032">Et pour vous dire tout, un sort digne de vous.</l>
 	<l id="1033">Mais on apporte ici les marques de l’Empire.</l>
 	<l id="1034">Un Sceptre, une Couronne ! Ha quel est mon martyre !</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. ZÉTHAR, Esther, Haman, Mardochée.</head>
-<sp who="ZÉTHAR"><speaker>ZÉTHAR.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>ZÉTHAR, Esther, Haman, Mardochée.</cast>
+<sp who="ZÉTHAR"><hstage><speaker>ZÉTHAR</speaker>.</hstage>
 	<l id="1035">Voyez dans ces grands biens qui vous sont présentés</l>
 	<l id="1036">D’un Roi qui vous chérit les justes volontés.</l>
 	<l id="1037">Votre illustre Vertu mérita la Couronne,</l>
@@ -1624,7 +1624,7 @@
 	<l id="1043">Et tenant sous vos pieds les dangers abattus,</l>
 	<l id="1044">Jouissez sans douleur du prix de vos vertus.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1045">Comme de cet honneur trop grand et trop insigne,</l>
 	<l id="1046">Mes propres sentiments me déclarent indigne,</l>
 	<l id="1047">Je reçois cet honneur dont mes yeux sont surpris,</l>
@@ -1633,44 +1633,44 @@
 	<l id="1050">Allons rendre un hommage à la main qui les donne,</l>
 	<l id="1051" part="i">J’ai déjà trop tardé.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1051" part="f">Désespérerons-nous ?</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1052">Cieux, assurez ces biens s’ils nous viennent de vous.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Haman, Mardochée.</head>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Haman, Mardochée.</cast>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1053">Enfin un bel effet succède à votre attente.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1054">Le seul plaisir du Roi rend mon âme contente.</l>
 	<l id="1055">Quiconque a pour son Roi d’avantageux désirs,</l>
 	<l id="1056">Des plaisirs de son Roi fait ses propres plaisirs.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1057">Il vous en doit sans doute une ample récompense.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1058">Je la reçois Seigneur, plus grande qu’on ne pense.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1059">La fortune d’Esther vous promet du support.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1060">Je me tiens satisfait et content de mon sort.</l>
 <note type="C">L’original porte « Esther » comme locuteur, nous corrigeons par « Haman ».</note>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1061">Espérez d’autres biens le Ciel vous le commande.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1062">Que pourrais-je espérer, j’ai ce que je demande.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Haman, Tharès.</head>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Haman, Tharès.</cast>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1063">Il nous quitte en vainqueur, il rit de mon courroux,</l>
 	<l id="1064">Et triomphe en effet, puisqu’il vit malgré nous.</l>
 	<l id="1065">Ha Tharès ! Que de maux, que d’horreur, que de gênes,</l>
@@ -1690,19 +1690,19 @@
 	<l id="1079">Fortune, Dieux destins, grands auteurs de mon mal,</l>
 	<l id="1080">Je vous rends vos grandeurs, ôtez-moi mon rival.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="1081">Plutôt que d’un Rival l’autorité suprême</l>
 	<l id="1082">Vous dérobe à l’amour, et vous rende à vous-même.</l>
 	<l id="1083" part="i">Il est fort, il est Roi.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1083" part="f">Cessons de soupirer,</l>
 	<l id="1084">Et parce qu’il est Roi commençons d’espérer.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="1085">Près d’un si grand Rival votre amour persévère !</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1086">C’est parce qu’il est Roi que mon amour espère.</l>
 	<l id="1087">Il ne faut qu’un soupçon pour ébranler les Rois,</l>
 	<l id="1088">Qui du bien de l’État se composent des lois :</l>
@@ -1713,22 +1713,22 @@
 	<l id="1093">Puisque le jour me reste au milieu des supplices,</l>
 	<l id="1094">Il reste à mon amour cent nouveaux artifices.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="1095">Que faites-vous Seigneur ? Que voulez-vous tenter ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1096">Je résous de me perdre, ou de me contenter.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="1097">D’où viendrait du secours à l’espoir qui vous reste ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1098">Les Juifs me serviront, les Juifs que je déteste.</l>
 </sp>
-<sp who="THARES"><speaker>THARÈS.</speaker>
+<sp who="THARES"><hstage><speaker>THARÈS</speaker>.</hstage>
 	<l id="1099">Eux qui vous ôteraient la force et le pouvoir.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1100">Eux que ma haine attaque, et qu’elle fera choir.</l>
 	<l id="1101">Je sais que Mardochée espère en la victoire</l>
 	<l id="1102">Qui va porter Esther au Trône de la gloire,</l>
@@ -1746,8 +1746,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Mardochée, Esther, Thamar.</head>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Mardochée, Esther, Thamar.</cast>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1113">Pourquoi ne vois-je en vous que des marques de crainte ?</l>
 	<l id="1114">De quel trait de douleur votre âme est-elle atteinte ?</l>
 	<l id="1115">Et pourquoi sans parler vous vois-je épouvantés,</l>
@@ -1761,31 +1761,31 @@
 	<l id="1123">Et dont par vos soupirs je sens déjà les coups,</l>
 	<l id="1124">L’apportons-nous au Trône, ou bien l’y trouvons-nous ?</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1125">Il faut mourir Esther, si le Ciel favorable</l>
 	<l id="1126">N’achève par vos mains un œuvre mémorable.</l>
 	<l id="1127">Déjà le fer est prêt qui doit trancher vos jours,</l>
 	<l id="1128">Il faut mourir Esther, ou chercher du secours.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1129" part="i">Hé bien il faut mourir.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1129" part="f">Mais non pas sans défense,</l>
 	<l id="1130">Puisqu’il s’agit ici de sauver l’innocence.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1131">Quel sort ! Quelle fortune ! Et qu’en dois-je espérer ?</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1132">De combattre, de vaincre, et de vous assurer,</l>
 	<l id="1133">Ou de mourir au moins rayonnant de gloire,</l>
 	<l id="1134">Si nos propres malheurs vous ôtent la victoire.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1135">Mais enfin de quels maux sommes-nous menacés ?</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1136">De tous les maux, Esther, l’un sur l’autre amassés.</l>
 	<l id="1137">Que votre esprit travaille à se faire une image</l>
 	<l id="1138">D’horreur, de trahison, de flamme, de carnage,</l>
@@ -1796,10 +1796,10 @@
 	<l id="1143">Les Juifs dont vous sortez, les Juifs de qui je sors</l>
 	<l id="1144">Sont aujourd’hui vivants, et demain seront morts.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1145" part="i">Hélas !</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1145" part="f">Moi qui vous parle, et qu’en votre misère</l>
 	<l id="1146">Vous avez tant de fois regarder comme père,</l>
 	<l id="1147">Moi-même dont les soins tant de fois témoignés,</l>
@@ -1810,17 +1810,17 @@
 	<l id="1152">Sur qui vous jetterez votre œil épouvanté.</l>
 	<l id="1153">Enfin, enfin de Juifs la perte est arrêtée.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1154">N’est-ce point par la crainte une chose inventée ?</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1155">Vous savez que Tharès de Thamar amoureux,</l>
 	<l id="1156">Par l’hymen qu’il attend, croit devenir heureux.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1157" part="i">Je le sais.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1157" part="f">Ce Tharès, qui ne craint que pour elle,</l>
 	<l id="1158">Lui vient de découvrir cette trame mortelle,</l>
 	<l id="1159">Lui vient de découvrir ce que l’on a résolu</l>
@@ -1831,26 +1831,26 @@
 	<l id="1164">En étouffer la race, et l’éteindre en leur sang.</l>
 	<l id="1165" part="i">Voilà nos maux Esther.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1165" part="m">Quoi Thamar...</l>
 </sp>
-<sp who="THAMAR"><speaker>THAMAR.</speaker>
+<sp who="THAMAR"><hstage><speaker>THAMAR</speaker>.</hstage>
 	<l id="1165" part="f">Oui Madame,</l>
 	<l id="1166">Il m’a dit l’œil en pleurs, et la crainte dans l’âme,</l>
 	<l id="1167">Que si je ne fuyais pour sortir du danger,</l>
 <note type="C">Le texte utilise « mêmes » avec un « s », nous laissons pour le nombre de pieds. </note>
 	<l id="1168">Mêmes entre vos bras on viendrait m’égorger.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1169" part="i">D’où sait-il ce malheur ?</l>
 </sp>
-<sp who="THAMAR"><speaker>THAMAR.</speaker>
+<sp who="THAMAR"><hstage><speaker>THAMAR</speaker>.</hstage>
 	<l id="1169" part="f">Il ne veut point le dire,</l>
 	<l id="1170">C’est assez m’a-t-il dit, que l’on vous en retire,</l>
 	<l id="1171">Et qu’enfin vous sachiez que pour ce grand dessein,</l>
 	<l id="1172">Le Roi donne sa voix, son pouvoir, et sa main.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1173">Ce n’est donc pas à tort, que mon esprit en peine</l>
 	<l id="1174">L’a soupçonné pour nous d’une mortelle haine.</l>
 	<l id="1175">Dès l’heure que mon soin découvrit l’attentat</l>
@@ -1872,23 +1872,23 @@
 	<l id="1191">Et puisqu’en ce haut rang le Ciel vous fait asseoir,</l>
 	<l id="1192">C’est à vous d’opposer le pouvoir au pouvoir.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1193" part="i">Hélas !</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1193" part="m">Consultez-vous ?</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1193" part="f">Le danger m’épouvante.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1194">Le danger vous étonne, ou la gloire vous tente !</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1195">Le danger qui vous suit, non celui qui me perd,</l>
 	<l id="1196">Tient mon cœur à la crainte incessamment ouvert.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1197">L’infortune des Juifs, leurs douleurs et leurs craintes</l>
 	<l id="1198">Ont besoin de secours, et non pas de vos plaintes.</l>
 	<l id="1199">Ce n’est pas les aider que de craindre pour eux,</l>
@@ -1926,7 +1926,7 @@
 	<l id="1231">Le pouvoir qu’il vous donne avecques tant d’éclat</l>
 	<l id="1232">Est pour vous le signal qu’il donne du combat.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1233">Pensez-vous donc qu’Esther peu forte et magnanime</l>
 	<l id="1234">Comme un faible soldat ait besoin qu’on l’anime ?</l>
 	<l id="1235">Si j’ai peur maintenant, hélas ! Hélas j’ai peur</l>
@@ -1960,25 +1960,25 @@
 	<l id="1263">Comme pour mon pays je la prodiguerai,</l>
 	<l id="1264">Au moins en la perdant je la mériterai.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1265">Allez donc mériter cette éclatante gloire</l>
 	<l id="1266">Ou par votre défaite, ou par votre victoire.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1267">Mais avant que d’user d’un remède fatal</l>
 	<l id="1268">N’est-il pas à propos d’être assuré du mal ?</l>
 	<l id="1269">Peut-être sur un bruit avez-vous pris l’alarme.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1270">Un si funeste bruit veut au moins que l’on s’arme.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1271">Mon courage est tout prêt. Mais Haman vient me voir.</l>
 	<l id="1272">Retirez-vous d’ici, j’en pourrai tout savoir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Haman, Esther.</head>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Haman, Esther.</cast>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1273">Ravi de vos honneurs, ravi de votre gloire,</l>
 	<l id="1274">Je viens avecques vous célébrer la victoire,</l>
 	<l id="1275">Et consacrer encore à votre Majesté,</l>
@@ -1988,7 +1988,7 @@
 	<l id="1279">Et si le Ciel répond à nos justes souhaits,</l>
 	<l id="1280">Le Trône aura pour nous une éternelle paix.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1281">Dans l’état glorieux où l’on me considère</l>
 	<l id="1282">La paix est le seul bien que le Ciel me peut faire ;</l>
 	<l id="1283">Mais cette paix me manque, elle fuit de mon cœur</l>
@@ -1997,7 +1997,7 @@
 	<l id="1286">Je ne crois pas avoir les biens que je possède.</l>
 <note type="C">Le locuteur suivant est Haman et non Esther, nous corrigeons.</note>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1287">Qui pourrait vous troubler où le Ciel libéral</l>
 	<l id="1288">Sous le comble des biens semble étouffer le mal ?</l>
 	<l id="1289">Si vos prospérités vous font des adversaires,</l>
@@ -2012,7 +2012,7 @@
 	<l id="1298">D’un Monarque amoureux vous confirme la grâce.</l>
 	<l id="1299">D’où vient donc le souci qui semble vous saisir ?</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1300">Le malheur de Vasthi ne fait pas mon plaisir,</l>
 	<l id="1301">Bien que pour l’agrandir le Ciel la persécute,</l>
 	<l id="1302">Bien qu’un Roi si puissant m’élève par sa chute,</l>
@@ -2025,42 +2025,42 @@
 	<l id="1309">Un Peuple, un Peuple esclave, Haman le peut-on croire,</l>
 	<l id="1310">M’empêche de goûter les douceurs de la gloire.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1311" part="i">Un Peuple.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1311" part="f">Oui les Juifs dans nos fers arrêtés</l>
 	<l id="1312">Séparent le repos de mes prospérités</l>
 	<l id="1313">Et m’ôtant le repos, qui vaut une Couronne,</l>
 	<l id="1314">Ils m’ôtent plus de biens que le Sceptre m’en donne.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1315">Quoi leur calamité vous donne du souci.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1316">Non, non, j’ai pour ce peuple un courage endurci,</l>
 	<l id="1317">Et je crains que ma main ne soit pas assez forte</l>
 	<l id="1318">Pour l’arrêter au moins dans les chaînes qu’il porte.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1319">Les Juifs seraient pour vous des objets odieux !</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1320">Je les vois, je les hais comme des factieux,</l>
 	<l id="1321">De secrets sentiments à mon repos contraires</l>
 	<l id="1322">Les peignent dans mon cœur comme mes adversaires.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1323">Toutefois Mardochée espère en votre appui.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1324">Jusqu’ici l’ayant craint j’ai tout souffert de lui,</l>
 	<l id="1325">Mais il saura bientôt qu’elle est la différence</l>
 	<l id="1326">De moi dans la faiblesse, à moi dans la puissance.</l>
 	<l id="1327">Et si le Roi s’accorde à mon ressentiment,</l>
 	<l id="1328">Tous les Juifs avec lui sauront ce changement.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1329">Non, non, ne doutez point que le Roi n’autorise</l>
 	<l id="1330">Contre ce Peuple ingrat une juste entreprise ;</l>
 	<l id="1331">Haïr et détester ces barbares sans foi,</l>
@@ -2068,10 +2068,10 @@
 	<l id="1333">Et condamner enfin cette engeance mutine,</l>
 	<l id="1334">C’est avecques le Roi prononcer leur ruine.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1335" part="i">Le Roi veut donc les perdre ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1335" part="f">Oui Madame, et les Cieux</l>
 	<l id="1336">Qui défendent les Rois, et qui veillent pour eux,</l>
 	<l id="1337">Vous inspirent peut-être une si juste haine,</l>
@@ -2103,17 +2103,17 @@
 	<l id="1363">Ainsi par un Arrêt rendu secrètement</l>
 	<l id="1364">Il a de tous les Juifs conclu le châtiment.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1365">Quand doit s’exécuter cet Arrêt salutaire ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1366">On va mettre la main à cette grande affaire.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1367">Mais par quelle clarté favorable à l’État</l>
 	<l id="1368">A-t-on de ces méchants découvert l’attentat ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1369">C’est par mes soins, Madame, heureux et nécessaires</l>
 	<l id="1370">Que le Roi reconnaît ses secrets adversaires,</l>
 	<l id="1371">Et c’est par mes conseils que son bras irrité</l>
@@ -2129,25 +2129,25 @@
 	<l id="1381">Faites juger aussi que notre aimable Reine</l>
 	<l id="1382">Mérite par ses soins le rang de Souveraine.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1383" part="i">Je ferai mon devoir.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1383" part="f">Je vous ai dit le mal.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1384">Vous m’avez fait un bien qui n’eut jamais d’égal.</l>
 	<l id="1385">Mais je perdrai bientôt le jour et la puissance</l>
 	<l id="1386">Ou vous en recevrez la juste récompense,</l>
 	<l id="1387" part="i">J’y vais songer Haman.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Haman, Tharsis.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Haman, Tharsis.</cast>
 <note type="C">La scène III, emploie Tharsis comme locuteur, alors qu’il n’existe pas dans la liste des personnages, il semble bien qu’il s’agisse de Tharès ; nous le conservons. </note>
-<sp who="THARSIS"><speaker>THARSIS.</speaker>
+<sp who="THARSIS"><hstage><speaker>THARSIS</speaker>.</hstage>
 	<l id="1387" part="f">Ha Seigneur quel effet !</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1388">Si j’étais sans amour, j’en serais satisfait.</l>
 	<l id="1389">Hélas pour contenter mon amour abusée</l>
 	<l id="1390">Il fallait à mes vœux la trouver opposée :</l>
@@ -2170,27 +2170,27 @@
 	<l id="1407">À quelque extrémité qu’on porte la rigueur,</l>
 	<l id="1408">On n’achète point trop le repos de son cœur.</l>
 </sp>
-<sp who="THARSIS"><speaker>THARSIS.</speaker>
+<sp who="THARSIS"><hstage><speaker>THARSIS</speaker>.</hstage>
 	<l id="1409" part="i">Cédez à l’impossible.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1409" part="f">Il faut bien que je cède,</l>
 	<l id="1410">Et que le temps au moins devienne mon remède.</l>
 </sp>
-<sp who="THARSIS"><speaker>THARSIS.</speaker>
+<sp who="THARSIS"><hstage><speaker>THARSIS</speaker>.</hstage>
 	<l id="1411" part="i">Cependant...</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1411" part="f">Cependant il faut se consoler</l>
 	<l id="1412">Par l’espoir de ce sang que nous verrons couler ;</l>
 	<l id="1413">Tâcher d’adoucir une amour inhumaine</l>
 	<l id="1414">Par le contentement que recevra ma haine,</l>
 	<l id="1415">Mais de la mort des Juifs cache bien le dessein.</l>
 </sp>
-<sp who="THARSIS"><speaker>THARSIS.</speaker>
+<sp who="THARSIS"><hstage><speaker>THARSIS</speaker>.</hstage>
 	<l id="1416">Il vaut mieux que mon cœur cache dedans mon sein.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1417">Mais remettre si loin la mort de Mardochée,</l>
 	<l id="1418">C’est faire une autre plaie à mon âme troublée ;</l>
 	<l id="1419">Il faut pour satisfaire à mon ressentiment</l>
@@ -2204,7 +2204,7 @@
 	<l id="1427">Il n’est point de spectacle et plus grand et plus beau</l>
 	<l id="1428">Que de notre ennemi le meurtre et le tombeau.</l>
 </sp>
-<sp who="THARSIS"><speaker>THARSIS.</speaker>
+<sp who="THARSIS"><hstage><speaker>THARSIS</speaker>.</hstage>
 	<l id="1429">Représentez au Roi que c’est par cet infâme,</l>
 	<l id="1430">Que l’État va brûler d’une funeste flamme ;</l>
 	<l id="1431">Représentez au Roi que ce Juif odieux</l>
@@ -2214,7 +2214,7 @@
 	<l id="1435">Car je ne doute point que sur votre rapport</l>
 	<l id="1436">Un Roi qui sait régner ne résolve sa mort.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1437">Je suivrai ton conseil qui me fait par avance</l>
 	<l id="1438">Goûter avec plaisir les fruits de la vengeance.</l>
 	<l id="1439">Je ne crains plus qu’Esther renverse mon dessein,</l>
@@ -2227,28 +2227,28 @@
 	<l id="1446" part="i">Allons trouver le Roi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Zéthar, Haman.</head>
-<sp who="ZÉTHAR"><speaker>ZÉTHAR.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Zéthar, Haman.</cast>
+<sp who="ZÉTHAR"><hstage><speaker>ZÉTHAR</speaker>.</hstage>
 	<l id="1446" part="f">Seigneur, le Roi vous mande.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1447" part="i">En sais-tu le sujet ?</l>
 </sp>
-<sp who="ZÉTHAR"><speaker>ZÉTHAR.</speaker>
+<sp who="ZÉTHAR"><hstage><speaker>ZÉTHAR</speaker>.</hstage>
 	<l id="1447" part="f">On peut bien le penser.</l>
 	<l id="1448">Il parle de service, et de récompenser.</l>
 	<l id="1449">Enfin, enfin Seigneur, sa Royale justice</l>
 	<l id="1450">Se prépare à payer quelque illustre service.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1451">À qui destine-t-il un si beau traitement ?</l>
 </sp>
-<sp who="ZÉTHAR"><speaker>ZÉTHAR.</speaker>
+<sp who="ZÉTHAR"><hstage><speaker>ZÉTHAR</speaker>.</hstage>
 	<l id="1452">À vous Seigneur, à vous, n’en doutez nullement,</l>
 	<l id="1453">De la façon qu’il parle, il fait assez entendre</l>
 	<l id="1454">Que ce prix est un bien que vous devez attendre.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1455">Va Zéthar, je te suis. Le Ciel peut-il pour nous</l>
 	<l id="1456">Se montrer aujourd’hui plus propice et plus doux ?</l>
 	<l id="1457">Mon amour lui déplut, je l’apprends par ma peine,</l>
@@ -2261,8 +2261,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Le Roi, accompagné.</head>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Le Roi, accompagné.</cast>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1463">Certes quand mon esprit revoit cet attentat</l>
 	<l id="1464">Qui menaçait mes jours, ma gloire et mon État,</l>
 	<l id="1465">Et que je songe enfin que le rare service</l>
@@ -2289,17 +2289,17 @@
 	<l id="1486">Et suivre son conseil en affaire pareille.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Zéthar, Le Roi, Haman.</head>
-<sp who="ZÉTHAR"><speaker>ZÉTHAR.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Zéthar, Le Roi, Haman.</cast>
+<sp who="ZÉTHAR"><hstage><speaker>ZÉTHAR</speaker>.</hstage>
 	<l id="1487" part="i">Sire, Haman est ici.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1487" part="f">Qu’il entre, je l’attends.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN, en entrant.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>, en entrant.</hstage>
 	<l id="1488">Enfin nous allons vaincre, et nous rendre contents.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1489">Haman, comme en faveur de l’heureux Hyménée,</l>
 	<l id="1490">Dont le Ciel qui nous aime amène la journée,</l>
 	<l id="1491">Comme en faveur d’Esther je veux de tous côtés</l>
@@ -2309,13 +2309,13 @@
 	<l id="1495">Comme je veux enfin pour comble de bienfaits,</l>
 	<l id="1496">Qu’un oubli général efface tous forfaits.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1497">Quoi Sire, voulez-vous que ce peuple perfide</l>
 	<l id="1498">Qui s’allait signaler par votre parricide,</l>
 	<l id="1499">Voulez-vous que les Juifs prêts à faire un effort,</l>
 	<l id="1500">Vivent par vos faveurs pour vous donner la mort ?</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1501">Non, non, ils périront, quand un Prince fait grâce,</l>
 	<l id="1502">Jamais le factieux n’y doit avoir de place.</l>
 	<l id="1503">Mais comme mes faveurs vont jusques aux cachots</l>
@@ -2325,7 +2325,7 @@
 	<l id="1507">Montrer que la vertu peut seule me ravir,</l>
 	<l id="1508">Et par la récompense apprendre à bien servir.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1509">C’est aussi d’un grand Roi le plus noble exercice,</l>
 	<l id="1510">Puisque récompenser c’est rendre la justice.</l>
 	<l id="1511">Ouvrez donc aujourd’hui vos libérales mains,</l>
@@ -2335,7 +2335,7 @@
 	<l id="1515">Que votre Majesté puisse aussi désormais</l>
 	<l id="1516">Donner autant de prix qu’elle aura de sujets.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1517">Haman j’aime un sujet généreux et fidèle,</l>
 	<l id="1518">De qui de grands effets m’ont témoigné le zèle,</l>
 	<l id="1519">Je l’estime, je l’aime, et lui dois tant de biens,</l>
@@ -2345,16 +2345,16 @@
 	<l id="1523">Dis-moi, que dois-je faire afin de l’honorer</l>
 	<l id="1524">Autant que ma grandeur le peut faire espérer.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1525">Comme mieux qu’un sujet un Prince magnanime</l>
 	<l id="1526">D’un fidèle sujet sait le prix et l’estime,</l>
 	<l id="1527">Il n’appartient aussi qu’aux Princes valeureux</l>
 	<l id="1528">De savoir honorer des sujets généreux.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1529">Parle je le souhaite, et je te le commande.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1530">À vos commandements il faut que je me rende.</l>
 	<l id="1531">Puisqu’un sujet fidèle et prudent à la fois</l>
 	<l id="1532">Est le plus grand trésor que possèdent les Rois,</l>
@@ -2375,66 +2375,66 @@
 	<l id="1547">Enfin pour le combler d’honneur et de plaisirs,</l>
 	<l id="1548">On doit tout accorder à ses justes désirs.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1549">J’estime ton avis, et pour mieux te l’apprendre,</l>
 	<l id="1550">Ton avis est celui que ton Prince veut prendre.</l>
 	<l id="1551" part="i">Connais-tu Mardochée ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1551" part="m">Oui Sire.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1551" part="f">C’est celui</l>
 	<l id="1552">Que j’aime, que j’honore, et qui fut mon appui.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1553">Quoi Sire, Mardochée est ce sujet fidèle ?</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1554">C’est lui, mon cher Haman, dont j’honore le zèle,</l>
 	<l id="1555">Ce n’est qu’en sa faveur que j’ai pris tes avis,</l>
 	<l id="1556">Ce n’est qu’en sa faveur qu’on les verra suivis.</l>
 	<l id="1557">Enfin j’ai souhaité que ta main généreuse</l>
 	<l id="1558">M’aidât à relever la vertu malheureuse.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1559">Quoi Sire, à Mardochée un même honneur qu’au Roi ?</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1560">Tu l’as ordonné tel, tel il l’aura de moi.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1561">Mais il fit son devoir s’il vous rendit service.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1562">Et je ferai le mien si je lui rends justice.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1563">Sire, il faut à son rang mesurer vos bienfaits.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1564">Je les dois mesurer par les biens qu’il m’a faits.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1565">Ils peuvent être grands, sans devenir extrêmes.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1566">Ils me sembleraient bas s’ils n’étaient pas suprêmes.</l>
 	<l id="1567">Quoi veux-tu t’opposer à tes propres conseils ?</l>
 	<l id="1568">À qui destinais-tu ces honneurs sans pareils ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1569">Aux Princes seulement, ces appuis des Provinces.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1570">Haman, de bons sujets me tiennent lieu de Princes ;</l>
 	<l id="1571">Je sais bien estimer la noblesse du sang,</l>
 	<l id="1572">Mais la fidélité me plaît plus que le rang.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1573" part="i">Mais Sire...</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1573" part="f">Mais enfin, pour tirer Mardochée</l>
 	<l id="1574">De cette obscurité dont sa gloire est cachée,</l>
 	<l id="1575">Pour rendre avec usure à sa fidélité</l>
@@ -2458,7 +2458,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="HAMAN"><speaker>HAMAN, seul.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>, seul.</hstage>
 	<l id="1593">Moi que par des honneurs sans borne et sans exemples,</l>
 	<l id="1594">Même à mon ennemi je bâtisse des temples !</l>
 	<l id="1595">Et qu’à ma dignité moi-même injurieux,</l>
@@ -2526,8 +2526,8 @@
 	<l id="1657" part="i">Mais le voici, feignons.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Haman, Mardochée.</head>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Haman, Mardochée.</cast>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1657" part="f">Enfin les Dieux propices</l>
 	<l id="1658">Joindront la récompense à vos rares services.</l>
 	<l id="1659">Triomphez maintenant de ces longues douleurs !</l>
@@ -2535,57 +2535,57 @@
 	<l id="1661">Votre fidélité vous gagne une victoire</l>
 	<l id="1662">Qui vous couronnera d’une immortelle gloire.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1663">Cesse, cesse, orgueilleux de tes prospérités,</l>
 	<l id="1664">D’ajouter la risée à nos calamités ;</l>
 	<l id="1665">Et crois méchant esprit, âme dénaturée,</l>
 	<l id="1666">Que le bien des méchants n’est jamais de durée.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1667">N’outragez point celui qui vous doit honorer.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1668">Flatterai-je celui qui me doit massacrer ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1669">Vous oubliez sans doute et mon rang, et le vôtre.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1670">Nous savons votre rang, nous connaissons le nôtre ;</l>
 	<l id="1671">Enfin je sais cruel, qui nous sommes tous deux,</l>
 	<l id="1672">Je suis un misérable, et vous êtes heureux ;</l>
 	<l id="1673">Mais si le Roi de Perse est encore équitable</l>
 	<l id="1674">Je serai bienheureux, vous serez misérable.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1675">Déjà l’événement répond à vos désirs,</l>
 	<l id="1676">Puisque même le Roi travaille à vos plaisirs.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1677">Il y travaillera pour la honte d’un traître,</l>
 	<l id="1678">Et s’il nous veut ouïr, et s’il peut vous connaître.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1679">Enfin... Mais il revient, je crains quelques malheurs.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Le Roi, Esther, Haman, Mardochée.</head>
-<sp who="LE-ROI"><speaker>LE ROI, parlant à quelqu’un des siens.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Le Roi, Esther, Haman, Mardochée.</cast>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>, parlant à quelqu’un des siens.</hstage>
 	<l id="1680">Esther, me dites-vous, vient me trouver en pleurs ?</l>
 	<l id="1681" part="i">Haman suivez votre ordre.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1681" part="f">Ô loi trop inhumaine ?</l>
 	<l id="1682">Toutefois espérons, je vois venir la Reine.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1683" part="i">Sire, qu’Haman demeure.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1683" part="f">Arrêtez près de moi,</l>
 	<l id="1684">Et recevez d’Esther cette première loi.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER, remettant aux pieds du Roi la couronne et le Sceptre.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>, remettant aux pieds du Roi la couronne et le Sceptre.</hstage>
 	<l id="1685">Sire, puisque le Ciel, d’où dépend notre gloire,</l>
 	<l id="1686">Attache de si près ma perte à ma victoire,</l>
 	<l id="1687">Sire, puisque le ciel ne veut que d’un moment</l>
@@ -2595,13 +2595,13 @@
 	<l id="1691">Aimant bien mieux les rendre à votre Majesté,</l>
 	<l id="1692">Que de les voir ravir par mon adversité.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1693">Quelle raison vous force à rendre une Couronne</l>
 	<l id="1694">À l’instant bienheureux que le ciel vous la donne ?</l>
 	<l id="1695">Que craignez-vous, Esther, et d’où vient cet effroi ?</l>
 	<l id="1696">Craignez-vous les présents, et l’amitié d’un Roi ?</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1697">Ha, sire, si les traits d’une affreuse tourmente</l>
 	<l id="1698">Déjà prêts de tomber ne pendaient sur ma tête,</l>
 	<l id="1699">Ou que cet attentat plein de rage et d’horreur</l>
@@ -2617,13 +2617,13 @@
 	<l id="1709">Et pour combler l’horreur d’une trame si noire,</l>
 	<l id="1710">Il va jusques à vous attaquer votre gloire.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1711">On veut vous attaquer ! De quelle lâche main</l>
 	<l id="1712">Pourrait sortir l’effet de ce cruel dessein ?</l>
 	<l id="1713">Quelle rigueur, quels maux, quels tourments légitimes</l>
 	<l id="1714">Ne sont pas dûs, Haman, à l’auteur de ces crimes !</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1715">Il n’est point de tourment, ni d’inhumanité,</l>
 	<l id="1716">Qui ne soit moindre encore que cette impiété.</l>
 	<l id="1717">Pour perdre le coupable, et lui faire un supplice,</l>
@@ -2631,23 +2631,23 @@
 	<l id="1719">Mais ne différez point, Sire, et n’épargnez rien,</l>
 	<l id="1720">Laisser vivre un méchant, c’est nuire aux gens de bien.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1721">Parlez, parlez Esther, montrez le misérable</l>
 	<l id="1722">Qu’un si noir attentat a rendu si coupable.</l>
 	<l id="1723">Bien que contre moi seul il tournât son effort</l>
 	<l id="1724">Pour vous avoir fait craindre il mérite la mort.</l>
 	<l id="1725">Parlez, parlez enfin, montrez-nous cet infâme ?</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1726" part="i">Ha Sire, c’est Haman.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1726" part="m">Vous Haman ?</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1726" part="f">Moi Madame ?</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1727">Oui traître, oui méchant, Sire pardonnez-moi,</l>
 	<l id="1728">Si je semble oublier le respect de mon Roi ;</l>
 	<l id="1729">C’est le premier tourment que nous devons aux traîtres,</l>
@@ -2660,10 +2660,10 @@
 	<l id="1736">Le traître qui s’enfuit, quand on crût l’arrêter,</l>
 	<l id="1737" part="i">Enfin.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1737" part="m">L’a-t-on trouvé ?</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1737" part="f">Les Juifs, ces misérables</l>
 	<l id="1738">Qu’on vous a figurés, comme de grands coupables,</l>
 	<l id="1739">Et qui voudraient mourir pour votre Majesté,</l>
@@ -2679,28 +2679,28 @@
 	<l id="1749">Et pour le confirmer le ciel voulut permettre</l>
 	<l id="1750">Que l’on surprit un Grec qui portait cette lettre.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1751" part="i">Hélas !</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI, après avoir lu la lettre.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>, après avoir lu la lettre.</hstage>
 	<l id="1751" part="f">Haman écrire, aux ennemis des miens,</l>
 	<l id="1752">Recommander un traître aux Macédoniens.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1753" part="i">Moi Sire ?</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1753" part="m">Toi méchant.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1753" part="f">Ô Dieux quelle imposture !</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1754">Reconnais-tu ta main ? Vois-tu ton écriture ?</l>
 	<l id="1755">Ce sont là des témoins qui procèdent de toi,</l>
 	<l id="1756">Dont tu ne peux combattre et démentir la foi.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1757">Cependant c’est par lui, c’est par ses artifices</l>
 	<l id="1758">Qu’on destine les Juifs à d’horribles supplices.</l>
 	<l id="1759">Et je venais enfin solliciter pour eux,</l>
@@ -2734,13 +2734,13 @@
 	<l id="1787">Viendrait-il aujourd’hui vous demander secours,</l>
 	<l id="1788">Pour perdre un innocent qui conserva vos jours ?</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1789">Quel barbare artisan d’aventures tragiques,</l>
 	<l id="1790">Voudrais-tu m’engager dans tes lâches pratiques ?</l>
 	<l id="1791">Il ne te suffit pas de troubler notre paix,</l>
 	<l id="1792">Tu veux donc que ton Prince ait part à tes forfaits ?</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1793">Je ne demande pas qu’on perde ce coupable,</l>
 	<l id="1794">Mais qu’un peuple innocent vous trouve favorable.</l>
 	<l id="1795">Si l’on détruit les Juifs, on me perd avec eux,</l>
@@ -2754,32 +2754,32 @@
 	<l id="1803">Et s’il n’eût point senti la colère des Cieux,</l>
 	<l id="1804">Je régnerais au Trône où régnaient mes aïeux.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1805">Quoi vous sortez des Juifs ! Leurs Rois sont vos ancêtres !</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1806">Oui, je sors des grands Rois qu’ils connurent pour Maîtres,</l>
 	<l id="1807">Et lorsqu’à mon amour votre cœur s’est rendu,</l>
 	<l id="1808">Toujours grand, toujours haut, il n’a point descendu.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1809" part="i">Quoi vous sortez des Juifs ?</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1809" part="f">Oui Sire, et Mardochée,</l>
 	<l id="1810">Qu’attaque injustement une haine cachée,</l>
 	<l id="1811">Lui qui vous conserva, lui qui veille pour vous,</l>
 	<l id="1812">Fut Frère de mon Père, et Prince parmi nous.</l>
 </sp>
-<sp who="HAMAN"><speaker>HAMAN.</speaker>
+<sp who="HAMAN"><hstage><speaker>HAMAN</speaker>.</hstage>
 	<l id="1813">Quelle étrange aventure, et qu’en faut-il attendre !</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1814">Sire, après ce discours qui vous a dû surprendre,</l>
 	<l id="1815">Je remets à vos pieds ma grandeur et mon sort</l>
 	<l id="1816">Pour attendre de vous ou ma vie ou ma mort.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1817">Vivez, régnez Esther, et gardez la puissance,</l>
 	<l id="1818">Comme un don de l’amour, et de votre naissance.</l>
 	<l id="1819">Il fallait que le Ciel couronnât devant moi,</l>
@@ -2789,10 +2789,10 @@
 	<l id="1823">Qu’en donnant à la Perse, et joignant à mon rang,</l>
 	<l id="1824">Une Reine qui sorte, et d’eux et de leur sang.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1825">Il faut mourir pour vous pour mériter ces grâces.</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1826">Il ne faut que marcher dessus les mêmes traces.</l>
 	<l id="1827">Mais toi méchant esprit, exécrable à jamais,</l>
 	<l id="1828">Sur qui jusques ici j’ai perdu mes bienfaits,</l>
@@ -2805,10 +2805,10 @@
 	<l id="1835">Vous Gardes saisissez ce butin des enfers,</l>
 	<l id="1836">Et que la seule mort l’arracha de nos fers.</l>
 </sp>
-<sp who="ESTHER"><speaker>ESTHER.</speaker>
+<sp who="ESTHER"><hstage><speaker>ESTHER</speaker>.</hstage>
 	<l id="1837">Ha Sire, en sa faveur écoutez la clémence !</l>
 </sp>
-<sp who="LE-ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="1838">La Clémence est un crime en pareille occurrence,</l>
 	<l id="1839">Et quelque beau laurier qu’on en puisse cueillir,</l>
 	<l id="1840">Pardonner aux méchants, c’est montrer à faillir.</l>
@@ -2817,7 +2817,7 @@
 	<l id="1843">Et qu’en fasse d’Esther, on voie en même jour,</l>
 	<l id="1844">Triompher l’innocence, aussi bien que l’amour.</l>
 </sp>
-<sp who="MARDOCHEE"><speaker>MARDOCHÉE.</speaker>
+<sp who="MARDOCHEE"><hstage><speaker>MARDOCHÉE</speaker>.</hstage>
 	<l id="1845">Ô Ciel ! C’est de toi seul que ce bien va descendre,</l>
 	<l id="1846">Et ce n’est qu’à toi que nous devons le rendre.</l>
 </sp>

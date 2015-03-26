@@ -69,7 +69,7 @@
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="CALCIOPE"><speaker>CALCIOPE, seule.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>, seule.</hstage>
 	<l id="1">Dieux, veillez sur ses jours, par mes soins conservés !</l>
 	<l id="2">Dieux, que Sardanapale a trop long-temps bravés,</l>
 	<l id="3">Laissez-vous attendrir par les pleurs d’une mère !</l>
@@ -95,18 +95,18 @@
 	<l id="23">Il vient ; contre un barbare affermissons sa haine.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Aarbacès, Calciope.</head>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Aarbacès, Calciope.</cast>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="24">Seigneur, voici l’instant de briser notre chaîne.</l>
 	<l id="25">Paramis vous promet un généreux appui :</l>
 	<l id="26">Le sang et l’amitié vous unissent à lui.</l>
 </sp>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 	<l id="27">S’il partage en effet l’affront de ma famille,</l>
 	<l id="28">Pourquoi m’a-t-il caché le malheur de ma fille ?</l>
 	<l id="29" part="i">Pourquoi, sans m’avertir ?...</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="29" part="f">Il l’ignorait, Seigneur.</l>
 	<l id="30">Le tyran d’Artazire indigne ravisseur,</l>
 	<l id="31">Prodigue les trésors des peuples ses victimes,</l>
@@ -121,7 +121,7 @@
 	<l id="40">Tout parle dans ces lieux en faveur d’Artazire :</l>
 	<l id="41" part="i">Vengez-la, vengez-vous.</l>
 </sp>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 	<l id="41" part="f">Que j’apprenne du moins,</l>
 	<l id="42">Madame, à qui je dois de si généreux soins,</l>
 	<l id="43">Ce conseil important, cet avis salutaire,</l>
@@ -129,16 +129,16 @@
 	<l id="45">À qui je dois enfin l’espoir de me venger</l>
 	<l id="46">Des fureurs du tyran qui prétend m’outrager.</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="47">Pourquoi, Seigneur, pourquoi chercher à me connaître ?</l>
 	<l id="48">Dès long-temps arrachée aux lieux qui m’ont vu naître.</l>
 	<l id="49">Étrangère, captive en ce séjour d’effroi,</l>
 	<l id="50">Hélas ! Est-il un rang, est-il un nom pour moi ?</l>
 </sp>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 	<l id="51">Ainsi de vous servir vous m’ôtez l’espérance ?</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="52">Le salut de l’État sera ma récompense,</l>
 	<l id="53">Je l’attends de vous seul : mais il est temps, Seigneur,</l>
 	<l id="54">D’arracher votre fille aux mains du ravisseur.</l>
@@ -165,7 +165,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="75">Tyran, je te prépare un piège inévitable ;</l>
 	<l id="76">Le glaive est suspendu sur ta tête coupable.</l>
 <note type="L">Sparte : Cité du Péloponèse en Grèce.</note>
@@ -183,8 +183,8 @@
 	<l id="88" part="i">Va s’armer...</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Sardanapale, Calciope , Arsame, suite.</head>
-<sp who="SARDANAPALE"><speaker>SARDANAPALE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Sardanapale, Calciope , Arsame, suite.</cast>
+<sp who="SARDANAPALE"><hstage><speaker>SARDANAPALE</speaker>.</hstage>
 	<l id="88" part="f">Il est temps de rompre le silence...</l>
 	<l id="89">Madame. Un autre objet me retient dans ses fers..</l>
 	<l id="90">Je vais , avec ma main, lui donner l’univers.</l>
@@ -197,7 +197,7 @@
 	<l id="97">Allez, loin de ces murs arrosés de vos pleurs,</l>
 	<l id="98">Sous un ciel plus propice oublier vos malheurs.</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="99">Pour la première fois, je me plais à t’entendre.</l>
 	<l id="100">Combien à ce bonheur j’étais loin de m’attendre !</l>
 	<l id="101">Ta bouche me l’annonce, et mon cœur satisfait</l>
@@ -218,7 +218,7 @@
 	<l id="115">Heureux, en expirant, que ta main meurtrière</l>
 	<l id="116">Lui dérobât l’horreur de connaître son père !</l>
 </sp>
-<sp who="SARDANAPALE"><speaker>SARDANAPALE.</speaker>
+<sp who="SARDANAPALE"><hstage><speaker>SARDANAPALE</speaker>.</hstage>
 	<l id="117">Je m’attendais, Madame, à ces emportements,</l>
 	<l id="118">Dont l’audace indiscrète a duré trop longtemps ;</l>
 	<l id="119">Mais, libre désormais de choisir un asile,</l>
@@ -229,8 +229,8 @@
 	<l id="122" part="f">Que l’on cherche Arbacès.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Sardanapale, Arsame.</head>
-<sp who="SARDANAPALE"><speaker>SARDANAPALE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Sardanapale, Arsame.</cast>
+<sp who="SARDANAPALE"><hstage><speaker>SARDANAPALE</speaker>.</hstage>
 	<l id="123">Oui, je prétends le voir, et je veux que lui-même</l>
 	<l id="124">La dispose à fléchir sous mon ordre suprême. ;</l>
 	<l id="125">L’éclat de tant d’honneurs, qu’il n’eût osé prévoir,</l>
@@ -248,11 +248,11 @@
 	<l id="137">Il est temps qu’à son tour elle apprenne à gémir :</l>
 	<l id="138">Plus je me suis contraint, plus elle doit frémir.</l>
 </sp>
-<sp who="ARSAME"><speaker>ARSAME.</speaker>
+<sp who="ARSAME"><hstage><speaker>ARSAME</speaker>.</hstage>
 	<l id="139">Et pensez-vous, Seigneur, qu’avec un front tranquille,</l>
 	<l id="140" part="i">Calciope...</l>
 </sp>
-<sp who="SARDANAPALE"><speaker>SARDANAPALE.</speaker>
+<sp who="SARDANAPALE"><hstage><speaker>SARDANAPALE</speaker>.</hstage>
 	<l id="140" part="f">Écartons une crainte inutile.</l>
 	<l id="141">Demain, lorsque la nuit aura fait place au jour,</l>
 	<l id="142">Calciope à jamais doit quitter ce séjour.</l>
@@ -264,8 +264,8 @@
 	<l id="148">Mais je vois Arbacès ; Arsame, va m’attendre.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Arbacès, Sardanapale.</head>
-<sp who="ARBACÈS"><speaker>ARBACÈS, à part.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Arbacès, Sardanapale.</cast>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>, à part.</hstage>
 	<l id="149">Ciel, fais que le remords puisse entrer dans son cœur !</l>
 <stage>Haut.</stage>
 	<l id="150">Seigneur, à vos genoux j’apporte ma douleur.</l>
@@ -276,7 +276,7 @@
 	<l id="155">Ma fille en ce palais ! Que faut-il que j’espère ?</l>
 	<l id="156">Vous la rendrez sans doute aux larmes de son père ?</l>
 </sp>
-<sp who="SARDANAPALE"><speaker>SARDANAPALE.</speaker>
+<sp who="SARDANAPALE"><hstage><speaker>SARDANAPALE</speaker>.</hstage>
 	<l id="157">Oui, je veux près de moi vous fixer pour toujours :</l>
 	<l id="158">À votre ambition donnez un libre cours ;</l>
 	<l id="159">Croyez, à quelque rang que votre orgueil aspire,</l>
@@ -284,7 +284,7 @@
 	<l id="161">L’Assyrie en ce jour va recevoir ses lois,</l>
 	<l id="162">Et ma main sur son front met le bandeau des Rois.</l>
 </sp>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 	<l id="163">Quoi ! Jusques-la, Seigneur , on vous verrait descendre !</l>
 	<l id="164">Ce sont là les secrets que je devais entendre !</l>
 	<l id="165">Nourri loin de la Cour, ce n’est point à mon sang</l>
@@ -296,7 +296,7 @@
 	<l id="171">Voilà ce qu’à mon maître il faut que je réponde :</l>
 	<l id="172">Ce n’est qu’au sang des Rois à commander au monde.</l>
 </sp>
-<sp who="SARDANAPALE"><speaker>SARDANAPALE.</speaker>
+<sp who="SARDANAPALE"><hstage><speaker>SARDANAPALE</speaker>.</hstage>
 	<l id="173">Ah ! C’est trop m’exposer à d’indignes refus.</l>
 	<l id="174">Pensez-vous m’éblouir par de fausses vertus ?</l>
 	<l id="175">Oubliez-vous enfin, quand votre orgueil me brave,</l>
@@ -304,7 +304,7 @@
 	<l id="177">Et que si je descends jusqu’à la couronner,</l>
 	<l id="178">Souverain absolu, j’ai le droit d’ordonner ?</l>
 </sp>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 	<l id="179">Vous pourriez vous permettre une injuste contrainte !</l>
 	<l id="180">J’ignorais que l’amour dut inspirer la crainte.</l>
 <stage>Après un instant de silence.</stage>
@@ -323,7 +323,7 @@
 	<l id="193">C’est en les éclairant qu’on doit servir les Rois,</l>
 	<l id="194">Et tout l’État ici vous parle par ma voix.</l>
 </sp>
-<sp who="SARDANAPALE"><speaker>SARDANAPALE.</speaker>
+<sp who="SARDANAPALE"><hstage><speaker>SARDANAPALE</speaker>.</hstage>
 	<l id="195">Je veux bien de ton zèle excuser la rudesse.</l>
 	<l id="196">Apprends qu’il faut des Rois ménager la faiblesse.</l>
 	<l id="197">Et ne m’oppose plus cet orgueil dangereux,</l>
@@ -335,7 +335,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII.</head>
-<sp who="ARBACÈS"><speaker>ARBACÈS, seul.</speaker>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>, seul.</hstage>
 	<l id="203">Va, crains plutôt, cruel, crains plutôt la tempête</l>
 	<l id="204">Qui bientôt par mes soins va fondre sur ta tête.</l>
 	<l id="205">Le moment est venu d’expier tes forfaits ;</l>
@@ -346,18 +346,18 @@
 </div2>
 </div1>
 <div1 type="" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Calciope, Ninus, sous le nom de Timur.</head>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Calciope, Ninus, sous le nom de Timur.</cast>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="209">Quoi ! Vous êtes ma mère, et vous m’abandonnez !</l>
 	<l id="210">Disposez de ces jours que vous m’avez donnés ;</l>
 	<l id="211">Mais ne différez plus, dissipez mes alarmes,</l>
 	<l id="212" part="i">Et si je vous suis cher...</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="212" part="f">Tu vois couler mes larmes,</l>
 	<l id="213" part="i">Et tu peux en douter !</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="213" part="f">Non , je n’en doute pas ;</l>
 	<l id="214">Mais qu’il me soit permis d’accompagner vos pas ;</l>
 	<l id="215">Quoi ! Dans ce même jour qui m’apprend ma naissance,</l>
@@ -367,7 +367,7 @@
 	<l id="219">Hélas ! Quand la nature en mon cœur se déploie,</l>
 	<l id="220">À peine ai-je eu le temps de vous marquer ma joie.</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="221">Seul espoir de ma vie, ô Timur, ô mon fils !</l>
 	<l id="222">Ce nom cher à mon cœur m’est donc enfin permis !</l>
 	<l id="223">La nature à tous deux vient de se faire entendre ;</l>
@@ -379,7 +379,7 @@
 	<l id="229">Ton salut en dépend ; qui pourrait m’arrêter ?</l>
 	<l id="230">La nature est trop faible, il la faut surmonter-</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="231">Hélas ! Depuis longtemps sa voix m’était connue-</l>
 	<l id="232">Qu’il est présent encore à mon âme éperdue</l>
 	<l id="233">Ce jour où Paramis me permit de vous voir !</l>
@@ -387,26 +387,26 @@
 	<l id="235">Ah ! Sans doute, les Dieux me désignaient ma mère :</l>
 	<l id="236">Mais consolez un fils ; parlez, quel est mon père ?</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="237">Le cruel au berceau voulut verser ton sang.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="238" part="i">Quoi ! Mon père ?</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="238" part="f">Il eût pu t’élever à son rang,</l>
 	<l id="239">Tu pouvais être un jour la gloire de l’Asie.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="240">Mais du moins son pays, quel est-il ?</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="241" part="i">L’Assyrie.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="241" part="m">Achevez.</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="241" part="f">Ne crois, pas m’arracher mon secret ;</l>
 	<l id="242">Je vois couler tes pleurs, j’y résiste à regret.</l>
 	<l id="243">Je te l’ai déjà dit, ton désespoir m’afflige ;</l>
@@ -426,11 +426,11 @@
 	<l id="257">La fille d’Arbacès est digne de tes vœux,</l>
 	<l id="258">Et quelque espoir du moins est permis à tes feux.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="259">Qui ! Moi ? J’aurais l’espoir d’obtenir Artazire ?</l>
 	<l id="260" part="i">Il se pourrait ?...</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="260" part="f">Tu sais ce que j’ai pu te dire.</l>
 	<l id="261">Un jour tous mes desseins te seront révélés :</l>
 	<l id="262">Le Ciel veut qu’à tes yeux ils soient encor voilés.</l>
@@ -444,20 +444,20 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="269" part="f">Arbitres des humains,</l>
 	<l id="270">Grands Dieux ! Veillez sur elle, et changez ses destins.</l>
 	<l id="271">De son cœur maternel dissipez les alarmes.</l>
 	<l id="272">Quel serait le barbare insensible à ses larmes !</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Artazire, Timur.</head>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Artazire, Timur.</cast>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="273">Venez, venez, Madame, augmenter mon bonheur :</l>
 	<l id="274">Le Ciel me voit enfin avec moins de rigueur :</l>
 	<l id="275">Apprenez ses bienfaits ; Calciope est ma mère.</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="276">Que tu dois être heureux ! Que sa vertu m’est chère !</l>
 	<l id="277">On eût dit qu’en secret un doux pressentiment</l>
 	<l id="278">Me faisait dans ta mère adorer mon amant.</l>
@@ -481,51 +481,51 @@
 	<l id="295">Sans doute que les Dieux, touchés de mon injure,</l>
 	<l id="296">Voulaient me consoler par cet heureux augure.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="297">Est-ce ici que le Ciel devait nous réunir ?</l>
 	<l id="298">Mon amour n’y prévoit qu’un funeste avenir.</l>
 	<l id="299">Mon rival à vos pieds va mettre sa couronne ;</l>
 	<l id="300">Arbacès ne verra que le rang qu’il vous donne...</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="301">Lui ? Mon père ! Il voudrait t’effacer de mon cœur,</l>
 	<l id="302">Quand sa bouche autrefois approuva notre ardeur ?</l>
 	<l id="303">Non, tu ne le crois pas. Non, je lui fus trop chère,</l>
 	<l id="304">Pour douter... Mais on vient. C’est lui-même : ô mon père !</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Arbacès, Artazire, Timur.</head>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Arbacès, Artazire, Timur.</cast>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 	<l id="305">Dieux, vous me la rendez, ma fille !... Et vous, mon fils !</l>
 	<l id="306">Quoi ! Timur en ces lieux ? Quoi ! Tous deux réunis ?</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="307">Je retrouve l’appui qu’implorait ma faiblesse ;</l>
 	<l id="308">Mais quand le Ciel plus doux vous rend à ma tendresse,</l>
 	<l id="309">Je frémis des périls que vous bravez, Seigneur.</l>
 	<l id="310">Ce palais m’est suspect ; le tyran, sa fureur,</l>
 	<l id="311">Ses détestables feux, tout me remplit d’alarmes.</l>
 </sp>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 	<l id="312">Le cruel ! De quel front a-t-il pu voir tes larmes ?</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="313">Sous des égards trompeurs couvrant sa trahison,</l>
 	<l id="314">Il me cache mes fers ; sa Cour est ma prison.</l>
 	<l id="315">Ébloui de l’éclat d’un rang qu’il déshonore,</l>
 	<l id="316">Il croit que mon orgueil en secret le dévore.</l>
 </sp>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 	<l id="317">Ma fille, sur mes soins tu peux te rassurer ;</l>
 	<l id="318">Si tu me vois ici, c’est pour te délivrer.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="319">Seigneur, il en est temps, prévenons un barbare, .</l>
 	<l id="320">Faisons tomber sur lui les coups qu’il nous prépare.</l>
 	<l id="321">Hâtons son jour fatal trop longtemps différé :</l>
 	<l id="322">Qu’il périsse ; son régner a déjà trop duré.</l>
 </sp>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 	<l id="323">Votre vertu, mon fils, a devancé votre âge :</l>
 	<l id="324">Moi-même, j’ai guidé votre jeune courage.</l>
 	<l id="325">Babylone, témoin de vos premiers travaux,</l>
@@ -534,11 +534,11 @@
 	<l id="328">Oui, vous serez mon fils, vous vengerez ma fille ;</l>
 	<l id="329" part="i">Venez.</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="329" part="f">À me quitter vous pourriez consentir !</l>
 	<l id="330" part="i">Mon père ?...</l>
 </sp>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 	<l id="330" part="f">Vois ces lieux, tu ne peux en sortir :</l>
 	<l id="331">Des gardes, des soldats en défendent l’enceinte ;</l>
 	<l id="332">Mais Paramis nous sert, tu dois être sans crainte ;</l>
@@ -552,22 +552,22 @@
 	<l id="339">Tel est l’ordre du Ciel : ainsi de sa vengeance</l>
 	<l id="340">Il étonne les Rois frappés dans le silence.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="341">Ah ! Si jamais l’amour échauffa la valeur,</l>
 	<l id="342">Madame, s’il est vrai qu’il anime un grand cœur,</l>
 	<l id="343">S’il commande au succès dans les champs de la gloire,</l>
 	<l id="344">Tout doit sur mon rival m’assurer la victoire.</l>
 	<l id="345">Mes vœux impatients attendaient ce grand jour.</l>
 </sp>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 	<l id="346">Ma fille, il faut rentrer dans ce fatal séjour ;</l>
 	<l id="347">Un plus long entretien trahirait ta vengeance :</l>
 	<l id="348">Renferme tes douleurs ; je vole à ta défense.</l>
 <stage>Elle sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Arbacès, Timur.</head>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Arbacès, Timur.</cast>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 	<l id="349">Je l’ai vu, ce tyran, je l’ai vu sans effroi ;</l>
 	<l id="350">Quel est, sans la vertu, le vain titre de Roi !</l>
 	<l id="351">Plongé, dans les langueurs d’une indigne mollesse,</l>
@@ -583,7 +583,7 @@
 	<l id="359">Nous rampons devant lui, malheureux que nous sommes !</l>
 	<l id="360">Ce monstre était-il fait pour régner sur des hommes ?</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="361">Il était notre Roi, Seigneur, il ne l’est plus ;</l>
 	<l id="362">Le titre de monarque exigeait des vertus,</l>
 	<l id="363">Il n’en connut jamais : nous étions ses victimes ;</l>
@@ -596,8 +596,8 @@
 	<l id="370" part="i">Mais je vois Paramis.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Paramis, Arbacès, Timur, Suite des Conjurés qui entrent avec Paramis.</head>
-<sp who="PARAMIS"><speaker>PARAMIS, à part ; parlant de Timur, dont il vient d’entendre les dernières paroles.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Paramis, Arbacès, Timur, Suite des Conjurés qui entrent avec Paramis.</cast>
+<sp who="PARAMIS"><hstage><speaker>PARAMIS</speaker>, à part ; parlant de Timur, dont il vient d’entendre les dernières paroles.</hstage>
 	<l id="370" part="f">Où va-t-il s’engager ?</l>
 	<l id="371">Les nœuds secrets du sang n’ont-ils rien qui l’arrête ?</l>
 <stage>À sa suite.</stage>
@@ -608,7 +608,7 @@
 	<l id="376">Si je sais d’un ami partager la querelle.</l>
 	<l id="377" part="i">Nos vengeurs sont-ils prêts ?</l>
 </sp>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 	<l id="377" part="f">Oui, mes braves soldats,</l>
 	<l id="378">Du sein de la Médie, ont marché sur mes pas ;</l>
 	<l id="379">Ils accourent en foule, et déjà leur courage</l>
@@ -616,7 +616,7 @@
 	<l id="381">Sous un joug odieux indignés de fléchir,</l>
 	<l id="382">Tous ont juré de vaincre et de s’en affranchir.</l>
 </sp>
-<sp who="PARAMIS"><speaker>PARAMIS, aux Conjurés.</speaker>
+<sp who="PARAMIS"><hstage><speaker>PARAMIS</speaker>, aux Conjurés.</hstage>
 	<l id="383">Amis, cet heureux jour, si le sort vous seconde,</l>
 	<l id="384">Va remettre en vos mains cet empire et le monde.</l>
 	<l id="385">Du hasard d’un combat votre destin dépend ;</l>
@@ -639,7 +639,7 @@
 	<l id="401">La vertu loin des Cours exilée à jamais,</l>
 	<l id="402">Et toujours le pouvoir du côté des forfaits ?</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="403">Eh bien, marchons sans crainte où l’honneur nous entraîne.</l>
 	<l id="404">Le succès est douteux, mais la gloire est certaine.</l>
 <stage>À Paramis.</stage>
@@ -647,7 +647,7 @@
 	<l id="406">À ces nobles projets qu’il m’est doux d’être admis !</l>
 	<l id="407">Je brûle de vous suivre aux champs de la victoire.</l>
 </sp>
-<sp who="PARAMIS"><speaker>PARAMIS.</speaker>
+<sp who="PARAMIS"><hstage><speaker>PARAMIS</speaker>.</hstage>
 	<l id="408">Nous savons à quel point Timur chérit la gloire ;</l>
 	<l id="409">Mais je dois vous guider, mon fils. C’est dans ces lieux</l>
 	<l id="410">Qu’animé par ma voix, combattant sous mes yeux,</l>
@@ -658,11 +658,11 @@
 	<l id="415">Et sur mes seuls avis réglant votre courage,</l>
 	<l id="416">Vous attendrez mon ordre au moment du carnage.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="417">Mon cœur, toujours soumis à votre autorité,</l>
 	<l id="418">Vous est garant. Seigneur, de ma fidélité.</l>
 </sp>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 	<l id="419">Amis, si parmi nous un conjuré timide,</l>
 	<l id="420">Effrayé du péril, ou, peut-être perfide,</l>
 	<l id="421">Par de justes soupçons pouvait nous alarmer,</l>
@@ -670,14 +670,14 @@
 	<l id="423">Jurons tous de punir, d’immoler le parjure ;</l>
 	<l id="424" part="i">Jurons de nous venger par sa mort.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="424" part="f">Je le jure :</l>
 	<l id="425">Que les Dieux sur le traître épuisent leur courroux !</l>
 </sp>
-<sp who="PARAMIS"><speaker>PARAMIS.</speaker>
+<sp who="PARAMIS"><hstage><speaker>PARAMIS</speaker>.</hstage>
 	<l id="426">Timur, à vos serments nous nous unissons tous.</l>
 </sp>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 <note type="L">Diadème : couronne, symbole du pouvoir royal.</note>
 	<l id="427">Autant que je l’ai pu, fidèle au diadème,</l>
 	<l id="428">J’ai défendu ses droits, et ceux du tyran même ;</l>
@@ -690,7 +690,7 @@
 	<l id="435">Ce bras qui s’est armé contre un Roi sanguinaire,</l>
 	<l id="436">Combattrait pour le fils en punissant le père.</l>
 </sp>
-<sp who="PARAMIS"><speaker>PARAMIS.</speaker>
+<sp who="PARAMIS"><hstage><speaker>PARAMIS</speaker>.</hstage>
 	<l id="437" part="i">Il suffit.</l>
 <stage>À Timur.</stage>
 	<l id="437" part="f">Vous, rentrez ; songez que votre foi</l>
@@ -705,7 +705,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII.</head>
-<sp who="PARAMIS"><speaker>PARAMIS.</speaker>
+<sp who="PARAMIS"><hstage><speaker>PARAMIS</speaker>.</hstage>
 	<l id="443">Où s’engageait Ninus ? Ô devoir !... Ô nature !</l>
 	<l id="444">Hélas ! Jamais son cœur n’a senti ton murmure.</l>
 	<l id="445">Roi perfide et cruel, tu n’entends pas ses cris :</l>
@@ -720,8 +720,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Sardanapale, Artazire.</head>
-<sp who="SARDANAPALE"><speaker>SARDANAPALE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Sardanapale, Artazire.</cast>
+<sp who="SARDANAPALE"><hstage><speaker>SARDANAPALE</speaker>.</hstage>
 	<l id="453">Avant que ce palais se referme à ma voix,</l>
 	<l id="454">Pesez vos intérêts pour la dernière fois,</l>
 	<l id="455">Madame ; de mes vœux on a dû vous instruire :</l>
@@ -733,7 +733,7 @@
 	<l id="461">Offert à vos appas par la main d’un époux,</l>
 	<l id="462">Présente à votre orgueil un triomphe assez doux.</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="463">Seigneur, je rougirais pour vous et pour moi-même,</l>
 	<l id="464">Je croirais profaner l’honneur du diadème ,</l>
 	<l id="465">Si j’osais accepter le don de votre foi,</l>
@@ -747,7 +747,7 @@
 	<l id="473">Et si jamais mon cœur se laissait enflammer,</l>
 	<l id="474">Seigneur, c’est la vertu que je voudrais aimer.</l>
 </sp>
-<sp who="SARDANAPALE"><speaker>SARDANAPALE.</speaker>
+<sp who="SARDANAPALE"><hstage><speaker>SARDANAPALE</speaker>.</hstage>
 	<l id="475">Vous m’éclairez, Madame, et je crois vous entendre ;</l>
 	<l id="476">Jusqu’à vous à regret vous me voyez descendre :</l>
 	<l id="477">La paix que vous cherchez n’habite point ma Cour,</l>
@@ -757,10 +757,10 @@
 	<l id="481">Si l’un de mes sujets, plus fortuné que moi,</l>
 	<l id="482">N’osait point à mes vœux disputer votre foi.</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE, avec trouble.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>, avec trouble.</hstage>
 	<l id="483" part="i">Quoi ! Vous pourriez penser ?...</l>
 </sp>
-<sp who="SARDANAPALE"><speaker>SARDANAPALE.</speaker>
+<sp who="SARDANAPALE"><hstage><speaker>SARDANAPALE</speaker>.</hstage>
 	<l id="483" part="f">Oui, je crois tout, Madame,</l>
 	<l id="484">Et tremblez du soupçon qui s’élève en mon âme.</l>
 	<l id="485">Il n’évitera point, ce rival abhorré,</l>
@@ -776,7 +776,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="495">Cesse de me parler d’un feu que je déteste :</l>
 	<l id="496">Va, tyran, ton courroux me semble moins funeste.</l>
 	<l id="497">L’amour prit-il jamais les traits de la fureur ?</l>
@@ -792,8 +792,8 @@
 	<l id="507">On vient... C’est mon amant, c’est Timur qui s’avance.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Timur, Artazire.</head>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Timur, Artazire.</cast>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="508">Que j’ai souffert, Timur, pour un moment d’absence !</l>
 	<l id="509">Le tyran... que mon cœur désirait ton retour !</l>
 	<l id="510">Le barbare est venu me vanter son amour.</l>
@@ -808,7 +808,7 @@
 	<l id="519">Parle : sur nos malheurs as-tu quelque espérance ?</l>
 	<l id="520">Les verrons-nous finir ? Mourrons-nous sans vengeance ?</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="521">Oui, sans doute, les Dieux protègent nos desseins,</l>
 	<l id="522">Sans doute ils vont livrer la victime à nos mains.</l>
 	<l id="523">Les pièges de la guerre environnent la ville,</l>
@@ -832,10 +832,10 @@
 	<l id="541">Et peut-être il importe au bonheur de mes jours</l>
 	<l id="542">De m’ignorer moi-même, et d’y rester toujours.</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="543">Quels sont donc ces malheurs que tu crains de connaître ?</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="544">J’ignore de quel sang les destins m’ont fait naître ;</l>
 	<l id="545">Je n’ose approfondir ces horribles secrets.</l>
 	<l id="546">Ma mère avec douleur écoute mes regrets,</l>
@@ -848,13 +848,13 @@
 	<l id="553">Malgré moi, cette crainte imprime dans mon cœur</l>
 	<l id="554">Un sentiment confus d’amertume et d’horreur.</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="555">Eh quoi ! Dois-tu frémir aux yeux de ton amante ?</l>
 	<l id="556">Rassure-toi, Timur, ta douleur m’épouvante.</l>
 	<l id="557">Ingrat, je sens à peine, alors que je te vois,</l>
 	<l id="558">Le fardeau des malheurs appesanti sur moi.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="559">Belle Artazire, hélas ! Si le Ciel moins sévère</l>
 	<l id="560">N’eût réservé qu’à moi les traits de sa colère,</l>
 	<l id="561">S’il n’en eût pas sur vous étendu les rigueurs,</l>
@@ -868,7 +868,7 @@
 	<l id="569">Dans son sang odieux, que ne puisse en ce jour</l>
 	<l id="570">Satisfaire à la fois la nature et l’amour !</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="571">Va, le Ciel par tes mains doit venger nos outrages,</l>
 	<l id="572">Et nous rendre la paix du sein de ces orages.</l>
 	<l id="573">Quels que soient tes destins, je les veux partager ;</l>
@@ -877,8 +877,8 @@
 	<l id="576">Mais ta mère paraît, je te laisse avec elle.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Calciope, Timur.</head>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Calciope, Timur.</cast>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="577">Je te cherchais, mon fils, et tu vois par mes pleurs</l>
 	<l id="578">Que je viens à regret t’annoncer des malheurs.</l>
 	<l id="579">Voici l’instant fatal où je sens ma faiblesse.</l>
@@ -897,28 +897,28 @@
 	<l id="592">Te déclarer ton rang, ni te nommer ton père :</l>
 	<l id="593" part="i">Tout doit m’en détourner.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="593" part="f">Ma mère, au nom des Dieux,</l>
 	<l id="594">Levez ce voile obscur étendu sur mes yeux ;</l>
 	<l id="595" part="i">Prenez pitié d’un fils.</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="595" part="f">Ciel vengeur que j’atteste !</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="596" part="i">Parlez.</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="596" part="f">Non, ce secret te serait trop funeste.</l>
 	<l id="597">N’abuse point, mon fils, du trouble où tu me vois,</l>
 	<l id="598">Obéis-moi du moins pour la dernière fois.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="599">Dieux ! Quel est mon malheur ! Je dois craindre mon père.</l>
 	<l id="600">Ignorer mes destins, vous perdre, vous, ma mère !</l>
 	<l id="601" part="i">Quoi, vous m’abandonnez ?</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="601" part="f">Ah ! Ce cruel effort,</l>
 	<l id="602">Timur, ce coup affreux va me donner la mort.</l>
 	<l id="603">Tes regrets dans mon cœur font gémir la nature,</l>
@@ -928,7 +928,7 @@
 	<l id="607">Que cette Cour, grands Dieux, ne lui soit point fatale !</l>
 	<l id="608">Souviens-toi de ta mère... et crains Sardanapale.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR, avec fureur.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>, avec fureur.</hstage>
 	<l id="609">Qui ? Moi ! Craindre un tyran ! C’est à lui de trembler.</l>
 	<l id="610">Il ne voit point les traits dont on va l’accabler ;</l>
 	<l id="611">Le barbare est tranquille au sein de la tempête ;</l>
@@ -936,13 +936,13 @@
 	<l id="613">C’est lui dont la fureur ose vous outrager ;</l>
 	<l id="614">Dans son perfide sang ma main va se plonger.</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="615">Dans son sang ? Toi, mon fils ! Je frémis de t’entendre.</l>
 	<l id="616">Ah ! Laisse à Paramis le soin de le répandre.</l>
 	<l id="617">Crois-moi, fuis le tyran, renonce à ton dessein :</l>
 	<l id="618">Non, ce n’est pas à toi de lui percer le sein.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="619">Sur mes tristes destins daignez être tranquille ;</l>
 	<l id="620">Les chefs des conjurés vont entrer dans la ville.</l>
 	<l id="621">Verrai-je, sans agir, éclater leur courroux ?</l>
@@ -953,91 +953,91 @@
 	<l id="626">Et je verrais un autre immoler mon rival !</l>
 	<l id="627">Un autre vengerait mon amante et ma mère !</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="628">Ciel, quel nouveau malheur me gardait ta colère !</l>
 	<l id="629" part="i">Que vas-tu faire, hélas !</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="629" part="f">Vous venger ou mourir.</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="630">Prends pitié des tourments que tu me fais souffrir,</l>
 	<l id="631" part="i">Mon fils !</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="631" part="f">Le désespoir est peint sur son visage :</l>
 	<l id="632">La mort dans ses regards a tracé son image.</l>
 	<l id="633" part="i">Je frémis.</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="633" part="f">Quel secret il lui faut dévoiler !</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="634" part="i">Que dites-vous ?</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="634" part="f">Mon fils !... Je ne puis lui parler.</l>
 	<l id="635">Je tremble pour tes jours ; tu connais sa furie.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="636">Il est beau de mourir pour venger sa Patrie.</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="637" part="i">Timur... il est ton Roi.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="637" part="m">Lui ? Ce monstre ?</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="637" part="f">Ah ! Mon fils.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="638" part="i">Expliquez-vous, parlez.</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="638" part="f">Il est... Ciel ! Je frémis.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="639" part="i">Je me jette à vos pieds.</l>
 <stage>À part.</stage>
 	<l id="639" part="f">Sa douleur m’intimide.</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE, à part.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>, à part.</hstage>
 	<l id="640">Avec tant de vertus, il serait parricide !</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR, au désespoir.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>, au désespoir.</hstage>
 	<l id="641">Je ne me connais plus ; ses larmes, sa terreur,</l>
 	<l id="642">Et mes justes soupçons redoublent ma fureur.</l>
 <stage>Il veut sortir.</stage>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE, l’arrêtant.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>, l’arrêtant.</hstage>
 	<l id="643" part="i">Quel est donc ton dessein ?</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="643" part="f">Je cours venger ma mère ,</l>
 	<l id="644" part="i">Immoler un tyran.</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="644" part="f">Mon fils... il est ton père.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="645" part="i">Lui !</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="645" part="f">J’ai frémi du coup que tu veux lui porter /</l>
 	<l id="646">Au bord du précipice il fallait l’arrêter.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="647">Poursuivez, désormais rien ne peut me surprendre.</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="648">Eh quoi ! Tu peux encor désirer de m’entendre ?</l>
 	<l id="649">Ah ! Laisse-moi, Ninus, dévorer, mes ennuis,</l>
 	<l id="650">Et te cacher ma honte et l’horreur où je suis !</l>
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="NINUS/TIMUR"><speaker>TIMUR.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>TIMUR</speaker>.</hstage>
 	<l id="651">Elle me quitte : ô Ciel ! Ô jour épouvantable !</l>
 	<l id="652">Arrachez-moi, grands Dieux, au malheur qui m’accable !</l>
 	<l id="653">Cruels, si la lumière est un de vos bienfaits,</l>
@@ -1062,7 +1062,7 @@
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="667">Enfin, j’ai tout appris, les malheurs d’une mère,</l>
 	<l id="668">Son opprobre, le mien, et les forfaits d’un père !</l>
 	<l id="669">Ah ! Quand j’ai désiré de connaître mon rang,</l>
@@ -1082,135 +1082,135 @@
 	<l id="683">Où fuir ? Où me cacher ? Ah ! Ciel ! C’est Artazire.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Artazire, Ninus.</head>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Artazire, Ninus.</cast>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="684" part="i">Tu veux me fuir, Timur ?</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="684" part="f">Que pourrais-je lui dire !</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="685">Parle, sur tes destins n’as-tu rien découvert ?</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="686">Hélas ! Tout est connu, ce jour affreux nous perd.</l>
 	<l id="687" part="i">Artazire !...</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="687" part="m">Poursuis.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="687" part="f">Ce tyran qui vous aime,</l>
 	<l id="688">Qui vous offrit ses vœux, sa main, son diadème,</l>
 	<l id="689">Lui dont vous dédaignez l’amour et la fureur,</l>
 	<l id="690">Le même à qui mon bras allait percer le cœur...</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="691">Eh ! Bien, sa cruauté va-t-elle être assouvie ?</l>
 	<l id="692" part="i">Veut-il trancher mes jours ?</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="692" part="f">Il m’a donné la vie !</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="693">Qu’ai-je entendu, grands Dieux ? Ô destin plein d’horreur !</l>
 	<l id="694" part="i">Est-il bien vrai, Timur ?</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="694" part="f">Croyez-en ma douleur.</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="695" part="i">Mais quels sont tes garants ?</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="695" part="f">Les larmes de ma mère,</l>
 	<l id="696" part="i">L’aveu de Calciope.</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="696" part="f">Ô trop fatal mystère !</l>
 	<l id="697">Ranimez, Dieux puissants, mes esprits abattus.</l>
 	<l id="698">Toi, fils de ce barbare, avec tant de vertus ? :</l>
 	<l id="699">Mais pourquoi si longtemps te cacher ta naissance ?</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="700">Un intérêt trop cher la forçait au silence.</l>
 	<l id="701">Mon père à mon aurore avait proscrit mes jours :</l>
 	<l id="702">Il croit que par son ordre on a tranché leur cours ;</l>
 	<l id="703">Paramis à ses coups déroba la victime :</l>
 	<l id="704">Plût aux Dieux que sa main eût achevé le crime !</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="705" part="i">Et quel est ton dessein ?</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="705" part="f">De lui tout découvrir.</l>
 	<l id="706">Je veux par mon respect tâcher de l’attendrir,</l>
 	<l id="707">Aux ordres de mon père obéir sans murmure,</l>
 	<l id="708">Dans son cœur, s’il se peut, éveiller la nature.</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="709">Un sentiment si doux dans, un cœur si cruel !</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="710">Fût-il plus inhumain, dois-je être criminel ?</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="711">Tu n’adouciras point son affreux caractère.</l>
 	<l id="712" part="i">Altéré de ton sang, ce barbare...</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="712" part="f">Est mon père.</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="713">Tu ne peux le servir sans trahir notre amour.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="714" pat="i">Chère Artazire !....</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="714" part="m">Eh bien ?</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="714" part="f">Je vous perds sans retour !</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="715" part="i">Tu peux m’abandonner !</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="715" part="f">Je n’ai plus d’espérance.</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="716">Tu trahis Arbacès, ses projets, ma vengeance :</l>
 	<l id="717">Tu connais ses desseins, il t’a cru généreux ;</l>
 	<l id="718" part="i">Tu trahis tes serments.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="718" part="f">Ces serments sont affreux.</l>
 	<l id="719">Par eux, sans le sentir , j’outrageais la nature,</l>
 	<l id="720">Et mon premier devoir me commande un parjure.</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="721">Tu veux me voir, Timur, expirer à tes yeux.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="722">Je veux vous mériter de mon père et des Dieux.</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="723">Malheureux ! À t’aimer penses-tu le contraindre ?</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="724">J’aurai fait mon devoir, j’en serai moins à plaindre ;</l>
 	<l id="725">Et si rien n’adoucit son injuste courroux,</l>
 	<l id="726">J’aurai montré du moins, un cœur digne de vous.</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="727">Viens, pour mieux signaler un dévouement si rare,</l>
 	<l id="728">Viens me livrer toi-même aux fureurs du barbare ;</l>
 	<l id="729" part="i">Que tes yeux...</l>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE III. Sardanapale, Artazire, Ninus, qui se retire pendant cette scène à l’un des côtés du théâtre.</head>
-<sp who="SARDANAPALE"><speaker>SARDANAPALE, à Artazire.</speaker>
+<div2 type="scene" n=""><head>SCÈNE III.</head><cast>Sardanapale, Artazire, Ninus, qui se retire pendant cette scène à l’un des côtés du théâtre.</cast>
+<sp who="SARDANAPALE"><hstage><speaker>SARDANAPALE</speaker>, à Artazire.</hstage>
 	<l id="729" part="f">Demeurez. Je ne suis plus surpris</l>
 	<l id="730">De l’imprudent orgueil qu’affectaient vos mépris.</l>
 	<l id="731">Tout est connu, Madame ; un téméraire, un traître,</l>
@@ -1220,7 +1220,7 @@
 	<l id="735">Il ose s’emporter à cet excès d’outrage ;</l>
 	<l id="736">Qu’il tremble, mon courroux vous retient pour otage.</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="737">Eh ! Quel droit avez-vous d’accuser des sujets</l>
 	<l id="738">Que le Ciel autorise à venger les forfaits ?</l>
 	<l id="739">Arbacès, qui pour vous a prodigué son zèle,</l>
@@ -1229,13 +1229,13 @@
 	<l id="742">Respectez-les du moins, ou connaissez-les mieux.</l>
 	<l id="743" part="i">Songez...</l>
 </sp>
-<sp who="SARDANAPALE"><speaker>SARDANAPALE.</speaker>
+<sp who="SARDANAPALE"><hstage><speaker>SARDANAPALE</speaker>.</hstage>
 	<l id="743" part="f">Si je pouvais oublier son audace,</l>
 	<l id="744">Ce serait par vos mains qu’il obtiendrait sa grâce.</l>
 	<l id="745">Venez : la foudre encor pourrait se détourner ;</l>
 	<l id="746">Mais ce n’est qu’aux autels que je veux pardonner.</l>
 </sp>
-<sp who="ARTAZIRE"><speaker>ARTAZIRE.</speaker>
+<sp who="ARTAZIRE"><hstage><speaker>ARTAZIRE</speaker>.</hstage>
 	<l id="747">Qui, toi ! Lui pardonner ? Crains plutôt sa vengeance.</l>
 	<l id="748">Les Dieux, dont tes forfaits ont lassé la clémence,</l>
 	<l id="749">Te menacent enfin d’un éternel courroux.</l>
@@ -1247,13 +1247,13 @@
 	<l id="755">Je ne m’abaisse point à fléchir ta colère :</l>
 	<l id="756">Prononce mon arrêt ; mais crains encor mon père.</l>
 </sp>
-<sp who="SARDANAPALE"><speaker>SARDANAPALE.</speaker>
+<sp who="SARDANAPALE"><hstage><speaker>SARDANAPALE</speaker>.</hstage>
 <stage>Il fait un mouvement pour la suivre, mais Ninus l’arrête en tombant à ses pieds.</stage>
 	<l id="757" part="i">C’en est trop, que son sang...</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Ninus, Sardanapale.</head>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Ninus, Sardanapale.</cast>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="757" part="f">J’embrasse vos genoux ;</l>
 	<l id="758">Le malheur d’Arbacès rejaillirait sur vous.</l>
 	<l id="759">S’il faut, pour le ravir au destin qui l’accable,</l>
@@ -1265,16 +1265,16 @@
 	<l id="765">Il adore Artazire, il a reçu sa foi ;</l>
 	<l id="766" part="i">Il servait Arbacès.</l>
 </sp>
-<sp who="SARDANAPALE"><speaker>SARDANAPALE.</speaker>
+<sp who="SARDANAPALE"><hstage><speaker>SARDANAPALE</speaker>.</hstage>
 	<l id="766" part="m">Et quel est-il ?</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="766" part="f">C’est moi.</l>
 </sp>
-<sp who="SARDANAPALE"><speaker>SARDANAPALE.</speaker>
+<sp who="SARDANAPALE"><hstage><speaker>SARDANAPALE</speaker>.</hstage>
 	<l id="767" part="i">Qui ? Vous !</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="767" part="f">Je vous apprends ce funeste mystère :</l>
 	<l id="768">Je reconnais mon crime ; il fut involontaire.</l>
 	<l id="769">Un penchant trop flatteur brava tous mes efforts.</l>
@@ -1291,20 +1291,20 @@
 	<l id="780">Ma mère ouvrit mes yeux sur le bord de l’abîme ;</l>
 	<l id="781">Calciope eut horreur du projet de son fils.</l>
 </sp>
-<sp who="SARDANAPALE"><speaker>SARDANAPALE, avec étonnement.</speaker>
+<sp who="SARDANAPALE"><hstage><speaker>SARDANAPALE</speaker>, avec étonnement.</hstage>
 	<l id="782" part="i">Toi ! Fils de Calciope !</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="782" part="f">Oui, Seigneur, je le suis.</l>
 	<l id="783">Le Ciel m’avait marqué du sceau de sa colère :</l>
 	<l id="784">Proscrit dès ma naissance, et par l’ordre d’un père,</l>
 	<l id="785">Il ne sait point encor que les Dieux m’ont sauvé.</l>
 	<l id="786">À de plus grands malheurs ces Dieux m’ont réservé.</l>
 </sp>
-<sp who="SARDANAPALE"><speaker>SARDANAPALE, à part.</speaker>
+<sp who="SARDANAPALE"><hstage><speaker>SARDANAPALE</speaker>, à part.</hstage>
 	<l id="787" part="i">Ciel !</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="787" part="f">J’étais aveuglé ; c’est ma mère, c’est elle</l>
 	<l id="788">Qui vous rend un appui dans un sujet rebelle.</l>
 	<l id="789">Je vous cède Artazire, adorez-la toujours :</l>
@@ -1320,17 +1320,17 @@
 <stage>À part, et avec l’expression de la douleur et du découragement.</stage>
 	<l id="799">Hélas ! Dois-je poursuivre, ou garder le silence ?</l>
 </sp>
-<sp who="SARDANAPALE"><speaker>SARDANAPALE, à part.</speaker>
+<sp who="SARDANAPALE"><hstage><speaker>SARDANAPALE</speaker>, à part.</hstage>
 	<l id="800">Ciel ! Il est donc instruit ! Il connaît sa naissance !</l>
 	<l id="801">Je le vois trop, ses yeux de larmes obscurcis...</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="802">Cruel, tu peux encor méconnaître ton fils !</l>
 </sp>
-<sp who="SARDANAPALE"><speaker>SARDANAPALE.</speaker>
+<sp who="SARDANAPALE"><hstage><speaker>SARDANAPALE</speaker>.</hstage>
 	<l id="803" part="i">Toi, mon fils ?</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="803" part="f">À ce nom, d’où naissent les alarmes ?</l>
 	<l id="804">Quoi ! Tu crains la nature, et mes pleurs sont ses armes !</l>
 	<l id="805">Les monstres des forêts sont soumis à sa voix. :</l>
@@ -1348,7 +1348,7 @@
 	<l id="817">Elle impose à ton fils ce rigoureux devoir :</l>
 	<l id="818">Cruel, à mes remords, reconnais son pouvoir.</l>
 </sp>
-<sp who="SARDANAPALE"><speaker>SARDANAPALE, d’un ton qui annonce la contrainte et la dissimulation.</speaker>
+<sp who="SARDANAPALE"><hstage><speaker>SARDANAPALE</speaker>, d’un ton qui annonce la contrainte et la dissimulation.</hstage>
 	<l id="819">C’en est fait... à ta voix mon courroux doit s’éteindre :</l>
 	<l id="820">Embrassons-nous, mon fils, et cessons de nous craindre.</l>
 	<l id="821">Je rends grâce au destin qui prit soin de tes jours :</l>
@@ -1360,7 +1360,7 @@
 	<l id="827">Mon amour te répond du salut d’Artazire :</l>
 	<l id="828">C’est à toi de veiller à celui de l’Empire.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="829">Oui, je cours vous défendre, ou verser à vos yeux</l>
 	<l id="830">Ce sang infortuné qui vous fut odieux.</l>
 	<l id="831">Que je vais dissiper les craintes de ma mère !</l>
@@ -1368,7 +1368,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="SARDANAPALE"><speaker>SARDANAPALE.</speaker>
+<sp who="SARDANAPALE"><hstage><speaker>SARDANAPALE</speaker>.</hstage>
 	<l id="833">Va, malheureux, ton sort est encor plus fatal.</l>
 	<l id="834">Que je suis satisfait ! Je connais mon rival.</l>
 	<l id="835">La nature entre nous n’a rien que de funeste ;</l>
@@ -1386,7 +1386,7 @@
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="845">Est-il bien vrai, grands Dieux ! Mes maux sont-ils finis ?</l>
 	<l id="846">Il s’est laissé fléchir par les pleurs de son fils !</l>
 	<l id="847">Un changement si prompt n’a rien qui me rassure ;</l>
@@ -1413,22 +1413,22 @@
 	<l id="866">Osons tenter du moins... Mais que vois-je ? C’est lui.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Paramis, Calciope.</head>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Paramis, Calciope.</cast>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="867">Ah ! Paramis, l’effroi peint sur votre visage,</l>
 	<l id="868">Ne confirme que trop un douloureux présage ;</l>
 	<l id="869">Je vois dans vos regards les horreurs de mon sort ;</l>
 	<l id="870" part="i">Mon fils n’est plus !</l>
 </sp>
-<sp who="PARAMIS"><speaker>PARAMIS.</speaker>
+<sp who="PARAMIS"><hstage><speaker>PARAMIS</speaker>.</hstage>
 	<l id="870" part="f">Il vit ; mais il cherche la mort.</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="871">Il vit ! Il ne vient point pour consoler sa mère !</l>
 	<l id="872">Puis-je porter sans lui le poids de ma misère ?</l>
 	<l id="873" part="i">N’importe, expliquez-vous.</l>
 </sp>
-<sp who="PARAMIS"><speaker>PARAMIS.</speaker>
+<sp who="PARAMIS"><hstage><speaker>PARAMIS</speaker>.</hstage>
 	<l id="873" part="f">Arbacès est vainqueur ;</l>
 	<l id="874">Il marche vers ces murs sans prévoir son malheur.</l>
 	<l id="875">Votre fils dans les rangs s’est ouvert un passage ;</l>
@@ -1462,12 +1462,12 @@
 	<l id="903">Et craignant de tomber sous les coups d’un rebelle,</l>
 	<l id="904">Croit se venger du moins en mourant avec elle.</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>	
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>	
 	<l id="905">Il immole Artazire ! Ah, grands Dieux ! u’ai-je appris ?</l>
 	<l id="906">Je ne reverrai plus mon déplorable fils.</l>
 	<l id="907">Sans doute il est instruit des fureurs de son père.</l>
 </sp>
-<sp who="PARAMIS"><speaker>PARAMIS.</speaker>
+<sp who="PARAMIS"><hstage><speaker>PARAMIS</speaker>.</hstage>
 	<l id="908">On n’a pu lui cacher ce funeste mystère.</l>
 	<l id="909">À l’affreuse lueur de cet embrasement ,</l>
 	<l id="910">Pâle d’effroi, troublé d’un noir pressentiment,</l>
@@ -1480,7 +1480,7 @@
 	<l id="917">En vain j’appelle encor ce prince furieux ;</l>
 	<l id="918">Un nuage confus le dérobe à mes yeux.</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>	
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>	
 	<l id="919">Il suffit ; mes regards seront témoins du reste.</l>
 <stage>À part.</stage>
 	<l id="920">Je ne survivrai point à ton malheur funeste,</l>
@@ -1489,18 +1489,18 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="PARAMIS"><speaker>PARAMIS, seul.</speaker>
+<sp who="PARAMIS"><hstage><speaker>PARAMIS</speaker>, seul.</hstage>
 	<l id="923">Quel est donc son dessein ? Que prétend-elle faire ?</l>
 	<l id="924">Ô Dieux ! Voulez-vous perdre et le fils et la mère ?</l>
 	<l id="925" part="i">Je crains son désespoir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Arbacès, suite de Conjurés, Paramis.</head>
-<sp who="PARAMIS"><speaker>PARAMIS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Arbacès, suite de Conjurés, Paramis.</cast>
+<sp who="PARAMIS"><hstage><speaker>PARAMIS</speaker>.</hstage>
 	<l id="925" part="f">Ah ! Père malheureux !</l>
 	<l id="926">Artazire... Timur !... Qu’avons-nous fait tous deux ?</l>
 </sp>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 	<l id="927">Qui ? Timur ? Ce cruel par qui ma fille expire !</l>
 	<l id="928">Sans lui nous allions vaincre, et venger Artazire ;</l>
 	<l id="929">Oui, j’ai pu la soustraire aux cruautés du Roi ;</l>
@@ -1517,48 +1517,48 @@
 	<l id="940">Quelle indigne terreur vous trouble et vous accable !</l>
 	<l id="941">Je prétends pénétrer dans ce mystère obscur.</l>
 </sp>
-<sp who="PARAMIS"><speaker>PARAMIS.</speaker>
+<sp who="PARAMIS"><hstage><speaker>PARAMIS</speaker>.</hstage>
 	<l id="942" part="i">Arbacès !...</l>
 </sp>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 	<l id="942" part="m">Ah ! Parlez.</l>
 </sp>
-<sp who="PARAMIS"><speaker>PARAMIS.</speaker>
+<sp who="PARAMIS"><hstage><speaker>PARAMIS</speaker>.</hstage>
 	<l id="942" part="f">N’accusez point Timur.</l>
 </sp>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 	<l id="943">Quoi ! Loin de ressentir une injure commune,</l>
 	<l id="944" part="i">Vous...</l>
 </sp>
-<sp who="PARAMIS"><speaker>PARAMIS.</speaker>
+<sp who="PARAMIS"><hstage><speaker>PARAMIS</speaker>.</hstage>
 	<l id="944" part="f">Quand vous connaîtrez toute son infortune,</l>
 	<l id="945">Quand ses destins affreux vous seront éclaircis,</l>
 	<l id="946">Lorsque vous apprendrez de qui Timur est fils,</l>
 	<l id="947" part="i">Dans quel sang...</l>
 </sp>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 	<l id="947" part="m">Achevez.</l>
 </sp>
-<sp who="PARAMIS"><speaker>PARAMIS.</speaker>
+<sp who="PARAMIS"><hstage><speaker>PARAMIS</speaker>.</hstage>
 	<l id="947" part="f">Le tyran fut son père.</l>
 </sp>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 	<l id="948">Timur, fils de ce monstre ? Ô trop affreux mystère !</l>
 	<l id="949">Lui ! Le fils du Tyran qu’il promit d’immoler ?</l>
 </sp>
-<sp who="PARAMIS"><speaker>PARAMIS.</speaker>
+<sp who="PARAMIS"><hstage><speaker>PARAMIS</speaker>.</hstage>
 	<l id="950">Ce terrible secret vient de se révéler.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Calciope, Arbacès, Paramis , Suite.</head>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Calciope, Arbacès, Paramis , Suite.</cast>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="951">Triomphez ; Arbacès, votre fille respire.</l>
 	<l id="952">Vous devez à Timur le salut d’Artazire.</l>
 </sp>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 	<l id="953" part="i">Dieux ! Et par quel prodige ?</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="953" part="f">Ah ! Croyez mes transports,</l>
 	<l id="954">Ou plutôt de Timur les généreux efforts.</l>
 	<l id="955">En proie à la douleur où se livrait son âme,</l>
@@ -1580,8 +1580,8 @@
 	<l id="970">Le force de monter sur le trône d’Assur.</l>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE VI ET DERNIÈRE. Ninus, Artazire, vus de loin, et comme portés par le Peuple, Calciope, Arbacès, Paramis.</head>
-<sp who="PARAMIS"><speaker>PARAMIS.</speaker>
+<div2 type="scene" n=""><head>SCÈNE VI ET DERNIÈRE.</head><cast>Ninus, Artazire, vus de loin, et comme portés par le Peuple, Calciope, Arbacès, Paramis.</cast>
+<sp who="PARAMIS"><hstage><speaker>PARAMIS</speaker>.</hstage>
 	<l id="971">Oui, Peuple, vous voyez l’héritier de l’Empire ;</l>
 	<l id="972">Ce guerrier généreux, protecteur d’Artazire,</l>
 	<l id="973">Ce héros par vos mains aujourd’hui couronné,</l>
@@ -1589,7 +1589,7 @@
 	<l id="975">C’est moi qui le sauvai, moi dont la vigilance</l>
 	<l id="976">Aux fureurs du tyran déroba son enfance.</l>
 </sp>
-<sp who="ARBACÈS"><speaker>ARBACÈS.</speaker>
+<sp who="ARBACÈS"><hstage><speaker>ARBACÈS</speaker>.</hstage>
 	<l id="977">Dieux ! Je revois ma fille ! Ah ! Timur, ah ! Seigneur !</l>
 	<l id="978">Je viens à vos genoux expier mon erreur.</l>
 	<l id="979">J’osais vous accuser de mon destin contraire,</l>
@@ -1603,11 +1603,11 @@
 	<l id="987">Des Peuples révoltés qu’excita mon outrage,</l>
 	<l id="988">Arbacès désarmé vous offre ici l’hommage.</l>
 </sp>
-<sp who="NINUS/TIMUR"><speaker>NINUS.</speaker>
+<sp who="NINUS/TIMUR"><hstage><speaker>NINUS</speaker>.</hstage>
 	<l id="989">De joie et de douleur, ô sentiments confus !</l>
 	<l id="990" part="i">Artazire !... Mon père !...</l>
 </sp>
-<sp who="CALCIOPE"><speaker>CALCIOPE.</speaker>
+<sp who="CALCIOPE"><hstage><speaker>CALCIOPE</speaker>.</hstage>
 	<l id="990" part="f">Écartons, cher Ninus,</l>
 	<l id="991">Écartons à jamais ce souvenir funeste.</l>
 	<l id="992">Osons mieux de ce jour employer ce qui reste :</l>

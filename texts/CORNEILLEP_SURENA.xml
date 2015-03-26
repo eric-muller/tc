@@ -61,8 +61,8 @@
 	</front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Eurdydice, Oromène.</head>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Eurdydice, Oromène.</cast>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1">Ne me parle plus tant de joie et d’hyménée ;</l>
 	<l id="2">Tu ne sais pas les maux où je suis condamnée,</l>
 	<l id="3">Ormène : c’est ici que doit s’exécuter</l>
@@ -81,10 +81,10 @@
 	<l id="14">Il se fait des sujets de trouble et de tristesse ?</l>
 	<l id="15" part="i">J’aime ailleurs.</l>
 </sp>
-<sp who="ORMENE"><speaker>ORMÈNE.</speaker>
+<sp who="ORMENE"><hstage><speaker>ORMÈNE</speaker>.</hstage>
 	<l id="15" part="m">Vous, madame ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="15" part="f">Ormène, je l’ai tu</l>
 	<l id="16">Tant que j’ai pu me rendre à toute ma vertu.</l>
 	<l id="17">N’espérant jamais voir l’amant qui m’a charmée,</l>
@@ -96,10 +96,10 @@
 	<l id="23">Au choix qui lui plairait. Mais, ô dieux ! Quel tourment,</l>
 	<l id="24">S’il faut prendre un époux aux yeux de cet amant !</l>
 </sp>
-<sp who="ORMENE"><speaker>ORMÈNE.</speaker>
+<sp who="ORMENE"><hstage><speaker>ORMÈNE</speaker>.</hstage>
 	<l id="25" part="i">Aux yeux de votre amant !</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="25" part="f">Il est temps de te dire</l>
 	<l id="26">Et quel malheur m’accable, et pour qui je soupire.</l>
 	<l id="27">Le mal qui s’évapore en devient plus léger,</l>
@@ -112,7 +112,7 @@
 	<l id="33">Que pour ambassadeur il prit ce héros même,</l>
 	<l id="34">Qui l’avait su venger et rendre au diadème.</l>
 </sp>
-<sp who="ORMENE"><speaker>ORMÈNE.</speaker>
+<sp who="ORMENE"><hstage><speaker>ORMÈNE</speaker>.</hstage>
 	<l id="35">Oui, je vis Suréna vous parler pour son roi,</l>
 	<l id="36">Et Cassius pour Rome avoir le même emploi.</l>
 	<l id="37">Je vis de ces états l’orgueilleuse puissance</l>
@@ -120,7 +120,7 @@
 	<l id="39">Ces deux grands intérêts partager votre cour,</l>
 	<l id="40">Et des ambassadeurs prolonger le séjour.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="41">Tous deux, ainsi qu’au roi, me rendirent visite,</l>
 	<l id="42">Et j’en connus bientôt le différent mérite.</l>
 	<l id="43">L’un, fier et tout gonflé d’un vieux mépris des rois,</l>
@@ -140,10 +140,10 @@
 	<l id="57">Et d’un mot échappé la douceur hasardée</l>
 	<l id="58">Trouvait l’âme en tous deux toute persuadée.</l>
 </sp>
-<sp who="ORMENE"><speaker>ORMÈNE.</speaker>
+<sp who="ORMENE"><hstage><speaker>ORMÈNE</speaker>.</hstage>
 	<l id="59" part="i">Cependant est-il roi, madame ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="59" part="f">Il ne l’est pas ;</l>
 	<l id="60">Mais il sait rétablir les rois dans leurs états.</l>
 	<l id="61">Des Parthes le mieux fait d’esprit et de visage,</l>
@@ -185,16 +185,16 @@
 	<l id="97">Cependant j’obéis, Ormène : je l’épouse,</l>
 	<l id="98" part="i">Et de plus...</l>
 </sp>
-<sp who="ORMENE"><speaker>ORMÈNE.</speaker>
+<sp who="ORMENE"><hstage><speaker>ORMÈNE</speaker>.</hstage>
 	<l id="98" part="m">Qu’auriez-vous de plus ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="98" part="f">Je suis jalouse.</l>
 </sp>
-<sp who="ORMENE"><speaker>ORMÈNE.</speaker>
+<sp who="ORMENE"><hstage><speaker>ORMÈNE</speaker>.</hstage>
 	<l id="99">Jalouse ! Quoi ? Pour comble aux maux dont je vous plains...</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="100">Tu vois ceux que je souffre, apprends ceux que je crains.</l>
 	<l id="101">Orode fait venir la princesse sa fille ;</l>
 	<l id="102">Et s’il veut de mon bien enrichir sa famille,</l>
@@ -205,32 +205,32 @@
 	<l id="107">Ne me condamne pas à ce nouvel ennui</l>
 	<l id="108">De voir tout ce que j’aime entre les bras d’autrui.</l>
 </sp>
-<sp who="ORMENE"><speaker>ORMÈNE.</speaker>
+<sp who="ORMENE"><hstage><speaker>ORMÈNE</speaker>.</hstage>
 	<l id="109">Votre douleur, madame, est trop ingénieuse.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="110">Quand on a commencé de se voir malheureuse,</l>
 	<l id="111">Rien ne s’offre à nos yeux qui ne fasse trembler :</l>
 	<l id="112">La plus fausse apparence a droit de nous troubler ;</l>
 	<l id="113">Et tout ce qu’on prévoit, tout ce qu’on s’imagine,</l>
 	<l id="114">Forme un nouveau poison pour une âme chagrine.</l>
 </sp>
-<sp who="ORMENE"><speaker>ORMÈNE.</speaker>
+<sp who="ORMENE"><hstage><speaker>ORMÈNE</speaker>.</hstage>
 	<l id="115">En ces nouveaux poisons trouvez-vous tant d’appas</l>
 	<l id="116">Qu’il en faille faire un d’un hymen qui n’est pas ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="117">La princesse est mandée, elle vient, elle est belle ;</l>
 	<l id="118">Un vainqueur des Romains n’est que trop digne d’elle.</l>
 	<l id="119">S’il la voit, s’il lui parle, et si le roi le veut...</l>
 	<l id="120">J’en dis trop ; et déjà tout mon cœur qui s’émeut...</l>
 </sp>
-<sp who="ORMENE"><speaker>ORMÈNE.</speaker>
+<sp who="ORMENE"><hstage><speaker>ORMÈNE</speaker>.</hstage>
 	<l id="121">À soulager vos maux appliquez même étude</l>
 	<l id="122">Qu’à prendre un vain soupçon pour une certitude :</l>
 	<l id="123">Songez par où l’aigreur s’en pourrait adoucir.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="124">J’y fais ce que je puis, et n’y puis réussir.</l>
 	<l id="125">N’osant voir Suréna, qui règne en ma pensée,</l>
 	<l id="126">Et qui me croit peut-être une âme intéressée,</l>
@@ -254,37 +254,37 @@
 	<l id="144">Force-moi, s’il le faut, à ne lui rien celer.</l>
 	<l id="145">L’oserai-je, grands dieux ! Ou plutôt le pourrai-je ?</l>
 </sp>
-<sp who="ORMENE"><speaker>ORMÈNE.</speaker>
+<sp who="ORMENE"><hstage><speaker>ORMÈNE</speaker>.</hstage>
 	<l id="146">L’amour, dès qu’il le veut, se fait un privilège ;</l>
 	<l id="147">Et quand de se forcer ses désirs sont lassés,</l>
 	<l id="148">Lui-même à n’en rien taire il s’enhardit assez.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Eurdydice, Palmis, Oromène.</head>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Eurdydice, Palmis, Oromène.</cast>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="149">J’apporte ici, madame, une heureuse nouvelle :</l>
 	<l id="150" part="i">Ce soir la reine arrive.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="150" part="f">Et Mandane avec elle ?</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="151" part="i">On n’en fait aucun doute.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="151" part="f">Et Suréna l’attend</l>
 	<l id="152">Avec beaucoup de joie et d’un esprit content ?</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="153">Avec tout le respect qu’elle a lieu d’en attendre.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="154" part="i">Rien de plus ?</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="154" part="f">Qu’a de plus un sujet à lui rendre ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="155">Je suis trop curieuse et devrais mieux savoir</l>
 	<l id="156">Ce qu’aux filles des rois un sujet peut devoir ;</l>
 	<l id="157">Mais de pareils sujets, sur qui tout l’état roule,</l>
@@ -292,58 +292,58 @@
 	<l id="159">Et je sais qu’il en est qui, si j’en puis juger,</l>
 	<l id="160">Avec moins de respect savent mieux obliger.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="161">Je n’en sais point, madame, et ne crois pas mon frère</l>
 	<l id="162">Plus savant que sa sœur en un pareil mystère.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="163" part="i">Passons. Que fait le prince ?</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="163" part="f">En véritable amant,</l>
 	<l id="164">Doutez-vous qu’il ne soit dans le ravissement ?</l>
 	<l id="165">Et pourrait-il n’avoir qu’une joie imparfaite</l>
 	<l id="166">Quand il se voit toucher au bonheur qu’il souhaite ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="167">Peut-être n’est-ce pas un grand bonheur pour lui,</l>
 	<l id="168">Madame ; et j’y craindrais quelque sujet d’ennui.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="169">Et quel ennui pourrait mêler son amertume</l>
 	<l id="170">Au doux et plein succès du feu qui le consume ?</l>
 	<l id="171">Quel chagrin a de quoi troubler un tel bonheur ?</l>
 	<l id="172" part="i">Le don de votre main...</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="172" part="f">La main n’est pas le cœur.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="173" part="i">Il est maître du vôtre.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="173" part="f">Il ne l’est point, madame ;</l>
 	<l id="174">Et même je ne sais s’il le sera de l’âme :</l>
 	<l id="175">Jugez après cela quel bonheur est le sien.</l>
 	<l id="176">Mais achevons, de grâce, et ne déguisons rien.</l>
 	<l id="177" part="i">Savez-vous mon secret ?</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="177" part="f">Je sais celui d’un frère.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="178">Vous savez donc le mien. Fait-il ce qu’il doit faire ?</l>
 	<l id="179">Me hait-il ? Et son cœur, justement irrité,</l>
 	<l id="180">Me rend-il sans regret ce que j’ai mérité ?</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="181">Oui, madame, il vous rend tout ce qu’une grande âme</l>
 	<l id="182">Doit au plus grand mérite et de zèle et de flamme.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="183" part="i">Il m’aimerait encor ?</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="183" part="f">C’est peu de dire aimer :</l>
 	<l id="184">Il souffre sans murmure ; et j’ai beau vous blâmer,</l>
 	<l id="185">Lui-même il vous défend, vous excuse sans cesse.</l>
@@ -357,59 +357,59 @@
 	<l id="193">Elle m’a tout donné ce qui dépendait d’elle,</l>
 	<l id="194">Et ma reconnaissance en doit être éternelle. »</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="195">Ah ! Vous redoublez trop, par ce discours charmant,</l>
 	<l id="196">Ma haine pour le prince et mes feux pour l’amant ;</l>
 	<l id="197">Finissons-le, madame ; en ce malheur extrême,</l>
 	<l id="198">Plus je hais, plus je souffre, et souffre autant que j’aime.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="199">N’irritons point vos maux, et changeons d’entretien.</l>
 	<l id="200">Je sais votre secret, sachez aussi le mien.</l>
 	<l id="201">Vous n’êtes pas la seule à qui la destinée</l>
 	<l id="202">Prépare un long supplice en ce grand hyménée :</l>
 	<l id="203" part="i">Le prince...</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="203" part="f">Au nom des dieux, ne me le nommez pas :</l>
 	<l id="204">Son nom seul me prépare à plus que le trépas.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="205" part="i">Un tel excès de haine !</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="205" part="f">Elle n’est que trop due</l>
 	<l id="206">Aux mortelles douleurs dont m’accable sa vue.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="207">Eh bien ! Ce prince donc, qu’il vous plaît de haïr,</l>
 	<l id="208">Et pour qui votre cœur s’apprête à se trahir,</l>
 	<l id="209" part="i">Ce prince qui vous aime, il m’aimait.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="209" part="f">L’infidèle !</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="210">Nos vœux étaient pareils, notre ardeur mutuelle :</l>
 	<l id="211" part="i">Je l’aimais.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="211" part="f">Et l’ingrat brise des nœuds si doux !</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="212">Madame, est-il des cœurs qui tiennent contre vous ?</l>
 	<l id="213">Est-il vœux ni serments qu’ils ne vous sacrifient ?</l>
 	<l id="214">Si l’ingrat me trahit, vos yeux le justifient,</l>
 	<l id="215">Vos yeux qui sur moi-même ont un tel ascendant...</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="216">Vous demeurez à vous, madame, en le perdant ;</l>
 	<l id="217">Et le bien d’être libre aisément vous console</l>
 	<l id="218">De ce qu’a d’injustice un manque de parole ;</l>
 	<l id="219">Mais je deviens esclave ; et tels sont mes malheurs,</l>
 	<l id="220">Qu’en perdant ce que j’aime, il faut que j’aime ailleurs.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="221">Madame, trouvez-vous ma fortune meilleure ?</l>
 	<l id="222">Vous perdez votre amant, mais son cœur vous demeure ;</l>
 	<l id="223">Et j’éprouve en mon sort une telle rigueur,</l>
@@ -419,7 +419,7 @@
 	<l id="227">Votre empire s’augmente où se détruit le mien,</l>
 	<l id="228">Et de toute ma gloire il ne me reste rien.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="229">Reprenez vos captifs, rassurez vos conquêtes,</l>
 	<l id="230">Rétablissez vos lois sur les plus grandes têtes :</l>
 	<l id="231">J’en serai peu jalouse, et préfère à cent rois</l>
@@ -428,16 +428,16 @@
 	<l id="234">Mais dites-moi, madame, est-il bien vrai qu’il m’aime ?</l>
 	<l id="235">Dites, et s’il est vrai, pourquoi fuit-il mes yeux ?</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="236">Madame, le voici qui vous le dira mieux.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="237">Juste ciel ! À le voir déjà mon cœur soupire !</l>
 	<l id="238">Amour, sur ma vertu prends un peu moins d’empire !</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Eurydice, Suréna.</head>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Eurydice, Suréna.</cast>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="239">Je vous ai fait prier de ne me plus revoir,</l>
 	<l id="240">Seigneur : votre présence étonne mon devoir ;</l>
 	<l id="241">Et ce qui de mon cœur fit toutes les délices,</l>
@@ -449,7 +449,7 @@
 	<l id="247">Et du moins par pitié d’un triomphe douteux,</l>
 	<l id="248">Ne me hasardez plus à des soupirs honteux.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="249">Je sais ce qu’à mon cœur coûtera votre vue ;</l>
 	<l id="250">Mais qui cherche à mourir doit chercher ce qui tue.</l>
 	<l id="251">Madame, l’heure approche, et demain votre foi</l>
@@ -459,7 +459,7 @@
 	<l id="255">Et souffrez qu’un soupir exhale à vos genoux,</l>
 	<l id="256">Pour ma dernière joie, une âme toute à vous.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="257">Et la mienne, seigneur, la jugez-vous si forte,</l>
 	<l id="258">Que vous ne craigniez point que ce moment l’emporte,</l>
 	<l id="259">Que ce même soupir qui tranchera vos jours</l>
@@ -477,12 +477,12 @@
 	<l id="271">Vous pourriez-vous, seigneur, résoudre à soulager</l>
 	<l id="272">Un malheur si pressant par un bonheur léger ?</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="273">Quel bonheur peut dépendre ici d’un misérable</l>
 	<l id="274">Qu’après tant de faveurs son amour même accable ?</l>
 	<l id="275">Puis-je encor quelque chose en l’état où je suis ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="276">Vous pouvez m’épargner d’assez rudes ennuis.</l>
 	<l id="277">N’épousez point Mandane : exprès on l’a mandée ;</l>
 	<l id="278">Mon chagrin, mes soupçons m’en ont persuadée.</l>
@@ -493,7 +493,7 @@
 	<l id="283">Je veux qu’il me demeure, et malgré votre roi,</l>
 	<l id="284">Disposer d’une main qui ne peut être à moi.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="285">Plein d’un amour si pur et si fort que le nôtre,</l>
 	<l id="286">Aveugle pour Mandane, aveugle pour toute autre,</l>
 	<l id="287">Comme je n’ai plus d’yeux vers elles à tourner,</l>
@@ -505,7 +505,7 @@
 	<l id="293">Et qu’à force d’amour vous rendez incapable</l>
 	<l id="294">De trouver sous le ciel quelque chose d’aimable ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="295">Ce n’est pas là de vous, seigneur, ce que je veux.</l>
 	<l id="296">À la postérité vous devez des neveux ;</l>
 	<l id="297">Et ces illustres morts dont vous tenez la place</l>
@@ -513,7 +513,7 @@
 	<l id="299">Je ne veux pas l’éteindre, et tiendrais à forfait</l>
 	<l id="300">Qu’il m’en fût échappé le plus léger souhait.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="301">Que tout meure avec moi, madame : que m’importe</l>
 	<l id="302">Qui foule après ma mort la terre qui me porte ?</l>
 	<l id="303">Sentiront-ils percer par un éclat nouveau,</l>
@@ -527,7 +527,7 @@
 	<l id="311">Et le moindre moment d’un bonheur souhaité</l>
 	<l id="312">Vaut mieux qu’une si froide et vaine éternité.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="313">Non, non, je suis jalouse ; et mon impatience</l>
 	<l id="314">D’affranchir mon amour de toute défiance,</l>
 	<l id="315">Tant que je vous verrai maître de votre foi,</l>
@@ -553,36 +553,36 @@
 	<l id="335">Et partout votre gloire a fait de tels éclats,</l>
 	<l id="336">Que les filles de roi ne vous manqueront pas.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="337">Quand elles me rendraient maître de tout un monde,</l>
 	<l id="338">Absolu sur la terre et souverain sur l’onde,</l>
 	<l id="339" part="i">Mon cœur...</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="339" part="f">N’achevez point : l’air dont vous commencez</l>
 	<l id="340">Pourrait à mon chagrin ne plaire pas assez ;</l>
 	<l id="341">Et d’un cœur qui veut être encor sous ma puissance</l>
 	<l id="342">Je ne veux recevoir que de l’obéissance.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="343" part="i">À qui me donnez-vous ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="343" part="f">Moi ? Que ne puis-je, hélas !</l>
 	<l id="344">Vous ôter à Mandane, et ne vous donner pas !</l>
 	<l id="345">Et contre les soupçons de ce cœur qui vous aime</l>
 	<l id="346">Que ne m’est-il permis de m’assurer moi-même !</l>
 	<l id="347" part="i">Mais adieu : je m’égare.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="347" part="f">Où dois-je recourir,</l>
 	<l id="348">Ô ciel ! S’il faut toujours aimer, souffrir, mourir ?</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Pacorus, Suréna.</head>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Pacorus, Suréna.</cast>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="349">Suréna, votre zèle a trop servi mon père</l>
 	<l id="350">Pour m’en laisser attendre un devoir moins sincère ;</l>
 	<l id="351">Et si près d’un hymen qui doit m’être assez doux,</l>
@@ -596,12 +596,12 @@
 	<l id="359">Et je puis hautement vous engager ma foi</l>
 	<l id="360">Que vous ne vous plaindrez du prince ni du roi.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="361">Cessez de me traiter, seigneur, en mercenaire :</l>
 	<l id="362">Je n’ai jamais servi par espoir de salaire ;</l>
 	<l id="363">La gloire m’en suffit, et le prix que reçoit...</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="364">Je sais ce que je dois quand on fait ce qu’on doit,</l>
 	<l id="365">Et si de l’accepter ce grand cœur vous dispense,</l>
 	<l id="366">Le mien se satisfait alors qu’il récompense.</l>
@@ -620,7 +620,7 @@
 	<l id="379">Ne me déguisez point ce que dans cette cour</l>
 	<l id="380">Sur de pareils soupçons vous auriez eu de jour.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="381">Je la voyais, seigneur, mais pour gagner son père :</l>
 	<l id="382">C’était tout mon emploi, c’était ma seule affaire ;</l>
 	<l id="383">Et je croyais par elle être sûr de son choix ;</l>
@@ -634,7 +634,7 @@
 	<l id="391">J’aurais pris d’autres soins, et plus examiné ;</l>
 	<l id="392">Mais j’ai suivi mon ordre, et n’ai point deviné.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="393">Quoi ? De ce que je crains vous n’auriez nulle idée ?</l>
 	<l id="394">Par aucune ambassade on ne l’a demandée ?</l>
 	<l id="395">Aucun prince auprès d’elle, aucun digne sujet</l>
@@ -644,7 +644,7 @@
 	<l id="399">Et par l’objet présent les sentiments émus</l>
 	<l id="400">N’attendent pas toujours des rois qu’on n’a point vus.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="401">Durant tout mon séjour rien n’y blessait ma vue ;</l>
 	<l id="402">Je n’y rencontrais point de visite assidue,</l>
 	<l id="403">Point de devoirs suspects, ni d’entretiens si doux</l>
@@ -652,7 +652,7 @@
 	<l id="405">Mais qui vous peut donner cette importune crainte,</l>
 	<l id="406" part="i">Seigneur ?</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="406" part="f">Plus je la vois, plus j’y vois de contrainte :</l>
 	<l id="407">Elle semble, aussitôt que j’ose en approcher,</l>
 	<l id="408">Avoir je ne sais quoi qu’elle me veut cacher ;</l>
@@ -661,25 +661,25 @@
 	<l id="411">Et tout le bon accueil que j’en puis recevoir,</l>
 	<l id="412">Tout ce que j’en obtiens ne part que du devoir.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="413">N’en appréhendez rien. Encor toute étonnée,</l>
 	<l id="414">Toute tremblante encore au seul nom d’hyménée,</l>
 	<l id="415">Pleine de son pays, pleine de ses parents,</l>
 	<l id="416">Il lui passe en l’esprit cent chagrins différents.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="417">Mais il semble, à la voir, que son chagrin s’applique</l>
 	<l id="418">À braver par dépit l’allégresse publique :</l>
 	<l id="419">Inquiète, rêveuse, insensible aux douceurs</l>
 	<l id="420">Que par un plein succès l’amour verse en nos cœurs...</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="421">Tout cessera, seigneur, dès que sa foi reçue</l>
 	<l id="422">Aura mis en vos mains la main qui vous est due :</l>
 	<l id="423">Vous verrez ces chagrins détruits en moins d’un jour,</l>
 	<l id="424">Et toute sa vertu devenir toute amour.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="425">C’est beaucoup hasarder que de prendre assurance</l>
 	<l id="426">Sur une si légère et douteuse espérance ;</l>
 	<l id="427">Et qu’aura cet amour d’heureux, de singulier,</l>
@@ -698,13 +698,13 @@
 	<l id="440">Si pour un autre objet il soupire en mes bras ?</l>
 	<l id="441">Il faut, il faut enfin m’éclaircir avec elle.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="442">Seigneur, je l’aperçois ; l’occasion est belle.</l>
 	<l id="443">Mais si vous en tirez quelque éclaircissement</l>
 	<l id="444">Qui donne à votre crainte un juste fondement,</l>
 	<l id="445" part="i">Que ferez-vous ?</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="445" part="f">J’en doute, et pour ne vous rien feindre,</l>
 	<l id="446">Je crois m’aimer assez pour ne la pas contraindre ;</l>
 	<l id="447">Mais tel chagrin aussi pourrait me survenir,</l>
@@ -715,51 +715,51 @@
 	<l id="452">J’aurais peur devant vous d’avoir trop à rougir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Pacorus, Eurydice.</head>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Pacorus, Eurydice.</cast>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="453">Quoi ? Madame, venir vous-même à ma rencontre !</l>
 	<l id="454">Cet excès de bonté que votre cœur me montre...</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="455">J’allais chercher Palmis, que j’aime à consoler</l>
 	<l id="456">Sur un malheur qui presse et ne peut reculer.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="457">Laissez-moi vous parler d’affaires plus pressées,</l>
 	<l id="458">Et songez qu’il est temps de m’ouvrir vos pensées :</l>
 	<l id="459">Vous vous abuseriez à les plus retenir.</l>
 	<l id="460">Je vous aime, et demain l’hymen doit nous unir :</l>
 	<l id="461" part="i">M’aimez-vous ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="461" part="f">Oui, seigneur, et ma main vous est sûre.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="462">C’est peu que de la main, si le cœur en murmure.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="463">Quel mal pourrait causer le murmure du mien,</l>
 	<l id="464">S’il murmurait si bas qu’aucun n’en apprît rien ?</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="465">Ah ! Madame, il me faut un aveu plus sincère.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="466">Épousez-moi, seigneur, et laissez-moi me taire :</l>
 	<l id="467">Un pareil doute offense, et cette liberté</l>
 	<l id="468">S’attire quelquefois trop de sincérité.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="469">C’est ce que je demande, et qu’un mot sans contrainte</l>
 	<l id="470">Justifie aujourd’hui mon espoir ou ma crainte.</l>
 	<l id="471">Ah ! Si vous connaissiez ce que pour vous je sens !</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="472">Je ferais ce que font les cœurs obéissants,</l>
 	<l id="473">Ce que veut mon devoir, ce qu’attend votre flamme,</l>
 	<l id="474" part="i">Ce que je fais enfin.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="474" part="f">Vous feriez plus, madame :</l>
 	<l id="475">Vous me feriez justice, et prendriez plaisir</l>
 	<l id="476">À montrer que nos cœurs ne forment qu’un désir.</l>
@@ -770,38 +770,38 @@
 	<l id="481">Et cette illustre ardeur ne sera point contente,</l>
 	<l id="482">Qu’un glorieux hymen n’ait rempli notre attente. »</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="483">Pour vous tenir, seigneur, un langage si doux,</l>
 	<l id="484">Il faudrait qu’en amour j’en susse autant que vous.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="485">Le véritable amour, dès que le cœur soupire,</l>
 	<l id="486">Instruit en un moment de tout ce qu’on doit dire.</l>
 	<l id="487">Ce langage à ses feux n’est jamais importun,</l>
 	<l id="488">Et si vous l’ignorez, vous n’en sentez aucun.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="489">Suppléez-y, seigneur, et dites-vous vous-même</l>
 	<l id="490">Tout ce que sent un cœur dès le moment qu’il aime ;</l>
 	<l id="491">Faites-vous-en pour moi le charmant entretien :</l>
 	<l id="492">J’avouerai tout, pourvu que je n’en dise rien.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="493">Ce langage est bien clair, et je l’entends sans peine.</l>
 	<l id="494">Au défaut de l’amour, auriez-vous de la haine ?</l>
 	<l id="495">Je ne veux pas le croire, et des yeux si charmants...</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="496">Seigneur, sachez pour vous quels sont mes sentiments.</l>
 	<l id="497">Si l’amitié vous plaît, si vous aimez l’estime,</l>
 	<l id="498">À vous les refuser je croirais faire un crime ;</l>
 	<l id="499">Pour le cœur, si je puis vous le dire entre nous,</l>
 	<l id="500">Je ne m’aperçois point qu’il soit encore à vous.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="501">Ainsi donc ce traité qu’ont fait les deux couronnes...</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="502">S’il a pu l’une à l’autre engager nos personnes,</l>
 	<l id="503">Au seul don de la main son droit est limité,</l>
 	<l id="504">Et mon cœur avec vous n’a point fait de traité.</l>
@@ -810,22 +810,22 @@
 	<l id="507">Je ne sais si le temps l’y pourra disposer ;</l>
 	<l id="508">Mais qu’il le puisse ou non, vous pouvez m’épouser.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="509">Je le puis, je le dois, je le veux ; mais, madame,</l>
 	<l id="510">Dans ces tristes froideurs dont vous payez ma flamme,</l>
 	<l id="511" part="i">Quelque autre amour plus fort...</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="511" part="f">Qu’osez-vous demander,</l>
 	<l id="512" part="i">Prince ?</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="512" part="f">De mon bonheur ce qui doit décider.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="513">Est-ce un aveu qui puisse échapper à ma bouche ?</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="514">Il est tout échappé, puisque ce mot vous touche.</l>
 	<l id="515">Si vous n’aviez du cœur fait ailleurs l’heureux don,</l>
 	<l id="516">Vous auriez moins de gêne à me dire que non ;</l>
@@ -835,7 +835,7 @@
 	<l id="520">Ne coûte rien à dire, il n’y faut point d’efforts ;</l>
 	<l id="521">Et sans que la rougeur au visage nous monte...</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="522">Ah ! Ce n’est point pour moi que je rougis de honte.</l>
 	<l id="523">Si j’ai pu faire un choix, je l’ai fait assez beau</l>
 	<l id="524">Pour m’en faire un honneur jusque dans le tombeau ;</l>
@@ -848,26 +848,26 @@
 	<l id="531">Vous qui près d’un hymen accepté par devoir,</l>
 	<l id="532">Devriez sur ce point craindre de trop savoir.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="533">Mais il est fait, ce choix qu’on s’obstine à me taire,</l>
 	<l id="534">Et qu’on cherche à me dire avec tant de mystère ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="535">Je ne vous le dis point ; mais si vous m’y forcez,</l>
 	<l id="536">Il vous en coûtera plus que vous ne pensez.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="537">Eh bien ! Madame, eh bien ! Sachons, quoi qu’il en coûte,</l>
 	<l id="538">Quel est ce grand rival qu’il faut que je redoute.</l>
 	<l id="539">Dites, est-ce un héros ? Est-ce un prince ? Est-ce un roi ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="540">C’est ce que j’ai connu de plus digne de moi.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="541">Si le mérite est grand, l’estime est un peu forte.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="542">Vous la pardonnerez à l’amour qui s’emporte :</l>
 	<l id="543">Comme vous le forcez à se trop expliquer,</l>
 	<l id="544">S’il manque de respect, vous l’en faites manquer.</l>
@@ -876,10 +876,10 @@
 	<l id="547">Et la pente est si douce à vanter ce qu’il vaut,</l>
 	<l id="548">Que jamais on ne craint de l’élever trop haut.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="549" part="i">C’est en dire beaucoup.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="549" part="f">Apprenez davantage,</l>
 	<l id="550">Et sachez que l’effort où mon devoir m’engage</l>
 	<l id="551">Ne peut plus me réduire à vous donner demain</l>
@@ -897,28 +897,28 @@
 	<l id="563">C’est ce qu’il n’est plus temps de vous dissimuler,</l>
 	<l id="564">Seigneur ; et c’est le prix de m’avoir fait parler.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="565">À ces bontés, madame, ajoutez une grâce ;</l>
 	<l id="566">Et du moins, attendant que cette ardeur se passe,</l>
 	<l id="567">Apprenez-moi le nom de cet heureux amant</l>
 	<l id="568">Qui sur tant de vertu règne si puissamment,</l>
 	<l id="569">Par quelles qualités il a pu la surprendre.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="570">Ne me pressez point tant, seigneur, de vous l’apprendre.</l>
 	<l id="571" part="i">Si je vous l’avais dit...</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="571" part="m">Achevons.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="571" part="f">Dès demain</l>
 	<l id="572">Rien ne m’empêcherait de lui donner la main.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="573" part="i">Il est donc en ces lieux, madame ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="573" part="f">Il y peut être,</l>
 	<l id="574">Seigneur, si déguisé qu’on ne le peut connaître.</l>
 	<l id="575">Peut-être en domestique est-il auprès de moi ;</l>
@@ -933,36 +933,36 @@
 	<l id="584">Jusqu’à ce que le temps m’apprenne à vous aimer !</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Pacorus, Palmis.</head>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Pacorus, Palmis.</cast>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="585">Madame, au nom des dieux, ne venez pas vous plaindre :</l>
 	<l id="586">On me donne sans vous assez de gens à craindre ;</l>
 	<l id="587">Et je serais bientôt accablé de leurs coups,</l>
 	<l id="588">N’était que pour asile on me renvoie à vous.</l>
 	<l id="589">J’obéis, j’y reviens, madame ; et cette joie...</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="590">Que n’y revenez-vous sans qu’on vous y renvoie !</l>
 	<l id="591">Votre amour ne fait rien ni pour moi ni pour lui,</l>
 	<l id="592">Si vous n’y revenez que par l’ordre d’autrui.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="593">N’est-ce rien que pour vous à cet ordre il défère ?</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="594">Non, ce n’est qu’un dépit qu’il cherche à satisfaire.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="595">Depuis quand le retour d’un cœur comme le mien</l>
 	<l id="596">Fait-il si peu d’honneur qu’on ne le compte à rien ?</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="597">Depuis qu’il est honteux d’aimer un infidèle,</l>
 	<l id="598">Que ce qu’un mépris chasse un coup d’œil le rappelle,</l>
 	<l id="599">Et que les inconstants ne donnent point de cœurs</l>
 	<l id="600">Sans être encor tous prêts de les porter ailleurs.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="601">Je le suis, je l’avoue, et mérite la honte</l>
 	<l id="602">Que d’un retour suspect vous fassiez peu de conte.</l>
 	<l id="603">Montrez-vous généreuse ; et si mon changement</l>
@@ -971,14 +971,14 @@
 	<l id="606">À la juste pitié d’un si malheureux crime.</l>
 	<l id="607">J’en suis assez puni sans que l’indignité...</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="608">Seigneur, le crime est grand ; mais j’ai de la bonté.</l>
 	<l id="609">Je sais ce qu’à l’état ceux de votre naissance,</l>
 	<l id="610">Tous maîtres qu’ils en sont, doivent d’obéissance :</l>
 	<l id="611">Son intérêt chez eux l’emporte sur le leur,</l>
 	<l id="612">Et du moment qu’il parle, il fait taire le cœur.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="613">Non, madame, souffrez que je vous désabuse ;</l>
 	<l id="614">Je ne mérite point l’honneur de cette excuse :</l>
 	<l id="615">Ma légèreté seule a fait ce nouveau choix ;</l>
@@ -989,22 +989,22 @@
 	<l id="620">Plus l’oubli que j’en veux me fera vous devoir.</l>
 	<l id="621" part="i">Tout mon cœur...</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="621" part="f">Entre amants qu’un changement sépare,</l>
 	<l id="622">Le crime est oublié, sitôt qu’on le répare ;</l>
 	<l id="623">Et bien qu’il vous ait plu, seigneur, de me trahir,</l>
 	<l id="624">Je le dis malgré moi, je ne vous puis haïr.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="625">Faites-moi grâce entière, et songez à me rendre</l>
 	<l id="626">Ce qu’un amour si pur, ce qu’une ardeur si tendre...</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="627">Donnez-moi donc, seigneur, vous-même, quelque jour,</l>
 	<l id="628">Quelque infaillible voie à fixer votre amour ;</l>
 	<l id="629" part="i">Et s’il est un moyen...</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="629" part="f">S’il en est ? Oui, madame,</l>
 	<l id="630">Il en est de fixer tous les vœux de mon âme ;</l>
 	<l id="631">Et ce joug qu’à tous deux l’amour rendit si doux,</l>
@@ -1018,7 +1018,7 @@
 	<l id="639">Tirez-moi de ce doute, et recevez ma foi</l>
 	<l id="640">Qu’autre que vous jamais ne régnera sur moi.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="641">Quel gage en est-ce, hélas ! Qu’une foi si peu sûre ?</l>
 	<l id="642">Le ciel la rendra-t-il moins sujette au parjure ?</l>
 	<l id="643">Et ces liens si doux, que vous avez brisés,</l>
@@ -1028,13 +1028,13 @@
 	<l id="647">Et cette foi n’a rien qui me puisse ébranler,</l>
 	<l id="648">Quand la main seule a droit de me faire parler.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="649">La main seule en a droit ! Quand cent troubles m’agitent,</l>
 	<l id="650">Que la haine, l’amour, l’honneur me sollicitent,</l>
 	<l id="651">Qu’à l’ardeur de punir je m’abandonne en vain,</l>
 	<l id="652">Hélas ! Suis-je en état de vous donner la main ?</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="653">Et moi, sans cette main, seigneur, suis-je maîtresse</l>
 	<l id="654">De ce que m’a daigné confier la princesse,</l>
 	<l id="655">Du secret de son cœur ? Pour le tirer de moi,</l>
@@ -1042,31 +1042,31 @@
 	<l id="657">Être une autre vous-même ; et le seul hyménée</l>
 	<l id="658">Peut rompre le silence où je suis enchaînée.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="659" part="i">Ah ! Vous ne m’aimez plus.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="659" part="f">Je voudrais le pouvoir ;</l>
 	<l id="660">Mais pour ne plus aimer que sert de le vouloir ?</l>
 	<l id="661">J’ai pour vous trop d’amour, et je le sens renaître</l>
 	<l id="662">Et plus tendre et plus fort qu’il n’a dû jamais être.</l>
 	<l id="663" part="i">Mais si...</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="663" part="f">Ne m’aimez plus, ou nommez ce rival.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="664">Me préserve le ciel de vous aimer si mal !</l>
 	<l id="665">Ce serait vous livrer à des guerres nouvelles,</l>
 	<l id="666">Allumer entre vous des haines immortelles...</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="667">Que m’importe ? Et qu’aurai-je à redouter de lui,</l>
 	<l id="668">Tant que je me verrai Suréna pour appui ?</l>
 	<l id="669">Quel qu’il soit, ce rival, il sera seul à plaindre :</l>
 	<l id="670">Le vainqueur des Romains n’a point de rois à craindre.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="671">Je le sais ; mais, seigneur, qui vous peut engager</l>
 	<l id="672">Aux soins de le punir et de vous en venger ?</l>
 	<l id="673">Quand son grand cœur charmé d’une belle princesse</l>
@@ -1082,29 +1082,29 @@
 	<l id="683">S’être emparé d’un bien où vous n’aspiriez pas,</l>
 	<l id="684">Est-ce avoir fait des vols et des assassinats ?</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="685">Je le vois bien, madame, et vous et ce cher frère</l>
 	<l id="686">Abondez en raisons pour cacher le mystère :</l>
 	<l id="687">Je parle, promets, prie, et je n’avance rien.</l>
 	<l id="688">Aussi votre intérêt est préférable au mien ;</l>
 	<l id="689" part="i">Rien n’est plus juste ; mais...</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="689" part="m">Seigneur...</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="689" part="f">Adieu, madame :</l>
 	<l id="690">Je vous fais trop jouir des troubles de mon âme.</l>
 	<l id="691">Le ciel se lassera de m’être rigoureux.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="692">Seigneur, quand vous voudrez, il fera quatre heureux.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Orode, Sillace.</head>
-<sp who="SILLACE"><speaker>SILLACE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Orode, Sillace.</cast>
+<sp who="SILLACE"><hstage><speaker>SILLACE</speaker>.</hstage>
 	<l id="693">Je l’ai vu par votre ordre, et voulu par avance</l>
 	<l id="694">Pénétrer le secret de son indifférence.</l>
 	<l id="695">Il m’a paru, seigneur, si froid, si retenu...</l>
@@ -1116,7 +1116,7 @@
 	<l id="701">Que cette indifférence a de l’inquiétude,</l>
 	<l id="702">Et que cette froideur marque un peu trop d’étude.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="703">Qu’un tel calme, Silllace, a droit d’inquiéter</l>
 	<l id="704">Un roi qui lui doit tant, qu’il ne peut s’acquitter !</l>
 	<l id="705">Un service au-dessus de toute récompense</l>
@@ -1142,7 +1142,7 @@
 	<l id="725">Qu’au-dessus de sa gloire il n’y connaît personne,</l>
 	<l id="726">Et qu’il est le plus digne enfin de sa couronne !</l>
 </sp>
-<sp who="SILLACE"><speaker>SILLACE.</speaker>
+<sp who="SILLACE"><hstage><speaker>SILLACE</speaker>.</hstage>
 	<l id="727">Seigneur, pour vous tirer de ces perplexités,</l>
 	<l id="728">La saine politique a deux extrémités.</l>
 	<l id="729">Quoi qu’ait fait Suréna, quoi qu’il en faille attendre,</l>
@@ -1155,7 +1155,7 @@
 	<l id="736">Il faut, il faut le perdre, ou vous en assurer :</l>
 	<l id="737" part="i">Il n’est point de milieu.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="737" part="f">Ma pensée est la vôtre ;</l>
 	<l id="738">Mais s’il ne veut pas l’un, pourrai-je vouloir l’autre ?</l>
 	<l id="739">Pour prix de ses hauts faits, et de m’avoir fait roi,</l>
@@ -1165,13 +1165,13 @@
 	<l id="743">Avant que je défère à ces raisons d’état</l>
 	<l id="744">Qui nommeraient justice un si lâche attentat !</l>
 </sp>
-<sp who="SILLACE"><speaker>SILLACE.</speaker>
+<sp who="SILLACE"><hstage><speaker>SILLACE</speaker>.</hstage>
 	<l id="745">Mais pourquoi lui donner les Romains en partage,</l>
 	<l id="746">Quand sa gloire, seigneur, vous donnait tant d’ombrage ?</l>
 	<l id="747">Pourquoi contre Artabase attacher vos emplois,</l>
 	<l id="748">Et lui laisser matière à de plus grands exploits ?</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="749">L’événement, Silllace, a trompé mon attente.</l>
 	<l id="750">Je voyais des Romains la valeur éclatante ;</l>
 	<l id="751">Et croyant leur défaite impossible sans moi,</l>
@@ -1201,18 +1201,18 @@
 	<l id="775">Si Mandane, l’objet des vœux de tant de rois,</l>
 	<l id="776">Se doit voir d’un sujet le rebut ou le choix.</l>
 </sp>
-<sp who="SILLACE"><speaker>SILLACE.</speaker>
+<sp who="SILLACE"><hstage><speaker>SILLACE</speaker>.</hstage>
 	<l id="777">Le rebut ! Vous craignez, seigneur, qu’il la refuse ?</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="778">Et ne se peut-il pas qu’un autre amour l’amuse,</l>
 	<l id="779">Et que rempli qu’il est d’une juste fierté,</l>
 	<l id="780">Il n’écoute son cœur plus que ma volonté ?</l>
 	<l id="781" part="i">Le voici ; laissez-nous.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Orode, Suréna.</head>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Orode, Suréna.</cast>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="781" part="f">Suréna, vos services</l>
 	<l id="782">(Qui l’aurait osé croire ? ) ont pour moi des supplices :</l>
 	<l id="783">J’en ai honte, et ne puis assez me consoler</l>
@@ -1222,7 +1222,7 @@
 	<l id="787">Et s’il en est un prix dont vous fassiez état,</l>
 	<l id="788">Donnez-moi les moyens d’être un peu moins ingrat.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="789">Quand je vous ai servi, j’ai reçu mon salaire,</l>
 	<l id="790">Seigneur, et n’ai rien fait qu’un sujet n’ait dû faire ;</l>
 	<l id="791">La gloire m’en demeure, et c’est l’unique prix</l>
@@ -1235,7 +1235,7 @@
 	<l id="798">Le plus juste courroux que j’aurais lieu d’en craindre ;</l>
 	<l id="799" part="i">Et si...</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="799" part="f">Ma gratitude oserait se borner</l>
 	<l id="800">Au pardon d’un malheur qu’on ne peut deviner,</l>
 	<l id="801">Qui n’arrivera point ? Et j’attendrais un crime</l>
@@ -1244,11 +1244,11 @@
 	<l id="804">Par l’heureuse union de votre sang au mien :</l>
 	<l id="805">D’avoir tant fait pour moi ce sera le salaire.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="806">J’en ai flatté longtemps un espoir téméraire ;</l>
 	<l id="807" part="i">Mais puisqu’enfin le prince...</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="807" part="f">Il aima votre sœur,</l>
 	<l id="808">Et le bien de l’état lui dérobe son cœur :</l>
 	<l id="809">La paix de l’Arménie à ce prix est jurée.</l>
@@ -1258,7 +1258,7 @@
 	<l id="813">C’est tout ce qu’en la mienne ont mis des destinées</l>
 	<l id="814">Qu’à force de hauts faits la vôtre a couronnées.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="815">À cet excès d’honneur rien ne peut s’égaler ;</l>
 	<l id="816">Mais si vous me laissiez liberté d’en parler,</l>
 	<l id="817">Je vous dirais, seigneur, que l’amour paternelle</l>
@@ -1290,7 +1290,7 @@
 	<l id="843">Et si vous en aviez consulté leurs souhaits,</l>
 	<l id="844">Vous auriez préféré la guerre à cette paix.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="845">Est-ce dans le dessein de vous mettre à leur tête</l>
 	<l id="846">Que vous me demandez ma grâce toute prête ?</l>
 	<l id="847">Et de leurs vains souhaits vous font-ils le porteur</l>
@@ -1308,17 +1308,17 @@
 	<l id="859">Cet esprit turbulent, et jaloux du pouvoir,</l>
 	<l id="860" part="i">Quoique son frère...</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="860" part="f">Il sait que je sais mon devoir,</l>
 	<l id="861">Et n’a pas oublié que dompter des rebelles,</l>
 	<l id="862" part="i">Détrôner un tyran...</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="862" part="f">Ces actions sont belles ;</l>
 	<l id="863">Mais pour m’avoir remis en état de régner,</l>
 	<l id="864">Rendent-elles pour vous ma fille à dédaigner ?</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="865">La dédaigner, seigneur, quand mon zèle fidèle</l>
 	<l id="866">N’ose me regarder que comme indigne d’elle !</l>
 	<l id="867">Osez me dispenser de ce que je vous dois,</l>
@@ -1336,7 +1336,7 @@
 	<l id="879">Et consentir jamais qu’un homme tel que moi</l>
 	<l id="880">Souille par son hymen le pur sang de son roi.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="881">Je n’examine point si ce respect déguise ;</l>
 	<l id="882">Mais parlons une fois avec pleine franchise.</l>
 	<l id="883">Vous êtes mon sujet, mais un sujet si grand,</l>
@@ -1358,14 +1358,14 @@
 	<l id="899">Je ne vous saurais croire assez en mon pouvoir,</l>
 	<l id="900">Si les nœuds de l’hymen n’enchaînent le devoir.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="901">Par quel crime, seigneur, ou par quelle imprudence</l>
 	<l id="902">Ai-je pu mériter si peu de confiance ?</l>
 	<l id="903">Si mon cœur, si mon bras pouvait être gagné,</l>
 	<l id="904">Mithradate et Crassus n’auraient rien épargné :</l>
 	<l id="905" part="i">Tous les deux...</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="905" part="f">Laissons là Crassus et Mithradate.</l>
 	<l id="906">Suréna, j’aime à voir que votre gloire éclate :</l>
 	<l id="907">Tout ce que je vous dois, j’aime à le publier ;</l>
@@ -1375,7 +1375,7 @@
 	<l id="911">Et s’il met votre zèle au-dessus du commun,</l>
 	<l id="912">Je n’en suis point ingrat : craignez d’être importun.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="913">Je reviens à Palmis, seigneur. De mes hommages</l>
 	<l id="914">Si les lois du devoir sont de trop faibles gages,</l>
 	<l id="915">En est-il de plus sûrs, ou de plus fortes lois,</l>
@@ -1385,7 +1385,7 @@
 	<l id="919">Que tout cet univers, que tout notre avenir</l>
 	<l id="920">Ne trouve aucune voie à les en désunir.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="921">Mais, Suréna, le puis-je après la foi donnée,</l>
 	<l id="922">Au milieu des apprêts d’un si grand hyménée ?</l>
 	<l id="923">Et rendrai-je aux Romains qui voudront me braver</l>
@@ -1393,7 +1393,7 @@
 	<l id="925">Si le prince renonce au bonheur qu’il espère,</l>
 	<l id="926">Que dira la princesse, et que fera son père ?</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="927">Pour son père, seigneur, laissez-m’en le souci.</l>
 	<l id="928">J’en réponds, et pourrais répondre d’elle aussi.</l>
 	<l id="929">Malgré la triste paix que vous avez jurée,</l>
@@ -1402,16 +1402,16 @@
 	<l id="932">Elle attend à demain l’effet de vos serments,</l>
 	<l id="933" part="i">Elle aime ailleurs.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="933" part="m">Et qui ?</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="933" part="f">C’est ce qu’elle aime à taire :</l>
 	<l id="934">Du reste son amour n’en fait aucun mystère,</l>
 	<l id="935">Et cherche à reculer les effets d’un traité</l>
 	<l id="936">Qui fait tant murmurer votre peuple irrité.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="937">Est-ce au peuple, est-ce à vous, Suréna, de me dire</l>
 	<l id="938">Pour lui donner des rois quel sang je dois élire ?</l>
 	<l id="939">Et pour voir dans l’état tous mes ordres suivis,</l>
@@ -1427,18 +1427,18 @@
 	<l id="949">Mon âme avec chagrin sur ce point balancée</l>
 	<l id="950">En veut, et dès demain, être débarrassée.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="951" part="i">Seigneur, je n’aime rien.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="951" part="f">Que vous aimiez ou non,</l>
 	<l id="952">Faites un choix vous-même, ou souffrez-en le don.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="953">Mais si j’aime en tel lieu qu’il m’en faille avoir honte,</l>
 	<l id="954">Du secret de mon cœur puis-je vous rendre conte ?</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="955">À demain, Suréna. S’il se peut, dès ce jour,</l>
 	<l id="956">Résolvons cet hymen avec ou sans amour.</l>
 	<l id="957">Cependant allez voir la princesse Eurydice ;</l>
@@ -1449,8 +1449,8 @@
 	<l id="962">Dans vos prétentions la part qu’elle aime à prendre.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Orode, Palmis.</head>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Orode, Palmis.</cast>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="963">Suréna m’a surpris, et je n’aurais pas dit</l>
 	<l id="964">Qu’avec tant de valeur il eût eu tant d’esprit ;</l>
 	<l id="965">Mais moins on le prévoit, et plus cet esprit brille :</l>
@@ -1462,37 +1462,37 @@
 	<l id="971">Sans quelque objet charmant, dont l’adorable choix</l>
 	<l id="972">Ferme tout son grand cœur au pur sang de ses rois.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="973" part="i">J’ai cru qu’il n’aimait rien.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="973" part="f">Il me l’a dit lui-même.</l>
 	<l id="974">Mais la princesse avoue, et hautement, qu’elle aime :</l>
 	<l id="975">Vous êtes son amie, et savez quel amant</l>
 	<l id="976">Dans un cœur qu’elle doit règne si puissamment.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="977">Si la princesse en moi prend quelque confiance,</l>
 	<l id="978">Seigneur, m’est-il permis d’en faire confidence ?</l>
 	<l id="979">Reçoit-on des secrets sans une forte loi... ?</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="980">Je croyais qu’elle pût se rompre pour un roi,</l>
 	<l id="981">Et veux bien toutefois qu’elle soit si sévère</l>
 	<l id="982">Qu’en mon propre intérêt elle oblige à se taire ;</l>
 	<l id="983">Mais vous pouvez du moins me répondre de vous.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="984">Ah ! Pour mes sentiments, je vous les dirai tous.</l>
 	<l id="985">J’aime ce que j’aimais, et n’ai point changé d’âme :</l>
 	<l id="986" part="i">Je n’en fais point secret.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="986" part="f">L’aimer encor, madame ?</l>
 	<l id="987">Ayez-en quelque honte, et parlez-en plus bas.</l>
 	<l id="988">C’est faiblesse d’aimer qui ne vous aime pas.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="989">Non, seigneur : à son prince attacher sa tendresse,</l>
 	<l id="990">C’est une grandeur d’âme et non une faiblesse ;</l>
 	<l id="991">Et lui garder un cœur qu’il lui plut mériter</l>
@@ -1502,11 +1502,11 @@
 	<l id="995">N’étouffera jamais l’éclat de ces beaux feux</l>
 	<l id="996">Qu’alluma son mérite, et l’offre de ses vœux.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="997">Faites mieux, vengez-vous. Il est des rois, madame,</l>
 	<l id="998">Plus dignes qu’un ingrat d’une si belle flamme.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="999">De ce que j’aime encor ce serait m’éloigner,</l>
 	<l id="1000">Et me faire un exil sous ombre de régner.</l>
 	<l id="1001">Je veux toujours le voir, cet ingrat qui me tue,</l>
@@ -1534,7 +1534,7 @@
 	<l id="1023">Voilà tous les plaisirs que j’espère à le voir,</l>
 	<l id="1024">Et tous les sentiments que vous vouliez savoir.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="1025">C’est bien traiter les rois en personnes communes</l>
 	<l id="1026">Qu’attacher à leur rang ces gênes importunes,</l>
 	<l id="1027">Comme si pour vous plaire et les inquiéter</l>
@@ -1556,25 +1556,25 @@
 	<l id="1043">Madame ; et que le prince aie ou non à souffrir,</l>
 	<l id="1044">Acceptez un des rois que je puis vous offrir.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1045">Pardonnez-moi, seigneur, si mon âme alarmée</l>
 	<l id="1046">Ne veut point de ces rois dont on n’est point aimée.</l>
 	<l id="1047">J’ai cru l’être du prince, et l’ai trouvé si doux,</l>
 	<l id="1048">Que le souvenir seul m’en plaît plus qu’un époux.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="1049">N’en parlons plus, madame ; et dites à ce frère</l>
 	<l id="1050">Qui vous est aussi cher que vous me seriez chère,</l>
 	<l id="1051">Que parmi ses respects il n’a que trop marqué...</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1052" part="i">Quoi, seigneur ?</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="1052" part="f">Avec lui je crois m’être expliqué.</l>
 	<l id="1053" part="i">Qu’il y pense, madame. Adieu.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1053" part="f">Quel triste augure !</l>
 	<l id="1054">Et que ne me dit point cette menace obscure !</l>
 	<l id="1055">Sauvez ces deux amants, ô ciel ! Et détournez</l>
@@ -1583,86 +1583,86 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Ormène, Eurydice.</head>
-<sp who="ORMENE"><speaker>ORMÈNE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Ormène, Eurydice.</cast>
+<sp who="ORMENE"><hstage><speaker>ORMÈNE</speaker>.</hstage>
 	<l id="1057">Oui, votre intelligence à demi découverte</l>
 	<l id="1058">Met votre Suréna sur le bord de sa perte.</l>
 	<l id="1059">Je l’ai su de Silllace ; et j’ai lieu de douter</l>
 	<l id="1060">Qu’il n’ait, s’il faut tout dire, ordre de l’arrêter.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1061" part="i">On n’oserait, Ormène ; on n’oserait.</l>
 </sp>
-<sp who="ORMENE"><speaker>ORMÈNE.</speaker>
+<sp who="ORMENE"><hstage><speaker>ORMÈNE</speaker>.</hstage>
 	<l id="1061" part="f">Madame,</l>
 	<l id="1062">Croyez-en un peu moins votre fermeté d’âme.</l>
 	<l id="1063">Un héros arrêté n’a que deux bras à lui,</l>
 	<l id="1064">Et souvent trop de gloire est un débile appui.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1065">Je sais que le mérite est sujet à l’envie,</l>
 	<l id="1066">Que son chagrin s’attache à la plus belle vie.</l>
 	<l id="1067">Mais sur quelle apparence oses-tu présumer</l>
 	<l id="1068" part="i">Qu’on pourrait... ?</l>
 </sp>
-<sp who="ORMENE"><speaker>ORMÈNE.</speaker>
+<sp who="ORMENE"><hstage><speaker>ORMÈNE</speaker>.</hstage>
 	<l id="1068" part="f">Il vous aime, et s’en est fait aimer.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1069" part="i">Qui l’a dit ?</l>
 </sp>
-<sp who="ORMENE"><speaker>ORMÈNE.</speaker>
+<sp who="ORMENE"><hstage><speaker>ORMÈNE</speaker>.</hstage>
 	<l id="1069" part="f">Vous et lui : c’est son crime et le vôtre.</l>
 	<l id="1070">Il refuse Mandane, et n’en veut aucune autre ;</l>
 	<l id="1071">On sait que vous aimez ; on ignore l’amant :</l>
 	<l id="1072">Madame, tout cela parle trop clairement.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1073">Ce sont de vains soupçons qu’avec moi tu hasardes.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Ormène, Eurydice.</head>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Ormène, Eurydice.</cast>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1074">Madame, à chaque porte on a posé des gardes :</l>
 	<l id="1075">Rien n’entre, rien ne sort qu’avec ordre du roi.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1076">Qu’importe ? Et quel sujet en prenez-vous d’effroi ?</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1077">Ou quelque grand orage à nous troubler s’apprête,</l>
 	<l id="1078">Ou l’on en veut, madame, à quelque grande tête :</l>
 	<l id="1079" part="i">Je tremble pour mon frère.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1079" part="f">À quel propos trembler ?</l>
 	<l id="1080">Un roi qui lui doit tout voudrait-il l’accabler ?</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1081">Vous le figurez-vous à tel point insensible,</l>
 	<l id="1082">Que de son alliance un refus si visible... ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1083">Un si rare service a su le prévenir</l>
 	<l id="1084">Qu’il doit récompenser avant que de punir.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1085">Il le doit ; mais après une pareille offense,</l>
 	<l id="1086">Il est rare qu’on songe à la reconnaissance,</l>
 	<l id="1087">Et par un tel mépris le service effacé</l>
 	<l id="1088">Ne tient plus d’yeux ouverts sur ce qui s’est passé.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1089">Pour la sœur d’un héros, c’est être bien timide.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1090">L’amante a-t-elle droit d’être plus intrépide ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1091">L’amante d’un héros aime à lui ressembler,</l>
 	<l id="1092">Et voit ainsi que lui ses périls sans trembler.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1093">Vous vous flattez, madame : elle a de la tendresse</l>
 	<l id="1094">Que leur idée étonne, et leur image blesse ;</l>
 	<l id="1095">Et ce que dans sa perte elle prend d’intérêt</l>
@@ -1684,7 +1684,7 @@
 	<l id="1111">Et si je perds celui que le ciel me donna,</l>
 	<l id="1112">Quand j’en recouvrerais, serait-ce un Suréna ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1113">Et si j’avais perdu cet amant qu’on menace,</l>
 	<l id="1114">Serait-ce un Suréna qui remplirait sa place ?</l>
 	<l id="1115">Pensez-vous qu’exposée à de si rudes coups,</l>
@@ -1698,13 +1698,13 @@
 	<l id="1123">De ce héros si cher ; et ce mortel ennui</l>
 	<l id="1124">N’ose plus aspirer qu’à mourir avec lui.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1125">Avec moins de chaleur, vous pourriez bien plus faire.</l>
 	<l id="1126">Acceptez mon amant pour conserver mon frère,</l>
 	<l id="1127">Madame ; et puisqu’enfin il vous faut l’épouser,</l>
 	<l id="1128">Tâchez, par politique, à vous y disposer.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1129">Mon amour est trop fort pour cette politique :</l>
 	<l id="1130">Tout entier on l’a vu, tout entier il s’explique ;</l>
 	<l id="1131">Et le prince sait trop ce que j’ai dans le cœur,</l>
@@ -1714,19 +1714,19 @@
 	<l id="1135">C’est avoir trop parlé ; mais dût se perdre tout,</l>
 	<l id="1136">Je me tiendrai parole, et j’irai jusqu’au bout.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1137">Ainsi donc vous voulez que ce héros périsse ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1138">Pourrait-on en venir jusqu’à cette injustice ?</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1139">Madame, il répondra de toutes vos rigueurs,</l>
 	<l id="1140">Et du trop d’union où s’obstinent vos cœurs.</l>
 	<l id="1141">Rendez heureux le prince, il n’est plus sa victime ;</l>
 	<l id="1142">Qu’il se donne à Mandane, il n’aura plus de crime.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1143">Qu’il s’y donne, madame, et ne m’en dise rien,</l>
 	<l id="1144">Ou si son cœur encor peut dépendre du mien,</l>
 	<l id="1145">Qu’il attende à l’aimer que ma haine cessée</l>
@@ -1740,7 +1740,7 @@
 	<l id="1153">J’achèverai le reste. à quelque point qu’on aime,</l>
 	<l id="1154">Quand le feu diminue, il s’éteint de lui-même.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1155">Le prince vient, madame, et n’a pas grand besoin,</l>
 	<l id="1156">Dans son amour pour vous, d’un odieux témoin :</l>
 	<l id="1157">Vous pourrez mieux sans moi flatter son espérance,</l>
@@ -1749,23 +1749,23 @@
 	<l id="1160">Sans y joindre les vœux qu’il cherche à vous offrir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Pacorus, Ormène, Eurydice.</head>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Pacorus, Ormène, Eurydice.</cast>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1161">Est-ce pour moi, seigneur, qu’on fait garde à vos portes ?</l>
 	<l id="1162">Pour assurer ma fuite, ai-je ici des escortes ?</l>
 	<l id="1163">Ou si ce grand hymen, pour ses derniers apprêts...</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="1164">Madame, ainsi que vous chacun a ses secrets.</l>
 	<l id="1165">Ceux que vous honorez de votre confidence</l>
 	<l id="1166">Observent par votre ordre un généreux silence.</l>
 	<l id="1167">Le roi suit votre exemple ; et si c’est vous gêner,</l>
 	<l id="1168">Comme nous devinons, vous pouvez deviner.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1169">Qui devine est souvent sujet à se méprendre.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="1170">Si je devine mal, je sais à qui m’en prendre ;</l>
 	<l id="1171">Et comme votre amour n’est que trop évident,</l>
 	<l id="1172">Si je n’en sais l’objet, j’en sais le confident.</l>
@@ -1776,11 +1776,11 @@
 	<l id="1177">Ainsi ce confident... Vous m’entendez, madame,</l>
 	<l id="1178">Et je vois dans les yeux ce qui se passe en l’âme.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1179">S’il a ma confidence, il a mon amitié ;</l>
 	<l id="1180">Et je lui dois, seigneur, du moins quelque pitié.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="1181">Ce sentiment est juste, et même je veux croire</l>
 	<l id="1182">Qu’un cœur comme le vôtre a droit d’en faire gloire ;</l>
 	<l id="1183">Mais ce trouble, madame, et cette émotion,</l>
@@ -1790,15 +1790,15 @@
 	<l id="1187">Un si cher confident ne fait-il point douter</l>
 	<l id="1188">De l’amant ou de lui qui les peut exciter ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1189">Qu’importe ? Et quel besoin de les confondre ensemble,</l>
 	<l id="1190">Quand ce n’est que pour vous, après tout, que je tremble ?</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="1191">Quoi ? Vous me menacez moi-même à votre tour !</l>
 	<l id="1192">Et les emportements de votre aveugle amour...</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1193">Je m’emporte et m’aveugle un peu moins qu’on ne pense :</l>
 	<l id="1194">Pour l’avouer vous-même, entrons en confidence.</l>
 	<l id="1195">Seigneur, je vous regarde en qualité d’époux :</l>
@@ -1836,7 +1836,7 @@
 	<l id="1227">Et deviendrait infâme à se vouloir unir</l>
 	<l id="1228">Qu’à des rois dont on puisse aimer le souvenir.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="1229">Tout ce que vous craignez est en votre puissance,</l>
 	<l id="1230">Madame ; il ne vous faut qu’un peu d’obéissance,</l>
 	<l id="1231">Qu’exécuter demain ce qu’un père a promis :</l>
@@ -1848,7 +1848,7 @@
 	<l id="1237">Par tout ce qu’a de rude un orgueil inflexible,</l>
 	<l id="1238" part="i">Par tous les maux que souffre...</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1238" part="f">Et moi, suis-je insensible ?</l>
 	<l id="1239">Livre-t-on à mon cœur de moins rudes combats ?</l>
 	<l id="1240">Seigneur, je suis aimée, et vous ne l’êtes pas.</l>
@@ -1857,23 +1857,23 @@
 	<l id="1243">Et pour finir le vôtre, il ne veut qu’un moment,</l>
 	<l id="1244">Quand il faut que le mien dure éternellement.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="1245">Ce moment quelquefois est difficile à prendre,</l>
 	<l id="1246">Madame ; et si le roi se lasse de l’attendre,</l>
 	<l id="1247">Pour venger le mépris de son autorité,</l>
 	<l id="1248">Songez à ce que peut un monarque irrité.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1249">Ma vie est en ses mains, et de son grand courage</l>
 	<l id="1250">Il peut montrer sur elle un glorieux ouvrage.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="1251">Traitez-le mieux, de grâce, et ne vous alarmez</l>
 	<l id="1252">Que pour la sûreté de ce que vous aimez.</l>
 	<l id="1253">Le roi sait votre faible et le trouble que porte</l>
 	<l id="1254">Le péril d’un amant dans l’âme la plus forte.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1255">C’est mon faible, il est vrai ; mais si j’ai de l’amour,</l>
 	<l id="1256">J’ai du cœur, et pourrais le mettre en son plein jour.</l>
 	<l id="1257">Ce grand roi cependant prend une aimable voie</l>
@@ -1885,24 +1885,24 @@
 	<l id="1263">Et tyran à son tour du devoir méprisé,</l>
 	<l id="1264">Il s’applaudit longtemps du joug qu’il a brisé.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="1265" part="i">Madame...</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1265" part="f">Après cela, seigneur, je me retire ;</l>
 	<l id="1266">Et s’il vous reste encor quelque chose à me dire,</l>
 	<l id="1267">Pour éviter l’éclat d’un orgueil imprudent,</l>
 	<l id="1268">Je vous laisse achever avec mon confident.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Pacorus, Suréna.</head>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Pacorus, Suréna.</cast>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="1269">Suréna, je me plains, et j’ai lieu de me plaindre.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1270" part="i">De moi, seigneur ?</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="1270" part="f">De vous. Il n’est plus temps de feindre :</l>
 	<l id="1271">Malgré tous vos détours on sait la vérité ;</l>
 	<l id="1272">Et j’attendais de vous plus de sincérité,</l>
@@ -1915,11 +1915,11 @@
 	<l id="1279">Ne cachez plus le vôtre, il est connu de tous,</l>
 	<l id="1280">Et toute votre adresse a parlé contre vous.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1281">Puisque vous vous plaignez, la plainte est légitime,</l>
 	<l id="1282">Seigneur ; mais après tout j’ignore encor mon crime.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="1283">Vous refusez Mandane avec tant de respect,</l>
 	<l id="1284">Qu’il est trop raisonné pour n’être point suspect.</l>
 	<l id="1285">Avant qu’on vous l’offrît vos raisons étaient prêtes,</l>
@@ -1939,7 +1939,7 @@
 	<l id="1299">Vous en avez eu l’ordre, et j’en suis plus haï</l>
 	<l id="1300">C’est pour un bon sujet avoir bien obéi.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1301">Je le vois bien, seigneur : qu’on m’aime, qu’on vous aime,</l>
 	<l id="1302">Qu’on ne vous aime pas, que je n’aime pas même,</l>
 	<l id="1303">Tout m’est compté pour crime ; et je dois seul au roi</l>
@@ -1965,7 +1965,7 @@
 	<l id="1323">Mais sur elles, sur vous si vous ne pouvez rien,</l>
 	<l id="1324">Des crimes de l’amour ne faites plus le mien.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="1325">Je pardonne à l’amour les crimes qu’il fait faire ;</l>
 	<l id="1326">Mais je n’excuse point ceux qu’il s’obstine à taire,</l>
 	<l id="1327">Qui cachés avec soin se commettent longtemps,</l>
@@ -1978,20 +1978,20 @@
 	<l id="1334">Jusqu’à se révolter contre le diadème,</l>
 	<l id="1335">Jusqu’à servir d’obstacle au bonheur général.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1336">Oui ; mais quand de son maître on lui fait un rival ;</l>
 	<l id="1337">Qu’il aimait le premier ; qu’en dépit de sa flamme,</l>
 	<l id="1338">Il cède, aimé qu’il est, ce qu’adore son âme ;</l>
 	<l id="1339">Qu’il renonce à l’espoir, dédit sa passion :</l>
 	<l id="1340">Est-il digne de grâce, ou de compassion ?</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="1341">Qui cède ce qu’il aime est digne qu’on le loue ;</l>
 	<l id="1342">Mais il ne cède rien, quand on l’en désavoue ;</l>
 	<l id="1343">Et les illusions d’un si faux compliment</l>
 	<l id="1344">Ne méritent qu’un long et vrai ressentiment.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1345">Tout à l’heure, seigneur, vous me parliez de grâce,</l>
 	<l id="1346">Et déjà vous passez jusques à la menace !</l>
 	<l id="1347">La grâce est aux grands cœurs honteuse à recevoir ;</l>
@@ -2009,7 +2009,7 @@
 	<l id="1359">Mais si vous me livrez à vos chagrins jaloux,</l>
 	<l id="1360">Je n’aurai pas peut-être assez vécu pour vous.</l>
 </sp>
-<sp who="PACORUS"><speaker>PACORUS.</speaker>
+<sp who="PACORUS"><hstage><speaker>PACORUS</speaker>.</hstage>
 	<l id="1361">Suréna, mes pareils n’aiment point ces manières :</l>
 	<l id="1362">Ce sont fausses vertus que des vertus si fières.</l>
 	<l id="1363">Après tant de hauts faits et d’exploits signalés,</l>
@@ -2028,7 +2028,7 @@
 	<l id="1376">Mais songez bien qu’un roi, quand il dit : « je le veux... »</l>
 	<l id="1377">Adieu : ce mot suffit, et vous devez m’entendre.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1378">Je fais plus, je prévois ce que j’en dois attendre :</l>
 	<l id="1379">Je l’attends sans frayeur ; et quel qu’en soit le cours,</l>
 	<l id="1380">J’aurai soin de ma gloire ; ordonnez de mes jours.</l>
@@ -2036,8 +2036,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Orode, Eurydice.</head>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Orode, Eurydice.</cast>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="1381">Ne me l’avouez point : en cette conjoncture,</l>
 	<l id="1382">Le soupçon m’est plus doux que la vérité sûre ;</l>
 	<l id="1383">L’obscurité m’en plaît, et j’aime à n’écouter</l>
@@ -2055,7 +2055,7 @@
 	<l id="1395">Et pour n’en pas venir à ces extrémités,</l>
 	<l id="1396">Que vous l’aimiez ou non, j’ai pris mes sûretés.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1397">À ces précautions je suis trop redevable ;</l>
 	<l id="1398">Une prudence moindre en serait incapable,</l>
 	<l id="1399">Seigneur ; mais dans le doute où votre esprit se plaît,</l>
@@ -2070,11 +2070,11 @@
 	<l id="1408">Et rien n’en est à craindre alors qu’on sait mourir.</l>
 	<l id="1409" part="i">Je ne serai qu’au prince.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="1409" part="f">Oui ; mais à quand, madame,</l>
 	<l id="1410">À quand cet heureux jour, que de toute son âme...</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1411">Il se verrait, seigneur, dès ce soir mon époux,</l>
 	<l id="1412">S’il n’eût point voulu voir dans mon cœur plus que vous :</l>
 	<l id="1413">Sa curiosité s’est trop embarrassée</l>
@@ -2082,10 +2082,10 @@
 	<l id="1415">Il sait que j’aime ailleurs, et l’a voulu savoir :</l>
 	<l id="1416">Pour peine il attendra l’effort de mon devoir.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="1417">Les délais les plus longs, madame, ont quelque terme.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1418">Le devoir vient à bout de l’amour le plus ferme :</l>
 	<l id="1419">Les grands cœurs ont vers lui des retours éclatants ;</l>
 	<l id="1420">Et quand on veut se vaincre, il y faut peu de temps.</l>
@@ -2098,10 +2098,10 @@
 	<l id="1427">Et je ne livrerai mon cœur qu’à mes ennuis,</l>
 	<l id="1428">Tant qu’on me laissera dans l’alarme où je suis.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="1429">Le sort de Suréna vous met donc en alarme.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1430">Je vois ce que pour tous ses vertus ont de charme,</l>
 	<l id="1431">Et puis craindre pour lui ce qu’on voit craindre à tous,</l>
 	<l id="1432">Ou d’un maître en colère, ou d’un rival jaloux.</l>
@@ -2110,13 +2110,13 @@
 	<l id="1435">Et qu’il ne vaille mieux s’en tenir à l’amour,</l>
 	<l id="1436">Que d’en mettre, et sitôt, le vrai sujet au jour.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="1437">Non, madame, parlez, montrez toutes vos craintes :</l>
 	<l id="1438">Puis-je sans les connaître en guérir les atteintes,</l>
 	<l id="1439">Et dans l’épaisse nuit où vous vous retranchez,</l>
 	<l id="1440">Choisir le vrai remède aux maux que vous cachez ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1441">Mais si je vous disais que j’ai droit d’être en peine</l>
 	<l id="1442">Pour un trône où je dois un jour monter en reine ;</l>
 	<l id="1443">Que perdre Suréna, c’est livrer aux Romains</l>
@@ -2130,7 +2130,7 @@
 	<l id="1451">J’en dois craindre un trop long et trop juste courroux ;</l>
 	<l id="1452">Et l’amour trouvera plus de grâce chez vous.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="1453">Mais, madame, est-ce à vous d’être si politique ?</l>
 	<l id="1454">Qui peut se taire ainsi, voyons comme il s’explique.</l>
 	<l id="1455">Si votre Suréna m’a rendu mes états,</l>
@@ -2141,13 +2141,13 @@
 	<l id="1460">Ce discours irait loin : revenons à l’amour,</l>
 	<l id="1461" part="i">Madame ; et s’il est vrai qu’enfin...</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1461" part="f">Laissez-m’en faire,</l>
 	<l id="1462">Seigneur : je me vaincrai, j’y tâche, je l’espère ;</l>
 	<l id="1463">J’ose dire encor plus, je m’en fais une loi ;</l>
 	<l id="1464">Mais je veux que le temps en dépende de moi.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="1465">C’est bien parler en reine, et j’aime assez, madame,</l>
 	<l id="1466">L’impétuosité de cette grandeur d’âme :</l>
 	<l id="1467">Cette noble fierté que rien ne peut dompter</l>
@@ -2162,7 +2162,7 @@
 	<l id="1476">Suréna dans ma cour est-il en sûreté ?</l>
 	<l id="1477">Puis-je vous en répondre, à moins qu’il se retire ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1478">Bannir de votre cour l’honneur de votre empire !</l>
 	<l id="1479">Vous le pouvez, seigneur, et vous êtes son roi ;</l>
 	<l id="1480">Mais je ne puis souffrir qu’il soit banni pour moi.</l>
@@ -2175,13 +2175,13 @@
 	<l id="1487">Pour remplir mes devoirs j’attendrai son retour,</l>
 	<l id="1488">Seigneur ; et jusque-là point d’hymen ni d’amour.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="1489">Vous pourriez épouser le prince en sa présence ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1490">Je ne sais ; mais enfin je hais la violence.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="1491">Empêchez-la, madame, en vous donnant à nous ;</l>
 	<l id="1492">Ou faites qu’à Mandane il s’offre pour époux.</l>
 	<l id="1493">Cet ordre exécuté, mon âme satisfaite</l>
@@ -2191,26 +2191,26 @@
 	<l id="1497">Il me faut un hymen : choisissez l’un ou l’autre,</l>
 	<l id="1498">Ou lui dites adieu pour le moins jusqu’au vôtre.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1499">Je sais tenir, seigneur, tout ce que je promets,</l>
 	<l id="1500">Et promettrais en vain de ne le voir jamais,</l>
 	<l id="1501">Moi qui sais que bientôt la guerre rallumée</l>
 	<l id="1502">Le rendra pour le moins nécessaire à l’armée.</l>
 </sp>
-<sp who="ORODE"><speaker>ORODE.</speaker>
+<sp who="ORODE"><hstage><speaker>ORODE</speaker>.</hstage>
 	<l id="1503">Nous ferons voir, madame, en cette extrémité,</l>
 	<l id="1504">Comme il faut obéir à la nécessité.</l>
 	<l id="1505" part="i">Je vous laisse avec lui.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Eurydice, Suréna.</head>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Eurydice, Suréna.</cast>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1505" part="f">Seigneur, le roi condamne</l>
 	<l id="1506">Ma main à Pacorus, ou la vôtre à Mandane ;</l>
 	<l id="1507">Le refus n’en saurait demeurer impuni :</l>
 	<l id="1508">Il lui faut l’une ou l’autre, ou vous êtes banni.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1509">Madame, ce refus n’est point vers lui mon crime ;</l>
 	<l id="1510">Vous m’aimez : ce n’est point non plus ce qui l’anime.</l>
 	<l id="1511">Mon crime véritable est d’avoir aujourd’hui</l>
@@ -2232,21 +2232,21 @@
 	<l id="1527">Cependant pour jamais il faut nous séparer,</l>
 	<l id="1528" part="i">Madame.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1528" part="f">Cet exil pourrait toujours durer ?</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1529">En vain pour mes pareils leur vertu sollicite :</l>
 	<l id="1530">Jamais un envieux ne pardonne au mérite.</l>
 	<l id="1531">Cet exil toutefois n’est pas un long malheur ;</l>
 	<l id="1532">Et je n’irai pas loin sans mourir de douleur.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1533">Ah ! Craignez de m’en voir assez persuadée</l>
 	<l id="1534">Pour mourir avant vous de cette seule idée.</l>
 	<l id="1535" part="i">Vivez, si vous m’aimez.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1535" part="f">Je vivrais pour savoir</l>
 	<l id="1536">Que vous aurez enfin rempli votre devoir,</l>
 	<l id="1537">Que d’un cœur tout à moi, que de votre personne</l>
@@ -2254,15 +2254,15 @@
 	<l id="1539">Ce penser m’assassine, et je cours de ce pas</l>
 	<l id="1540">Beaucoup moins à l’exil, madame, qu’au trépas.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1541">Que le ciel n’a-t-il mis en ma main et la vôtre,</l>
 	<l id="1542">Ou de n’être à personne, ou d’être l’un à l’autre !</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1543">Fallait-il que l’amour vît l’inégalité</l>
 	<l id="1544">Vous abandonner toute aux rigueurs d’un traité !</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1545">Cette inégalité me souffrait l’espérance.</l>
 	<l id="1546">Votre nom, vos vertus valaient bien ma naissance,</l>
 	<l id="1547">Et Crassus a rendu plus digne encor de moi</l>
@@ -2280,7 +2280,7 @@
 	<l id="1559">Et l’unique bonheur que j’y puis espérer,</l>
 	<l id="1560">C’est de toujours promettre et toujours différer.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1561">Que je serais heureux ! Mais qu’osai-je vous dire ?</l>
 	<l id="1562">L’indigne et vain bonheur où mon amour aspire !</l>
 	<l id="1563">Fermez les yeux aux maux où l’on me fait courir :</l>
@@ -2290,20 +2290,20 @@
 	<l id="1567">Qui règle le destin du reste des humains,</l>
 	<l id="1568">Et jusque dans leurs murs alarme les Romains.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1569">J’envisage ce trône et tous ses avantages,</l>
 	<l id="1570">Et je n’y vois partout, seigneur, que vos ouvrages ;</l>
 	<l id="1571">Sa gloire ne me peint que celle de mes fers,</l>
 	<l id="1572">Et dans ce qui m’attend je vois ce que je perds.</l>
 	<l id="1573" part="i">Ah ! Seigneur.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1573" part="f">Épargnez la douleur qui me presse ;</l>
 	<l id="1574">Ne la ravalez point jusques à la tendresse ;</l>
 	<l id="1575">Et laissez-moi partir dans cette fermeté</l>
 	<l id="1576">Qui fait de tels jaloux, et qui m’a tant coûté.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1577">Partez, puisqu’il le faut, avec ce grand courage</l>
 	<l id="1578">Qui mérita mon cœur et donne tant d’ombrage.</l>
 	<l id="1579">Je suivrai votre exemple, et vous n’aurez point lieu...</l>
@@ -2312,22 +2312,22 @@
 	<l id="1582">Quelques moments encor jouir de votre vue.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Eurydice, Suréna, Palmis.</head>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Eurydice, Suréna, Palmis.</cast>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1583">On dit qu’on vous exile à moins que d’épouser,</l>
 	<l id="1584">Seigneur, ce que le roi daigne vous proposer.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1585">Non ; mais jusqu’à l’hymen que Pacorus souhaite,</l>
 	<l id="1586">Il m’ordonne chez moi quelques jours de retraite.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1587" part="i">Et vous partez ?</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1587" part="m">Je pars.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1587" part="f">Et malgré son courroux,</l>
 	<l id="1588">Vous avez sûreté d’aller jusque chez vous ?</l>
 	<l id="1589">Vous êtes à couvert des périls dont menace</l>
@@ -2335,12 +2335,12 @@
 	<l id="1591">Et s’il faut dire tout, sur de si longs chemins</l>
 	<l id="1592">Il n’est point de poisons, il n’est point d’assassins ?</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1593">Le roi n’a pas encore oublié mes services,</l>
 	<l id="1594">Pour commencer par moi de telles injustices :</l>
 	<l id="1595">Il est trop généreux pour perdre son appui.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1596">S’il l’est, tous vos jaloux le sont-ils comme lui ?</l>
 	<l id="1597">Est-il aucun flatteur, seigneur, qui lui refuse</l>
 	<l id="1598">De lui prêter un crime et lui faire une excuse ?</l>
@@ -2351,7 +2351,7 @@
 	<l id="1603">Et qu’une absence élude, attendant le moment</l>
 	<l id="1604">Qui laisse évanouir ce faux ressentiment ?</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1605">Ces courroux affectés que l’artifice donne</l>
 	<l id="1606">Font souvent trop de bruit pour abuser personne.</l>
 	<l id="1607">Si ma mort plaît au roi, s’il la veut tôt ou tard,</l>
@@ -2363,39 +2363,39 @@
 	<l id="1613">Et qu’il en naisse enfin des haines immortelles</l>
 	<l id="1614">Qui de tous ses sujets lui fassent des rebelles.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1615">Je veux que la vengeance aille à son plus haut point :</l>
 	<l id="1616">Les morts les mieux vengés ne ressuscitent point,</l>
 	<l id="1617">Et de tout l’univers la fureur éclatante</l>
 	<l id="1618">En consolerait mal et la sœur et l’amante.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1619" part="i">Que faire donc, ma sœur ?</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1619" part="f">Votre asile est ouvert.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1620" part="i">Quel asile ?</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1620" part="f">L’hymen qui vous vient d’être offert.</l>
 	<l id="1621">Vos jours en sûreté dans les bras de Mandane,</l>
 	<l id="1622" part="i">Sans plus rien craindre...</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1622" part="f">Et c’est ma sœur qui m’y condamne !</l>
 	<l id="1623">C’est elle qui m’ordonne avec tranquillité</l>
 	<l id="1624">Aux yeux de ma princesse une infidélité !</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1625">Lorsque d’aucun espoir notre ardeur n’est suivie,</l>
 	<l id="1626">Doit-on être fidèle aux dépens de sa vie ?</l>
 	<l id="1627">Mais vous ne m’aidez point à le persuader,</l>
 	<l id="1628">Vous qui d’un seul regard pourriez tout décider ?</l>
 	<l id="1629">Madame, ses périls ont-ils de quoi vous plaire ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1630">Je crois faire beaucoup, madame, de me taire ;</l>
 	<l id="1631">Et tandis qu’à mes yeux vous donnez tout mon bien,</l>
 	<l id="1632">C’est tout ce que je puis que de ne dire rien.</l>
@@ -2404,7 +2404,7 @@
 	<l id="1635">Je n’y mets point d’obstacle, et mon esprit confus...</l>
 	<l id="1636">C’est m’expliquer assez : n’exigez rien de plus.</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1637">Quoi ? Vous vous figurez que l’heureux nom de gendre,</l>
 	<l id="1638">Si ma perte est jurée, a de quoi m’en défendre,</l>
 	<l id="1639">Quand malgré la nature, en dépit de ses lois,</l>
@@ -2437,7 +2437,7 @@
 	<l id="1666">Vous le voyez, ma sœur, je n’ai pas même un garde :</l>
 	<l id="1667" part="i">Je suis libre.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1667" part="f">Et j’en crains d’autant plus son courroux :</l>
 	<l id="1668">S’il vous faisait garder, il répondrait de vous.</l>
 	<l id="1669">Mais pouvez-vous, seigneur, rejoindre votre suite ?</l>
@@ -2447,22 +2447,22 @@
 	<l id="1673">Par toute l’amitié que le sang doit attendre,</l>
 	<l id="1674">Par tout ce que l’amour a pour vous de plus tendre...</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1675">La tendresse n’est point de l’amour d’un héros :</l>
 	<l id="1676">Il est honteux pour lui d’écouter des sanglots ;</l>
 	<l id="1677">Et parmi la douceur des plus illustres flammes,</l>
 	<l id="1678">Un peu de dureté sied bien aux grandes âmes.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1679" part="i">Quoi ? Vous pourriez...</l>
 </sp>
-<sp who="SURENA"><speaker>SURÉNA.</speaker>
+<sp who="SURENA"><hstage><speaker>SURÉNA</speaker>.</hstage>
 	<l id="1679" part="f">Adieu : le trouble où je vous vois</l>
 	<l id="1680">Me fait vous craindre plus que je ne crains le roi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Eurydice, Palmis.</head>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Eurydice, Palmis.</cast>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1681">Il court à son trépas, et vous en serez cause,</l>
 	<l id="1682">À moins que votre amour à son départ s’oppose.</l>
 	<l id="1683">J’ai perdu mes soupirs, et j’y perdrais mes pas ;</l>
@@ -2470,26 +2470,26 @@
 	<l id="1685">Ne lui refusez point un mot qui le retienne,</l>
 	<l id="1686" part="i">Madame.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1686" part="f">S’il périt, ma mort suivra la sienne.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1687">Je puis en dire autant ; mais ce n’est pas assez.</l>
 	<l id="1688">Vous avez tant d’amour, madame, et balancez !</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1689">Est-ce le mal aimer que de le vouloir suivre ?</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1690">C’est un excès d’amour qui ne fait point revivre.</l>
 	<l id="1691">De quoi lui servira notre mortel ennui ?</l>
 	<l id="1692">De quoi nous servira de mourir après lui ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1693">Vous vous alarmez trop : le roi dans sa colère</l>
 	<l id="1694" part="i">Ne parle...</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1694" part="f">Vous dit-il tout ce qu’il prétend faire ?</l>
 	<l id="1695">D’un trône où ce héros a su le replacer,</l>
 	<l id="1696">S’il en veut à ses jours, l’ose-t-il prononcer ?</l>
@@ -2499,55 +2499,55 @@
 	<l id="1700">Peut-être en ce moment on le perce de coups ;</l>
 	<l id="1701" part="i">Peut-être...</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1701" part="f">Que d’horreurs vous me jetez dans l’âme !</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1702" part="i">Quoi ? Vous n’y courez pas !</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1702" part="f">Et le puis-je, madame ?</l>
 	<l id="1703">Donner ce qu’on adore à ce qu’on veut haïr,</l>
 	<l id="1704">Quel amour jusque-là put jamais se trahir ?</l>
 	<l id="1705">Savez-vous qu’à Mandane envoyer ce que j’aime,</l>
 	<l id="1706">C’est de ma propre main m’assassiner moi-même ?</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1707">Savez-vous qu’il le faut, ou que vous le perdez ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Eurydice, Palmis, Ormène.</head>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Eurydice, Palmis, Ormène.</cast>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1708">Je n’y résiste plus, vous me le défendez.</l>
 	<l id="1709">Ormène vient à nous, et lui peut aller dire</l>
 	<l id="1710">Qu’il épouse... Achevez tandis que je soupire.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1711" part="i">Elle vient toute en pleurs.</l>
 </sp>
-<sp who="ORMENE"><speaker>ORMÈNE.</speaker>
+<sp who="ORMENE"><hstage><speaker>ORMÈNE</speaker>.</hstage>
 	<l id="1711" part="f">Qu’il vous en va coûter !</l>
 	<l id="1712" part="i">Et que pour Suréna...</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1712" part="f">L’a-t-on fait arrêter ?</l>
 </sp>
-<sp who="ORMENE"><speaker>ORMÈNE.</speaker>
+<sp who="ORMENE"><hstage><speaker>ORMÈNE</speaker>.</hstage>
 	<l id="1713">À peine du palais il sortait dans la rue,</l>
 	<l id="1714">Qu’une flèche a parti d’une main inconnue ;</l>
 	<l id="1715">Deux autres l’ont suivie ; et j’ai vu ce vainqueur,</l>
 	<l id="1716">Comme si toutes trois l’avaient atteint au cœur,</l>
 	<l id="1717">Dans un ruisseau de sang tomber mort sur la place.</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1718" part="i">Hélas !</l>
 </sp>
-<sp who="ORMENE"><speaker>ORMÈNE.</speaker>
+<sp who="ORMENE"><hstage><speaker>ORMÈNE</speaker>.</hstage>
 	<l id="1718" part="f">Songez à vous, la suite vous menace ;</l>
 	<l id="1719">Et je pense avoir même entendu quelque voix</l>
 	<l id="1720">Nous crier qu’on apprît à dédaigner les rois.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1721">Prince ingrat ! Lâche roi ! Que fais-tu du tonnerre,</l>
 	<l id="1722">Ciel, si tu daignes voir ce qu’on fait sur la terre ?</l>
 	<l id="1723">Et pour qui gardes-tu tes carreaux embrasés,</l>
@@ -2560,20 +2560,20 @@
 	<l id="1730">En recueillir le fruit, en goûter l’avantage.</l>
 	<l id="1731">Quoi ? Vous causez sa perte, et n’avez point de pleurs !</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1732">Non, je ne pleure point, madame, mais je meurs.</l>
 	<l id="1733" part="i">Ormène, soutiens-moi.</l>
 </sp>
-<sp who="ORMENE"><speaker>ORMÈNE.</speaker>
+<sp who="ORMENE"><hstage><speaker>ORMÈNE</speaker>.</hstage>
 	<l id="1733" part="f">Que dites-vous, madame ?</l>
 </sp>
-<sp who="EURYDICE"><speaker>EURYDICE.</speaker>
+<sp who="EURYDICE"><hstage><speaker>EURYDICE</speaker>.</hstage>
 	<l id="1734">Généreux Suréna, reçois toute mon âme.</l>
 </sp>
-<sp who="ORMENE"><speaker>ORMÈNE.</speaker>
+<sp who="ORMENE"><hstage><speaker>ORMÈNE</speaker>.</hstage>
 	<l id="1735">Emportons-la d’ici pour la mieux secourir.</l>
 </sp>
-<sp who="PALMIS"><speaker>PALMIS.</speaker>
+<sp who="PALMIS"><hstage><speaker>PALMIS</speaker>.</hstage>
 	<l id="1736">Suspendez ces douleurs qui pressent de mourir,</l>
 	<l id="1737">Grands dieux ! Et dans les maux où vous m’avez plongée,</l>
 	<l id="1738">Ne souffrez point ma mort que je ne sois vengée !</l>

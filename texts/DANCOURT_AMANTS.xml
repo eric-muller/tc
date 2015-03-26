@@ -54,7 +54,7 @@
 <body>
 <div1 type="acte" n="1"><head>PROLOGUE.</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="LA FORTUNE"><speaker>LA FORTUNE, seule.</speaker>
+<sp who="LA FORTUNE"><hstage><speaker>LA FORTUNE</speaker>, seule.</hstage>
 <note type="L">Fortune : Terme du polythéisme gréco-romain. Divinité qui présidait aux hasards de la vie. Le temple de la Fortune. Les anciens représentaient la Fortune sous forme d’une femme, tantôt assise et tantôt debout, ayant un gouvernail, avec une roue à côté d’elle, pour marquer son inconstance, et tenant dans sa main une corne d’abondance. [L]</note>
 	<l id="1">Dans ce Vallon délicieux</l>
 	<l id="2">Que de ses dons simples, mais précieux,</l>
@@ -120,8 +120,8 @@
 <stage>Neptune sort de la mer.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Neptune, La Fortune.</head>
-<sp who="NEPTUNE"><speaker>NEPTUNE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Neptune, La Fortune.</cast>
+<sp who="NEPTUNE"><hstage><speaker>NEPTUNE</speaker>.</hstage>
 	<l id="58">Ma fille, (car toujours pour toi</l>
 	<l id="59">J’ai conservé des sentiments de père)</l>
 	<l id="60">Comme moi l’on te peint légère,</l>
@@ -139,10 +139,10 @@
 	<l id="72">Il ne cherche point tes faveurs,</l>
 	<l id="73">Et ne craignent point ta puissance.</l>
 </sp>
-<sp who="LA FORTUNE"><speaker>LA FORTUNE.</speaker>
+<sp who="LA FORTUNE"><hstage><speaker>LA FORTUNE</speaker>.</hstage>
 	<l id="74">Hé ! Quels mortels pourraient ne la pas redouter ?</l>
 </sp>
-<sp who="NEPTUNE"><speaker>NEPTUNE.</speaker>
+<sp who="NEPTUNE"><hstage><speaker>NEPTUNE</speaker>.</hstage>
 	<l id="75">Ceux qui n’ont rien à craindre, et rien à souhaiter.</l>
 	<l id="76">Les Habitants de ces belles retraites,</l>
 	<l id="77">Qui, par des décrets éternels,</l>
@@ -180,10 +180,10 @@
 	<l id="107">Les échos vont les avertir ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Neptune, La Fortune, plusieurs Habitants et Habitantes de la Vallée de Tempé, Tritons, etc.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Neptune, La Fortune, plusieurs Habitants et Habitantes de la Vallée de Tempé, Tritons, etc.</cast>
 <stage>Entrée.</stage>
 <stage>Air.</stage>
-<sp who="UNE HABITANTE"><speaker>UNE HABITANTE de la Vallée de Tempé.</speaker>
+<sp who="UNE HABITANTE"><hstage><speaker>UNE HABITANTE</speaker> de la Vallée de Tempé.</hstage>
 <note type="L">Tempé : Vallée de Thessalie entre le mont Ossa et l’Olympe. [L]</note>
 	<l id="108">Sur cet agréable rivage,</l>
 	<l id="109">Où les zéphyrs règnent toujours,</l>
@@ -196,7 +196,7 @@
 <stage>Entrée.</stage>
 <stage>Air.</stage>
 </sp>
-<sp who="UN HABITANT"><speaker>UN HABITANT de la Vallée de Tempé.</speaker>
+<sp who="UN HABITANT"><hstage><speaker>UN HABITANT</speaker> de la Vallée de Tempé.</hstage>
 	<l id="116">Que la Princesse est jeune et belle !</l>
 	<l id="117">Nymphes, ne vous irritez pas</l>
 	<l id="118">De ne pas l’emporter sur elle.</l>
@@ -205,7 +205,7 @@
 <stage>Entrée.</stage>
 <stage>Air.</stage>
 </sp>
-<sp who="UN HABITANT"><speaker>UN HABITANT de la Vallée de Tempé.</speaker>
+<sp who="UN HABITANT"><hstage><speaker>UN HABITANT</speaker> de la Vallée de Tempé.</hstage>
 	<l id="121">Dans l’Empire des Amours,</l>
 	<l id="122">Et sur les flots de Neptune,</l>
 	<l id="123">J’ai fait voyage de long cours,</l>
@@ -217,9 +217,9 @@
 	<l id="129">Qui nous amène dans le port.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Neptune, La Fortune, l’Amour, etc.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Neptune, La Fortune, l’Amour, etc.</cast>
 <stage>Entrée.</stage>
-<sp who="L_AMOUR"><speaker>L’AMOUR, paraît sur un nuage.</speaker>
+<sp who="L_AMOUR"><hstage><speaker>L’AMOUR</speaker>, paraît sur un nuage.</hstage>
 	<l id="130">Dans les jeux et dans les concerts,</l>
 	<l id="131">On ne trouva jamais ma présence importune ;</l>
 	<l id="132">Et je viens du plus haut des airs,</l>
@@ -227,7 +227,7 @@
 	<l id="134">Que d’accord avec la Fortune,</l>
 	<l id="135">Ordonne ici le Dieu des mers.</l>
 </sp>
-<sp who="LA FORTUNE"><speaker>LA FORTUNE.</speaker>
+<sp who="LA FORTUNE"><hstage><speaker>LA FORTUNE</speaker>.</hstage>
 	<l id="136">Nulle fête sans vous ne saurait être belle,</l>
 	<l id="137">Les plus doux jeux vous sont tous consacrés,</l>
 	<l id="138">Et l’on attend de vous que pour faveur nouvelle,</l>
@@ -236,7 +236,7 @@
 	<l id="141">À favoriser les Amants,</l>
 	<l id="142">Qui cherchent à toucher le cœur de la Princesse.</l>
 </sp>
-<sp who="L_AMOUR"><speaker>L’AMOUR.</speaker>
+<sp who="L_AMOUR"><hstage><speaker>L’AMOUR</speaker>.</hstage>
 	<l id="143">Je destine à l’un d’eux les biens les plus charmants.</l>
 	<l id="144">Jusqu’ici la Princesse à mon pouvoir rebelle,</l>
 	<l id="145">En vain voudra dissimuler</l>
@@ -263,7 +263,7 @@
 <div2 type="scene" n="1"><head>Ier INTERMÈDE.</head>
 <stage>Cléonice présente à la Princesse Ériphyle, des Musiciennes et des Danseurs, qui veulent entrer à son service, et qui lui donnent le Divertissement qui suit.</stage>
 <note type="L">Éripgyle : Sœur d’Adraste, Roi d’Argos. Monsieur de Voltaire a donné en 1732. une Tragédie qui a pour sujet la mort d’Eriphyle. [T]</note>
-<sp who="CLÉONICE"><speaker>CLÉONICE.</speaker>
+<sp who="CLÉONICE"><hstage><speaker>CLÉONICE</speaker>.</hstage>
 	<l id="161">Cruel Amour, tyran des cœurs,</l>
 	<l id="162">Que tu te plais à nous séduire,</l>
 	<l id="163">Par l’appas des tendres douceurs,</l>
@@ -282,7 +282,7 @@
 	<l id="176">Dont l’espoir flatteur nous attire !</l>
 <stage>Entrée.</stage>
 </sp>
-<sp who="UN MUSICIEN"><speaker>UN MUSICIEN.</speaker>
+<sp who="UN MUSICIEN"><hstage><speaker>UN MUSICIEN</speaker>.</hstage>
 	<l id="177">Je sais aimer et souffrir sans me plaindre,</l>
 	<l id="178">Et je sais mieux encore être heureux sans parler,</l>
 	<l id="179">Mépris, faveurs, rien ne saurait éteindre</l>
@@ -300,7 +300,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>IIème INTERMÈDE.</head>
-<sp who="LA NYMPHE"><speaker>LA NYMPHE de la Vallée de Tempé.</speaker>
+<sp who="LA NYMPHE"><hstage><speaker>LA NYMPHE</speaker> de la Vallée de Tempé.</hstage>
 	<l id="189">Venez, Princesse charmante,</l>
 	<l id="190">Répondez à nos désirs,</l>
 	<l id="191">Et ne méprisez pas les innocents plaisirs</l>
@@ -309,7 +309,7 @@
 	<l id="194">On ne parle ici que d’amour,</l>
 	<l id="195">Ce n’est que d’amour qu’on y chante.</l>
 </sp>
-<sp who="LE FAUNE"><speaker>UN FAUNE.</speaker>
+<sp who="LE FAUNE"><hstage><speaker>UN FAUNE</speaker>.</hstage>
 	<l id="196">Vous mentez Nymphe, vous mentez ;</l>
 	<l id="197">Et quelque soin que l’Amour prenne,</l>
 	<l id="198">Ses plaisirs sont ici moins chantés,</l>
@@ -322,7 +322,7 @@
 	<l id="203">On aime pour quelques moments,</l>
 	<l id="204">On peut boire toute sa vie.</l>
 </sp>
-<sp who="CORIDON"><speaker>CORIDON.</speaker>
+<sp who="CORIDON"><hstage><speaker>CORIDON</speaker>.</hstage>
 	<l id="205">Loin d’ici, Faune téméraire,</l>
 	<l id="206">Qui semblez mépriser l’Amour,</l>
 	<l id="207">C’est le chagrin de ne plus savoir plaire,</l>
@@ -336,14 +336,14 @@
 	<l id="214">On aime tant qu’on est aimable,</l>
 	<l id="215">Et l’on boit quand on ne l’est plus.</l>
 </sp>
-<sp who="LE FAUNE"><speaker>LE FAUNE.</speaker>
+<sp who="LE FAUNE"><hstage><speaker>LE FAUNE</speaker>.</hstage>
 	<l id="216">Je suis toujours aimable, et si toujours je bois,</l>
 	<l id="217">Et souvent et beaucoup ; mais toi,</l>
 	<l id="218">Si ta morale est véritable,</l>
 	<l id="219">Sans avoir eu jamais le bonheur d’être aimable,</l>
 	<l id="220">Tu seras sans plaisir plus ivrogne que moi.</l>
 </sp>
-<sp who="CORIDON"><speaker>CORIDON.</speaker>
+<sp who="CORIDON"><hstage><speaker>CORIDON</speaker>.</hstage>
 	<l id="221">Voici la beauté que j’adore.</l>
 	<l id="222">L’Amour en ma faveur conduit ici ses pas ;</l>
 	<l id="223">La Belle encore</l>
@@ -352,7 +352,7 @@
 	<l id="226">Rendons hommage à ses appas,</l>
 	<l id="227">Apprenons-lui ce qu’elle ignore.</l>
 </sp>
-<sp who="LE FAUNE"><speaker>LE FAUNE.</speaker>
+<sp who="LE FAUNE"><hstage><speaker>LE FAUNE</speaker>.</hstage>
 	<l id="228">Je vois venir de ce côté</l>
 	<l id="229">Une jeune beauté,</l>
 	<l id="230">Dont sans vanité</l>
@@ -372,36 +372,36 @@
 	<l id="242">En attendant je bois rasade</l>
 	<l id="243">À leur santé.</l>
 </sp>
-<sp who="CORIDON"><speaker>CORIDON.</speaker>
+<sp who="CORIDON"><hstage><speaker>CORIDON</speaker>.</hstage>
 	<l id="244">Nymphes, vous voyez deux amants,</l>
 	<l id="245">Qui n’ont rien tant à cœur que de vous pouvoir plaire.</l>
 </sp>
-<sp who="LE FAUNE"><speaker>LE FAUNE.</speaker>
+<sp who="LE FAUNE"><hstage><speaker>LE FAUNE</speaker>.</hstage>
 	<l id="246">Oh, s’il vous plaît, dans cette affaire</l>
 	<l id="247">N’expliquez que vos sentiments ;</l>
 	<l id="248">Et pour les miens, laissez-moi dire et faire.</l>
 </sp>
-<sp who="CORIDON"><speaker>CORIDON.</speaker>
+<sp who="CORIDON"><hstage><speaker>CORIDON</speaker>.</hstage>
 	<l id="249">Depuis longtemps, charmé de vos divins appas,</l>
 	<l id="250">Je languis nuit et jour, je brûle, je soupire.</l>
 </sp>
-<sp who="LE FAUNE"><speaker>LE FAUNE.</speaker>
+<sp who="LE FAUNE"><hstage><speaker>LE FAUNE</speaker>.</hstage>
 	<l id="251">J’aime à boire, à chanter, à folâtrer, à rire.</l>
 	<l id="252">Vous me plaisez beaucoup ; mais je ne languis pas.</l>
 </sp>
-<sp who="PHILIS"><speaker>PHILIS.</speaker>
+<sp who="PHILIS"><hstage><speaker>PHILIS</speaker>.</hstage>
 	<l id="253">Bon, sans perdre temps à nous dire</l>
 	<l id="254">Ce que tous deux vous avez dans le cœur,</l>
 	<l id="255">Prenez le soin de nous instruire</l>
 	<l id="256">De vos talents, de votre humeur.</l>
 </sp>
-<sp who="LE FAUNE"><speaker>LE FAUNE.</speaker>
+<sp who="LE FAUNE"><hstage><speaker>LE FAUNE</speaker>.</hstage>
 	<l id="257">C’est un beau fils, un fidèle Pasteur,</l>
 	<l id="258">Et moi je suis un pétulant Satyre.</l>
 	<l id="259">Il va vous chanter son martyre,</l>
 	<l id="260">Je vous chanterai mon ardeur.</l>
 </sp>
-<sp who="CORIDON"><speaker>CORIDON.</speaker>
+<sp who="CORIDON"><hstage><speaker>CORIDON</speaker>.</hstage>
 	<l id="261">Aux beautés les plus cruelles</l>
 	<l id="262">J’adresse toujours mes vœux ;</l>
 	<l id="263">Les cœurs à l’amour rebelles</l>
@@ -411,7 +411,7 @@
 	<l id="267">Soyons discrets et fidèles</l>
 	<l id="268">Pour être longtemps heureux.</l>
 </sp>
-<sp who="CORINNE"><speaker>CORINNE.</speaker>
+<sp who="CORINNE"><hstage><speaker>CORINNE</speaker>.</hstage>
 	<l id="269">Hé bien ! Là, parlez donc, faut-il tant hésiter ?</l>
 	<l id="270">As-tu besoin d’un Interprète ?</l>
 	<l id="271">Quand on trouve ce qu’on souhaite,</l>
@@ -423,7 +423,7 @@
 	<l id="277">La bouche sert à marquer le courroux,</l>
 	<l id="278">Les yeux expliquent la tendresse.</l>
 </sp>
-<sp who="LE FAUNE"><speaker>LE FAUNE.</speaker>
+<sp who="LE FAUNE"><hstage><speaker>LE FAUNE</speaker>.</hstage>
 	<l id="279">Je sers et Bacchus et l’Amour ;</l>
 	<l id="280">Bacchus me fait aimer, l’Amour m’excite à boire.</l>
 	<l id="281">Jeune Nymphe, veux-tu m’en croire ?</l>
@@ -443,7 +443,7 @@
 	<l id="295">Est que l’on est très sûrement</l>
 	<l id="296">Contente de mon compliment.</l>
 </sp>
-<sp who="CORINNE"><speaker>CORINNE.</speaker>
+<sp who="CORINNE"><hstage><speaker>CORINNE</speaker>.</hstage>
 	<l id="297">D’accord, c’est trop longtemps me taire,</l>
 	<l id="298">Et Bacchus et l’Amour ont des charmes pour moi :</l>
 	<l id="299">Boire, aimer tour à tour, voilà bien mon affaire,</l>
@@ -451,7 +451,7 @@
 	<l id="301">Mais, Satyre, je ne veux faire</l>
 	<l id="302">Ni l’un ni l’autre avecque toi.</l>
 </sp>
-<sp who="LE FAUNE"><speaker>LE FAUNE.</speaker>
+<sp who="LE FAUNE"><hstage><speaker>LE FAUNE</speaker>.</hstage>
 	<l id="303">Tu te trompes, Dryade folle,</l>
 	<l id="304">Si tu crois mon cœur enflammé</l>
 	<l id="305">Au point d’être fort alarmé</l>
@@ -470,7 +470,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>III INTERMÈDE.</head>
-<sp who="PAN"><speaker>PAN, aux Princesses.</speaker>
+<sp who="PAN"><hstage><speaker>PAN</speaker>, aux Princesses.</hstage>
 	<l id="315">Des fêtes qu’ici l’on vous donne,</l>
 	<l id="316">Princesses, les Dieux sont jaloux.</l>
 	<l id="317">Et vous voyez Pan qui vient en personne,</l>
@@ -494,7 +494,7 @@
 	<l id="333">À l’ombre de ces beaux buissons.</l>
 <stage>Entrée de Faunes.</stage>
 </sp>
-<sp who="UN FAUNE"><speaker>UN FAUNE.</speaker>
+<sp who="UN FAUNE"><hstage><speaker>UN FAUNE</speaker>.</hstage>
 	<l id="334">Quand un Faune amoureux</l>
 	<l id="335">Trouve une Nymphe au pied d’un hêtre,</l>
 	<l id="336">Pour devenir heureux</l>
@@ -507,7 +507,7 @@
 	<l id="343">Sont moins difficiles</l>
 	<l id="344">Que celles des Bois.</l>
 </sp>
-<sp who="LA DRYADE"><speaker>UNE DRYADE.</speaker>
+<sp who="LA DRYADE"><hstage><speaker>UNE DRYADE</speaker>.</hstage>
 	<l id="345">Dans ces agréables Bocages</l>
 	<l id="346">Tout cède aux charmes de l’Amour ;</l>
 	<l id="347">La nature dans ce séjour</l>
@@ -517,26 +517,26 @@
 	<l id="351">Et le doux murmure des eaux</l>
 	<l id="352">Parle d’amour à nos rivages.</l>
 </sp>
-<sp who="MADEMOISELLE SALLÉ"><speaker>MADEMOISELLE SALLÉ, chante.</speaker>
+<sp who="MADEMOISELLE SALLÉ"><hstage><speaker>MADEMOISELLE SALLÉ</speaker>, chante.</hstage>
 	<l id="353">Ici les Nymphes des Fontaines</l>
 	<l id="354">Brûlent d’amour au fond des flots,</l>
 	<l id="355">Et l’on n’entretient les Échos</l>
 	<l id="356">Que de plaisirs, jamais de peines.</l>
 <stage>Entrée.</stage>
 </sp>
-<sp who="LA DRYADE"><speaker>LA DRYADE.</speaker>
+<sp who="LA DRYADE"><hstage><speaker>LA DRYADE</speaker>.</hstage>
 	<l id="357">Quand dans un cœur</l>
 	<l id="358">L’Amour se glisse,</l>
 	<l id="359">À ce vainqueur</l>
 	<l id="360">Sans résistance il faut qu’on obéisse.</l>
 </sp>
-<sp who="PAN"><speaker>PAN.</speaker>
+<sp who="PAN"><hstage><speaker>PAN</speaker>.</hstage>
 	<l id="361">Ce petit Dieu</l>
 	<l id="362">Souvent dans l’âme</l>
 	<l id="363">Allume un feu,</l>
 	<l id="364">Dont la raison veut surmonter la flamme.</l>
 </sp>
-<sp who="LA DRYADE"><speaker>LA DRYADE.</speaker>
+<sp who="LA DRYADE"><hstage><speaker>LA DRYADE</speaker>.</hstage>
 	<l id="365">Mais en tous lieux</l>
 	<l id="366">L’Amour égale</l>
 	<l id="367">Hommes et Dieux ;</l>
@@ -544,7 +544,7 @@
 <note type="L">Céphale : Fils de Déjonée, Roi de Phocide, épousa Procris, sœur d’Orithie, Roi d’Athènes. Céphale était bisaïeul d’Ulysse. Euripide dit que l’Aurore enleva aux Cieux Céphale après la mort de Procris. [T]</note>
 	<l id="368">Et sans rougir, l’Aurore aima Céphale.</l>
 </sp>
-<sp who="PAN"><speaker>PAN.</speaker>
+<sp who="PAN"><hstage><speaker>PAN</speaker>.</hstage>
 	<l id="369">Un fier honneur</l>
 	<l id="370">En vain condamne</l>
 	<l id="371">Le choix d’un cœur.</l>
@@ -555,7 +555,7 @@
 </div2>
 <div2 type="scene" n="4"><head>IV INTERMÈDE.</head>
 <stage>Cet Intermède est un Concert Italien que l’on fait entendre à la Princesse, qui est fort occupée de ses rêveries.</stage>
-<sp who="UNE MUSICIENNE"><speaker>UNE MUSICIENNE.</speaker>
+<sp who="UNE MUSICIENNE"><hstage><speaker>UNE MUSICIENNE</speaker>.</hstage>
 	<l id="373">Teneri cuori,</l>
 	<l id="374">Che vogate</l>
 	<l id="375">Sui mar dei Amori,</l>
@@ -572,46 +572,46 @@
 	<l id="386">Sospirate.</l>
 <stage>Dernières paroles de la dernière Scène, qui doivent servir à amener le cinquième Intermède.</stage>
 </sp>
-<sp who="TIMOCLES"><speaker>TIMOCLES.</speaker>
+<sp who="TIMOCLES"><hstage><speaker>TIMOCLES</speaker>.</hstage>
 <p id="1">
 	<s id="1">Peut-être, Madame ; qu’on ne goûtera pas longtemps la joie du mépris que l’on fait de nous.</s>
 </p>
 </sp>
-<sp who="ARISTIONE"><speaker>ARISTIONE.</speaker>
+<sp who="ARISTIONE"><hstage><speaker>ARISTIONE</speaker>.</hstage>
 <p id="2">
 	<s id="1">Je pardonne toutes ces menaces aux chagrins d’un amour qui se croit offensé, et nous n’en goûterons pas avec moins de tranquillité les délices du charmant séjour où nous sommes.</s>
 </p>
 </sp>
-<sp who="CLITIDAS"><speaker>CLITIDAS.</speaker>
+<sp who="CLITIDAS"><hstage><speaker>CLITIDAS</speaker>.</hstage>
 <p id="3">
 	<s id="1">Oh, pour cela non, Madame, et l’on ne s’en réjouira que mieux.</s>
 	<s id="2">J’ai remarqué tout aujourd’hui que les fêtes dont ces Princes ont pris soin de vous régaler, n’ont pas trop diverti la Princesse ; son esprit était occupé...</s>
 </p>
 </sp>
-<sp who="ÉRIPHYLE"><speaker>ÉRIPHYLE.</speaker>
+<sp who="ÉRIPHYLE"><hstage><speaker>ÉRIPHYLE</speaker>.</hstage>
 <p id="4">
 	<s id="1">Clitidas...</s>
 </p>
 </sp>
-<sp who="CLITIDAS"><speaker>CLITIDAS.</speaker>
+<sp who="CLITIDAS"><hstage><speaker>CLITIDAS</speaker>.</hstage>
 <note type="L">Larisse : Nom propre d’une grande ville et Archiépiscopale. Elle est dans la Thessalie, sur le Pénée, environ à dix lieues de son embouchure dans le golfe de Salonichi. [T]</note>
 <p id="5">
 	<s id="1">Je ne dis rien du cœur, Madame, je ne parle que de l’esprit ; et à présent que par un incident tout à fait heureux, il est, grâces au Ciel devenu plus libre, s’il vous plaisait, Madame, vous pourriez prendre le régal d’un petit Divertissement champêtre que j’ai ordonné moi-même à tout hasard, pour vous dédommager du sérieux et de l’ennui des autres.</s>
 	<s id="2">C’est une fille du pays, qui est un peu ma parente, qui vient d’épouser un jeune Matelot d’auprès de Larisse.</s>
 </p>
 </sp>
-<sp who="ÉRIPHYLE"><speaker>ÉRIPHYLE.</speaker>
+<sp who="ÉRIPHYLE"><hstage><speaker>ÉRIPHYLE</speaker>.</hstage>
 <p id="6">
 	<s id="1">Ce sera, je crois, quelque chose de fort beau que ce Divertissement champêtre.</s>
 </p>
 </sp>
-<sp who="ARISTIONE"><speaker>ARISTIONE.</speaker>
+<sp who="ARISTIONE"><hstage><speaker>ARISTIONE</speaker>.</hstage>
 <p id="7">
 	<s id="1">Voyons, ma fille.</s>
 	<s id="2">De simples choses amusent quelquefois agréablement ; et le zèle qu’il a de vous plaire, mérite de n’être pas refusé.</s>
 </p>
 </sp>
-<sp who="CLITIDAS"><speaker>CLITIDAS.</speaker>
+<sp who="CLITIDAS"><hstage><speaker>CLITIDAS</speaker>.</hstage>
 <p id="8">
 	<s id="1">Ah, qu’on est heureux de servir des Princesses qui reçoivent avec tant de bonté les soins qu’on prend de leur être agréable ! Je vais faire venir tout mon monde, et...</s>
 </p>
@@ -627,7 +627,7 @@
 	<l id="395">Jouissez du sort le plus doux,</l>
 	<l id="396">La Fortune et l’Hymen, et l’Amour sont pour vous.</l>
 </sp>
-<sp who="L_AMOUR"><speaker>L’AMOUR sur un nuage.</speaker>
+<sp who="L_AMOUR"><hstage><speaker>L’AMOUR</speaker> sur un nuage.</hstage>
 	<l id="397">Sostrate, et vous, jeune Princesse,</l>
 	<l id="398">Reconnaissez le Dieu qui vient de vous unir</l>
 	<l id="399">De la plus parfaite tendresse.</l>
@@ -642,9 +642,9 @@
 	<l id="408">Des époux qu’en ces lieux Clitidas vous amène.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>V INTERMÈDE. Plusieurs personnes de la noce.</head>
+<div2 type="scene" n="5"><head>V INTERMÈDE.</head><cast>Plusieurs personnes de la noce.</cast>
 <stage>Entrée.</stage>
-<sp who="LE MARIÉ"><speaker>LE MARIÉ.</speaker>
+<sp who="LE MARIÉ"><hstage><speaker>LE MARIÉ</speaker>.</hstage>
 	<l id="409">Puisque l’Amour nous a préposés pour modèle</l>
 	<l id="410">Du bonheur que l’Hymen vous doit faire éprouver,</l>
 	<l id="411">Voyez-nous faire, et vous allez trouver</l>

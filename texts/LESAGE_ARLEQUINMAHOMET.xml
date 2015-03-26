@@ -55,7 +55,7 @@
 <div1 type="acte" n="1"><head/>
 <stage>Le Théâtre représente la cour de Maison d’Arlequin.</stage>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, seul.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, seul.</hstage>
 <stage>AIR 78 : Or écoutez, Petits et Grands.</stage>
 	<l id="1">Ô Sort ! Ô Devins ennemis !</l>
 	<l id="2">Dans quel état m’avez-vous mis :</l>
@@ -65,8 +65,8 @@
 	<l id="6">Enfin, me voilé ruiné.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Arlequin, Dahi.</head>
-<sp who="DAHI"><speaker>DAHI.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Arlequin, Dahi.</cast>
+<sp who="DAHI"><hstage><speaker>DAHI</speaker>.</hstage>
 <stage>AIR 42 : Duont, mon ami.</stage>
 	<l id="7">Je reviens a regret,</l>
 	<l id="8">Ami, vous instruire</l>
@@ -75,27 +75,27 @@
 	<l id="11">Vos créanciers en ce jour</l>
 	<l id="12">Veulent vous jouer d’un tour.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, soupirant.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, soupirant.</hstage>
 <p id="1">
 	<s id="1">Ouf !</s>
 </p>
 </sp>
-<sp who="DAHI"><speaker>DAHI.</speaker>
+<sp who="DAHI"><hstage><speaker>DAHI</speaker>.</hstage>
 <stage>Air précédent.</stage>
 	<l id="13">Vous les connaissez</l>
 	<l id="14">Trompez leur envie.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="15">Seigneur, c’est assez.</l>
 	<l id="16">Je vous remercie.</l>
 </sp>
-<sp who="DAHI"><speaker>DAHI, s’en allant</speaker>
+<sp who="DAHI"><hstage><speaker>DAHI</speaker>, s’en allant</hstage>
 	<l id="17">Adieu. Soyez assez fin</l>
 	<l id="18">Pour éluder leur dessein.</l>
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, seul.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, seul.</hstage>
 <stage>AIR 77 : Monsieur Lapalisse est mort.</stage>
 	<l id="19">Marchands, qui dans pareil cas,</l>
 	<l id="20">Êtes bien sortis d’affaire</l>
@@ -103,33 +103,33 @@
 	<l id="22">Comment avez-vous pu faire ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Arlequin, Boubekir.</head>
-<sp who="BOUBEKIR"><speaker>BOUBEKIR, aprés avoir mis é terre un coffre qu’il avait sur ses épaules.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Arlequin, Boubekir.</cast>
+<sp who="BOUBEKIR"><hstage><speaker>BOUBEKIR</speaker>, aprés avoir mis é terre un coffre qu’il avait sur ses épaules.</hstage>
 	<l id="23">Depuis trois jours que je suis dans Surate,</l>
 	<l id="24">J’ai su, Seigneur, par quelques Commerçants</l>
 	<l id="25">Qu’on doit dans peu mettre sur vous la patte,</l>
 	<l id="26">Et vous jeter dans les fers pour longtemps.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <p id="2">
 	<s id="1">Hoïmé !</s>
 </p>
 </sp>
-<sp who="BOUBEKIR"><speaker>BOUBEKIR.</speaker>
+<sp who="BOUBEKIR"><hstage><speaker>BOUBEKIR</speaker>.</hstage>
 <stage>AIR 50 : J’ai fait souvent résonner ma musette.</stage>
 	<l id="27">Si vous craignez pareille destinée,</l>
 	<l id="28">Dites-le moi ; parlez confidemment.</l>
 	<l id="29">Je puis, Seigneur, et dés cette journée,</l>
 	<l id="30">Vous dérober à l’emprisonnement.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <stage>AIR 5 : Quand le péril est agréable.</stage>
 	<l id="31">Non, non, cela n’est pas possible.</l>
 	<l id="32">Sans doute on me fait observer ;</l>
 	<l id="33">Et vous ne sauriez me sauver,</l>
 	<l id="34">Sans me rendre invisible.</l>
 </sp>
-<sp who="BOUBEKIR"><speaker>BOUBEKIR.</speaker>
+<sp who="BOUBEKIR"><hstage><speaker>BOUBEKIR</speaker>.</hstage>
 <stage>AIR 22 : Le fameux Diogène.</stage>
 	<l id="35">J’ai fait une machine</l>
 	<l id="36">Qu’on peut nommer divine,</l>
@@ -137,12 +137,12 @@
 	<l id="38">Avec cet équipage,</l>
 	<l id="39">Sans péril on voyage.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="40">L’ouvrage est excellent.</l>
 <stage>Méme air.</stage>
 	<l id="41">Mais n’est il point magique ?</l>
 </sp>
-<sp who="BOUBEKIR"><speaker>BOUBEKIR.</speaker>
+<sp who="BOUBEKIR"><hstage><speaker>BOUBEKIR</speaker>.</hstage>
 	<l id="42">Non, non, de Mécanique</l>
 	<l id="43">C’est un ouvrage pur.</l>
 	<l id="44">Entrez dans ma brouette,</l>
@@ -157,7 +157,7 @@
 	<l id="51">De quel cété prendre,</l>
 	<l id="52">Et voler comme un perdu.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <stage>Laturlu, lanturlur, lanturelu.</stage>
 <stage>Arlequin fait l’essai du coffre. Il en est charmé. Il le baise, embrasse Boubekir et dit dans l’excès de son admiration :</stage>
 <stage>AIR 20 : Du cap de Bonne-espérance.</stage>
@@ -166,44 +166,44 @@
 	<l id="55">Je pourrai par ma retraite</l>
 	<l id="56">Payer tous mes créanciers.</l>
 </sp>
-<sp who="BOUBEKIR"><speaker>BOUBEKIR.</speaker>
+<sp who="BOUBEKIR"><hstage><speaker>BOUBEKIR</speaker>.</hstage>
 	<l id="57">C’est une des sept Merveilles.</l>
 	<l id="58">J’en veux fournir de pareilles</l>
 	<l id="59">À tous les Banqueroutiers.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="60">Il en a donc des milliers.</l>
 </sp>
-<sp who="BOUBEKIR"><speaker>BOUBEKIR, sur le ton des deux derniers vers.</speaker>
+<sp who="BOUBEKIR"><hstage><speaker>BOUBEKIR</speaker>, sur le ton des deux derniers vers.</hstage>
 	<l id="61">J’en ai fait provision</l>
 	<l id="62">Pour Paris et pour Lyon.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <stage>AIR 25 : Allons, gai.</stage>
 	<l id="63">Un si précieux coffre</l>
 	<l id="64">Vaut mieux que tout mon bien.</l>
 </sp>
-<sp who="BOUBEKIR"><speaker>BOUBEKIR.</speaker>
+<sp who="BOUBEKIR"><hstage><speaker>BOUBEKIR</speaker>.</hstage>
 	<l id="65">Cependant, je vous l’offre,</l>
 	<l id="66">Si vous vouliez, pour rien.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="67">Allons, gai,</l>
 	<l id="68">D’un air gai, etc.</l>
 <stage>Boubekir se retire en faisant des façons pour recevoir une bourse qu’Arlequin lui donne.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <stage>Il s’occupe à munir son coffre de provisions. Il y met du fromage, des cervelats, du vin etc. jusqu’à un pot de chambre. À peine y-a-t-il mis toutes ces choses, qu’il arrive chez lui des Archers pour le prendre. Il se jette dans la machine en disant :</stage>
 <stage>AIR 65 : Voici les Dragons qui viennent.</stage>
 	<l id="69">Voici les Archers qui viennent,</l>
 	<l id="70">Vite sauvons-nous...</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Arlequin, Quatre Archers.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Arlequin, Quatre Archers.</cast>
 <stage>Arlequin se léve a quinze pied de terre et se faisant voir aux archers chante:</stage>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <stage>Reprise de l’AIR 75 : Un petit moment plus tard.</stage>
 	<l id="71">Un petit moment trop tard</l>
 	<l id="72">La justice est venue...</l>
@@ -212,7 +212,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII.</head>
-<sp who="LE PRINCE"><speaker>LE PRINCE DE PERSE, seul.</speaker>
+<sp who="LE PRINCE"><hstage><speaker>LE PRINCE DE PERSE</speaker>, seul.</hstage>
 <stage>AIR 19 : Ne m’entendez-cous pas.</stage>
 	<l id="73">Reste-t-il quelque espoir,</l>
 	<l id="74">Après cette traverse ?</l>
@@ -222,8 +222,8 @@
 <stage>On voit dans ce temps-là parler le coffre d’Arlequin qui s’arrête en l’air.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Le Prince, Arlequin.</head>
-<sp who="LE PRINCE"><speaker>LE PRINCE, sans apercevoir le coffre.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Le Prince, Arlequin.</cast>
+<sp who="LE PRINCE"><hstage><speaker>LE PRINCE</speaker>, sans apercevoir le coffre.</hstage>
 <stage>AIR 43. Je ne suis pas si Diable.</stage>
 	<l id="78">Ciel ! Que viens-je d’apprendre !</l>
 	<l id="79">Ah ! Quel nouveau malheur !</l>
@@ -233,10 +233,10 @@
 	<l id="83">Un Kam la vient, dit-on</l>
 	<l id="84">Ravir à ma tendresse.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, à part en descendant de son coffre en s’approchant du Prince.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, à part en descendant de son coffre en s’approchant du Prince.</hstage>
 	<l id="85">C’est un fripon.</l>
 </sp>
-<sp who="LE PRINCE"><speaker>LE PRINCE, sans apercevoir Arlequin.</speaker>
+<sp who="LE PRINCE"><hstage><speaker>LE PRINCE</speaker>, sans apercevoir Arlequin.</hstage>
 <stage>AIR 36 : Malheureuse journée.</stage>
 	<l id="86">Que de cet hyménée,</l>
 	<l id="87">Mon amour malheureux,</l>
@@ -249,7 +249,7 @@
 	<l id="93">Objet de mes amours.</l>
 <stage>Il lève le bras pour se percer. Arlequin l’arrête et lui dit :</stage>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <stage>AIR 35 : Tes beaux yeux, ma Nicole.</stage>
 	<l id="94">Que votre Seigneurie</l>
 	<l id="95">Modère ses transports.</l>
@@ -260,46 +260,46 @@
 	<l id="100">Et de votre Maîtresse</l>
 	<l id="101">Bientôt je vous fais don.</l>
 </sp>
-<sp who="LE PRINCE"><speaker>LE PRINCE.</speaker>
+<sp who="LE PRINCE"><hstage><speaker>LE PRINCE</speaker>.</hstage>
 <stage>AIR 77 : Monsieur Lapalisse est mort.</stage>
 	<l id="102">Vous qui d’un espoir si doux</l>
 	<l id="103">Flattez ma mourante vie,</l>
 	<l id="104">Eh ! Sur quoi le fondez-vous ?</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="105">Parbleu sur mon industrie.</l>
 </sp>
-<sp who="LE PRINCE"><speaker>LE PRINCE.</speaker>
+<sp who="LE PRINCE"><hstage><speaker>LE PRINCE</speaker>.</hstage>
 <stage>AIR 137 : Sommes nous pas trop heureux.</stage>
 	<l id="106">Un Kam que j’ai pour rival,</l>
 	<l id="107">Veut m’enlever ma maîtresse :</l>
 	<l id="108">Aurez-vous assez d’adresse</l>
 	<l id="109">Pour parer ce coup fatal ?</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="110">Oui morbleu.</l>
 </sp>
-<sp who="LE PRINCE"><speaker>LE PRINCE.</speaker>
+<sp who="LE PRINCE"><hstage><speaker>LE PRINCE</speaker>.</hstage>
 	<l id="111">Cette promesse</l>
 	<l id="112">Dissipe un peu mon effroi.</l>
 	<l id="113">Si je vous dois ma Princesse,</l>
 	<l id="114">Ami, disposez de moi.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <stage>AIR 9 : Quel plaisir de voir Claudine.</stage>
 	<l id="115">Ça, je vais de ce pas même...</l>
 </sp>
-<sp who="LE PRINCE"><speaker>LE PRINCE.</speaker>
+<sp who="LE PRINCE"><hstage><speaker>LE PRINCE</speaker>.</hstage>
 	<l id="116">Mais par quelle invention ?...</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="117">Suivez moi. Le stratagème</l>
 	<l id="118">Naîtra de l’occasion.</l>
 <stage>Ils s’en vont tous deux. Le Théâtre change et représente les jardins du Roi de Basra, où la Princesse se promène avec sa suivante à l’entrée de la nuit.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. La Princesse, La Suivante.</head>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>La Princesse, La Suivante.</cast>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>.</hstage>
 <stage>AIR 1 : Réveillez-vous belle Endormie.</stage>
 	<l id="119">Cent fois soit maudit l’Astrologue</l>
 	<l id="120">Qui, quand vous reçûtes le jour,</l>
@@ -311,7 +311,7 @@
 	<l id="125">Du moins jusqu’à cette journée,</l>
 	<l id="126">Nul encor n’a pu vous tromper.</l>
 </sp>
-<sp who="LA PRINCESSE"><speaker>LA PRINCESSE.</speaker>
+<sp who="LA PRINCESSE"><hstage><speaker>LA PRINCESSE</speaker>.</hstage>
 <stage>AIR 18 : Branle de Metz.</stage>
 	<l id="127">Cependant, le Roi mon père</l>
 	<l id="128">Craint ce que l’on a prédit ;</l>
@@ -321,7 +321,7 @@
 	<l id="132">Au fort d’un sexagénaire,</l>
 	<l id="133">Que je hais plus que la mort.</l>
 </sp>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE.</speaker>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>.</hstage>
 	<l id="134">Le Roi votre père a tort.</l>
 <stage>AIR 56 : Pour passer doucement le vie.</stage>
 	<l id="135">Le Ciel, ô Princesse adorable</l>
@@ -330,30 +330,30 @@
 	<l id="138">Est à peine digne de vous.</l>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. La Princesse, La Suivante, Arlequin, en l’air dans son coffre.</head> 
-<sp who="LA PRINCESSE"><speaker>LA PRINCESSE.</speaker>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><cast>La Princesse, La Suivante, Arlequin, en l’air dans son coffre.</cast> 
+<sp who="LA PRINCESSE"><hstage><speaker>LA PRINCESSE</speaker>.</hstage>
 <stage>AIR 45 : Je ne veux point troubler votre ignorance.</stage>
 	<l id="139">Quoi, faudra-t-il, malgré ma répugnance,</l>
 	<l id="140">Avec le Kam vivre jusqu’au trépas !</l>
 </sp>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE, levant les mains au Ciel.</speaker>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>, levant les mains au Ciel.</hstage>
 	<l id="141">Ô Mahomet, de cette violence</l>
 	<l id="142">Daigne sauver cet objet plein d’appas.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, en l’air, et prenant de cette apostrophe occasion de passer pour Mahomet, dit sur le ton du dernier vers.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, en l’air, et prenant de cette apostrophe occasion de passer pour Mahomet, dit sur le ton du dernier vers.</hstage>
 	<l id="143">Oh le vieux Kam, ma foi, ne l’aura pas.</l>
 <stage>Il n’a pas sitôt chanté ce vers, qu’il disparaît. La Princesse et sa Suivante sont fort étonnées d’avoir entendu ces paroles. La Suivante croit que c’est Mahomet qui les a prononcées, et saisie d’une sainte horreur, elle dit é la Princesse.</stage>
 </sp>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE.</speaker>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>.</hstage>
 <stage>AIR 31 : La faridondaine.</stage>
 	<l id="144">Vous voyez que c’est Mahomet,</l>
 	<l id="145">Qui pour vous s’intéresse.</l>
 </sp>
-<sp who="LA PRINCESSE"><speaker>LA PRINCESSE.</speaker>
+<sp who="LA PRINCESSE"><hstage><speaker>LA PRINCESSE</speaker>.</hstage>
 	<l id="146">C’est peut-être quelque follet,</l>
 	<l id="147">Qui trompe ma tendresse.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="148">Non, c’est Mahomet tout de bon ;</l>
 	<l id="149">La fandondaine,</l>
 	<l id="150">La faridondon.</l>
@@ -362,7 +362,7 @@
 	<l id="153">À la façon de Barbari,</l>
 	<l id="154">Mon ami.</l>
 </sp>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE.</speaker>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>.</hstage>
 <stage>AIR 44 : J’entends déjà le bruit des armes.</stage>
 	<l id="155">Accordez-nous votre assistance,</l>
 	<l id="156">Grand Prophète des Musulmans ;</l>
@@ -371,18 +371,18 @@
 	<l id="159">Et daignez de votre présence</l>
 	<l id="160">Nous honorer dans ces moments.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <stage>AIR 155 : D’Atys.</stage>
 	<l id="161">Allons, allons, accourez tous.</l>
 <stage>Bis.</stage>
 	<l id="162">Mahomet va descendre.</l>
 <stage>Arlequin descend dans un bosquet épais où il laisse son coffre. Il approche de la Princesse, qui lui dit avec étonnement :</stage>
 </sp>
-<sp who="LA PRINCESSE"><speaker>LA PRINCESSE.</speaker>
+<sp who="LA PRINCESSE"><hstage><speaker>LA PRINCESSE</speaker>.</hstage>
 <stage>AIR 40 : Si dans le mal qui me possède.</stage>
 	<l id="163">Vous, Mahomet ! Quelle jeunesse !</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="164">Suivant les temps suivant les lieux</l>
 	<l id="165">J’ai l’air jeune, ou je parais vieux.</l>
 	<l id="166">Bientôt vous verrez, ma Princesse,</l>
@@ -403,16 +403,16 @@
 	<l id="178">Laire lan-la.</l>
 <stage>La Princesse, après avoir considéré un moment le portrait, se le laisse  arracher par sa Suivante qui dit :</stage>
 </sp>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE.</speaker>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>.</hstage>
 <stage>AIR 47 : Robin, turelure lure.</stage>
 	<l id="179">Voilé d’un Prince joli</l>
 	<l id="180">Le portrait en miniature.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="181">Tudieu ! C’est un dégourdi,</l>
 	<l id="182">Turelure.</l>
 </sp>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE.</speaker>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>.</hstage>
 	<l id="183">On le voit é la peinture,</l>
 	<l id="184">Robin, turelure lure.</l>
 <stage>Bas à Arlequin, et lui montrant sa maîtresse.</stage>
@@ -420,30 +420,30 @@
 	<l id="185">Elle le trouve aimable</l>
 	<l id="186">Sans dire mot.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="187">C’est, je me donne au Diable :</l>
 	<l id="188">Son vrai ballot.</l>
 </sp>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE.</speaker>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>.</hstage>
 	<l id="189">Je prévois, aux grâces qu’il a,</l>
 	<l id="190">Que cet enfant-lé</l>
 	<l id="191">Voudra bien cela.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="192">Ô gué, lon-lé,</l>
 	<l id="193">Lan laire,</l>
 	<l id="194">Ô gué, lon-la.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN, cajolant la Princesse.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>, cajolant la Princesse.</hstage>
 <stage>AIR 17 : Menuet d’Hésione.</stage>
 	<l id="195">Expliquez-vous, belle brunette,</l>
 	<l id="196">Que dit le cœur pour ce grivois ?</l>
 </sp>
-<sp who="LA PRINCESSE"><speaker>LA PRINCESSE.</speaker>
+<sp who="LA PRINCESSE"><hstage><speaker>LA PRINCESSE</speaker>.</hstage>
 	<l id="197">Puis-je mieux faire, grand Prophète,</l>
 	<l id="198">Que d’applaudir à votre choix ?</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <stage>AIR 9 : Quel plaisir de voir Claudine.</stage>
 	<l id="199">Vous voulez-donc bien mignonne...</l>
 <stage>À part.</stage>
@@ -452,7 +452,7 @@
 	<l id="201">Le Prophète sent, friponne,</l>
 	<l id="202">Qu’il s’échauffe en son harnois.</l>
 </sp>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE.</speaker>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>.</hstage>
 <stage>AIR 14 : Voulez-vous savoir qui des deux.</stage>
 	<l id="203">Malgré toutes les voluptés,</l>
 	<l id="204">Et toutes les félicités</l>
@@ -461,7 +461,7 @@
 	<l id="207">Qu’en ce monde une femme aimable</l>
 	<l id="208">Pourrait fort bien vous amuser.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <stage>AIR 25 : Allons, gai.</stage>
 	<l id="209">Ce grand air de Déesse,</l>
 	<l id="210">Et ce charmant souris,</l>
@@ -471,11 +471,11 @@
 	<l id="213">Allons, gay,</l>
 	<l id="214">D’un air gay, etc.</l>
 </sp>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE.</speaker>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>.</hstage>
 <stage>AIR 27 : Et zon, zon, zon.</stage>
 	<l id="215">Ont-elles plus d’appas ?</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="216">Elles sont moins gentilles ;</l>
 	<l id="217">Mais, diable, j’en fais cas ;</l>
 	<l id="218">Elles sont toujours filles.</l>
@@ -484,7 +484,7 @@
 	<l id="221">Et zon, zon, zon,</l>
 	<l id="222">Lisette, la Lison.</l>
 </sp>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE, flattant Arlequin.</speaker>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>, flattant Arlequin.</hstage>
 <stage>AIR 10 : Mon père, je viens devant vous.</stage>
 	<l id="223">Puisque Mahomet ici bas</l>
  <note tye="L">Hyménée : divinité fabuleuse des païens, qu’ils croient présider aux mariage. (...) signifie aussi poétiquement le mariage. [F]</note>
@@ -494,31 +494,31 @@
 	<l id="227">À celle de quelque garçon</l>
 	<l id="228">J’en veux un de votre façon.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <stage>AIR 53 : Ce n’est point par effort qu’on aime.</stage>
 	<l id="229">Un brunet toujours prêt à rire</l>
 	<l id="230">Dés demain sera ton époux.</l>
 	<l id="231">J’entends du bruit. Je me retire.</l>
 </sp>
-<sp who="LA PRINCESSE"><speaker>LA PRINCESSE.</speaker>
+<sp who="LA PRINCESSE"><hstage><speaker>LA PRINCESSE</speaker>.</hstage>
 	<l id="232">Ne vous éloignez pas de nous.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="233">Non. Mais au Roi vous pouvez dire</l>
 	<l id="234">Que je yeux disposer de vous.</l>
 </sp>
 </div2>
-<div2 type="scene" n="11"><head>SCÈNE XI. La Princesse, La Suivante, La Roi, La Kam.</head>
-<sp who="LE ROI"><speaker>LE ROI, présentent le Kam à la Princesse.</speaker>
+<div2 type="scene" n="11"><head>SCÈNE XI.</head><cast>La Princesse, La Suivante, La Roi, La Kam.</cast>
+<sp who="LE ROI"><hstage><speaker>LE ROI</speaker>, présentent le Kam à la Princesse.</hstage>
 <stage>AIR 2 : Quand je tiens de ce jus d’Octobre.</stage>
 	<l id="235">Ma fille, recevez l’hommage</l>
 	<l id="236">D’un cœur qui vous est destiné.</l>
 </sp>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE, d’un ton ironique.</speaker>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>, d’un ton ironique.</hstage>
 	<l id="237">Oh ! Le gracieux personnage</l>
 	<l id="238">Que vous nous avez amené !</l>
 </sp>
-<sp who="LE KAM"><speaker>LE KAM, à la Princesse.</speaker>
+<sp who="LE KAM"><hstage><speaker>LE KAM</speaker>, à la Princesse.</hstage>
 <stage>AIR 27 : Et zon, zon, zon.</stage>
 	<l id="239">Que je prends de plaisir</l>
 	<l id="240">é vous voir si gentille !</l>
@@ -529,22 +529,22 @@
 	<l id="245">Et zon, zon, zon,</l>
 	<l id="246">Lisette, la Lison.</l>
 </sp>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE, au roi ironiquement.</speaker>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>, au roi ironiquement.</hstage>
 <stage>AIR 13 : La Joconde.</stage>
 	<l id="247">Vous ne pouviez choisir, Seigneur,</l>
 	<l id="248">Un gendre plus aimable ;</l>
 	<l id="249">Il est fait pour toucher un cœur.</l>
 </sp>
-<sp who="LA PRINCESSE"><speaker>LA PRINCESSE, à part.</speaker>
+<sp who="LA PRINCESSE"><hstage><speaker>LA PRINCESSE</speaker>, à part.</hstage>
 	<l id="250">Qu’il est désagréable !</l>
 </sp>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE.</speaker>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>.</hstage>
 	<l id="251">Mais le Prophète Mahomet,</l>
 	<l id="252">é cet hymen contraire,</l>
 	<l id="253">Vient de nous déclarer tout net</l>
 	<l id="254">Qu’il prétend le défaire.</l>
 </sp>
-<sp who="LE ROI"><speaker>LE ROI, avec étonnement.</speaker>
+<sp who="LE ROI"><hstage><speaker>LE ROI</speaker>, avec étonnement.</hstage>
 <stage>AIR 22 : Le Fameux Diogène.</stage>
 	<l id="255">Que dites-vous, ma mie ?</l>
 	<l id="256">Parlez. Moi, je vous prie,</l>
@@ -553,7 +553,7 @@
 	<l id="259">Vous avez au Prophète</l>
 	<l id="260" part="i">Parlé ?...</l>
 </sp>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE.</speaker>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>.</hstage>
 	<l id="260" part="f">Dans ce moment.</l>
 <stage>AIR 11 : On n’aime point dans nos forêts.</stage>
 	<l id="261">Du Prince de Perse, dit il,</l>
@@ -561,7 +561,7 @@
 	<l id="263">C’est un Prince galant, gentil,</l>
 	<l id="264">Digne en un mot de ma maîtresse.</l>
 </sp>
-<sp who="LE ROI"><speaker>LE ROI.</speaker>
+<sp who="LE ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="265">Tout cela ne sent rien de bon :</l>
 	<l id="266">Ce Mahomet est un fripon.</l>
 <stage>AIR 5 : Quand le péril est agréable.</stage>
@@ -571,16 +571,16 @@
 <stage>À la suivante.</stage>
 	<l id="270">Crains pour toi, malheureuse.</l>
 </sp>
-<sp who="LE KAM"><speaker>LE KAM.</speaker>
+<sp who="LE KAM"><hstage><speaker>LE KAM</speaker>.</hstage>
 <stage>Méme air.</stage>
 	<l id="271">Oui, vous avez raison Beau-père,</l>
 	<l id="272">Mahomet est un scélérat.</l>
 </sp>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE, effrayée de ce blasphème.</speaker>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>, effrayée de ce blasphème.</hstage>
 	<l id="273">Ah n’attirez point sur l’état</l>
 	<l id="274">Sa terrible colère !</l>
 </sp>
-<sp who="LE ROI"><speaker>LE ROI, irrité contre la suivante.</speaker>
+<sp who="LE ROI"><hstage><speaker>LE ROI</speaker>, irrité contre la suivante.</hstage>
 <stage>AIR 49 : Jardinier ne vois-tu pas.</stage>
 	<l id="275">Vous osez d’un suborneur</l>
 	<l id="276">Appuyer l’indolence !</l>
@@ -589,14 +589,14 @@
 	<l id="278">Cherchons ; tirons en Seigneur,</l>
 	<l id="279">Vengeance, vengeance vengeance.</l>
 </sp>
-<sp who="LE KAM"><speaker>LE KAM répéte le dernier vers.</speaker>
+<sp who="LE KAM"><hstage><speaker>LE KAM</speaker> répéte le dernier vers.</hstage>
 	<l id="280">Vengeance, vengeance vengeance.</l>
 <stage>Le Roi et le Kam le sabre à la main cherchent partout le faux Mahomet qui paraît en l’air, et qui de son coffre décharge sur la tête du Kam des coups de batte en chantant aussi.</stage>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="281">Vengeance, vengeance, vengeance.</l>
 </sp>
-<sp who="LE ROI, LE KAM"><speaker>LE ROI et LE KAM, ensemble</speaker>
+<sp who="LE ROI, LE KAM"><hstage><speaker>LE ROI</speaker> et <speaker>LE KAM</speaker>, ensemble</hstage>
 <stage>AIR 10 : Poursuivons jusqu’au trépas.</stage>
 	<l id="282">Exterminons aujourd’hui</l>
 	<l id="283">Ce coquin qui nous outrage ?</l>
@@ -605,14 +605,14 @@
 <stage>Ils continuent a chercher le faux Prophète, qui jette sur eux quantité de pétards et d’autres feux d’artifice qui enflamment l’air. On voit en même temps Arlequin dans sa machine qui traverse le théâtre. Il a un pourpoint noir avec un turban et une longue barbe blanche. Le Roi et le Kam sont frappés de cette apparition ; et la Suivante profitant de la crainte dont elle voit le Roi saisi lui
 dit :</stage>
 </sp>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE.</speaker>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>.</hstage>
 <stage>AIR 55 : Vous, qui vous moquez par vos ris.</stage>
 	<l id="286">Au lieu d’offenser Mahomet,</l>
 	<l id="287">Faites ce qu’il désire ;</l>
 	<l id="288">Vous verrez un bonheur parfait</l>
 	<l id="289">Régner dans votre Empire.</l>
 </sp>
-<sp who="LE ROI"><speaker>LE ROI.</speaker>
+<sp who="LE ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="290">Hé bien, j’y consens : C’en en fait.</l>
 	<l id="291">Il faut donc me dédire.</l>
 <stage>Au Kam.</stage>
@@ -626,7 +626,7 @@ dit :</stage>
 	<l id="298">Il faut, pour le satisfaire</l>
 	<l id="299">Rompre nos engagements.</l>
 </sp>
-<sp who="LE KAM"><speaker>LE KAM, en se frottant les épaules.</speaker>
+<sp who="LE KAM"><hstage><speaker>LE KAM</speaker>, en se frottant les épaules.</hstage>
 <stage>AIR 33 : La verte jeunesse.</stage>
 	<l id="300">Tout franc, votre fille</l>
 	<l id="301">était bien mon fait ;</l>
@@ -639,15 +639,15 @@ dit :</stage>
 <stage>Le Kam fait la révérence au Roi et à la Princesse, et s’en va.</stage>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE XII. Le roi, La Princesse, La Suivante.</head>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE, apostrophant Mahomet.</speaker>
+<div2 type="scene" n=""><head>SCÈNE XII.</head><cast>Le roi, La Princesse, La Suivante.</cast>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>, apostrophant Mahomet.</hstage>
 <stage>AIR 4 : Comme un coucou que l’amour presse.</stage>
 	<l id="308">Mahomet, que ton courroux cesse,</l>
 	<l id="309">On a suivre tes volontés :</l>
 	<l id="310">Tu vois que notre Roi s’empresse</l>
 	<l id="311">À reconnaître tes bontés.</l>
 </sp>
-<sp who="LE ROI"><speaker>LE ROI, apostrophant aussi Mahomet.</speaker>
+<sp who="LE ROI"><hstage><speaker>LE ROI</speaker>, apostrophant aussi Mahomet.</hstage>
 <stage>AIR 15 : Je ne suis né ni Roi, ni Prince.</stage>
 	<l id="312">Ma sacrilège résistance</l>
 	<l id="313">N’excitera plus ta vengeance.</l>
@@ -657,20 +657,20 @@ dit :</stage>
 	<l id="317">Vont voir tes dépouilles mortelles.</l>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE XIII ET DERNIéRE. Le Roi, La Princesse, La Suivante, Arlequin, Le Prince de Perse.</head>
+<div2 type="scene" n=""><head>SCÈNE XIII ET DERNIéRE.</head><cast>Le Roi, La Princesse, La Suivante, Arlequin, Le Prince de Perse.</cast>
 <stage>Arlequin, qui a tout entendu profitant de la disposition oé il voit l’esprit du Roi sort d’un bosquet ou il a transporté le Prince de Perse s’avance avec lui vers le Monarque.</stage>
-<sp who="LE ROI"><speaker>LE ROI, se jetant aux pieds du Faux Mahomet.</speaker>
+<sp who="LE ROI"><hstage><speaker>LE ROI</speaker>, se jetant aux pieds du Faux Mahomet.</hstage>
 <stage>AIR 8 : Je reviendrai demain au soir.</stage>
 	<l id="318">Vous me voyez à vos genoux.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="319">Bon Roi relevez-vous.</l>
 <stage>Bis.</stage>
 </sp>
-<sp who="LE ROI"><speaker>LE ROI.</speaker>
+<sp who="LE ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="320">Moi, qui vous ai tant offensé...</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="321">Laissons-la le passé.</l>
 <stage>Bis.</stage>
 <stage>Promenant le Prince.</stage>
@@ -682,64 +682,64 @@ dit :</stage>
 <stage>AIR 3 : Réveillez-vous, belle Endromie.</stage>
 	<l id="326">Ne l’acceptez-vous pas pour gendre ?</l>
 </sp>
-<sp who="LE ROI"><speaker>LE ROI.</speaker>
+<sp who="LE ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 	<l id="327">Je le reçois de tout mon cœur.</l>
 	<l id="328">De votre main on doit tout prendre.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="329">Oui, foi de Prophète d’honneur.</l>
 <stage>Le Prince de Perse tombe aux du genoux du Roi de Basra, qui l’embrasse.</stage>
 </sp>
-<sp who="LE ROI"><speaker>LE ROI.</speaker>
+<sp who="LE ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 <stage>AIR 53 : Ce n’est point par effort qu’on aime.</stage>
 	<l id="330">Héritier d’un célèbre Empire,</l>
 	<l id="331">Pour moi quelle félicité !...</l>
 </sp>
-<sp who="LE PRINCE"><speaker>LE PRINCE.</speaker>
+<sp who="LE PRINCE"><hstage><speaker>LE PRINCE</speaker>.</hstage>
 	<l id="332">Grand Roi, que ne pouvez-vous lire,</l>
 	<l id="333">Dans le cœur d’un Prince enchanté.</l>
 </sp>
-<sp who="LE ROI"><speaker>LE ROI, à la Princesse.</speaker>
+<sp who="LE ROI"><hstage><speaker>LE ROI</speaker>, à la Princesse.</hstage>
 	<l id="334">Avec plaisir tu dois souscrire</l>
 	<l id="335">Ma fille, à ce charmant traité.</l>
 </sp>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE, au Roi.</speaker>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>, au Roi.</hstage>
 <stage>AIR 65 : Voici les Dragons qui viennent.</stage>
 	<l id="336">Oh ! Sans peine à cette affaire</l>
 	<l id="337">Son cœur se résout !</l>
 </sp>
-<sp who="LA PRINCESSE"><speaker>LA PRINCESSE.</speaker>
+<sp who="LA PRINCESSE"><hstage><speaker>LA PRINCESSE</speaker>.</hstage>
 	<l id="338">J’y consens pour satisfaire</l>
 	<l id="339">Le grand Prophète et mon père.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="340">Et vous itou.</l>
 <stage>Bis.</stage>
 </sp>
-<sp who="LE ROI"><speaker>LE ROI.</speaker>
+<sp who="LE ROI"><hstage><speaker>LE ROI</speaker>.</hstage>
 <stage>AIR 3 : Bannissons d’ici l’humeur noire.</stage>
 	<l id="341">Que cette nuit on chante, on danse.</l>
 </sp>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE.</speaker>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>.</hstage>
 	<l id="342">Mahomet, dédaignerez-vous</l>
 	<l id="343">D’honorer de votre présence</l>
 	<l id="344">L’hymen de ces jeunes époux ?</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 <stage>AIR 26 : Talarire.</stage>
 	<l id="345">Non, vraiment ; et je veux, Poulette</l>
 	<l id="346">Être sur terre ton mari.</l>
 </sp>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE.</speaker>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>.</hstage>
 	<l id="347">Que dites-vous, ô grand Prophète !</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="348">Tu me serviras de Houri.</l>
 </sp>
-<sp who="LA SUIVANTE"><speaker>LA SUIVANTE, lui passant la main sour la barbe.</speaker>
+<sp who="LA SUIVANTE"><hstage><speaker>LA SUIVANTE</speaker>, lui passant la main sour la barbe.</hstage>
 	<l id="349">Le grand Mahomet aime é rire.</l>
 </sp>
-<sp who="ARLEQUIN"><speaker>ARLEQUIN.</speaker>
+<sp who="ARLEQUIN"><hstage><speaker>ARLEQUIN</speaker>.</hstage>
 	<l id="350">Tarelire, talaleri, talalerire.</l>
 <stage>Une troupe d’esclaves et d’eunuques viennent former une danse qui finit
 la pièce.</stage>

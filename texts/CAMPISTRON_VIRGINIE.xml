@@ -65,8 +65,8 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Appius, Clodius, Pison.</head>
-<sp who="CLODIUS"><speaker>CLODIUS</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Appius, Clodius, Pison.</cast>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker></hstage>
 	<l id="1">De ma témérité Rome entière surprise,</l>
 	<l id="2">Demande les raisons d’une telle entreprise,</l>
 	<l id="3">Le Peuple compatit à la juste douleur</l>
@@ -75,15 +75,15 @@
 	<l id="6">Des droits qui m’ont permis d’enlever Virginie.</l>
 	<l id="7">Qu’ils apprennent, Seigneur, et sans plus différer...</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="8" part="i">Hélas !</l>
 </sp>
-<sp who="CLODIUS"><speaker>CLODIUS</speaker>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker></hstage>
 	<l id="8" part="f">Qui peut encor vous faire soupirer ?</l>
 	<l id="9">Quel injuste chagrin et vous trouble et vous gêne ?</l>
 	<l id="10" part="i">Que craignez-vous ?</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="10" part="f">Je crains l’aspect d’une inhumaine.</l>
 	<l id="11">Je crains de nos projets le succès dangereux ;</l>
 	<l id="12">Que puis-je attendre enfin d’un amour malheureux,</l>
@@ -108,7 +108,7 @@
 	<l id="31">Mais je tremble sur tout qu’un odieux Rival</l>
 	<l id="32">Au repos de mes jours ne soit encor fatal.</l>
 </sp>
-<sp who="CLODIUS"><speaker>CLODIUS</speaker>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker></hstage>
 	<l id="33">De mon zèle pour vous assuré dés l’enfance</l>
 	<l id="34">Vous m’avez honoré de votre confiance,</l>
 	<l id="35">Seigneur, et votre main par de nouveaux bienfaits</l>
@@ -160,7 +160,7 @@
 	<l id="81">Et suivant le destin de ceux qui l’ont fait naître,</l>
 	<l id="82">Hériter de leurs fers et m’accepter pour maître.</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="83">Différons un éclat mortel à son honneur,</l>
 	<l id="84">Seule encor de son sort elle sait la rigueur ;</l>
 	<l id="85">Peut-être se voyant au bord du précipice,</l>
@@ -169,12 +169,12 @@
 	<l id="88">Elle craint, il suffit, de tomber dans les fers,</l>
 	<l id="89">Elle frémit des maux d’un sort si déplorable.</l>
 </sp>
-<sp who="CLODIUS"><speaker>CLODIUS</speaker>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker></hstage>
 	<l id="90">Profitez donc, Seigneur, de ce temps favorable,</l>
 	<l id="91">Et donnant un cours libre à vos secrets soupirs,</l>
 	<l id="92">Courez à Virginie expliquer vos désirs.</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="93">Je me suis tu longtemps et veux me taire encore,</l>
 	<l id="94">Loin de faire éclater ce feu qui me dévore,</l>
 	<l id="95">Je dois plus que jamais le cacher en ce jour ;</l>
@@ -196,13 +196,13 @@
 	<l id="111">Que j’en rougisse seul, ou que ma honte au moins</l>
 	<l id="112">N’ait dans tous mes remords que tes yeux pour témoins.</l>
 </sp>
-<sp who="CLODIUS"><speaker>CLODIUS</speaker>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker></hstage>
 	<l id="113">Prenez garde, Seigneur, qu’une injuste contrainte</l>
 	<l id="114">Ne renverse à la fin tout le fruit de ma feinte,</l>
 	<l id="115">Vous nourrissez un feu prêt à vous consumer,</l>
 	<l id="116" part="i">Vous languirez toujours...</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="116" part="f">Cesse de t’alarmer.</l>
 	<l id="117">J’ai mes raisons ; je veux qu’une action si noire,</l>
 	<l id="118">Loin de finir ma vie en relève la gloire,</l>
@@ -221,7 +221,7 @@
 	<l id="131">Et l’on imputera par ce subtil détour,</l>
 	<l id="132">À la seule pitié les effets de l’amour.</l>
 </sp>
-<sp who="CLODIUS"><speaker>CLODIUS</speaker>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker></hstage>
 	<l id="133">Je me rends au dessein que l’amour vous suggère,</l>
 	<l id="134">De nôtre intelligence il couvre le mystère ;</l>
 	<l id="135">Mais il faudrait aussi pour ne rien négliger,</l>
@@ -229,7 +229,7 @@
 	<l id="137">Prévenez les transports d’un amant en furie,</l>
 	<l id="138">Prêt à tout hasarder pour sauver Virginie.</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="139">Eh c’est où je l’attends. J’ai su déjà prévoir</l>
 	<l id="140">Les effets de sa rage, et de son désespoir :</l>
 	<l id="141">Mais à nôtre dessein sa colère est utile,</l>
@@ -245,17 +245,17 @@
 	<l id="151">Et dés le moindre effort qu’il osera tenter,</l>
 	<l id="152">Sans bruit dans ce Palais je le fais arrêter.</l>
 </sp>
-<sp who="CLODIUS"><speaker>CLODIUS</speaker>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker></hstage>
 	<l id="153" part="i">Ah ! Je prévois...</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Appius, Clodius, Fabian, Pison.</head>
-<sp who="FABIAN"><speaker>FABIAN</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Appius, Clodius, Fabian, Pison.</cast>
+<sp who="FABIAN"><hstage><speaker>FABIAN</speaker></hstage>
 	<l id="153" part="f">Plautie, aux pleurs abandonnée,</l>
 	<l id="154">Seigneur, à vous attendre est toujours obstinée,</l>
 	<l id="155">Elle veut vous parler, et ses fréquents soupirs ...</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS à Fabian.</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker> à Fabian.</hstage>
 	<l id="156">Qu’elle entre cependant pour flatter ses désirs,</l>
 	<l id="157">Dans cet appartement conduisez Virginie,</l>
 	<l id="158">Allez, et dites-lui qu’elle y verra Plautie,</l>
@@ -263,19 +263,19 @@
 	<l id="159">Vous d’une mère en pleurs évitez les transports,</l>
 	<l id="160" part="i">Éloignez-vous.</l>
 </sp>
-<sp who="CLODIUS"><speaker>CLODIUS</speaker>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker></hstage>
 	<l id="160" part="f">Seigneur, c’est mon dessein. Je sors.</l>
 	<l id="161">Ma présence sans doute aigrirait sa colère.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Appius, Plautie, Fulvie, Pison.</head>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Appius, Plautie, Fulvie, Pison.</cast>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="162">Ah Seigneur, écoutez les douleurs d’une mère,</l>
 	<l id="163">Et puisqu’aprés deux jours d’un mortel désespoir</l>
 	<l id="164">Vous avez bien voulu consentir à me voir,</l>
 	<l id="165" part="i">Pourrai-je me flatter ?</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="165" part="f">Ne doutez point, Madame,</l>
 	<l id="166">Que je ne sois frappé du trouble de votre âme ;</l>
 	<l id="167">J’ai craint avec raison de vous voir en ces lieux,</l>
@@ -288,7 +288,7 @@
 	<l id="174">Enfin que vouliez-vous, Madame, que je fisse ?</l>
 	<l id="175">Chargé par tout l’état du pouvoir souverain...</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="176">Osez-vous vous parer d’un prétexte si vain ?</l>
 	<l id="177">Quoi ? Vous ordonne-t-il ce devoir téméraire</l>
 	<l id="178">D’enlever sans pitié Virginie à sa mère ?</l>
@@ -300,10 +300,10 @@
 	<l id="184">Viennent-ils la ravir au temple dans mes bras ?</l>
 	<l id="185" part="i">Pourquoi...</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="185" part="f">De son destin n’êtes-vous pas instruite ?</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="186">Hélas ! Dans ce Palais tout le monde m’évite,</l>
 	<l id="187">En vain depuis deux jours errante dans ces lieux</l>
 	<l id="188">Les pleurs que j’ai versez ont épuisé mes yeux,</l>
@@ -315,16 +315,16 @@
 	<l id="194">Se dérobent à moi, sans daigner me répondre,</l>
 	<l id="195" part="i">Par vos ordres cruels...</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="195" part="f">Cessez de m’accuser</l>
 	<l id="196">Et ne me forcez pas de vous désabuser,</l>
 	<l id="197" part="i">Quand je vous aurai dit...</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="197" part="f">Quoi ? Que pourrez-vous dire,</l>
 	<l id="198" part="i">Expliquez-vous.</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="198" part="f">Je sais qu’il faut vous en instruire ;</l>
 	<l id="199">Mais, Madame, je crains de redoubler vos pleurs.</l>
 	<l id="200">Je vais vous annoncer le plus grand des malheurs :</l>
@@ -333,10 +333,10 @@
 	<l id="203">Cette fille qui fit vos plaisirs les plus doux,</l>
 	<l id="204">Un autre vous l’enlève, elle n’est plus à vous.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="205" part="i">Dieux ! qu’entends-je ? comment ?</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="205" part="f">Ce n’est plus un mystère,</l>
 	<l id="206">Je suis de Virginie ici dépositaire ;</l>
 	<l id="207">Claudius sait enfin la noire trahison,</l>
@@ -351,7 +351,7 @@
 	<l id="216">Sont prêts de confirmer son funeste rapport,</l>
 	<l id="217">Cet étrange secret a droit de vous confondre.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="218">Je demeure stupide, et ne sais que répondre,</l>
 	<l id="219">D’un autre, Virginie, aurait reçu le jour !</l>
 	<l id="220">Non, non, elle est ma fille, et j’en crois mon amour,</l>
@@ -376,7 +376,7 @@
 	<l id="239">Pour qui j’ai pris enfin, tant de pénibles soins,</l>
 	<l id="240">Seigneur, dont vos yeux même ont été les témoins .</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="241">Madame, à vos désirs je voudrais satisfaire,</l>
 	<l id="242">Inexorable loi d’un devoir trop sévère</l>
 	<l id="243">Qui nous fait bien souvent condamner à regret</l>
@@ -392,21 +392,21 @@
 	<l id="253" part="i">Elle entre, je vous laisse.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Plautie, Virginie, Fulvie, Camille.</head>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Plautie, Virginie, Fulvie, Camille.</cast>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="253" part="f">Ah quel comble de joie !</l>
 	<l id="254">Madame, enfin le Ciel souffre que je vous vois,</l>
 	<l id="255">Quel plaisir de pouvoir en ces heureux moments,</l>
 	<l id="256">Oublier mes douleurs dans vos embrassements.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="257">Ma fille, ils seraient doux pour le cœur d’une mère ;</l>
 	<l id="258">Mais hélas ! ils ne font qu’augmenter ma misère,</l>
 	<l id="259">Une crainte mortelle en corrompt les douceurs,</l>
 	<l id="260">Tremble, frémis, entends le plus grand des malheurs,</l>
 	<l id="261" part="i">Le traître Clodius...</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="261" part="f">J’ai tout appris Madame.</l>
 	<l id="262">Si l’horreur de ce coup a pu frapper mon âme,</l>
 	<l id="263">Revenue à l’instant de ce trouble soudain,</l>
@@ -420,7 +420,7 @@
 	<l id="271">Le plus cruel trépas me semblera trop doux,</l>
 	<l id="272">Mourant avec le nom que j’ai reçu de vous.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="273">Non, non, je préviendrai ta funeste disgrâce,</l>
 	<l id="274">J’admire de ton cœur la généreuse audace,</l>
 	<l id="275">Le dessein de mourir pour conserver ton rang,</l>
@@ -445,19 +445,19 @@
 	<l id="294">Cette bouillante ardeur qui m’anime et m’enflamme,</l>
 	<l id="295" part="i">Adieu je cours...</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="295" part="f">Hélas ! vous me quittez si tôt,</l>
 	<l id="296" part="i">Madame...</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="296" part="f">J’en frémis, mais ma fille il le faut,</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="297">Est-ce trop peu de maux, dont je suis déchirée,</l>
 	<l id="298">Serai-je d’avec vous encore séparée !</l>
 	<l id="299">Après tant de soupirs, à peine je vous vois...</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="300">Crois-tu qu’à te quitter je souffre moins que toi,</l>
 	<l id="301">Quand à partir d’ici je me crois toute preste,</l>
 	<l id="302">Malgré tous mes efforts ma tendresse m’arrête,</l>
@@ -469,12 +469,12 @@
 	<l id="308">On m’attend, et j’y vole, adieu ma fille, adieu.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Virginie, Camille.</head>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Virginie, Camille.</cast>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="309">Camille connais-tu l’excès de ma misère,</l>
 	<l id="310" part="i">Quel triste sort !</l>
 </sp>
-<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+<sp who="CAMILLE"><hstage><speaker>CAMILLE</speaker></hstage>
 	<l id="310" part="f">Je crains bien moins que je n’espère,</l>
 	<l id="311">Les premiers des Romains se déclarent pour vous,</l>
 	<l id="312">Contre votre ennemi le Peuple est en courroux,</l>
@@ -484,7 +484,7 @@
 	<l id="316">Ne fera pas pour vous un inutile effort,</l>
 	<l id="317" part="i">Sans doute en ce moment...</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="317" part="f">Excuse ma faiblesse,</l>
 	<l id="318">Crois-tu qu’en ma faveur Icile s’intéresse ?</l>
 	<l id="319">Crois-tu qu’il me conserve une fidèle ardeur,</l>
@@ -501,8 +501,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Icile, Sévère.</head>
-<sp who="SEVERE"><speaker>SÉVÈRE</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Icile, Sévère.</cast>
+<sp who="SEVERE"><hstage><speaker>SÉVÈRE</speaker></hstage>
 	<l id="329">Oui, vous pouvez, Seigneur, aussi bien que Plautie,</l>
 	<l id="330">Entrer dans ce Palais, parler à Virginie,</l>
 	<l id="331">Vous ne vous plaindrez plus de l’injuste pouvoir,</l>
@@ -523,7 +523,7 @@
 	<l id="346">Puisse avilir ses vœux jusques dans l’esclavage,</l>
 	<l id="347">Qu’Icile jusques-là pût jamais s’abaisser.</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="348">Sévère que dis-tu ? Ciel ! Qu’oses-tu penser ?</l>
 	<l id="349">Crois-tu de Clodius la noire calomnie ?</l>
 	<l id="350">Mais quand les Dieux auraient fait naître Virginie,</l>
@@ -542,12 +542,12 @@
 	<l id="363">Je ferai hautement triompher en ce jour,</l>
 	<l id="364">La générosité, la constance, et l’amour.</l>
 </sp>
-<sp who="SEVERE"><speaker>SÉVÈRE</speaker>
+<sp who="SEVERE"><hstage><speaker>SÉVÈRE</speaker></hstage>
 	<l id="365">Dieux ! Qu’est-ce que j’entends ? Votre discours m’étonne,</l>
 	<l id="366">À quel fatal projet l’amour vous abandonne,</l>
 	<l id="367">Une fille sans nom, et qu’on va condamner...</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="368">Parce qu’on la trahit, dois-je l’abandonner ?</l>
 	<l id="369">Et ne lui faisant voir qu’une amitié commune,</l>
 	<l id="370">Régler ma passion au gré de la fortune :</l>
@@ -562,10 +562,10 @@
 	<l id="379">Ce qui dépend du sort est pour moi sans appas,</l>
 	<l id="380">Et j’aime les vertus qui n’en dépendent pas.</l>
 </sp>
-<sp who="SEVERE"><speaker>SÉVÈRE</speaker>
+<sp who="SEVERE"><hstage><speaker>SÉVÈRE</speaker></hstage>
 	<l id="381">Vous suivez trop, Seigneur, une aveugle tendresse.</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="382">Ah ! ne t’oppose plus à l’ardeur qui me presse ;</l>
 	<l id="383">Cependant Virginie est longtemps à venir,</l>
 	<l id="384">Quel obstacle nouveau pourrait la retenir ?</l>
@@ -577,8 +577,8 @@
 	<l id="390" part="i">Elle vient.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Icile, Virginie, Sévère, Camille.</head>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Icile, Virginie, Sévère, Camille.</cast>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="390" part="f">Le destin ne m’est plus si contraire,</l>
 	<l id="391">Madame, je vous vois, et je puis en ce jour,</l>
 	<l id="392">Faire encor à vos yeux éclater mon amour,</l>
@@ -595,7 +595,7 @@
 	<l id="403">Ma présence fait-elle au moins dans votre cœur,</l>
 	<l id="404" part="i">L’effet que votre vue...</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="404" part="f">Eh le puis je, Seigneur ?</l>
 	<l id="405">Puis-je de mes douleurs calmer la violence,</l>
 	<l id="406">Je les sens augmenter même en votre présence,</l>
@@ -606,13 +606,13 @@
 	<l id="411">Hélas ! J’en connais mieux la perte que je fais,</l>
 	<l id="412">Car enfin je vous perds, et vous perds pour jamais.</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="413">Ah ! Madame, éloignez cette injuste pensée,</l>
 	<l id="414">Par ce cruel discours ma flamme est offensée,</l>
 	<l id="415">Pourquoi perdre un espoir à notre amour si doux,</l>
 	<l id="416" part="i">Qui peut nous séparer ?</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="416" part="f">Hélas ! L’ignorez-vous ?</l>
 	<l id="417">C’est le funeste effort du destin qui me brave,</l>
 	<l id="418">Et si je sors du sang d’un malheureux esclave,</l>
@@ -643,24 +643,24 @@
 	<l id="443">Enfin pour m’accabler dans ce funeste jour,</l>
 	<l id="444">Je vois d’intelligence, et la gloire, et l’amour.</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="445">Ainsi vous renoncez à ce juste hyménée,</l>
 	<l id="446">Que deviendra la foi que vous m’avez donnée ?</l>
 	<l id="447">Lié par mes serments, et presque votre époux,</l>
 	<l id="448" part="i">N’aurai-je...</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="448" part="f">Cette foi n’est plus digne de vous.</l>
 	<l id="449" part="i">Le sort injurieux...</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="449" part="f">Eh bien que peut-il faire ?</l>
 	<l id="450">Son pouvoir ne peut rien contre un amour sincère.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="451">Penseriez-vous à moi dans cet état honteux.</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="452">Ah croyez-moi, Madame, un peu plus généreux,</l>
 	<l id="453">Rendez plus de justice à mon ardente flamme,</l>
 	<l id="454">Votre mérite seul l’alluma dans mon âme ;</l>
@@ -669,11 +669,11 @@
 	<l id="457">Que par tant de serments engagés l’un à l’autre,</l>
 	<l id="458" part="i">Les Dieux même ...</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="458" part="f">Ah ! Seigneur, quelle erreur est la vôtre,</l>
 	<l id="459">Lorsque vous me verrez dans un rang odieux...</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="460">J’aurai le même cœur, j’aurai les mêmes yeux,</l>
 	<l id="461">Vous conserverez tout ce que mon cœur adore,</l>
 	<l id="462">Vous aurez vos vertus ; et vous aurez encore,</l>
@@ -688,7 +688,7 @@
 	<l id="471">De finir vos malheurs, et de pouvoir enfin,</l>
 	<l id="472">Venger votre vertu des affronts du destin.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="473">Ah ! Seigneur, cet aveu rend mon âme charmée,</l>
 	<l id="474">Quel plaisir de me voir si tendrement aimée,</l>
 	<l id="475">Mais quand l’amour pour moi vous porte à vous trahir,</l>
@@ -698,7 +698,7 @@
 	<l id="479">Et refusant un bien que j’ai tant souhaité,</l>
 	<l id="480">Faire connaître au moins que je l’ai mérité.</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="481">Que ce noble discours pleinement justifie,</l>
 	<l id="482">Le véritable sang dont vous êtes sortie,</l>
 	<l id="483">Un cœur dans l’esclavage, et d’un vil sang formé,</l>
@@ -709,7 +709,7 @@
 	<l id="488">Et qui rend envers moi votre cœur criminel,</l>
 	<l id="489">Dieux ! Est-ce là m’aimer que m’ôter l’espérance ?</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="490">Eh qu’a-t-il ce discours, Seigneur, qui vous offense ?</l>
 	<l id="491">Croyez que ce refus marque mieux mon amour,</l>
 	<l id="492">Que tout ce que j’ai fait jusqu’à ce triste jour,</l>
@@ -717,38 +717,38 @@
 	<l id="494">Par ce coup généreux  je ne sois accablée,</l>
 	<l id="495">J’en frémis par avance, et jugez par mes pleurs...</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="496">Madame, par pitié cachez-moi vos douleurs,</l>
 	<l id="497">C’est trop de mes ennuis, et de votre tristesse,</l>
 	<l id="498">Mais je la finirai, croyez-en ma promesse,</l>
 	<l id="499">Je perdrai vos tyrans, et quel que soit leur rang,</l>
 	<l id="500">Ces pleurs que vous versez leur coûteront du sang.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="501" part="i">Ah ! Seigneur arrêtez, où courez vous ?</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="501" part="f">Madame,</l>
 	<l id="502">Ne vous opposez point à l’ardeur qui m’enflamme,</l>
 	<l id="503">Il faut que l’insolent qui vous ose insulter,</l>
 	<l id="504">Apprenne désormais à vous mieux respecter.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="505" part="i">Mais comment ?</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="505" part="f">C’est à moi de venger votre injure,</l>
 	<l id="506">C’est à moi de convaincre, et punir l’imposture,</l>
 	<l id="507" part="i">J’y cours, adieu, Madame.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Virginie, Camille.</head>
-<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Virginie, Camille.</cast>
+<sp who="CAMILLE"><hstage><speaker>CAMILLE</speaker></hstage>
 	<l id="507" part="f">Il court vous secourir,</l>
 	<l id="508">Les Dieux se sont lassez de vous voir tant souffrir.</l>
 	<l id="509">Madame, espérez tout du courage d’Icile.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="510">Ah ? Que me fais-tu voir, et qu’ai-je fait Camille,</l>
 	<l id="511">Dieux ! Devais-je d’Icile accepter le secours,</l>
 	<l id="512">Pour mes seuls intérêts j’ai hasardé ses jours,</l>
@@ -765,8 +765,8 @@
 	<l id="523" part="i">Ne nous contraignons plus, le voici.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Appius, Virginie, Camille.</head>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Appius, Virginie, Camille.</cast>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="523" part="f">Quoi, Seigneur,</l>
 	<l id="524">Ne calmerez-vous pas le trouble de mon cœur,</l>
 	<l id="525">Rendez-vous aux soupirs que je vous fais entendre,</l>
@@ -774,7 +774,7 @@
 	<l id="527">Et n’obtiendrai-je point un utile secours,</l>
 	<l id="528">Qui des fers que je crains sauve mes tristes jours.</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="529">Hélas n’en doutez point votre disgrâce extrême,</l>
 	<l id="530">Plus que vous ne pensez me déchire moi-même,</l>
 	<l id="531">Et pour porter mon âme à finir vos malheurs,</l>
@@ -795,11 +795,11 @@
 	<l id="546">Plus je trouve à vos vœux la justice contraire,</l>
 	<l id="547">Témoins, indices, droit, tout parle contre nous.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="548">Eh vous me porterez de si funestes coups,</l>
 	<l id="549" part="i">Hélas ! Seigneur...</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="549" part="f">Mon âme est toujours incertaine,</l>
 	<l id="550">La pitié me retient quand le devoir m’entraîne,</l>
 	<l id="551">Sur tout tant de vertus, tant de charmes divers,</l>
@@ -809,23 +809,23 @@
 	<l id="555">Auquel des deux partis que je donne ma voix,</l>
 	<l id="556">J’offense vos vertus, ou j’offense les lois.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="557">Hélas ! Pour me sauver, n’est-il aucune voie ?</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="558">Madame, ouvrez la moi, j’y souscris avec joie,</l>
 	<l id="559">Parlez, si je le puis sans blesser mon devoir,</l>
 	<l id="560">Je ferai pour vous plaire agir tout mon pouvoir,</l>
 	<l id="561">Inventez un moyen, ma puissance suprême,</l>
 	<l id="562" part="i">Va tenter...</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="562" part="f">Ah ! Seigneur, inventez le vous même ;</l>
 	<l id="563">Que je vous doive tout faites un noble effort,</l>
 	<l id="564">Je remets en vos mains tout le soin de mon sort :</l>
 	<l id="565">Hâtez-vous, rassurez mon âme impatiente.</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="566">Hé l’accepterez-vous, si je vous le présente ?</l>
 	<l id="567">Si vous voulez sortir de cet affreux danger,</l>
 	<l id="568">Je ne vois qu’un chemin pour vous en dégager,</l>
@@ -835,14 +835,14 @@
 	<l id="572">Que mon dessein, Madame, est juste et glorieux,</l>
 	<l id="573">Et que si vos refus le rendent inutile...</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="574">Pour éviter les fers tout me sera facile :</l>
 	<l id="575">Pourquoi balancez-vous à me le proposer,</l>
 	<l id="576">En ce funeste état puis-je rien refuser ?</l>
 	<l id="577">Ne me le cachez plus, si la pitié vous touche,</l>
 	<l id="578" part="i">Par où puis-je ?</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="578" part="f">Il ne faut qu’un mot de votre bouche :</l>
 	<l id="579">Oui, dés ce même jour vous briserez vos fers,</l>
 	<l id="580">Vous-même finirez tous vos malheurs divers,</l>
@@ -850,10 +850,10 @@
 	<l id="582">Qu’aux premières de Rome il pourra faire envie,</l>
 	<l id="583" part="i">Si vous voulez...</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="583" part="m">Et quoi ?</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="583" part="f">Me prendre pour époux,</l>
 	<l id="584">Et par des nœuds sacrez m’attacher tout à vous,</l>
 	<l id="585">Venez, allons au Temple, et que mon hyménée,</l>
@@ -865,7 +865,7 @@
 	<l id="591">Et prendre sur ses jours à couvert de ses coups,</l>
 	<l id="592">La même autorité qu’il veut avoir sur vous.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="593">Qu’entends-je juste Ciel ! Et le pourrai-je croire,</l>
 	<l id="594">Que de soupçons, Seigneur, mortels à votre gloire,</l>
 	<l id="595">Je vois enfin, je vois la cause de mes pleurs,</l>
@@ -874,30 +874,30 @@
 	<l id="598">C’est un bras plus puissant qui soutient son audace,</l>
 	<l id="599" part="i">Seigneur, vous m’entendez.</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="599" part="f">Ah ! que soupçonnez-vous ?</l>
 	<l id="600">Au moment que ma main vous dérobe à ses coups</l>
 	<l id="601" part="i">Que pensez-vous de moi.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="601" part="f">Ce qu’il fallait vous-même,</l>
 	<l id="602">Me déguiser toujours avec un soin extrême,</l>
 	<l id="603">Mais c’est pousser trop loin ce funeste entretien,</l>
 	<l id="604">Faites votre devoir, et je ferai le mien.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Appius, Clodius.</head>
-<sp who="CLODIUS"><speaker>CLODIUS</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Appius, Clodius.</cast>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker></hstage>
 	<l id="605">Qu’avez-vous fait, Seigneur, et que faut-il attendre.</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="606">Ah ! l’ingrate à mes vœux refuse de se rendre.</l>
 </sp>
-<sp who="CLODIUS"><speaker>CLODIUS</speaker>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker></hstage>
 	<l id="607">Quoi, Seigneur, votre rang, vos soins, votre grandeur,</l>
 	<l id="608">L’offre de votre main n’ont pu toucher son cœur.</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="609">Si la seule grandeur satisfaisait une âme,</l>
 	<l id="610">Hélas ! Serais-je en proie à ma cruelle flamme,</l>
 	<l id="611">Inutile puissance ! Importune grandeur,</l>
@@ -907,7 +907,7 @@
 	<l id="615">Je me vois dédaigner, et mon amour confus,</l>
 	<l id="616">Remporte seulement la honte d’un refus.</l>
 </sp>
-<sp who="CLODIUS"><speaker>CLODIUS</speaker>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker></hstage>
 	<l id="617">D’un discours imprévu, Virginie alarmée,</l>
 	<l id="618">A suivi le penchant de son âme enflammée,</l>
 	<l id="619">Mais ne vous troublez point de ce premier transport,</l>
@@ -927,7 +927,7 @@
 	<l id="633">Et l’arrachant par force à cette erreur qu’elle aime,</l>
 	<l id="634">Établir son bonheur en dépit d’elle-même.</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="635">Je te dois tout, suivons ce conseil important,</l>
 	<l id="636">Il détermine un cœur, irrésolu, flottant ;</l>
 	<l id="637">Ne nous contraignons plus par ce vain artifice,</l>
@@ -944,8 +944,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Plautie, Fulvie.</head>
-<sp who="FULVIE"><speaker>FULVIE</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Plautie, Fulvie.</cast>
+<sp who="FULVIE"><hstage><speaker>FULVIE</speaker></hstage>
 	<l id="647">Madame, où courez-vous, vous verrai-je toujours,</l>
 	<l id="648">D’une douleur mortelle entretenir le cours ?</l>
 	<l id="649">Sourde à tous nos conseils, désespérée, errante,</l>
@@ -958,7 +958,7 @@
 	<l id="656">Vous avez seulement répondu par des pleurs,</l>
 	<l id="657" part="i">Leurs soins officieux...</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="657" part="f">Eh que puis-je répondre,</l>
 	<l id="658">Leurs discours et leurs soins ne font que me confondre,</l>
 	<l id="659">Pour flatter ma disgrâce, ils m’en viennent parler,</l>
@@ -984,10 +984,10 @@
 	<l id="679">Quoi que je fasse enfin pour charmer mes ennuis,</l>
 	<l id="680">Je rencontre par tout les horreurs que je fuis.</l>
 </sp>
-<sp who="FULVIE"><speaker>FULVIE</speaker>
+<sp who="FULVIE"><hstage><speaker>FULVIE</speaker></hstage>
 	<l id="681" part="i">Mais Madame souffrez...</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="681" part="f">J’ai tout perdu Fulvie,</l>
 	<l id="682">Et ne puis que traîner une importune vie,</l>
 	<l id="683">Tandis que Virginie a lieu d’appréhender,</l>
@@ -1005,8 +1005,8 @@
 	<l id="695" part="i">Il lui parle en secret... J’en frémis...</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Appius, Plautie, Claudius, Fulvie, Fabian, Pison.</head>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Appius, Plautie, Claudius, Fulvie, Fabian, Pison.</cast>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="695" part="f">Ah ! Seigneur,</l>
 	<l id="696">Écoutez-vous encor la voix d’un imposteur,</l>
 	<l id="697">Que dit-il ? Ose-t-il comblant sa perfidie,</l>
@@ -1030,7 +1030,7 @@
 	<l id="715">Ma parole se perd... Je cède à mes douleurs...</l>
 	<l id="716">Hélas... je ne vous puis parler que par mes pleurs.</l>
 </sp>
-<sp who="CLODIUS"><speaker>CLODIUS</speaker>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker></hstage>
 	<l id="717">J’ose encor me flatter malgré tant d’artifice,</l>
 	<l id="718">Que vous suivrez, Seigneur, la sévère Justice,</l>
 	<l id="719">Je ne vous dis plus rien pour soutenir mes droits,</l>
@@ -1041,7 +1041,7 @@
 	<l id="724">Cache sous ce prétexte un dessein criminel,</l>
 	<l id="725" part="i">Ne différez donc plus... Venez...</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE, à Claudius.</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker>, à Claudius.</hstage>
 	<l id="725" part="f">Tais-toi parjure,</l>
 	<l id="726">N’ajoute point encor l’outrage à l’imposture,</l>
 <stage>À Appius.</stage>
@@ -1052,13 +1052,13 @@
 	<l id="731">Vous me verrez sans doute expirer en ces lieux,</l>
 	<l id="732">Si plus longtemps ce traître est présent à mes yeux.</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="733">Oui, Madame, je vais soulager votre peine,</l>
 <stage>À Clodius.</stage>
 	<l id="734">Sortez. Retirez-vous dans la chambre prochaine,</l>
 	<l id="735">Je saurai prononcer lorsqu’il en sera temps.</l>
 </sp>
-<sp who="CLODIUS"><speaker>CLODIUS</speaker>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker></hstage>
 	<l id="736">Vous différez encor, Seigneur, je vous entends,</l>
 	<l id="737">Vous n’osez de Plautie augmenter la misère,</l>
 	<l id="738">Mais un Chef des Romains doit être plus sévère,</l>
@@ -1072,8 +1072,8 @@
 	<l id="746">Si je demande ailleurs le bien qu’on me refuse.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Appius, Plautie, Fabian, Pison.</head>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Appius, Plautie, Fabian, Pison.</cast>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="747">Vous le voyez, Madame, il va chercher ailleurs,</l>
 	<l id="748">L’inévitable arrêt qui comble vos malheurs,</l>
 	<l id="749">J’ai craint de prononcer cet arrêt si funeste,</l>
@@ -1081,7 +1081,7 @@
 	<l id="751">Qu’une autre main au moins vous portera les coups,</l>
 	<l id="752">Dont mon cœur alarmé frémit déjà pour vous.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="753">Eh quoi votre pitié sera-t-elle inutile,</l>
 	<l id="754">Ne peut-elle, à mon sang assurer un asile,</l>
 	<l id="755">Ne peut-elle, Seigneur, détourner loin de moi,</l>
@@ -1107,7 +1107,7 @@
 	<l id="775">Que la forte nature a pris soin de graver,</l>
 	<l id="776">Et dont même les Dieux ne sauraient le priver.</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="777">Modérez les terreurs de votre âme craintive,</l>
 	<l id="778">Puisque vous le voulez j’attendrai qu’il arrive,</l>
 	<l id="779">Madame, mais enfin que fera votre époux,</l>
@@ -1121,7 +1121,7 @@
 	<l id="787">Et préféré les fers qui menacent ses jours,</l>
 	<l id="788">À la nécessité d’accepter mon secours.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="789">Que dites vous, Seigneur, l’ingrate Virginie,</l>
 	<l id="790">Refuse le secours qui la rend à Plautie ?</l>
 	<l id="791">Et sans égard pour vous, sans tendresse pour moi,</l>
@@ -1131,21 +1131,21 @@
 	<l id="795">Mais ne puis je savoir ce dessein glorieux,</l>
 	<l id="796">En faveur de ma fille inspiré par les Dieux.</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="797">Je la vois qui paraît, elle peut vous l’apprendre,</l>
 	<l id="798">Mais songez que des fers rien ne la peut défendre,</l>
 	<l id="799">Si toujours obstinée en son premier dessein,</l>
 	<l id="800">Elle fuit les bienfaits qui partent de ma main.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Plautie, Virginie, Fulvie.</head>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Plautie, Virginie, Fulvie.</cast>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="801">Qui pourra m’expliquer ce trouble et ce silence,</l>
 	<l id="802">Du discours d’Appius, que faut-il que je pense,</l>
 	<l id="803">Ma fille, devais-tu refuser le secours,</l>
 	<l id="804">Qui te rend à Plautie, et rassure tes jours.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="805">Ah ! Quand vous le saurez ce secours si funeste,</l>
 	<l id="806">Vous le détesterez comme je le déteste,</l>
 	<l id="807">Dieux ! À quel prix cruel, à quelle extrémité,</l>
@@ -1153,23 +1153,23 @@
 	<l id="809">Dure, dure toujours le malheur qui me presse,</l>
 	<l id="810">Si je n’en puis sortir que par cette bassesse.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="811">Comment. Que prétend il ? Quel injuste dessein ?</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="812">Me forcer malgré moi de lui donner la main,</l>
 	<l id="813">Il n’a pu me cacher sa tyrannique flamme,</l>
 	<l id="814">Ses yeux et ses discours m’ont découvert son âme.</l>
 	<l id="815">Que vous dirai-je enfin, vos craintes, mon malheur,</l>
 	<l id="816">Sont les tristes effets de sa coupable ardeur.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="817">Ô coup ! Ô trahison à jamais inouïe,</l>
 	<l id="818">Peut-on jusqu’à ce point pousser la perfidie.</l>
 	<l id="819">Ô Ciel ! As-tu permis que le cœur d’un Romain,</l>
 	<l id="820">Ait osé concevoir cet horrible dessein.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="821">Hélas ! dans quel état le tyran m’a laissée,</l>
 	<l id="822">Le plus sensible effort de ma douleur passée,</l>
 	<l id="823">Tout ce que j’ai souffert ne saurait égaler,</l>
@@ -1185,8 +1185,8 @@
 	<l id="833" part="i">Il va...</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Icile, Plautie, Virginie, Fulvie, Camille, Sévère.</head>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Icile, Plautie, Virginie, Fulvie, Camille, Sévère.</cast>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="833" part="f">Consolez-vous et retenez vos larmes,</l>
 	<l id="834">Madame je sais tout, et conçois vos alarmes,</l>
 	<l id="835">Mais les gémissements sont ici superflus,</l>
@@ -1199,13 +1199,13 @@
 	<l id="842">Moi seul je percerai le cœur de ce perfide,</l>
 	<l id="843">Attendez cet effort de ma juste fureur.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="844">Ô Ciel ! Quel doux espoir je sens naître en mon cœur,</l>
 	<l id="845">Vous allez immoler la main qui nous outrage,</l>
 	<l id="846">Mais Dieux ! En quel dessein votre amour vous engage,</l>
 	<l id="847">Vous vous flattez en vain de pouvoir l’accabler.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="848">Cessez, Seigneur, cessez de nous faire trembler,</l>
 	<l id="849">De ce fatal projet vous seriez la victime,</l>
 	<l id="850">Et quand vous perdriez le tyran qui m’opprime,</l>
@@ -1218,7 +1218,7 @@
 	<l id="857">Et présenter enfin à mon âme étonnée</l>
 	<l id="858">Votre mort, et les fers où je suis destinée.</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="859">Ne vous alarmez point, craignez moins leur pouvoir,</l>
 	<l id="860">Madame, j’ai prévu tout ce qu’il faut prévoir,</l>
 	<l id="861">Perdre un de nos Tyrans sans accabler les autres,</l>
@@ -1282,7 +1282,7 @@
 	<l id="919">Et s’il faut succomber dans un si noble effort,</l>
 	<l id="920">Où pourrais-je trouver une si belle mort ?</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="921">Je n’ose condamner l’ardeur qui vous entraîne,</l>
 	<l id="922">Je vous aime, et je crains, mais j’ai l’âme Romaine,</l>
 	<l id="923">L’intérêt du pays doit ici prévaloir :</l>
@@ -1304,10 +1304,10 @@
 	<l id="939">Et moi n’en doutez point à votre heureux retour,</l>
 	<l id="940">Je prends sur moi le soin de couronner l’amour.</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="941" part="i">Ah ! Souffrez...</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="941" part="f">Mais hélas ! Que je suis insensée,</l>
 	<l id="942">Je me laisse séduire à ma douce pensée ;</l>
 	<l id="943">Peut-être que le sort nous menace tous deux,</l>
@@ -1318,23 +1318,23 @@
 	<l id="948">Dans le vôtre aussitôt se verra confondu,</l>
 	<l id="949" part="i">Que mon bras...</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="949" part="f">Éloignez cette funeste image,</l>
 	<l id="950">J’accepte seulement votre premier présage.</l>
 	<l id="951">J’espère qu’aujourd’hui, content, victorieux,</l>
 	<l id="952">Madame, je viendrai vous tirer de ces lieux,</l>
 	<l id="953" part="i">Adieu.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="953" part="f">Je vous suivrai, Seigneur, et mon courage,</l>
 	<l id="954">Veut avoir quelque part dans ce fameux ouvrage.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Plautie, Virginie, Fulvie, Camille.</head>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Plautie, Virginie, Fulvie, Camille.</cast>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="955" part="i">Quoi vous voulez vous-même...</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="955" part="f">Oui, je veux que mes cris,</l>
 	<l id="956">Réveillent la vertu des Romains assoupis,</l>
 	<l id="957">Je veux leur inspirer les transports de mon âme,</l>
@@ -1352,14 +1352,14 @@
 	<l id="969">Notre famille seule assurant sa mémoire,</l>
 	<l id="970">D’un Empire si saint faire toute la gloire.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="971">Je conçois la grandeur d’un si noble dessein,</l>
 	<l id="972">Mais hélas ! Que je crains qu’on ne le tente en vain,</l>
 	<l id="973" part="i">Je crains...</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Plautie, Camille, Fulvie, Sévère.</head>
-<sp who="SEVERE"><speaker>SÉVÈRE</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Plautie, Camille, Fulvie, Sévère.</cast>
+<sp who="SEVERE"><hstage><speaker>SÉVÈRE</speaker></hstage>
 	<l id="973" part="f">N’attendez plus un secours inutile,</l>
 	<l id="974">Madame, c’en est fait, on nous enlève Icile ;</l>
 	<l id="975">Un traître qu’il croyait ferme en ses intérêts,</l>
@@ -1369,10 +1369,10 @@
 	<l id="979">De sa juste colère on prévient les effets,</l>
 	<l id="980">On le vient d’arrêter en sortant du Palais.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="981" part="i">Ô Ciel !</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="981" part="f">Cruel destin ! Quelle persévérance ?</l>
 	<l id="982">Puis-je après un tel coup avoir quelque espérance ?</l>
 	<l id="983">Vous le voyez, Madame, il n’est plus de secours,</l>
@@ -1381,7 +1381,7 @@
 	<l id="986">Il nous prive à la fois de l’Amant et du père ;</l>
 	<l id="987">C’en est fait, je me livre à mon seul désespoir.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="988">Ah ! Prends sur toi ma fille un peu plus de pouvoir,</l>
 	<l id="989">Mourir lorsque le sort rend la vie importune,</l>
 	<l id="990">C’est l’ordinaire effet d’une vertu commune :</l>
@@ -1392,7 +1392,7 @@
 	<l id="995">Que te dirai-je, enfin, tu dois par ces efforts,</l>
 	<l id="996">Me prouver qu’en effet c’est de moi que tu sors.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="997">Qu’exigez-vous de moi ? Pourquoi vouloir Madame,</l>
 	<l id="998">Faire durer les maux qui déchirent mon âme,</l>
 	<l id="999">La mort les eût finis : loin de vous alarmer,</l>
@@ -1402,7 +1402,7 @@
 	<l id="1003">Hélas ! Pour me tirer du gouffre où je me vois,</l>
 	<l id="1004">Quelles mains ! Quels amis voudront s’armer pour moi.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="1005">Tout les Romains, ta cause est la cause commune,</l>
 	<l id="1006">Il s’agit de leur sort comme de ta fortune,</l>
 	<l id="1007">Le perfide Appius a commencé par nous,</l>
@@ -1416,7 +1416,7 @@
 	<l id="1015">Je vais tout animer contre Appius, enfin,</l>
 	<l id="1016">Je cours périr moi-même, ou changer ton destin.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="1017">Secondez dieux puissants ce désir légitime,</l>
 	<l id="1018">Que si pour vous fléchir il faut une victime,</l>
 	<l id="1019">Frappez me voilà preste, et par un prompt effort,</l>
@@ -1425,8 +1425,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Appius, Clodius.</head>
-<sp who="CLODIUS"><speaker>CLODIUS</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Appius, Clodius.</cast>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker></hstage>
 	<l id="1021">Oui ce Rival heureux par la fin de sa vie,</l>
 	<l id="1022">Bientôt à vos transports livrera Virginie,</l>
 	<l id="1023">Que tardez-vous, Seigneur, à le faire périr ?</l>
@@ -1434,14 +1434,14 @@
 	<l id="1025">Craignez-vous par sa mort de vous charger d’un crime,</l>
 	<l id="1026" part="i">Croyez-vous...</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="1026" part="f">Non, je crois sa peine légitime,</l>
 	<l id="1027">N’a-t-il pas hautement par un lâche attentat,</l>
 	<l id="1028">Assemblé ses amis, voulu troubler l’État,</l>
 	<l id="1029">Sa perte en ce moment est juste et nécessaire,</l>
 	<l id="1030" part="i">Mais Virginie...</l>
 </sp>
-<sp who="CLODIUS"><speaker>CLODIUS</speaker>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker></hstage>
 	<l id="1030" part="f">Eh bien craignez-vous sa colère,</l>
 	<l id="1031">Détrompez-vous, Seigneur, peut-être qu’aujourd’hui,</l>
 	<l id="1032">Elle attend un prétexte à renoncer à lui ;</l>
@@ -1456,7 +1456,7 @@
 	<l id="1041">Et qui pour se donner n’attend plus rien peut-être,</l>
 	<l id="1042">Que l’éclat d’un amour qui doit parler en maître.</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="1043">Quelle honte pour moi, s’il faut que mon amour,</l>
 	<l id="1044">Pour vaincre mon Rival lui ravisse le jour ;</l>
 	<l id="1045">Quel triomphe pour lui, quelle gloire immortelle,</l>
@@ -1464,10 +1464,10 @@
 	<l id="1047">D’avoir gardé son cœur, enfin d’avoir vaincu,</l>
 	<l id="1048">Ma grandeur, et mes feux tant qu’il aura vécu.</l>
 </sp>
-<sp who="CLODIUS"><speaker>CLODIUS</speaker>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker></hstage>
 	<l id="1049">Et qu’importe, Seigneur, quel scrupule vous presse.</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="1050">J’aime pour mon malheur avec trop de tendresse,</l>
 	<l id="1051">Enfin de mon Rival je me vengerai mieux,</l>
 	<l id="1052">Si je puis épouser Virginie à ses yeux :</l>
@@ -1495,8 +1495,8 @@
 	<l id="1074">Virginie entre, il faut m’expliquer avec elle.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Appius, Virginie, Camille.</head>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Appius, Virginie, Camille.</cast>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="1075">Madame, il faut enfin vous découvrir mon cœur,</l>
 	<l id="1076">Il faut de mon amour vous déclarer l’ardeur,</l>
 	<l id="1077">En ce moment fatal je ne saurais plus feindre,</l>
@@ -1509,7 +1509,7 @@
 	<l id="1084">Que je ne perdrai pas toute ma gloire en vain,</l>
 	<l id="1085" part="i">Songez...</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="1085" part="f">Vous m’aimez donc, Seigneur, et votre flamme</l>
 	<l id="1086">Par d’illustres effets se déclare à mon âme.</l>
 	<l id="1087">Barbare, de quel front m’osez-vous présenter</l>
@@ -1523,7 +1523,7 @@
 	<l id="1095">D’un si funeste hymen voulût former les nœuds,</l>
 	<l id="1096">Et joindre l’innocence à vos crimes affreux.</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="1097">Ah cruelle ! Est-ce à vous de parler de mes crimes,</l>
 	<l id="1098">Leur seule cause hélas ! Les rend trop légitimes,</l>
 	<l id="1099">Est-ce à vous de montrer à mon cœur abattu,</l>
@@ -1545,14 +1545,14 @@
 	<l id="1115">Cet Icile l’objet de vos ardents souhaits,</l>
 	<l id="1116" part="i">Me défend...</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="1116" part="f">Oui je l’aime autant que je vous hais.</l>
 	<l id="1117">Vous me tyrannisez, il m’a toujours servie,</l>
 	<l id="1118">Il fait tout le bonheur, vous l’horreur de ma vie :</l>
 	<l id="1119">Et je voyais enfin dans cet illustre époux,</l>
 	<l id="1120">Encor plus de vertus que de crimes en vous.</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="1121">On conserve sans peine une entière innocence,</l>
 	<l id="1122">Quand un bonheur constant, prévient notre espérance,</l>
 	<l id="1123">Icile satisfait dans ses vœux les plus doux,</l>
@@ -1569,7 +1569,7 @@
 	<l id="1134">Qui pourrait... mais songez à répondre à ma flamme,</l>
 	<l id="1135" part="i">Autrement malgré moi...</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="1135" part="f">Favorable retour,</l>
 	<l id="1136">Votre courroux me plaît bien plus que votre amour,</l>
 	<l id="1137">Menacez, accablez l’impuissante innocence,</l>
@@ -1577,7 +1577,7 @@
 	<l id="1139">Je préfère mes maux à d’injustes bienfaits,</l>
 	<l id="1140">Armez votre fureur, j’en brave les effets.</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="1141">Hé bien, pour me venger de votre ingratitude,</l>
 	<l id="1142">Vos malheurs ne sont pas un supplice assez rude,</l>
 	<l id="1143">Et je veux désormais vous porter d’autres coups,</l>
@@ -1591,16 +1591,16 @@
 	<l id="1151">Pour goûter à la fois le plaisir sans égal,</l>
 	<l id="1152">De punir vos dédains, et de perdre un rival.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="1153" part="i">Hélas Seigneur...</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="1153" part="f">Pour vous la menace est terrible,</l>
 	<l id="1154">Je vous frappe à la fin par votre endroit sensible,</l>
 	<l id="1155">Mais ne m’accusez point, c’est vous qui l’ordonnez</l>
 	<l id="1156">Et c’est par vos mépris que vous l’assassinez.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="1157">Il mourra donc, Seigneur, et c’est moi qui l’opprime,</l>
 	<l id="1158">N’importe, je suivrai cette chère victime,</l>
 	<l id="1159">Et par ce grand effet d’une immortelle foi,</l>
@@ -1610,7 +1610,7 @@
 	<l id="1163">Et j’aurai ce plaisir parmi tous mes malheurs,</l>
 	<l id="1164">Que la mort d’un rival vous coûtera des pleurs .</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="1165">Madame, prévenons un malheur si funeste,</l>
 	<l id="1166">Du temps que je vous donne employez mieux le reste,</l>
 	<l id="1167">Icile en ce moment va paraître à vos yeux,</l>
@@ -1618,8 +1618,8 @@
 	<l id="1169" part="i">Il vient.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Appius, Icile, Virginie, Camille, Pison, gardes.</head>
-<sp who="APPIUS"><speaker>APPIUS, à Icile.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Appius, Icile, Virginie, Camille, Pison, gardes.</cast>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker>, à Icile.</hstage>
 	<l id="1169" part="f">Dérobez vous au coup qui vous menace,</l>
 	<l id="1170">Icile, par vos soins méritez votre grâce ;</l>
 <stage>À Virginie.</stage>
@@ -1628,8 +1628,8 @@
 	<l id="1173">Je sors pour un moment ; Gardes qu’on se retire :</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Icile, Virginie, Camille.</head>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Icile, Virginie, Camille.</cast>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="1174">Vous avez entendu ce qu’il vient de nous dire,</l>
 	<l id="1175">Cessons de nous flatter, voici le jour affreux,</l>
 	<l id="1176">Où l’on va pour jamais nous séparer tous deux,</l>
@@ -1638,7 +1638,7 @@
 	<l id="1179">Et vous n’ignorez pas à quel funeste prix,</l>
 	<l id="1180">Ce dernier entretien vient de m’être permis.</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="1181">Je sais que contre moi on met tout en usage,</l>
 	<l id="1182">Même pour essayer d’ébranler mon courage,</l>
 	<l id="1183">On a fait en passant étaler à mes yeux,</l>
@@ -1665,7 +1665,7 @@
 	<l id="1204">La fureur d’un Rival tout puissant et jaloux.</l>
 	<l id="1205" part="i">Sauvez-vous...</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="1205" part="f">Arrêtez, en ce malheur extrême,</l>
 	<l id="1206">Je prétends désormais me conseiller moi-même ;</l>
 	<l id="1207">Je vois ce qu’il faut faire et ne balance plus</l>
@@ -1673,18 +1673,18 @@
 	<l id="1209">Je sais par ou finir vos maux et ma misère,</l>
 	<l id="1210" part="i">Et dès ce même jour...</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="1210" part="f">Quoi ? Que voulez vous faire,</l>
 	<l id="1211">Par où prétendez vous nous pouvoir secourir ?</l>
 	<l id="1212" part="i">Qu’avez vous résolu, Madame ?</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="1212" part="f">De mourir.</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="1213" part="i">Ah Ciel !</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="1213" part="f">Le sort nous force à périr l’un et l’autre,</l>
 	<l id="1214">Mais souffrez que ma mort précède au moins la vôtre ;</l>
 	<l id="1215">Je le veux, votre cœur ne doit point l’envier,</l>
@@ -1692,20 +1692,20 @@
 	<l id="1217">J’ai du courage assez pour m’immoler moi-même,</l>
 	<l id="1218">Et n’en ai point pour voir expirer ce que j’aime.</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="1219">Ah renoncez Madame à ce cruel dessein !</l>
 	<l id="1220" part="i">J’en frémis...</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="1220" part="f">Vous tremblez, et vous êtes Romain.</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="1221">Oui, je tremble sans doute, et je vous le confesse,</l>
 	<l id="1222">Mais mon cœur s’applaudit d’avoir cette faiblesse,</l>
 	<l id="1223">Je verrais vos beaux yeux se fermer pour jamais.</l>
 	<l id="1224" part="i">Ah plutôt...</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="1224" part="f">Le trépas fait mes plus doux souhaits,</l>
 	<l id="1225">Mourons, puisqu’il le faut généreux et fidèles,</l>
 	<l id="1226">Emportons au tombeau nos ardeurs mutuelles ;</l>
@@ -1716,7 +1716,7 @@
 	<l id="1231">Faisons que l’univers déplore notre mort,</l>
 	<l id="1232">Et forçons le tyran d’envier notre sort.</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="1233">Non, Madame, vivez... Mais le Tyran s’approche,</l>
 	<l id="1234">C’en est fait, de ma mort l’instant fatal est proche,</l>
 	<l id="1235">Le supplice m’attend au sortir de ce lieu,</l>
@@ -1726,32 +1726,32 @@
 	<l id="1239" part="i">De vouloir...</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Appius, Icile, Camille, Fabian, Pison, Gardes.</head>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Appius, Icile, Camille, Fabian, Pison, Gardes.</cast>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="1239" part="f">Quel succès aura votre entretien,</l>
 	<l id="1240" part="i">Qu’avez vous résolu, parlez, Icile.</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="1240" part="f">Rien.</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="1241">C’est donc là tout l’effet d’une telle entrevue,</l>
 	<l id="1242">C’est ainsi que pour moi vous l’avez résolue,</l>
 	<l id="1243">J’ai cru que par vos soins je recevrais sa foi.</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="1244">Je n’ai pas seulement daigné penser à toi,</l>
 	<l id="1245">Comment t’es tu flatté que pour sauver ma vie,</l>
 	<l id="1246">Je viendrais pour tes feux parler à Virginie ;</l>
 	<l id="1247">J’ai dû mieux employer un temps si précieux,</l>
 	<l id="1248">Qu’à servir d’un Tyran les desseins odieux.</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="1249">Ah perfide ! Ta mort, mais une mort cruelle,</l>
 	<l id="1250">Punira de ton cœur l’audace criminelle,</l>
 	<l id="1251" part="i">Rien ne te peut sauver, c’en est fait.</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="1251" part="f">Hâte-toi,</l>
 	<l id="1252">La mort n’a rien d’affreux ni de triste pour moi,</l>
 	<l id="1253">Mais que dis-je ? ma mort encor plus que ma vie,</l>
@@ -1759,13 +1759,13 @@
 	<l id="1255">Je mourrai plaint, heureux, et sans être trahi.</l>
 	<l id="1256">Tu vivras criminel, malheureux, et haï.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="1257">Cesse de te flatter, en vain ta tyrannie,</l>
 	<l id="1258">S’attache à séparer Icile, et Virginie,</l>
 	<l id="1259">En vain d’un feu si beau tu veux rompre le cours,</l>
 	<l id="1260">L’amour plus fort que toi nous rejoindra toujours.</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="1261">Oui, vous serez unis... mais c’est vous faire grâce,</l>
 	<l id="1262">Il faut bien autrement confondre votre audace,</l>
 	<l id="1263">Vous voulez m’irriter, un trépas éclatant,</l>
@@ -1781,29 +1781,29 @@
 <stage>Aux Gardes.</stage>
 	<l id="1273" part="i">Qu’on les ramène.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="1273" part="m">Adieu, Seigneur.</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="1273" part="f">Adieu, Madame.</l>
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="APPIUS"><speaker>APPIUS, seul.</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker>, seul.</hstage>
 	<l id="1274">C’en est fait, bannissons la pitié de mon âme,</l>
 	<l id="1275" part="i">Ne songeons qu’à venger le mépris...</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Appius, Clodius.</head>
-<sp who="CLODIUS"><speaker>CLODIUS</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Appius, Clodius.</cast>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker></hstage>
 	<l id="1275" part="f">Ah ! Seigneur.</l>
 	<l id="1276" part="i">Plautie...</l>
 
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="1276" part="m">Et bien.</l>
 </sp>
-<sp who="CLODIUS"><speaker>CLODIUS</speaker>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker></hstage>
 	<l id="1276" part="f">Craignez sa fatale douleur.</l>
 	<l id="1277">On la voit en tous lieux de Romaines suivie,</l>
 	<l id="1278">À tous nos Citoyens demander Virginie ;</l>
@@ -1827,26 +1827,26 @@
 	<l id="1296">Il faut dés ce moment la remettre en mes mains,</l>
 	<l id="1297">Attendant que ce bruit avec le temps s’efface...</l>
 </sp>
-<sp who="APPIUS"><speaker>APPIUS</speaker>
+<sp who="APPIUS"><hstage><speaker>APPIUS</speaker></hstage>
 	<l id="1298">Viens, suis-moi, nous verrons ce qu’il faut que je fasse .</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Plautie, Pison, Fulvie.</head>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Plautie, Pison, Fulvie.</cast>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="1299">Quoi l’on me traîne ici ? Quel injuste projet.</l>
 </sp>
-<sp who="PISON"><speaker>PISON</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker></hstage>
 	<l id="1300">Aux ordres d’Appius j’obéis à regret,</l>
 	<l id="1301" part="i">Madame, mais...</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="1301" part="f">Ô Dieux ! Quelle fureur l’anime,</l>
 	<l id="1302">C’en est fait, ce Tyran marche de crime en crime,</l>
 	<l id="1303">Il retient Virginie, et me fait arrêter.</l>
 </sp>
-<sp who="PISON"><speaker>PISON</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker></hstage>
 	<l id="1304">Madame à cet effort il a dû se porter,</l>
 	<l id="1305">Le soin de son salut l’a forcé d’y souscrire,</l>
 	<l id="1306">Il n’a pu s’en défendre, et j’oserai vous dire,</l>
@@ -1857,7 +1857,7 @@
 	<l id="1311">Les femmes à l’envi sur vos pas s’assembler,</l>
 	<l id="1312" part="i">Déjà...</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="1312" part="f">Quoi nos clameurs l’ont pu faire trembler,</l>
 	<l id="1313">Il craint notre douleur dont les plus fortes armes,</l>
 	<l id="1314">N’ont été que des vœux, des soupirs, et des larmes,</l>
@@ -1868,22 +1868,22 @@
 	<l id="1319">Sa rage va sans doute éclater contre moi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Plautie, Virginie, Fulvie, Camille.</head>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Plautie, Virginie, Fulvie, Camille.</cast>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="1320">Fuyons Camille. Ah Ciel ! Est-ce vous que je vois,</l>
 	<l id="1321">Madame, quel dessein ici vous a conduite.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="1322">Mais toi-même, quelle est la raison de ta fuite,</l>
 	<l id="1323">Qu’a fait notre ennemi ? Qu’est-ce qui s’est passé.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="1324">Madame, mon arrêt vient d’être prononcé .</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="1325" part="i">Que dis-tu ?</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="1325" part="f">Le Tyran sans égard pour sa gloire,</l>
 	<l id="1326">De ses derniers serments oubliant la mémoire ;</l>
 	<l id="1327">A suivi les conseils de son funeste amour,</l>
@@ -1899,11 +1899,11 @@
 	<l id="1337">Il faut mourir, Madame, et que cette journée,</l>
 	<l id="1338">Termine mes malheurs avec ma destinée.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="1339">Quel funeste dessein ! n’est-il point de secours,</l>
 	<l id="1340" part="i">Dieux tous puissants...</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="1340" part="f">Les Dieux nous sont cruels et sourds,</l>
 	<l id="1341">Je n’espère plus rien, et mon âme assurée,</l>
 	<l id="1342">Au plus grand des tourments est enfin préparée ;</l>
@@ -1911,7 +1911,7 @@
 	<l id="1344">Viendront dans un moment m’enlever de ces lieux,</l>
 	<l id="1345">Vous allez voir, Madame, une troupe barbare...</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="1346">Ah ! Quel spectacle encor pour mes yeux se prépare,</l>
 	<l id="1347">Ma fille, je verrai de farouches soldats,</l>
 	<l id="1348">Une seconde fois t’arracher de mes bras :</l>
@@ -1919,7 +1919,7 @@
 	<l id="1350">Non malgré leurs efforts il faut que je te suive,</l>
 	<l id="1351">En vain ces inhumains voudront nous séparer.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="1352">Madame, à cet effort il faut vous préparer,</l>
 	<l id="1353">Je conçois par les pleurs dont votre amour m’honore,</l>
 	<l id="1354">Quelle vive douleur, quel chagrin vous dévore,</l>
@@ -1944,26 +1944,26 @@
 	<l id="1373">Et ce qui dans mon sort m’afflige d’avantage,</l>
 	<l id="1374">Je mourrais libre alors, je meurs dans l’esclavage.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="1375">Ne me reproche point ce funeste secours,</l>
 	<l id="1376">Que n’aurais-je point fait pour conserver tes jours,</l>
 	<l id="1377">Je me flattais... Mais Ciel ! Notre ennemi s’avance.</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="1378">Madame, au nom des Dieux évitez sa présence,</l>
 	<l id="1379">Laissez-moi seule, allez, ne vous exposez pas,</l>
 	<l id="1380">Aux affronts d’un Perfide, aux transports des soldats,</l>
 	<l id="1381">Il ne reste plus rien pour combler ma misère,</l>
 	<l id="1382">Que de voir leur fureur outrager une mère.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="1383">Moi, que je t’abandonne en cette extrémité ?</l>
 	<l id="1384">Que j’aille loin de toi chercher ma sûreté,</l>
 	<l id="1385" part="i">Ah ! Plutôt le trépas...</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Clodius, Plautie, Virginie, Fabian, Pison, Fulvie, Camille, gardes.</head>
-<sp who="PLAUTIE"><speaker>PLAUTIE, à Claudius.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Clodius, Plautie, Virginie, Fabian, Pison, Fulvie, Camille, gardes.</cast>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker>, à Claudius.</hstage>
 	<l id="1385" part="f">Tu viens ici perfide,</l>
 	<l id="1386">Quel dessein criminel te conduit et te guide,</l>
 	<l id="1387">Monstre inhumain, viens-tu me déchirant le flanc,</l>
@@ -1971,19 +1971,19 @@
 	<l id="1389">Ta barbare fureur jusqu’en ces lieux me brave,</l>
 	<l id="1390" part="i">Veux-tu ?</l>
 </sp>
-<sp who="CLODIUS"><speaker>CLODIUS</speaker>
+<sp who="CLODIUS"><hstage><speaker>CLODIUS</speaker></hstage>
 	<l id="1390" part="f">Je viens ici pour prendre mon esclave,</l>
 	<l id="1391">Cette fille est à moi, je suis son maître enfin,</l>
 	<l id="1392">Appius à mes lois a soumis son destin,</l>
 	<l id="1393" part="i">Gardes qu’on la conduise.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="1393" part="f">Ah ! Quelle tyrannie,</l>
 	<l id="1394">Leurs criminelles mains vont saisir Virginie,</l>
 <stage>Aux Gardes qui veulent la saisir.</stage>
 	<l id="1395" part="i">Osez-vous...</l>
 </sp>
-<sp who="VIRGINIE"><speaker>VIRGINIE</speaker>
+<sp who="VIRGINIE"><hstage><speaker>VIRGINIE</speaker></hstage>
 	<l id="1395" part="f">Arrêtez, ne portez point vos mains,</l>
 	<l id="1396">Sur le sang glorieux des plus fameux Romains.</l>
 	<l id="1397">N’approchez point de moi, je vous suivrai sans peine</l>
@@ -2002,15 +2002,15 @@
 	<l id="1410">Que d’illustres aïeux m’avaient donné la vie,</l>
 	<l id="1411" part="i">Adieu.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="1411" part="m">Je cours...</l>
 </sp>
-<sp who="PISON"><speaker>PISON, en l’arrêtant.</speaker>
+<sp who="PISON"><hstage><speaker>PISON</speaker>, en l’arrêtant.</hstage>
 	<l id="1411" part="m">Souffrez...</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Plautie, Fulvie, Pison, Gardes.</head>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Plautie, Fulvie, Pison, Gardes.</cast>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="1411" part="f">Quoi l’on m’ose arrêter,</l>
 	<l id="1412">Inhumains, c’en est trop, je ne la puis quitter,</l>
 	<l id="1413">Souffrez que dans les fers je suive Virginie,</l>
@@ -2028,8 +2028,8 @@
 	<l id="1425" part="i">Mais que vois-je ? Comment...</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Plautie, Fulvie, Sévère, Fabian, gardes.</head>
-<sp who="SEVERE"><speaker>SÉVÈRE</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Plautie, Fulvie, Sévère, Fabian, gardes.</cast>
+<sp who="SEVERE"><hstage><speaker>SÉVÈRE</speaker></hstage>
 	<l id="1425" part="f">Tout a changé de face,</l>
 	<l id="1426">Madame, vous verrez finir votre disgrâce,</l>
 	<l id="1427">Reprenez de l’espoir déjà les Dieux plus doux,</l>
@@ -2052,7 +2052,7 @@
 	<l id="1444">Vous le verrez bientôt venir victorieux,</l>
 	<l id="1445" part="i">Je cours le retrouver.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="1445" part="f">Non je prétends vous suivre,</l>
 	<l id="1446">Courons, que j’aille voir la main qui nous délivre,</l>
 	<l id="1447">Aussi bien dans ces lieux on ne me retient plus.</l>
@@ -2060,26 +2060,26 @@
 	<l id="1449">Allons... mais c’en est fait, et mon âme ravie...</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Plautie, Fulvie, Icile, Sévère.</head>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Plautie, Fulvie, Icile, Sévère.</cast>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="1450">Oui, c’en est fait, Madame, Appius est sans vie,</l>
 	<l id="1451">Je viens de le punir, enfin tout est sauvé,</l>
 	<l id="1452">Et déjà votre époux dans Rome est arrivé.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="1453" part="i">Virginius !</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="1453" part="f">Madame on vient de me l’apprendre,</l>
 	<l id="1454">Le bruit de son retour partout s’est fait entendre,</l>
 	<l id="1455">Mais que fait Virginie ? on ne m’en a rien dit,</l>
 	<l id="1456">Elle seule sans cesse occupe mon esprit.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="1457">Clodius escorté d’une troupe cruelle,</l>
 	<l id="1458" part="i">S’en est saisi, Seigneur.</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="1458" part="f">Ah courons après elle !</l>
 	<l id="1459">Courons la délivrer, et qu’aux yeux des Romains,</l>
 	<l id="1460">Le traître Clodius soit puni par mes mains,</l>
@@ -2087,48 +2087,48 @@
 	<l id="1462">Que prépare à mon cœur une pleine victoire.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Icile, Plautie, Sévère, Fulvie, Camille.</head>
-<sp who="PLAUTIE"><speaker>PLAUTIE à Icile.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Icile, Plautie, Sévère, Fulvie, Camille.</cast>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker> à Icile.</hstage>
 	<l id="1463" part="i">Hâtez-vous donc, Seigneur ;</l>
 <stage>À Camille.</stage>
 	<l id="1463" part="f">Que viens-tu m’annoncer,</l>
 	<l id="1464">Dis-moi, que fait ma fille, où l’as-tu pu laisser.</l>
 </sp>
-<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+<sp who="CAMILLE"><hstage><speaker>CAMILLE</speaker></hstage>
 	<l id="1465" part="i">Votre fille ?</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="1465" part="f">Apprenez-nous, où faut-il que je vole,</l>
 	<l id="1466">Où sont nos ennemis, que mon bras les immole,</l>
 	<l id="1467">Que Virginie enfin ne les redoute plus,</l>
 	<l id="1468" part="i">Que j’aille...</l>
 </sp>
-<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+<sp who="CAMILLE"><hstage><speaker>CAMILLE</speaker></hstage>
 	<l id="1468" part="f">Modérez des transports superflus,</l>
 	<l id="1469" part="i">Il n’est plus temps.</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="1469" part="m">Comment ?</l>
 </sp>
-<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+<sp who="CAMILLE"><hstage><speaker>CAMILLE</speaker></hstage>
 	<l id="1469" part="f">L’aimable Virginie.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="1470" part="i">Eh bien ! Qu’est ce ?</l>
 </sp>
-<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+<sp who="CAMILLE"><hstage><speaker>CAMILLE</speaker></hstage>
 	<l id="1470" part="f">À mes yeux vient de perdre la vie.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="1471">Ciel, qu’est-ce que j’entends ? Ah destin rigoureux !</l>
 	<l id="1472" part="i">Quel coup ?</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="1472" part="f">De tous mes maux voici le comble affreux,</l>
 	<l id="1473">Que puis-je craindre après ce que je viens d’apprendre,</l>
 	<l id="1474" part="i">Grands Dieux ?</l>
 </sp>
-<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+<sp who="CAMILLE"><hstage><speaker>CAMILLE</speaker></hstage>
 	<l id="1474" part="f">Virginius venait pour la défendre,</l>
 	<l id="1475">Au moment qu’il l’a vue au milieu des soldats ;</l>
 	<l id="1476">Ce spectacle cruel a retenu ses pas :</l>
@@ -2181,10 +2181,10 @@
 	<l id="1523">Prend celle de son père, et poussant le couteau,</l>
 	<l id="1524">S’en frappe, tombe, et s’ouvre un chemin au tombeau.</l>
 </sp>
-<sp who="PLAUTIE"><speaker>PLAUTIE</speaker>
+<sp who="PLAUTIE"><hstage><speaker>PLAUTIE</speaker></hstage>
 	<l id="1525" part="i">Hélas !</l>
 </sp>
-<sp who="CAMILLE"><speaker>CAMILLE</speaker>
+<sp who="CAMILLE"><hstage><speaker>CAMILLE</speaker></hstage>
 	<l id="1525" part="f">Virginius après ce sacrifice,</l>
 	<l id="1526">De ce sang précieux demande la justice ;</l>
 	<l id="1527">Il prend entre ses bras ce corps ensanglanté,</l>
@@ -2198,7 +2198,7 @@
 	<l id="1535">Heureuse si ma mort avait pu devancer,</l>
 	<l id="1536">La douleur que je souffre à vous les annoncer.</l>
 </sp>
-<sp who="ICILE"><speaker>ICILE</speaker>
+<sp who="ICILE"><hstage><speaker>ICILE</speaker></hstage>
 	<l id="1537">Ainsi pour mon amour Virginie est perdue,</l>
 	<l id="1538">Voilà cette union que j’avais attendue,</l>
 	<l id="1539">Mourons, mais d’une mort qui soit utile à tous,</l>

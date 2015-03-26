@@ -69,7 +69,7 @@
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE, dans un vestibule qui regarde sur la mer.</speaker>  
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>, dans un vestibule qui regarde sur la mer.</hstage>  
 	<l id="1">J’appelle en vain Ulysse : ô fatale journée !</l>
 	<l id="2">Pénélope, à quel choix te vois-tu condamnée !</l>
 	<l id="3">Non, mes persécuteurs, non, le sort en courroux.</l>
@@ -110,8 +110,8 @@
 	<l id="37" part="i">Mon Ulysse...</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Pénélope, Ériclée, Eurinome.</head> 
-<sp who="EURINOME"><speaker>EURINOME.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Pénélope, Ériclée, Eurinome.</cast> 
+<sp who="EURINOME"><hstage><speaker>EURINOME</speaker>.</hstage>
 	<l id="37" part="f">Pourquoi fuyez-vous notre vue ?</l>
 	<l id="38">À paraître en public vous étiez résolue :</l>
 	<l id="39">Vous laissiez à nos soins adoucir vos regrets.</l>
@@ -120,13 +120,13 @@
 	<l id="42">Faut-il que votre vie en plaintes se consume ?</l>
 	<l id="43" part="i">Dans ce jour solennel, où vous...</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="43" part="f">Jour malheureux !</l>
 	<l id="44">Que faire, que résoudre en ces moments affreux ?</l>
 	<l id="45">Voici mon dernier terme : il est temps que j’expire,</l>
 	<l id="46">Pour éviter l’hymen qu’on ose me prescrire.</l>
 </sp>
-<sp who="ERICLEE"><speaker>ÉRICLÉE.</speaker>
+<sp who="ERICLEE"><hstage><speaker>ÉRICLÉE</speaker>.</hstage>
 	<l id="47">Contraignez- vous encore, essuyez ces beaux yeux.</l>
 	<l id="48">Montrez-vous, reprenez cet air victorieux,</l>
 	<l id="49">Qui range sous vos lois les cœurs les plus rebelles ;</l>
@@ -137,7 +137,7 @@
 	<l id="54">Cet aimable héros, notre unique espérance,</l>
 	<l id="55">Il n’a que vous, vivez, conservez-vous pour lui.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="56">Je suis de maux sans nombre accablée aujourd’hui.</l>
 	<l id="57">L’intérêt de mon fils encor me désespère :</l>
 	<l id="58">Échappé de nos bras, il cherche en vain son père ;</l>
@@ -153,8 +153,8 @@
 	<l id="68">Que peut faire son zèle, et sa fidélité ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Pénélope, Eumée, Ériclée, Eurinome.</head> 
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Pénélope, Eumée, Ériclée, Eurinome.</cast> 
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="69">Ce zèle qui ressent vos funestes alarmes,</l>
 	<l id="70">Madame, vient mêler mes regrets à vos larmes ;</l>
 	<l id="71">Je ne puis aujourd’hui que pleurer avec vous</l>
@@ -171,13 +171,13 @@
 	<l id="82">Où se doit publier ce célèbre hyménée.</l>
 	<l id="83">Vos sujets et les siens, d’un mutuel accord...</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="84">Me demander ce choix, c’est demander ma mort.</l>
 	<l id="85">J’abhorre cet hymen qu’Eurimaque ose attendre ;</l>
 	<l id="86">Je ne veux point le voir, je ne veux point l’entendre</l>
 	<l id="87">Qu’il change cette pompe en funèbre appareil.</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="88">Dissimulez encor, croyez notre conseil</l>
 	<l id="89">Quoi que le ciel enfin ait ordonné d’Ulysse,</l>
 	<l id="90">Grande Reine, attendons que son sort s’éclaircisse,</l>
@@ -202,7 +202,7 @@
 	<l id="109">De ce traître avec lui rompez l’intelligence,</l>
 	<l id="110">Et flattez-le toujours d’une douce espérance.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="111">L’espoir dont s’est flatté cet odieux amant</l>
 	<l id="112">Fait injure à ma foi, trahit mon sentiment.</l>
 	<l id="113">Hélas ! je me reproche, avec trop de justice,</l>
@@ -214,19 +214,19 @@
 	<l id="119">Et le roi de Samos en vain croit obtenir...</l>
 <note type="L">Samos : île turque la la mer Égée, l’une des Sporades, près de la côte ouest de l’Asie Mineure, au sud-est de Chios en face du mont Mycale, a 46 km sur 20. (...) [B]</note>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="120">Madame, croyez moins... Mais je le vois venir.</l>
 	<l id="121">Antinoüs le suit. Songez à Télémaque,</l>
 	<l id="122">Songez que ces tyrans sont maîtres dans Ithaque :</l>
 	<l id="123">Qu’ils ont pour eux un peuple ingrat, lâche et sans foi ;</l>
 	<l id="124" part="i">Que le salut d’un fils...</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="124" part="f">Grands dieux ! inspirez-moi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Pénélope, Antinoüs, Eurimaque, Eumée, Ériclée, Eurinome, Arcas.</head>
-<sp who="EURIMAQUE"><speaker>EURIMAQUE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Pénélope, Antinoüs, Eurimaque, Eumée, Ériclée, Eurinome, Arcas.</cast>
+<sp who="EURIMAQUE"><hstage><speaker>EURIMAQUE</speaker>.</hstage>
 	<l id="125">Divine reine, enfin je vois cette journée</l>
 	<l id="126">Que pour me rendre heureux le ciel a destinée.</l>
 	<l id="127">Les voici ces moments si longtemps désirés,</l>
@@ -236,7 +236,7 @@
 	<l id="131">On dirait que l’amour, prêt à me couronner,</l>
 	<l id="132">De plus brillants attraits ai voulu vous orner !</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="133">Moi, seigneur ! Quelle erreur a séduit votre vue ?</l>
 	<l id="134">Parmi tant de douleurs que suis-je devenue ?</l>
 	<l id="135">De si faibles attraits, par les pleurs effacés,</l>
@@ -244,7 +244,7 @@
 	<l id="137">Ah ! Plutôt c’est du sort la fatale injustice</l>
 	<l id="138">Qui veut que votre amour devienne mon supplice.</l>
 </sp>
-<sp who="EURIMAQUE"><speaker>EURIMAQUE.</speaker>
+<sp who="EURIMAQUE"><hstage><speaker>EURIMAQUE</speaker>.</hstage>
 	<l id="139">Me verrez-vous toujours comme auteur de vos maux ?</l>
 	<l id="140">Avez-vous oublié combien j’ai de rivaux ?</l>
 	<l id="141">Pour charmer tous les cœurs, vous n’avez qu’à paraître.</l>
@@ -252,13 +252,13 @@
 	<l id="143">Madame, en serait-il un seul dans l’univers</l>
 	<l id="144">Qui ne vînt avec moi soupirer dans vos fers ?</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="145">Ces amants odieux qui m’ont persécutée</l>
 	<l id="146">Vous cèdent ; devant vous leur foule est écartée :</l>
 	<l id="147">Mais achevez, Seigneur ; et que votre bonté,</l>
 	<l id="148">Pour pleurer mes malheurs, me laisse en liberté.</l>
 </sp>
-<sp who="EURIMAQUE"><speaker>EURIMAQUE.</speaker>
+<sp who="EURIMAQUE"><hstage><speaker>EURIMAQUE</speaker>.</hstage>
 	<l id="149">Non, madame : il est temps que vos larmes tarissent.</l>
 	<l id="150">Que votre douleur cesse, et que mes maux finissent.</l>
 	<l id="151">Venez en honorant le trône de Samos,</l>
@@ -266,19 +266,19 @@
 	<l id="153">Tout conspire à nous faire un bonheur plein de charmes :</l>
 	<l id="154" part="i">Votre père...</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="154" part="f">Laissez, laissez couler mes larmes.</l>
 	<l id="155">Ce cœur, toujours en butte aux destins irrités,</l>
 	<l id="156">Est bien loin du repos que vous lui promettez.</l>
 </sp>
-<sp who="EURIMAQUE"><speaker>EURIMAQUE.</speaker>
+<sp who="EURIMAQUE"><hstage><speaker>EURIMAQUE</speaker>.</hstage>
 	<l id="157">N’avez-vous pas assez éprouvé ma constance ?</l>
 	<l id="158">Ah ! voulez-vous encor tromper mon espérance ?</l>
 	<l id="159">Après tant de délais, de feintes, de détours.</l>
 	<l id="160">Quel artifice encor sera votre secours ?</l>
 	<l id="161" part="i">Après l’engagement...</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="161" part="f">Non, de cet hyménée,</l>
 	<l id="162">Seigneur, ne formons point la chaîne infortunée :</l>
 	<l id="163">Vous même le premier, vous vous repentiriez</l>
@@ -294,7 +294,7 @@
 	<l id="173">Ah ! Fuyez-moi plutôt ; et, loin de me contraindre,</l>
 	<l id="174">Voyez avec pitié combien je suis à plaindre.</l>
 </sp>
-<sp who="EURIMAQUE"><speaker>EURIMAQUE.</speaker>
+<sp who="EURIMAQUE"><hstage><speaker>EURIMAQUE</speaker>.</hstage>
 	<l id="175">Vous, inhumaine, vous, pouvez-vous concevoir</l>
 	<l id="176">Mes violents transports, mon cruel désespoir ?</l>
 	<l id="177">J’aimais, quand d’un rival la flatteuse éloquence</l>
@@ -316,24 +316,24 @@
 	<l id="193">Et si mes vœux encor vous trouvent insensible.</l>
 	<l id="194">J’aurai contre vos pleurs un courage inflexible.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="195" part="i">Moi ! je n’ai rien promis. Jamais...</l>
 </sp>
-<sp who="ERICLEE"><speaker>ÉRICLÉE.</speaker>
+<sp who="ERICLEE"><hstage><speaker>ÉRICLÉE</speaker>.</hstage>
 	<l id="195" part="f">Que faites-vous ?</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="196">Prenez, seigneur, prenez des sentiments plus doux.</l>
 	<l id="197">Donnez-moi quelques jours. Un reste d’espérance</l>
 	<l id="198">Peut-être contre vous soutient ma résistance.</l>
 	<l id="199">De mon fils, qui revient, écoutons le rapport :</l>
 	<l id="200">Nous saurons si d’Ulysse on confirme la mort.</l>
 </sp>
-<sp who="EURIMAQUE"><speaker>EURIMAQUE.</speaker>
+<sp who="EURIMAQUE"><hstage><speaker>EURIMAQUE</speaker>.</hstage>
 	<l id="201">On vous a mille fois raconté son naufrage ;</l>
 	<l id="202">Sa mort, le temps, un père, enfin tout vous dégage.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="203">Ah ! Je ne saurais vivre en l’état où je suis,</l>
 	<l id="204">Si mon fils de retour n’adoucit mes ennuis.</l>
 	<l id="205">Ayez au moins pitié des douleurs d’une mère,</l>
@@ -341,14 +341,14 @@
 	<l id="207">Seigneur, si Télémaque à mes pleurs est rendu.</l>
 	<l id="208">Je regretterai moins l’époux que j’ai perdu.</l>
 </sp>
-<sp who="EURIMAQUE"><speaker>EURIMAQUE.</speaker>
+<sp who="EURIMAQUE"><hstage><speaker>EURIMAQUE</speaker>.</hstage>
 	<l id="209">Faut-il que Télémaque à mou bonheur s’oppose ?</l>
 	<l id="210">Quoi ! Garant des périls où son erreur l’expose,</l>
 	<l id="211">Puis-je régler les vents, et les flots mutinés,</l>
 	<l id="212">Par qui ses jours peut-être ont été terminés ?</l>
 	<l id="213">Des pirates peut-être ont attaqué sa vie.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="214">Je vous entends, je sais votre cruelle envie :</l>
 	<l id="215">Vous craignez son courage, et vos complots secrets</l>
 	<l id="216">De sa mort, dès longtemps, ont formé les apprêts.</l>
@@ -361,28 +361,28 @@
 	<l id="223">Allez donc, et jamais ne vous montrez à moi,</l>
 	<l id="224">Si mon fils ne revient, si je ne le revois.</l>
 </sp>
-<sp who="EURIMAQUE"><speaker>EURIMAQUE.</speaker>
+<sp who="EURIMAQUE"><hstage><speaker>EURIMAQUE</speaker>.</hstage>
 	<l id="225">Ah ! qu’il revienne ou non, il faut... Mais je vous  laisse.</l>
 	<l id="226">Pour ne me pas livrer au transport qui me presse.</l>
 	<l id="227">J’attendrai votre choix : prononcez dans ce jour,</l>
 	<l id="228">Ou la fureur pourrait succéder à l’amour.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="229">Fais périr, fais périr une innocente reine ;</l>
 	<l id="230">J’abhorre ton amour, et demande ta haine.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Antinoüs, Pénélope, Ériclée, Eurinome, Arcas.</head>
-<sp who="ANTINOUS"><speaker>ANTINOÜS.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Antinoüs, Pénélope, Ériclée, Eurinome, Arcas.</cast>
+<sp who="ANTINOUS"><hstage><speaker>ANTINOÜS</speaker>.</hstage>
 	<l id="231" part="i">Madame...</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="231" part="f">Antinoüs, rien ne peut me fléchir ;</l>
 	<l id="232">De vos indignes lois je saurai m’affranchir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Antinoüs, Arcas.</head>
-<sp who="ANTINOUS"><speaker>ANTINOÜS.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Antinoüs, Arcas.</cast>
+<sp who="ANTINOUS"><hstage><speaker>ANTINOÜS</speaker>.</hstage>
 	<l id="233">Pressons de cet hymen l’heure trop différée.</l>
 	<l id="234">Par là je m’ouvre au trône une route assurée,</l>
 	<l id="235">Et satisfais enfin l’ambitieuse ardeur</l>
@@ -400,7 +400,7 @@
 	<l id="247">Le sceptre, à leur départ, va tomber dans mes mains,</l>
 	<l id="248">Et le retour du prince est tout ce que je crains.</l>
 </sp>
-<sp who="ARCAS"><speaker>ARCAS.</speaker>
+<sp who="ARCAS"><hstage><speaker>ARCAS</speaker>.</hstage>
 	<l id="249">Un plein succès ainsi suivra votre entreprise.</l>
 	<l id="250">L’Ithaque dès longtemps à vos lois est soumise ;</l>
 	<l id="251">Si Télémaque échappe à la fureur des eaux.</l>
@@ -409,7 +409,7 @@
 	<l id="254">D’armes et de débris a couvert ce rivage ;</l>
 	<l id="255" part="i">Il a péri sans doute.</l>
 </sp>
-<sp who="ANTINOUS"><speaker>ANTINOÜS.</speaker>
+<sp who="ANTINOUS"><hstage><speaker>ANTINOÜS</speaker>.</hstage>
 	<l id="255" part="f">Il faut s’en assurer.</l>
 	<l id="256">À sa mort Eurimaque a paru conspirer :</l>
 	<l id="257">Il craignait comme moi ce jeune téméraire ;</l>
@@ -440,13 +440,13 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Iphise, Argine.</head>
-<sp who="IPHISE"><speaker>IPHISE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Iphise, Argine.</cast>
+<sp who="IPHISE"><hstage><speaker>IPHISE</speaker>.</hstage>
 	<l id="281">Ce désordre m’alarme, et j’ai trouvé mon père</l>
 	<l id="282">Moins enflammé d’amour qu’il ne l’est de colère.</l>
 	<l id="283">Voyons la reine, allons calmer ses déplaisirs.</l>
 </sp>
-<sp who="ARGINE"><speaker>ARGINE.</speaker>
+<sp who="ARGINE"><hstage><speaker>ARGINE</speaker>.</hstage>
 	<l id="284">Sans cesse à ses regrets vous mêlez vos soupirs.</l>
 	<l id="285">Quel excès de pitié, quel soin vous importune,</l>
 	<l id="286">Et vous rend si sensible à sa triste fortune ?</l>
@@ -454,7 +454,7 @@
 	<l id="288">Mais votre cœur trop tendre aime à les partager :</l>
 	<l id="289">Vous sentez pour le fils les ennuis de la mère.</l>
 </sp>
-<sp who="IPHISE"><speaker>IPHISE.</speaker>
+<sp who="IPHISE"><hstage><speaker>IPHISE</speaker>.</hstage>
 	<l id="290">Tout mon cœur s’ouvre à toi ; je ne te puis rien taire.</l>
 	<l id="291">Argine, il te souvient, quand je vins en ces lieux.</l>
 	<l id="292">Quels troubles, quels chagrins, s’offrirent à mes yeux :</l>
@@ -477,7 +477,7 @@
 	<l id="309">Si je m’engage trop, si je dois m’en défendre.</l>
 	<l id="310" part="i">Donne-moi des conseils.</l>
 </sp>
-<sp who="ARGINE"><speaker>ARGINE.</speaker>
+<sp who="ARGINE"><hstage><speaker>ARGINE</speaker>.</hstage>
 	<l id="310" part="f">Les voudrez-vous entendre ?</l>
 	<l id="311">Je me taisais ; je sais que des tourments pareils</l>
 	<l id="312">Ne font que s’irriter par les meilleurs conseils.</l>
@@ -485,7 +485,7 @@
 	<l id="314">Des mêmes soins ce prince a-t-il l’âme occupée ?</l>
 	<l id="315">S’il vous aimait, madame, eût-il pu vous quitter ?</l>
 </sp>
-<sp who="IPHISE"><speaker>IPHISE.</speaker>
+<sp who="IPHISE"><hstage><speaker>IPHISE</speaker>.</hstage>
 	<l id="316">Ah ! Si c’est une erreur, laisse-moi me flatter.</l>
 	<l id="317">Ses plaintes m’ont parlé de ses flammes naissantes ;</l>
 	<l id="318">J’en ai vu dans ses yeux mille marques touchantes.</l>
@@ -497,13 +497,13 @@
 	<l id="324">Et peut-être de même, Argine, il songe à moi :</l>
 	<l id="325">Il viendra me jurer une ardeur immortelle.</l>
 </sp>
-<sp who="ARGINE"><speaker>ARGINE.</speaker>
+<sp who="ARGINE"><hstage><speaker>ARGINE</speaker>.</hstage>
 	<l id="326">Madame, un jeune cœur est rarement fidèle.</l>
 	<l id="327">Loin de vous désormais ses vœux sont emportés ;</l>
 	<l id="328">Dans les cours de la Grèce il voit d’autres beautés ;</l>
 	<l id="329" part="i">Son oubli, son silence...</l>
 </sp>
-<sp who="IPHISE"><speaker>IPHISE.</speaker>
+<sp who="IPHISE"><hstage><speaker>IPHISE</speaker>.</hstage>
 	<l id="329" part="f">Épargne mes alarmes,</l>
 	<l id="330">Et permets que pour moi son retour ait des charmes.</l>
 	<l id="331">Dieux immortels ! songez à nous le ramener,</l>
@@ -513,20 +513,20 @@
 	<l id="335">Et que celui du fils, répondant à ma foi,</l>
 	<l id="336" part="i">Puisse...</l>
 </sp>
-<sp who="ARGINE"><speaker>ARGINE.</speaker>
+<sp who="ARGINE"><hstage><speaker>ARGINE</speaker>.</hstage>
 	<l id="336" part="f">On vous entendra, madame ; c’est le roi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Eurimaque, Antinoüs, Iphise, Argine.</head>
-<sp who="EURIMAQUE"><speaker>EURIMAQUE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Eurimaque, Antinoüs, Iphise, Argine.</cast>
+<sp who="EURIMAQUE"><hstage><speaker>EURIMAQUE</speaker>.</hstage>
 	<l id="337">Non, je ne saurais vivre et mériter sa haine.</l>
 	<l id="338">Je veux... C’est vous, Iphise ! Alliez-vous chez la reine ?</l>
 	<l id="339">Allez la préparer à me voir, après vous,</l>
 	<l id="340">Expier à ses pieds mon indigne courroux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Eurimaque, Antinoüs.</head>
-<sp who="ANTINOUS"><speaker>ANTINOÜS.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Eurimaque, Antinoüs.</cast>
+<sp who="ANTINOUS"><hstage><speaker>ANTINOÜS</speaker>.</hstage>
 	<l id="341">De quel frivole espoir votre arae est abusée !</l>
 	<l id="342">A se laisser fléchir est-elle disposée ?</l>
 	<l id="343">On sait jusqu’où ce sexe ingrat, impérieux.</l>
@@ -555,7 +555,7 @@
 	<l id="366">D’un état si funeste à la fin on s’ennuie.</l>
 	<l id="367" part="i">Pressez.</l>
 </sp>
-<sp who="EURIMAQUE"><speaker>EURIMAQUE.</speaker>
+<sp who="EURIMAQUE"><hstage><speaker>EURIMAQUE</speaker>.</hstage>
 	<l id="367" part="f">Pour la fléchir je n’ai que des soupirs.</l>
 	<l id="368">Et je sens contre moi tourner ses déplaisirs.</l>
 	<l id="369">Quittons-la. Mais, Amour, ton injuste puissance</l>
@@ -571,7 +571,7 @@
 	<l id="379">Allons à ses vertus offrir un cœur soumis ;</l>
 	<l id="380">Il faut demander grâce, il faut sauver son fils.</l>
 </sp>
-<sp who="ANTINOUS"><speaker>ANTINOÜS.</speaker>
+<sp who="ANTINOUS"><hstage><speaker>ANTINOÜS</speaker>.</hstage>
 	<l id="381">Lui ! que nous avons vu, même dans son enfance.</l>
 	<l id="382">Allumer contre nous sa haine et sa vengeance ?</l>
 	<l id="383">Son superbe chagrin, dédaignant les plaisirs,</l>
@@ -593,17 +593,17 @@
 	<l id="399" part="i">Il ne peut échapper.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Arcas, Eurimque, Antinoüs.</head>
-<sp who="ARCAS"><speaker>ARCAS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Arcas, Eurimque, Antinoüs.</cast>
+<sp who="ARCAS"><hstage><speaker>ARCAS</speaker>.</hstage>
 	<l id="399" part="f">Le prince est arrivé ;</l>
 	<l id="400">Et de tant de périls par miracle sauvé :</l>
 	<l id="401">Entrant dans ce palais, il trouve avec Eumée</l>
 	<l id="402">Une foule de peuple à son aspect charmée.</l>
 </sp>
-<sp who="ANTINOUS"><speaker>ANTINOÜS.</speaker>
+<sp who="ANTINOUS"><hstage><speaker>ANTINOÜS</speaker>.</hstage>
 	<l id="403" part="i">Il est sauvé ? Qu’entends-je !</l>
 </sp>
-<sp who="ARCAS"><speaker>ARCAS.</speaker>
+<sp who="ARCAS"><hstage><speaker>ARCAS</speaker>.</hstage>
 	<l id="403" part="f">Il eût été surpris</l>
 	<l id="404">Dans l’embûche dressée aux rochers d’Astéris ;</l>
 	<l id="405">Mais, par un coup du sort, la dernière tempête</l>
@@ -616,7 +616,7 @@
 	<l id="411">Poussés sur les rochers, navires, matelots.</l>
 	<l id="412">Ont été cette nuit abîmés dans les flots.</l>
 </sp>
-<sp who="ANTINOUS"><speaker>ANTINOÜS.</speaker>
+<sp who="ANTINOUS"><hstage><speaker>ANTINOÜS</speaker>.</hstage>
 	<l id="413">Quoi ! Télémaque évite et l’embûche et l’orage !</l>
 	<l id="414">Mais jusque dans le port il peut faire naufrage :</l>
 	<l id="415">Et, sauvé des périls qu’il courait sur les eaux,</l>
@@ -624,13 +624,13 @@
 	<l id="417">J’ai donné tous mes soins à la cause commune,</l>
 	<l id="418" part="i">Je poursuivrai.</l>
 </sp>
-<sp who="EURIMAQUE"><speaker>EURIMAQUE.</speaker>
+<sp who="EURIMAQUE"><hstage><speaker>EURIMAQUE</speaker>.</hstage>
 	<l id="418" part="f">Non, non ; respectons la fortune</l>
 	<l id="419">D’un prince qu’en ce jour on voit chéri des dieux.</l>
 	<l id="420">Ne versons point un sang qui leur est précieux,</l>
 	<l id="421">Qui vient des plus grands rois que la Grèce révère.</l>
 </sp>
-<sp who="ANTINOUS"><speaker>ANTINOÜS.</speaker>
+<sp who="ANTINOUS"><hstage><speaker>ANTINOÜS</speaker>.</hstage>
 	<l id="422">Voulez-vous épargner ce jeune téméraire ?</l>
 	<l id="423">Si nous ne prévenons sa fureur, que je crains,</l>
 	<l id="424">Dans notre sang lui-même il trempera ses mains ;</l>
@@ -638,8 +638,8 @@
 	<l id="426">Ah ! le voici. Perdons-le, avant qu’il les appelle.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Télémaque, Eumée, Eurimaque, Antinoüs, Arcas.</head>
-<sp who="EURIMAQUE"><speaker>EURIMAQUE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Télémaque, Eumée, Eurimaque, Antinoüs, Arcas.</cast>
+<sp who="EURIMAQUE"><hstage><speaker>EURIMAQUE</speaker>.</hstage>
 	<l id="427">Quel plaisir pour la reine, et qu’il me sera doux</l>
 	<l id="428">De voir finir les pleurs qu’elle versait pour vous !</l>
 	<l id="429">Nous avons craint souvent que Neptune en colère,</l>
@@ -647,7 +647,7 @@
 	<l id="431">Nos vœux sont exaucés, et votre heureux retour</l>
 	<l id="432">D’un bonheur accompli signale ce grand jour.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="433">Je vous dois trop, seigneur. Mais ne saurais-je apprendre</l>
 	<l id="434">D’où naît un changement qui vient de me surprendre ?</l>
 	<l id="435">Qui commande en ces lieux ? Quels nouveaux attentats</l>
@@ -661,7 +661,7 @@
 	<l id="443">Et ces perfides cœurs dévoient se souvenir</l>
 	<l id="444">Que j’étais né leur prince, et viendrais les punir.</l>
 </sp>
-<sp who="ANTINOUS"><speaker>ANTINOÜS.</speaker>
+<sp who="ANTINOUS"><hstage><speaker>ANTINOÜS</speaker>.</hstage>
 	<l id="445">Seigneur, je ne sais pas sur qui votre colère</l>
 	<l id="446">Prétend faire tomber ce châtiment sévère,</l>
 	<l id="447">Mais je crains qu’aujourd’hui votre ressentiment</l>
@@ -673,7 +673,7 @@
 	<l id="453">Mais portez-la vous-même au choix qu’elle doit faire.</l>
 	<l id="454" part="i">Il est temps...</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="454" part="f">Apprenez à respecter ma mère :</l>
 	<l id="455">Sans blâmer ses refus, sans demander ce choix,</l>
 	<l id="456">c’est à vous d’obéir, et d’attendre ses lois.</l>
@@ -685,15 +685,15 @@
 	<l id="462">Je saurai, s’il le faut commencer par vous-même.</l>
 	<l id="463" part="i">Vous montrer qu’un sujet...</l>
 </sp>
-<sp who="ANTINOUS"><speaker>ANTINOÜS, de loin, en se retirant.</speaker>
+<sp who="ANTINOUS"><hstage><speaker>ANTINOÜS</speaker>, de loin, en se retirant.</hstage>
 	<l id="463" part="f">C’est trop vous emporter.</l>
 	<l id="464">Un sujet tel que moi n’a rien à redouter ;</l>
 	<l id="465">Et d’une autorité qui semble encor douteuse</l>
 	<l id="466">Cette épreuve, Seigneur, serait trop dangereuse.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈINE VI. Télémaque, Eurimaque, Eumée.</head>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<div2 type="scene" n="6"><head>SCÈINE VI.</head><cast>Télémaque, Eurimaque, Eumée.</cast>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="467">À ce comble d’orgueil serait-il parvenu,</l>
 	<l id="468">Si par votre puissance il n’était soutenu ?</l>
 	<l id="469">Je trouve en mon palais une garde étrangère :</l>
@@ -705,7 +705,7 @@
 	<l id="475">Mais enfin vous devez nous laisser en repos,</l>
 	<l id="476">Et faire célébrer ces fêtes à Samos.</l>
 </sp>
-<sp who="EURIMAQUE"><speaker>EURIMAQUE.</speaker>
+<sp who="EURIMAQUE"><hstage><speaker>EURIMAQUE</speaker>.</hstage>
 	<l id="477">J’admire ce grand cœur, et je hais l’injustice.</l>
 	<l id="478">Il faut de mes desseins que je vous éclaircisse.</l>
 	<l id="479">De ces lieux ma puissance a banni cent tyrans.</l>
@@ -729,8 +729,8 @@
 	<l id="497" part="i">Je vous laisse.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Télémaque, Eumée.</head>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Télémaque, Eumée.</cast>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="497" part="f">Quel sort en ces lieux me ramène,</l>
 	<l id="498">Et dans quels sentiments trouverai-je la reine ?</l>
 	<l id="499">Parlez donc, c’est vous seul que je puis consulter.</l>
@@ -739,7 +739,7 @@
 	<l id="502">N’est-ce point d’un tyran l’injuste violence ?</l>
 	<l id="503">Je puis armer pour nous tous les Grecs indignés.</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="504">Ah ! Seigneur, que feront ces secours éloignés ?</l>
 	<l id="505">Évitez les malheurs qui menacent Ithaque,</l>
 	<l id="506">Ne vous opposez point à l’espoir d’Eurimaque ;</l>
@@ -749,7 +749,7 @@
 	<l id="510">Qu’inspire à votre cœur cette jeune princesse :</l>
 	<l id="511">J’ai connu, malgré vous, qu’elle a su vous charmer.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="512">Mon cher Eumée ! hélas, j’avais honte d’aimer !</l>
 	<l id="513">Pour le roi de Samos plein d’une juste haine,</l>
 	<l id="514">Je voulus fuir Iphise, et crus rompre ma chaîne.</l>
@@ -762,22 +762,22 @@
 	<l id="521" part="i">Dites que je vous suis.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Télémaque, Iphise.</head>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Télémaque, Iphise.</cast>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="521" part="f">Dans l’ennui qui m’accable.</l>
 	<l id="522">Le ciel me montre encore un aspect favorable ;</l>
 	<l id="523">Les coups les plus cruels du sort injurieux</l>
 	<l id="524">Cèdent, belle princesse, au pouvoir de vos yeux ;</l>
 	<l id="525">Mes chagrins dissipés à cette aimable vue...</l>
 </sp>
-<sp who="IPHISE"><speaker>IPHISE.</speaker>
+<sp who="IPHISE"><hstage><speaker>IPHISE</speaker>.</hstage>
 	<l id="526">Votre secret départ, votre fuite imprévue.</l>
 	<l id="527">Ce silence, ce temps employé loin de nous.</l>
 	<l id="528">M’ont trop dit que mes yeux ne peuvent rien sur vous.</l>
 	<l id="529">Vous m’avez oubliée, et votre âme n’est pleine</l>
 	<l id="530">Que des rares beautés de Sparte et de Mycène.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="531">Ah ! madame, il fallait, pressé de mon devoir,</l>
 	<l id="532">Ou mourir à vos pieds, ou partir sans vous voir.</l>
 	<l id="533">Un indigne repos faisait rougir ma gloire :</l>
@@ -796,7 +796,7 @@
 	<l id="546">Parlent plus que jamais de vengeance et de haine.</l>
 	<l id="547" part="i">Contre Eurimaque même...</l>
 </sp>
-<sp who="IPHISE"><speaker>IPHISE.</speaker>
+<sp who="IPHISE"><hstage><speaker>IPHISE</speaker>.</hstage>
 	<l id="547" part="f">Ah ! quels sont vos projets ?</l>
 	<l id="548">Pourquoi vous formez-vous de si tristes objets ?</l>
 	<l id="549">La reine a pris enfin un conseil salutaire,</l>
@@ -809,14 +809,14 @@
 	<l id="556">Nous serons tous heureux, si vous y consentez.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Pénélope, Télémaque, Ériclée, Eumée.</head>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>Pénélope, Télémaque, Ériclée, Eumée.</cast>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="557">Mon fils, le ciel permet qu’enfin je vous revoie.</l>
 	<l id="558">Quelle amertume, hélas, il mêle à cette joie !</l>
 	<l id="559">D’un voyage si long quel est le triste fruit ?</l>
 	<l id="560">Du sort d’Ulysse enfin vous êtes trop instruit.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="561">J’ai trouvé l’univers plein de sa renommée ;</l>
 	<l id="562">Mais, madame, en tous lieux sa mort est confirmée.</l>
 	<l id="563">Aux bords siciliens, de ses vaisseaux péris</l>
@@ -828,13 +828,13 @@
 	<l id="569">On ne peut plus douter de sa perte funeste,</l>
 	<l id="570">Et le seul nom d’Ulysse est ce qui nous en reste.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="571">Mon fils, il est donc vrai, les dieux l’ont donc permis !</l>
 	<l id="572">Voilà donc ce retour qu’ils avaient tant promis !</l>
 	<l id="573">Ah, rigueur ! sur quels bords chercher sa cendre aimée ?</l>
 	<l id="574">Au cercueil avec lui ne puis-je être enfermée ?</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="575">À ce coup dès longtemps votre cœur préparé</l>
 	<l id="576">D’une moindre douleur doit être pénétré ;</l>
 	<l id="577">Le temps doit de vos maux calmer la violence.</l>
@@ -844,14 +844,14 @@
 	<l id="581">On sait depuis quel temps vous pleurez pour Ulysse,</l>
 	<l id="582">La Grèce approuvera qu’un si long deuil finisse.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="583">Puis-je jamais assez pleurer un tel époux ?</l>
 	<l id="584">Et que de pleurs encor je répandrai pour vous !</l>
 	<l id="585">Pour comble des malheurs dont je suis poursuivie,</l>
 	<l id="586">Lorsque je l’ai perdu, je crains pour votre vie ;</l>
 	<l id="587">Je ne puis aujourd’hui vous voir qu’avec effroi.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="588">Non, ne pensez qu’à vous, ne craignez rien pour moi.</l>
 	<l id="589">Eurimaque prétend qu’un prochain hyménée,</l>
 	<l id="590">Sans contrainte, à son sort joint votre destinée.</l>
@@ -866,7 +866,7 @@
 	<l id="599">Je soutiendrai sa gloire en combattant pour vous,</l>
 	<l id="600">Et les Grecs qu’il vengea s’uniront avec nous.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="601">Ah ! de trop près, mon fils, le péril vous menace :</l>
 	<l id="602">Pour le roi de Samos retenez votre audace.</l>
 	<l id="603">Voyez-le, dites-lui... qu’il a droit d’espérer,</l>
@@ -879,26 +879,26 @@
 	<l id="610">Défiez-vous de tout, et ne croyez qu’Eumée.</l>
 	<l id="611" part="i">Faites-vous voir au peuple.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="611" part="f">Oui, je vais me montrer,</l>
 	<l id="612">Et découvrir les cœurs dont je puis m’assurer.</l>
 	<l id="613">Contre vos fiers tyrans tout prêt à vous défendre,</l>
 	<l id="614" part="i">Je reviendrai...</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="614" part="f">Contre eux n’allez rien entreprendre ;</l>
 	<l id="615">Laissez-moi respirer dans le trouble où je suis.</l>
 	<l id="616">Et ne m’accablez point par de nouveaux ennuis.</l>
 	<l id="617">Allez, il faut céder au sort qui nous entraîne.</l>
 </sp>
 </div2>
-<div2 type="scene" n="10"><head>SCÈNE X. Pénélope, Ériclée.</head>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<div2 type="scene" n="10"><head>SCÈNE X.</head><cast>Pénélope, Ériclée.</cast>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="618">Qu’ai-je dit ? Que ferai-je ? Ô malheureuse reine !</l>
 	<l id="619">Ah ! mon fils, d’Eurimaque évitez le courroux.</l>
 	<l id="620">Mes refus vont encor l’animer contre vous.</l>
 </sp>
-<sp who="ERICLEE"><speaker>ÉRICLÉE.</speaker>
+<sp who="ERICLEE"><hstage><speaker>ÉRICLÉE</speaker>.</hstage>
 	<l id="621">Ciel ! si ce roi déçu rallume sa vengeance,</l>
 	<l id="622">Et si d’Antinoüs il suit la violence,</l>
 	<l id="623">Madame, où n’ira point leur lâche cruauté,</l>
@@ -906,7 +906,7 @@
 	<l id="625">Ah ! les devoirs d’épouse, et de reine, et de mère,</l>
 	<l id="626">Vous ordonnent l’hymen qu’a prescrit votre père.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="627">Hélas ! pour cet hymen tout parle contre moi :</l>
 	<l id="628">Mon père dès longtemps m’en impose la loi ;</l>
 	<l id="629">Les intérêts d’un fils, son salut, le demandent ;</l>
@@ -917,11 +917,11 @@
 	<l id="634">L’ombre errante d’Ulysse et mon ombre plaintive.</l>
 	<l id="635" part="i">Déployez...</l>
 </sp>
-<sp who="ERICLEE"><speaker>ÉRICLÉE.</speaker>
+<sp who="ERICLEE"><hstage><speaker>ÉRICLÉE</speaker>.</hstage>
 	<l id="635" part="f">Télémaque a besoin de secours :</l>
 	<l id="636">Au nom d’un fils si cher, conservez vos beaux jours.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="637">Le puis-je ? Ulysse seul régnera dans mon âme.</l>
 	<l id="638">J’emporterai là-bas le beau nom de ta femme,</l>
 	<l id="639">Cher Ulvsse ; à jamais nos noms seront unis ;</l>
@@ -931,13 +931,13 @@
 	<l id="643">Pour toi ce cœur fidèle, abandonnant le jour.</l>
 	<l id="644">Se fera célébrer par un parfait amour.</l>
 </sp>
-<sp who="ERICLEE"><speaker>ÉRICLÉE.</speaker>
+<sp who="ERICLEE"><hstage><speaker>ÉRICLÉE</speaker>.</hstage>
 	<l id="645">Eh ! regardez son fils. Que ce fils vous fléchisse.</l>
 	<l id="646">En ce jeune héros faites revivre Ulysse.</l>
 	<l id="647">Dieux ! que deviendra-t-il, ce prince infortuné ?</l>
 	<l id="648">Par vous-même à périr sera-t-il condamné ?</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="649">Grande divinité que l’Ithaque révère.</l>
 	<l id="650">Vous Minerve, à mon fils daignez servir de mère.</l>
 	<l id="651">Allons, allons finir au pied de ses autels</l>
@@ -947,7 +947,7 @@
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
 <div2 type="scene" n=""><head>SCÈNE I.</head>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="653">Déesse, dont le soin et me guide et m’inspire,</l>
 	<l id="654">Est-ce donc l’air d’Ithaque enfin que je respire ?</l>
 	<l id="655">N’est-ce donc point un songe, et suis-je dans ces lieux</l>
@@ -972,12 +972,12 @@
 	<l id="674">C’est Eumée. Éprouvons sou zélé pour son maître.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Ulysse, Eumée.</head>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Ulysse, Eumée.</cast>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="675">Ciel, conserve la reine, et permets qu’aujourd’hui</l>
 	<l id="676">Le prince puisse en elle avoir un sûr appui.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 <stage>À part.</stage>
 	<l id="677" part="i">Nous sommes seuls, parlons.</l>
 <stage>À Eumée.</stage>
@@ -986,15 +986,15 @@
 	<l id="679">Un malheureux, sauvé des vagues en courroux,</l>
 	<l id="680">Connu de votre roi, peut s’adresser à vous.</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="681">Ah ! pour votre secours vous devez vous promettre</l>
 	<l id="682">Tout ce qu’un sort contraire à mes vœux peut permettre.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="683">Tout me surprend ici. Qu’est-ce donc que je vois ?</l>
 	<l id="684">Ces lieux ne sont point tels qu’ils étaient autrefois.</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="685">Ulysse y fit jadis régner par sa présence</l>
 	<l id="686">La gloire, le bonheur, et la magnificence ;</l>
 	<l id="687">Mais d’un roi si fameux le triste éloignement</l>
@@ -1002,26 +1002,26 @@
 	<l id="689">Si vous l’avez connu, déplorez notre perte,</l>
 	<l id="690" part="i">Regrettez ce grand roi.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="690" part="f">Pénélope, Laërte,</l>
 	<l id="691">Que sont-ils devenus ? Qu’est devenu son fils ?</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="692">Le cours de leurs malheurs voudrait de longs récits :</l>
 	<l id="693">Ils vivent ; mais, hélas ! leur triste destinée...</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="694">On parle de la reine, on parle d’hyménée ?</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="695">Eurimaque prétend devenir son époux.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="696">Son époux, Eurimaque ! Ah ! que me dites-vous ?</l>
 	<l id="697">Donnez-vous ces conseils ? La reine y consent-elle ?</l>
 	<l id="698">Laissez-vous pour Ulysse éteindre votre zèle ?</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="699">Ah ! ses mânes sacrés et les dieux sont témoins</l>
 	<l id="700">Si j’ai manqué jamais de zèle ni de soins.</l>
 	<l id="701">La reine, de sou sexe et l’exemple et la gloire,</l>
@@ -1029,52 +1029,52 @@
 	<l id="703">Abhorre cet hymen ; mais il faut à ce prix</l>
 	<l id="704">Racheter la couronne et la vie à son fils.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="705">Les dieux de son tyran confondront l’injustice ;</l>
 	<l id="706">Attendez leur secours, ils vous rendront Ulysse.</l>
 	<l id="707" part="i">Il est vivant.</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="707" part="f">Cent fois, pour calmer nos ennuis,</l>
 	<l id="708">Par ce flatteur espoir d’autres nous ont séduits ;</l>
 	<l id="709">Mais le temps dissipant cette trompeuse joie,</l>
 	<l id="710">De nouvelles douleurs nous devenions la proie.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="711">J’en atteste les dieux, il revient ; croyez-moi.</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="712">Je reverrais encor mon cher maître, mon roi !</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="713">Et que ferait pour lui votre ardeur si fidèle ?</l>
 	<l id="714">Sauriez-vous affronter la fortune cruelle,</l>
 	<l id="715" part="i">Mourir pour le défendre ?</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="715" part="f">Ah, bonheur glorieux !</l>
 	<l id="716" part="i">Que pour lui tout mon sang...</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="716" part="f">Eumée, ouvrez les yeux.</l>
 	<l id="717">Quoi, mon fidèle Eumée a pu me méconnaître !</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="718">Ah ! Qu’entends-je ? Que vois-je ? Ô ciel ! Vous pourriez être.</l>
 	<l id="719">Ces traits changés... Ma joie et mon étonnement...</l>
 	<l id="720">Ah ! seigneur, pardonnez à mon aveuglement.</l>
 	<l id="721" part="i">Les dieux vous ont sauvé !</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="721" part="f">Gardez qu’on ne vous voie.</l>
 	<l id="722" part="i">Levez-vous.</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="722" part="f">Qui croirait que le vainqueur de Troie</l>
 	<l id="723">Revînt seul, inconnu, sans armes, sans vaisseaux ?</l>
 	<l id="724">Où sont tous ces guerriers partis sous vos drapeaux ?</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="725">Parmi tant de combats, de courses vagabondes.</l>
 	<l id="726">Tous ont été la proie ou du fer ou des ondes.</l>
 	<l id="727">Le long siège de Troie, et ses mortels assauts,</l>
@@ -1086,7 +1086,7 @@
 	<l id="733">Donne-moi de mon sort l’entière connaissance.</l>
 	<l id="734" part="i">Parle ; ne cèle rien.</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="734" part="f">Dans votre longue absence</l>
 	<l id="735">On a vu cent rivaux, l’un par l’autre animés.</l>
 	<l id="736">Du trône et de la reine également charmés ;</l>
@@ -1121,7 +1121,7 @@
 	<l id="765">De la reine captive ils méprisent les larmes.</l>
 	<l id="766" part="i">L’hyménée, ou la mort...</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="766" part="f">Vertu pleine de charmes !</l>
 	<l id="767">Qu’elle a bien répondu par ce constant amour</l>
 	<l id="768">Aux vœux impatients qui pressaient mon retour !</l>
@@ -1135,7 +1135,7 @@
 	<l id="776">Les Grecs que j’ai sauvés n’ont pu la secourir !</l>
 	<l id="777" part="i">Et mon fils ?</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="777" part="f">Il suivra ses hautes destinées.</l>
 	<l id="778">Sa naissance, Seigneur, lui vaut beaucoup d’années ;</l>
 	<l id="779">Malgré son infortune il sentait sa grandeur :</l>
@@ -1156,7 +1156,7 @@
 	<l id="794">Comme un juge irrité regarderont leur maître.</l>
 	<l id="795">Passant de la terreur à la rébellion...</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="796">Quel est donc le destin des vainqueurs d’Ilion !</l>
 	<l id="797">Des Grecs enorgueillis la flotte triomphante</l>
 	<l id="798">Partout des dieux vengeurs sentit la main pesante ;</l>
@@ -1210,34 +1210,34 @@
 	<l id="846">Ni séduit par l’espoir, ni forcé par la crainte.</l>
 	<l id="847">Dis-lui qu’un étranger cherche à l’entretenir.</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="848">Chez la reine, Seigneur, le prince doit venir.</l>
 	<l id="849" part="i">Il me suivait. Il vient.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="849" part="f">Ô vue aimable et chère !</l>
 	<l id="850">Il faut contraindre ici les tendresses de père :</l>
 	<l id="851">Mon fils, trop jeune encor pour d’importants secrets,</l>
 	<l id="852">Pourrait mal ménager de si grands intérêts.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Télémaque, Ulysse, Eumée.</head>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Télémaque, Ulysse, Eumée.</cast>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="853">Cet illustre étranger, que le ciel vous envoie,</l>
 	<l id="854">A suivi votre père à la guerre de Troie ;</l>
 	<l id="855">Seul du destin d’Ulysse il peut vous informer,</l>
 	<l id="856">Et vous devez, seigneur, et le croire et l’aimer.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="857">Eh bien, noble étranger, par des récits fidèles</l>
 	<l id="858">Tracez-moi d’un héros les vertus immortelles,</l>
 	<l id="859" part="i">Son funeste trépas...</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="859" part="f">Ulysse voit le jour :</l>
 	<l id="860">Je croyais qu’en Ithaque il était de retour.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="861">Grands dieux ! il ne vit plus que dans notre mémoire.</l>
 	<l id="862">Ma mère tous les jours me parlait de sa gloire ;</l>
 	<l id="863">Élevé dès l’enfance au bruit de ses exploits,</l>
@@ -1251,7 +1251,7 @@
 	<l id="871">Mais le sort qui nous l’ôte envie à nos douleurs</l>
 	<l id="872">De baigner seulement sa cendre de nos pleurs.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="873">Ah ! mon juste transport ici ne se peut taire.</l>
 	<l id="874">Quel plaisir, quel bonheur, prince, pour votre père.</l>
 	<l id="875">D’entendre, de revoir un fils si généreux !</l>
@@ -1260,7 +1260,7 @@
 	<l id="878">Il respire ; il revient dégager ma promesse.</l>
 	<l id="879" part="i">Vous l’allez voir bientôt.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="879" part="f">À cet air noble et grand,</l>
 	<l id="880">Qui me touche en secret, m’engage, me surprend,</l>
 	<l id="881">Vous obtenez d’abord toute ma confiance ;</l>
@@ -1274,14 +1274,14 @@
 	<l id="889">Mais venez de la reine apaiser les alarmes ;</l>
 	<l id="890">Par cet heureux espoir venez sécher ses larmes.</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="891">Non, seigneur : évitons tous les bruits éclatants.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="892">Mais où donc est le roi ? Dites, depuis quel temps ?...</l>
 	<l id="893" part="i">Où l’avez-vous laissé ?</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="893" part="f">Ce que je puis vous dire,</l>
 	<l id="894">C’est qu’on vient de le voir dans l’île de Corcyre.</l>
 	<l id="895">Là Neptune en courroux, à le perdre obstiné,</l>
@@ -1294,11 +1294,11 @@
 	<l id="901">Il pressait son départ d’une ardeur incroyable.</l>
 	<l id="902" part="i">Il va paraître enfin.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="902" part="f">Mer, sois-lui favorable ;</l>
 	<l id="903" part="i">Ramenez-le, grands dieux !</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="903" part="f">Seigneur, cet étranger,</l>
 	<l id="904">Aperçu des tyrans, pourrait être en danger ;</l>
 	<l id="905">Tout blesse de leurs cœurs la lâche défiance,</l>
@@ -1307,14 +1307,14 @@
 	<l id="908">Libre de surveillants, vous serez mieux instruit :</l>
 	<l id="909">Nous délibérerons du parti qu’on doit prendre.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="910">Je vais vous suivre, Eumée. Allez tous deux m’attendre.</l>
 	<l id="911">Que veut Iphise ? Hélas ! quand je dois l’éviter,</l>
 	<l id="912">Par quel charme fatal me laissé-je arrêter ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Iphise, Télémaque.</head>
-<sp who="IPHISE"><speaker>IPHISE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Iphise, Télémaque.</cast>
+<sp who="IPHISE"><hstage><speaker>IPHISE</speaker>.</hstage>
 	<l id="913">Que la reine, seigneur, se montre et se déclare.</l>
 	<l id="914">Prévenez l’attentat qu’Antinoüs prépare.</l>
 	<l id="915">Il obsède mon père : il veut lui faire voir</l>
@@ -1324,11 +1324,11 @@
 	<l id="919">Il m’envoie à la reine. Allons presser ce choix,</l>
 	<l id="920">Que le peuple assemblé demande à haute voix.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="921">La reine avec raison est toujours inflexible ;</l>
 	<l id="922">Je ne puis la presser, l’obstacle est invincible.</l>
 </sp>
-<sp who="IPHISE"><speaker>IPHISE.</speaker>
+<sp who="IPHISE"><hstage><speaker>IPHISE</speaker>.</hstage>
 	<l id="923">Puisque Ulysse n’est plus, quels devoirs ennemis</l>
 	<l id="924">Traversent cet hymen que la reine a promis ?</l>
 	<l id="925">Son âme à vos désirs enfin s’était rendue,</l>
@@ -1336,14 +1336,14 @@
 	<l id="927">L’obstacle est-il de vous ? Hélas ! aviez-vous peur</l>
 	<l id="928">Que je ne prisse part à ce commun bonheur ?</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="929">Croyez qu’on n’a jamais autant aimé que j’aime.</l>
 	<l id="930">Mais que la reine enfin dispose d’elle-même :</l>
 	<l id="931">Laissez-la de mon père attendre le retour ;</l>
 	<l id="932">Tout change, s’il est vrai qu’Ulysse voit le jour,</l>
 	<l id="933">Si les dieux l’ont sauvé, s’ils veulent nous le rendre.</l>
 </sp>
-<sp who="IPHISE"><speaker>IPHISE.</speaker>
+<sp who="IPHISE"><hstage><speaker>IPHISE</speaker>.</hstage>
 	<l id="934">À cet espoir encor vous laissez-vous surprendre ?</l>
 	<l id="935">N’êtes-vous pas lassé d’ouïr les imposteurs,</l>
 	<l id="936">Qui vous trompent toujours par leurs récits flatteurs ?</l>
@@ -1366,7 +1366,7 @@
 </sp>
 </div2>
 <div2 type="scene" n=""><head>SCÈNE V.</head>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="953">Ah ! Ma Princesse... Arrête, imprudent Télémaque.</l>
 	<l id="954">Oublieras-tu qu’Iphise est le sang d’Eurimaque ?</l>
 	<l id="955">Et que devient ton cœur soumis à ses appas,</l>
@@ -1399,25 +1399,25 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Pénélope, Ériclée.</head>
-<sp who="ERICLEE"><speaker>ÉRICLÉE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Pénélope, Ériclée.</cast>
+<sp who="ERICLEE"><hstage><speaker>ÉRICLÉE</speaker>.</hstage>
 	<l id="981">Le prince assure encor ce qu’il vient de vous dire.</l>
 	<l id="982">Que vos maux vont cesser, et qu’Ulysse respire ;</l>
 	<l id="983">Qu’il reviendra bientôt : mais vous ne pouvez voir</l>
 	<l id="984">Cet illustre étranger qui nous rend cet espoir ;</l>
 	<l id="985">Il est avec le prince enfermé chez Eumée.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="986">Je l’attends, et par lui je veux être informée.</l>
 	<l id="987" part="i">Qu’il vienne.</l>
 </sp>
-<sp who="ERICLEE"><speaker>ÉRICLÉE.</speaker>
+<sp who="ERICLEE"><hstage><speaker>ÉRICLÉE</speaker>.</hstage>
 	<l id="987" part="f">On ne veut point faire un bruit indiscret.</l>
 	<l id="988">Il ne doit devant vous paraître qu’en secret ;</l>
 	<l id="989">À nos lâches tyrans tout donne de l’ombrage ;</l>
 	<l id="990" part="i">Ils sont à craindre.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="990" part="f">Ah ciel ! Gardons qu’on ne l’outrage.</l>
 	<l id="991">Sur des bords étrangers Ulysse sans appui</l>
 	<l id="992">Peut-être au même état se rencontre aujourd’hui.</l>
@@ -1448,28 +1448,28 @@
 	<l id="1017" part="i">Si mes tyrans... Ah ciel ! On vient.</l>
 </sp>
 </div2>
-<div2 type="scene" n=""><head>SCÈNE II. Eurimaque, Pénélope, Ériclée.</head>
-<sp who="EURIMAQUE"><speaker>EURIMAQUE.</speaker>
+<div2 type="scene" n=""><head>SCÈNE II.</head><cast>Eurimaque, Pénélope, Ériclée.</cast>
+<sp who="EURIMAQUE"><hstage><speaker>EURIMAQUE</speaker>.</hstage>
 	<l id="1017" part="f">Eh bien, Madame.</l>
 	<l id="1018">N’allez-vous pas enfin déterminer votre âme ?</l>
 	<l id="1019">Le prince est en ces lieux, vous ne craignez plus rien ;</l>
 	<l id="1020">En faisant mon bonheur vous assurez le sien :</l>
 	<l id="1021">Toute la cour demande une union si chère.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1022">Une loi plus puissante ordonne qu’on diffère.</l>
 </sp>
-<sp who="EURIMAQUE"><speaker>EURIMAQUE.</speaker>
+<sp who="EURIMAQUE"><hstage><speaker>EURIMAQUE</speaker>.</hstage>
 	<l id="1023">Qui vous arrête encor sur ce choix tant promis ?</l>
 	<l id="1024">Quel inconnu, Madame, est avec votre fils ?</l>
 	<l id="1025">Quel est donc ce secret ? Est-ce leur artifice</l>
 	<l id="1026">Qui répand sourdement qu’on doit revoir Ulysse ?</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1027">Seigneur, je ne sais point quel est cet étranger ;</l>
 	<l id="1028">Mais le bruit qu’on répand n’est pas à négliger.</l>
 </sp>
-<sp who="EURIMAQUE"><speaker>EURIMAQUE.</speaker>
+<sp who="EURIMAQUE"><hstage><speaker>EURIMAQUE</speaker>.</hstage>
 	<l id="1029">Vous attendez, Madame, ou vient de m’en instruire.</l>
 	<l id="1030">Cet étranger qu’on dit arrivé de Corcyre.</l>
 	<l id="1031">Vient-il d’Ulysse encor démentir le trépas ?</l>
@@ -1477,11 +1477,11 @@
 	<l id="1033">Mais, quoi ! Chercheriez-vous encore à vous défendre</l>
 	<l id="1034">Du choix où mon amour a seul droit de prétendre ?</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1035">Mon choix de quelques jour» peut être retardé.</l>
 	<l id="1036">Voyons sur quoi ce bruit pourrait être fondé.</l>
 </sp>
-<sp who="EURIMAQUE"><speaker>EURIMAQUE.</speaker>
+<sp who="EURIMAQUE"><hstage><speaker>EURIMAQUE</speaker>.</hstage>
 	<l id="1037">Ah ! Sans doute vous-même inventez cette fable.</l>
 	<l id="1038">Ce bruit si chimérique et si peu vraisemblable,</l>
 	<l id="1039">Pour avoir un prétexte à me manquer de foi.</l>
@@ -1497,12 +1497,12 @@
 	<l id="1049">Je suis maître, j’ordonne ; il faut, dès ce jour même.</l>
 	<l id="1050" part="i">Venir au temple.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1050" part="f">Ah dieux ! quelle injustice extrême !</l>
 	<l id="1051">Barbare, que prétend votre aveugle pouvoir ?</l>
 	<l id="1052">Puis-je trahir ainsi ma gloire et mon devoir ?</l>
 </sp>
-<sp who="EURIMAQUE"><speaker>EURIMAQUE.</speaker>
+<sp who="EURIMAQUE"><hstage><speaker>EURIMAQUE</speaker>.</hstage>
 	<l id="1053">Assez et trop longtemps votre gloire inhumaine</l>
 	<l id="1054">A rejeté mes vœux, a joui de ma peine ;</l>
 	<l id="1055">Assez et trop longtemps tous les Grecs ont appris</l>
@@ -1512,7 +1512,7 @@
 	<l id="1059">Après tant de soupirs, il me serait honteux</l>
 	<l id="1060">De n’avoir pu vers moi faire pencher vos vœux.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1061">Un héros va paraître, il prendra ma défense,</l>
 	<l id="1062">Ou du moins de ma mort il prendra la vengeance.</l>
 	<l id="1063">Sais-tu quel est Ulysse, et ne trembles-tu pas</l>
@@ -1522,7 +1522,7 @@
 	<l id="1067">Peux-tu prétendre un cœur où règne ce héros ?</l>
 	<l id="1068">Va, fuis, ne l’attends pas ; sauve-toi dans Samos.</l>
 </sp>
-<sp who="EURIMAQUE"><speaker>EURIMAQUE.</speaker>
+<sp who="EURIMAQUE"><hstage><speaker>EURIMAQUE</speaker>.</hstage>
 	<l id="1069">Que vous sert d’invoquer l’odieux nom d’Ulysse ?</l>
 	<l id="1070">Des dieux qu’il irrita la suprême justice</l>
 	<l id="1071">N’a pas même permis que dans les champs troyens</l>
@@ -1555,8 +1555,8 @@
 	<l id="1098">Si ce n’est par amour, ce sera par vengeance.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Pénélope, Ériclée.</head>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Pénélope, Ériclée.</cast>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1099">Chère Ériclée, hélas ! j’avais su le prévoir,</l>
 	<l id="1100">Que je garderais peu ce favorable espoir.</l>
 	<l id="1101">De ce fatal hymen de nouveau menacée.</l>
@@ -1565,10 +1565,10 @@
 	<l id="1104">De mon sort déplorable achève la rigueur.</l>
 	<l id="1105" part="i">Ulysse...</l>
 </sp>
-<sp who="ERICLEE"><speaker>ÉRICLÉE.</speaker>
+<sp who="ERICLEE"><hstage><speaker>ÉRICLÉE</speaker>.</hstage>
 	<l id="1105" part="f">Est-ce le temps de ces alarmes vaines ?</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1106">On a dit que Circé l’arrêta dans ses chaînes.</l>
 	<l id="1107">M’oublierait-il, grands dieux ! Puis-je m’imaginer</l>
 	<l id="1108">Qu’Ulysse à mes malheurs veuille m’abandonner ?</l>
@@ -1584,8 +1584,8 @@
 	<l id="1118">Et franchir mille fois les limites du monde.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Télémaque, Pénélope, Ériclée.</head>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Télémaque, Pénélope, Ériclée.</cast>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="1119">Enfin par des récits qui sont dignes de foi,</l>
 	<l id="1120">Madame, nous savons quel est le sort du roi.</l>
 	<l id="1121">Ulysse est en Corcyre, où la jeune princesse.</l>
@@ -1597,7 +1597,7 @@
 	<l id="1127">Il attendait le jour marqué pour son départ,</l>
 	<l id="1128" part="i">Et ses vaisseaux...</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1128" part="f">Mon fils, il reviendra trop tard ;</l>
 	<l id="1129">On me presse, on m’annonce un funeste hyménée.</l>
 	<l id="1130">Par un lâche tyran à périr condamnée,</l>
@@ -1610,27 +1610,27 @@
 	<l id="1137">Trompez nos fiers tyrans ; voyez avec Eumée</l>
 	<l id="1138">Les moyens d’éviter leur fureur enflammée.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="1139">Bientôt sur ce rivage Ulysse revenu...</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1140">Faites-moi seulement parler à l’inconnu :</l>
 	<l id="1141">Je veux l’interroger, c’est mon unique envie ;</l>
 	<l id="1142">Que je le voie avant que de quitter la vie.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="1143" part="i">Madame...</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1143" part="f">Mon destin ne peut se prolonger.</l>
 	<l id="1144">Allez. Je vais attendre : amenez l’étranger.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Télémaque, Ériclée.</head>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Télémaque, Ériclée.</cast>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="1145" part="i">Ah ! quel trouble, grands dieux !</l>
 </sp>
-<sp who="ERICLEE"><speaker>ÉRICLÉE.</speaker>
+<sp who="ERICLEE"><hstage><speaker>ÉRICLÉE</speaker>.</hstage>
 	<l id="1145" part="f">Seigneur, sauvons la reine ;</l>
 	<l id="1146">Cherchons un prompt remède à l’excès de sa peine.</l>
 	<l id="1147">Allez près d’Eurimaque employer vos efforts ;</l>
@@ -1645,7 +1645,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="1155" part="f">Où sommes-nous réduits !</l>
 	<l id="1156">On replonge ma mère en ses mortels ennuis ;</l>
 	<l id="1157">Ou presse cet hymen, lorsqu’elle attend Ulysse.</l>
@@ -1653,14 +1653,14 @@
 	<l id="1159">Tyrans ! C’est trop souffrir, et mon juste courroux...</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Ulysse, Télémaque, Eumée.</head>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Ulysse, Télémaque, Eumée.</cast>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1160">Prince, un bruit odieux m’appelle auprès de vous.</l>
 	<l id="1161">Antinoüs menace, et dès cette journée</l>
 	<l id="1162">On prescrit à la reine un indigne hyménée ;</l>
 	<l id="1163">On en veut à vos jours. Songeons à prévenir...</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="1164">Oui, j’y suis résolu, je cours pour les punir.</l>
 	<l id="1165">La reine veut mourir : ses douloureuses plaintes</l>
 	<l id="1166">Font sentir à mon cœur de trop vives atteintes.</l>
@@ -1669,14 +1669,14 @@
 	<l id="1169">Perfide Antinoüs, si ma perte est certaine,</l>
 	<l id="1170">Sous ma chute funeste il faut que je t’entraîne.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1171">Contre vos ennemis mon bras se vient offrir ;</l>
 	<l id="1172">Je dois périr moi-même, ou les faire périr.</l>
 	<l id="1173">C’était trop endurer une telle insolence.</l>
 	<l id="1174">Les dieux semblent hâter le temps de ma vengeance ;</l>
 	<l id="1175">Ils parlent à mon cœur, et j’entends leurs conseils.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="1176">Ciel ! d’un si grand dessein quels sont les appareils ?</l>
 	<l id="1177">À vous perdre pour nous quel motif vous engage.</l>
 	<l id="1178">Vous qu’un sort imprévu conduit sur ce rivage,</l>
@@ -1689,7 +1689,7 @@
 	<l id="1185">Et qu’enfin par ma mort j’ai cru faire connaître</l>
 	<l id="1186">De quel sang glorieux les dieux m’avaient fait naître.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1187">Ah ! c’est ici qu’il faut vous ouvrir mes desseins.</l>
 	<l id="1188">Et que nous unissions et nos cœurs et nos mains !</l>
 	<l id="1189">Je viens borner le cours de vos longues disgrâces.</l>
@@ -1703,7 +1703,7 @@
 	<l id="1197">Enivrés comme ils sont d’une vaine espérance,</l>
 	<l id="1198">Sans prévoir nos desseins, sentent notre vengeance .</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="1199">Ô zèle incomparable ! ô dessein glorieux !</l>
 	<l id="1200">Vous êtes envoyé par l’ordre exprès des dieux.</l>
 	<l id="1201">Vous-même, vous montrant comme un dieu tutélaire.</l>
@@ -1711,7 +1711,7 @@
 	<l id="1203">Cet air et ces regards, qui n’ont rien d’un mortel,</l>
 	<l id="1204">Me promettent la fin de mon destin cruel.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1205">Contre un si doux transport je n’ai plus de défense ;</l>
 	<l id="1206">Tout mon cœur pénétré s’ouvre avec violence !</l>
 	<l id="1207">Ah ! mon fils, mon cher fils, dans ces embrassements</l>
@@ -1719,15 +1719,15 @@
 	<l id="1209">Connaissez votre père, ô mon cher Télémaque !</l>
 	<l id="1210">Vous étiez au berceau quand je partis d’Ithaque.</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="1211" part="i">Oui, c’est le roi, Seigneur.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="1211" part="f">Mon père, je vous vois !</l>
 	<l id="1212">Je perds en cet instant l’usage de la voix-</l>
 	<l id="1213">Mais, mon père, est-ce ainsi qu’on eût dû vous attendre ?</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1214">L’état où je parois ne vous doit point surprendre.</l>
 	<l id="1215">Les dieux, comme il leur plaît, peuvent eu un moment</l>
 	<l id="1216">Nous mettre dans la gloire, ou dans l’abaissement.</l>
@@ -1740,7 +1740,7 @@
 	<l id="1223">Votre présence efface, en ce moment heureux.</l>
 	<l id="1224">Ce que mon infortune eut de plus rigoureux.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="1225">Ah, seigneur ! Ah, mon père ! Ah, quelle joie extrême !</l>
 	<l id="1226">À peine en ce bonheur me connais-je moi-même !</l>
 	<l id="1227">Rare faveur des dieux ! Vœux enfin exaucés !</l>
@@ -1760,7 +1760,7 @@
 	<l id="1241">Il faut que votre nom, armant toute la Grèce,</l>
 	<l id="1242">Fasse éclater sur eux la foudre vengeresse.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1243">Non : il faut en ce jour me perdre, ou me venger.</l>
 	<l id="1244">Mais les moments sont chers, allons les ménager.</l>
 	<l id="1245">Assemblez sans éclat cette noble jeunesse,</l>
@@ -1770,7 +1770,7 @@
 	<l id="1249">Ils sont de mon retour avertis par Eumée ;</l>
 	<l id="1250">Pour moi d’un zèle ardent leur âme est enflammée.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="1251">Que feront-ils ? Un peuple et lâche et désarmé,</l>
 	<l id="1252">Séduit par les tyrans, aussi bien qu’opprimé.</l>
 	<l id="1253">En ce péril soudain voudra-t-il reconnaître,</l>
@@ -1781,7 +1781,7 @@
 	<l id="1258">Elle succombera sous sa douleur mortelle.</l>
 	<l id="1259" part="i">Si vous ne la voyez...</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1259" part="f">Ah ! Sans cesse mon cœur</l>
 	<l id="1260">Vers un si cher objet se porte avec ardeur.</l>
 	<l id="1261">Peut-être, en vous cherchant, que mou âme éperdue</l>
@@ -1799,8 +1799,8 @@
 	<l id="1273">Allez, qu’un prompt retour tous trois nous réunisse.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Ulysse, Eumée.</head>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Ulysse, Eumée.</cast>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1274">Nous touchons au penchant d’un affreux précipice ;</l>
 	<l id="1275">Je ne te cèle point que j’en ai quelque effroi.</l>
 	<l id="1276">Et j’inspire un espoir que je n’ai pas en moi.</l>
@@ -1814,10 +1814,10 @@
 	<l id="1284">Avec tout ce que j’aime, et père, et femme, et fils !</l>
 	<l id="1285">Mais suivons mon destin, viens ; que tout se prépare,,</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="1286">Les tyrans sont armés, et leur rage barbare...</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1287">Je veux les reconnaître, et je vais remarquer</l>
 	<l id="1288">Le lieu, l’occasion propre à les attaquer.</l>
 	<l id="1289">Suis-moi. Mon cœur reprend une assiette tranquille.</l>
@@ -1840,33 +1840,33 @@
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Pénélope, Eumée, Ériclée.</head>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Pénélope, Eumée, Ériclée.</cast>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="1305">Où courez-vous ? O ciel ! par quelle impatience</l>
 	<l id="1306">Vous-même voulez-vous trahir notre espérance !</l>
 	<l id="1307" part="i">Madame, arrêtez.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1307" part="f">Non ; cessez de vains discours :</l>
 	<l id="1308">Je veux voir l’étranger ; il est chez vous, j’y cours.</l>
 	<l id="1309">Vous m’arrêtez en vain, je ne veux plus attendre.</l>
 	<l id="1310">Eh ! comment de me voir peut-il tant se défendre.</l>
 	<l id="1311">Et quel mystère ici peut être enveloppé ?</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="1312">Pour vous en ce moment son zélé est occupé,</l>
 	<l id="1313">Il est prêt à s’armer ; et si sa noble envie...</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1314">Je ne demande pas qu’il expose sa vie.</l>
 	<l id="1315">Hélas ! loin de tenter d’inutiles efforts,</l>
 	<l id="1316">Qu’il me parle, et soudain qu’il parte de ces bords.</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="1317">Madame, croyez-nous, un destin plus propice</l>
 	<l id="1318">Peut-être dès ce jour vous rendra votre Ulysse.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1319">Mes yeux courent en vain le vaste sein des eaux ;</l>
 	<l id="1320">Je ne vois point d’Ulysse arriver les vaisseaux.</l>
 	<l id="1321">Il reviendra trop tard, ma mort est assurée ;</l>
@@ -1877,18 +1877,18 @@
 	<l id="1326">Le reste, cher Eumée, il n’ose me le dire ;</l>
 	<l id="1327">Il craint par ce récit d’accroître mes tourments.</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="1328">Votre époux est fidèle, et dans peu de moments</l>
 	<l id="1329">L’étranger va calmer l’effroi qui vous agite.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1330">Plus vous me retenez, plus mon désir s’irrite.</l>
 	<l id="1331">Ah ! je veux lui parler, vos soins sont superflus ;</l>
 	<l id="1332">s’il diffère un moment, il ne me verra plus.</l>
 	<l id="1333">Une reine mourante et l’implore et l’appelle.</l>
 	<l id="1334" part="i">C’est trop attendre, allons.</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="1334" part="f">Extrémité cruelle !</l>
 	<l id="1335">De votre impatience il le faut avertir :</l>
 	<l id="1336">Je vais vous l’amener, il y doit consentir :</l>
@@ -1896,16 +1896,16 @@
 	<l id="1338">A cacher les transports qui troubleront votre âme.</l>
 	<l id="1339" part="i">Modérez...</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1339" part="f">À mes vœux qu’il se laisse toucher.</l>
 	<l id="1340">Allez, courez ; qu’il vienne, ou je vais le chercher.</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="1341" part="i">Vous le voulez, j’y cours.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Pénélope, Ériclée.</head>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE, assise.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Pénélope, Ériclée.</cast>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>, assise.</hstage>
 	<l id="1341" part="f">Incroyable supplice !</l>
 	<l id="1342">Tu me regretteras, trop insensible Ulysse !</l>
 	<l id="1343">Mon amour te prépare un juste repentir.</l>
@@ -1923,11 +1923,11 @@
 	<l id="1355">Mon esprit le cherchait en des lieux ignorés,</l>
 	<l id="1356">Et d’un faible trajet nous étions séparés !</l>
 </sp>
-<sp who="ERICLEE"><speaker>ÉRICLÉE.</speaker>
+<sp who="ERICLEE"><hstage><speaker>ÉRICLÉE</speaker>.</hstage>
 	<l id="1357">Pourquoi l’accusez-vous, puisqu’il revient lui-même</l>
 	<l id="1358">Justifier sa foi, vous montrer qu’il vous aime ?</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1359">On me trompe, Ériclée : il serait revenu,</l>
 	<l id="1360">Si des nœuds étrangers ne l’avaient retenu.</l>
 	<l id="1361">Ulysse, on voit ton père expirer de tristesse,</l>
@@ -1950,43 +1950,43 @@
 	<l id="1378">Tous les brillants attraits qu’un peu de temps efface.</l>
 	<l id="1379" part="i">Mais l’étranger...</l>
 </sp>
-<sp who="ERICLEE"><speaker>ÉRICLÉE.</speaker>
+<sp who="ERICLEE"><hstage><speaker>ÉRICLÉE</speaker>.</hstage>
 	<l id="1379" part="m">Il vient.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1379" part="f">Laissez-moi lui parler,</l>
 	<l id="1380">Et gardez que quelqu’un ne nous vienne troubler.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Ulysse, Pénélope.</head>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Ulysse, Pénélope.</cast>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1381">Dieux ! où me conduis-tu ? Que mon âme est émue !</l>
 	<l id="1382">En l’état où je suis, m’offrirai-je à sa vue ?</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1383">Ulysse est donc vivant ? Suis-je en son souvenir ?</l>
 	<l id="1384">Vous parlait-il de moi ? Quand doit-il revenir ?</l>
 	<l id="1385">Me celant qu’il vivait, était-ce son envie</l>
 	<l id="1386">Que mes longues douleurs terminassent ma vie ?</l>
 	<l id="1387" part="i">Ne m’aime-t-il donc plus ?</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1387" part="f">Ah ! jamais votre époux</l>
 	<l id="1388">Ne pouvait rien aimer, n’aimera rien que vous.</l>
 	<l id="1389">Vivez, et d’un amour si parfait, si fidèle,</l>
 	<l id="1390">Voyez-le confirmer la durée immortelle.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1391">Dieux ! Qu’est-ce que j’entends ? Quelle touchante voix !</l>
 	<l id="1392">Ulysse... C’est ainsi qu’il parlait autrefois !</l>
 	<l id="1393">Quel doux charme s’oppose à ma douleur extrême !</l>
 	<l id="1394">Plus je regarde, plus... Ah ! seigneur, c’est vous même !</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1395">Oui, madame, c’est moi, c’est cet époux heureux.</l>
 	<l id="1396">De qui l’éloignement vous coûte tant de vœux.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1397">Je doute d’un bonheur que je ne puis comprendre !</l>
 	<l id="1398">Est-il bien vrai ? Mes yeux craignent de se méprendre.</l>
 	<l id="1399">Oui, c’est vous, et mon cœur vous avait reconnu.</l>
@@ -1995,16 +1995,16 @@
 	<l id="1402">De mes regards troublés m’avaient ôté l’usage !</l>
 	<l id="1403" part="i">Ulysse !</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1403" part="m">Pénélope !</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1403" part="m">Ô favorable jour !</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1404" part="i">Ô moments fortunés !</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1404" part="f">Mais ce charmant retour,</l>
 	<l id="1405">Pourquoi me le celer, quand vous saviez mes craintes,</l>
 	<l id="1406">Et de mon désespoir les funestes atteintes ?</l>
@@ -2019,7 +2019,7 @@
 	<l id="1415">Pourquoi reveniez-vous ? Téméraires souhaits !</l>
 	<l id="1416">Ciel ! Il eût mieux valu ne le revoir jamais !</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1417">Ah ! Revenez à vous. Faut-il que ma présence</l>
 	<l id="1418">Puisse de vos ennuis aigrir la violence ?</l>
 	<l id="1419">De tant de maux divers qu’on me vit endurer,</l>
@@ -2033,7 +2033,7 @@
 	<l id="1427">Ah ! Quand je vous revois, quand vous me revoyez,</l>
 	<l id="1428">Pénélope, vos pleurs devraient être essuyés.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1429">Eh ! Comment vous revois-je ? Hélas ! Je n’envisage</l>
 	<l id="1430">Que d’une prompte mort l’épouvantable image !</l>
 	<l id="1431">C’est en faisant sur vous tomber ses coups affreux,</l>
@@ -2041,7 +2041,7 @@
 	<l id="1433">Sous de si longs ennuis languissante, abattue,</l>
 	<l id="1434">Aurais-je pu prévoir le dernier qui me tue !</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1435">Je viens en ce grand jour terminer vos malheurs,</l>
 	<l id="1436">Perdre vos ennemis, et venger vos douleurs.</l>
 	<l id="1437">Les dieux vont décider de notre destinée ;</l>
@@ -2052,16 +2052,16 @@
 	<l id="1442">Lorsque je dois m’armer d’un courage invincible ;</l>
 	<l id="1443" part="i">Laissez-moi vous quitter.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1443" part="f">Pour courir au trépas ?</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1444" part="i">Je vais vous délivrer.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1444" part="f">Je veux suivre vos pas.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1445">De paraître à vos yeux je devais me défendre :</l>
 	<l id="1446">Vos plaintes, vos transports se feront trop entendre ;</l>
 	<l id="1447">Et ces cruels tyrans que mon bras doit punir.</l>
@@ -2071,37 +2071,37 @@
 	<l id="1451">Je m’arrête, m’oublie et me laisse attendrir !</l>
 	<l id="1452">Ce n’en est pas le temps, il faut vous secourir.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1453">Que les dieux soient fléchis, qu’ils soient inexorables,</l>
 	<l id="1454">Nos destins désormais seront inséparables.</l>
 	<l id="1455" part="i">Je ne vous quitte plus.</l>
 </sp>
-<sp who="ULYSSE"><speaker>ULYSSE.</speaker>
+<sp who="ULYSSE"><hstage><speaker>ULYSSE</speaker>.</hstage>
 	<l id="1455" part="f">Ne me retenez pas.</l>
 	<l id="1456" part="i">Attendez, espérez.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1456" part="f">Il se va perdre, hélas !</l>
 	<l id="1457" part="i">Suivons.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Eurimaque, Pénélope, Ériclée.</head>
-<sp who="ERICLEE"><speaker>ÉRICLÉE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Eurimaque, Pénélope, Ériclée.</cast>
+<sp who="ERICLEE"><hstage><speaker>ÉRICLÉE</speaker>.</hstage>
 	<l id="1457" part="f">De vos ennuis cachez la violence :</l>
 	<l id="1458">Vous découvrirez tout, votre ennemi s’avance.</l>
 </sp>
-<sp who="EURIMAQUE"><speaker>EURIMAQUE.</speaker>
+<sp who="EURIMAQUE"><hstage><speaker>EURIMAQUE</speaker>.</hstage>
 	<l id="1459">Il fuit. Il croit en vain éviter mon courroux,</l>
 	<l id="1460">L’imposteur ! Je voulais le surprendre avec vous.</l>
 	<l id="1461">Dieux ! À ce dernier trait aurais-je pu m’attendre !</l>
 	<l id="1462">Ce n’est point un faux bruit qui vient de se répandre :</l>
 	<l id="1463" part="i">Vous le croyez ?</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1463" part="f">Seigneur, je crois la vérité.</l>
 	<l id="1464" part="i">Mon Ulysse est vivant.</l>
 </sp>
-<sp who="EURIMAQUE"><speaker>EURIMAQUE.</speaker>
+<sp who="EURIMAQUE"><hstage><speaker>EURIMAQUE</speaker>.</hstage>
 	<l id="1464" part="f">Ah ! J’en serais flatté.</l>
 	<l id="1465">Je voudrais qu’il vécut, pour sentir mieux ma haine ;</l>
 	<l id="1466">Que mon bonheur causât et sa honte et sa peine ;</l>
@@ -2121,8 +2121,8 @@
 	<l id="1480">L’arrêt est prononcé ; je ne pardonne plus.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Pénélope, Ériclée.</head>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Pénélope, Ériclée.</cast>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1481">Était-ce donc ainsi que vous deviez m’entendre,</l>
 	<l id="1482">Grands dieux ? Était-ce ainsi qu’il fallait me le rendre.</l>
 	<l id="1483">Cet époux demandé par des vœux si constants ?</l>
@@ -2135,10 +2135,10 @@
 	<l id="1490">Ne frémissez-vous point en regardant Ulysse ?</l>
 	<l id="1491">C’est lui. Je veux, cruel, mourir des mêmes coups.</l>
 </sp>
-<sp who="ERICLEE"><speaker>ÉRICLÉE.</speaker>
+<sp who="ERICLEE"><hstage><speaker>ÉRICLÉE</speaker>.</hstage>
 	<l id="1492" part="i">Madame !</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1492" part="f">Hélas ! mes cris trahiront mon époux.</l>
 	<l id="1493">Oui, peut-être qu’encor leur fureur en balance</l>
 	<l id="1494">N’exerce pas sur lui toute sa violence ;</l>
@@ -2153,12 +2153,12 @@
 	<l id="1503">Courons, cherchons Iphise ; il la faut employer</l>
 	<l id="1504" part="i">Pour suspendre...</l>
 </sp>
-<sp who="ERICLEE"><speaker>ÉRICLÉE.</speaker>
+<sp who="ERICLEE"><hstage><speaker>ÉRICLÉE</speaker>.</hstage>
 	<l id="1504" part="f">Le ciel semble vous l’envoyer.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Iphise, Pénélope, Ériclée.</head>
-<sp who="IPHISE"><speaker>IPHISE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Iphise, Pénélope, Ériclée.</cast>
+<sp who="IPHISE"><hstage><speaker>IPHISE</speaker>.</hstage>
 	<l id="1505">Que faites-vous, hélas ! Je viens de voir mon père</l>
 	<l id="1506">Suivre, sans m’écouter, sou ardente colère.</l>
 	<l id="1507">Arcas, Antinoüs, excitent leurs soldats :</l>
@@ -2166,11 +2166,11 @@
 	<l id="1509">Ils vont perdre le prince, Êtes-vous sans alarmes ?</l>
 	<l id="1510">Tout le peuple est troublé, par-tout brillent les armes.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1511">Ah ! Vous ne savez pas quels coups me font souffrir ;</l>
 	<l id="1512">Mes maux sont à leur comble, et je n’ai qu’à mourir.</l>
 </sp>
-<sp who="IPHISE"><speaker>IPHISE.</speaker>
+<sp who="IPHISE"><hstage><speaker>IPHISE</speaker>.</hstage>
 	<l id="1513">Quoi ! Quel vain désespoir de votre âme s’empare !</l>
 	<l id="1514">Non : arrachez le prince à leur fureur barbare.</l>
 	<l id="1515">Vous pouvez d’un seul mot calmer tous les esprits :</l>
@@ -2181,8 +2181,8 @@
 	<l id="1520">Ah ! s’il est temps encor je vais le secourir..</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Pénélope, Ériclée, Eurinome.</head>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Pénélope, Ériclée, Eurinome.</cast>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1521">Ne ménageons plus rien : allons, chère Ériclée,</l>
 	<l id="1522">Montrer toute l’horreur dont mon âme est comblée ;</l>
 	<l id="1523">Apprenons à ce peuple à mourir pour son roi.</l>
@@ -2191,7 +2191,7 @@
 	<l id="1525">Jusqu’où va des tyrans la cruelle injustice ?</l>
 	<l id="1526" part="i">Sur l’étranger...</l>
 </sp>
-<sp who="EURINOME"><speaker>EURINOME.</speaker>
+<sp who="EURINOME"><hstage><speaker>EURINOME</speaker>.</hstage>
 	<l id="1526" part="f">On dit qu’on reconnaît Ulysse ;</l>
 	<l id="1527">Qu’on l’immole, qu’il meurt. Un combat furieux.</l>
 	<l id="1528">Un spectacle inouï vient d’effrayer mes yeux :</l>
@@ -2208,22 +2208,22 @@
 	<l id="1539" part="i">Sous ses pas... Il paraît</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Télémaque, Pénélope, Ériglée, Eurinome.</head>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Télémaque, Pénélope, Ériglée, Eurinome.</cast>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1539" part="f">Mon fils, où courez-vous ?</l>
 	<l id="1540" part="i">Venez, mourons ensemble.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="1540" part="f">Ah ! Le ciel est pour nous.</l>
 	<l id="1541">Mon père est triomphant ; sa valeur invincible...</l>
 	<l id="1542">Non, plutôt quelque dieu sous sa forme est visible ;</l>
 	<l id="1543">Et ce miracle est tel, que venant de le voir</l>
 	<l id="1544">J’ai peine encor moi-même à le bien concevoir.</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1545" part="i">Dieux justes !</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="1545" part="f">Des tyrans l’implacable colère.</l>
 	<l id="1546">Le traitant d’imposteur, voulait perdre mon père.</l>
 	<l id="1547">Et, par un châtiment célèbre et signalé.</l>
@@ -2267,26 +2267,26 @@
 	<l id="1585" part="i">Que veut Eumée ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Eumée, Télémaque, Pénélope, Ériclée, Eurinome.</head>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>Eumée, Télémaque, Pénélope, Ériclée, Eurinome.</cast>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="1585" part="f">Enfin tout se calme en Ithaque.</l>
 	<l id="1586">Mais votre soin n’a pu conserver Eurimaque :</l>
 	<l id="1587">Lorsqu’il croyait, seigneur, aborder ses vaisseaux.</l>
 	<l id="1588">L’esquif qui le portait s’abîme sous les eaux.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="1589" part="i">Et que devient Iphise ?</l>
 </sp>
-<sp who="EUMEE"><speaker>EUMÉE.</speaker>
+<sp who="EUMEE"><hstage><speaker>EUMÉE</speaker>.</hstage>
 	<l id="1589" part="f">J’ignore sa perte.</l>
 	<l id="1590">Ulysse vous attend pour aller voir Laërte,</l>
 	<l id="1591" part="i">Madame.</l>
 </sp>
-<sp who="TELEMAQUE"><speaker>TÉLÉMAQUE.</speaker>
+<sp who="TELEMAQUE"><hstage><speaker>TÉLÉMAQUE</speaker>.</hstage>
 	<l id="1591" part="f">Pardonnez si mon empressement</l>
 	<l id="1592" part="i">Cherche Iphise...</l>
 </sp>
-<sp who="PENELOPE"><speaker>PÉNÉLOPE.</speaker>
+<sp who="PENELOPE"><hstage><speaker>PÉNÉLOPE</speaker>.</hstage>
 	<l id="1592" part="f">Suivez ce tendre mouvement.</l>
 	<l id="1593">Enfin, dieux tout-puissants qui m’avez exaucée,</l>
 	<l id="1594">De mes longues douleurs je suis récompensée !</l>

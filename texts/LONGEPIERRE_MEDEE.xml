@@ -55,8 +55,8 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Jason, Iphite.</head>
-<sp who="JASON"><speaker>JASON</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Jason, Iphite.</cast>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="1">Je sais ce que je dois à l’amour de Médée.</l>
 	<l id="2">Cesse, Iphite, à mes yeux d’en retracer l’idée.</l>
 	<l id="3">Ce qu’elle a fait pour moi, dans la Grèce, à Colchos,</l>
@@ -76,7 +76,7 @@
 	<l id="17">Et ce cœur embrasé d’une ardeur violente,</l>
 	<l id="18">Ne saurait s’affranchir du charme qui l’enchante.</l>
 </sp>
-<sp who="IPHITE"><speaker>IPHITE</speaker>
+<sp who="IPHITE"><hstage><speaker>IPHITE</speaker></hstage>
 	<l id="19">De ce nouvel amour, la trompeuse douceur</l>
 	<l id="20">Séduit votre raison par son appât flatteur.</l>
 	<l id="21">Votre âme toute entière avidement s’y livre,</l>
@@ -86,7 +86,7 @@
 	<l id="25">Vous banniriez bientôt Créuse de votre âme,</l>
 	<l id="26">Et vous étoufferiez une funeste flamme.</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="27">Non, la raison ici, d’accord avec mon cœur,</l>
 	<l id="28">Autorise ma flamme et soutient mon ardeur.</l>
 	<l id="29">Exilés, fugitifs, le trépas de Pélie</l>
@@ -134,7 +134,7 @@
 	<l id="71">Créüse seule, enfin, peut m’assurer Créon...</l>
 	<l id="72">Eh bien ! L’amour, Iphite, aveugle-t-il Jason ?</l>
 </sp>
-<sp who="IPHITE"><speaker>IPHITE</speaker>
+<sp who="IPHITE"><hstage><speaker>IPHITE</speaker></hstage>
 	<l id="73">C’est ainsi que l’amour, trop fertile en excuses,</l>
 	<l id="74">Aveugle par son charme, et séduit par ses ruses.</l>
 	<l id="75">Même en nous égarant, il feint de nous guider.</l>
@@ -143,7 +143,7 @@
 	<l id="78">Trahira, les bienfaits et l’espoir de Médée ?</l>
 	<l id="79">Ni les droits de l’hymen, ni sa fidèle ardeur.</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="80">Qu’un tel secours est faible, et défend mal mon cœur,</l>
 	<l id="81">Iphite. Ah ! Quand l’amour règne avec violence,</l>
 	<l id="82">Que peut la faible voix de la reconnaissance ?</l>
@@ -174,10 +174,10 @@
 	<l id="107">Enfin, en la voyant, ébloui, transporté,</l>
 	<l id="108">Je crus voir, et je vis, une Divinité.</l>
 </sp>
-<sp who="IPHITE"><speaker>IPHITE</speaker>
+<sp who="IPHITE"><hstage><speaker>IPHITE</speaker></hstage>
 	<l id="109">Mais quels sont vos projets ? Que pouvez-vous prétendre ?</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="110">D’écouter ma tendresse, et de tout entreprendre.</l>
 	<l id="111">L’amour se flatte, Iphite, et se croit tout permis.</l>
 	<l id="112">Que n’ose point un cœur à son pouvoir soumis ?</l>
@@ -192,7 +192,7 @@
 	<l id="121">Et cependant, ami, cette grande conquête,</l>
 	<l id="122">Valait-elle le prix qu’ici l’amour m’apprête ?</l>
 </sp>
-<sp who="IPHITE"><speaker>IPHITE</speaker>
+<sp who="IPHITE"><hstage><speaker>IPHITE</speaker></hstage>
 	<l id="123">Dieux ! Que fera Médée, et quel affreux courroux</l>
 	<l id="124">Ne l’enflammera point contre un parjure époux ?</l>
 	<l id="125">Si vous l’abandonnez, redoutez sa vengeance.</l>
@@ -205,7 +205,7 @@
 	<l id="132">Elle lance la foudre, et change en sang les eaux.</l>
 	<l id="133" part="i">Vous savez. ...</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="133" part="f">Je le sais ; cesse de me le dire.</l>
 	<l id="134">Mais de l’amour aussi je sais quel est l’empire.</l>
 	<l id="135">Plus puissant est son art, plus fort que son courroux,</l>
@@ -216,22 +216,22 @@
 	<l id="140">Mais à tout son courroux dussai-je m’exposer,</l>
 	<l id="141">Je n’écoute et ne suis que l’ardeur qui me presse.</l>
 </sp>
-<sp who="IPHITE"><speaker>IPHITE</speaker>
+<sp who="IPHITE"><hstage><speaker>IPHITE</speaker></hstage>
 	<l id="142" part="i">De grâce, examinez....</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="142" part="f">Ah ! Je vois ma Princesse.</l>
 	<l id="143">Considère, à loisir, contemple tant d’appas.</l>
 	<l id="144">Peut-on la voir, Iphite, et ne l’adorer pas ?</l>
 	<l id="145">Rien n’est à redouter, à fuir que sa colère.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Jason, Créuse, Iphite, Cydippe.</head>
-<sp who="CRÉUSE"><speaker>CRÉUSE</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Jason, Créuse, Iphite, Cydippe.</cast>
+<sp who="CRÉUSE"><hstage><speaker>CRÉUSE</speaker></hstage>
 	<l id="146">Je croyais, en ces lieux, trouver le Roi mon père.</l>
 	<l id="147">On vient de m’assurer qu’il vous cherche, Seigneur.</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="148">Je n’ai point vu le Roi, Madame ; mais mon cœur,</l>
 	<l id="149">Par de profonds respects, par l’amour le plus tendre,</l>
 	<l id="150">Ne pourra-t-il jamais mériter et prétendre</l>
@@ -246,7 +246,7 @@
 	<l id="159">Je sens un feu si vif s’accroître à chaque pas :</l>
 	<l id="160">Madame, à tant d’amour vous ne répondez pas ?</l>
 </sp>
-<sp who="CRÉUSE"><speaker>CRÉUSE</speaker>
+<sp who="CRÉUSE"><hstage><speaker>CRÉUSE</speaker></hstage>
 	<l id="161">Eh ! Le puis-je, Seigneur ? Une jeune Princesse</l>
 	<l id="162">Ne doit qu’à son époux déclarer sa tendresse.</l>
 	<l id="163">Il est vrai que le Roi, qui doit régler mes vœux,</l>
@@ -266,13 +266,13 @@
 	<l id="177">Pourrais-je, à ce penchant, abandonner mon âme,</l>
 	<l id="178" part="i">Tandis qu’un autre hymen vous attache ?...</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="178" part="f">Ah ! Madame,</l>
 	<l id="179">Cessez, cessez de craindre un hymen odieux,</l>
 	<l id="180">Condamné par les Grecs, réprouvé par les Dieux ;</l>
 	<l id="181">Dès demain, dès ce jour, faut-il briser ses chaînes ?</l>
 </sp>
-<sp who="CRÉUSE"><speaker>CRÉUSE</speaker>
+<sp who="CRÉUSE"><hstage><speaker>CRÉUSE</speaker></hstage>
 	<l id="182">Mais qui m’assurera qu’insensible à ses peines,</l>
 	<l id="183">Vous puissiez soutenir sa vue et sa douleur,</l>
 	<l id="184">Sans lui rendre bientôt vos vœux et votre cœur ?</l>
@@ -284,7 +284,7 @@
 	<l id="190">Je crains tout d’un amour et si long et si tendre.</l>
 	<l id="191" part="i">Je crains ...</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="191" part="f">Ah ! Dissipez une indigne frayeur.</l>
 	<l id="192">Quel outrage ! Ainsi donc jugez-vous de mon cœur ?</l>
 	<l id="193">Connaissez mieux ce cœur, Madame, et ma tendresse.</l>
@@ -298,12 +298,12 @@
 	<l id="201">Je donnerais mon sang, j’immolerais ma vie.</l>
 	<l id="202">Trop heureux que pour vous le sort me l’eût ravie !</l>
 </sp>
-<sp who="CRÉUSE"><speaker>CRÉUSE</speaker>
+<sp who="CRÉUSE"><hstage><speaker>CRÉUSE</speaker></hstage>
 	<l id="203">J’entends le Roi, Seigneur : il paraît à vos yeux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Jason, Créuse, Créon, Suite.</head>
-<sp who="CREON"><speaker>CRÉON</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Jason, Créuse, Créon, Suite.</cast>
+<sp who="CREON"><hstage><speaker>CRÉON</speaker></hstage>
 	<l id="204">Je vous cherchais, Seigneur. Savez-vous qu’en ces lieux</l>
 	<l id="205">Un nouvel envoyé du Roi de Thessalie</l>
 	<l id="206">Vient demander raison du meurtre de Pélie ?</l>
@@ -315,12 +315,12 @@
 	<l id="212">Je refuse un asile à ses assassinats.</l>
 	<l id="213" part="i">Il me presse ...</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="213" part="f">Ah ! Seigneur, votre cœur magnanime</l>
 	<l id="214">Pourrait-il lui livrer une triste victime ?</l>
 	<l id="215" part="i">Pourrait-il ...</l>
 </sp>
-<sp who="CREON"><speaker>CRÉON</speaker>
+<sp who="CREON"><hstage><speaker>CRÉON</speaker></hstage>
 	<l id="215" part="f">En faveur de vos fils et de vous,</l>
 	<l id="216">Je ne veux point livrer Médée à son courroux.</l>
 	<l id="217">Mais est-il juste, aussi, Jason, que de ses crimes,</l>
@@ -354,13 +354,13 @@
 	<l id="245">Et que Corinthe ainsi n’étant plus profanée,</l>
 	<l id="246">Il se prête avec joie à ce doux hyménée.</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="247">Je cède à vos raisons ; j’obéis. Mais, Seigneur,</l>
 	<l id="248">Daignez par vos bontés adoucir ses malheurs ,</l>
 	<l id="249">Par tout ce qui pourra rendre son sort moins rude,</l>
 	<l id="250">Consolez ses ennuis, flattez sa solitude.</l>
 </sp>
-<sp who="CREON"><speaker>CRÉON</speaker>
+<sp who="CREON"><hstage><speaker>CRÉON</speaker></hstage>
 	<l id="251">Quoiqu’elle ait mérité des maux plus rigoureux,</l>
 	<l id="252">Je consens à remplir vos désirs généreux :</l>
 	<l id="253">Et pour mieux adoucir son déplaisir extrême,</l>
@@ -382,7 +382,7 @@
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="MEDEE"><speaker>MÉDÉE, seule.</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker>, seule.</hstage>
 	<l id="267">Où suis-je malheureuse ? Où portai-je mes pas ?</l>
 	<l id="268">Qu’ai-je vu ? Qu’ai-je ouï ? Je ne me connais pas.</l>
 	<l id="269">Furieuse, je cours, et doute si je veille.</l>
@@ -429,25 +429,25 @@
 	<l id="310">Le crime nous unit ; il faut qu’il nous sépare.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Médée, Rhodope.</head>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Médée, Rhodope.</cast>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="311">Eh bien ! Tu vois le prix que me gardait Jason ?</l>
 	<l id="312">L’ingrat couronne enfin sa noire trahison.</l>
 	<l id="313">Il épouse Créüse, et la pompe s’apprête ;</l>
 	<l id="314">Tout m’annonce ma mort. Mais à quand cette fête ?</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker></hstage>
 	<l id="315">Madame, cet hymen se célèbre demain.</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="316">Demain ! Le temps est court, et le terme prochain ;</l>
 	<l id="317" part="i">Il faut en profiter.</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker></hstage>
 	<l id="317" part="f">Quel funeste hyménée !</l>
 	<l id="318">Hélas ! À quels malheurs êtes-vous condamnée ?</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="319">Ah ! Rien n’est comparable aux horreurs de mon sort.</l>
 	<l id="320">Rhodope, qui l’eût cru ? Jason jure ma mort.</l>
 	<l id="321">Au plus honteux destin son mépris me ravale :</l>
@@ -463,12 +463,12 @@
 	<l id="331">Et seule à la merci d’un monde d’ennemis,</l>
 	<l id="332">Que m’ont fait les forfaits que pour lui j’ai commis.</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker></hstage>
 	<l id="333">Trop indigne de vous après sa lâche injure,</l>
 	<l id="334">Oubliez un ingrat, dédaignez un parjure.</l>
 	<l id="335">D’un généreux orgueil vous armant en ce jour ...</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="336">Eh ! Puis-je triompher de mon fatal amour ?</l>
 	<l id="337">Malheureuse ! Tout cède à mon art redoutable.</l>
 	<l id="338">La nature se trouble à ma voix formidable.</l>
@@ -483,19 +483,19 @@
 	<l id="347">D’un tyrannique amour, trop barbare rigueur,</l>
 	<l id="348">Cesse pour un ingrat de déchirer mon cœur !</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker></hstage>
 	<l id="349">En ce funeste état, que vous êtes à plaindre !</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="350">Il est vrai, je le suis ; mais plus encore à craindre.</l>
 	<l id="351">On n’offensa jamais Médée impunément.</l>
 	<l id="352">Mais, que dit ma rivale ? Et que fait son amant ?</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker></hstage>
 	<l id="353">Ah ! Madame, il soupire aux pieds de la Princesse,</l>
 	<l id="354">Et n’est plus occupé que du feu qui le presse.</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="355">Ton sang va me venger, lâche et perfide époux !</l>
 	<l id="356">Tu mourras ... Quelle horreur vient glacer mon courroux ?</l>
 	<l id="357">Et depuis quand Médée est-elle si timide ?</l>
@@ -519,15 +519,15 @@
 	<l id="375">Qu’il périsse et sa sa race. Accablons son orgueil ;</l>
 	<l id="376">Mettons son insolence et sa gloire au cercueil.</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker></hstage>
 	<l id="377">Ah ! Modérez, de grâce une douleur si forte.</l>
 	<l id="378">Étouffez, ou cachez l’ardeur qui vous emporte.</l>
 	<l id="379">J’entends du bruit. On vient. Domptez ce fier courroux,</l>
 	<l id="380">Madame ; c’est Créon qui s’avance vers Vous.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Médée, Créon, Rhodope, Suite.</head>
-<sp who="CREON"><speaker>CRÉON</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Médée, Créon, Rhodope, Suite.</cast>
+<sp who="CREON"><hstage><speaker>CRÉON</speaker></hstage>
 	<l id="381">Jason avec ma fille unit sa destinée.</l>
 	<l id="382">Vous entendez déjà chanter leur hyménée.</l>
 	<l id="383">Madame, à ce divorce, il faut vous préparer.</l>
@@ -549,16 +549,16 @@
 	<l id="399">Le sort, la paix, vos jours, tout semble y conspirer.</l>
 	<l id="400">J’ai voulu vous l’apprendre et vous y préparer.</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="401">Qu’à ces rares bontés j’ai de grâces à rendre !</l>
 	<l id="402">Vous m’ôtez mon époux, vous le prenez pour gendre,</l>
 	<l id="403">Vous me chassez enfin. Dites-moi seulement</l>
 	<l id="404">Quel attentat m’attire un si doux traitement ?</l>
 </sp>
-<sp who="CREON"><speaker>CRÉON</speaker>
+<sp who="CREON"><hstage><speaker>CRÉON</speaker></hstage>
 	<l id="405">Quoi ! Médée est surprise et demande ses crimes !</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="406">A-t-on, pour m’opprimer, quelques droits légitimes ?</l>
 	<l id="407">Un Tyran, par la force, agit dans ses États ;</l>
 	<l id="408">Un Roi juste, au coupable apprend ses attentats.</l>
@@ -599,12 +599,12 @@
 	<l id="443">Pour les avoir sauvés, je ne demande rien.</l>
 	<l id="444">Je vous les laisse tous ; mais laissez-moi mon bien.</l>
 </sp>
-<sp who="CREON"><speaker>CRÉON</speaker>
+<sp who="CREON"><hstage><speaker>CRÉON</speaker></hstage>
 	<l id="445">Ainsi donc, à louer, Médée est innocente.</l>
 	<l id="446">On devrait consacrer sa vertu bienfaisante.</l>
 	<l id="447" part="i">La Grèce ...</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="447" part="f">Me doit tout, et ne saurait jamais</l>
 	<l id="448">D’un assez digne prix couronner mes bienfaits.</l>
 	<l id="449">Toutefois que sert-il d’affecter un faux zèle ?</l>
@@ -614,27 +614,27 @@
 	<l id="453">De quel droit osez-vous séparer nos fortunes ?</l>
 	<l id="454">Même sort nous est dû ; nos causes sont communes.</l>
 </sp>
-<sp who="CREON"><speaker>CRÉON</speaker>
+<sp who="CREON"><hstage><speaker>CRÉON</speaker></hstage>
 	<l id="455">Ah ! De grâce, avec vous ne le confondez pas ;</l>
 	<l id="456">Jason est innocent de tous vos attentats.</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="457">Non ; il est criminel, ce Héros magnanime.</l>
 	<l id="458">En tirer tout le fruit, c’est commettre le crime.</l>
 	<l id="459">Tyrannique pouvoir qui cherche à m’offenser ...</l>
 </sp>
-<sp who="CREON"><speaker>CRÉON</speaker>
+<sp who="CREON"><hstage><speaker>CRÉON</speaker></hstage>
 	<l id="460">Ma patience enfin commence à se lasser,</l>
 	<l id="461" part="i">Et pourrait ...</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="461" part="f">Ah ! Tyran ! La mienne est déjà lasse.</l>
 	<l id="462">Va, je ne veux de toi ni clémence ni grâce.</l>
 	<l id="463">Ordonne mon exil, ravis-moi mon époux :</l>
 	<l id="464">Tu le peux ; mais, Tyran ! Redoute mon courroux.</l>
 	<l id="465" part="i">Crains ...</l>
 </sp>
-<sp who="CREON"><speaker>CRÉON</speaker>
+<sp who="CREON"><hstage><speaker>CRÉON</speaker></hstage>
 	<l id="465" part="f">Ah ! C’est trop longtemps contraindre ma colère.</l>
 	<l id="466">Va, sors de mes États ; sors, barbare étrangère.</l>
 	<l id="467">Abandonne Corinthe, et cours en d’autres lieux</l>
@@ -653,8 +653,8 @@
 <stage>Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Médée, Rhodope.</head>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Médée, Rhodope.</cast>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="479" part="f">Tyran, n’en doute pas ;</l>
 	<l id="480">Mon choix est fait. Demain je sors de tes États.</l>
 	<l id="481">Mais, malgré ton orgueil, je veux fuir avec gloire !</l>
@@ -664,10 +664,10 @@
 	<l id="485">Mais, Rhodope, l’ingrat que j’aime et qui m’offense,</l>
 	<l id="486" part="i">A-t-il pu consentir ?...</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker></hstage>
 	<l id="486" part="f">Je le vois qui s’avance.</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="487">Ô toi ! Qui vois mon trouble et causes ma douleur,</l>
 	<l id="488">Amour ! Daigne amollir l’ingrat en ma faveur ;</l>
 	<l id="489">Remets-le dans mes fers , efface son injure ;</l>
@@ -676,8 +676,8 @@
 	<l id="492">Prête un charme à mes pleurs, qui puisse l’attendrir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Médée, Jason, Rhodope.</head>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Médée, Jason, Rhodope.</cast>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="493">Enfin, c’en est donc fait, mon époux m’abandonne.</l>
 	<l id="494">Il consent qu’on m’exile, ou plutôt il l’ordonne.</l>
 	<l id="495">L’exil, vous le savez, n’est pas nouveau pour moi.</l>
@@ -703,7 +703,7 @@
 	<l id="515">Vous le savez, Jason ; pour vous j’ai tout quitté.</l>
 	<l id="516">Est-ce donc là le prix que j’avais mérité ?</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="517">Ne me reprochez point un malheur nécessaire,</l>
 	<l id="518">Où des Dieux, contre nous, me réduit la colère.</l>
 	<l id="519">Je partage vos maux, je ressens vos douleurs,</l>
@@ -713,7 +713,7 @@
 	<l id="523">Les bontés de Créüse et les bienfaits du Roi,</l>
 	<l id="524" part="i">Me font ...</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="524" part="f">Oses-tu bien en parler devant moi,</l>
 	<l id="525">Ingrat ? Quel vain détour ! Quelle odieuse excuse !</l>
 	<l id="526">Les bienfaits de Créon, les bontés de Créüse !</l>
@@ -742,7 +742,7 @@
 	<l id="549">Ta vie est un tissu des bienfaits de Médée.</l>
 	<l id="550">Créüse, ingrat ! Peut-elle en effacer l’idée ?</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="551">Jusques dans le tombeau, rempli de vos bienfaits,</l>
 	<l id="552">Jason en gardera la mémoire à jamais.</l>
 	<l id="553">Dans le fond de mon cœur, si vos yeux pouvaient lire,</l>
@@ -750,7 +750,7 @@
 	<l id="555">Mais, quand le sort conspire à vous faire périr,</l>
 	<l id="556" part="i">Que pouvais-je pour vous en ce péril ?</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="556" part="f">Mourir.</l>
 	<l id="557">Pour toi n’était-ce pas une gloire assez ample ?</l>
 	<l id="558">Je t’en aurais donné le courage et l’exemple ;</l>
@@ -776,14 +776,14 @@
 	<l id="578">Suivant dans leur exil leur mère infortunée,</l>
 	<l id="579" part="i">Quels maux ...</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="579" part="f">Cesse pour eux de craindre un tel malheur.</l>
 	<l id="580">Moi, bannir mes enfants ! J’en mourrais de douleur.</l>
 	<l id="581">Ah ! D’un trésor si cher mon cœur est trop avare,</l>
 	<l id="582">Pour craindre que jamais le destin m’en sépare.</l>
 	<l id="583">Rien ne peut les ravir à mes embrassements.</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="584">Quoi ! Tu prétends aussi m’arracher mes enfants ?</l>
 	<l id="585">Tu prétends Me ravir le seul bien qui me reste ?</l>
 	<l id="586">Je ne jouirai pas de la douceur funeste</l>
@@ -792,7 +792,7 @@
 	<l id="589">Tu m’ôtes des objets que mon cœur idolâtre.</l>
 	<l id="590">Veux-tu les immoler, cruel ! À leur marâtre ?</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="591">Je veux leur faire un sort, leur assurer un rang,</l>
 	<l id="592">Qui les comble de gloire, et réponde à leur sang.</l>
 	<l id="593">Près du trône élevés à l’ombre de leur père,</l>
@@ -800,25 +800,25 @@
 	<l id="595">Créon fera pour eux plus qu’il ne m’a promis,</l>
 	<l id="596">Et les confondra même avec ses petits-fils.</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="597">Périr plutôt cent fois qu’essuyer cet outrage !</l>
 	<l id="598">Lâche ! Souiller mon sang par un vil assemblage !</l>
 	<l id="599">Voir les fils du Soleil sous le joug abattus,</l>
 	<l id="600">Avec ceux de Sisyphe unis et confondus !</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="601">Enfin, tel est pour eux ma tendresse infinie,</l>
 	<l id="602">Que vouloir m’en priver, c’est m’arracher la vie.</l>
 	<l id="603">Je ne puis les quitter, et l’amour paternel ...</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="604">Eh bien, n’en parlons plus ! Ôte-les moi, cruel !</l>
 	<l id="605">Mais crains mon désespoir, crains mon courroux funeste.</l>
 	<l id="606">Tu perds, me les ôtant, tout l’appui qui te reste.</l>
 	<l id="607">Leur vue et leurs soupirs suspendaient ma fureur ;</l>
 	<l id="608">Rien ne me parle plus, perfide ! En ta faveur.</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="609">Je croyais modérer la douleur qui vous presse.</l>
 	<l id="610">Cependant je l’aigris ; ma présence vous blesse.</l>
 	<l id="611">Le temps et la raison ouvrant enfin vos yeux,</l>
@@ -826,8 +826,8 @@
 <stage>Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Médée, Rhodope.</head>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Médée, Rhodope.</cast>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="613">Oui, je te la rendrai, cruel ! Je m’y prépare.</l>
 	<l id="614">Tu m’ôtes mes enfants, tu me ravis, Barbare,</l>
 	<l id="615">Le seul bien qui pouvait adoucir mon malheur.</l>
@@ -838,8 +838,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Jason, Créuse, Iphite.</head>
-<sp who="JASON"><speaker>JASON</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Jason, Créuse, Iphite.</cast>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="619">Madame, c’en est fait. Médée, après ce jour,</l>
 	<l id="620">Abandonne Corinthe, et quitte cette Cour.</l>
 	<l id="621">En menaces en vain elle ose se répandre.</l>
@@ -867,7 +867,7 @@
 	<l id="643">Ai-je pu, ma Princesse, offenser vos beaux yeux ?</l>
 	<l id="644">Qu’ai-je fait ? Qu’ai-je dit ? Et vous suis-je odieux ?</l>
 </sp>
-<sp who="CRÉUSE"><speaker>CRÉUSE</speaker>
+<sp who="CRÉUSE"><hstage><speaker>CRÉUSE</speaker></hstage>
 	<l id="645">Moi, vous haïr, Seigneur ! Quelle injustice extrême !</l>
 	<l id="646">Et ma bouche et mes yeux ont avoué que j’aime.</l>
 	<l id="647">Mon cœur suit mon devoir. Tous mes soins, tous mes vœux,</l>
@@ -883,11 +883,11 @@
 	<l id="657">Hélas ! Si quelque jour leur fatale colère</l>
 	<l id="658">Empoisonnait le cours d’un destin si prospère !</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="659">Ah ! Calmez ces frayeurs. Les Dieux, justes toujours,</l>
 	<l id="660">De vos prospérités feront durer le cours.</l>
 </sp>
-<sp who="CRÉUSE"><speaker>CRÉUSE</speaker>
+<sp who="CRÉUSE"><hstage><speaker>CRÉUSE</speaker></hstage>
 	<l id="661">Mais quand des Dieux, Seigneur, je n’aurais rien à craindre,</l>
 	<l id="662">De vous n’aurai-je pas quelque jour à me plaindre ?</l>
 	<l id="663">Vous me répondez d’eux ; répondez-moi de vous.</l>
@@ -895,7 +895,7 @@
 	<l id="665">Et si vous m’immoliez à quelque ardeur nouvelle,</l>
 	<l id="666">Que deviendrais-je, ô Ciel ! Dans ma douleur mortelle ?</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="667">Vous pleurez, ma Princesse, et vous pouvez penser</l>
 	<l id="668">Que jamais votre Amant puisse vous offenser ?</l>
 	<l id="669">Quel outrage cruel vous faites à ma flamme !</l>
@@ -905,13 +905,13 @@
 	<l id="673">Que n’en puis-je exprimer toute la violence !</l>
 	<l id="674">Vos yeux ne sont-ils pas garants de ma constance ?</l>
 </sp>
-<sp who="CRÉUSE"><speaker>CRÉUSE</speaker>
+<sp who="CRÉUSE"><hstage><speaker>CRÉUSE</speaker></hstage>
 	<l id="675">Hypsipyle et Médée, objets de vos amours,</l>
 	<l id="676">Se sont laissés surprendre à de pareils discours ;</l>
 	<l id="677">Et de nouveaux objets votre âme possédée,</l>
 	<l id="678">A laissé cependant Hypsipyle et Médée.</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="679">Leur exemple inégal vous trouble sans raison,</l>
 	<l id="680">Madame ; bannissez un injuste soupçon.</l>
 	<l id="681">Hypsipyle et Médée, en prévenant mon âme,</l>
@@ -933,17 +933,17 @@
 	<l id="697">Si votre cœur m’aimait, il prendrait ma défense.</l>
 	<l id="698">Un véritable amour bannit la défiance.</l>
 </sp>
-<sp who="CRÉUSE"><speaker>CRÉUSE</speaker>
+<sp who="CRÉUSE"><hstage><speaker>CRÉUSE</speaker></hstage>
 	<l id="699">Un véritable amour est-il jamais sans soins ?</l>
 	<l id="700">Je ne craindrais pas tant, hélas, si j’aimais moins.</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="701">Si vous sentez mes feux, ah ! Sentez donc ma joie ;</l>
 	<l id="702">Et que dans vos transports votre amour se déploie.</l>
 	<l id="703">Si près de rendre heureux votre fidèle amant,</l>
 	<l id="704">Prenez part, s’il se peut, à son ravissement.</l>
 </sp>
-<sp who="CRÉUSE"><speaker>CRÉUSE</speaker>
+<sp who="CRÉUSE"><hstage><speaker>CRÉUSE</speaker></hstage>
 	<l id="705">Vous le voulez ; je cède, et ma tristesse change.</l>
 	<l id="706">Je ressens votre joie et pure et sans mélange.</l>
 	<l id="707">Oui, Jason, je me rends, et l’amour est vainqueur.</l>
@@ -955,14 +955,14 @@
 <stage>Elle sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Jason, Iphite.</head>
-<sp who="IPHITE"><speaker>IPHITE</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Jason, Iphite.</cast>
+<sp who="IPHITE"><hstage><speaker>IPHITE</speaker></hstage>
 	<l id="713">Avec quel air charmant cette aimable princesse</l>
 	<l id="714">Répond à vos transports, et sent votre tendresse !</l>
 	<l id="715">Tout flatte votre espoir ; tout conspire à vos vœux,</l>
 	<l id="716">Et vous semblez toucher au sort le plus heureux.</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="717">Que je serais heureux, je le confesse, Iphite,</l>
 	<l id="718">Si je pouvais calmer un trouble qui m’irrite ;</l>
 	<l id="719">Et si, goûtant en paix un si parfait bonheur,</l>
@@ -988,8 +988,8 @@
 	<l id="739" part="i">Que lui dire ? Fuyons.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Jason, Médée, Iphite, Rhodope.</head>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Jason, Médée, Iphite, Rhodope.</cast>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="739" part="f">Seigneur, où fuyez-vous ?</l>
 	<l id="740">Je ne viens point, brûlant d’un injuste courroux,</l>
 	<l id="741">Vous accabler, sans fruit, de cris et de reproches.</l>
@@ -1013,7 +1013,7 @@
 	<l id="759">Et, ne vous souvenant que d’un si tendre amour,</l>
 	<l id="760">Recevez mes adieux en ce funeste jour.</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="761">C’en est trop. Ah ! De grâce, épargnez-moi, Madame.</l>
 	<l id="762">Aimez moins un ingrat qui trahit votre flamme.</l>
 	<l id="763">N’offrez point à ses yeux cette tendre douleur.</l>
@@ -1023,7 +1023,7 @@
 	<l id="767">Reprenez votre haine et vos transports jaloux.</l>
 	<l id="768">Ah ! Je crains votre amour plus que votre courroux.</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="769">Ah ! Laissez-moi l’amour dont je suis possédée.</l>
 	<l id="770">C’est lui seul qui m’anime ; et la triste Médée</l>
 	<l id="771">Ne peut, tel est son sort, cesser de vous chérir.</l>
@@ -1043,14 +1043,14 @@
 	<l id="785">Ils reviendront, Seigneur, jouir de votre gloire</l>
 	<l id="786">Et vous conter la fin de ma funeste histoire.</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="787">Hélas ! Qu’exigez-vous ? Pourquoi me demander</l>
 	<l id="788">Le seul bien qu’à vos vœux je ne puis accorder ?</l>
 	<l id="789">Demandez-moi plutôt et mon sang et ma vie,</l>
 	<l id="790">Que la Parque sans eux m’aurait bientôt ravie ;</l>
 	<l id="791">Mais ne m’enlevez pas ces fruits de nos amours.</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="792">Eh bien ! Jouissez-en ; possédez-les toujours.</l>
 	<l id="793">Oui ; l’amour maternel, se faisant violence,</l>
 	<l id="794">Cède enfin à vos vœux, et s’impose silence.</l>
@@ -1065,13 +1065,13 @@
 	<l id="803">Et que, pour adoucir les maux que je prévoi,</l>
 	<l id="804">Le bruit, dans mon exil, en vienne jusqu’à moi.</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="805">Qu’avec joie à vos vœux j’accorde cette grâce</l>
 	<l id="806">Est-il rien que pour eux ma tendresse ne fasse ?</l>
 	<l id="807">Les grandeurs, les plaisirs vont les environner ;</l>
 	<l id="808">Et je ne me fais Roi que pour les couronner.</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="809">Seigneur, je pars contente après cette assurance.</l>
 	<l id="810">Mais de Créon tantôt j’ai bravé la clémence.</l>
 	<l id="811">Je tremble avec raison que ses ressentiments</l>
@@ -1085,19 +1085,19 @@
 	<l id="819">C’est lui, c’est la douleur qui m’a fait égarer ;</l>
 	<l id="820">Et par un prompt exil je vais tout réparer.</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="821">Que vous connaissez mal Créon et sa clémence !</l>
 	<l id="822">Un si prompt repentir, désarmant sa vengeance,</l>
 	<l id="823">Sensible à vos malheurs, ses soins et ses bienfaits</l>
 	<l id="824">Adouciront vos maux, combleront mes souhaits.</l>
 	<l id="825">Je vais remplir vos vœux et calmer sa colère.</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="826">Peignez-lui bien, Seigneur, mon repentir sincère.</l>
 	<l id="827">Je veux dès ce soir même abandonner ces lieux.</l>
 	<l id="828">Pour la dernière fois recevez mes adieux.</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="829">Puisse le juste Ciel à mes vœux favorables,</l>
 	<l id="830">Vous accorder, Madame, un repos désirable !</l>
 	<l id="831">Jason à son destin, cédant avec regret,</l>
@@ -1109,8 +1109,8 @@
 <stage>Jason sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Médée, Rhodope.</head>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Médée, Rhodope.</cast>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="837">Va, quand tu le voudrais, il y va de ma gloire ;</l>
 	<l id="838">Je t’empêcherai bien d’en perdre la mémoire.</l>
 	<l id="839">Je sais, quand il me plaît, dans l’âme des ingrats,</l>
@@ -1155,8 +1155,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Médée, Rhodope.</head>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Médée, Rhodope.</cast>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="877">Il est temps d’achever le charme et ma vengeance.</l>
 	<l id="878">Hécate, viens pour moi signaler ta puissance.</l>
 	<l id="879">Hécate, triple Hécate, exauce enfin mes vœux.</l>
@@ -1182,8 +1182,8 @@
 <stage>Rhodope sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Médée, seule.</head>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Médée, seule.</cast>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="899">Ministres rigoureux de mon courroux fatal,</l>
 	<l id="900">Redoutables Tyrans de l’Empire infernal,</l>
 	<l id="901">Dieux ! Ô terribles Dieux du trépas et des ombres ;</l>
@@ -1241,8 +1241,8 @@
 	<l id="953">Le charme a réussi, poursuivons ma vengeance.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Médée, Rhodope.</head>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Médée, Rhodope.</cast>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="954">Viens, Rhodope ; mon art ne craint plus ta présence.</l>
 	<l id="955">Le charme est consommé. C’en est fait, et jamais</l>
 	<l id="956">Un espoir plus certain ne flatta mes souhaits.</l>
@@ -1258,7 +1258,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="MEDEE"><speaker>MÉDÉE, seule.</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker>, seule.</hstage>
 	<l id="965">Enfin, de mes Tyrans je vais punir les crimes.</l>
 	<l id="966">Il ne me reste plus qu’à parer mes victimes.</l>
 	<l id="967">Le sacrifice est prêt. L’heure approche ; et mon cœur</l>
@@ -1272,8 +1272,8 @@
 	<l id="974">Ah ! Seul tu me tiens lieu d’Empire et de couronne.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Médée, ses enfants, Rhodope.</head>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Médée, ses enfants, Rhodope.</cast>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="975">Approchez, approchez, jeunes infortunés.</l>
 	<l id="976">Qu’aux maux presqu’en naissant le Ciel a condamnés.</l>
 	<l id="977">On va nous séparer, par une loi sévère.</l>
@@ -1321,7 +1321,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="MEDEE"><speaker>MÉDÉE seule.</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker> seule.</hstage>
 	<l id="1017">Tout succède à mes vœux , et mon dessein s’avance.</l>
 	<l id="1018">Ne m’abandonnez pas, remplissez ma vengeance,</l>
 	<l id="1019">Dieux, redoutables Dieux ! Qu’avec ardeur je sers,</l>
@@ -1344,8 +1344,8 @@
 	<l id="1036">Ce crime m’épouvante et surpasse mes vœux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Médée, ses enfants, Rhodope.</head>
-<sp who="RHODOPE"><speaker>RHODOPE</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Médée, ses enfants, Rhodope.</cast>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker></hstage>
 	<l id="1037">Votre présent, Madame, a charmé la Princesse.</l>
 	<l id="1038">Ne pouvant se lasser d’en vanter la richesse,</l>
 	<l id="1039">Dès ce soir, sans soupçon, elle s’en veut parer.</l>
@@ -1359,16 +1359,16 @@
 	<l id="1047">Que vois-je ! Vous pleurez. Si près de vous venger,</l>
 	<l id="1048">Quel trouble vous saisit et vient vous affliger ?</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="1049" part="i">Hélas !</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker></hstage>
 	<l id="1049" part="f">Vous gémissez ; d’où naissent ces alarmes ?</l>
 	<l id="1050">Attachant sur vos fils vos yeux baignés de larmes,</l>
 	<l id="1051">Vous frémissez, Madame ; et changeant de couleur</l>
 	<l id="1052">Vous détournez soudain la vue avec horreur.</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="1053">Quelque vive douceur qu’ait pour moi la vengeance,</l>
 	<l id="1054">Un trouble violent en secret la balance.</l>
 	<l id="1055">Je pleure avec raison ces enfants malheureux.</l>
@@ -1406,13 +1406,13 @@
 	<l id="1087">Il nous est interdit de nous voir désormais ;</l>
 	<l id="1088">Ô mes fils ! Il nous faut séparer pour jamais.</l>
 </sp>
-<sp who="RHODOPE"><speaker>RHODOPE</speaker>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker></hstage>
 	<l id="1089">Épuisez vos transports, Madame. La Princesse,</l>
 	<l id="1090">Pour un temps assez court, s’en prive et vous les laisse.</l>
 	<l id="1091">Elle leur a prescrit de venir en ces lieux</l>
 	<l id="1092">Recevoir promptement vos pleurs et vos adieux.</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="1093">L’orgueilleuse déjà leur commande et m’outrage !</l>
 	<l id="1094">Ô ma lente douleur ! Ô mon faible courage !</l>
 	<l id="1095">À quels affronts cruels, à quel sort odieux,</l>
@@ -1425,14 +1425,14 @@
 	<l id="1102">Un moment de douleur va me combler de joie.</l>
 	<l id="1103" part="i">Frappons ... Frappons ...</l>
 </sp>
-<sp who="PREMIER-ENFANT"><speaker>UN DES ENFANTS</speaker>
+<sp who="PREMIER-ENFANT"><hstage><speaker>UN DES ENFANTS</speaker></hstage>
 	<l id="1103" part="f">Ah ! Dieux ! Ma mère, qu’avez-vous ?</l>
 </sp>
-<sp who="SECOND-ENFANT"><speaker>L’AUTRE ENFANT</speaker>
+<sp who="SECOND-ENFANT"><hstage><speaker>L’AUTRE ENFANT</speaker></hstage>
 	<l id="1104">Pourquoi nous menacer, et d’où vient ce courroux ?</l>
 	<l id="1105" part="i">Je tremble...</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="1105" part="f">Je frémis. Leurs regards et leurs larmes</l>
 	<l id="1106">Me troublent, et de mes mains me font tomber les armes.</l>
 	<l id="1107">Ô mon sang ! Ô mes fils, si chers à mes désirs !</l>
@@ -1449,7 +1449,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII.</head>
-<sp who="MEDEE"><speaker>MÉDÉE, seule.</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker>, seule.</hstage>
 	<l id="1117">Tu les aimes, cruelle ! Et tu les laisses vivre !</l>
 	<l id="1118">Aux malheurs les plus grands ta faiblesse les livre ;</l>
 	<l id="1119">Et ta pitié barbare, en respectant leurs jours,</l>
@@ -1480,8 +1480,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Médée, Rhodope.</head>
-<sp who="RHODOPE"><speaker>RHODOPE</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Médée, Rhodope.</cast>
+<sp who="RHODOPE"><hstage><speaker>RHODOPE</speaker></hstage>
 	<l id="1143">Ah ! Madame, fuyez un peuple furieux.</l>
 	<l id="1144">Fuyez, sans différer, de ces funestes lieux,</l>
 	<l id="1145">Tandis qu’avec le trouble y règne l’épouvante.</l>
@@ -1513,7 +1513,7 @@
 	<l id="1171">Profitez de l’horreur qui règne dans ces lieux,</l>
 	<l id="1172">Et fuyez pour jamais leur aspect odieux.</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="1173">Que je fuie ! Ah ! Rhodope, au comble de la gloire,</l>
 	<l id="1174">Quand sur mes ennemis j’emporte la victoire,</l>
 	<l id="1175">Que je fuie ! Ah ! Le sort m’eût-il réduite à fuir,</l>
@@ -1531,23 +1531,23 @@
 <stage>Elle sort avec Rhodope.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Jason, Iphite.</head>
-<sp who="JASON"><speaker>JASON, en entrant.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Jason, Iphite.</cast>
+<sp who="JASON"><hstage><speaker>JASON</speaker>, en entrant.</hstage>
 	<l id="1187">En vain, pour la trouver, je cours de toutes parts.</l>
 	<l id="1188">Ah ! Sans doute son art la cache à mes regards.</l>
 	<l id="1189">Elle croit éviter le courroux qui m’enflamme.</l>
 	<l id="1190" part="i">Mais qui l’en peut sauver ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Jason, Iphite, Créuse, Cydippe.</head>
-<sp who="CRÉUSE"><speaker>CRÉUSE</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Jason, Iphite, Créuse, Cydippe.</cast>
+<sp who="CRÉUSE"><hstage><speaker>CRÉUSE</speaker></hstage>
 	<l id="1190" part="m">Ah ! Seigneur !</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="1190" part="f">Ah ! Madame.</l>
 	<l id="1191">Quel est mon désespoir ! Où portez-vous vos pas ?</l>
 </sp>
-<sp who="CRÉUSE"><speaker>CRÉUSE</speaker>
+<sp who="CRÉUSE"><hstage><speaker>CRÉUSE</speaker></hstage>
 	<l id="1192">Ah ! Seigneur, le Roi vient de mourir dans mes bras.</l>
 	<l id="1193">Ce dernier coup manquait au tourment qui m’accable.</l>
 	<l id="1194">Jouet infortuné, du sort impitoyable,</l>
@@ -1555,7 +1555,7 @@
 	<l id="1196">Je viens du moins, je viens mourir auprès de vous.</l>
 	<l id="1197" part="i">Vous fermerez mes yeux.</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="1197" part="f">Dieux ! Qu’entends-je ? Ah ! Madame,</l>
 	<l id="1198">On peut éteindre encore une cruelle flamme.</l>
 	<l id="1199">Les Dieux, les justes Dieux, pour vous s’intéressant,</l>
@@ -1564,7 +1564,7 @@
 	<l id="1202">Y servir de victime à ma fureur sanglante.</l>
 	<l id="1203">J’en atteste ces Dieux. J’en jure mon amour.</l>
 </sp>
-<sp who="CRÉUSE"><speaker>CRÉUSE</speaker>
+<sp who="CRÉUSE"><hstage><speaker>CRÉUSE</speaker></hstage>
 	<l id="1204">En vain vous prétendez me rappeler au jour.</l>
 	<l id="1205">Médée à se venger est trop ingénieuse.</l>
 	<l id="1206">Mon sang doit assouvir sa rage furieuse ;</l>
@@ -1591,7 +1591,7 @@
 	<l id="1227">Mon supplice s’accroît ; je me sens déchirer :</l>
 	<l id="1228">Je brûle ... Adieu, Jason, il faut nous séparer.</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="1229">Nous séparer ! Ô Dieux ! Ah ! Rigueur qui me tue.</l>
 	<l id="1230">Nous séparer ! Quel coup pour mon âme éperdue !</l>
 	<l id="1231">Ah ! Je souffre à la fois mille horribles tourments.</l>
@@ -1601,7 +1601,7 @@
 	<l id="1235">Non, je ne verrai point un si cruel malheur ;</l>
 	<l id="1236">Et, par un prompt trépas, j’en préviendrai l’horreur.</l>
 </sp>
-<sp who="CRÉUSE"><speaker>CRÉUSE</speaker>
+<sp who="CRÉUSE"><hstage><speaker>CRÉUSE</speaker></hstage>
 	<l id="1237">À trop de désespoir votre âme s’abandonne.</l>
 	<l id="1238">Vivez, Jason, vivez. C’est moi qui vous l’ordonne.</l>
 	<l id="1239">Ne me refusez pas, dans mon sort rigoureux,</l>
@@ -1619,10 +1619,10 @@
 	<l id="1251">Malgré le sort cruel qui va nous désunir,</l>
 	<l id="1252">Mon cœur vous aime encore à son dernier soupir.</l>
 </sp>
-<sp who="CYDIPPE"><speaker>CYDIPPE</speaker>
+<sp who="CYDIPPE"><hstage><speaker>CYDIPPE</speaker></hstage>
 	<l id="1253" part="i">Elle expire, Seigneur.</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="1253" part="f">Destin impitoyable !</l>
 	<l id="1254">Elle est morte ; et je vis ! Ô tourment effroyable !</l>
 <stage>Cydippe emporte Créüse.</stage>
@@ -1643,25 +1643,25 @@
 	<l id="1269">Mon amour furieux me servira de guide.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Jason, Médée, Iphite.</head>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Jason, Médée, Iphite.</cast>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="1270">Tu n’iras pas si loin pour me trouver, perfide !</l>
 	<l id="1271" part="i">C’est Médée. Oui ; c’est elle.</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="1271" part="f">Ah ! Crains mon désespoir,</l>
 	<l id="1272" part="i">Barbare ...</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE, le frappant de sa baguette</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker>, le frappant de sa baguette</hstage>
 	<l id="1272" part="f">Arrête, ingrat ! Et connais mon pouvoir.</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="1273">Quel prodige étonnant ! Dieux ! Ma fureur est vaine !</l>
 	<l id="1274">Je me sens retenu par une étroite chaîne.</l>
 	<l id="1275">Je demeure immobile, et malgré mes efforts,</l>
 	<l id="1276">Le pouvoir de son art s’oppose à mes transports.</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="1277">Juge, si c’est à moi de craindre ta vengeance.</l>
 	<l id="1278">Un sort comme le mien n’est pas en ta puissance ;</l>
 	<l id="1279">Magnanime Héros, ne songe plus à moi ;</l>
@@ -1679,21 +1679,21 @@
 	<l id="1291">Le sacrifice est prêt, et le Temple est orné ;</l>
 	<l id="1292">On n’attend plus que toi. Cours, époux fortuné.</l>
 </sp>
-<sp who="JASON"><speaker>JASON, à part.</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker>, à part.</hstage>
 	<l id="1293">Quoi ! La barbare encore et m’insulte et m’outrage !</l>
 	<l id="1294">Faut-il que par son art elle brave ma rage ?</l>
 	<l id="1295">Je ne puis l’immoler à ma juste fureur !</l>
 	<l id="1296">Son sang apaiserait Créüse et ma douleur !</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="1297">Oui, Jason, à Créüse il faut quelque victime ;</l>
 	<l id="1298">Et mon sang répandu doit effacer mon crime.</l>
 	<l id="1299">Sois content. J’ai versé le plus pur de ce sang.</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="1300" part="i">Comment ?</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="1300" part="f">À tes deux fils j’ai su percer le flanc.</l>
 	<l id="1301">Regarde ce poignard et cette main sanglante ;</l>
 	<l id="1302">C’est de mon sang, du tien qu’elle est teinte et fumante.</l>
@@ -1704,19 +1704,19 @@
 	<l id="1307">Cours, du moins, père heureux, à tes fils expirants :</l>
 	<l id="1308">Rends-leur les derniers soins, embrasse-les mourants.</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="1309" part="i">Ah ! Barbare !</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="1309" part="f">En est-ce assez, et connais-tu Médée ?</l>
 	<l id="1310">De son affreux pouvoir garderas-tu l’idée ?</l>
 	<l id="1311">Oublieras-tu sa haine, ainsi que son amour ?</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="1312">Monstre, à tes propres fils avoir ravi le jour !</l>
 	<l id="1313">Pourquoi sacrifier d’innocentes victimes !</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="1314">Ils étaient nés de toi, demandes-tu leurs crimes ?</l>
 	<l id="1315">Ma trop juste fureur a dû les en punir.</l>
 	<l id="1316">J’ai dû finir leurs maux, j’ai dû les prévenir ;</l>
@@ -1729,11 +1729,11 @@
 	<l id="1323">Tu m’as seul enhardie à ce cruel dessein,</l>
 	<l id="1324">Infidèle ! Et c’est toi qui leur perce le sein.</l>
 </sp>
-<sp who="JASON"><speaker>JASON</speaker>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="1325">Quoi ! Les Dieux irrités, pour te réduire en poudre,</l>
 	<l id="1326">Sur ta tête, à mes yeux, ne lancent point la foudre ?</l>
 </sp>
-<sp who="MEDEE"><speaker>MÉDÉE</speaker>
+<sp who="MEDEE"><hstage><speaker>MÉDÉE</speaker></hstage>
 	<l id="1327">Vengeurs des trahisons, ennemis des ingrats,</l>
 	<l id="1328">Les Dieux, pour t’accabler, ont employé mon bras ;</l>
 	<l id="1329">La foudre était trop peu pour punir ton offense.</l>
@@ -1756,8 +1756,8 @@
 <stage>Le char s’envole.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE DERNIÈRE. Jason, Iphite.</head>
-<sp who="JASON"><speaker>JASON</speaker>
+<div2 type="scene" n="5"><head>SCÈNE DERNIÈRE.</head><cast>Jason, Iphite.</cast>
+<sp who="JASON"><hstage><speaker>JASON</speaker></hstage>
 	<l id="1345">Elle fuit ; et ce char, l’élevant dans les nues,</l>
 	<l id="1346">Ouvre à sa cruauté des routes inconnues.</l>
 	<l id="1347">La barbare à mes yeux disparaît pour jamais ;</l>
@@ -1774,7 +1774,7 @@
 	<l id="1358">Que les Dieux inhumains laissent en ma puissance.</l>
 <stage>Il se tue.</stage>
 </sp>
-<sp who="IPHITE"><speaker>IPHITE</speaker>
+<sp who="IPHITE"><hstage><speaker>IPHITE</speaker></hstage>
 	<l id="1359">Ah ! Seigneur... Il n’est plus. Quels horribles malheurs,</l>
 	<l id="1360">Ô trop funeste amour, produisent tes fureurs.</l>
 </sp>

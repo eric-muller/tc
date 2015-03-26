@@ -54,8 +54,8 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Antigone, Camille.</head>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Antigone, Camille.</cast>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 <note type="L">Hyménée : divinité fabuleuse des païens, qu’ils coient présider aux mariage. (...) signifie aussi poétiquement le mariage. [F]</note>
 	<l id="1">Oui, Camille, il est vrai, par ce grand hyménée</l>
 	<l id="2">Tous nos maux sont finis, la guerre terminée,</l>
@@ -74,7 +74,7 @@
 	<l id="15">Et j’en sens mes ennuis d’autant plus à redoubler</l>
 	<l id="16">Qu’il faut taire les maux qui me vont accabler.</l>
 </sp>
-<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+<sp who="CAMILLE"><hstage><speaker>CAMILLE</speaker>.</hstage>
 	<l id="17">Ces maux que vous craignez me font peine à comprendre.</l>
 	<l id="18">Dans le plus doux accord que vous puissiez attendre.</l>
 	<l id="19">De Pyrrhus pour régner le droit est si certain,</l>
@@ -83,7 +83,7 @@
 	<l id="22">Et si parler pour lui n’est point vous faire injure,</l>
 	<l id="23">Il joint tant de mérite à la splendeur du sang...</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="24">La vertu passe en lui l’avantage du rang.</l>
 	<l id="25">De mille exploits fameux le brillant témoignage</l>
 	<l id="26">Signale sa prudence ainsi que son courage,</l>
@@ -92,38 +92,38 @@
 	<l id="29">Et quelque fier devoir dont on suive l’Empire,</l>
 	<l id="30">L’Amour est-il un Dieu qui n’ose l’en dédire ?</l>
 </sp>
-<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+<sp who="CAMILLE"><hstage><speaker>CAMILLE</speaker>.</hstage>
 	<l id="31">Je crois que le temps seul fait connaître aux Amants</l>
 	<l id="32">De la vraie union les nœuds les plus charmants,</l>
 	<l id="33">Mais c’est toujours beaucoup pour un cœur magnanime</l>
 	<l id="34">Qu’une haute vertu le prépare à l’estime,</l>
 	<l id="35">Et que sur ce penchant il se fasse une loi...</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="36">Peut-être est-ce beaucoup pour un cœur tout à soi,</l>
 	<l id="37">Mais comme, quelque effort où ce cœur se dispense,</l>
 	<l id="38">Aimer quand on le veut passe notre puissance,</l>
 	<l id="39">Par un contraire effet qui brave tous nos soins</l>
 	<l id="40">On aime bien souvent quand on le veut moins.</l>
 </sp>
-<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+<sp who="CAMILLE"><hstage><speaker>CAMILLE</speaker>.</hstage>
 	<l id="41" part="i">Dieux, qu’apprends-je !</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="41" part="f">Un malheur qui n’a point de semblable,</l>
 	<l id="42">Que mille qualités rendent Pyrrhus aimable,</l>
 	<l id="43">Que j’en vois tout le prix, mais que pour m’enflammer</l>
 	<l id="44">Il faudrait que mon cœur n’eût su jamais aimer.</l>
 	<l id="45" part="i">Hippias...</l>
 </sp>
-<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+<sp who="CAMILLE"><hstage><speaker>CAMILLE</speaker>.</hstage>
 	<l id="45" part="f">Si quelqu’un dût prétendre à vous plaire,</l>
 	<l id="46">Hippias seul l’a pu sans être téméraire,</l>
 	<l id="47">Il descend de nos Rois ; mais que sert un beau feu</l>
 	<l id="48">Dont le bien de l’État ne souffre point l’aveu ?</l>
 	<l id="49" part="i">Ce que vous lui devez...</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="49" part="f">Va, quoi que j’en soupire,</l>
 	<l id="50">Sans cesse je me dis ce que tu me veux dire,</l>
 	<l id="51">Qu’au rang où je suis née un cœur comme le mien</l>
@@ -137,10 +137,10 @@
 	<l id="59">Déidamie, hélas ! Si j’en sais bien juger,</l>
 	<l id="60">À l’amour d’Hippias s’est laissée engager.</l>
 </sp>
-<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+<sp who="CAMILLE"><hstage><speaker>CAMILLE</speaker>.</hstage>
 	<l id="61">Quoi, la sœur de Pyrrhus ! Que dites-vous, Madame ?</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="62">J’ai de bons yeux, Camille, et j’ai lu dans son âme.</l>
 	<l id="63">Hippias n’a rien fait de grand, de glorieux,</l>
 	<l id="64">Que la joie aussitôt n’ait brillé dans ses yeux.</l>
@@ -150,7 +150,7 @@
 	<l id="68">Était tel qu’une Amante en a pour un amant.</l>
 	<l id="69">Tant d’ardeur va plus loin que l’estime ordinaire.</l>
 </sp>
-<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+<sp who="CAMILLE"><hstage><speaker>CAMILLE</speaker>.</hstage>
 	<l id="70">C’était pour s’acquérir Androclide son père.</l>
 	<l id="71">C’est lui dont les conseils après tant de refus</l>
 	<l id="72">Ont obtenu du Roi de rétablir Pyrrhus,</l>
@@ -158,8 +158,8 @@
 	<l id="74">En flattant Hippias... mais je le vois paraître.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Antigone, Pyrrhus se croyant Hippias, Camille.</head>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Antigone, Pyrrhus se croyant Hippias, Camille.</cast>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="75">Quoi, me revoir encor ! Ah Prince, oubliez-vous</l>
 	<l id="76">Que Pyrrhus aujourd’hui doit être mon Époux ?</l>
 	<l id="77">Déjà de mon hymen la triste pompe éclate,</l>
@@ -167,7 +167,7 @@
 	<l id="79">C’est me traiter sans doute avec tant de rigueur</l>
 	<l id="80">Que venir augmenter le trouble de mon cœur.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="81">Dans les maux que pour moi chaque moment redouble</l>
 	<l id="82">Pouvez-vous m’envier la douceur de ce trouble,</l>
 	<l id="83">Et voir avec regret qu’outré de mille ennuis</l>
@@ -185,14 +185,14 @@
 	<l id="95">Que d’un cœur tout à vous ce feu soit le garant,</l>
 	<l id="96">Que cent fois je le jure, et meure en le jurant.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="97">Si le Ciel me laissait disposer de moi-même,</l>
 	<l id="98">Il suffirait pour vous que je sais comme on aime,</l>
 	<l id="99">Mais vous n’ignorez pas ce qu’en ce triste état</l>
 	<l id="100">Peut une âme asservie aux maximes d’État.</l>
 	<l id="101" part="i">Esclave d’un devoir...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="101" part="f">Et c’est ce qui m’accable</l>
 	<l id="102">Que votre seul devoir me soit inexorable,</l>
 	<l id="103">Et que malgré l’excès de tout mon désespoir</l>
@@ -210,37 +210,37 @@
 	<l id="115">Et l’espoir de ce bien à mes désirs si cher,</l>
 	<l id="116">Ne me l’a-t-il souffert que pour me l’arracher ?</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="117">Les plaintes servent peu dans un malheur extrême,</l>
 	<l id="118" part="i">Songez plutôt...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="118" part="f">Hélas ! Songez que je vous aime,</l>
 	<l id="119">Et qu’un Amant que presse un revers si fatal,</l>
 	<l id="120">Confus, désespéré, ne songe qu’à son mal.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="121">Réduit à l’oublier il doit en faire gloire.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="122">Dites qu’il doit sans cesse en garder la mémoire,</l>
 	<l id="123">Sans cesse pénétrer l’excès de son malheur,</l>
 	<l id="124">Le voir, le bien connaître, et mourir de douleur.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="125">Si ma main est un bien que le Destin vous vole,</l>
 	<l id="126">Il ne tiendra qu’à vous qu’il ne vous en console.</l>
 	<l id="127" part="i">Déidamie...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="127" part="f">Ô Dieux ! Vous pouvez présumer...</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="128">Qu’il n’est pas mal aisé de vous en faire aimer,</l>
 	<l id="129">Et que si de Pyrrhus l’hymen vous désespère,</l>
 	<l id="130">La sœur peut réparer l’injustice du frère.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="131">Ah, si quelque malheur aux miens peut être joint,</l>
 	<l id="132">Comblez-en mon amour, mais ne l’outragez point.</l>
 	<l id="133">Pour moi Déidamie a conçu quelque estime,</l>
@@ -249,12 +249,12 @@
 	<l id="136">Ont enhardi mes vœux à s’expliquer pour vous,</l>
 	<l id="137" part="i">Mon cœur sur ses conseils...</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="137" part="f">Et c’est par cette adresse</l>
 	<l id="138">Qu’elle a cru découvrir quel sentiment vous presse,</l>
 	<l id="139" part="i">Je n’en ai que trop vu.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="139" part="f">Plût au Ciel que ma foi</l>
 	<l id="140">N’eût à craindre aujourd’hui que ce qu’on craint de moi ;</l>
 	<l id="141">Que le bonheur du frère eût pour toute apparence</l>
@@ -268,14 +268,14 @@
 	<l id="149">Que si sans vous montrer de la gloire ennemie</l>
 	<l id="150" part="i">Vous pouviez...</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="150" part="f">Prince, adieu, je vois Déidamie,</l>
 	<l id="151">Et ce que je crains d’elle en de si rudes coups</l>
 	<l id="152">Vous fait connaître assez ce que je sens pour vous.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Pyrrhus se croyant Hippias, Déidamie, Nérée.</head>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Pyrrhus se croyant Hippias, Déidamie, Nérée.</cast>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="153">Madame, si de vous le Ciel a fait dépendre</l>
 	<l id="154">Ce qu’à mon feu cent fois vous avez fait attendre,</l>
 	<l id="155">À quand réservez-vous ces moyens assurés</l>
@@ -287,54 +287,54 @@
 	<l id="161">Quand j’ai craint son hymen, ma crainte était frivole,</l>
 	<l id="162" part="i">Cependant...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="162" part="f">Prince, allez, je vous tiendrai parole,</l>
 	<l id="163" part="i">Vous vous alarmez trop.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="163" part="f">Vous la tiendrez ? Hélas !</l>
 	<l id="164">Est-il temps qu’on promette, et qu’on n’agisse pas ?</l>
 	<l id="165">Encor quelques moments, et tout me désespère.</l>
 	<l id="166">Un péril si pressant souffre-t-il qu’on diffère ?</l>
 	<l id="167" part="i">Madame, au nom des Dieux...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="167" part="f">Prince, encor une fois</l>
 	<l id="168">Laissez-moi m’acquitter de ce que je vous dois.</l>
 	<l id="169">Suffit que j’ai promis, et que je m’en souvienne.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="170">Vous voulez que par là ma rage se retienne,</l>
 	<l id="171">Mais je vois trop pour moi qu’il n’est rien de certain</l>
 	<l id="172">Que ce que me promet le secours de ma main.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Déidamie, Nérée.</head>
-<sp who="NEREE"><speaker>NÉRÉE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Déidamie, Nérée.</cast>
+<sp who="NEREE"><hstage><speaker>NÉRÉE</speaker>.</hstage>
 	<l id="173">Dans la joie où vous met l’heureux destin d’un frère</l>
 	<l id="174">Tout à vos sens charmés paraît facile à faire,</l>
 	<l id="175">Mais je ne vois pas bien sur quoi vous vous flattez</l>
 	<l id="176">Quand vous pensez tenir ce que vous promettez,</l>
 	<l id="177">Romprez-vous un hymen où l’État s’intéresse ?</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="178">Non il faut que Pyrrhus épouse la Princesse,</l>
 	<l id="179">Cet hymen pour le rompre a pour moi trop d’appas.</l>
 </sp>
-<sp who="NEREE"><speaker>NÉRÉE.</speaker>
+<sp who="NEREE"><hstage><speaker>NÉRÉE</speaker>.</hstage>
 	<l id="180">Que pouvez-vous donc faire en faveur d’Hippias ?</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="181">Changer tous ses malheurs en un bonheur extrême,</l>
 	<l id="182">S’il suffit à ses vœux d’épouser ce qu’il aime.</l>
 </sp>
-<sp who="NEREE"><speaker>NÉRÉE.</speaker>
+<sp who="NEREE"><hstage><speaker>NÉRÉE</speaker>.</hstage>
 	<l id="183">Je vous entends si peu qu’enfin vous me forcez...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="184">Te souvient-il encor de nos malheurs passés ?</l>
 </sp>
-<sp who="NEREE"><speaker>NÉRÉE.</speaker>
+<sp who="NEREE"><hstage><speaker>NÉRÉE</speaker>.</hstage>
 	<l id="185">Oui, je ne sais que trop qu’un Peuple téméraire</l>
 	<l id="186">Trahit si lâchement le feu Roi votre père,</l>
 	<l id="187">Que par ses Ennemis les Factieux émus</l>
@@ -352,7 +352,7 @@
 	<l id="199">Puisque c’est par lui seul que l’accord terminé</l>
 	<l id="200">Le rétablit au trône où ce Prince était né.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="201">Pour estimer ce zèle, apprends à le connaître</l>
 	<l id="202">Tel qu’en son cœur la gloire a su le faire naître.</l>
 	<l id="203">Le Roi mort, et la Reine étant grosse de moi,</l>
@@ -366,16 +366,16 @@
 	<l id="211">Tandis que sous son nom chez le Roi Glaucias</l>
 	<l id="212">Au péril de ses jours on enlève Hippias.</l>
 </sp>
-<sp who="NEREE"><speaker>NÉRÉE.</speaker>
+<sp who="NEREE"><hstage><speaker>NÉRÉE</speaker>.</hstage>
 	<l id="213" part="i">Quoi, Madame, Hippias...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="213" part="f">Est Pyrrhus, est mon frère.</l>
 </sp>
-<sp who="NEREE"><speaker>NÉRÉE.</speaker>
+<sp who="NEREE"><hstage><speaker>NÉRÉE</speaker>.</hstage>
 	<l id="214" part="i">Juste ciel ! Et Pyrrhus ?</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="214" part="f">Androclide est son père,</l>
 	<l id="215">Qui pour mieux déguiser ce qu’entreprit sa foi,</l>
 	<l id="216">Arrête, et livre enfin la Reine au nouveau Roi.</l>
@@ -392,11 +392,11 @@
 	<l id="227">Appelant Androclide, à peine elle eût le temps</l>
 	<l id="228">De m’ouvrir devant lui ces secrets importants.</l>
 </sp>
-<sp who="NEREE"><speaker>NÉRÉE.</speaker>
+<sp who="NEREE"><hstage><speaker>NÉRÉE</speaker>.</hstage>
 	<l id="229">Ainsi dans leur destin que brouille un tel mélange</l>
 	<l id="230">Hippias et Pyrrhus ignorent cet échange ?</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="231">Oui, mais pour éclaircir un sort si partagé</l>
 	<l id="232">D’un billet de la Reine Androclide est chargé,</l>
 	<l id="233">Et si du faux Pyrrhus la vertu m’a su plaire,</l>
@@ -404,11 +404,11 @@
 	<l id="235">Qui prête d’expirer, par un devoir souverain</l>
 	<l id="236">En faveur d’Hippias disposa de ma main.</l>
 </sp>
-<sp who="NEREE"><speaker>NÉRÉE.</speaker>
+<sp who="NEREE"><hstage><speaker>NÉRÉE</speaker>.</hstage>
 	<l id="237">Mais pourquoi si longtemps lui laisser l’espérance</l>
 	<l id="238">Dont l’a toujours flatté l’erreur de sa naissance ?</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="239">Du zèle le plus pur vois le dernier effort.</l>
 	<l id="240">C’était peu que deux Rois eussent signé l’Accord,</l>
 	<l id="241">Malgré les sûretés qu’un tel Accord fait naître,</l>
@@ -421,8 +421,8 @@
 	<l id="248">De quel œil il verra ce qui doit arriver.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Déidamie, Hippias se croyant Pyrrhus.</head>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Déidamie, Hippias se croyant Pyrrhus.</cast>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="249">Ma sœur, c’est tout de bon qu’enfin le Roi s’explique.</l>
 	<l id="250">Nommez ce qui l’engage amour, ou politique,</l>
 	<l id="251">Qu’il cherche à s’affermir, ou vous aime en effet,</l>
@@ -431,7 +431,7 @@
 	<l id="254">Il me fait de nouveau vous parler de sa flamme.</l>
 	<l id="255">Il est temps de répondre et de vous déclarer.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="256">Le Roi n’ignore pas ce qu’il doit espérer.</l>
 	<l id="257">La mort d’AEacides, sa couronne usurpée</l>
 	<l id="258">M’ont pendant votre exil si mal préoccupée,</l>
@@ -441,7 +441,7 @@
 	<l id="262">Hors ce secours du temps il n’a rien à prétendre,</l>
 	<l id="263">Il l’a su de moi-même, et doit s’en contenter.</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="264">L’espoir est en amour toujours prompt à flatter.</l>
 	<l id="265">Malgré tous vos refus, le Roi s’obstine à croire</l>
 	<l id="266">Qu’un trône à partager vous offre quelque gloire</l>
@@ -451,14 +451,14 @@
 	<l id="270">Je puis sur vous, dit-il, user de quelque empire,</l>
 	<l id="271">Il m’en prie, il m’en presse, et de ses vœux confus...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="272">Sur mes seuls sentiments j’ai réglé mes refus ;</l>
 	<l id="273">Mais, Seigneur, mon devoir me fait assez connaître,</l>
 	<l id="274">Si j’aime un frère en vous, que j’y dois craindre un maître,</l>
 	<l id="275">Et s’il faut pour vous plaire immoler tout mon cœur,</l>
 	<l id="276" part="i">Sur vos ordres soudain...</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="276" part="f">Que dites-vous, ma sœur ?</l>
 	<l id="277">Moi, des ordres pour vous ! Si vous voulez me plaire,</l>
 	<l id="278">Ne craignez point de maître où vous aimez un frère.</l>
@@ -468,32 +468,32 @@
 	<l id="282">Dès que vous parlerez tout me sera possible,</l>
 	<l id="283">Proposez, souhaitez, je ne réserve rien.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="284">L’heur de votre destin fait la douceur du mien,</l>
 	<l id="285" part="i">Et si ce zèle ardent...</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="285" part="f">Que n’ose-t-il paraître</l>
 	<l id="286">Tel que pour vous en moi l’amitié le fait naître !</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="287">Ah, ne me cachez point ce qui doit me charmer.</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="288" part="i">Je crains...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="288" part="m">Que craignez-vous ?</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="288" part="f">De vous parler d’aimer,</l>
 	<l id="289">Et qu’en vous expliquant ce que mon cœur m’inspire</l>
 	<l id="290">Je ne dise pas bien ce que je devrais dire.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="291">M’aimeriez-vous si peu qu’il vous fût malaisé...</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="292">Ah, ce n’est pas de quoi je crains d’être accusé.</l>
 	<l id="293">Depuis que d’Androclide, et de Gélon suivie</l>
 	<l id="294">Vous vîntes commencer le bonheur de ma vie,</l>
@@ -516,24 +516,24 @@
 	<l id="311">Et si vous moins aimer n’est pas en mon pouvoir,</l>
 	<l id="312">J’ai tort de dire plus que l’on ne doit savoir.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="313">Je ne puis trop connaître une amitié si chère.</l>
 	<l id="314">Sa tendresse a pour moi tout ce qui peut me plaire,</l>
 	<l id="315">Et plus cette tendresse en étreindra les nœuds...</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="316">Ah, s’il était ainsi que je serais heureux !</l>
 	<l id="317">Que votre âme à la mienne étroitement unie...</l>
 	<l id="318">Mais encor une fois je sens que je m’oublie,</l>
 	<l id="319">Daignez n’y point songer, ma sœur, et dites-moi</l>
 	<l id="320">Ce que de votre part je dois répondre au Roi.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="321">Au seul secours du temps ayant su le remettre,</l>
 	<l id="322">S’il doit plus espérer, c’est à vous de promettre.</l>
 	<l id="323" part="i">Vous seul...</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="323" part="f">À quelque espoir qu’il s’ose abandonner,</l>
 	<l id="324">Son bonheur est mal sûr si j’en dois ordonner.</l>
 	<l id="325">Sur vous pour son hymen loin d’user de contrainte,</l>
@@ -549,24 +549,24 @@
 	<l id="335">Je sens bien que mon cœur songeait plus à gagner</l>
 	<l id="336">La douceur de vous voir, que celle de régner.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="337">C’est par tant de bontés rendre ma gloire extrême ;</l>
 	<l id="338">Mais s’il fallait pour moi quitter le Diadème...</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="339">Qu’aisément l’amitié m’y ferait consentir !</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="340">Gardez de trop promettre, et de vous repentir.</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="341">Quoi, ma sœur, vous croiriez mes promesses frivoles ?</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="342">Je puis vous demander l’effet de vos paroles,</l>
 	<l id="343">Et lors qu’à la Couronne il faudrait renoncer ?</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="344">Ah, n’appréhendez point de me voir balancer.</l>
 	<l id="345">Je dis plus, et bien loin d’aimer le Diadème,</l>
 	<l id="346">Ce Pyrrhus qui vous voit, ce Pyrrhus qui vous aime,</l>
@@ -574,17 +574,17 @@
 	<l id="348">N’être pas né Pyrrhus pour n’être point... Adieu,</l>
 	<l id="349">Je m’égare sans cesse, et d’ailleurs Androclide...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="350">Allez, j’ai des secrets dont il faut qu’il décide.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Déidamie, Androclide.</head>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Déidamie, Androclide.</cast>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="351">Le destin de Pyrrhus peut enfin éclater.</l>
 	<l id="352">Votre fils l’apprendra sans trop s’en emporter ;</l>
 	<l id="353">Je viens sur ce revers d’essayer son courage.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="354">Sa modération m’est d’un heureux présage ;</l>
 	<l id="355">Mais, Madame, voyez tous nos soins superflus</l>
 	<l id="356">Si vous voulez si tôt qu’on connaisse Pyrrhus.</l>
@@ -597,10 +597,10 @@
 	<l id="363">Et dans tant de sujets de tout appréhender,</l>
 	<l id="364">C’est mon fils seul encor qu’il nous faut hasarder.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="365">Quoi, vous lui laisserez épouser la Princesse ?</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="366">Cet hymen politique autant que vous me blesse ;</l>
 	<l id="367">Et je vois à regret que le destin jaloux</l>
 	<l id="368">Lui dérobe l’honneur de se voir votre Époux.</l>
@@ -609,55 +609,55 @@
 	<l id="371">Et pour la sûreté des jours qu’on m’a commis,</l>
 	<l id="372">Je dois peu regarder le bonheur de mon fils.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="373">Et quand prétendez-vous éclaircir sa naissance ?</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="374">Quand de l’esprit du Roi nous aurons assurance,</l>
 	<l id="375">Et que ce qui suivra nous aura fait juger</l>
 	<l id="376">Que Pyrrhus découvert ne court aucun danger.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="377">Vous croyez donc qu’alors le Roi verra sans peine</l>
 	<l id="378">La Princesse par vous hors d’espoir d’être Reine ?</l>
 	<l id="379">Femme de votre fils pourra-t-elle régner ?</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="380">Cette crainte est un mal que je veux m’épargner.</l>
 	<l id="381" part="i">Comme le temps peut tout, j’espère...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="381" part="f">Point d’excuse,</l>
 	<l id="382">Ce zèle va trop loin pour souffrir qu’il m’abuse.</l>
 	<l id="383">Allons sans différer montrer Pyrrhus au Roi,</l>
 	<l id="384">C’est mon frère, et j’en prends tout le péril sur moi.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="385">Vous pouvez lui montrer le vrai Roi de l’Épire ;</l>
 	<l id="386">J’y consens, mais pour moi je n’ai rien à lui dire.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="387">Quoi, si pour s’éclaircir il lui faut votre aveu...</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="388">Pourvu qu’il vous en croie il vous importe peu.</l>
 	<l id="389" part="i">Allez, Madame, allez.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="389" part="f">Que faut-il que je pense ?</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="390">Que je vois pour mon fils le trône en ma puissance,</l>
 	<l id="391">Que mon orgueil s’en flatte, et qu’il n’est rien pour moi</l>
 	<l id="392">Qui vaille la douceur de faire ce fils Roi.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="393">Faire un Roi de ton fils ! Que me fait-on connaître ?</l>
 	<l id="394">Androclide est un lâche, Androclide est un traître !</l>
 	<l id="395">J’ai cru qu’au seul Pyrrhus son zèle était acquis,</l>
 	<l id="396">Et le fourbe agissait pour couronner son fils.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="397">Les périls dès l’enfance où j’exposai sa tête</l>
 	<l id="398">Ont fait pour lui du Sceptre une juste conquête,</l>
 	<l id="399">Et c’est trahir ses droits que de lui disputer</l>
@@ -667,37 +667,37 @@
 	<l id="403">De ce grand caractère il a remplit l’effort,</l>
 	<l id="404">Et ce n’est pas à moi d’en démentir le Sort.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="405" part="i">C’est donc ce qu’à Pyrrhus...</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="405" part="f">Pouvez-vous vous en plaindre ?</l>
 	<l id="406">Sous le nom de mon fils Pyrrhus n’eut rien à craindre,</l>
 	<l id="407">Et sans lui faire tort, je puis m’intéresser</l>
 	<l id="408">À ce trône où pour vivre on le fit renoncer.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="409">La Couronne à tes yeux peut-elle être si belle,</l>
 	<l id="410" part="i">Que du plus noir forfait...</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="410" part="f">Rien n’est honteux pour elle,</l>
 	<l id="411">La noble ambition veut le dernier effort.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="412">Ta vertu qu’elle souille en est-elle d’accord ?</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="413">Si j’ai moins de vertu, comme vous voulez croire,</l>
 	<l id="414">Mon fils assis au trône en aura plus de gloire,</l>
 	<l id="415">Et c’est pour me charmer, que le voir revêtu</l>
 	<l id="416">De tout ce qu’à sa gloire immole ma vertu...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="417">Mais si l’ambition touche si fort ton âme,</l>
 	<l id="418" part="i">Qui saura que ton fils...</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="418" part="f">Je le saurai, Madame,</l>
 	<l id="419">Et jouirai sans cesse, à le voir dans ce rang,</l>
 	<l id="420">Des secrètes douceurs du triomphe du sang.</l>
@@ -706,47 +706,47 @@
 	<l id="423">Et le nom de Sujet me fera moins d’effroi,</l>
 	<l id="424">Quand je verrai son maître à ses pieds comme moi.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="425">Je l’empêcherai bien, ce projet détestable.</l>
 	<l id="426">Je vais faire éclater ce qui te rend coupable,</l>
 	<l id="427" part="i">Et découvrant au Roi...</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="427" part="f">Vous avanceriez peu</l>
 	<l id="428">Quand même à ce rapport je joindrais mon aveu.</l>
 	<l id="429">Il le faut de la Reine, et comme, quoi qu’on fasse,</l>
 	<l id="430">Son billet seul au trône à Pyrrhus donne place,</l>
 	<l id="431">Avant qu’aucun effort me le puisse arracher...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="432">Quoi, lâche, il n’est donc rien qui te puisse toucher ?</l>
 	<l id="433">Ni la crainte des Dieux qui pour te mettre en poudre...</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="434">La Couronne vaut bien la menace du foudre,</l>
 	<l id="435">Attirez-le sur moi, tandis qu’il descendra</l>
 	<l id="436">Je le craindrai, Madame, et mon fils régnera.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="437">Tu l’espères en vain ; du moins je saurai faire</l>
 	<l id="438">Que l’on ose choisir ni ton fils ni mon frère,</l>
 	<l id="439">Et que de leur destin le Roi mal assuré...</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="440">À tout ce grand éclat je me suis préparé ;</l>
 	<l id="441">Mais toute votre adresse aura peine à détruire</l>
 	<l id="442">L’heureuse et longue erreur qui l’a trop su séduire.</l>
 	<l id="443" part="i">Je vous laisse y rêver.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="443" part="f">Déclare-t’en l’appui,</l>
 	<l id="444">Traître, le Ciel est juste, et j’attends tout de lui.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Néoptolémus, Gélon.</head>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Néoptolémus, Gélon.</cast>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="445">Cesse de condamner les transports de ma flamme.</l>
 	<l id="446">Leur triste excès sans doute aveugle trop mon âme,</l>
 	<l id="447">Mais, Gélon, je suis Roi, je me vois négliger,</l>
@@ -760,7 +760,7 @@
 	<l id="455">Et quand tu crains les maux qu’il est prêt de causer,</l>
 	<l id="456">C’est la seule rigueur qu’il en faut accuser.</l>
 </sp>
-<sp who="GELON"><speaker>GÉLON.</speaker>
+<sp who="GELON"><hstage><speaker>GÉLON</speaker>.</hstage>
 	<l id="457">Je sais que rejetant l’hymen qu’elle refuse,</l>
 	<l id="458">Des bontés de son Roi Déidamie abuse,</l>
 	<l id="459">Que l’Amour est sensible aux mépris des ingrats,</l>
@@ -770,7 +770,7 @@
 	<l id="463">C’est par là seulement qu’il se laisse attendrir,</l>
 	<l id="464">Et qui veut être aimé doit attendre, et souffrir.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="465">À me soumettre encor ton zèle en vain m’anime.</l>
 	<l id="466">Je n’ai que trop suivi cette injuste maxime,</l>
 	<l id="467">Et ce Roi qu’à souffrir tes conseils ont forcé,</l>
@@ -785,7 +785,7 @@
 	<l id="476">Laisse en elle pour moi la même aversion.</l>
 	<l id="477">Il est temps d’éclater, il est temps qu’elle sache...</l>
 </sp>
-<sp who="GELON"><speaker>GÉLON.</speaker>
+<sp who="GELON"><hstage><speaker>GÉLON</speaker>.</hstage>
 	<l id="478">Seigneur, à votre nom n’imprimez point de tache.</l>
 	<l id="479">Par la mort de Pyrrhus violer le traité :</l>
 	<l id="480">C’est joindre le parricide à l’infidélité.</l>
@@ -797,7 +797,7 @@
 	<l id="486">Plus son zèle à vos feux répond de la victoire.</l>
 	<l id="487">Ce favorable appui vous rendra tout aisé.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="488">Va, ne m’en promets rien, j’en suis désabusé.</l>
 	<l id="489">J’ai voulu, comme toi, flatter mon espérance</l>
 	<l id="490">De quelque heureux effet de sa reconnaissance,</l>
@@ -815,7 +815,7 @@
 	<l id="502">Ce n’est qu’en m’épousant qu’elle sauve son frère,</l>
 	<l id="503" part="i">Elle peut en résoudre.</l>
 </sp>
-<sp who="GELON"><speaker>GÉLON.</speaker>
+<sp who="GELON"><hstage><speaker>GÉLON</speaker>.</hstage>
 	<l id="503" part="f">Avouez-le, Seigneur,</l>
 	<l id="504">Qu’en le rétablissant vous forcer votre cœur ;</l>
 	<l id="505">Qu’à le voir fils d’un Roi dont vous tenez la place,</l>
@@ -823,7 +823,7 @@
 	<l id="507">Et que malgré l’amour qui peut vous rendre heureux,</l>
 	<l id="508">Sa mort plus que l’hymen est l’objet de vos vœux.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="509">Si ma flamme à la sœur eût cherché moins à plaire,</l>
 	<l id="510">Rien n’eût pu me réduire à rétablir le frère,</l>
 	<l id="511">Je ne m’en défends point ; mais ne crains rien de moi,</l>
@@ -837,7 +837,7 @@
 	<l id="519">Qu’il dédaigne ma fille, et que le nom de Roi</l>
 	<l id="520">Soit un affront pour lui s’il l’accepte de moi.</l>
 </sp>
-<sp who="GELON"><speaker>GÉLON.</speaker>
+<sp who="GELON"><hstage><speaker>GÉLON</speaker>.</hstage>
 	<l id="521">De ces impressions qui troublent trop votre âme</l>
 	<l id="522">Androclide sur moi va rejeter le blâme.</l>
 	<l id="523">Le haut rang où par vous je me vois affermi</l>
@@ -851,14 +851,14 @@
 	<l id="531">Qu’immolant à ma haine un Prince infortuné,</l>
 	<l id="532" part="i">Mes conseils...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="532" part="f">Ne crains point d’en être soupçonné.</l>
 	<l id="533">Voici Déidamie, et c’est de sa réponse</l>
 	<l id="534">Que dépendra l’arrêt qu’il faut que je prononce.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Néoptolémus, Déidamie, Gélon.</head>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Néoptolémus, Déidamie, Gélon.</cast>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="535">Seigneur, tout de nouveau Pyrrhus m’a fait savoir</l>
 	<l id="536">Ce que pour moi sur vous l’amour a de pouvoir,</l>
 	<l id="537">Que toujours même ardeur pour mon hymen vous presse ;</l>
@@ -867,19 +867,19 @@
 	<l id="540">Quelle marque de vous pourrai-je en espérer ?</l>
 	<l id="541">L’obtiendrais-je aisément d’un peu de confiance ?</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="542">Sur de nouveaux serments prenez-en l’assurance,</l>
 	<l id="543">Pourvu qu’à votre tour sensible à ce beau feu</l>
 	<l id="544">Vous lui daigniez enfin accorder votre aveu.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="545">Des mouvements du cœur le temps seul est le maître</l>
 	<l id="546">Lorsqu’il s’ouvre à l’Amour c’est lui qui l’y fait naître,</l>
 	<l id="547">Et ce que précipite un pouvoir trop pressant,</l>
 	<l id="548">N’est qu’un Monstre sans forme, et qui meurt en naissant,</l>
 	<l id="549" part="i">Je vous l’ai dit, Seigneur.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="549" part="f">À vous parler sans feinte,</l>
 	<l id="550">Ce grand pouvoir du temps affaiblit peu ma crainte ;</l>
 	<l id="551">Non que sur le secours que vous m’en promettez</l>
@@ -889,19 +889,19 @@
 	<l id="555">Et qu’en un même jour l’Épire ait la douceur</l>
 	<l id="556">De voir monter au trône, et le frère, et la sœur.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="557">Quoi, vous reculeriez ce glorieux partage,</l>
 	<l id="558">Où la foi des traités, où l’honneur vous engage ?</l>
 	<l id="559">Que dirait Glaucias qui forcé d’éclater...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="560">C’est un trop faible éclat pour en rien redouter.</l>
 	<l id="561">Qu’a-t-il pu contre nous par cette longue guerre</l>
 	<l id="562">Dont cent fois le malheur a désolé sa terre ?</l>
 	<l id="563">Il m’a livré Pyrrhus, je le tiens, je suis Roi,</l>
 	<l id="564">Et du reste, mon cœur n’en doit compte qu’à moi.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="565">Donc en traitant la Paix vous voulez qu’on soupçonne</l>
 	<l id="566">Que mon ambition s’assurait la Couronne,</l>
 	<l id="567">Et qu’aux lois de Pyrrhus honteuse d’obéir,</l>
@@ -910,16 +910,16 @@
 	<l id="570">Exprès à se livrer j’ai voulu la contraindre ?</l>
 	<l id="571">Que tout ce grand espoir dont j’osai le flatter...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="572">Pourquoi craindre un soupçon que l’on peut éviter ?</l>
 	<l id="573">Qu’aujourd’hui votre main à mon amour se donne,</l>
 	<l id="574">Et Pyrrhus aussitôt partage ma Couronne.</l>
 	<l id="575">C’est à vous seul à rompre, ou tenir le traité.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="576">C’est donc là cette foi, cette sincérité ?</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="577">Que tout votre courroux contre moi se déploie,</l>
 	<l id="578">Pour tirer votre aveu je n’ai que cette voie,</l>
 	<l id="579">Et mes respects en vain croiraient vous l’arracher,</l>
@@ -937,7 +937,7 @@
 	<l id="591">Vous pouvez l’arrêter, mais quels qu’en soient les coups,</l>
 	<l id="592">S’ils accablent Pyrrhus, n’en accuser que vous.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="593">Va, lâche, ne crois pas pour rétablir ce frère</l>
 	<l id="594">Être digne du bien que ton amour espère.</l>
 	<l id="595">Si le nom de tyran t’a donné quelque effroi,</l>
@@ -946,7 +946,7 @@
 	<l id="598">N’est pas d’un moindre prix qu’un Sceptre qu’il faut rendre.</l>
 	<l id="599">Ainsi toujours tyran, toujours Usurpateur...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="600">La tyrannie est noble à s’acquérir un cœur.</l>
 	<l id="601">C’est ce prix éclatant que je connais au vôtre</l>
 	<l id="602">Qui m’en fait préférer la conquête à toute autre,</l>
@@ -956,20 +956,20 @@
 	<l id="606">Ou recevoir ma main, ou voir périr un frère.</l>
 	<l id="607">Prononcez, vos refus sont l’arrêt de sa mort.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="608">Dieux, à quelles rigueurs réserviez-vous son sort ?</l>
 	<l id="609">C’était peu qu’un tyran lui volât sa Couronne,</l>
 	<l id="610">Il faut que de son sang le Parricide ordonne,</l>
 	<l id="611">Et qu’en le répandant il fasse soupçonner...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="612">Par ces mots odieux cherchez à m’étonner.</l>
 	<l id="613">Si l’ardeur de mon feu, si l’excès de ma peine</l>
 	<l id="614">Doit n’obtenir de vous que mépris et que haine,</l>
 	<l id="615">Par tout ce que produit une juste fureur,</l>
 	<l id="616">Il m’importera peu d’en mériter l’horreur.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="617">Et bien, mérite-la cette horreur qui sans cesse</l>
 	<l id="618">Te va donner à craindre une main vengeresse,</l>
 	<l id="619">Ou pour t’en épargner l’importune frayeur,</l>
@@ -988,7 +988,7 @@
 	<l id="632">Que la secrète horreur de me voir dans tes bras.</l>
 	<l id="633">Prononce là-dessus, tu vois toute mon âme.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="634">Ah, je l’avais bien cru qu’on trahissait ma flamme,</l>
 	<l id="635">Et que l’ingrat Pyrrhus qu’intéressait ma foi,</l>
 	<l id="636">Quand je fais tout pour lui, ne faisait rien pour moi.</l>
@@ -998,48 +998,48 @@
 	<l id="640">Son sang achèvera d’éteindre mon amour.</l>
 	<l id="641" part="i">Holà, Gardes, à moi.</l>
 </sp>
-<sp who="GELON"><speaker>GÉLON.</speaker>
+<sp who="GELON"><hstage><speaker>GÉLON</speaker>.</hstage>
 	<l id="641" part="f">Seigneur, qu’allez-vous faire ?</l>
 	<l id="642" part="i">Songez...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="642" part="f">Ne me dis rien si tu crains ma colère,</l>
 	<l id="643">Il mourra, c’en est fait, l’arrêt est prononcé.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Néoptolémus, Déidamie, Androclide, Gélon, Suite</head>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Néoptolémus, Déidamie, Androclide, Gélon, Suite</cast>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="644">Seigneur, d’un vif courroux je vous trouve pressé.</l>
 	<l id="645">Puis-je vous demander quel sujet le fait naître ?</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="646">Le refus d’une Ingrate, et le mépris d’un traître.</l>
 	<l id="647">Mais enfin il est temps que je n’en souffre plus ;</l>
 	<l id="648">Allez, Pélopidas, qu’on arrête Pyrrhus.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="649" part="i">Pyrrhus ?</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="649" part="f">Allez, vous dis-je, et que l’on m’en réponde.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="650">Seigneur, si l’équité dans un grand Prince abonde,</l>
 	<l id="651">Vous pardonnerez-vous l’injurieux éclat</l>
 	<l id="652">Que va faire partout un pareil attentat ?</l>
 	<l id="653">Violer un traité dont votre foi reçue...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="654">Ton zèle pour ma gloire en craint en vain l’issue,</l>
 	<l id="655">Aux lois de ce traité je suis prêt d’obéir,</l>
 	<l id="656">Et préviens seulement qui cherche à me trahir.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="657">Seigneur, qu’a fait Pyrrhus dont la secrète audace</l>
 	<l id="658">D’un ordre si cruel mérite la disgrâce ?</l>
 	<l id="659">Quels sont les attentats qu’il ose mettre au jour ?</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="660">Il est trop criminel s’il nuit à mon amour.</l>
 	<l id="661">Ces longs et fiers mépris qui m’ont trop su confondre,</l>
 	<l id="662">Sont autant de forfaits dont il me doit répondre.</l>
@@ -1050,10 +1050,10 @@
 	<l id="667">Et ces ingrats refus qui font mon désespoir,</l>
 	<l id="668">Suivent l’ordre secret qu’il a cru lui devoir.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="669" part="i">Quoi, Seigneur, vous croiriez...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="669" part="f">Cesse tes remontrances,</l>
 	<l id="670">Je crois ce que je vois, et non ce que tu penses.</l>
 	<l id="671">Ton zèle à ma vengeance aura beau s’opposer,</l>
@@ -1068,21 +1068,21 @@
 	<l id="680">Elle entend, elle voit le foudre prêt à choir ?</l>
 	<l id="681">Pour le sort de Pyrrhus vois si rien l’intimide.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="682">Je puis m’en reposer sur les soins d’Androclide.</l>
 	<l id="683">C’est lui qui pour Pyrrhus garantit le traité,</l>
 	<l id="684">Et puisqu’il en répond tout est en sûreté.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="685">Cherchez jusques au bout à braver ma colère,</l>
 	<l id="686">Pour en venger l’affront je sais ce qu’il faut faire,</l>
 	<l id="687" part="i">Vous l’apprendrez, Madame, adieu.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="687" part="f">Prêt à punir,</l>
 	<l id="688" part="i">Seigneur, considérez...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="688" part="f">Ne crois rien obtenir.</l>
 	<l id="689">Si la mort de Pyrrhus inquiète ton zèle,</l>
 	<l id="690">Afin de l’empêcher je te laisse avec elle.</l>
@@ -1090,8 +1090,8 @@
 	<l id="692">Que cette mort suivra le refus de sa main.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Déidamie, Androclide.</head>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Déidamie, Androclide.</cast>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="693">Tu vois que les effets à tes desseins répondent.</l>
 	<l id="694">Telle en est l’équité que les Dieux te secondent,</l>
 	<l id="695">Et ne dédaignent pas d’assurer à ton fils</l>
@@ -1104,26 +1104,26 @@
 	<l id="702">Si propres à charmer les plus nobles courages.</l>
 	<l id="703">Jouis de tout l’orgueil qu’ils savent inspirer.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="704">Le Ciel selon vos vœux semble se déclarer,</l>
 	<l id="705">La menace du Roi me tient l’âme interdite ;</l>
 	<l id="706">Mais, Madame, peut-être il n’ira pas si vite,</l>
 	<l id="707">Et la mort de mon fils qui flatte son courroux,</l>
 	<l id="708">N’est pas une vengeance encore sûre pour vous.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="709">Dans un Roi qu’on méprise et qui veut qu’on le craigne,</l>
 	<l id="710">L’Amour n’est pas un feu qu’aisément l’on éteigne ;</l>
 	<l id="711">Tes efforts, Androclide, y seront superflus.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="712">Et bien, Madame, et bien, il connaîtra Pyrrhus.</l>
 	<l id="713">Son secret révélé le livre à sa vengeance,</l>
 	<l id="714">Et du trône par là si je perds l’espérance,</l>
 	<l id="715">J’ai l’avantage au moins que d’un si digne sort</l>
 	<l id="716">Pyrrhus n’aura les droits qu’au moment de sa mort.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="717">Va, va le découvrir ; pour garantir sa tête,</l>
 	<l id="718">Dès qu’il sera connu, ma main est toute prête,</l>
 	<l id="719">Et c’est ce qui me charme ; après ta trahison,</l>
@@ -1132,7 +1132,7 @@
 	<l id="722">De voir périr ton fils, ou voir régner mon frère,</l>
 	<l id="723" part="i">Choisis, lâche.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="723" part="f">Ce choix me doit remplir d’effroi</l>
 	<l id="724">Quand sa rigueur vous aide à triompher de moi,</l>
 	<l id="725">Mais de quoi qu’il vous flatte en l’état où vous êtes,</l>
@@ -1146,7 +1146,7 @@
 	<l id="733">Que l’ennui que sans cesse elle y fera renaître,</l>
 	<l id="734" part="i">Comble...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="734" part="f">Si tu le crois, tu m’as su mal connaître.</l>
 	<l id="735">Quand le Ciel pour mon frère aura rempli mes vœux,</l>
 	<l id="736">La gloire d’être Reine est tout ce que je veux.</l>
@@ -1162,18 +1162,18 @@
 	<l id="746">Me plaît mieux que l’affront de devenir ta fille.</l>
 	<l id="747">Après ce franc aveu, délibère et résous.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="748">Chacun a ses revers, il en sera pour vous,</l>
 	<l id="749">Et peut-être à mon tour je saurai vous contraindre...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="750">Malgré l’amour du Roi cherche à me faire craindre.</l>
 	<l id="751">Si cet espoir te plaît, sans m’en inquiéter</l>
 	<l id="752">Je te laisse Antigone avec qui t’en flatter,</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Antigone, Androclide.</head>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Antigone, Androclide.</cast>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="753">De quel honteux revers vois-je la Paix suivie ?</l>
 	<l id="754">On arrête Pyrrhus, on menace sa vie,</l>
 	<l id="755">Et quand de cet orage on préparait l’éclat,</l>
@@ -1184,19 +1184,19 @@
 	<l id="760">D’avoir eu quelque part à cette lâcheté ?</l>
 	<l id="761">D’avoir d’un faux accord soutenu l’artifice ?</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="762">Madame, on ne peut trop blâmer cette injustice,</l>
 	<l id="763">Les plus augustes droits par là sont renversés,</l>
 	<l id="764" part="i">Mais...</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="764" part="f">Vous êtes content, et ce doit être assez.</l>
 	<l id="765">Quand le crime vous sert, il est beau qu’on l’excuse.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="766">Quoi, de ce qui s’est fait c’est moi que l’on accuse ?</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="767">Ne dissimulez point, j’ai trop, j’ai trop su voir</l>
 	<l id="768">Ce que l’ambition a sur vous de pouvoir.</l>
 	<l id="769">Pour le sang de Pyrrhus la Couronne est certaine ;</l>
@@ -1209,19 +1209,19 @@
 	<l id="776">Mais les plus noirs forfaits pour régner ne sont rien.</l>
 	<l id="777">Un Sceptre est toujours beau, quelque prix qu’il nous coûte.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="778">Ah, si vous m’enviez le repos que je goûte,</l>
 	<l id="779">Que vous connaissez peu, dans mes tristes ennuis,</l>
 	<l id="780">Le déplorable état où mes jours sont réduits !</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="781">Ces ennuis cachent mal ce qu’en vain on veut taire.</l>
 	<l id="782">Jamais sœur à la mort n’osa livrer son frère,</l>
 	<l id="783">Et quand Déidamie abandonne le sien,</l>
 	<l id="784">L’Amour doit tout pouvoir où le sang ne peut rien.</l>
 	<l id="785" part="i">Elle aime votre fils, et croit...</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="785" part="f">Et bien, Madame,</l>
 	<l id="786">Il vous faut là-dessus ouvrir toute mon âme,</l>
 	<l id="787">Et laisser voir enfin si j’ai part aux refus</l>
@@ -1248,10 +1248,10 @@
 	<l id="808">Vous voyez qu’il s’attache à ce coupable fils,</l>
 	<l id="809">Par lui seul de Pyrrhus la perte est résolue.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="810" part="i">Quoi, Gélon...</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="810" part="f">Oui, le Roi par lui seul l’a conclue.</l>
 	<l id="811">Quand tout saisi d’horreur à ce funeste arrêt,</l>
 	<l id="812">J’ai du Prince à ses yeux embrassé l’intérêt,</l>
@@ -1260,14 +1260,14 @@
 	<l id="815">Gélon, qu’un même zèle avait droit d’étonner,</l>
 	<l id="816">Sans rien dire pour lui l’a laissé condamner.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="817">Ah, quoi que de ce fils le crime vous accable,</l>
 	<l id="818">Vers nous ainsi que lui vous en êtes coupable.</l>
 	<l id="819">C’est peu d’avoir blâmé ce qu’il mettait au jour,</l>
 	<l id="820">Il fallait, il fallait empêcher son amour,</l>
 	<l id="821" part="i">Repousser une ardeur...</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="821" part="f">Hélas ! Qu’ai-je pu faire</l>
 	<l id="822">Que n’ait pour l’étouffer employé ma colère ?</l>
 	<l id="823">Vous avouerai-je plus ? Après tout ce courroux</l>
@@ -1297,19 +1297,19 @@
 	<l id="847">Que par moi la Nature ait assez de pouvoir</l>
 	<l id="848" part="i">Pour vous faire...</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="848" part="f">Il suffit, je connais mon devoir.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Antigone, Pyrrhus se</head>croyant Hippias. 
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Antigone, Pyrrhus se</cast>croyant Hippias. 
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="849">Ce changement n’a rien qui vous doive déplaire,</l>
 	<l id="850">Pyrrhus à vos desseins se fût rendu contraire</l>
 	<l id="851">C’est vous avoir servi que l’avoir arrêté.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="852">Madame, pardonnez à ma stupidité.</l>
 	<l id="853">L’outrage qu’on lui fait me tient l’âme gênée,</l>
 	<l id="854">Tout mon rival qu’il est je plains sa destinée,</l>
@@ -1319,7 +1319,7 @@
 	<l id="858">Trouver aux pieds du trône un fatal précipice,</l>
 	<l id="859">Tout mon cœur se révolte, et mon esprit confus...</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="860">Je crois que vous plaignez le destin de Pyrrhus,</l>
 	<l id="861">Mais c’est pour adoucir assez ce qui vous gêne</l>
 	<l id="862">Que voir Déidamie en état d’être Reine ;</l>
@@ -1334,24 +1334,24 @@
 	<l id="871">Joint à ce premier feu des sentiments trop doux</l>
 	<l id="872">Pour souffrir que jamais elle règne sans vous.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="873">Quoi, pour un attentat si rempli d’infamie</l>
 	<l id="874">Je suis d’intelligence avec Déidamie,</l>
 	<l id="875">Et vous la soupçonnez d’assez de lâcheté...</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="876">J’ai tort de condamner son illustre fierté.</l>
 	<l id="877">Laisser périr Pyrrhus plutôt que de se rendre,</l>
 	<l id="878">C’est remplir tout l’orgueil qu’on en devait attendre.</l>
 	<l id="879">Le sang d’un frère est peu pour ne le pas donner.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="880">Son refus à ce prix ne peut trop m’étonner,</l>
 	<l id="881">Et l’espoir dont le charme à tant d’orgueil l’anime</l>
 	<l id="882">Est un secret pour nous où la raison s’abîme ;</l>
 	<l id="883" part="i">Mais...</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="883" part="f">Non, non, Hippias, des effets trop certains</l>
 	<l id="884">Vous mettent hors d’état de cacher vos desseins.</l>
 	<l id="885">Où l’éclat qu’ils font parle, en vain on se veut taire,</l>
@@ -1366,7 +1366,7 @@
 	<l id="894">Vous a fait de Pyrrhus sacrifier la tête ;</l>
 	<l id="895">Q’in fidèle Sujet pour être heureux Amant...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="896">D’un soupçon si honteux où va l’aveuglement ?</l>
 	<l id="897">Ce que mes soins de vous ont mérité d’estime</l>
 	<l id="898">Vous soumet-il un cœur où puisse entrer le crime,</l>
@@ -1377,16 +1377,16 @@
 	<l id="903">Mais enfin un grand cœur, dans ces extrémités,</l>
 	<l id="904">Sait faire agir sa main, et non des lâchetés.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="905">Vous auriez quelque lieu de faire agir la vôtre</l>
 	<l id="906">À voir Déidamie entre les bras d’un autre ;</l>
 	<l id="907">Mais qui pour vous d’un frère ose livrer le sang</l>
 	<l id="908">Vous laisse assez d’espoir de partager son rang.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="909" part="i">Quoi, Madame...</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="909" part="f">Soyez ingrat, lâche, perfide,</l>
 	<l id="910">En corrompant Gélon abusez Androclide ;</l>
 	<l id="911">Je n’ai point d’intérêt à découvrir au Roi</l>
@@ -1404,21 +1404,21 @@
 	<l id="923">Quelque péril pour vous que j’en puisse prévoir,</l>
 	<l id="924">Étant ce que je sui, je ferai mon devoir.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="925">Si vous mettez par là ses jours en assurance</l>
 	<l id="926">Je crains peu le péril de cette confidence.</l>
 	<l id="927">Parlez, montrez au Roi ce rival orgueilleux</l>
 	<l id="928">Qu’opposent vos soupçons au succès de vos vœux,</l>
 	<l id="929">Accusez-moi d’aimer ; loin de m’en oser plaindre...</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="930">Vos desseins sont trop beaux pour en vouloir rien craindre.</l>
 	<l id="931">Bravez ce que contre eux je puis faire éclater,</l>
 	<l id="932">Le Roi vient, et peut-être il voudra m’écouter.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Néoptolémus, Pyrrhus se croyant Hippias, Antigone, Gélon.</head>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Néoptolémus, Pyrrhus se croyant Hippias, Antigone, Gélon.</cast>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="933">Seigneur, si le respect que je dois à mon père</l>
 	<l id="934">Me permet de combattre un arrêt trop sévère,</l>
 	<l id="935">Souffrez que pour Pyrrhus, dans des maux si pressants,</l>
@@ -1428,13 +1428,13 @@
 	<l id="939">Et ce noble triomphe où vous porte ma foi,</l>
 	<l id="940">Ne serait pas peut-être indigne d’un grand Roi.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="941">Si je livre Pyrrhus aux traits de ma vengeance,</l>
 	<l id="942">J’ai mes raisons, ma fille, et j’en vois l’importance,</l>
 	<l id="943">Et mettre en sa faveur ces sentiments au jour</l>
 	<l id="944">C’est peut-être en vouloir trop tôt croire l’amour.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="945">L’amour n’a rien pour lui que je ne pusse croire</l>
 	<l id="946">Sans blesser ma vertu, sans hasarder ma gloire.</l>
 	<l id="947">Sur vos ordres, Seigneur, il a pu m’éblouir.</l>
@@ -1456,7 +1456,7 @@
 	<l id="963">Et qu’au moins ce revers qui presse mon secours</l>
 	<l id="964">À son premier destin rende les tristes jours.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="965">En vain à l’épargner vous croyez me contraindre.</l>
 	<l id="966">Je respecte l’Accord, je rougis de l’enfreindre,</l>
 	<l id="967">Mais je ne puis souffrir qu’avec impunité</l>
@@ -1469,34 +1469,34 @@
 	<l id="974">Ou la main de la sœur, ou la tête du frère,</l>
 	<l id="975" part="i">J’attends ce qu’on résout.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="975" part="f">Oserais-je à mon tour</l>
 	<l id="976">Vous conjurer, Seigneur, d’en moins croire l’amour ?</l>
 	<l id="977">Si souvent de nos cœurs malgré nous il dispose,</l>
 	<l id="978">Cent fois l’aversion a fait la même chose.</l>
 	<l id="979">Un principe secret d’aimer ou de haïr...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="980">Qui ne sait point aimer doit savoir obéir,</l>
 	<l id="981">Et si pour moi Pyrrhus faisait ce qu’il doit faire...</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="982">N’étant pas encor Roi, que peut-il comme frère ?</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="983">Tout, s’il s’intéressait à soutenir ma foi ;</l>
 	<l id="984">Au trône, hors du trône il est toujours son Roi.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="985">Mais par où présumer qu’il trompe votre attente ?</l>
 	<l id="986" part="i">Qu’au lieu de l’adoucir...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="986" part="f">Elle-même s’en vante,</l>
 	<l id="987">Et lui fait fièrement trouver un sort plus doux</l>
 	<l id="988">À me donnez son sang, qu’à me voir son Époux.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="989">Cette fierté, Seigneur, à s’expliquer trop prompte</l>
 	<l id="990">D’une autre passion nous peut cacher la honte,</l>
 	<l id="991">Et son cœur au refus a droit de s’obstiner</l>
@@ -1505,38 +1505,38 @@
 	<l id="994">En faveur d’un Amant elle abandonne un frère,</l>
 	<l id="995">Qu’un invincible orgueil à votre espoir fatal...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="996">Ah, pour sauver Pyrrhus nommez-moi ce rival.</l>
 	<l id="997">Ce secret déclaré, ma peine est terminée,</l>
 	<l id="998">J’exécute l’Accord, j’achève l’Hyménée,</l>
 	<l id="999">Parlez ; vous laissez voir un visage interdit ?</l>
 	<l id="1000">Pour ne pas achever vous en avez trop dit.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1001">D’un crime qui jamais ne trouverait d’excuse,</l>
 	<l id="1002">C’est moi, Seigneur, c’est moi que la Princesse accuse ;</l>
 	<l id="1003">Mais j’aurai peu de peine à prouver à mon Roi</l>
 	<l id="1004">Qu’un injuste soupçon lui fait noircir ma foi</l>
 	<l id="1005">Sur une aveugle erreur dans son âme affermie...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1006">Quoi, Gélon, Hippias aime Déidamie !</l>
 </sp>
-<sp who="GELON"><speaker>GÉLON.</speaker>
+<sp who="GELON"><hstage><speaker>GÉLON</speaker>.</hstage>
 	<l id="1007">Après ce zèle ardent qu’il fait voir pour son Roi,</l>
 	<l id="1008">Seigneur, sur un soupçon vous doutez de sa foi !</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1009">Confident de son feu, de ses desseins complice,</l>
 	<l id="1010">En prenant son parti, Gélon lui fait justice.</l>
 	<l id="1011">Ennemi d’Androclide, il trouve un doux appas</l>
 	<l id="1012">À faire vanité de servir Hippias,</l>
 	<l id="1013">Comme il sait son secret il vous en peut instruire.</l>
 </sp>
-<sp who="GELON"><speaker>GÉLON.</speaker>
+<sp who="GELON"><hstage><speaker>GÉLON</speaker>.</hstage>
 	<l id="1014" part="i">Moi, Madame ?</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1014" part="f">À regret je me force à vous nuire,</l>
 	<l id="1015">Mais ce que ma vertu pourrait me reprocher</l>
 	<l id="1016">Ne souffre point qu’au Roi je puisse rien cacher.</l>
@@ -1546,20 +1546,20 @@
 	<l id="1020">Je n’ai plus rien à dire, et vous laisse achever.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Néoptolémus, Pyrrhus se croyant Hippias, Gélon.</head>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Néoptolémus, Pyrrhus se croyant Hippias, Gélon.</cast>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1021">Qu’on la fasse venir. Ô Ciel, est-il possible</l>
 	<l id="1022">Qu’Hippias à mes vœux l’ait rendue insensible,</l>
 	<l id="1023">Que l’ingrat n’écoutant ni devoir ni respect...</l>
 </sp>
-<sp who="GELON"><speaker>GÉLON.</speaker>
+<sp who="GELON"><hstage><speaker>GÉLON</speaker>.</hstage>
 	<l id="1024">Pour m’ôter tout crédit on m’a rendu suspect ;</l>
 	<l id="1025">Mais encore une fois, Seigneur, j’ose vous dire</l>
 	<l id="1026">Que si Déidamie a sur lui quelque empire,</l>
 	<l id="1027">Loin que jusqu’à l’amour un espoir odieux</l>
 	<l id="1028" part="i">L’enhardisse...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1028" part="f">Ah Gélon, enfin j’ouvre les yeux.</l>
 	<l id="1029">Pour dérober son frère au malheur qui l’entraîne</l>
 	<l id="1030">Elle n’a qu’à souffrir que je la fasse Reine,</l>
@@ -1571,7 +1571,7 @@
 <stage>À Pyrrhus.</stage>
 	<l id="1036">Ingrat, que t’ai-je fait pour me traiter ainsi ?</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1037">Déjà ce dur reproche aurait su me confondre</l>
 	<l id="1038">Si mon sang de ma foi n’était prêt à répondre.</l>
 	<l id="1039">Vous croyez qu’elle m’aime, et pour le découvrir</l>
@@ -1581,35 +1581,35 @@
 	<l id="1043">Pour le fils d’Androclide être sans intérêt,</l>
 	<l id="1044" part="i">Voir ma mort...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1044" part="f">Tu peux seul en empêcher l’arrêt,</l>
 	<l id="1045">Et si par toi sa main n’est le prix de ma flamme...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1046">Que ne puis-je, Seigneur, toucher pour vous son âme !</l>
 	<l id="1047">Sachez-le de mon père, et s’il peut pour un fils...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1048">Qu’il parle, le voici, tout lui sera permis.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Néoptolémus, Pyrrhus se croyant Hippias, Androclide, Gélon.</head>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Néoptolémus, Pyrrhus se croyant Hippias, Androclide, Gélon.</cast>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1049">Et bien, Déidamie est toujours inflexible ?</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1050">Seigneur c’est un orgueil qui parait invincible,</l>
 	<l id="1051">Deux fois pour l’adoucir j’ai voulu la revoir,</l>
 	<l id="1052">Et deux fois tout mon zèle a manqué de pouvoir.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1053">C’est assez Androclide, étant ce que vous êtes</l>
 	<l id="1054">Peu voudraient faire plus pour moi que vous ne faites.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1055" part="i">Quoi, vous me soupçonnez.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS, à Androclide.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>, à Androclide.</hstage>
 	<l id="1055" part="f">Ah, Seigneur, aidez-moi</l>
 	<l id="1056">À détruire une erreur qui peut trop sur le Roi.</l>
 	<l id="1057">Lorsque Déidamie à ses projets s’oppose,</l>
@@ -1623,12 +1623,12 @@
 	<l id="1065">Parlez, de trop d’orgueil faites-moi voir coupable</l>
 	<l id="1066" part="i">Plutôt que...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS, à Pyrrhus.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>, à Pyrrhus.</hstage>
 	<l id="1066" part="f">Son silence est assez excusable,</l>
 	<l id="1067">Et qui craint de trop dire ou trop dissimuler,</l>
 	<l id="1068">Peut montrer quelque trouble avant que de parler.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1069">D’un secret trop caché si le mien est l’indice,</l>
 	<l id="1070">Avecque mon silence il est temps qu’il finisse,</l>
 	<l id="1071">Et qu’on sache qu’en moi, quelque soit son pouvoir,</l>
@@ -1646,18 +1646,18 @@
 	<l id="1083">Que pour lui contre vous l’orgueil s’est confirmé,</l>
 	<l id="1084">Et qu’on vous aimerait s’il n’était point aimé.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1085" part="i">Que dites-vous, Seigneur ? Moi...</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1085" part="f">Je n’ai rien à taire</l>
 	<l id="1086" part="i">Puisque l’on m’accuse...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1086" part="f">Ô Dieux ! Est-ce mon père !</l>
 	<l id="1087" part="i">Est-ce lui que j’entends...</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1087" part="f">Non, ingrat, et mon cœur</l>
 	<l id="1088">Ne connaît point de fils en qui m’ôte l’honneur.</l>
 	<l id="1089">Voilà, voilà l’effet de cette aveugle flamme</l>
@@ -1675,13 +1675,13 @@
 	<l id="1101">Mais ni l’appas flatteur d’un sort si plein de gloire,</l>
 	<l id="1102" part="i">Ni la menace...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1102" part="f">Hélas ! Que n’a-t-il pu te croire ?</l>
 	<l id="1103">Mon bonheur eût bientôt cessé d’être incertain</l>
 	<l id="1104">Si ma fille n’eût eu qu’à lui donner la main.</l>
 	<l id="1105">Mais l’ingrat aime ailleurs, et du cœur où j’aspire...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1106">Androclide, Seigneur, a pouvoir de tout dire,</l>
 	<l id="1107">Et quoi que son aveu vous force à m’imputer,</l>
 	<l id="1108">C’est mon père qui parle, et je dois l’écouter.</l>
@@ -1696,36 +1696,36 @@
 	<l id="1117">Qui m’ait jamais contraint à plus que de l’estime,</l>
 	<l id="1118">Faites le châtiment, je vous ai dit e crime.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1119">Par ces déguisements achève de hâter</l>
 	<l id="1120">L’éclat de la vengeance où tu m’oses porter.</l>
 	<l id="1121">Dieux, quand le sang du fils la pouvait satisfaire,</l>
 	<l id="1122">Pourquoi m’engagiez-vous à devoir tant au père ?</l>
 	<l id="1123" part="i">Pourquoi...</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1123" part="f">Non, non, Seigneur, c’est douter de ma foi.</l>
 	<l id="1124">Meure cent fois ce fils s’il peut nuire à mon Roi.</l>
 	<l id="1125" part="i">Que moi-même...</l>
 </sp>
-<sp who="GELON"><speaker>GÉLON.</speaker>
+<sp who="GELON"><hstage><speaker>GÉLON</speaker>.</hstage>
 	<l id="1125" part="f">Seigneur, oublieriez-vous ce zèle ?</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1126">Ô Roi, vraiment heureux d’un Sujet si fidèle !</l>
 	<l id="1127">Trop malheureux pourtant de connaître aujourd’hui</l>
 	<l id="1128">Qu’il soit père d’un fils si peu digne de lui !</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1129">Avant que contre moi l’erreur soit affermie,</l>
 	<l id="1130">De grâce, oyez, Seigneur, parler Déidamie,</l>
 	<l id="1131">Et si par son aveu mon crime est confirmé...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1132">Qu’en pourrais-je obtenir contre un Amant aimé ?</l>
 	<l id="1133">Voudrait-elle trahir un secret qu’il déguise ?</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1134">Du moins elle aura peine à cacher sa surprise,</l>
 	<l id="1135">Et c’est par là d’abord que vous pourrez juger</l>
 	<l id="1136">D’un amour dont son cœur tremble à se dégager.</l>
@@ -1735,8 +1735,8 @@
 	<l id="1140">Tout ce qui peut tomber... mais, Seigneur, la voici.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Néoptolémus, Pyrrhus se croyant Hippias, Déidamie, Androclide, Gélon.</head>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Néoptolémus, Pyrrhus se croyant Hippias, Déidamie, Androclide, Gélon.</cast>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1141">Madame, enfin j’ai su par quelle injuste audace</l>
 	<l id="1142">De mon courroux tantôt vous braviez la menace.</l>
 	<l id="1143">Le sang qu’à ma vengeance ont livré vos mépris,</l>
@@ -1746,27 +1746,27 @@
 	<l id="1146">Pourra craindre à son tour de me voir inflexible,</l>
 	<l id="1147">Vous le perdrez sans doute avec plus de regret.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1148">Je ne demande point d’où l’on sait son secret.</l>
 	<l id="1149" part="i">Androclide a tout dit ?</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1149" part="f">Oui, j’ai parlé, Madame.</l>
 	<l id="1150">Dites que ses malheurs ne touchent point votre âme,</l>
 	<l id="1151">Que rien à son destin ne vous peut attacher.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1152">En vain puisqu’on le sait je voudrais le cacher.</l>
 <stage>À Néoptolémus.</stage>
 	<l id="1153">Mais, Seigneur, si pour lui ma constance timide...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1154" part="i">Que dites-vous, Madame ? Ô Ciel !</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS à Pyrrhus.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker> à Pyrrhus.</hstage>
 	<l id="1154" part="f">Et bien, perfide !</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1155">Cessez en l’outrageant de me percer le cœur.</l>
 	<l id="1156">Mes disgrâces déjà n’ont que trop de rigueur,</l>
 	<l id="1157">Ne les redoublez point, et si mes tristes larmes</l>
@@ -1779,14 +1779,14 @@
 	<l id="1164">S’i faut donner mon sang, prenez-le pour le sien.</l>
 	<l id="1165" part="i">Versez...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1165" part="f">Quel intérêt vous porte à lui déplaire ?</l>
 	<l id="1166" part="i">Suis-je digne...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1166" part="f">Pour vous, hélas, puis-je moins faire ?</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1167">Non, mais pour arracher ce discours odieux</l>
 	<l id="1168">Je n’écoute plus rien qu’en présence des Dieux.</l>
 	<l id="1169">Là, s’il faut que mes vœux cessent d’être frivoles,</l>
@@ -1801,14 +1801,14 @@
 	<l id="1177">Qu’on les laisse ici seuls. Vous, suivez Androclide.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Pyrrhus se croyant Hippias, Déidamie.</head>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Pyrrhus se croyant Hippias, Déidamie.</cast>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1178">C’est donc votre amour seul qui de mon sort décide,</l>
 	<l id="1179">Madame ? Mais ô Dieux ! Qui l’aurait présumé</l>
 	<l id="1180">Que de vous en secret Hippias fût aimer ?</l>
 	<l id="1181" part="i">Que pour lui votre cœur...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1181" part="f">Gardez de vous en plaindre,</l>
 	<l id="1182">Son mérite lui seul aurait dû m’y contraindre,</l>
 	<l id="1183">Quand ce cœur qu’un tyran me force de trahir,</l>
@@ -1818,72 +1818,72 @@
 	<l id="1187">Et quand vos jours par moi se peuvent conserver,</l>
 	<l id="1188">Je consens à me perdre afin de vous sauver.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1189" part="i">Quoi, vous épouseriez...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1189" part="f">Telle est ma destinée.</l>
 	<l id="1190">J’en vivrai sans repos, toujours infortunée,</l>
 	<l id="1191">Mais à vos intérêts je dois tout immoler.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1192">Ma raison se confond à vous ouïr parler,</l>
 	<l id="1193">Vous qui loin que jamais vous m’ayez fait entendre...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1194">La Reine expressément me l’avait su défendre,</l>
 	<l id="1195">De peur que trop d’ardeur échauffant vos esprits</l>
 	<l id="1196">Ne trahit le secret que je vous eusse appris.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1197">L’ayant tu jusqu’ici, quelle injuste espérance</l>
 	<l id="1198">Vous en fait aujourd’hui donner la connaissance ?</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1199">Plaignez-vous d’Androclide, il a tout découvert.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1200">Mais c’est votre aveu seul qui me nuit, et vous perd.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1201">Du billet de la Reine étant dépositaire,</l>
 	<l id="1202">Il prouve malgré moi que vous êtes mon frère,</l>
 	<l id="1203">Est-il en mon pouvoir de démentir sa main ?</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1204" part="i">Moi, votre frère, moi !</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1204" part="f">C’est s’étonner en vain.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1205" part="i">Moi, Pyrrhus ?</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1205" part="f">Doutez-vous du rapport d’Androclide ?</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1206" part="i">Je ne suis pas son fils ?</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1206" part="f">Vous, le fils d’un perfide ?</l>
 	<l id="1207" part="i">Non, non, mon frère.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1207" part="f">Hélas ! Sortez d’aveuglement.</l>
 	<l id="1208">Androclide me fait passer pour votre Amant ;</l>
 	<l id="1209">Comme rival du Roi j’éprouve sa colère.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1210">Il vous fait mon Amant ! Ah, c’est trop vous le taire.</l>
 	<l id="1211">Ce Pyrrhus qu’à périr exposaient mes refus</l>
 	<l id="1212">Est le fils d’Androclide, et vous êtes Pyrrhus,</l>
 	<l id="1213" part="i">Nous nous entendions mal.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1213" part="f">Androclide est son père ?</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1214">L’aurais-je abandonné s’il eût été mon frère ?</l>
 	<l id="1215">Un échange secret abusant Glaucias</l>
 	<l id="1216">Le fait croire Pyrrhus, vous fait croire Hippias.</l>
@@ -1899,7 +1899,7 @@
 	<l id="1226">Renverser ses desseins, confondre la Nature,</l>
 	<l id="1227" part="i">Vous placer sur le trône...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1227" part="f">Ah, pour vous en flatter</l>
 	<l id="1228">Androclide, ma sœur, est trop à redouter.</l>
 	<l id="1229">Ce feu que m’imputait son adroite colère</l>
@@ -1907,27 +1907,27 @@
 	<l id="1231">Mais quoi qu’ait pu le Sort afin de m’épargner,</l>
 	<l id="1232">C’est à moi de mourir, à son fils de régner.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1233" part="i">Quoi, ma main...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1233" part="f">Votre main par le Roi poursuivie</l>
 	<l id="1234">Malgré cet imposteur me peut sauver la vie,</l>
 	<l id="1235">Mais justifiera-t-elle, après ce qu’il soutient,</l>
 	<l id="1236">Qu’il fait prendre à son fils un nom qui m’appartient ?</l>
 	<l id="1237">Non, non, il n’est plus temps de l’en vouloir dédire.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1238">Quoi, contre vous moi-même il faut que je conspire,</l>
 	<l id="1239">Que de moi, d’une sœur vous paraissiez aimé ?</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1240">Androclide l’a dit, vous l’avez confirmé.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1241">Je parlais d’un secret qui vous faisait connaître.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1242">Il parlait de l’Amour que vous m’aviez fait naître.</l>
 	<l id="1243">Et l’on croirait toujours qu’un pareil changement</l>
 	<l id="1244">Sous le faux nom du frère épargnerait l’Amant.</l>
@@ -1936,46 +1936,46 @@
 	<l id="1247">Et sans me découvrir ni donner votre foi,</l>
 	<l id="1248">Embarrassez ensemble Androclide et le Roi.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1249">À ne la donner pas votre perte est certaine.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1250">Vous, épouser pour moi l’objet de votre haine !</l>
 	<l id="1251" part="i">Ah plutôt...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1251" part="f">S’il faut voir votre Couronne ailleurs,</l>
 	<l id="1252">Du moins vos jours sauvés flatteront mes malheurs.</l>
 	<l id="1253">Pour suivre mon devoir il n’est rien qui m’étonne.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1254">Vivez pour Hippias, c’est moi qui vous l’ordonne ;</l>
 	<l id="1255">On me croit votre Amour, j’en dois garder le nom.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1256">Laisser à la Princesse un si cruel soupçon !</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1257">Le temps pour l’éclaircir n’aura que trop de force.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1258">Mon cœur ne goûte point cette amoureuse amorce,</l>
 	<l id="1259" part="i">Et loin...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1259" part="f">C’est trop, ma sœur, je vais trouver le Roi.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1260" part="i">Mais que lui direz-vous enfin ?</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1260" part="f">Ce que je dois.</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Déidamie, Hippias se croyant Pyrrhus.</head>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Déidamie, Hippias se croyant Pyrrhus.</cast>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1261">Ne cherchez point, ma sœur, d’où mon chagrin peut naître.</l>
 	<l id="1262">Ma raison se confond à le vouloir connaître.</l>
 	<l id="1263">Et vos soupçons en vain le font être un effet</l>
@@ -1989,12 +1989,12 @@
 	<l id="1271">Et la mort que l’on m’ôte en était un plus grand</l>
 	<l id="1272">Que cette liberté que mon malheur me rend.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1273">Quel que fût ce péril où vous trouviez des charmes,</l>
 	<l id="1274">Si j’ai paru pour vous en prendre peu d’alarmes,</l>
 	<l id="1275">J’avais quelques raisons d’appuyer un refus...</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1276">Et ce sont ces raisons qui ne m’en laissent plus.</l>
 	<l id="1277">Je vous l’ai déjà dit, mais pour flatter ma peine</l>
 	<l id="1278">Souffrez que de nouveau ma douleur vous l’apprenne,</l>
@@ -2010,11 +2010,11 @@
 	<l id="1288">N’a fait qu’accroître un mal qui m’arrache le cœur,</l>
 	<l id="1289">Que plonger ma raison dans un plus noir abîme.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1290">L’hymen où je m’apprête en expiera le crime,</l>
 	<l id="1291">Et quand je hais le Roi, l’accepter pour Époux...</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1292">Ah, sans rien éclaircir que ne l’épousiez-vous !</l>
 	<l id="1293">Si toujours ma disgrâce en eût été mortelle,</l>
 	<l id="1294">Vous m’auriez épargné du moins la plus cruelle,</l>
@@ -2026,12 +2026,12 @@
 	<l id="1300">Quand vous craignez pour lui, n’a rien pour vous d’affreux</l>
 	<l id="1301" part="i">Qu’à quelque excès d’ennuis...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1301" part="f">Vous avez lieu de croire</l>
 	<l id="1302">Que le sang a dû seul intéresser ma gloire,</l>
 	<l id="1303">Qu’avoir livré le vôtre à ce brûlant courroux...</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1304">Non, ce n’est point par là que je me plains de vous.</l>
 	<l id="1305">Contre moi du tyran rallumez la colère,</l>
 	<l id="1306">Pour vivre toute à vous laissez périr un frère,</l>
@@ -2053,7 +2053,7 @@
 	<l id="1322">Quand je songe au motif qui vous y fait résoudre,</l>
 	<l id="1323" part="i">Et que je vois l’Amour...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1323" part="f">Ne vous contraignez pas.</l>
 	<l id="1324">Dites qu’il me séduit en faveur d’Hippias.</l>
 	<l id="1325">Comme fils d’Androclide il mérite ma haine,</l>
@@ -2061,34 +2061,34 @@
 	<l id="1327">Et vous-même sans doute, à n’y pas obéir,</l>
 	<l id="1328">Auriez blâmé l’orgueil qui me l’eût fait trahir.</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1329">Ah, ma sœur, s’il le faut, qu’il règne sur l’Épire,</l>
 	<l id="1330">Mais que de votre cœur il vous laisse l’Empire.</l>
 	<l id="1331">Ce droit seul réservé soulage mon ennui,</l>
 	<l id="1332">Pourvu qu’il soit à vous, tout le reste est à lui,</l>
 	<l id="1333" part="i">J’y consens, et mes vœux...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1333" part="f">N’en formez point, de grâce,</l>
 	<l id="1334">Un si faible bonheur ne vaut pas qu’on en fasse ;</l>
 	<l id="1335">Mais quoi que vous craigniez de mon cœur enflammé,</l>
 	<l id="1336">Vous seriez moins heureux s’il était moins aimé.</l>
 	<l id="1337" part="i">Vous êtes Hippias.</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1337" part="f">Androclide est mon père ?</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1338">Oui, vous êtes son fils, et son fils est mon frère.</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1339">Et vous croyez par là soulager mon tourment !</l>
 	<l id="1340">Non, il n’est que trop vrai, son fils est votre Amant,</l>
 	<l id="1341">Lui-même il en fait gloire, et fier de sa disgrâce</l>
 	<l id="1342">Du Roi, comme rival, il brave la menace ;</l>
 	<l id="1343">J’en viens d’être témoin, et c’est mon désespoir.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1344">D’une vertu sublime admirez le pouvoir.</l>
 	<l id="1345">Pour m’épargner l’horreur d’un hymen qui m’accable</l>
 	<l id="1346">Il cherche, comme Amant, à se montrer coupable,</l>
@@ -2103,7 +2103,7 @@
 	<l id="1355">Si vous pouvez douter du rapport d’une sœur,</l>
 	<l id="1356" part="i">Croyez-en...</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1356" part="f">Ah, Madame, il suffit de mon cœur.</l>
 	<l id="1357">C’est lui seul que j’écoute, et ce qu’il m’ose dire,</l>
 	<l id="1358">Pour ne l’en croire pas, a sur moi trop d’empire.</l>
@@ -2117,18 +2117,18 @@
 	<l id="1366">S’il faut que du tyran vous deveniez la Femme !</l>
 	<l id="1367" part="i">Vous, sa Femme ? Ah plutôt...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1367" part="f">Mais enfin, voulez-vous</l>
 	<l id="1368">Que j’abandonne un frère à son lâche courroux ?</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1369">Quelques transports en lui que ce courroux anime,</l>
 	<l id="1370">Il n’en veut qu’au rival dont l’amour fait le crime,</l>
 	<l id="1371">Et coupable vers lui d’un si noble attentat,</l>
 	<l id="1372">C’est sur moi seulement qu’en doit tomber l’éclat.</l>
 	<l id="1373">Mon amour déclaré, Pyrrhus n’a rien à craindre.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1374">Pyrrhus est son rival, du moins il l’a su feindre,</l>
 	<l id="1375">Et ce titre d’Amant qui vous paraît si doux</l>
 	<l id="1376">Est plus croyable en lui qu’il ne peut l’être en vous.</l>
@@ -2136,7 +2136,7 @@
 	<l id="1378">Ne ferait contre vous qu’irriter sa colère,</l>
 	<l id="1379">Et sans rompre l’hymen où j’ose m’apprêter...</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1380">Non, non, je le romprai, laissez-moi l’irriter.</l>
 	<l id="1381">L’Amour qui cherche à vaincre un destin effroyable</l>
 	<l id="1382">Sait trop bien s’exprimer pour n’être pas croyable.</l>
@@ -2146,15 +2146,15 @@
 	<l id="1386">Sans rien craindre pour moi, vous voyiez la tempête,</l>
 	<l id="1387">Vous ne relâchiez rien de vos justes mépris.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1388">Je savais qu’Androclide agirait pour son fils,</l>
 	<l id="1389">Qu’il saurait dérober vos jours à sa vengeance.</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1390">N’avez-vous pas encor cette même assurance ?</l>
 	<l id="1391">Des intérêts d’un fils sera-t-il moins jaloux ?</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1392">Mais le tyran alors ne menaçait que vous.</l>
 	<l id="1393">Le destin a rendu mon malheur invincible,</l>
 	<l id="1394">Pour les jours de Pyrrhus j’ai paru trop sensible,</l>
@@ -2162,7 +2162,7 @@
 	<l id="1396">C’est toujours par ma main qu’il les faut racheter.</l>
 	<l id="1397">Votre sang hasardé change-t-il ma disgrâce ?</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1398">Madame, nous n’avons encor que la menace,</l>
 	<l id="1399">S’il s’apprête aux effets, pour rompre son dessein,</l>
 	<l id="1400">J’y consens, il le faut, donnez-lui votre main ;</l>
@@ -2171,7 +2171,7 @@
 	<l id="1403">Sûre au besoin toujours de pouvoir l’adoucir,</l>
 	<l id="1404" part="i">Continuez...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1404" part="f">Et bien, il faut tout éclaircir,</l>
 	<l id="1405">De l’hymen qu’il poursuit suspendre l’assurance,</l>
 	<l id="1406">Reprendre tout l’orgueil qui bravait sa vengeance,</l>
@@ -2179,31 +2179,31 @@
 	<l id="1408">C’est mon frère, et mon cœur n’a point à consulter.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Déidamie, Androclide, Hippias.</head>
-<sp who="HIPPIAS"><speaker>HIPPIAS, à Androclide.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Déidamie, Androclide, Hippias.</cast>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>, à Androclide.</hstage>
 	<l id="1409">Seigneur, à nos ennuis donnez quelque relâche ;</l>
 	<l id="1410">C’est trop tenir caché ce qu’il faut que l’on sache.</l>
 	<l id="1411">Faites, faites enfin paraître aux yeux de tous</l>
 	<l id="1412" part="i">Ce qu’un zèle...</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1412" part="f">Seigneur, de quoi me parlez-vous ?</l>
 	<l id="1413" part="i">Est-il quelque secret...</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1413" part="f">Il n’est plus temps de taire</l>
 	<l id="1414">Que je suis Hippias, que vous êtes mon père.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE à Déidamie.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker> à Déidamie.</hstage>
 	<l id="1415">Madame, quel destin me fait changer de fils ?</l>
 	<l id="1416">Que fait-on croire au Prince, ou qu’avez-vous appris ?</l>
 	<l id="1417">L’ose-t-on abuser ? Suis-je abusé moi-même ?</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1418">Toujours d’un Imposteur l’impudence est extrême,</l>
 	<l id="1419">Pour couvrir tes forfaits, tu dois tout ignorer.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1420">Pour mon indigne fils c’est trop vous déclarer</l>
 	<l id="1421">L’aveu de son amour m’attire votre haine,</l>
 	<l id="1422">J’ai trahi vos secrets, et c’en est là la peine.</l>
@@ -2212,36 +2212,36 @@
 	<l id="1424">La feinte est pardonnable à qui sait bien aimer,</l>
 	<l id="1425">Pour sauver un Amant il n’est rien qu’on ne tente.</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1426">Non, non, de vos projets je vois l’injuste attente,</l>
 	<l id="1427">Mais d’un frivole appas votre espoir se nourrit,</l>
 	<l id="1428">Pour ne douter de rien son rapport me suffit,</l>
 	<l id="1429">Hippias est Pyrrhus, vous n’êtes point son père.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1430">Quoi, Seigneur, vous voulez qu’Hippias soit son frère.</l>
 	<l id="1431">Lui qui par un orgueil qui n’eût jamais d’égal</l>
 	<l id="1432">De son maître à vos yeux s’est déclaré rival,</l>
 	<l id="1433">Lui qui du nom d’Amant fait sa plus haute gloire ?</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1434">On sait par quel motif et ce qu’il faut en croire.</l>
 	<l id="1435">Ce rival, dont l’aveu flatte en lui votre espoir,</l>
 	<l id="1436">C’est en moi seulement que le Roi le peut voir.</l>
 	<l id="1437" part="i">J’adore la Princesse, et...</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1437" part="f">Dieux, qu’osez-vous dire ?</l>
 	<l id="1438">Vous Amant d’une sœur qui vous vole un Empire !</l>
 	<l id="1439">Qui coupable déjà d’avoir livré vos jours...</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1440">L’erreur où j’ai vécu vous offre un vain secours.</l>
 	<l id="1441">Après ce que le Ciel m’a daigné faire entendre</l>
 	<l id="1442">Je connais trop Pyrrhus pour m’y pouvoir méprendre.</l>
 	<l id="1443">Hippias est son frère, et je suis votre fils.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1444">Quel invincible charme aveugle vos esprits !</l>
 	<l id="1445">Vous ne voyez donc pas que l’amour qui la presse</l>
 	<l id="1446">Pour sauver Hippias a recours à l’adresse,</l>
@@ -2249,7 +2249,7 @@
 	<l id="1448">Faire tomber sur vous le péril d’un Amant,</l>
 	<l id="1449">Vous perdre sous son nom, et par cet artifice...</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1450">Je vois ce qu’il faut voir pour lui rendre justice,</l>
 	<l id="1451">Et si vous vous flattez de l’espoir d’un grand bien</l>
 	<l id="1452">À prendre une couronne où je ne prétends rien,</l>
@@ -2258,15 +2258,15 @@
 	<l id="1455">Et faire voir à tous qu’au point où je me vois,</l>
 	<l id="1456">Qui peut la dédaigner méritait d’être Roi.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1457">Si l’éclat n’en peut plaire à votre âme déçue</l>
 	<l id="1458">Vous la pourrez céder quand vous l’aurez reçue,</l>
 	<l id="1459">Et j’aimerai l’erreur à qui Pyrrhus soumis,</l>
 	<l id="1460">Sans qu’on m’impute rien, fera régner mon fils.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Néoptolémus, Déidamie, Gélon, Androclide, Hippias, Suite.</head>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE à Néoptolémus.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Néoptolémus, Déidamie, Gélon, Androclide, Hippias, Suite.</cast>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker> à Néoptolémus.</hstage>
 	<l id="1461">D’Hippias pour vos vœux ne craignez plus l’obstacle,</l>
 	<l id="1462">Seigneur, l’Amour pour lui vient de faire un miracle,</l>
 	<l id="1463">Et par des nouveautés dont vous serez surpris,</l>
@@ -2277,12 +2277,12 @@
 	<l id="1468">Hippias est son frère, et mon fils est Pyrrhus,</l>
 	<l id="1469">Elle en a l’assurance, et je suis un perfide.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1470">Quoi, Madame, Hippias n’est point fils d’Androclide,</l>
 	<l id="1471">Et quand vous craignez tout de mon ressentiment,</l>
 	<l id="1472">Il devient votre frère, et n’est plus votre Amant !</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1473">Sur l’aveu dont tantôt devant toi j’ai fait gloire,</l>
 	<l id="1474">Tu l’as cru mon Amant, et tu pouvais le croire ;</l>
 	<l id="1475">Mais du lâche Androclide en vain le faux rapport</l>
@@ -2299,13 +2299,13 @@
 	<l id="1486">Androclide supprime un billet de la Reine ;</l>
 	<l id="1487">Examine, et résous, je ne te dis plus rien.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1488">Seigneur, sur son rapport on peut douter du mien.</l>
 	<l id="1489">Attendant qu’à loisir le crime s’éclaircisse,</l>
 	<l id="1490">Je me rends prisonnier, vous vous ferez justice,</l>
 	<l id="1491">Et si quelque soupçon vous peut autoriser...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1492">Va, sa feinte n’a rien qui me puisse abuser</l>
 	<l id="1493">L’artifice n’en sert qu’à me rendre plus claire</l>
 	<l id="1494">La honte d’un amour qui me livrait son frère,</l>
@@ -2313,42 +2313,42 @@
 	<l id="1496">À détourner sur lui le péril d’un Amant.</l>
 	<l id="1497" part="i">Ah, Gélon, qui l’eût cru ?</l>
 </sp>
-<sp who="GELON"><speaker>GÉLON.</speaker>
+<sp who="GELON"><hstage><speaker>GÉLON</speaker>.</hstage>
 	<l id="1497" part="f">Seigneur, le Ciel est juste.</l>
 	<l id="1498">Il veille sur les Rois, prend soin d’un sang auguste,</l>
 	<l id="1499">Et sans qu’il vous demeure aucun soupçon d’abus,</l>
 	<l id="1500">Si vous voulez qu’il règne, il montrera Pyrrhus.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1501">Il m’est assez connu ; mais quand on me dédaigne,</l>
 	<l id="1502">Ne sachant si je veux qu’il périsse ou qu’il règne,</l>
 	<l id="1503">Je sais bien seulement qu’un désespoir fatal</l>
 	<l id="1504">Ne me laisse songer qu’à punir mon rival.</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1505">Si sur un rival seul doit tomber votre haine,</l>
 	<l id="1506">Vous le voyez en moi, résolvez de ma peine.</l>
 	<l id="1507">J’aime Déidamie, et mon cœur enflammé</l>
 	<l id="1508">Dérobe à vos désirs la douceur d’être aimé.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1509">Quoi, c’est peu qu’à mes vœux votre fierté contraire</l>
 	<l id="1510">Ait dédaigné pour moi d’user des droits de frère ;</l>
 	<l id="1511">Si j’attaque un rival je vous vois lâchement,</l>
 	<l id="1512">Pour braver ma vengeance, affecter d’être Amant ?</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1513">Non, non, c’est un secret qu’il ne faut plus vous taire.</l>
 	<l id="1514">Hippias est Pyrrhus, je ne suis point son frère,</l>
 	<l id="1515">Et quand j’aime en effet, c’est sans rien affecter</l>
 	<l id="1516">Qu’une si belle ardeur fait gloire d’éclater.</l>
 	<l id="1517">Jamais ni feu plus pur, ni passion plus tendre...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1518">Qu’aux feintes de sa sœur Pyrrhus se puisse rendre,</l>
 	<l id="1519">Qu’il soit prêt à céder un trône sur sa foi !</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1520">L’Amour est mon Oracle, et c’est lui que j’en crois</l>
 	<l id="1521">L’heureux titre d’Amant qu’il permet à ma flamme,</l>
 	<l id="1522">Malgré ce que je perds, remplit toute mon âme.</l>
@@ -2356,7 +2356,7 @@
 	<l id="1524">Quand je vois qu’Hippias a droit seul de régner ;</l>
 	<l id="1525">Assez et trop longtemps mon sort lui fait injure.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1526">Il fallait avec lui concerter l’imposture,</l>
 	<l id="1527">Et de Pyrrhus peut-être on m’aurait fait douter,</l>
 	<l id="1528">S’il en eût pris le nom quand vous l’oser quitter.</l>
@@ -2365,14 +2365,14 @@
 	<l id="1531">Et son feu l’attachant au destin d’Hippias,</l>
 	<l id="1532">Quand vous prenez son nom, ne vous le cède pas.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1533">Tu vois jusqu’où pour moi leur vertu les engage.</l>
 	<l id="1534">Pour contraindre mon cœur tu mets tout en usage,</l>
 	<l id="1535">Et tous deux aiment mieux, afin de m’épargner,</l>
 	<l id="1536">Être Amant pour mourir, que frères pour régner.</l>
 	<l id="1537">Ta tyrannie en eux trouve de faibles armes.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1538">L’Amour pour les tyrans doit avoir peu de charmes,</l>
 	<l id="1539">Et puisqu’il le faut être, il est temps que mon cœur,</l>
 	<l id="1540">Pressé de se venger, chasse toute autre ardeur.</l>
@@ -2381,14 +2381,14 @@
 	<l id="1543">Prononcez, et voyons par votre jugement,</l>
 	<l id="1544">Qui l’emporte sur vous, du frère ou de l’Amant.</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1545">Le Choix que vous pressez sera facile à faire,</l>
 	<l id="1546">L’Amant sans balancer s’immole aux jours du frère.</l>
 	<l id="1547">Comme à perdre un rival vous avez intérêt,</l>
 	<l id="1548">Voici votre victime, ordonnez, je suis prêt.</l>
 	<l id="1549">C’est moi seul, c’est mon sang qu’elle offre à votre haine.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1550">Qu’on le tienne éloigné dans la chambre prochaine,</l>
 	<l id="1551" part="i">Il attendra mon ordre.</l>
 <stage>À Déidamie.</stage>
@@ -2397,7 +2397,7 @@
 	<l id="1553">À toute ma vengeance un des deux peut suffire,</l>
 	<l id="1554" part="i">Choisissez.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1554" part="f">Je t’ai déjà dit ce que j’avais à dire.</l>
 	<l id="1555">Un frère a tous mes vœux s’il faut craindre sa mort,</l>
 	<l id="1556">Hippias est ce frère, ordonne de son sort</l>
@@ -2413,8 +2413,8 @@
 	<l id="1565" part="i">Adieu.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Néoptolémus, Androclide, Gélon.</head>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Néoptolémus, Androclide, Gélon.</cast>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1565" part="f">Vit-on jamais une pareille audace ?</l>
 	<l id="1566">C’en est fait, dans mon cœur l’amour n’a plus de place,</l>
 	<l id="1567">L’ingrate en est indigne ; et sa dure fierté</l>
@@ -2436,15 +2436,15 @@
 	<l id="1583">Lui seul a tout son cœur, lui seul a tous ses vœux.</l>
 	<l id="1584">Sans Androclide hélas ! Que je serais heureux !</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1585">Moi j’empêche, Seigneur, que son orgueil ne change ?</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1586">Tous malheurs sont légers pourvu que l’on se venge.</l>
 	<l id="1587">La mort de mon rival punirait ses mépris,</l>
 	<l id="1588">Et prêt à l’ordonner, je vois qu’il est ton fils.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1589">Souffrir que mon repos au vôtre se préfère ?</l>
 	<l id="1590">J’étais Sujet, Seigneur, avant que d’être père,</l>
 	<l id="1591">Et quoi que la Nature en frémisse d’effroi,</l>
@@ -2455,34 +2455,34 @@
 	<l id="1596">Mettez-vous en état de rétablir Pyrrhus.</l>
 	<l id="1597">Par cet illustre effort couronnez votre gloire.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1598" part="i">Dieux !</l>
 </sp>
-<sp who="GELON"><speaker>GÉLON.</speaker>
+<sp who="GELON"><hstage><speaker>GÉLON</speaker>.</hstage>
 	<l id="1598" part="f">Pourriez-vous, Seigneur, vous résoudre à l’en croire,</l>
 	<l id="1599">Et ce zèle si pur, si parfait, si soumis,</l>
 	<l id="1600">Ne mérite-t-il point la grâce de son fils ?</l>
 	<l id="1601">Sa vertu par le sang vainement combattue,</l>
 	<l id="1602" part="i">Toujours ferme pour vous...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1602" part="f">C’est là ce qui me tue.</l>
 	<l id="1603">Je sais que pour ce fils il doit tout obtenir,</l>
 	<l id="1604">Mais connaître un rival, et ne le point punir !</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1605">Punissez-le, Seigneur, ce rival téméraire.</l>
 	<l id="1606">Quoi qu’oppose Gélon, croyez l’en moins qu’un père,</l>
 	<l id="1607">Et n’examinons point ce qui l’attache plus</l>
 	<l id="1608">Au parti de mon fils qu’à celui de Pyrrhus.</l>
 </sp>
-<sp who="GELON"><speaker>GÉLON, à Androclide.</speaker>
+<sp who="GELON"><hstage><speaker>GÉLON</speaker>, à Androclide.</hstage>
 	<l id="1609">À ce fils malheureux j’ai cru devoir ce zèle</l>
 	<l id="1610">Mais si c’est pour Pyrrhus paraître moins fidèle,</l>
 	<l id="1611">Les effets feront voir s’il peut auprès du Roi</l>
 	<l id="1612">Attendre pour régner plus de vous que de moi.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS, à Gélon.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>, à Gélon.</hstage>
 	<l id="1613">Va, ne t’en flatte point, sa perte est résolue,</l>
 	<l id="1614">Les mépris de sa sœur malgré moi l’ont conclue,</l>
 	<l id="1615">Et mon trône avec lui n’est plus à partager,</l>
@@ -2491,7 +2491,7 @@
 	<l id="1618">Par la mort de Pyrrhus je dois régner sans crainte,</l>
 	<l id="1619" part="i">Et son sang...</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1619" part="f">Ah, Seigneur, daignez-y mieux songer.</l>
 	<l id="1620">Votre cœur d’une Ingrate aspire à se venger,</l>
 	<l id="1621">Mais quand l’Amour par elle au devoir se préfère,</l>
@@ -2500,14 +2500,14 @@
 	<l id="1624">Elle n’a point rougi de vous abandonner ?</l>
 	<l id="1625">C’est sur son Amant seul qu’il faut que votre haine...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1626">L’Amant comme le frère aura part à la peine,</l>
 	<l id="1627" part="i">Et demain...</l>
 </sp>
-<sp who="GELON"><speaker>GÉLON.</speaker>
+<sp who="GELON"><hstage><speaker>GÉLON</speaker>.</hstage>
 	<l id="1627" part="f">Quoi, Seigneur, vous les perdrez tous deux ?</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS, montrant Androclide.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>, montrant Androclide.</hstage>
 	<l id="1628">Non, il faut épargner un père malheureux,</l>
 	<l id="1629">Pyrrhus périra seul, mais de peur que l’ingrate</l>
 	<l id="1630">De quelque espoir encor lâchement ne se flatte,</l>
@@ -2517,25 +2517,25 @@
 	<l id="1634">En me vengeant du fils, m’acquitte vers le père,</l>
 	<l id="1635" part="i">Et je ne vois...</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1635" part="f">Seigneur, Pyrrhus est condamné,</l>
 	<l id="1636" part="i">Et mon fils...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1636" part="f">Tu perds temps, l’arrêt en est donné.</l>
 	<l id="1637">Où ta vertu pour moi te fait trop entre prendre,</l>
 	<l id="1638">Ce n’est pas ton conseil que la mienne doit prendre.</l>
 	<l id="1639" part="i">Suis-moi, Gélon.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE, seul.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>, seul.</hstage>
 	<l id="1639" part="f">Ô Dieux de mon bonheur jaloux,</l>
 	<l id="1640">Par ce projet funeste où me réduisez-vous ?</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Néoptolémus, Déidamie.</head>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Néoptolémus, Déidamie.</cast>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1641">Confessez-le, Madame, il vous est doux d’apprendre</l>
 	<l id="1642">Qu’un Peuple révolté m’ose choisir un Gendre ?</l>
 	<l id="1643">Si sa rébellion par un éclat soudain</l>
@@ -2558,7 +2558,7 @@
 	<l id="1660">Sera pour vous peut-être un supplice achevé.</l>
 	<l id="1661">La douleur de le voir entre les bras d’une autre...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1662">Je vous l’ai déjà dit, mon souhait est le vôtre.</l>
 	<l id="1663">Par l’hymen d’Hippias cherchez à me punir,</l>
 	<l id="1664">Seigneur, c’est le seul bien que je veuille obtenir,</l>
@@ -2574,7 +2574,7 @@
 	<l id="1674">Qu’il soit cru mon Amant, ou connu pour mon frère.</l>
 	<l id="1675">C’est assez que du trône on le fasse jouir.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1676">Tous ces déguisements ne peuvent m’éblouir.</l>
 	<l id="1677">Votre amour, des Mutins voyant agir l’audace,</l>
 	<l id="1678">De l’hymen d’Hippias ne craint plus la menace,</l>
@@ -2589,15 +2589,15 @@
 	<l id="1687">Et nous verrons alors si dans de tels malheurs</l>
 	<l id="1688">Hippias couronné pourra sécher vois pleurs.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1689">Cette mort me serait un funeste spectacle ;</l>
 	<l id="1690">Mais, Seigneur, Androclide y pourra mettre obstacle,</l>
 	<l id="1691">Et j’ai lieu d’en attendre un assez fort secours</l>
 	<l id="1692" part="i">Pour ne craindre...</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Néoptolémus, Déidamie, Camille.</head>
-<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Néoptolémus, Déidamie, Camille.</cast>
+<sp who="CAMILLE"><hstage><speaker>CAMILLE</speaker>.</hstage>
 	<l id="1692" part="f">Ah, Seigneur, on en veut à vos jours,</l>
 	<l id="1693">Un nombre d’Assassins par une aveugle rage</l>
 	<l id="1694">Cherche jusques à vous à se faire passage,</l>
@@ -2611,55 +2611,55 @@
 	<l id="1702">Mais que ne doit-on craindre et pour vous et pour elle ?</l>
 	<l id="1703">Contre tant d’Ennemis tout à coup déclarés...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1704">Androclide sans doute est chef des Conjurés ?</l>
 </sp>
-<sp who="CAMILLE"><speaker>CAMILLE.</speaker>
+<sp who="CAMILLE"><hstage><speaker>CAMILLE</speaker>.</hstage>
 	<l id="1705">Dans l’effroi qu’en mon cœur leur fureur a fait naître,</l>
 	<l id="1706">Les sens tout interdits, j’ai vu sans rien connaître,</l>
 	<l id="1707" part="i">Et quittant la Princesse...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1707" part="f">Allons la secourir,</l>
 	<l id="1708">Et périr noblement s’il faut enfin périr.</l>
 	<l id="1709">En rappelant Pyrrhus, j’ai dû prévoir ses brigues.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1710">Pyrrhus n’a point de part à de si noires ligues,</l>
 	<l id="1711">Seigneur, et si du Ciel le courroux satisfait...</l>
 	<l id="1712" part="i">Mais, ô Dieux ! La Princesse...</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Néoptolémus, Antigone, Déidamie, Camille.</head>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Néoptolémus, Antigone, Déidamie, Camille.</cast>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1712" part="f">Et bien, en est-ce fait ?</l>
 	<l id="1713">Faut-il offrir ma tête aux coups d’un Parricide ?</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1714">Le Ciel vous a vengé du parjure d’Androclide.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1715" part="i">D’Androclide ?</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1715" part="f">Seigneur, c’est de quoi s’étonner ;</l>
 	<l id="1716">Mais enfin tout mourant on va vous l’amener,</l>
 	<l id="1717">Il vous pourra lui-même instruire de son crime.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1718">Qu’à conspirer ma mort tant de fureur l’anime !</l>
 	<l id="1719" part="i">Mais quel heureux secours...</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1719" part="f">Vous en serez surpris.</l>
 	<l id="1720">Les Dieux contre le père ont employé le fils,</l>
 	<l id="1721">Au moins si d’Hippias Androclide est le père.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1722">La suite éclaircira si Pyrrhus est mon frère,</l>
 	<l id="1723">Jugez de lui, Seigneur, par ce commencement.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1724">J’étais à peine entrée en votre appartement,</l>
 	<l id="1725">Qu’au haut de l’escalier mille cris font entendre,</l>
 	<l id="1726">Qu’en faveur de Pyrrhus on veut tout entreprendre.</l>
@@ -2701,44 +2701,44 @@
 	<l id="1762">Dans le soin qu’il en prend, fait la plus rude peine,</l>
 	<l id="1763">Il arrête son sang, et veut... mais le voici.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE à Antigone.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker> à Antigone.</hstage>
 	<l id="1764">Madame, espérons tout, le Ciel est adouci.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Néoptolémus, Pyrrhus, Déidamie, Antigone, Camille, Suite.</head>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS, à Pyrrhus.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Néoptolémus, Pyrrhus, Déidamie, Antigone, Camille, Suite.</cast>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>, à Pyrrhus.</hstage>
 	<l id="1765">Viens, heureux protecteur du trône de l’Épire,</l>
 	<l id="1766">C’est à toi que je dois le jour que je respire ;</l>
 	<l id="1767">Un lâche triomphait, sans toi j’étais perdu.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1768">Contre sa trahison j’ai fait ce que j’ai dû,</l>
 	<l id="1769">Seigneur, mais quand le Ciel en a puni l’audace,</l>
 	<l id="1770">Puis-je de vos bontés espérer une grâce ?</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1771">Parle, m’ayant sauvé, tu peux ce que tu veux.</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1772">Je partage le sort d’un Prince malheureux.</l>
 	<l id="1773">Tandis qu’à me flatter la Fortune s’emploie,</l>
 	<l id="1774" part="i">Hippias prisonnier...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1774" part="f">Que veux-tu que je croie ?</l>
 	<l id="1775" part="i">N’es-tu pas Hippias ?</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1775" part="f">Non, Seigneur, et les Dieux</l>
 	<l id="1776">Ont honoré mes jours d’un sort plus glorieux.</l>
 	<l id="1777">Déidamie en moi connaît enfin son frère.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1778">Quoi, te rends-tu si tôt à toi-même contraire,</l>
 	<l id="1779">Toi, qui du nom d’Amant si vivement charmé,</l>
 	<l id="1780">Avec tant de chaleur voulais paraître aimé ?</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1781">Que ce titre d’Amant cesse de vous surprendre.</l>
 	<l id="1782">Je l’ai pris quand l’honneur m’a forcé de le prendre.</l>
 	<l id="1783">Mais quand mon mauvais sort tombe sur Hippias,</l>
@@ -2751,10 +2751,10 @@
 	<l id="1790">Ordonnez, je suis prêt à mourir pour ce crime,</l>
 	<l id="1791">À donner tout mon sang pour réparer l’abus...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1792">Que le fils d’Androclide en effet soit Pyrrhus !</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1793">Si de ces vérités vous avez quelque ombrage,</l>
 	<l id="1794">De ce lâche Androclide examinez la rage,</l>
 	<l id="1795">Et quand d’amour pour moi ce Prince est accusé,</l>
@@ -2768,16 +2768,16 @@
 	<l id="1802">Est-ce en effet Pyrrhus, est-ce un fils qui l’anime ?</l>
 	<l id="1803">Ce zèle surprenant soutenu jusqu’au bout...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1804">Le voici qu’on amène, il nous apprendra tout.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Néoptolémus, Pyrrhus, Déidamie, Antigone, Androclide, Camille, Suite.</head>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Néoptolémus, Pyrrhus, Déidamie, Antigone, Androclide, Camille, Suite.</cast>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1805">Enfin le juste Ciel a trompé ton attente,</l>
 	<l id="1806" part="i">Traître.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE, mourant.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>, mourant.</hstage>
 	<l id="1806" part="f">Je n’ai rien fait dont mon cœur se repente.</l>
 	<l id="1807">Sujet d’AEacidès avant qu’être le tien,</l>
 	<l id="1808">L’intérêt de son sang a fait toujours le mien.</l>
@@ -2800,22 +2800,22 @@
 	<l id="1825">Et ce cœur qui cherchait à t’offrir pour victime</l>
 	<l id="1826">Ne perd pas sa vertu pour te laisser ton crime.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1827">C’est un point qui peut-être en tout temps débattu,</l>
 	<l id="1828">Si ma mort résolue était crime ou vertu.</l>
 	<l id="1829">Cependant quel Pyrrhus faut-il que je redoute ?</l>
 	<l id="1830" part="i">Ton fils a pris ce nom.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1830" part="f">Un tyran seul en doute.</l>
 	<l id="1831">Celui qu’entre tes mains Glaucias a remis</l>
 	<l id="1832">Est Pyrrhus, est ton maître, et ce lâche est mon fils.</l>
 <stage>Montrant Pyrrhus.</stage>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1833">Quoi, jusques en mourant ta trahison te flatte ?</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1834">Madame, je rougis que votre honte éclate,</l>
 	<l id="1835">Et que de ma vertu vous ne puissiez tirer</l>
 	<l id="1836">L’exemple que mon zèle a dû vous inspirer.</l>
@@ -2824,12 +2824,12 @@
 	<l id="1839">Et l’Amour lâchement peut plus sur votre foi</l>
 	<l id="1840">Que le sang pour mon fils n’a pu jamais sur moi.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1841">Cesse de nous vanter la grandeur de ton zèle.</l>
 	<l id="1842">Qui meurt en trahissant n’a pu vivre fidèle,</l>
 	<l id="1843">Je doute de Pyrrhus, et quand deux à la fois...</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1844">J’ai fait ce que j’ai dû, tu fais ce que tu dois.</l>
 	<l id="1845">Doute, il m’importe peu que tu veuilles connaître</l>
 	<l id="1846">Si Pyrrhus est mon fils, si Pyrrhus est ton maître.</l>
@@ -2839,21 +2839,21 @@
 	<l id="1850">Que les derniers soupirs d’un misérable père.</l>
 	<l id="1851" part="i">Crois-en...</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1851" part="f">N’es-tu point las de causer mes malheurs,</l>
 	<l id="1852" part="i">Et peux-tu...</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1852" part="f">J’ai parlé, j’ai tout dit, et je meurs.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1853">Quoi, tu meurs sans remords, et peux en faire gloire,</l>
 	<l id="1854" part="i">Lâche ?</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE, montrant Pyrrhus.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>, montrant Pyrrhus.</hstage>
 	<l id="1854" part="m">Voilà mon fils.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1854" part="f">Et bien, je t’en veux croire.</l>
 	<l id="1855">Hippias contre moi n’a jamais rien commis,</l>
 	<l id="1856">C’est ton fils, tu le veux, je pardonne à ton fils.</l>
@@ -2861,7 +2861,7 @@
 	<l id="1858">Va porter à tes yeux la peine de ton crime.</l>
 	<l id="1859" part="i">Qu’on l’amène, il mourra.</l>
 </sp>
-<sp who="ANDROCLIDE"><speaker>ANDROCLIDE.</speaker>
+<sp who="ANDROCLIDE"><hstage><speaker>ANDROCLIDE</speaker>.</hstage>
 	<l id="1859" part="f">Va, je n’ai rien tenté</l>
 	<l id="1860">Sans mettre auparavant sa vie en sûreté.</l>
 	<l id="1861">J’ai rompu sa Prison, il est libre, et peut-être</l>
@@ -2871,7 +2871,7 @@
 	<l id="1865">Le mettre hors d’état de partager l’Épire,</l>
 	<l id="1866" part="i">L’en voir seul possesseur, et lui rendre...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1866" part="f">Il expire,</l>
 	<l id="1867">Et le traître emportant le secret de Pyrrhus,</l>
 	<l id="1868">Laisse à mes Ennemis l’erreur que je n’ai plus.</l>
@@ -2888,33 +2888,33 @@
 	<l id="1879">Et sort d’un Peuple ému qui s’en laisse abuser,</l>
 	<l id="1880">Pour régner sans obstacle il n’a qu’à tout oser.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1881">Quelque aveugle fureur que ce peuple ait pour guide.</l>
 	<l id="1882">Il pourra s’étonner par la mort d’Androclide,</l>
 	<l id="1883">Et si son lâche orgueil n’en n’est point abattu,</l>
 	<l id="1884">Je connais Hippias, il a de la vertu.</l>
 	<l id="1885">Il voudra moins, Seigneur, qu’il ne peut entreprendre.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1886">Ah, de cette vertu cessez de rien attendre.</l>
 	<l id="1887">Quand de l’espoir du trône un cœur se peut flatter,</l>
 	<l id="1888">Est-il d’autre vertu que celle d’y monter ?</l>
 	<l id="1889">Non, non, quoi que j’oppose à son indigne audace...</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Néoptolémus, Pyrrhus, Déidamie, Antigone, Hippias, Camille, Gélon.</head>
-<sp who="GELON"><speaker>GÉLON.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Néoptolémus, Pyrrhus, Déidamie, Antigone, Hippias, Camille, Gélon.</cast>
+<sp who="GELON"><hstage><speaker>GÉLON</speaker>.</hstage>
 	<l id="1890">Seigneur, votre fortune enfin change de face.</l>
 	<l id="1891">Si contre nous le Peuple était prêt d’oser tout,</l>
 <stage>Montrant Hippias.</stage>
 	<l id="1892">Voici de sa fureur par qui venir à bout.</l>
 	<l id="1893">Voyez ce Prisonnier que le Ciel vous ramène.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1894">Saisi d’étonnement, j’en crois mes yeux à peine.</l>
 	<l id="1895">Quel favorable Dieu l’enlève aux Factieux ?</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1896">L’ardeur de rétablir le calme dans ces lieux.</l>
 	<l id="1897">Si pour me faire Roi tout votre Peuple en armes</l>
 	<l id="1898">Met le trône en balance, et l’Épire en alarmes,</l>
@@ -2925,7 +2925,7 @@
 	<l id="1903">Ou si mon bras offert calmait votre courroux,</l>
 	<l id="1904">Détruire la révolte, ou périr avec vous.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS à Déidamie.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker> à Déidamie.</hstage>
 	<l id="1905">Ô vertu dont l’éclat ne peut que me confondre !</l>
 	<l id="1906">Madame, je le vois ! Vous pouviez en répondre.</l>
 <stage>À Hippias.</stage>
@@ -2933,27 +2933,27 @@
 	<l id="1908">À qui dois-je imputer ce généreux effort !</l>
 	<l id="1909">Vois-je en vous, ou Pyrrhus, ou le fils d’Androclide ?</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1910">Permettez qu’à vos yeux mon hommage en décide.</l>
 <stage>À Pyrrhus.</stage>
 	<l id="1911">Recevez-le, Seigneur, et si d’un long abus...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1912">Mais tout l’État en vous veut connaître Pyrrhus,</l>
 	<l id="1913">Qu’avez-vous pour combattre une erreur affermie ?</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1914">Ce cœur qui ne vit plus que pour Déidamie,</l>
 	<l id="1915">Ces tendres mouvements, cette brûlante ardeur,</l>
 	<l id="1916">Ce feu trop violent pour n’aimer qu’une sœur.</l>
 	<l id="1917">Seigneur, voilà mon titre, elle dira le reste.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1918">Cependant prendrez-vous le péril de l’inceste,</l>
 	<l id="1919">Et connus sous les noms et de frère et de sœur,</l>
 	<l id="1920">L’hymen à votre amour ne fait-il point d’horreur ?</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1921">J’ai pour l’en garantir le rapport de la Reine ;</l>
 	<l id="1922">Mais ce n’est pas, Seigneur, ce qui me met en peine.</l>
 	<l id="1923">Mettez mon frère au trône, et quand il sera Roi,</l>
@@ -2961,7 +2961,7 @@
 	<l id="1925">L’hymen de la Princesse est promis à sa flamme,</l>
 	<l id="1926" part="i">Et c’est en l’achevant...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1926" part="f">Et le puis-je, Madame,</l>
 	<l id="1927">Sans faire présumer que par un lâche abus</l>
 	<l id="1928">Je couronne Hippias aux dépens de Pyrrhus ;</l>
@@ -2978,23 +2978,23 @@
 	<l id="1939">Et parmi nos Mutins cent soupçons différents</l>
 	<l id="1940">Me feront usurper le trône que je rends.</l>
 </sp>
-<sp who="GELON"><speaker>GÉLON.</speaker>
+<sp who="GELON"><hstage><speaker>GÉLON</speaker>.</hstage>
 	<l id="1941">Si Pyrrhus à trouver vous donne quelque peine,</l>
 	<l id="1942">L’échange est vrai, Seigneur, je le sais de la Reine.</l>
 </sp>
-<sp who="DEIDAMIE"><speaker>DÉIDAMIE.</speaker>
+<sp who="DEIDAMIE"><hstage><speaker>DÉIDAMIE</speaker>.</hstage>
 	<l id="1943" part="i">Quoi, ma Mère, Gélon...</l>
 </sp>
-<sp who="GELON"><speaker>GÉLON.</speaker>
+<sp who="GELON"><hstage><speaker>GÉLON</speaker>.</hstage>
 	<l id="1943" part="f">Elle m’a tout appris,</l>
 	<l id="1944">Je sais d’elle en secret qu’Hippias est son fils,</l>
 	<l id="1945">Que c’est lui seul qu’au trône appelle sa naissance.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1946">La Reine, nous dis-tu, t’en a fait confidence ?</l>
 	<l id="1947" part="i">Qui la fit s’expliquer ?</l>
 </sp>
-<sp who="GELON"><speaker>GÉLON.</speaker>
+<sp who="GELON"><hstage><speaker>GÉLON</speaker>.</hstage>
 	<l id="1947" part="f">La crainte qu’à son Roi</l>
 	<l id="1948">Quelque jour Androclide osât manquer de foi.</l>
 	<l id="1949">Pour assurer un Sort dont il eût été maître</l>
@@ -3017,22 +3017,22 @@
 	<l id="1966">A porté sa fureur au plus noir parricide.</l>
 	<l id="1967">Il a voulu vous perdre, et sans le vrai Pyrrhus...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1968">Que pourra ce rapport si tu n’as rien de plus ?</l>
 	<l id="1969">Celui de la Princesse est aussi favorable,</l>
 	<l id="1970">C’est le témoin pour nous le plus irréprochable,</l>
 	<l id="1971">Mais si mes Ennemis s’en veulent défier,</l>
 	<l id="1972">Que sert de savoir tout sans rien justifier ?</l>
 </sp>
-<sp who="GELON"><speaker>GÉLON.</speaker>
+<sp who="GELON"><hstage><speaker>GÉLON</speaker>.</hstage>
 	<l id="1973">Par un billet semblable à celui d’Androclide</l>
 	<l id="1974">Suffira-t-il, Seigneur, que la Reine en décide ?</l>
 	<l id="1975">Voyez, sans qu’il l’ait su, ce qu’elle m’a laissé.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1976">Daigne achever le Ciel ce qu’il a commencé.</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS, lit.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>, lit.</hstage>
 	<l id="1977">Fidèles protecteurs du vrai sang de l’Épire,</l>
 	<l id="1978">Si jamais à Pyrrhus on veut rendre l’Empire,</l>
 	<l id="1979">Sous le nom d’Hippias il respire en ces lieux.</l>
@@ -3043,10 +3043,10 @@
 	<l id="1984">Que ma fille du sien accepte l’Hyménée.</l>
 <stage>Phthia.</stage>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1985" part="i">Prince, c’est à vous seul que l’Épire...</l>
 </sp>
-<sp who="PYRRHUS"><speaker>PYRRHUS.</speaker>
+<sp who="PYRRHUS"><hstage><speaker>PYRRHUS</speaker>.</hstage>
 	<l id="1985" part="f">Ah, Seigneur,</l>
 	<l id="1986">Laissez-la sous vos lois jouir de son bonheur.</l>
 <stage>Montrant Antigone.</stage>
@@ -3054,7 +3054,7 @@
 	<l id="1988">A plus d’attraits pour moi que le plus vaste Empire.</l>
 	<l id="1989">Et si pour Hippias l’amitié qui nous joint...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1990">La Reine a prononcé, je n’en murmure point.</l>
 	<l id="1991">De mes jaloux transports qui pressaient son supplice</l>
 	<l id="1992">Ce qu’il ose pour moi me fait voir l’injustice,</l>
@@ -3062,22 +3062,22 @@
 	<l id="1994">Un feu dont ma raison cherchait à triompher.</l>
 	<l id="1995">Si je fus son rival, je cesse enfin de l’être.</l>
 </sp>
-<sp who="HIPPIAS"><speaker>HIPPIAS.</speaker>
+<sp who="HIPPIAS"><hstage><speaker>HIPPIAS</speaker>.</hstage>
 	<l id="1996">Quel excès de bonté me faites-vous paraître !</l>
 	<l id="1997">Seigneur, ce que je gagne est un prix si charmant</l>
 	<l id="1998">Que le frère est ravi de céder à l’Amant.</l>
 <stage>À Déidamie.</stage>
 	<l id="1999" part="i">Madame, se peut-il...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="1999" part="f">Si tout nous est propice,</l>
 	<l id="2000">Au zèle de Gélon il faut rendre justice,</l>
 	<l id="2001" part="i">C’est à lui qu’on doit tout.</l>
 </sp>
-<sp who="GELON"><speaker>GÉLON.</speaker>
+<sp who="GELON"><hstage><speaker>GÉLON</speaker>.</hstage>
 	<l id="2001" part="f">Seigneur, que n’ai-je pu...</l>
 </sp>
-<sp who="NEOPTOLEMUS"><speaker>NÉOPTOLÉMUS.</speaker>
+<sp who="NEOPTOLEMUS"><hstage><speaker>NÉOPTOLÉMUS</speaker>.</hstage>
 	<l id="2002">C’est assez que ton Roi sache ce qui t’est dû.</l>
 	<l id="2003">Cependant délivrés des attentats d’un traître,</l>
 	<l id="2004">Allons aux Factieux faire voir leur vrai maître,</l>

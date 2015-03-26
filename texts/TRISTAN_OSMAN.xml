@@ -68,7 +68,7 @@
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="LA SULTANE"><speaker>LA SULTANE Sœur, dormante.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker> Sœur, dormante.</hstage>
 	<l id="1">Demeure, Parricide, arrête, sacrilège !</l>
 	<l id="2">Quoi ! Le sang Ottoman n’a point de privilège :</l>
 	<l id="3">On l’épanche à ma vue, on perd, devant mes yeux.</l>
@@ -77,33 +77,33 @@
 	<l id="6">De cet illustre corps l’âme s’est séparée !</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Fatime, La Sultane Sœur, Léontine.</head>
-<sp who="FATIME"><speaker>FATIME.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Fatime, La Sultane Sœur, Léontine.</cast>
+<sp who="FATIME"><hstage><speaker>FATIME</speaker>.</hstage>
 	<l id="7">Quel bruit s’est élevé qui s’augmente si fort ?</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="8" part="i">Achevez inhumains !</l>
 </sp>
-<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+<sp who="LÉONTINE"><hstage><speaker>LÉONTINE</speaker>.</hstage>
 	<l id="8" part="f">C’est Madame qui dort.</l>
 </sp>
-<sp who="FATIME"><speaker>FATIME.</speaker>
+<sp who="FATIME"><hstage><speaker>FATIME</speaker>.</hstage>
 	<l id="9">C’est un songe fâcheux dont elle est travaillée.</l>
 </sp>
-<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+<sp who="LÉONTINE"><hstage><speaker>LÉONTINE</speaker>.</hstage>
 	<l id="10">Il faut la réveiller ; mais elle est réveillée.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="11">Ô sommeil outrageux qui me trouble si fort,</l>
 	<l id="12">On peut bien t’appeler le frère de la mort !</l>
 	<l id="13">Puis qu’assis sur nos yeux avec tes noires ailes</l>
 	<l id="14">Tu donnes des frayeurs et des peines mortelles.</l>
 	<l id="15" part="i">Léontine !</l>
 </sp>
-<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+<sp who="LÉONTINE"><hstage><speaker>LÉONTINE</speaker>.</hstage>
 	<l id="15" part="m">Madame !</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="15" part="f">Ah ! Viens me consoler</l>
 	<l id="16">D’une vaine douleur dont je ne puis parler,</l>
 	<l id="17">D’un songe furieux qui m’a donné des peines,</l>
@@ -111,7 +111,7 @@
 	<l id="19">Et qui sera suivi de si mauvais effets</l>
 	<l id="20">Que possible il faudra succomber sous le faix.</l>
 </sp>
-<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+<sp who="LÉONTINE"><hstage><speaker>LÉONTINE</speaker>.</hstage>
 	<l id="21">C’est un songe, Madame, un déceveur, un traître,</l>
 	<l id="22">Dont on est garanti dès qu’on l’a pu connaître;</l>
 	<l id="23">Toujours à bon augure on prend les plus mauvais,</l>
@@ -119,7 +119,7 @@
 	<l id="25">Ses matières de pleurs montrent que l’on doit rire,</l>
 	<l id="26">Et ce qu’il a de doux est ce qu’il a de pire.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="27">Je croirais comme toi que toute cette peur</l>
 	<l id="28">Naîtrait d’une chimère et d’un songe trompeur,</l>
 	<l id="29">N’était que nos apprêts et la rumeur publique</l>
@@ -134,22 +134,22 @@
 <note type="L">Hautesse : Titre d’honneur qu’on donne en ces quartier aux Empereurs d’Orient. [F]</note>
 	<l id="38">Que tu le laissas choir aux pieds de sa Hautesse ?</l>
 </sp>
-<sp who="FATIME"><speaker>FATIME.</speaker>
+<sp who="FATIME"><hstage><speaker>FATIME</speaker>.</hstage>
 	<l id="39">Ce fut par un malheur que je ne comprends pas :</l>
 	<l id="40">Avec ce bracelet il tomba de mon bras.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="41">Un soupçon là-dessus me tombe en la pensée,</l>
 	<l id="42">Que Fatime en ce fait peut être intéressée,</l>
 	<l id="43">Et que d’un trait subtil et non pas imprudent,</l>
 	<l id="44">Elle fit par dessein naître cet accident.</l>
 	<l id="45" part="i">Qu’en est-il ?</l>
 </sp>
-<sp who="FATIME"><speaker>FATIME.</speaker>
+<sp who="FATIME"><hstage><speaker>FATIME</speaker>.</hstage>
 	<l id="45" part="f">Moi, Madame, ah que l’Enfer m’abîme!</l>
 	<l id="46" part="i">Si jamais je pensai !</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="46" part="f">Comment, c’est un beau crime,</l>
 	<l id="47">Ne t’en excuse point, ne fais point de serment :</l>
 	<l id="48">La Fille du Mufti mérite infiniment ;</l>
@@ -160,13 +160,13 @@
 	<l id="53">Il te siérait trop mal de porter une chaîne</l>
 	<l id="54">Et d’avoir pour amie une Sultane Reine.</l>
 </sp>
-<sp who="FATIME"><speaker>FATIME.</speaker>
+<sp who="FATIME"><hstage><speaker>FATIME</speaker>.</hstage>
 	<l id="55">Hé ! Madame, oubliez mon indiscrétion</l>
 	<l id="56">Et ne me soupçonnez d’aucune ambition :</l>
 	<l id="57">Car je refuserais l’honneur d’une couronne</l>
 	<l id="58">Pour achever mes jours près de votre personne !</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="59">Les fuseaux de ton sort ne roulent pas ainsi :</l>
 	<l id="60">La Sultane future en prendra le souci.</l>
 	<l id="61">Tu ne saurais manquer d’être dans son estime ;</l>
@@ -188,8 +188,8 @@
 	<l id="76">Dis lui que j’ai songé : mais voici l’Empereur.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. OSMAN, La SVLTANE Sœur, vn Huissier.</head>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>OSMAN, La SVLTANE Sœur, vn Huissier.</cast>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="77">Enfin, c’est fait, ma sœur! la chose est préparée</l>
 	<l id="78">Pour succéder bientôt comme elle est désirée.</l>
 	<l id="79">En cette occasion rien ne nous peut manquer,</l>
@@ -215,10 +215,10 @@
 	<l id="99">Et même il est prédit dans nos sacrés écrits</l>
 	<l id="100">Qu’enfin nous reprendrons ce qu’on nous aura pris.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="101">Seigneur, qui vous fait craindre une telle aventure ?</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="102">Des soldats dont le luxe amollit la nature,</l>
 	<l id="103">Des courages faillis qui font de tous côtés</l>
 	<l id="104">Mourir la discipline entre les voluptés.</l>
@@ -228,10 +228,10 @@
 	<l id="108">Qu’autrefois mes aïeux prirent pour leur soutien ;</l>
 	<l id="109">Mais qui reste inutile au sort qui nous accable.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="110">Ces soldats sont pourtant un corps considérable.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="111">Quel fut devant Ouchin ce courage bouillant,</l>
 	<l id="112">Qui les a fait passer pour un corps si vaillant ?</l>
 	<l id="113">Le Niester tint pour faux tout ce qu’on en raconte,</l>
@@ -271,7 +271,7 @@
 	<l id="147">Ils sauront comme moi combattre à coups de main,</l>
 	<l id="148">Ils supporteront mieux et le froid et la faim.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="149">En prenant le conseil de faire une retraite,</l>
 	<l id="150">Il eut fallu tenir la chose plus secrète ;</l>
 	<l id="151">Il eut été besoin que vous fussiez parti</l>
@@ -279,7 +279,7 @@
 	<l id="153">Le peuple en est ému, le soldat en murmure,</l>
 	<l id="154">Et tant d’avis reçus sont de mauvais augure.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 <note type="L">Penser : nom masculin au XVIIème pour « pensée ».</note>
 	<l id="155">Gardons bien de tomber dans des pensers si bas :</l>
 	<l id="156">Ils peuvent murmurer ; mais je ne les crains pas,</l>
@@ -307,65 +307,65 @@
 	<l id="177">Cette jeune beauté de charmes si pourvue,</l>
 	<l id="178">Qu’on m’a représentée et que je n’ai point vue.</l>
 </sp>
-<sp who="FATIME"><speaker>FATIME.</speaker>
+<sp who="FATIME"><hstage><speaker>FATIME</speaker>.</hstage>
 	<l id="179">Seigneur! elle est bien faite, elle a beaucoup d’appas,</l>
 	<l id="180">Qu’en un objet vulgaire on ne rencontre pas;</l>
 	<l id="181">Mais à n’en point mentir, j’estime davantage</l>
 	<l id="182">Les traits de son esprit que ceux de son visage.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="183">Mais elle a les yeux noirs et les cheveux aussi ?</l>
 	<l id="184" part="i">Sa gorge est belle encor ?</l>
 </sp>
-<sp who="FATIME"><speaker>FATIME.</speaker>
+<sp who="FATIME"><hstage><speaker>FATIME</speaker>.</hstage>
 	<l id="184" part="f">Seigneur elle est ainsi.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="185" part="i">Sa taille ?</l>
 </sp>
-<sp who="FATIME"><speaker>FATIME.</speaker>
+<sp who="FATIME"><hstage><speaker>FATIME</speaker>.</hstage>
 	<l id="185" part="m">Avantageuse.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="185" part="m">Et son esprit ?</l>
 </sp>
-<sp who="FATIME"><speaker>FATIME.</speaker>
+<sp who="FATIME"><hstage><speaker>FATIME</speaker>.</hstage>
 	<l id="185" part="f">Céleste.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="186" part="i">Sa parole ?</l>
 </sp>
-<sp who="FATIME"><speaker>FATIME.</speaker>
+<sp who="FATIME"><hstage><speaker>FATIME</speaker>.</hstage>
 	<l id="186" part="m">Charmante.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="186" part="m">Et son humeur ?</l>
 </sp>
-<sp who="FATIME"><speaker>FATIME.</speaker>
+<sp who="FATIME"><hstage><speaker>FATIME</speaker>.</hstage>
 	<l id="186" part="f">Modeste.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="187" part="i">Agréable ?</l>
 </sp>
-<sp who="FATIME"><speaker>FATIME.</speaker>
+<sp who="FATIME"><hstage><speaker>FATIME</speaker>.</hstage>
 	<l id="187" part="f">Mais fière et pleine d’un orgueil</l>
 	<l id="188">À mettre d’un amant l’espérance au cercueil.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="189">Elle dédaignera l’amour que j’ai pour elle ?</l>
 </sp>
-<sp who="FATIME"><speaker>FATIME.</speaker>
+<sp who="FATIME"><hstage><speaker>FATIME</speaker>.</hstage>
 	<l id="190">Seigneur, je ne crois pas qu’elle soit si cruelle.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="191">Fatime est en crédit, Fatime est en honneur,</l>
 	<l id="192">Voyez comme elle traite avecque son Seigneur !</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="193">Quoi son aimable esprit répond à son visage ?</l>
 	<l id="194" part="i">A-t-elle tant d’appas ?</l>
 </sp>
-<sp who="FATIME"><speaker>FATIME.</speaker>
+<sp who="FATIME"><hstage><speaker>FATIME</speaker>.</hstage>
 	<l id="194" part="f">Elle en a davantage;</l>
 	<l id="195">Mais quoi, je suis suspecte avec quelque raison,</l>
 <stage>La Sultane lui fait un signe comme pour lui importer silence.</stage>
@@ -373,7 +373,7 @@
 	<l id="197">Possible l’amitié m’a fasciné la vue,</l>
 	<l id="198">Et sa jeune beauté d’appas est moins pourvue.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="199">Elle est intéressée à la louer si fort.</l>
 	<l id="200">Au hasard du naufrage elle tend vers le port ;</l>
 	<l id="201">Mais votre amour, Seigneur, se trouve sans exemple !</l>
@@ -381,51 +381,51 @@
 	<l id="203">C’était ne la point voir, on n’a jamais parlé</l>
 	<l id="204">Que l’on fut ébloui par un soleil voilé.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="205">Mais, ma sœur, j’en ai vu la taille et la peinture.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="206">Mais, Seigneur, ce portrait peut être vue imposture.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="207">Quelqu’un aura-t-il pris plaisir à m’abuser ?</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="208">On aura pris plaisir à la favoriser.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="209">On ne peut me tromper sans une audace extrême.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="210">Le peintre aura voulu la tromper elle-même.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="211">C’est soupçonner un mal sans aucun fondement.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="212">Mais c’est aussi, Seigneur, aimer légèrement.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="213">Il n’importe comment ; je me veux satisfaire.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="214">Seigneur ! Un prompt départ vous serait nécessaire,</l>
 	<l id="215">Et je redoute fort que cet objet charmant</l>
 	<l id="216">Apporte un grand obstacle à votre embarquement.</l>
 	<l id="217">Son père à vos désirs oppose des scrupules.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="218">On combat de ma part ses raisons ridicules ;</l>
 	<l id="219">Par mon commandement le vizir est parti,</l>
 	<l id="220">Pour dire promptement mon désir au Mufti.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="221">Vous savez son humeur qui n’est guère traitable.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="222">Il sait que ma colère est assez redoutable.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="223">Si j’ose déclarer le danger que j’y vois,</l>
 	<l id="224">J’ai peur qu’à vos désirs il oppose la loi,</l>
 	<l id="225">Et que de cet effort à l’instant ne résulte</l>
@@ -443,20 +443,20 @@
 	<l id="237">Il est même apparent que ces troupes rebelles</l>
 	<l id="238">De vos desseins secrets ont appris des nouvelles.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 <note type="L">Aga : Terme d’histoire et de relations. Ce mot signifie dans la langue des Mogols, et dans celle des Khovarezmien, un homme puissant, un seigneur et un commandant. Les turcs se servent de ce mot pour signifier absolument un commandant. [F]</note>
 	<l id="239">Qui leur aurait appris ? L’Aga qui n’en sait rien ?</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="240">Des traîtres, des méchants, qui sont les gens de bien.</l>
 	<l id="241">Dieu fasse s’il lui plaît que ma peur soit trompée.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="242">Hormis le Musulman qui porte mon épée,</l>
 	<l id="243">Et toujours pour me plaire a cent propos flatteurs,</l>
 	<l id="244">Je ne puis soupçonner nul de mes serviteurs.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="245">Le Selictar Aga qui fait le politique</l>
 	<l id="246">Et s’entretient toujours pour la cause publique ?</l>
 	<l id="247">Ah ! Mon esprit le craint, et serait ébahi</l>
@@ -470,7 +470,7 @@
 	<l id="255">Il vous trahit sans doute et va par ce forfait</l>
 	<l id="256">Éclaircir les horreurs d’un songe que j’ai fait.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="257">Hé ! De grâce, ma sœur, ne parlons point de songes,</l>
 	<l id="258">On ne peut rien connaître en leurs confus mensonges,</l>
 	<l id="259">Et les faire expliquer par le plus entendu.</l>
@@ -484,20 +484,20 @@
 	<l id="267">Il aura beau gémir et beau se tourmenter,</l>
 	<l id="268">Je sais parfaitement comme il faut le dompter.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="269">Seigneur, le coup encor peut suivre la menace,</l>
 	<l id="270" part="i">Le temps n’est point passé.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="270" part="f">Non ; mais il faut qu’il passe.</l>
 	<l id="271">Pour tromper le malheur il faut nous en aller,</l>
 	<l id="272">Partons dès cette nuit ; mais qui nous veut parler ?</l>
 </sp>
-<sp who="FATIME"><speaker>FATIME.</speaker>
+<sp who="FATIME"><hstage><speaker>FATIME</speaker>.</hstage>
 	<l id="273">Un Eunuque, Seigneur, a quelque charge expresse</l>
 	<l id="274">D’apporter promptement un mot à ta Hautesse.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="275">C’est de chez le Mufti que ce messager vient,</l>
 	<l id="276">Et c’est à mon vizir que l’eunuque appartient.</l>
 	<l id="277">Il faut que le mufti dans son indépendance</l>
@@ -505,7 +505,7 @@
 	<l id="279">S’il me fait perdre encor du temps à le prier ;</l>
 	<l id="280">Mais sachons ce que c’est, donne-moi ce papier.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 <stage>LETTRE DU GRAND VIZIR.</stage>
 <poem type="quatrain">
 <lg id="1">
@@ -535,13 +535,13 @@
 </lg>
 </poem>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="297">Seigneur, votre vizir, si j’entends bien sa lettre,</l>
 	<l id="298">Du côté de l’amour vous semble tout promettre ;</l>
 	<l id="299">Mais il y marque aussi que les mauvais destins</l>
 	<l id="300">Semblent vous menacer du côté des mutins.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="301">C’est se troubler l’esprit d’une crainte inutile,</l>
 	<l id="302">Nous mettrons bientôt l’ordre et la paix dans la ville :</l>
 	<l id="303">Et nous viendrons à bout d’un plus puissant parti,</l>
@@ -560,8 +560,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. La Sultane sœur, Fatime, Léontine.</head>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>La Sultane sœur, Fatime, Léontine.</cast>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="313">Songe plein de terreur, épouvantable Histoire !</l>
 	<l id="314">Dont le funeste objet repasse en ma mémoire ;</l>
 	<l id="315">M’offriras-tu toujours des matières de deuil,</l>
@@ -613,8 +613,8 @@
 	<l id="361" part="i">Mais le voici.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Osman, La Sultane Sœur, Fatime, Léontine.</head>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Osman, La Sultane Sœur, Fatime, Léontine.</cast>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="361" part="f">Ma Sœur répand toujours des larmes,</l>
 	<l id="362">Son âme incessamment prend de fausses alarmes,</l>
 	<l id="363">La nuit, elle s’applique à songer mon trépas ,</l>
@@ -630,7 +630,7 @@
 	<l id="373">Crois-tu donc Mustapha ! Ce Dervis frénétique ?</l>
 	<l id="374">Est-ce une bouche à rendre une voix prophétique ?</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE Sœur.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker> Sœur.</hstage>
 	<l id="375">Seigneur, ce vieux ermite est du sang ottoman.</l>
 	<l id="376">Acmat était son frère, il est oncle d’Osman ;</l>
 	<l id="377">On a vu dans ses mains les rênes de l’Empire,</l>
@@ -638,21 +638,21 @@
 	<l id="379">Il prie, il souffre, il jeûne, et de hautes clartés</l>
 	<l id="380">Le consolent parfois dans ses austérités.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="381">Mais enfin ces clartés pour les choses futures,</l>
 	<l id="382">Passant par son esprit, deviennent fort obscures.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE Sœur.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker> Sœur.</hstage>
 	<l id="383">Mais, Seigneur, ce qu’il dit n’a rien qui soit suspect,</l>
 	<l id="384">Et toute sa folie est digne de respect ;</l>
 	<l id="385">Car les sacrés transports donnés à ses mérites</l>
 	<l id="386">Des Anges immortels nous marquent les visites.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="387">Et sur quels fondements l’explique-t-on ainsi ?</l>
 	<l id="388" part="i">Sachons en la raison.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="388" part="f">La raison ? La voici.</l>
 	<l id="389">Lorsque de tous péchés une âme s’est purgée,</l>
 	<l id="390">De dons surnaturels elle est avantagée,</l>
@@ -665,28 +665,28 @@
 	<l id="397">En leurs dérèglements la grâce est manifeste ;</l>
 	<l id="398">Puisqu’ils sont agités d’une cause céleste.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="399">Mais les autres États quand ils sont menacés,</l>
 	<l id="400">Demandent-ils ainsi conseil aux insensés,</l>
 	<l id="401">Et voit-on quelque part que les grands politiques</l>
 	<l id="402">Concertent leur conduite avec des frénétiques ?</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="403">Cet État élevé sur les plus grands États</l>
 	<l id="404">Subsiste par des lois que les autres n’ont pas ;</l>
 	<l id="405">Et sa propre grandeur fait voir la différence</l>
 	<l id="406">De notre politique et de notre créance.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="407">Mais sur le songe enfin qu’a dit cet obsédé ?</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="408">Qu’Osman dans peu de jours se verra dégradé,</l>
 	<l id="409">Qu’un, qu’on estime abject, s’en va tenir sa place,</l>
 	<l id="410">Ayant précipité sa dernière disgrâce.</l>
 	<l id="411">C’est le juste sujet des plaintes que je fais.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="412">Ma sœur, pour m’obliger ne m’en parle jamais.</l>
 	<l id="413">Si j’entrais en colère, il me prendrait envie</l>
 	<l id="414">De voir s’il a prévu le terme de sa vie,</l>
@@ -695,48 +695,48 @@
 	<l id="417">S’il ne craint point la flamme, ou n’a point peur encore</l>
 	<l id="418">De trouver en buvant trop d’eau dans le Bosphore.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="419">Ha ! C’est à quoi. Seigneur ! Il ne faut pas penser.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="420">Par ces traits d’imprudence il m’y pourrait forcer.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="421">Parmi vos sentiments la piété le garde.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="422">Qu’il ne parle donc plus de rien qui me regarde.</l>
 	<l id="423">le lui ferais, possible, un fort mauvais parti.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Mamud, Osman, Orcane, Sélim, la Fille du Mufti.</head> 
-<sp who="MAMUD"><speaker>MAMUD.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Mamud, Osman, Orcane, Sélim, la Fille du Mufti.</cast> 
+<sp who="MAMUD"><hstage><speaker>MAMUD</speaker>.</hstage>
 	<l id="424">Seigneur, voici venir la fille du Mufti,</l>
 	<l id="425" part="i">Le Grand Vizir l’amène.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="425" part="f">Ô Cieux ! Quelle nouvelle ?</l>
 	<l id="426" part="i">Ha ! Ma sœur, la voici.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="426" part="f">Je vais au devant d’elle.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="427">Serait-ce ici l’objet dont mon cour est épris !</l>
 	<l id="428">Cette mine superbe étonne mes esprits.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE Sœur.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker> Sœur.</hstage>
 	<l id="429">Mon frère vous attend avec impatience.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 <stage>Il regarde le portrait.</stage>
 	<l id="430">En ce pinceau trompeur j’eus trop de confiance.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="431">Madame, par ce choix il me fait tant d’honneur,</l>
 	<l id="432">Que rien que sa bonté n’égale mon bonheur.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="433">Ô Cieux ! Qu’elle a le port impérieux et grave !</l>
 	<l id="434">Auprès d’elle ma sœur ne semble qu’une esclave ;</l>
 	<l id="435">Mais elle a plus d’orgueil vingt fois que de beauté,</l>
@@ -747,10 +747,10 @@
 	<l id="440">Au prix de sa Peinture elle a trop peu d’appas.</l>
 	<l id="441" part="i">Ha ! Fatime.</l>
 </sp>
-<sp who="FATIME"><speaker>FATIME.</speaker>
+<sp who="FATIME"><hstage><speaker>FATIME</speaker>.</hstage>
 	<l id="441" part="f">Seigneur... Ô Dieux ! Je suis perdue !</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="442">C’est donc cette beauté de grâces si pourvue ?</l>
 	<l id="443">Combien as-tu reçu pour la louer si fort ?</l>
 	<l id="444">Va, va, ton sexe seul t’exempte de la mort.</l>
@@ -765,26 +765,26 @@
 	<l id="452">J’étais dans une erreur, enfin j’en suis sorti.</l>
 	<l id="453">Sans perdre plus de temps, allez, qu’on la ramène.</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="454" part="i">Mamud, suivons ses pas.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="454" part="f">N’en prenez pas la peine.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="455">Après avoir vanté sa grâce et ses appas,</l>
 	<l id="456">Que Fatime la suive et ne revienne pas.</l>
 </sp>
-<sp who="FATIME"><speaker>FATIME.</speaker>
+<sp who="FATIME"><hstage><speaker>FATIME</speaker>.</hstage>
 	<l id="457">Madame, pardonnez si j’ai commis ce crime.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="458" part="i">Sors vite.</l>
 </sp>
-<sp who="LÉONTINE"><speaker>LÉONTINE.</speaker>
+<sp who="LÉONTINE"><hstage><speaker>LÉONTINE</speaker>.</hstage>
 	<l id="458" part="f">Il ne faut plus de Bassa pour Fatime.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="459">De grâce, retournez, ne m’accompagnez plus.</l>
 	<l id="460">Selim, tes compliments sont ici superflus ;</l>
 	<l id="461">Et puis que l’Empereur n’aime pas ma présence,</l>
@@ -815,44 +815,44 @@
 	<l id="486">Qu’il sache que sa vie est fort mal assurée.</l>
 	<l id="487" part="i">Dites lui, dites lui.</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="487" part="f">Madame, un mot tout bas.</l>
 <stage>Se tournant vers Mamud.</stage>
 	<l id="488">Prends garde que quelqu’un ne nous écoute pas.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="489" part="i">Hé ! Que me veux-tu dire ?</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="489" part="f">Un secret d’importance.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="490" part="i">C’est ?</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="490" part="f">Que tout notre camp fera votre vengeance,</l>
 	<l id="491">Et que possible même avant la fin du jour.</l>
 	<l id="492">Vous verrez maltraiter ce Prince à votre tour.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="493">Ô promesse agréable et douce autant que vaine !</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="494">C’est selon l’apparence une chose certaine.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="495" part="i">Mais, de quelle façon ?</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="495" part="f">Écoutez seulement,</l>
 	<l id="496">Je vous vais déclarer le tout confidemment.</l>
 	<l id="497">À me garder la foi vous êtes engagée,</l>
 	<l id="498">Par les cruels mépris qui vous ont outragée.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="499" part="i">Poursuis donc ?</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="499" part="f">Vous saurez que ce présomptueux,</l>
 	<l id="500">Vient de faire un voyage assez infructueux.</l>
 	<l id="501">Il s’était aveuglé d’une superbe envie.</l>
@@ -886,7 +886,7 @@
 	<l id="529">Rien ne nous est suspect, lisez-la cette lettre.</l>
 	<l id="530">Par qui votre désir se pourra tout promettre.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="531">Ha ! Ce qu’on me fait voir et qu’on m’a fait ouïr,</l>
 	<l id="532">En flattant ma douleur, la fait évanouir !</l>
 <stage>Au BASSA du Caire.</stage>
@@ -895,7 +895,7 @@
 	<l id="535">Viens au devant de nous et sagement déchire</l>
 	<l id="536">Ce billet important dés que tu l’auras lu.</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="537">Quoi qu’il ait commandé la lettre est toute entière,</l>
 	<l id="538">Et doit à ses malheurs servir d’ample matière :</l>
 	<l id="539">Pourvu que du Mufti nous soyons secondés,</l>
@@ -903,13 +903,13 @@
 	<l id="541">Qu’il peut dés ce moment perdre la fantaisie</l>
 	<l id="542">D’aller asseoir son trône au delà de l’Asie.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="543">Travaille à la révolte et fais dés aujourd’hui</l>
 	<l id="544">Que pour tout renverser il ne tienne qu’à lui.</l>
 	<l id="545">Mon Père absolument sachant cette nouvelle</l>
 	<l id="546">Mourra de déplaisir, ou prendra ma querelle.</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="547">Mais si j’avais tant fait avecque mes amis,</l>
 	<l id="548">Que du trône aujourd’hui le Sultan fut démis.</l>
 	<l id="549">Et que selon le droit et selon votre envie,</l>
@@ -917,55 +917,55 @@
 	<l id="551">Dites-moi de quel prix serait récompensé</l>
 	<l id="552">Le glorieux Selim, l’ayant ainsi poussé.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="553">D’un honneur non pareil, d’une immortelle gloire,</l>
 	<l id="554">Qui mettrait à jamais sa valeur dans l’Histoire.</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="555" part="i">Mais rien de votre part ?</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="555" part="f">Si tu sais me venger,</l>
 	<l id="556">Je saurai de quel front tu braves le danger.</l>
 	<l id="557">Marche à cette entreprise et que rien ne t’arrête.</l>
 	<l id="558">Je connaîtrai ton cour quand je verrai sa tête.</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="559" part="i">Il suffit, il suffit.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="559" part="f">Va donc et souviens-toi.</l>
 	<l id="560">Que tu sers ta Patrie, en t’employant pour moi.</l>
 </sp>
-<sp who="MAMUD"><speaker>MAMUD.</speaker>
+<sp who="MAMUD"><hstage><speaker>MAMUD</speaker>.</hstage>
 	<l id="561">Selim, retirons nous, j’ai peur qu’on nous découvre.</l>
 	<l id="562">J’entends un certain bruit d’une porte qui s’ouvre.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Selim, Orcane, Mamud.</head>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Selim, Orcane, Mamud.</cast>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="563">C’est Orcane, un des chefs de notre faction.</l>
 </sp>
-<sp who="ORCANE"><speaker>ORCANE.</speaker>
+<sp who="ORCANE"><hstage><speaker>ORCANE</speaker>.</hstage>
 	<l id="564">Le Sultan vient de faire une belle action.</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="565" part="i">Elle est épouvantable.</l>
 </sp>
-<sp who="MAMUD"><speaker>MAMUD.</speaker>
+<sp who="MAMUD"><hstage><speaker>MAMUD</speaker>.</hstage>
 	<l id="565" part="f">Elle est assez étrange.</l>
 </sp>
-<sp who="ORCANE"><speaker>ORCANE.</speaker>
+<sp who="ORCANE"><hstage><speaker>ORCAN</speaker>E.</hstage>
 	<l id="566">Mais elle est à sa gloire, elle est à sa louange.</l>
 	<l id="567">Il faut que dans l’Histoire elle lui donne lieu,</l>
 	<l id="568">Et l’y fasse passer pour quelque demi-Dieu.</l>
 	<l id="569">S’il est rien de pareil à son dernier voyage,</l>
 	<l id="570">C’est la solennité de ce beau mariage.</l>
 </sp>
-<sp who="MAMUD"><speaker>MAMUD.</speaker>
+<sp who="MAMUD"><hstage><speaker>MAMUD</speaker>.</hstage>
 	<l id="571">Ce sont des coups d’État de son conseil secret.</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="572">Ce sont des procédés qu’on voit avec regret.</l>
 	<l id="573">Et des déportements dont la milice émue,</l>
 	<l id="574">Si nous en sommes crûs, n’aura jamais la vue.</l>
@@ -983,17 +983,17 @@
 	<l id="585">Sans avoir d’aucun faix les épaules chargées,</l>
 	<l id="586">Ils boiront nos sueurs en doux sorbets changés.</l>
 </sp>
-<sp who="MAMUD"><speaker>MAMUD.</speaker>
+<sp who="MAMUD"><hstage><speaker>MAMUD</speaker>.</hstage>
 	<l id="587">Il y faut donner ordre, il faut bien empêcher</l>
 	<l id="588">La suite des conseils qui nous coûtent si cher,</l>
 	<l id="589">Et que ses conseillers, ces lâches hypocrites.</l>
 	<l id="590">Soient reconnus d’un prix digne de leurs mérites ;</l>
 	<l id="591">Il faudra les traiter avec toute rigueur.</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="592">Je serai des premiers à leur manger le cour.</l>
 </sp>
-<sp who="ORCANE"><speaker>ORCANE.</speaker>
+<sp who="ORCANE"><hstage><speaker>ORCAN</speaker>E.</hstage>
 	<l id="593">Je crois que le Mufti sera de la partie;</l>
 	<l id="594">Il était au Divan quand sa fille est sortie :</l>
 	<l id="595">Encor que son esprit soit prudent et caché,</l>
@@ -1001,27 +1001,27 @@
 	<l id="597">Il a pris le chemin du camp de la milice,</l>
 	<l id="598">Feignant d’être appelle pour un fait de police.</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="599">Allons le consulter sur cette affaire ici,</l>
 	<l id="600">Cependant que du port on prendra le souci ;</l>
 	<l id="601">Que l’on empêchera qu’aujourd’hui l’on embarque</l>
 	<l id="602">Ni Sultan, ni Bassas, ni personne de marque.</l>
 </sp>
-<sp who="MAMUD"><speaker>MAMUD.</speaker>
+<sp who="MAMUD"><hstage><speaker>MAMUD</speaker>.</hstage>
 	<l id="603">Nous sommes tous perdus s’il vient à se sauver.</l>
 </sp>
-<sp who="ORCANE"><speaker>ORCANE.</speaker>
+<sp who="ORCANE"><hstage><speaker>ORCAN</speaker>E.</hstage>
 	<l id="604">Mamud, prends cette charge et nous viens retrouver.</l>
 	<l id="605">Tout ce qui peut passer du côté de l’Asie,</l>
 	<l id="606">Nous mettant en péril, nous tient en jalousie.</l>
 	<l id="607">Avecque vigilance il s’y faut gouverner.</l>
 </sp>
-<sp who="MAMUD"><speaker>MAMUD.</speaker>
+<sp who="MAMUD"><hstage><speaker>MAMUD</speaker>.</hstage>
 	<l id="608">Je conçois assez bien l’ordre qu’il faut donner,</l>
 	<l id="609">Et je vais employer à ce secret office,</l>
 	<l id="610">Les plus forts régiments qui soient dans la milice.</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="611">Va donc, de notre part nous n’épargnerons rien</l>
 	<l id="612">Pour faire avecque nous armer les gens de bien.</l>
 </sp>
@@ -1029,7 +1029,7 @@
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 <stage>Stances.</stage>
 <poem type="stances">
 <lg n="1">
@@ -1139,22 +1139,22 @@
 	<l id="704">Mais cet homme qui vient m’en dira des nouvelles.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. La Fille du Mufti, Mulsuman.</head>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>La Fille du Mufti, Mulsuman.</cast>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="705">Approche, Musulman, qui te fait larmoyer ?</l>
 </sp>
-<sp who="MUSULMAN"><speaker>MUSULMAN.</speaker>
+<sp who="MUSULMAN"><hstage><speaker>MUSULMAN</speaker>.</hstage>
 	<l id="706">C’est Madame un succès qui me vient d’effrayer.</l>
 	<l id="707">Un prodige d’audace, un miracle de gloire</l>
 	<l id="708">Que la postérité ne voudra jamais croire,</l>
 	<l id="709">Et que moi qui l’ai vu, ce rare événement,</l>
 	<l id="710">Ne puis m’imaginer qu’avec étonnement.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="711">Hé ! De grâce dis-moi, quelle est cette aventure ?</l>
 	<l id="712">Le sang du Saint Mufti t’en prie et t’en conjure.</l>
 </sp>
-<sp who="MUSULMAN"><speaker>MUSULMAN.</speaker>
+<sp who="MUSULMAN"><hstage><speaker>MUSULMAN</speaker>.</hstage>
 	<l id="713">Madame, en un moment vingt mil hommes armés</l>
 	<l id="714">S’étaient parmi la ville en bataillons formez;</l>
 	<l id="715">Ils murmuraient tout haut et, parmi leurs murmures,</l>
@@ -1242,28 +1242,28 @@
 	<l id="794">Qu’il faut que l’Univers tremble sous son pouvoir.</l>
 	<l id="795">Madame, c’est ainsi que la chose s’est faite.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="796">L’événement est beau, j’en suis fort satisfaite,</l>
 	<l id="797" part="i">C’est assez.</l>
 </sp>
-<sp who="MUSULMAN"><speaker>MUSULMAN.</speaker>
+<sp who="MUSULMAN"><hstage><speaker>MUSULMAN</speaker>.</hstage>
 	<l id="797" part="f">Mais Selim, qui tourne ici ses pas.</l>
 	<l id="798">Possible vous dira ce que je ne sais pas,</l>
 	<l id="799">Lui qui faisait agir cette troupe animée.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="800">Il suffit du succès dont tu m’as informée.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Sélim, La Fille du Mufti.</head>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Sélim, La Fille du Mufti.</cast>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="801">Madame, par l’avis que je viens vous donner,</l>
 	<l id="802">D’un effet merveilleux je vais vous étonner,</l>
 	<l id="803">Et de quelque vertu dont vous soyez pourvue,</l>
 	<l id="804">Cela vous surprendra, vous en serez émue ;</l>
 	<l id="805">Écoutez une chose étrange au dernier point.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="806">Sélim, tes lâchetés ne me surprendront point.</l>
 	<l id="807">On me vient d’avertir qu’elles sont sans pareilles,</l>
 	<l id="808">Et leur bruit à l’instant a frappé mes oreilles.</l>
@@ -1289,21 +1289,21 @@
 	<l id="827">Évite sagement tout accident funeste,</l>
 	<l id="828" part="i">Mais ne me vois jamais.</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="828" part="f">Apprenez donc le reste.</l>
 	<l id="829">Madame, vous saurez qu’éloigné de la peur,</l>
 	<l id="830">Je n’ai jamais manqué ni de foi, ni de cour.</l>
 	<l id="831" part="i">Écoutez-moi de grâce.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="831" part="f">Et que me peux-tu dire ?</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="832">Que seul j’ai relevé la gloire de l’Empire,</l>
 	<l id="833">Qu’Osman est en péril et que, ce même jour,</l>
 	<l id="834">Quelque grand changement fera voir mon amour.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="835">Ne tiens point ces propos ; ta vanité me blesse,</l>
 	<l id="836">Dis plutôt que tes pleurs feront voir ta faiblesse.</l>
 	<l id="837">Va, va, par ma vengeance, égalant son mépris,</l>
@@ -1315,13 +1315,13 @@
 	<l id="843">J’ai des pressentiments, quoi que Sélim me jure,</l>
 	<l id="844">Que cette seule main vengera mon injure.</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="845" part="i">Mais, Madame, écoutez.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="845" part="f">Ha ! Je n’écoute rien.</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="846">Madame, je tairai ce que vous savez bien,</l>
 	<l id="847">Ce désespoir d’Osman, cette audace effroyable,</l>
 	<l id="848">Dont encor la grandeur me paraît incroyable.</l>
@@ -1372,11 +1372,11 @@
 	<l id="891">Quoi qu’on puisse opposer à des troupes si fortes,</l>
 	<l id="892">Nous allons du sérail faire enfoncer les portes.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="893">Comment, de but en blanc, sans lui faire savoir</l>
 	<l id="894">Que l’on s’apaisera s’il fait mieux son devoir ?</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="895">Madame, votre Père est un grand politique :</l>
 	<l id="896">De trouver un prétexte il sait bien la pratique.</l>
 	<l id="897">Deux articles devant lui seront exposés</l>
@@ -1386,16 +1386,16 @@
 	<l id="901">Et va du laboureur détruire le travail.</l>
 	<l id="902">Ira du même pas enfoncer le sérail.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="903">Pour conjurer bientôt cette grande tempête,</l>
 	<l id="904">Osman n’aura qu’à faire un signe de la tête.</l>
 	<l id="905">L’avantage, Sélim, n’est pas donné des Cieux</l>
 	<l id="906">De pouvoir soutenir les regards de ses yeux.</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="907" part="i">Vous le verrez.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="907" part="f">Va donc sans tarder davantage.</l>
 	<l id="908">Profite bien du temps, poursuis ce grand ouvrage :</l>
 	<l id="909">L’occasion est chauve et prompte à s’éloigner,</l>
@@ -1405,7 +1405,7 @@
 	<l id="913">C’est généreusement, qu’il se souvienne bien</l>
 	<l id="914">Que pour tous ses travaux je ne lui promets rien.</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="915">Tu ne me promets rien pour un si grand service ?</l>
 	<l id="916">C’est par ingratitude ou c’est par artifice :</l>
 	<l id="917">le n’ai qu’à trauailler, pour en venir à bout,</l>
@@ -1414,8 +1414,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Osman, Lodia, Précepteur.</head>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Osman, Lodia, Précepteur.</cast>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="919">M’embarquer à la hâte ? Il ne sera pas dit</l>
 	<l id="920">Que ce nouveau murmure ait eu tant de crédit,</l>
 	<l id="921">Et que pour éviter des rumeurs populaires,</l>
@@ -1445,7 +1445,7 @@
 	<l id="944">Sur l’état de ce trouble et de mon partement,</l>
 	<l id="945" part="i">Parle et sans me flatter.</l>
 </sp>
-<sp who="LODIA"><speaker>LODIA.</speaker>
+<sp who="LODIA"><hstage><speaker>LODIA</speaker>.</hstage>
 	<l id="945" part="f">Seigneur, ton grand courage</l>
 	<l id="946">S’accroît dans le péril et dépite l’orage ;</l>
 	<l id="947">Mais la fureur des vents, l’orgueil des flots mutins</l>
@@ -1475,7 +1475,7 @@
 	<l id="971">Sinon détourne-toi pour le laisser passer.</l>
 	<l id="972">De peur que sa fureur vienne à te terrasser.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="973">Le sang à ce discours au visage me monte,</l>
 	<l id="974">Je partirais pour vivre et vivre avecque honte,</l>
 	<l id="975">Et je serais par là réduit honteusement,</l>
@@ -1497,7 +1497,7 @@
 	<l id="991">Pourrait-il oublier l’honneur de nos aïeux</l>
 	<l id="992">Dont la grandeur encore éclate dans nos yeux?</l>
 </sp>
-<sp who="LODIA"><speaker>LODIA.</speaker>
+<sp who="LODIA"><hstage><speaker>LODIA</speaker>.</hstage>
 	<l id="993">Non, non, Seigneur ! Ton peuple est selon l’ordinaire,</l>
 	<l id="994">D’une humeur pacifique, et douce, et débonnaire.</l>
 	<l id="995">Il pense à son trafic, il pense à son travail</l>
@@ -1513,11 +1513,11 @@
 	<l id="1005">Pour abattre aujourd’hui l’orgueil du janissaire,</l>
 	<l id="1006">Un secours plus puissant te serait nécessaire.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="1007">Je n’ai pour arrêter tous ces braves guerriers</l>
 	<l id="1008">Qu’à faire du sérail armer les officiers ?</l>
 </sp>
-<sp who="LODIA"><speaker>LODIA.</speaker>
+<sp who="LODIA"><hstage><speaker>LODIA</speaker>.</hstage>
 	<l id="1009">Un autre expédient me vient à la pensée,</l>
 	<l id="1010">Contre quelqu’un des tiens cette troupe est poussée ?</l>
 	<l id="1011">L’honneur de tes bienfaits irrite son courroux.</l>
@@ -1527,7 +1527,7 @@
 	<l id="1015">Nous serons trop heureux t’exprimant notre foi,</l>
 	<l id="1016">De servir de victime et de mourir pour toi.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="1017">Comment, pour contenter ces troupes criminelles</l>
 	<l id="1018">Nous abandonnerions nos serviteurs fidèles?</l>
 	<l id="1019">Nous aurions trop d’horreur de cette lâcheté,</l>
@@ -1535,18 +1535,18 @@
 	<l id="1021">Mais que me veut ma sœur les yeux couverts de larmes ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. La Sultane Sœur, Osman, Lodia.</head>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>La Sultane Sœur, Osman, Lodia.</cast>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="1022">Seigneur, tout est perdu ; vingt mille hommes en armes</l>
 	<l id="1023">Menacent le sérail et viennent fondre ici !</l>
 	<l id="1024" part="i">Tu les verras bientôt.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="1024" part="f">Ils nous verront aussi ;</l>
 	<l id="1025">Mais du cours de tes pleurs essuye un peu la trace,</l>
 	<l id="1026">Car c’est une faiblesse indigne de ta race.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="1027">Seigneur ! Souffre mes pleurs dans ce mortel effroi</l>
 	<l id="1028">Sachant que je ne pleure et ne crains que pour toi !</l>
 	<l id="1029">S’il fallait qu’aujourd’hui tu fusses dans le Caire,</l>
@@ -1558,7 +1558,7 @@
 	<l id="1035">Tu n’as fait qu’échapper de l’orage passé,</l>
 	<l id="1036">Et je vois qu’aussitôt il est recommencé !</l>
 </sp>
-<sp who="LODIA"><speaker>LODIA.</speaker>
+<sp who="LODIA"><hstage><speaker>LODIA</speaker>.</hstage>
 	<l id="1037">J’ai peur que le Mufti dont toute la famille</l>
 	<l id="1038">S’intéresse au mépris qu’on a fait de sa fille,</l>
 	<l id="1039">Par un trait de vengeance en cette occasion,</l>
@@ -1566,7 +1566,7 @@
 	<l id="1041">Et retordant la Loi d’une subtile adresse,</l>
 	<l id="1042">N’en explique les points pour nuire à ta Hautesse.</l>
 </sp>
-<sp who="LA SULTANE"><speaker>LA SULTANE.</speaker>
+<sp who="LA SULTANE"><hstage><speaker>LA SULTANE</speaker>.</hstage>
 	<l id="1043">On dit que consulté par ces mutins armés.</l>
 	<l id="1044">Il écrit des billets dont ils sont animés,</l>
 	<l id="1045">Et qu’au lieu qu’il devrait leur imposer silence,</l>
@@ -1574,7 +1574,7 @@
 	<l id="1047">Par ses écrits, Seigneur ! comme par ses discours</l>
 	<l id="1048">À la fureur passée il donne un plus grand cours.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="1049">Si ce vieux hypocrite excite ma colère,</l>
 	<l id="1050">Par le chef glorieux d’Acmat qui fut mon père,</l>
 	<l id="1051">Bien que parmi le peuple on le révère tant,</l>
@@ -1592,30 +1592,30 @@
 	<l id="1062">J’irai sur le balcon pour entendre leur plainte.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Un Capigi, Orcane, Mamud, Sélim, Compagnie de Soldats.</head> 
-<sp who="CAPIGI"><speaker>CAPIGI.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Un Capigi, Orcane, Mamud, Sélim, Compagnie de Soldats.</cast> 
+<sp who="CAPIGI"><hstage><speaker>CAPIGI</speaker>.</hstage>
 	<l id="1063">Musulmans, qui vous meut ? Qui vous met en fureur</l>
 	<l id="1064" part="i">Que pretendez-vous?</l>
 </sp>
-<sp who="ORCANE"><speaker>ORCANE.</speaker>
+<sp who="ORCANE"><hstage><speaker>ORCAN</speaker>E.</hstage>
 	<l id="1064" part="f">Parler à l’Empereur.</l>
 </sp>
-<sp who="MAMUD"><speaker>MAMUD.</speaker>
+<sp who="MAMUD"><hstage><speaker>MAMUD</speaker>.</hstage>
 	<l id="1065">Nous lui voulons parler et prétendons encore</l>
 	<l id="1066">L’informer sur le champ des choses qu’il ignore.</l>
 </sp>
-<sp who="CAPIGI"><speaker>CAPIGI.</speaker>
+<sp who="CAPIGI"><hstage><speaker>CAPIGI</speaker>.</hstage>
 	<l id="1067">Possible vos soupçons vous le font figurer ?</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="1068">Oui, de ce qu’il ignore ou qu’il veut ignorer,</l>
 	<l id="1069">D’un dangereux Conseil qui va perdre l’Empire,</l>
 	<l id="1070">S’il ne fait pour Osman quelque chose de pire.</l>
 </sp>
-<sp who="CAPIGI"><speaker>CAPIGI.</speaker>
+<sp who="CAPIGI"><hstage><speaker>CAPIGI</speaker>.</hstage>
 	<l id="1071">Parlez de l’Empereur avec plus de respect.</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="1072">Nous savons comme toi ce qui nous est suspect,</l>
 	<l id="1073">Nous connaissons fort bien cette fausse fenêtre,</l>
 	<l id="1074">D’où souvent en secret il nous oit sans paraître ;</l>
@@ -1625,22 +1625,22 @@
 	<l id="1078">Ne saurait plus souffrir qu’on le traite en esclave.</l>
 	<l id="1079">Nous voulons promptement lui donner des avis.</l>
 </sp>
-<sp who="ORCANE"><speaker>ORCANE.</speaker>
+<sp who="ORCANE"><hstage><speaker>ORCAN</speaker>E.</hstage>
 	<l id="1080">Et si nous prétendons encor qu’ils soient suivis.</l>
 <stage>Osman paraît en un Balcon.</stage>
 </sp>
-<sp who="MAMUD"><speaker>MAMUD.</speaker>
+<sp who="MAMUD"><hstage><speaker>MAMUD</speaker>.</hstage>
 	<l id="1081">Ouvre donc cette porte avant que l’on t’en presse :</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="1082" part="i">Ouvre, ouvre vitement!</l>
 </sp>
-<sp who="CAPIGI"><speaker>CAPIGI.</speaker>
+<sp who="CAPIGI"><hstage><speaker>CAPIGI</speaker>.</hstage>
 	<l id="1082" part="f">Vous voyez sa Hautesse.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Osman, Orcane, Sélim, Mamud.</head>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Osman, Orcane, Sélim, Mamud.</cast>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="1083">Qui vous fait assembler pour me donner conseil ?</l>
 	<l id="1084">L’ombre est-elle en état d’éclairer le soleil ?</l>
 	<l id="1085">Et ceux dont le reproche a diffamé la vie,</l>
@@ -1684,15 +1684,15 @@
 	<l id="1123">Vers le sacré tombeau je porterai mes pas,</l>
 	<l id="1124">Que vos séditions ne retarderont pas.</l>
 </sp>
-<sp who="ORCANE"><speaker>ORCANE.</speaker>
+<sp who="ORCANE"><hstage><speaker>ORCAN</speaker>E.</hstage>
 	<l id="1125">Seigneur, accorde-nous un moment d’audience,</l>
 	<l id="1126">Donne-toi pour ta gloire un peu de patience !</l>
 	<l id="1127">Nous avons quelque chose à te représenter.</l>
 </sp>
-<sp who="CAPIGI"><speaker>CAPIGI.</speaker>
+<sp who="CAPIGI"><hstage><speaker>CAPIGI</speaker>.</hstage>
 	<l id="1128">Silence, le Sultan fait signe d’écouter.</l>
 </sp>
-<sp who="ORCANE"><speaker>ORCANE.</speaker>
+<sp who="ORCANE"><hstage><speaker>ORCAN</speaker>E.</hstage>
 	<l id="1129">Seigneur, qui des grands Rois es le maître ou l’arbitre !</l>
 	<l id="1130">Qui te nomme un Soleil, te donne un juste titre;</l>
 	<l id="1131">Mais comme l’on connaît et comme nous voyons,</l>
@@ -1783,29 +1783,29 @@
 	<l id="1216">Et discerne les tiens d’entre tes ennemis ;</l>
 	<l id="1217">C’est ce que notre corps en larmes te demande.</l>
 </sp>
-<sp who="MAMUD"><speaker>MAMUD.</speaker>
+<sp who="MAMUD"><hstage><speaker>MAMUD</speaker>.</hstage>
 	<l id="1218">Et les têtes des trois qu’il faut que l’on nous rende.</l>
 	<l id="1219">Pour nous voir à la fin d’un si grand déplaisir,</l>
 	<l id="1220">Il faut que nous ayons celle du grand Vizir,</l>
 	<l id="1221">Celle du secrétaire et celle de ce traître</l>
 	<l id="1222">Qui s’est rendu si riche en dérobant son maître.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="1223">Leur audace à tel point ose se dérégler !</l>
 	<l id="1224">Où sont des Capigis qu’on les aille étrangler.</l>
 </sp>
-<sp who="ORCANE"><speaker>ORCANE.</speaker>
+<sp who="ORCANE"><hstage><speaker>ORCAN</speaker>E.</hstage>
 	<l id="1225">Ne ferme plus l’oreille à nos justes requêtes !</l>
 	<l id="1226">Seigneur, fais sur le champ qu’on nous donne ces têtes</l>
 	<l id="1227">Si tu ne satisfais nos désirs promptement,</l>
 	<l id="1228">Nous irons les saisir dans ton appartement.</l>
 </sp>
-<sp who="LODIA"><speaker>LODIA.</speaker>
+<sp who="LODIA"><hstage><speaker>LODIA</speaker>.</hstage>
 	<l id="1229">Quoi ? Parler à la porte avec tant d’insolence ?</l>
 	<l id="1230">Musulmans, l’Empereur vous impose silence !</l>
 	<l id="1231">Il est temps de vous taire et de vous retirer.</l>
 </sp>
-<sp who="SELIM"><speaker>SELIM.</speaker>
+<sp who="SELIM"><hstage><speaker>SELIM</speaker>.</hstage>
 	<l id="1232">Non pas sans le revoir, et sans te déchirer ;</l>
 	<l id="1233">Monstre, qui te nourris des misères publiques,</l>
 	<l id="1234">Et t’enrichis toujours par des moyens obliques.</l>
@@ -1822,7 +1822,7 @@
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="OSMAN"><speaker>OSMAN, seul.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>, seul.</hstage>
 <poem type="stances">
 <lg n="1">
 	<l id="1243">Fortune ! Nymphe inconstante,</l>
@@ -1915,8 +1915,8 @@
 	<l id="1318">Ou passons promptement, le mouchoir sur le nez.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. La Fille du Mufti, Osman, Fatime.</head>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>La Fille du Mufti, Osman, Fatime.</cast>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="1319">Arrête, digne Prince ! Autant que misérable,</l>
 	<l id="1320">Sois civil à qui plaint ton sort si déplorable,</l>
 	<l id="1321">Et salue, en passant, la fille d’un Mufti</l>
@@ -1938,22 +1938,22 @@
 	<l id="1336">Tu vois quel est le tort que t’a fait ton caprice.</l>
 	<l id="1337">Que me peux-tu répondre en ce funeste jour ?</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="1338">Que je trouve mes maux plus doux que ton amour.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="1339">J’aurais par mon amour affermi ta puissance.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="1340">Ce mal aurait possible accablé ma constance.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="1341">Mon amour en ta bouche un mal se peut nommer !</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="1342">Je penserais plutôt à mourir qu’à t’aimer.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="1343">Seigneur ! Par ces rigueurs tu punis mon audace,</l>
 	<l id="1344">Qui trop insolemment s’attache à ta disgrâce :</l>
 	<l id="1345">Aussi, t’oser blâmer durant cette saison,</l>
@@ -1999,43 +1999,43 @@
 	<l id="1385">Et mon âme serait encore au désespoir</l>
 	<l id="1386">De n’avoir rien de plus pour mettre en son pouvoir.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="1387">C’est assez, c’est assez, n’en dis pas davantage !</l>
 	<l id="1388">Un si tendre propos amollit mon courage,</l>
 	<l id="1389">J’ai besoin qu’il soit ferme en l’état où je suis.</l>
 	<l id="1390">Et ces traits de ton zèle augmentent mes ennuis.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="1391">Mon zèle est grand, Seigneur ! et souhaite ta gloire.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="1392">L’assiette où je me vois m’oblige de le croire ;</l>
 	<l id="1393">Mais Osman moins que toi se trouve intéressé.</l>
 	<l id="1394">Ne me retarde plus. Adieu ! Je suis pressé.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="1395">Mais où vas-tu, Seigneur ! délaissé de la sorte ?</l>
 	<l id="1396" part="i">Tu cours à ton trépas.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="1396" part="f">Il n’importe, il n’importe.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="1397">Veuille te retirer en cet appartement.</l>
 	<l id="1398" part="i">On te cherche partout.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="1398" part="f">Nullement, nullement.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="1399">Ta tête est mise à prix, ne t’expose donc guère.</l>
 </sp>
-<sp who="OSMAN"><speaker>OSMAN.</speaker>
+<sp who="OSMAN"><hstage><speaker>OSMAN</speaker>.</hstage>
 	<l id="1400">Au plus hardi marchand, je la vendrai bien chère.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. La Fille du Mufti, Fatime.</head>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>La Fille du Mufti, Fatime.</cast>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="1401">Ha ! Le cour insensible, ha ! Le cruel qu’il est,</l>
 	<l id="1402">Sa cruauté me tue et sa vertu me plaît :</l>
 	<l id="1403">Il ne me peut souffrir, il me hait, il m’abhorre;</l>
@@ -2069,20 +2069,20 @@
 	<l id="1431">Souviens-toi, que toi seul eus droit de me charmer,</l>
 	<l id="1432">Que je cesse de vivre et non pas de t’aimer. »</l>
 </sp>
-<sp who="FATIME"><speaker>FATIME.</speaker>
+<sp who="FATIME"><hstage><speaker>FATIME</speaker>.</hstage>
 	<l id="1433">Ha Madame ! Arrêtez ces larmes et ces plaintes,</l>
 	<l id="1434">Possible son salut dissipera vos craintes.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="1435" part="i">Ha Fatime !</l>
 </sp>
-<sp who="FATIME"><speaker>FATIME.</speaker>
+<sp who="FATIME"><hstage><speaker>FATIME</speaker>.</hstage>
 	<l id="1435" part="f">Jamais je n’ai bien su comment</l>
 	<l id="1436">Ce feu dans votre sein s’éprit si vivement :</l>
 	<l id="1437">Et si ce souvenir n’accroît votre martyre,</l>
 	<l id="1438" part="i">Dites-m’en quelque chose.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="1438" part="f">Ha ! Le puis-je bien dire</l>
 	<l id="1439">Sans rougir, sans frémir ? Le puis-je dire, ô Dieux !</l>
 	<l id="1440">Tout ce mal m’est venu d’avoir ouvert les yeux !</l>
@@ -2140,8 +2140,8 @@
 	<l id="1492" part="i">Qu’est-ce que vous cherchez ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. La Fille du Mufti, Fatime, Mamud.</head>
-<sp who="MAMUD"><speaker>MAMUD.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>La Fille du Mufti, Fatime, Mamud.</cast>
+<sp who="MAMUD"><hstage><speaker>MAMUD</speaker>.</hstage>
 	<l id="1492" part="f">Madame, Osman est mort.</l>
 	<l id="1493">C’est de la part d’Orcan que nous venons te dire</l>
 	<l id="1494">Qu’il a perdu la vie aussi bien que l’Empire,</l>
@@ -2154,30 +2154,30 @@
 	<l id="1501">Un repentir tardif à son courroux succède ;</l>
 	<l id="1502">Mais quoi, cet accident est un mal sans remède ?</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="1503" part="i">Ha ! Fatime !</l>
 </sp>
-<sp who="FATIME"><speaker>FATIME.</speaker>
+<sp who="FATIME"><hstage><speaker>FATIME</speaker>.</hstage>
 	<l id="1503" part="m">Ha! Madame!</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="1503" part="f">Osman mort aujourd’hui,</l>
 	<l id="1504">Toute notre espérance est morte avecque lui ;</l>
 	<l id="1505">Mais apprends-moi le reste et de quelle manière</l>
 	<l id="1506">Le Sultan fils d’Acmat a perdu la lumière.</l>
 </sp>
-<sp who="MAMUD"><speaker>MAMUD.</speaker>
+<sp who="MAMUD"><hstage><speaker>MAMUD</speaker>.</hstage>
 	<l id="1507">Madame, il l’a perdue avec tant de valeur,</l>
 	<l id="1508">Que Mustapha lui-même en a de la douleur ;</l>
 	<l id="1509">Il pleure cette mort, lui qui l’a commandée</l>
 	<l id="1510">Et qui d’une fenêtre encor l’a regardée.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="1511">Je m’en étonne fort, une belle action</l>
 	<l id="1512">Apporte à ses auteurs bien peu d’affliction ;</l>
 	<l id="1513" part="i">Mais poursuis ce récit !</l>
 </sp>
-<sp who="MAMUD"><speaker>MAMUD.</speaker>
+<sp who="MAMUD"><hstage><speaker>MAMUD</speaker>.</hstage>
 	<l id="1513" part="f">Pour vous dire le reste</l>
 	<l id="1514">D’une chose admirable ; autant qu’elle est funeste,</l>
 	<l id="1515">Quand l’Empereur qui vit partout fut proclamé,</l>
@@ -2237,13 +2237,13 @@
 	<l id="1567">D’autres prennent le temps de le venir charger,</l>
 	<l id="1568">Et lui coupent le col sans courre aucun danger.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="1569">Ô brutale furie ! Ô cruauté barbare !</l>
 	<l id="1570">A-t-on pu l’exercer sur un sujet si rare ?</l>
 	<l id="1571">Ainsi donc fut meurtri par des monstres pervers</l>
 	<l id="1572">Le Prince le plus grand qui fut en l’Univers.</l>
 </sp>
-<sp who="MAMUD"><speaker>MAMUD.</speaker>
+<sp who="MAMUD"><hstage><speaker>MAMUD</speaker>.</hstage>
 	<l id="1573">Ce chef si glorieux, cette tête héroïque</l>
 	<l id="1574">Est portée au sérail sur le fer d’une pique,</l>
 	<l id="1575">On dirait qu’elle jette un regard menaçant.</l>
@@ -2251,16 +2251,16 @@
 	<l id="1577">Et l’un de nos Dervis remarque en ce visage</l>
 	<l id="1578">De nos prochains malheurs un assuré présage.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="1579">C’est assez, c’est assez, de grâce arrête-toi !</l>
 	<l id="1580">On n’a rien fait encore, on ne peut rien sans moi.</l>
 	<l id="1581">Quoi que fidèlement ta bouche me raconte,</l>
 	<l id="1582">L’Impérieux Osman vit encor à ma honte.</l>
 </sp>
-<sp who="MAMUD"><speaker>MAMUD.</speaker>
+<sp who="MAMUD"><hstage><speaker>MAMUD</speaker>.</hstage>
 	<l id="1583" part="i">Osman vivrait encor.</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="1583" part="f">Oui, oui, tu ne sais pas</l>
 	<l id="1584">Qu’un obstacle secret s’oppose à son trépas;</l>
 	<l id="1585">De quelque haut exploit dont ta troupe se vante,</l>
@@ -2285,13 +2285,13 @@
 	<l id="1604">Qui ne pouvait mourir que d’un coup de ma main.</l>
 <stage>Elle se donne trois coups de poignard.</stage>
 </sp>
-<sp who="MAMUD"><speaker>MAMUD.</speaker>
+<sp who="MAMUD"><hstage><speaker>MAMUD</speaker>.</hstage>
 	<l id="1605">Ha ! Madame, arrêtez ! Vous meurtrir de la sorte !</l>
 </sp>
-<sp who="LA FILLE DU MUFTI"><speaker>LA FILLE DU MUFTI.</speaker>
+<sp who="LA FILLE DU MUFTI"><hstage><speaker>LA FILLE DU MUFTI</speaker>.</hstage>
 	<l id="1606" part="i">C’en est fait ! C’en est fait !</l>
 </sp>
-<sp who="FATIME"><speaker>FATIME.</speaker>
+<sp who="FATIME"><hstage><speaker>FATIME</speaker>.</hstage>
 	<l id="1606" part="f">Ha ! Malheur ! Elle est morte !</l>
 	<l id="1607">Soutenez-la de grâce et faites promptement</l>
 	<l id="1608">Qu’on mette nos deux corps dedans un monument.</l>

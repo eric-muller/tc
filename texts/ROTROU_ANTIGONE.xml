@@ -60,8 +60,8 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Jocaste, Ismène.</head>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Jocaste, Ismène.</cast>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="1">Qu’ils ont bien à propos usé de mon sommeil :</l>
 	<l id="2">Ils n’ont pas appelé ma voix à leur conseil ;</l>
 	<l id="3">Et lorsqu’ils ont voulu tenter cette sortie,</l>
@@ -70,10 +70,10 @@
 	<l id="6">Que tu m’as distillé ce funeste repos.</l>
 	<l id="7" part="i">Mais quel chef les conduit ?</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="7" part="f">Étéocle lui-même.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="8">Allons tôt ; c’est trop d’ordre en ce désordre extrême ;</l>
 	<l id="9">Ce poil mal ordonné, cette confusion</l>
 	<l id="10">Me sera bien séante en cette occasion.</l>
@@ -85,21 +85,21 @@
 	<l id="16">Viens, s’ils ont du respect, faire voir ta puissance.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Jocaste, Ismène, Antigone.</head>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Jocaste, Ismène, Antigone.</cast>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="17" part="i">Madame, il n’est plus temps.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="17" part="f">Comment ! Ces enragés</l>
 	<l id="18">Gisent-ils déjà morts l’un par l’autre égorgés,</l>
 	<l id="19">Ou la troupe Thébaine a-t-elle été défaite ?</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="20">Non, mais le combat cesse, et le roi fait retraite :</l>
 	<l id="21">C’est ce que de la tour j’ai clairement pu voir ;</l>
 	<l id="22">Et son retour dans peu vous le fera savoir.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="23">Ce cœur dénaturé, teint de sang de son frère,</l>
 	<l id="24">Se vient-il rafraîchir dans les bras de sa mère ?</l>
 	<l id="25">S’y vient-il réjouir de cet acte inhumain,</l>
@@ -107,11 +107,11 @@
 	<l id="27">Oui, le coup en mérite, il part d’un grand courage ;</l>
 	<l id="28">Il s’est soustrait d’adresse, et pour un bel ouvrage.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="29">Peut-être que le ciel, qui préside aux combats,</l>
 	<l id="30">En disposera mieux que vous n’espérez pas.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="31">Un instant a souvent changé l’ordre des choses ;</l>
 	<l id="32">Beaucoup d’événements ont démenti leurs causes :</l>
 	<l id="33">Mais, attendant l’entrée et l’entretien du roi,</l>
@@ -158,18 +158,18 @@
 	<l id="74">Mais vous allez savoir comme tout s’est passé.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Jocaste, Ismène, Antigone, Étéocle, Créon, Hémon ; deux capitaines.</head>
-<sp who="ETEOCLE"><speaker>ÉTÉOCLE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Jocaste, Ismène, Antigone, Étéocle, Créon, Hémon ; deux capitaines.</cast>
+<sp who="ETEOCLE"><hstage><speaker>ÉTÉOCLE</speaker>.</hstage>
 	<l id="75">Madame, tout va mal, et dans cette retraite</l>
 	<l id="76">La victoire est commune, ou plutôt la défaite :</l>
 	<l id="77">Le sort est bien égal, il se déclare tard,</l>
 	<l id="78">Et beaucoup sont à dore et d’une et d’autre part.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="79">Maudite ambition ! Abominable peste !</l>
 	<l id="80">Monstre altéré de sans, que ton fruit est funeste !</l>
 </sp>
-<sp who="ETEOCLE"><speaker>ÉTÉOCLE.</speaker>
+<sp who="ETEOCLE"><hstage><speaker>ÉTÉOCLE</speaker>.</hstage>
 	<l id="81">Sur le désir des miens mon trône se soutient</l>
 	<l id="82">Je lui cédais l’État, mais l’État ma retient ;</l>
 	<l id="83">J’étais prêt à quitter le sceptre qu’on lui nie ;</l>
@@ -184,10 +184,10 @@
 	<l id="91">Satisfera pour tous et perdra la lumière.</l>
 	<l id="92" part="i">Telle est l’arrêt des dieux.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="92" part="f">Ô rigoureuse loi !</l>
 </sp>
-<sp who="ETEOCLE"><speaker>ÉTÉOCLE.</speaker>
+<sp who="ETEOCLE"><hstage><speaker>ÉTÉOCLE</speaker>.</hstage>
 	<l id="93">Le jeune Ménécée a pris ces mots sur soi :</l>
 	<l id="94">Se voyant comme il est dernier de sa race,</l>
 	<l id="95">Sur qui par conséquent tombait cette disgrâce,</l>
@@ -198,7 +198,7 @@
 	<l id="100">Heureux certes cent fois qui meurt si glorieux,</l>
 	<l id="101">Et qui se pourra seul dire victorieux !</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="102">Mais plus heureux encore à qui sa mort profite</l>
 	<l id="103">Et qui se couvrira des lauriers qu’il mérite !</l>
 	<l id="104">Quelle haine des dieux jette le sort sur lui,</l>
@@ -214,11 +214,11 @@
 	<l id="114">Nous, vous nous destinez, innocentes victimes,</l>
 	<l id="115">À périr pour leur gloire et payer pour leur crimes !</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="116">Ô reproche honteux, que renouvelles-tu ?</l>
 	<l id="117">Assez sans toi le sort exerce ma vertu.</l>
 </sp>
-<sp who="ETEOCLE"><speaker>ÉTÉOCLE.</speaker>
+<sp who="ETEOCLE"><hstage><speaker>ÉTÉOCLE</speaker>.</hstage>
 	<l id="118">Je pardonne, Créon, cette plainte insensée</l>
 	<l id="119">Aux récentes douleurs du sort de Ménécée :</l>
 	<l id="120">Je sais qu’un fils qu’on perd afflige vivement ;</l>
@@ -230,8 +230,8 @@
 <stage>Ils sortent tous, excepté Hémon et Antigone.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Antigone, Hémon.</head>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Antigone, Hémon.</cast>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="126">Voyez, mon cher Hémon, comme sa violence</l>
 	<l id="127">Va jusques à l’outrage et jusqu’à l’insolence.</l>
 	<l id="128">J’approuve sa douleur, mais pour quelle raison</l>
@@ -245,7 +245,7 @@
 	<l id="136">Ne peuvent faire encore qu’un innocent péché</l>
 	<l id="137">Moins de toi que du sort, ne te soit reproché ?</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="138">Ce malheur est commun avec notre misère,</l>
 	<l id="139">De rougir comme vous des fautes de mon père,</l>
 	<l id="140">Qui, forçant tout respect, ose bien à vos yeux</l>
@@ -259,10 +259,10 @@
 	<l id="148">Et je n’ose vous dire une secrète peur</l>
 	<l id="149">Que m’imprime en l’esprit cette mauvaise humeur.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="150" part="i">Quoi ! Touchant notre hymen ?</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="150" part="f">Ma passion, Madame,</l>
 	<l id="151">M’a bien pu sans sujet mettre ces peurs en l’âme ;</l>
 	<l id="152">Non, un si beau dessein ne peut mal succéder ;</l>
@@ -280,7 +280,7 @@
 	<l id="164">À toute autorité je fermerais les yeux,</l>
 	<l id="165">Et je ferais beaucoup de respecter les dieux.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="166">Quoique la même foi que je vous ai donnée</l>
 	<l id="167">Ma permit de parler touchant notre hyménée,</l>
 	<l id="168">L’orage prêt à choir dessus notre maison</l>
@@ -294,7 +294,7 @@
 	<l id="176">Ce combat, cher Hémon, au moins s’est-il passé</l>
 	<l id="177">Sans la mort de mon frère, ou sans qu’il soit blessé ?</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="178">Madame, c’est ici que je vous ai servie :</l>
 	<l id="179">Polynice est vivant, mais il vous dois la vie.</l>
 	<l id="180">Certes jamais lion, par un autre irrité,</l>
@@ -322,7 +322,7 @@
 	<l id="202">Vous étiez son bouclier au milieu des alarmes,</l>
 	<l id="203">Et vous l’avez sauvé, seule, absente et sans armes.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="204">Hélas ! Joindre sa mort à mon cruel ennui</l>
 	<l id="205">Serait bien, cher Hémon, me tuer plus que lui :</l>
 	<l id="206">À moi bien plus qu’à lui vous rendiez cet office ;</l>
@@ -339,21 +339,21 @@
 	<l id="217">Mais je suis toujours même, et lui s’est démenti.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Antigone, Hémon, un page.</head>
-<sp who="PAGE"><speaker>UN PAGE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Antigone, Hémon, un page.</cast>
+<sp who="PAGE"><hstage><speaker>UN PAGE</speaker>.</hstage>
 	<l id="218">Monsieur, on tient conseil, et le roi vous demande.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="219">Agréez ce devoir qu’il faut que je lui rende.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="220">Allez, mais sur tout autre opinez pour la paix ;</l>
 	<l id="221">Et soient vos bons avis suivis de bons effets.</l>
 <stage>Ils sortent</stage>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Polynice, sous une tente ; Adraste, Argie.</head>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Polynice, sous une tente ; Adraste, Argie.</cast>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="222">Reste lâche et honteux de tant de compagnies</l>
 	<l id="223">Que cous vos étendards la Grèce m’a fournies,</l>
 	<l id="224">Et dernier de cent rois en ma faveur armés,</l>
@@ -391,15 +391,15 @@
 	<l id="256">Et qu’un duel enfin entre mon frère et moi...</l>
 	<l id="257">Qu’avez-vous à pâlir, et d’où naît cet effroi ?</l>
 </sp>
-<sp who="ADRASTE"><speaker>ADRASTE.</speaker>
+<sp who="ADRASTE"><hstage><speaker>ADRASTE</speaker>.</hstage>
 	<l id="258">Dieux ! Que proposez-vous ! Quelle horrible aventure !</l>
 </sp>
-<sp who="ARGIE"><speaker>ARGIE.</speaker>
+<sp who="ARGIE"><hstage><speaker>ARGIE</speaker>.</hstage>
 	<l id="259">Eh ! Monsieur, écoutez la voix de la nature ;</l>
 	<l id="260">Songez quel est le sang que vous voulez verser ;</l>
 	<l id="261">Sans honte et sans frayeur y pouvez-vous penser ?</l>
 </sp>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="262">La chose est résolue, et la nature même</l>
 	<l id="263">Souscrit à cet arrêt de ma fureur extrême ;</l>
 	<l id="264">Outre qu’elle est muette où parle la raison,</l>
@@ -411,7 +411,7 @@
 	<l id="270">Et pour vouloir que j’erre et que je me retire,</l>
 	<l id="271">Quand mon année arrive et m’appelle à l’empire ?</l>
 </sp>
-<sp who="ADRASTE "><speaker>ADRASTE.</speaker>
+<sp who="ADRASTE "><hstage><speaker>ADRASTE</speaker>.</hstage>
 	<l id="272">Quelle rage, bon dieu, vous occupe le sein ?</l>
 	<l id="273">Ah ! Mon fils, étouffez ce damnable dessein :</l>
 	<l id="274">Si votre ambition ne va qu’à la couronne,</l>
@@ -425,7 +425,7 @@
 	<l id="282">Et votre autorité n’y sera divisée</l>
 	<l id="283">Par aucune puissance à la vôtre opposée.</l>
 </sp>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="284">Non, non, ne point régner, les dieux m’en sont témoins,</l>
 	<l id="285">Est le ressentiment qui le touche le moins,</l>
 	<l id="286">Et jamais ma couronne, entre mes mains remise,</l>
@@ -467,7 +467,7 @@
 	<l id="321">Que le premier fut triste et pour elle et pour vous.</l>
 <stage>Il sort.</stage>
 </sp>
-<sp who="ARGIE"><speaker>ARGIE.</speaker>
+<sp who="ARGIE"><hstage><speaker>ARGIE</speaker>.</hstage>
 	<l id="322">Polynice ! Mon père, arrêtez ce barbare ;</l>
 	<l id="323">Qu’il diffère un moment la mort qu’il me prépare,</l>
 	<l id="324">Et qu’il reçoive au moins l’adieu que je lui dois.</l>
@@ -476,8 +476,8 @@
 </div2>
 </div1>
 <div1 type="acte" n="2"><head>ACTE II</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Polynice, l’épée à la main, au pied des purs de Thèbes ; deux capitaines grecs.</head>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Polynice, l’épée à la main, au pied des purs de Thèbes ; deux capitaines grecs.</cast>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="326">Là, si ton lâche cœur enfin se peut résoudre,</l>
 	<l id="327">Tu laisseras la vie, ou j’y mordrai la poudre,</l>
 	<l id="328">Là, ton sang ou le mien signera nitre foi ;</l>
@@ -491,17 +491,17 @@
 	<l id="336">Quel emploi t’a déjà tant de fois retenu ?</l>
 	<l id="337">Il ne faut point d’apprêt à paraître tout nu.</l>
 </sp>
-<sp who="1ER-CAPITAINE"><speaker>PREMIER CAPITAINE.</speaker>
+<sp who="1ER-CAPITAINE"><hstage><speaker>PREMIER CAPITAINE</speaker>.</hstage>
 	<l id="338">En ces effets bien moins de valeur que de rage.</l>
 	<l id="339">La nature, Seigneur, dispense le courage ;</l>
 	<l id="340">Vous auriez plus de cœur si vous en aviez moins.</l>
 </sp>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="341">Laissez juger aux dieux, ne soyez que témoins.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Polynice, l’épée à la main, au pied des murs de Thèbes ; deux capitaines grecs; Antigone, en haut des murs.</head>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Polynice, l’épée à la main, au pied des murs de Thèbes ; deux capitaines grecs; Antigone, en haut des murs.</cast>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="342">Polynice, avancez, portez ici la vue ;</l>
 	<l id="343">Souffrez qu’après un an votre sœur vous salue.</l>
 	<l id="344">Malheureuse, eh ! Pourquoi ne le puis-je autrement ?</l>
@@ -539,7 +539,7 @@
 	<l id="376">Il ne diffère point, ce n’est qu’un même sang</l>
 	<l id="377">Que vous avez puisé dedans un même flanc.</l>
 </sp>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="378">C’est d’où nous vient aussi même droit à l’empire</l>
 	<l id="379">Que son ambition prétend de m’interdire,</l>
 	<l id="380">Et qui l’obligeait à me garder sa foi,</l>
@@ -557,7 +557,7 @@
 	<l id="392">J’arme pour le bon droit, lui pour la trahison ;</l>
 	<l id="393">Il tient pour l’injustice, et moi pour la raison</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="394">Voilà donc cette sœur qui vous était si chère,</l>
 	<l id="395">Éconduite aujourd’hui d’une seule prière.</l>
 	<l id="396">Eh quoi ! Cette amitié qui naquit avec nous,</l>
@@ -583,7 +583,7 @@
 	<l id="416">Moi malheureuse, enfin, qui vous prie à genoux,</l>
 	<l id="417">Moins pour l’amour de moi que pour l’amour de  vous.</l>
 </sp>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="418">Si quelque sentiment demeure après la vie,</l>
 	<l id="419">Que je vous saurais gré de me l’avoir ravie !</l>
 	<l id="420">Plutôt, ma chère sœur, que de me commander</l>
@@ -594,8 +594,8 @@
 	<l id="425">Mais je ne saurais vivre et ne me venger pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Polynice, deux capitaines grecs; Antigone, Étéocle, Créon.</head>
-<sp who="ETEOCLE"><speaker>ÉTÉOCLE, sortant désarmé.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Polynice, deux capitaines grecs; Antigone, Étéocle, Créon.</cast>
+<sp who="ETEOCLE"><hstage><speaker>ÉTÉOCLE</speaker>, sortant désarmé.</hstage>
 	<l id="426">Je viens enfin, je viens, prêt à te satisfaire ;</l>
 	<l id="427">Et crois que si plus tôt j’avais pu me soustraire,</l>
 	<l id="428">Plutôt dessus les lieux tu m’aurais vu rendu,</l>
@@ -613,12 +613,12 @@
 	<l id="440">Voyons s’il m’ôtera le nom que j’en ai pris ;</l>
 	<l id="441">Que le champ du combat e soit aussi le prix.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="442">Ils s’approchent, ô dieux, et nul n’y met obstacle !</l>
 	<l id="443">Fuyons, ne voyons pas cet horrible spectacle.</l>
 <stage>Elle sort.</stage>
 </sp>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="444">Enfin quelque remords t’a donc fait souvenir</l>
 	<l id="445">Que ta fois s’est donnée et qu’il la faut tenir ?</l>
 	<l id="446">Tu m’es donc frère enfin ? Car ce n’était pas l’être</l>
@@ -627,17 +627,17 @@
 	<l id="449">De notre propre sang et sur nos propres corps.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Jocaste, Créon, Hémon, Deux capitaines, Étéocle, Polynice.</head>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Jocaste, Créon, Hémon, Deux capitaines, Étéocle, Polynice.</cast>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="450">Que veut hors de saison cette femme importune ?</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="451">Détourner s’il se peut une étrange infortune.</l>
 </sp>
-<sp who="2ND-CAPITAINE"><speaker>SECOND CAPITAINE.</speaker>
+<sp who="2ND-CAPITAINE"><hstage><speaker>SECOND CAPITAINE</speaker>.</hstage>
 	<l id="452">C’est leur mère. Ô nature ! Assiste son dessein.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="453">Plongez, plongez, cruels, vos armes dans mon sein ;</l>
 	<l id="454">Déployez contre moi votre aveugle colère,</l>
 	<l id="455">Contre moi qui donnais des frères à leur père ;</l>
@@ -681,7 +681,7 @@
 	<l id="492">Chassez de votre esprit ce défiant souci;</l>
 	<l id="493">Si ce n’est que ma foi soit suspecte aussi.</l>
 </sp>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="494">Ne désirez-vous point que je vous dissimule ?</l>
 	<l id="495">Ma sûreté dépend de n’être plus crédule ;</l>
 	<l id="496">La nature n’a plus d’inviolables droits ;</l>
@@ -691,21 +691,21 @@
 	<l id="500">Votre parole enfin m’est suspecte aussi;</l>
 	<l id="501">Ma mère pourrait bien ce que mon frère a fait.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="502">Soupçonnez votre mère ; oui, j’approuve qu’en elle</l>
 	<l id="503">Vous redoutiez d’avoir une garde infidèle :</l>
 	<l id="504">De cet indigne faix ne déchargez ce bras</l>
 	<l id="505">Qu’après qu’en ma faveur le roi l’aura mis bas.</l>
 </sp>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="506">Le roi ? Quoi ! Le perfide exige encore ce titre</l>
 	<l id="507">Durant ce différend dont le sort est arbitre ?</l>
 	<l id="508">Vous et sa trahison l’avez donc couronné ?</l>
 </sp>
-<sp who="ETEOCLE"><speaker>ÉTÉOCLE.</speaker>
+<sp who="ETEOCLE"><hstage><speaker>ÉTÉOCLE</speaker>.</hstage>
 	<l id="509">Bientôt, bientôt les dieux en auront ordonné.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="510">Hélas ! Qu’en la fureur dont votre âme est pressée</l>
 	<l id="511">Vous venez tout d’un sens contraire à ma pensée !</l>
 	<l id="512">Je ne viens pas ici pour aigrir vos débats ;</l>
@@ -760,25 +760,25 @@
 	<l id="558">Enfin sans vous, mon fils, je n’aurais spas la guerre ;</l>
 	<l id="559">Mais sans la guerre aussi je ne vous aurais pas.</l>
 </sp>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="560">Tout un peuple allié marche dessus mes pas</l>
 	<l id="561">Pour me rendre mes droits et ma natale terre :</l>
 	<l id="562">Il est vrai que sans moi vous n’auriez pas la guerre ;</l>
 	<l id="563">Mais sans la guerre aussi je ne vous aurais pas.</l>
 </sp>
-<sp who="ETEOCLE"><speaker>ÉTÉOCLE.</speaker>
+<sp who="ETEOCLE"><hstage><speaker>ÉTÉOCLE</speaker>.</hstage>
 	<l id="564">Tout un peuple ennemi marche dessus vos pas</l>
 	<l id="565">Et ne vous rendra point votre natale terre :</l>
 	<l id="566">Il est vrai que sans vous Thèbes serait sans guerre ;</l>
 	<l id="567">Mais elle aura la guerre et vous ne l’aurez pas.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="568">Tout mon sang, de frayeur en mes veines se glace.</l>
 	<l id="569">Ma prière, cruels, n’obtient donc point de grâce ?</l>
 	<l id="570">Je n’ai pouvoir, crédit, autorité, ni rang,</l>
 	<l id="571">Et ne puis accorder mon sang avec mon sang ?</l>
 </sp>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="572">Ne vous semble-t-il point que la gloire d’un prince</l>
 	<l id="573">Soit d’errer vagabond de province en province ?</l>
 	<l id="574">Chasse de mes pays, de mes biens, de ma cour,</l>
@@ -792,31 +792,31 @@
 	<l id="582">Je dois souhaiter l’une, et l’autre l’étouffer ;</l>
 	<l id="583">Et le droit que je veux est au bout de ce fer.</l>
 </sp>
-<sp who="ETEOCLE"><speaker>ÉTÉOCLE.</speaker>
+<sp who="ETEOCLE"><hstage><speaker>ÉTÉOCLE</speaker>.</hstage>
 	<l id="584" part="i">Qu’un brave parle haut !</l>
 </sp>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="584" part="f">Qu’un traître tard se fâche !</l>
 </sp>
-<sp who="ETEOCLE"><speaker>ÉTÉOCLE.</speaker>
+<sp who="ETEOCLE"><hstage><speaker>ÉTÉOCLE</speaker>.</hstage>
 	<l id="585" part="i">Souvent tel brave tremble.</l>
 </sp>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="585" part="f">Et plus souvent un lâche.</l>
 </sp>
-<sp who="ETEOCLE"><speaker>ÉTÉOCLE.</speaker>
+<sp who="ETEOCLE"><hstage><speaker>ÉTÉOCLE</speaker>.</hstage>
 	<l id="586" part="i">Ce cœur si haut m’étonne.</l>
 </sp>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="586" part="f">Et moi le tien si bas.</l>
 </sp>
-<sp who="ETEOCLE"><speaker>ÉTÉOCLE.</speaker>
+<sp who="ETEOCLE"><hstage><speaker>ÉTÉOCLE</speaker>.</hstage>
 	<l id="587" part="i">L’effet le montrera.</l>
 </sp>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="587" part="f">Tu ne te hâtes pas ?</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="588">Quelle gloire, bons dieux, ou plutôt quelle rage</l>
 	<l id="589">À faillir le premier met le plus de courage ?</l>
 	<l id="590">La valeur est honteuse en pareil différend,</l>
@@ -834,34 +834,34 @@
 	<l id="602">Qui vous peut au besoin donner un si beau rang</l>
 	<l id="603">Sans que vous le cherchiez dans votre propre sang.</l>
 </sp>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="604">Que Thèbes lui demeure, et que je me retire !</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="605">Thèbes, vous le savez, est un fatal empire,</l>
 	<l id="606">Et son trône est un lieu funeste à son roi :</l>
 	<l id="607">Les exemples de Laie et d’Œdipe en font foi.</l>
 </sp>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="608">Un autre encore bientôt le fera mieux paraître.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="609" part="i">Cruel !  De votre frère ?</l>
 </sp>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="609" part="f">Et de tous deux peut-être.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="610" part="i">Quelle obstination. !</l>
 </sp>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="610" part="f">Quelle infidélité !</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="611">Mais quoi ! Son règne plaît, le vôtre est redouté ;</l>
 	<l id="612" part="i">Il a gagné les cœurs....</l>
 </sp>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="612" part="f">Et moi, moins populaire,</l>
 	<l id="613">Je tiens indifférent d’être craint ou de plaire.</l>
 	<l id="614">Qui règne aimé des siens en est moins absolu ;</l>
@@ -871,10 +871,10 @@
 	<l id="618">Le peuple, trop aisé, les lie en les aimant ;</l>
 	<l id="619">Il faut pour être aimé régner trop mollement.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="620">L’amour de ses sujets est une sûre garde.</l>
 </sp>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="621">Souvent qui trop se fie aussi trop se hasarde.</l>
 	<l id="622">Mais ne m’opposez plus d’inutiles avis.</l>
 	<l id="623">Parle, ma passion; les tiens seront suivis :</l>
@@ -883,7 +883,7 @@
 	<l id="626">Je ne puis d’aucun prix, tant fût-il infini,</l>
 	<l id="627">Voir l’une trop payée et l’autre trop puni.</l>
 </sp>
-<sp who="JOCASTE"><speaker>JOCASTE.</speaker>
+<sp who="JOCASTE"><hstage><speaker>JOCASTE</speaker>.</hstage>
 	<l id="628">Bien, puisque ni sanglots, ni prières, ni larmes</l>
 	<l id="629">Ne peuvent de vos mains faire tomber les armes,</l>
 	<l id="630">Et qu’avecque raison je vous puis reprocher</l>
@@ -902,18 +902,18 @@
 	<l id="643">Pour vous persécuter même jusqu’au trépas.</l>
 <stage>Elle sort furieuse.</stage>
 </sp>
-<sp who="1ER-CAPITAINE"><speaker>PREMIER CAPITAINE.</speaker>
+<sp who="1ER-CAPITAINE"><hstage><speaker>PREMIER CAPITAINE</speaker>.</hstage>
 	<l id="644" part="i">Son entremise est vaine.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="644" part="f">Ô constance barbare !</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON, à Étéocle.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>, à Étéocle.</hstage>
 	<l id="645">Enfin le champ est libre, et rien ne vous sépare :</l>
 	<l id="646">Qui ne presse faiblit l’effet de grands projets.</l>
 	<l id="647">Vengez-vous, vengez-vous, et vengez vos sujets.</l>
 </sp>
-<sp who="ETEOCLE"><speaker>ÉTÉOCLE.</speaker>
+<sp who="ETEOCLE"><hstage><speaker>ÉTÉOCLE</speaker>.</hstage>
 	<l id="648">Votre intérêt, Créon, vous meut plus que ma gloire ;</l>
 	<l id="649">Vous pressez le combat et craignez la victoire.</l>
 	<l id="650">Vous savez qu’après nous le sceptre des Thébains,</l>
@@ -924,17 +924,17 @@
 	<l id="655">D’où l’un et l’autre camp nous considère mieux,</l>
 	<l id="656">Et que le sort après conduise l’aventure.</l>
 </sp>
-<sp who="POLYNICE"><speaker>POLYNICE.</speaker>
+<sp who="POLYNICE"><hstage><speaker>POLYNICE</speaker>.</hstage>
 	<l id="657" part="i">Faisons tôt.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="657" part="f">Ô journée honteuse à la nature !</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="ANTIGONE"><speaker>ANTIGONE, en deuil, dans sa chambre.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>, en deuil, dans sa chambre.</hstage>
 	<l id="658">Inconstante reine du monde,</l>
 	<l id="659">Qui fais tout par aveuglement,</l>
 	<l id="660">Sans dessein et sans fondement,</l>
@@ -961,48 +961,48 @@
 	<l id="681">A toujours guerre avec toi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Hémon, Antigone.</head>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Hémon, Antigone.</cast>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="682">Tu reviens seul, Hémon ? Ô sinistre présage !</l>
 	<l id="683">Que je lis d’infortune aux traits de ton visage !</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="684">Il vous faut divertir par un autre entretien.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="685">Hélas ! Tu me dis tout en ne me disant rien.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="686">Madame, je croyais que la commune plainte</l>
 	<l id="687">Vous eût déjà livré cette sensible atteinte,</l>
 	<l id="688">Et fût cause du deuil que je rencontre ici.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="689" part="i">Étéocle est-il mort ?</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="689" part="f">Et Polynice aussi.</l>
 	<l id="690">Faites à ce grand cœur faire un effort extrême ;</l>
 	<l id="691">Opposez la nature à la nature même.</l>
 	<l id="692">L’ennui d’un tel malheur ne peut être léger ;</l>
 	<l id="693">Mais la part que j’y prends le doit bien alléger.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="694">Ô prodige ! Ô combat digne de son issue,</l>
 	<l id="695">Où plus que les vaincus la nature est vaincue,</l>
 	<l id="696">Où le crime s’est vu par le crime étouffer,</l>
 	<l id="697">Où l’impiété seule a droit de triompher !</l>
 	<l id="698" part="i">Faites m’en le récit.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="698" part="f">Votre douleur peut-être...</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="699">Non, elle est en un point où rien ne peut l’accroître ;</l>
 	<l id="700">Mes sens par son excès sont demeurés perclus ;</l>
 	<l id="701">Pour la trop ressentir je ne la ressens plus.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="702">Quand leur haine obstinée eut rendu de la reine</l>
 	<l id="703">Le pouvoir sans effet et la prière vaine,</l>
 	<l id="704">Et qu’au champ du combat chacun d’eux consentit,</l>
@@ -1036,10 +1036,10 @@
 	<l id="732">De Polynice enfin le sort guide le bras :</l>
 	<l id="733">Il pousse un coup mortel qui porte l’autre à bas.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="734">Et le ciel à ce crime a prêté sa lumière !</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="735">Le roi tombe, et son sang coule sur la poussière :</l>
 	<l id="736">Mais en sa chute encore sa haine se soutient,</l>
 	<l id="737">Et son cœur veut encore éclore un espoir qu’il retient :</l>
@@ -1076,7 +1076,7 @@
 	<l id="768">Et nous, le cœur transi de frayeur et d’ennui,</l>
 	<l id="769">Demeurons sur-le-champ presque aussi morts que lui.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="770">Que votre mort, ma mère, est un bien que j’envie,</l>
 	<l id="771">Et qu’il me serait doux de vous avoir suivie !</l>
 	<l id="772">Venez voir, cher Hémon, si le ciel en courroux</l>
@@ -1085,32 +1085,32 @@
 <stage>Hémon sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Ismène, Antigone.</head>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Ismène, Antigone.</cast>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="774" part="f">Ô barbare sentence !</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="775">Quel ennui doit encore éprouver ma constance ?</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="776">Savez-vous du combat le succès malheureux ?</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="777">Oui, digne de leur rage et funeste à tous deux.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="778">Savez-vous que Créon succède à la couronne ?</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="779">C’est un bien qu’on lui doit et que le sang lui donne.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="780">Savez-vous la rigueur de son premier édit ?</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="781">Non, Hémon est ici qui ne m’en a rien dit.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="782">Il fait d’un acte impie un acte de justice :</l>
 	<l id="783">Il défend d’inhumer le corps de Polynice,</l>
 	<l id="784">Et, déclarant ce prince ennemi de l’État,</l>
@@ -1118,14 +1118,14 @@
 	<l id="785">Condamne l’infracteur comme d’un attentat.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Les mêmes, Hémon.</head>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Les mêmes, Hémon.</cast>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="786">Certes, jamais le sort n’a sur humaine race</l>
 	<l id="787">Tant versé pour un jour de peine et de disgrâce.</l>
 <note>Dans l’édition originale, le vers commence par « Iocaste », qui comporte avec une diérèse (Rem. D. Ducoffre). Nous conservons ici la version modernisée.</note>
 	<l id="788">Jocaste défaite ! Ô destin inhumain !</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="789">Vous voyez en sa mort une œuvre de sa main :</l>
 	<l id="790">Heureuse et douce mort, puisqu’elle a su par elle</l>
 	<l id="791">De celle de ses fils prévenir la nouvelle !</l>
@@ -1138,7 +1138,7 @@
 	<l id="798">Et me prouvez la part que vous y daignez prendre,</l>
 	<l id="799">En laissant à mes pleurs le temps de se répandre.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="800">Je serais plus cruel que vos propres douleurs,</l>
 	<l id="801">Si je vous déniais la liberté des pleurs.</l>
 	<l id="802">Adieu, mais trouvez bon qu’en ce malheur extrême</l>
@@ -1148,8 +1148,8 @@
 <stage>Il sort</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Antigone, Ismène.</head>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Antigone, Ismène.</cast>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="806">C’est bien visiblement, ma sœur, ma chère Ismène,</l>
 	<l id="807">Que le ciel aujourd’hui nous déclare sa haine,</l>
 	<l id="808">Et que son bras vengeur, poussé par son courroux;</l>
@@ -1163,7 +1163,7 @@
 	<l id="816">Qui veut priver les morts du repos des tombeaux</l>
 	<l id="817">Et vouer notre sang à la soif des corbeaux.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="818">On dresse par son ordre un appareil célèbre</l>
 	<l id="819">Pour honorer le roi de la pompe funèbre,</l>
 	<l id="820">Et, comme un défenseur de l’État et des siens,</l>
@@ -1177,7 +1177,7 @@
 	<l id="828">Car entre elles il met ce funeste rapport</l>
 	<l id="829">Qu’on enterrera vif qui l’enterrera mort.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="830">L’ordonnance avec soi porte sa fin expresse ;</l>
 	<l id="831">C’est à nous qu’elle parle, à nous qu’elle s’adresse :</l>
 	<l id="832">La racine arrachée, et les arbres détruits,</l>
@@ -1195,63 +1195,63 @@
 	<l id="844">Pour ne s’opposer pas à ce triste devoir,</l>
 	<l id="845">Nous laissât le lieu libre et n’en pût rien savoir.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="846">Dieux, que proposez-vous, et que pouvons-nous faire,</l>
 	<l id="847">Que ne soit inutile au repos de mon frère ?</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="848">Acquittons au moins selon notre pouvoir;</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="849">Mais, ma sœur, l’impuissance excuse le devoir.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="850">Quoi ! Vous défendez-vous d’un si pieux ouvrage ?</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="851">L’espérance me manque, et non pas le courage.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="852">Quand l’une peut manquer, l’autre est bien imparfait.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="853">Que profite un espoir qui n’obtient point d’effet ?</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="854">En ces précautions la faiblesse est visible.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="855">La promptitude aussi bien souvent est nuisible.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="856">Pour un acte si juste, il est vrai, mais Créon ne l’est pas.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="857">Et s’il est inhumain serez-vous inhumaine ?</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="858">J’abhorre l’ordonnance et redoute la peine.</l>
 <note>Il est signalé le manque de deux vers dans le tome 4 de l’édition de 1820 éditée chez Th. Desoer.</note>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="859">Le dessein sans effet est aussi sans mérite.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="860">Mais le dessein suffit si l’effet ne profite.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="861">N’est-ce pas profiter que d’inhumer les morts ?</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="862">Non, car Créon, enfin rendrait vains nos efforts.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="863">Demeurez donc, Ismène, et sauvez-vous la vie,</l>
 	<l id="864">Comme un trésor bien rare et bien digne d’envie :</l>
 	<l id="865">Nos jours sont en effet si bien traités du sort</l>
 	<l id="866">Que vous avez raison de redouter la mort.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="867">Considérez, ma sœur, que, restant sans défense,</l>
 	<l id="868">Le pur rebus du sort et la même impuissance,</l>
 	<l id="869">Filles, pour dire assez que nous ne pouvons rien,</l>
@@ -1261,7 +1261,7 @@
 	<l id="873">Et déjà mon devoir s’en serait acquitté</l>
 	<l id="874">S’il ne fallait céder à la nécessité.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="875">Quelque consentement que vous puissiez produire,</l>
 	<l id="876">Je vois qu’il pourrait moins me servir que me nuire :</l>
 	<l id="877">Qui n’est pas assuré travaille mollement,</l>
@@ -1271,45 +1271,45 @@
 	<l id="881">Laissez-m’en donc le soin, et, sage à votre sens,</l>
 	<l id="882">Rendez-vous à la force et prenez loi du temps.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="883">J’envie à ce grand cœur cette grande assurance ;</l>
 	<l id="884">Mais pour les lois enfin j’ai plus de révérence.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="885">J’en aurais comme vous, mais j’en userais mieux,</l>
 	<l id="886">Et voudrais que les lois en eussent pour les dieux.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="887">Ah ! Que vous me causez une frayeur extrême !</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="888">Ne m’épouvantez point, et tremblez pour vous-même.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="889">Soyez secrète au moins, comme je vous promets</l>
 	<l id="890">Que par moi ce dessein ne se saura jamais.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="891">Si rien est à cacher, cachez votre faiblesse ;</l>
 	<l id="892">Je fais gloire pour moi que ma vertu paraisse.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="893">Comme dans les dangers vous vous précipitez !</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="894">Avec autant d’ardeur que vous les évitez.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="895">Je vous l’ai dit cent fois, cette œuvre sera vaine.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="896">Bien, mon pouvoir cessant fera cesser ma peine.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="897">Mais ce n’est pas assez d’entreprendre ardemment ;</l>
 	<l id="898">L’honneur de l’entreprise est en l’événement.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="899">Vos raisons, comme vous, sont de si peu de force,</l>
 	<l id="900">Que, loin de m’arrêter, cet obstacle m’amorce.</l>
 	<l id="901">Laissez indifférent mon bon ou mouvais sort ;</l>
@@ -1319,7 +1319,7 @@
 	<l id="905">Et de mes ans enfin voir terminer le cours</l>
 	<l id="906">Ne sera qu’arriver où je vais tous les jours.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="907">Allez donc, et le ciel, pour vous et pour mon frère,</l>
 	<l id="908">Conduise de dessein mieux que je ne l’espère.</l>
 	<l id="909">Mais vos soins, si mon cœur ne m’abuse aujourd’hui,</l>
@@ -1327,17 +1327,17 @@
 <stage>Elle sortent.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Argie, Ménette, une lanterne à la main sur les remparts où s’est donné le combat.</head>
-<sp who="MENETTE"><speaker>MÉNETTE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Argie, Ménette, une lanterne à la main sur les remparts où s’est donné le combat.</cast>
+<sp who="MENETTE"><hstage><speaker>MÉNETTE</speaker>.</hstage>
 	<l id="911">Madame, vous cherchez votre perte visible.</l>
 </sp>
-<sp who="ARGIE"><speaker>ARGIE.</speaker>
+<sp who="ARGIE"><hstage><speaker>ARGIE</speaker>.</hstage>
 	<l id="912">C’est bien ma perte, hélas ! Elle m’est bien sensible.</l>
 </sp>
-<sp who="MENETTE"><speaker>MÉNETTE.</speaker>
+<sp who="MENETTE"><hstage><speaker>MÉNETTE</speaker>.</hstage>
 	<l id="913" part="i">Je dis de votre vie.</l>
 </sp>
-<sp who="ARGIE"><speaker>ARGIE.</speaker>
+<sp who="ARGIE"><hstage><speaker>ARGIE</speaker>.</hstage>
 	<l id="913" part="f">Ah ! Le même trépas</l>
 	<l id="914">Qui l’ôte à mon époux ne m’en privera-t-il pas ?</l>
 	<l id="915">Ménette, voulez-vous qu’en ce malheur extrême</l>
@@ -1353,7 +1353,7 @@
 	<l id="925">Qui, le siège levé par un honteux départ,</l>
 	<l id="926">Souffre cette injustice et n’y prend point de part.</l>
 </sp>
-<sp who="MENETTE"><speaker>MÉNETTE.</speaker>
+<sp who="MENETTE"><hstage><speaker>MÉNETTE</speaker>.</hstage>
 	<l id="927">Pour ne nous pas tromper ne prenons autre voie</l>
 	<l id="928">Que celle des oiseaux qui vont à cette proie :</l>
 	<l id="929">L’infection des corps vient déjà jusqu’à nous ;</l>
@@ -1361,7 +1361,7 @@
 	<l id="931">Voici le champ fertile en tant de funérailles :</l>
 	<l id="932">Thèbes n’est pas fort loin, j’entrevois ses murailles.</l>
 </sp>
-<sp who="ARGIE"><speaker>ARGIE.</speaker>
+<sp who="ARGIE"><hstage><speaker>ARGIE</speaker>.</hstage>
 	<l id="933">Ô Thèbes ! Autrefois l’objet de mes désirs,</l>
 	<l id="934">Maintenant le sujet de tous mes déplaisirs,</l>
 	<l id="935">À qui pourtant le ciel soit encore propice,</l>
@@ -1386,24 +1386,24 @@
 	<l id="954">Daigne encore une fois te montrer à mes yeux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Les mêmes, Antigone.</head>
-<sp who="MENETTE"><speaker>MÉNETTE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Les mêmes, Antigone.</cast>
+<sp who="MENETTE"><hstage><speaker>MÉNETTE</speaker>.</hstage>
 	<l id="955">Madame, contenez la douleur qui vous presse ;</l>
 	<l id="956">Nous sommes aperçus, quelqu’un vers nous s’adresse.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE, à Argie.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>, à Argie.</hstage>
 	<l id="957">Quel dessein téméraire adresse ici tes pas ?</l>
 </sp>
-<sp who="MENETTE"><speaker>MÉNETTE.</speaker>
+<sp who="MENETTE"><hstage><speaker>MÉNETTE</speaker>.</hstage>
 	<l id="958">Ce qui l’y fait venir ne vous regarde pas.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="959">Vient-elle ôter aux morts les larmes que je verse,</l>
 	<l id="960">Et mettre empêchement à ce triste commerce ?</l>
 	<l id="961">Quel intérêt l’y pousse, et quel est son souci ?</l>
 	<l id="962">Ce soir est tout à moi, seule j’ai droit ici.</l>
 </sp>
-<sp who="ARGIE"><speaker>ARGIE.</speaker>
+<sp who="ARGIE"><hstage><speaker>ARGIE</speaker>.</hstage>
 	<l id="963">Si quelqu’un de ces morts vous cause de la peine,</l>
 	<l id="964">Et si, comme je crois, même dessein nous mène,</l>
 	<l id="965">Si même Créon vous craignez le courroux,</l>
@@ -1412,7 +1412,7 @@
 	<l id="968">Je venais à son corps rendre un dernier office,</l>
 	<l id="969">Croyant qu’à la faveur du voile de la nuit...</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE, l’embrassant.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>, l’embrassant.</hstage>
 	<l id="970">Est-ce Argie ? Ô ma sœur ! Quel bonheur me conduit ?</l>
 	<l id="971">Ou plutôt quel destin, à mon bonheur contraire,</l>
 	<l id="972">Fait que quand je vous vois je ne vois plus mon frère ?</l>
@@ -1423,7 +1423,7 @@
 	<l id="977">Enfin un même soin nous fait trouver ici ;</l>
 	<l id="978">Ce que mène Antigone amène Argie aussi.</l>
 </sp>
-<sp who="ARGIE"><speaker>ARGIE.</speaker>
+<sp who="ARGIE"><hstage><speaker>ARGIE</speaker>.</hstage>
 	<l id="979">Antigone, ma sœur, quelle première vue !</l>
 	<l id="980">Qui l’eût imaginée, ou qui l’eût attendue ?</l>
 	<l id="981">Que pour nous la fortune, a de fausse douceurs !</l>
@@ -1437,11 +1437,11 @@
 	<l id="989">Vos corps furent formés dedans le même flanc ;</l>
 	<l id="990">Vous ne fûtes qu’un cœur, et qu’une âme et qu’un sang.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="991">Ce n’est pas sans raison que sa perte m’est dure ;</l>
 	<l id="992">L’amitié nous joignit bien plus que la nature.</l>
 </sp>
-<sp who="ARGIE"><speaker>ARGIE.</speaker>
+<sp who="ARGIE"><hstage><speaker>ARGIE</speaker>.</hstage>
 	<l id="993">Aussi, ma chère sœur, les dieux m’en sont témoins,</l>
 	<l id="994">Son trône était l’aimant qui l’attirait le moins :</l>
 	<l id="995">Ni repos, ni pays, ni mère, ni couronne,</l>
@@ -1458,35 +1458,35 @@
 	<l id="1006">Il a pu sans fléchir vous entendre et vous voir ;</l>
 	<l id="1007">Il s’est pu cette fois défendre de vos charmes.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1008">Hélas ! Il consultait de mettre bas les armes,</l>
 	<l id="1009">Et déjà son courroux était presque amorti ;</l>
 	<l id="1010">Mais si mal à propos Étéocle est sorti,</l>
 	<l id="1011" part="i">Qu’il m’a ravi le temps...</l>
 </sp>
-<sp who="MENETTE"><speaker>MÉNETTE.</speaker>
+<sp who="MENETTE"><hstage><speaker>MÉNETTE</speaker>.</hstage>
 	<l id="1011" part="f">Craignant quelque surprise,</l>
 	<l id="1012">Allons chercher le mort, achevons l’entreprise,</l>
 	<l id="1013">Et faites quelque trêve avec vos douleurs.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1014">Allons, dessus son corps nous répandrons des pleurs :</l>
 	<l id="1015" part="i">Son corps où fut mon sang...</l>
 </sp>
-<sp who="ARGIE"><speaker>ARGIE.</speaker>
+<sp who="ARGIE"><hstage><speaker>ARGIE</speaker>.</hstage>
 	<l id="1015" part="f">Son corps où fut mon âme.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1016" part="i">Quel emploi pour sa sœur !</l>
 </sp>
-<sp who="ARGIE"><speaker>ARGIE.</speaker>
+<sp who="ARGIE"><hstage><speaker>ARGIE</speaker>.</hstage>
 	<l id="1016" part="f">Quelle nuit pour sa femme !</l>
 </sp>
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE I. Créon, Cléodamas, Éphise.</head>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE I.</head><cast>Créon, Cléodamas, Éphise.</cast>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1017">Enfin l’État est clame, et le dieux ont permis</l>
 	<l id="1018">Que l’orage tombât dessus nos ennemis.</l>
 	<l id="1019">Enfin, Thèbes, enfin la voix de ton prophète</l>
@@ -1516,7 +1516,7 @@
 	<l id="1043">De sa rébellion reçoive le supplice,</l>
 	<l id="1044">Et demeure privé de ce funèbre office.</l>
 </sp>
-<sp who="CLÉODAMAS"><speaker>CLÉODAMAS.</speaker>
+<sp who="CLÉODAMAS"><hstage><speaker>CLÉODAMAS</speaker>.</hstage>
 	<l id="1045">Un grand roi père tout d’un contrepoids égal,</l>
 	<l id="1046">Rend le bien pour le bien, et le mal pour le mal.</l>
 	<l id="1047">Que Thèbes aujourd’hui dressât des funérailles,</l>
@@ -1528,7 +1528,7 @@
 	<l id="1053">Qu’elle lui décernât les honneurs du tombeau !</l>
 	<l id="1054">Ce zèle est sans exemple et serait tout nouveau.</l>
 </sp>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 	<l id="1055">C’est trop, Cléodamas, exagérer son crime :</l>
 	<l id="1056">Que sa prétention fût ou non légitime,</l>
 	<l id="1057">Encor ce traitement paraît-il inhumain ;</l>
@@ -1550,7 +1550,7 @@
 	<l id="1073">Régnez sur les esprits premier que sur les corps,</l>
 	<l id="1074">Faites honneur aux dieux en faisant grâce aux morts.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1075">Ô fou raisonnablement ! Spécieuse faiblesse !</l>
 	<l id="1076">Sur toute lâcheté ce faux zèle me blesse :</l>
 	<l id="1077">Quoi donc ! Pour une impie il faut être pieux,</l>
@@ -1576,11 +1576,11 @@
 	<l id="1097">Et se tienne assuré d’un cruel châtiment</l>
 	<l id="1098">Quiconque lui destine un autre monument.</l>
 </sp>
-<sp who="CLÉODAMAS"><speaker>CLÉODAMAS.</speaker>
+<sp who="CLÉODAMAS"><hstage><speaker>CLÉODAMAS</speaker>.</hstage>
 	<l id="1099">Sire, quel malheureux, après votre défense,</l>
 	<l id="1100">Pour l’intérêt d’un mort prendrait cette licence ?</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1101">Toujours, quelque rebelle, en un règne naissant,</l>
 	<l id="1102">Croit faire un coup d’état en désobéissant,</l>
 	<l id="1103">Et se jette à clos yeux au danger plus extrême,</l>
@@ -1593,33 +1593,33 @@
 	<l id="1110">Qui feront leur devoir d’y veiller nuit et jour.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Les mêmes, Un Capitaine.</head>
-<sp who="CAPITAINE"><speaker>LE CAPITAINE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Les mêmes, Un Capitaine.</cast>
+<sp who="CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker>.</hstage>
 	<l id="1111">Ô vertu criminelle ! Ô pitié funeste,</l>
 	<l id="1112">Du mépris de la mort preuve trop manifeste !</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1113" part="i">Qu’est-ce ? Quelle nouvelle ?</l>
 </sp>
-<sp who="CAPITAINE"><speaker>LE CAPITAINE.</speaker>
+<sp who="CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker>.</hstage>
 	<l id="1113" part="f">Ah ! Quel est mon malheur,</l>
 	<l id="1114">D’avoir été commis pour instrument du leur !</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1115">Quoi ! Déjà mon édit a trouvé des rebelles ?</l>
 </sp>
-<sp who="CAPITAINE"><speaker>LE CAPITAINE.</speaker>
+<sp who="CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker>.</hstage>
 	<l id="1116">Sire, pour faire ouïr de mauvaises nouvelles,</l>
 	<l id="1117">Qu’il faut faire sur soi de violents efforts,</l>
 	<l id="1118">Et qu’on a de contrainte à les mettre dehors !</l>
 	<l id="1119" part="i">La princesse Antigone...</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1119" part="f">Ô malheureuse fille</l>
 	<l id="1120">Sur qui j’établissais l’espoir de ma famille !</l>
 	<l id="1121">Ô race détestable et digne de son sort !</l>
 </sp>
-<sp who="CAPITAINE"><speaker>LE CAPITAINE.</speaker>
+<sp who="CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker>.</hstage>
 	<l id="1122">Secondée à ce soin pas la veuve du mort,</l>
 	<l id="1123">Vient d’être auprès du corps dessus l’heure surprise,</l>
 	<l id="1124">De son funèbre office achevant l’entreprise :</l>
@@ -1627,11 +1627,11 @@
 	<l id="1126">Vous la vont présenter à l’étrangère aussi.</l>
 </sp>
 <stage>Il sort.</stage>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 	<l id="1127">Le ciel a jusqu’au bout versé sur cette race</l>
 	<l id="1128">Disgrâce sur malheur et malheur sur disgrâce.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1129">Ô masque de vertu ! Que ta fausse beauté</l>
 	<l id="1130">Couvre d’hypocrisie et de déloyauté !</l>
 	<l id="1131">Quoi ! Cette misérable, à mon fils destinée,</l>
@@ -1647,68 +1647,68 @@
 	<l id="1140">Égale à son forfait et digne de ma haine.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Les mêmes, Antigone, Argie, Ménette, Gardes.</head>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Les mêmes, Antigone, Argie, Ménette, Gardes.</cast>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1141">Voyez quelle assurance en cet œil effronté !</l>
 	<l id="1142">Quel superbe maintien et quelle égalité !</l>
 	<l id="1143">D’un seul signe d’effroi ce front est-il capable ?</l>
 	<l id="1144">Qui de nous semble mieux le juge ou le coupable ?</l>
 	<l id="1145">Qui si visiblement contredit mon pouvoir ?</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1146">Non ; l’on m’a prise, sire, on ne m’a pas surprise.</l>
 	<l id="1147">On ne saurait surprendre en si juste entreprise.</l>
 </sp>
-<sp who="ARGIE"><speaker>ARGIE.</speaker>
+<sp who="ARGIE"><hstage><speaker>ARGIE</speaker>.</hstage>
 	<l id="1148">J’ai seule transgressé cet arrêt inhumain :</l>
 	<l id="1149">Sire, elle n’a rien fait que me prêter la main.</l>
 </sp>
-<sp who="MENETTE"><speaker>MÉNETTE.</speaker>
+<sp who="MENETTE"><hstage><speaker>MÉNETTE</speaker>.</hstage>
 	<l id="1150">C’est à moi, Sire, à moi qu’en est dû le supplice ;</l>
 	<l id="1151">Je suis auteur de tout, elle n’est que complice.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1152">Et ne saviez-vous pas que cet acte, en effet,</l>
 	<l id="1153">Était contrevenant à l’arrêt que j’ai fait ?</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1154">Je n’en pouvais douter, puisqu’aucun ne l’ignore.</l>
 </sp>
-<sp who="ARGIE"><speaker>ARGIE.</speaker>
+<sp who="ARGIE"><hstage><speaker>ARGIE</speaker>.</hstage>
 	<l id="1155" part="i">Oui, je la savais bien.</l>
 </sp>
-<sp who="MENETTE"><speaker>MÉNETTE.</speaker>
+<sp who="MENETTE"><hstage><speaker>MÉNETTE</speaker>.</hstage>
 	<l id="1155" part="f">Et moi mieux qu’elle encore.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1156">Vous faisiez donc vertu de transgresser mes lois ?</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1157">Oui, pour servir les dieux qui sont plus que des rois.</l>
 </sp>
-<sp who="ARGIE"><speaker>ARGIE.</speaker>
+<sp who="ARGIE"><hstage><speaker>ARGIE</speaker>.</hstage>
 	<l id="1158">Pour faire honneur au ciel au mépris de la terre.</l>
 </sp>
-<sp who="MENETTE"><speaker>MÉNETTE.</speaker>
+<sp who="MENETTE"><hstage><speaker>MÉNETTE</speaker>.</hstage>
 	<l id="1159">Et pour donner aux morts la pais près la guerre.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1160">Et tous pour mériter un rigoureux trépas.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1161" part="i">Qu’il vienne.</l>
 </sp>
-<sp who="ARGIE"><speaker>ARGIE.</speaker>
+<sp who="ARGIE"><hstage><speaker>ARGIE</speaker>.</hstage>
 	<l id="1161" part="m">Il tarde trop.</l>
 </sp>
-<sp who="MENETTE"><speaker>MÉNETTE.</speaker>
+<sp who="MENETTE"><hstage><speaker>MÉNETTE</speaker>.</hstage>
 	<l id="1161" part="f">Je n’y recule pas.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1162">Ô folle piété ! Qui d’une même audace</l>
 	<l id="1163">Fit la rébellion et reçoit la menace.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1164">Je mets le plus haut trône au-dessous des autels,</l>
 	<l id="1165">Et révère les dieux sans égard des mortels :</l>
 	<l id="1166">Ils sont maîtres des rois ; ils sont pieux, augustes ;</l>
@@ -1732,15 +1732,15 @@
 	<l id="1184">Elle m’affranchira de votre autorité,</l>
 	<l id="1185">Et ma punition sera ma liberté.</l>
 </sp>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 	<l id="1186">Ô mâle cœur de fille ! Ô vertu non commune,</l>
 	<l id="1187">Qui pour rien ne se rend aux coups de la fortune !</l>
 </sp>
-<sp who="CLÉODAMAS"><speaker>CLÉODAMAS.</speaker>
+<sp who="CLÉODAMAS"><hstage><speaker>CLÉODAMAS</speaker>.</hstage>
 	<l id="1188">Ô sexe dangereux ! Étrange dureté !</l>
 	<l id="1189">Du crime et du supplice elle fait vanité.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1190">On abaisse aisément le cœur d’une sujette</l>
 	<l id="1191">Sous le propre fardeau du joug qu’elle rejette.</l>
 	<l id="1192">L’orgueil s’assortit mal avec le mauvais sort,</l>
@@ -1760,7 +1760,7 @@
 	<l id="1206">La justice aujourd’hui satisfera ma haine ;</l>
 	<l id="1207">Et qui l’a secondée aura part en sa peine;</l>
 </sp>
-<sp who="ARGIE"><speaker>ARGIE.</speaker>
+<sp who="ARGIE"><hstage><speaker>ARGIE</speaker>.</hstage>
 	<l id="1208">D’un frivole discours passez donc à l’effet ;</l>
 	<l id="1209">Je le ferais encore si je ne l’avais fait.</l>
 	<l id="1210">Oui, j’ai fait le devoir d’une ingrate province</l>
@@ -1776,11 +1776,11 @@
 	<l id="1220">Et veut qu’en même jour le corps de mon époux</l>
 	<l id="1221">Passe d’entre mes bras dans le ventre des loups.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1222">Ayant appris l’édit et le peine prévue,</l>
 	<l id="1223">Vous avez enfreint l’un, et l’autre vous est due.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1224">Faites donc, votre haine agit trop mollement;</l>
 	<l id="1225">La fureur s’alentit par le retardement :</l>
 	<l id="1226">Peut-être que le temps vous ôterait l’envie</l>
@@ -1792,39 +1792,39 @@
 	<l id="1232">Mais d’abord un tyran fait tout ce qu’il lui plaît ;</l>
 	<l id="1233">On souffre avec respect, on voit, mais on se tait.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1234">Et toi seule entre tous n’as pu voir sans te plaindre ?</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1235">Tous tremblent, tous ont peur ; moi, je n’ai rien à craindre.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1236">Au moins dois-tu rougir d’avoir osé plus qu’eux.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1237">Qui fait honneur aux morts ne fait rien de honteux.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1238">Un mort qui fut des siens le mortel adversaire !</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1239">Il fut ce qui vous plaît, mais il était mon frère.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1240">Qui les armes en main a son frère assailli !</l>
 </sp>
-<sp who="ARGIE"><speaker>ARGIE.</speaker>
+<sp who="ARGIE"><hstage><speaker>ARGIE</speaker>.</hstage>
 	<l id="1241">Il est vrai, mais son frère a le premier failli.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1242">Il tint notre parti, l’autre tint le contraire.</l>
 </sp>
-<sp who="ARGIE"><speaker>ARGIE.</speaker>
+<sp who="ARGIE"><hstage><speaker>ARGIE</speaker>.</hstage>
 	<l id="1243">La couronne à tous deux était héréditaire :</l>
 	<l id="1244">L’un suivit sa fureur, mais l’autre l’embrasa ;</l>
 	<l id="1245">Si l’un vous assaillit, l’autre vous exposa.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1246">La règne du premier, comme il fut d’un bon prince,</l>
 	<l id="1247">Se gagna la faveur de toute la province ;</l>
 	<l id="1248">Et notre heur, qui sous l’autre eût pu diminuer,</l>
@@ -1834,135 +1834,135 @@
 	<l id="1252">Et son ambition, bien moins que sa bonté,</l>
 	<l id="1253">Sa put dire l’appui de son autorité.</l>
 </sp>
-<sp who="ARGIE"><speaker>ARGIE.</speaker>
+<sp who="ARGIE"><hstage><speaker>ARGIE</speaker>.</hstage>
 	<l id="1254">Mais pour le retenir vous chassiez Polynice.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1255">On fit faveur à l’un, mais à l’autre justice.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1256">Après tout je l’aimais, et mon affection</l>
 	<l id="1257">Entreprendrait encore cette sainte action.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1258">Eh bien ! Suis les conseils que cet amour t’inspire :</l>
 	<l id="1259">Aime-le chez les morts, mais non sous mon empire.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Les mêmes, Ismène.</head>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Les mêmes, Ismène.</cast>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 	<l id="1260">Ô dieux ! En quel état Ismène vient ici !</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON, à Ismène.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>, à Ismène.</hstage>
 	<l id="1261">Et toi, n’eus-tu point part à l’entreprise aussi ?</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="1262">Oui, plus que toutes les deux : j’ai commencé l’ouvrage,</l>
 	<l id="1263">Et mon exemple, Sire, excita leur courage.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1264">Non, non, trop de frayeur s’empara de son sein ;</l>
 	<l id="1265">Elle a le cœur trop bas pour un si haut dessein.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="1266">Je vous l’ai conseillé ; j’en pressai l’entreprise.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1267">Tout au contraire, Sire ; Elle m’en a reprise.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="1268">Oui, pour vous éprouver ; mais je suivais vos pas.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1269">Elle était trop timide, elle ne sortit pas.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="1270">Prisez-vous à tel point votre triste fortune,</l>
 	<l id="1271">Que vous ayez regret qu’elle me soit commune ?</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1272">J’ai seule aimé mon frère ; il n’appelle que moi.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="1273">J’eusse à votre défaut entrepris cet emploi.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1274">Je servirai de cœur et non pas de parole ;</l>
 	<l id="1275">L’un produit des effets, les autres sont frivoles.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="1276">Ma sœur, au nom des dieux, ne me déniez pas</l>
 	<l id="1277">La gloire de vous suivre en un si beau trépas.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1278">Non, non, ne prenez part à rien qui m’appartienne :</l>
 	<l id="1279">L’ouvrage fut tout mien, la mort toute mienne.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="1280">Ne vous possédant plus quel bien me sera doux ?</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1281">Créon, votre seigneur, aura grand soin de vous.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="1282">Ah ! Ce reproche est juste : il est vrai, je fus lâche.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1283">J’ai le regret de dire, et honte qu’on le sache.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="1284">Mais que vous a produit ce généreux effort ?</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1285">Tout ce que j’espérais : il m’a produit la mort.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="1286">J’vais bien su prévoir le malheur qui vous presse.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1287">Eh bien, vivez heureuse avec votre sagesse.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON, à part.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>, à part.</hstage>
 	<l id="1288">L’orgueil à toutes deux a troublé la raison,</l>
 	<l id="1289">Et leur extravagance est sans comparaison.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="1290">Vous-même à votre fils vous l’avez destinée :</l>
 	<l id="1291">Voudriez-vous rompre, Sire, un si bel hyménée ?</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1292">Il peut pour un manqué, recouvré cent partis.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="1293">Non pas qui vaillent tant, ni si bien assortis.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1294">Cherchant cette alliance, il cherchait bien sa perte ;</l>
 	<l id="1295">Je le haïrais bien si je l’avais soufferte.</l>
 </sp>
-<sp who="ANTIGONE"><speaker>ANTIGONE.</speaker>
+<sp who="ANTIGONE"><hstage><speaker>ANTIGONE</speaker>.</hstage>
 	<l id="1296">Viens ici, cher Hémon, et par cet entretien</l>
 	<l id="1297">Apprends le jugement que l’on y fait du tien.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="1298">Voudriez-vous ruiner une amitié si forte ?</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1299">Forte ou non, s’il l’épouse il l’épousera morte.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="1300">Si le ciel n’est injuste, il vengera sa mort.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1301">Profite de sa perte, et crains un même sort.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="1302">Non, non, ne croyez pas que votre tyrannie</l>
 	<l id="1303">Ni m’empêche la voix, ni demeure impunie ;</l>
 	<l id="1304">Les dieux ne sont pas dieux si bientôt leur courroux</l>
 	<l id="1305">Ne prend notre intérêt et n’éclate sur vous.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1306">Allez, ôtez d’ici ces objets de ma haine ;</l>
 	<l id="1307">Qu’en la tour du palais toutes deux on les mène :</l>
 	<l id="1308">Veillez-les avec soin, que tout vous soit suspect ;</l>
@@ -1974,8 +1974,8 @@
 <stage>On emmène Antigone, Ismène et Argie.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Créon, Éphise, Cléodamas ; ensuite Hémon.</head>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Créon, Éphise, Cléodamas ; ensuite Hémon.</cast>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 	<l id="1314">Sire, à peser bien tout d’une égale balance,</l>
 	<l id="1315">Ce procédé n’est pas sans quelque violence :</l>
 	<l id="1316">L’honneur qu’on rend aux morts est une vieille loi ;</l>
@@ -1985,7 +1985,7 @@
 	<l id="1320">L’autre est veuve d’un mort. Que votre jugement</l>
 	<l id="1321">Sur toutes ces raisons passent un peu mûrement.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1322">De toutes ces raisons pour une déloyale,</l>
 	<l id="1323">Pas une ne détruit la puissance royale ;</l>
 	<l id="1324">Être trop indulgent laisse aussi trop oser.</l>
@@ -1998,7 +1998,7 @@
 	<l id="1330">Et qui, sage, épousant son amour et sa haine,</l>
 	<l id="1331">Se fait de ses désirs une loi souveraine.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1332">Ayant l’honneur que j’ai d’être sorti de vous,</l>
 	<l id="1333">Votre intérêt, Monsieur, sur tout autre m’est doux.</l>
 	<l id="1334">J’ai tous les sentiments que mon devoir m’ordonne ;</l>
@@ -2006,7 +2006,7 @@
 	<l id="1336">Et, sans me départir de leur autorité,</l>
 	<l id="1337">Ne puis rien épouser que votre volonté.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1338">Aussi par la raison de la seule naissance,</l>
 	<l id="1339">N’attendais-je pas moins de votre obéissance.</l>
 	<l id="1340">Ils ont mêmes amis et mêmes ennemis :</l>
@@ -2033,7 +2033,7 @@
 	<l id="1361">Et, soumettant leur sens au pourvoir des couronnes,</l>
 	<l id="1362">Quelles que soient les lois, croire qu’elles sont bonnes.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1363">Les dieux ne  mettent pas en tous entendements</l>
 	<l id="1364">Ni pareilles clartés, ni même sentiments.</l>
 	<l id="1365">Je veux que cette offense attaque votre gloire ;</l>
@@ -2069,117 +2069,117 @@
 	<l id="1395">Ne voir que pas son sens est le propre des dieux,</l>
 	<l id="1396">Comme il l’est des mortels de voir par beaucoup d’yeux.</l>
 </sp>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 	<l id="1397">La même vérité vous parle par sa bouche :</l>
 	<l id="1398">Sire, de cette part souffrez qu’elle vous touche,</l>
 	<l id="1399">D’autant plus qu’elle tend à votre commun bien,</l>
 	<l id="1400">Et que votre intérêt s’y trouve avec le sien.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1401">Ô conseil, ô prière et ridicule et folle !</l>
 	<l id="1402">Que j’apprenne si vieux d’une si jeune école !</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1403">Ne regardez pas l’âge, et pesez la raison.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1404">La raison n’est pas mûre en si verte saison.</l>
 	<l id="1405">Appelles-tu raison de faire honneur au crime ?</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1406">Non, s’il passe pour tel ailleurs qu’en votre estime.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1407">Qui m’a désobéi mérite le trépas.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1408">Le peuple toutefois ne le confesse pas.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1409">Lui-même est criminel s’il censure son prince.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1410">Faites donc le procès à toute le province.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1411">Elle et ses habitants sont esclaves des rois.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1412">Oui, si les rois aussi sont esclaves des lois.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1413">La folle passion qui possède ton âme</l>
 	<l id="1414">Te fait insolemment parler pour une femme,</l>
 	<l id="1415">Et de son intérêt te rend aussi jaloux.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1416">Vous seriez femme donc, car je parle de vous.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1417">Tu contestes, mutin, contre ton propre père ?</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1418">J’ai cru vous conseiller, et non pas vous déplaire.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1419">Ne m’est-il pas permis de conserver mon droit ?</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1420">Non, s’il prive les dieux de l’honneur qu’on leur doit.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1421">Vil esclave de femme, esprit lâche et débile !</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1422">Je n’ai fait action ni lâche ni servile.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1423">Parler pour une fille est ton plus digne emploi.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1424">Je parle pour les dieux, et pour vous et pour moi.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1425">N’espère pas enfin l’épouser jamais vive.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1426">Elle ne mourra pas qu’un autre ne la suive.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1427" part="i">M’oses-tu menacer ?</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1427" part="f">Je n’avancerais rien.</l>
 	<l id="1428">Envers qui ne veut ni ne peut faire bien.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1429">Ce fol à m’outrager encore persévère !</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1430">Je vous dirais bien pis si vous n’étiez mon père.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1431">Va, cœur efféminé ; va lâche, sors d’ici !</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1432">Vous voulez donc parler sans que l’on parle aussi ?</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1433">Oui, traître, je le veux, et bientôt pour salaire</l>
 	<l id="1434">De ta présomption va t’apprendre à te taire</l>
 	<l id="1435">Et ne chérir pas tant ce qui m’est odieux.</l>
 	<l id="1436">Soldats, amenez-la, qu’on l’égorge à ses yeux.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1437">Ce ne sera jamais au moins en ma présence</l>
 	<l id="1438">Que l’on accomplira cette injuste sentence.</l>
 	<l id="1439">Faites à vos flatteurs autoriser vos lois,</l>
 	<l id="1440">Et voyez votre fils pour la dernière fois.</l>
 </sp>
-<sp who="ÉPHISE"><speaker>ÉPHISE, voulant le retenir.</speaker>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>, voulant le retenir.</hstage>
 	<l id="1441" part="i">Seigneur !</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1441" part="f">Laissez, qu’il aille ; il saura, je le jure,</l>
 	<l id="1442">Combien sensiblement me touche cette injure,</l>
 	<l id="1443">Combien il est fatal d’irriter mon pouvoir,</l>
@@ -2189,7 +2189,7 @@
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="HÉMON"><speaker>HÉMON, seul.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>, seul.</hstage>
 	<l id="1445">Qu’on l’égorge à mes yeux ! Ô vertu sans défense !</l>
 	<l id="1446">Justice sans soutien, supplice sans offense !</l>
 	<l id="1447">Ô présage fatal pour un règne naissant,</l>
@@ -2219,8 +2219,8 @@
 	<l id="1470">Je lis en ta tristesse une triste nouvelle.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Éphise, Hémon.</head>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Éphise, Hémon.</cast>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 	<l id="1471">D’autres, pour vous flatter d’une inutile espoir,</l>
 	<l id="1472">Vous diraient que le temps le pourrait émouvoir ;</l>
 	<l id="1473">Mais moi, qui suis sensible à tout ce qui vous touche,</l>
@@ -2228,7 +2228,7 @@
 	<l id="1475">Je ne vous puis farder ce funeste rapport :</l>
 	<l id="1476">C’est fait de la princesse ; il a signé sa mort.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1477">C’est fait de la princesse ! Ah ! Force, ma colère,</l>
 	<l id="1478">Force ici tout respect et de fils et de père.</l>
 	<l id="1479">Venez, rage, transports, si longtemps repoussés,</l>
@@ -2244,23 +2244,23 @@
 	<l id="1489">L’honneur qu’on porte aux siens devient illégitime ;</l>
 	<l id="1490">Et trop de naturel passe aujourd’hui pour crime.</l>
 </sp>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 	<l id="1491">J’attendais bien de vous ce premier mouvement ;</l>
 	<l id="1492">Je ne puis condamner votre ressentiment.</l>
 	<l id="1493">Mais, Seigneur, la princesse, encor pleine de vie,</l>
 	<l id="1494">N’a pas de ce cruel la fureur assouvie.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1495" part="i">Quel est donc cet arrêt ?</l>
 </sp>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 <note>v. 1495, l’édition originale porte « Faim » au lieu de « fin ».</note>
 	<l id="1495" part="f">Il commet à la fin,</l>
 	<l id="1496">Invisible bourreau, cet office inhumain ;</l>
 	<l id="1497">Et dessous Cythéron l’a fait enfermer vive,</l>
 	<l id="1498">Attendant qu’une mort de tant de morts la prive.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1499">Mais rien n’ébranle-t-il sa résolution ?</l>
 	<l id="1500">N’as-tu rien oublié de ta commission ?</l>
 	<l id="1501">L’as-tu fait souvenir que c’est de sa main même</l>
@@ -2278,26 +2278,26 @@
 	<l id="1513">Il m’accorde du moins cette dernière grâce,</l>
 	<l id="1514">Que je meure pour elle et seul lui satisfasse ?</l>
 </sp>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 	<l id="1515">J’ai peint votre respect, votre amour, votre ennui ;</l>
 	<l id="1516">Mais le plus dur rocher est moins rocher que lui,</l>
 	<l id="1517">Et je l’ai moins touché par ce qu j’ai pu dire</l>
 	<l id="1518">Qu’un chêne n’est ému du souffle du zéphyr.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1519">N’importe ; sonde encor ce courage inhumain,</l>
 	<l id="1520">Dût ce dernier effort encor nous être vain :</l>
 	<l id="1521">Pardonne au soin ingrat que mon amour te donne,</l>
 	<l id="1522">Et tente jusqu’au bout pour sauver Antigone :</l>
 	<l id="1523">Va, tâche de sauver un malheureux amant.</l>
 </sp>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 	<l id="1524">Je vais vous obéir, mais inutilement.</l>
 <stage>Il sort.</stage>
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="HÉMON"><speaker>HÉMON, seul.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>, seul.</hstage>
 	<l id="1525">Par cette invention défait de sa présence,</l>
 	<l id="1526">Autant que je le suis de la vaine espérance</l>
 	<l id="1527">De pouvoir profiter de cet abaissement,</l>
@@ -2325,8 +2325,8 @@
 <stage>Il sort.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Créon, Éphise.</head>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Créon, Éphise.</cast>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1549">Non, Éphise, il importe au soutien de ma gloire</l>
 	<l id="1550">Que de ce châtiment je laisse la mémoire :</l>
 	<l id="1551">Mon règne naît encore, et cette impunité</l>
@@ -2336,88 +2336,88 @@
 	<l id="1555">Et si qui contrevient à ce que je défends</l>
 	<l id="1556">Trouve des partisans en mes propres enfants ?</l>
 </sp>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 	<l id="1557" part="i">Sire, il est amoureux.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1557" part="f">Moi je serai sévère.</l>
 </sp>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 	<l id="1558" part="i">Il servait sa maîtresse.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1558" part="f">Il offensait son père.</l>
 </sp>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 	<l id="1559" part="i">Il crut vous conseiller.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1559" part="f">Il prit trop de souci.</l>
 </sp>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 	<l id="1560" part="i">Mais il la tient de vous.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1560" part="f">Il en tient l’être aussi.</l>
 </sp>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 	<l id="1561" part="i">Il s’avoue un peu prompt.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1561" part="f">Qu’il souffre donc sa peine.</l>
 </sp>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 	<l id="1562" part="i">Mais, Sire, son amour ?</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1562" part="f">Mais, Éphise, ma haine ?</l>
 </sp>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 	<l id="1563">Faites quelque indulgence à de jeunes esprits.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1564">Je pardonnerai tout, excepté le épris.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Les mêmes, Tyrésie, précédé par un guide ; Cléodamas.</head>
-<sp who="CLÉODAMAS"><speaker>CLÉODAMAS.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Les mêmes, Tyrésie, précédé par un guide ; Cléodamas.</cast>
+<sp who="CLÉODAMAS"><hstage><speaker>CLÉODAMAS</speaker>.</hstage>
 	<l id="1565">Voici le vieux devin de qui tant de miracles</l>
 	<l id="1566">En ce fatal empire ont suivi les oracles.</l>
 </sp>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 	<l id="1567">C’est Tyrésie. Ô ciel ! Sois lassé de nos pleurs,</l>
 	<l id="1568">Et nous apprends par lui la fin de nos malheurs.</l>
 </sp>
-<sp who="TYRESIE"><speaker>TYRÉSIE.</speaker>
+<sp who="TYRESIE"><hstage><speaker>TYRÉSIE</speaker>.</hstage>
 	<l id="1569">La lumière d’un seul sert à eux que nous sommes :</l>
 	<l id="1570">C’est aux hommes aussi à conduire les hommes.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1571">Que nous apprendrez-vous, bon vieillard qui sans yeux</l>
 	<l id="1572">Lisez si clairement dans le secret des dieux ?</l>
 </sp>
-<sp who="TYRESIE"><speaker>TYRÉSIE.</speaker>
+<sp who="TYRESIE"><hstage><speaker>TYRÉSIE</speaker>.</hstage>
 	<l id="1573">Un avis qui regarde et vous et votre empire.</l>
 	<l id="1574">Mais pesez mûrement ce que je viens de dire.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1575">J’ai toujours obéi, vous toujours ordonné.</l>
 </sp>
-<sp who="TYRESIE"><speaker>TYRÉSIE.</speaker>
+<sp who="TYRESIE"><hstage><speaker>TYRÉSIE</speaker>.</hstage>
 	<l id="1576">C’est l’unique secret qui vous a couronné.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1577">Aussi vous consulté-je en tout ce qui me touche,</l>
 	<l id="1578">Assuré que les dieux parlent par votre bouche.</l>
 </sp>
-<sp who="TYRESIE"><speaker>TYRÉSIE.</speaker>
+<sp who="TYRESIE"><hstage><speaker>TYRÉSIE</speaker>.</hstage>
 	<l id="1579">Surtout, pour votre bien, croyez-moi désormais,</l>
 	<l id="1580">Car le besoin en presse, ou n’en pressa jamais.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1581">Ô dieux ! Quelle frayeur m’excite ce langage !</l>
 </sp>
-<sp who="TYRESIE"><speaker>TYRÉSIE.</speaker>
+<sp who="TYRESIE"><hstage><speaker>TYRÉSIE</speaker>.</hstage>
 	<l id="1582">Bien moindre que ne doit ce funeste présage.</l>
 	<l id="1583">Écoutez : ce matin, sur ces proches coteaux</l>
 	<l id="1584">Nus observions le chant et le vol des oiseaux,</l>
@@ -2450,7 +2450,7 @@
 	<l id="1611">Satisfaites les dieux par votre amendement,</l>
 	<l id="1612">Et sachez-moi bon gré ce cet enseignement.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1613">Sur tout autre votre art me persécute ;</l>
 	<l id="1614">Vous m’entreprenez seul, seul je vous suis en butte.</l>
 	<l id="1615">Il faut bien que cet art, saint et sacré qu’il est,</l>
@@ -2464,44 +2464,44 @@
 	<l id="1623">Non pas en abusant du respect des autels,</l>
 	<l id="1624">Et faisant faussement parler les immortels.</l>
 </sp>
-<sp who="TYRESIE"><speaker>TYRÉSIE.</speaker>
+<sp who="TYRESIE"><hstage><speaker>TYRÉSIE</speaker>.</hstage>
 	<l id="1625">Qui m’as repris que vous d’en user de la sorte ?</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1626">Que l’on vous en reprenne ou se taire, qu’importe ?</l>
 </sp>
-<sp who="TYRESIE"><speaker>TYRÉSIE.</speaker>
+<sp who="TYRESIE"><hstage><speaker>TYRÉSIE</speaker>.</hstage>
 	<l id="1627">Usez-en comme moi ; le ciel sait qui vit mieux.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1628">Je n’outragerai point un ministre des dieux.</l>
 </sp>
-<sp who="TYRESIE"><speaker>TYRÉSIE.</speaker>
+<sp who="TYRESIE"><hstage><speaker>TYRÉSIE</speaker>.</hstage>
 	<l id="1629">Vous m’outragez assez m’accusant d’avarice ?</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1630">Peu de gens de votre art sont exempts de vice.</l>
 </sp>
-<sp who="TYRESIE"><speaker>TYRÉSIE.</speaker>
+<sp who="TYRESIE"><hstage><speaker>TYRÉSIE</speaker>.</hstage>
 	<l id="1631">Et les tyrans encor bien moins qu’eux et que moi.</l>
 </sp>
-<sp who="CLÉODAMAS"><speaker>CLÉODAMAS.</speaker>
+<sp who="CLÉODAMAS"><hstage><speaker>CLÉODAMAS</speaker>.</hstage>
 	<l id="1632">Aveugle, savez-vous que vous parlez au roi ?</l>
 </sp>
-<sp who="TYRESIE"><speaker>TYRÉSIE.</speaker>
+<sp who="TYRESIE"><hstage><speaker>TYRÉSIE</speaker>.</hstage>
 	<l id="1633">Puisque je l’ai fait tel, j’ai droit de la connaître :</l>
 	<l id="1634">Plus aveugle est que moi tel qui ne croit pas l’être.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1635">C’est bien vous emporter pour un esprit si sain.</l>
 </sp>
-<sp who="TYRESIE"><speaker>TYRÉSIE.</speaker>
+<sp who="TYRESIE"><hstage><speaker>TYRÉSIE</speaker>.</hstage>
 	<l id="1636">Enfin je dirai plus que je n’avais dessein.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1637">Parlez, car il importe au gain de votre vie.</l>
 </sp>
-<sp who="TYRESIE"><speaker>TYRÉSIE.</speaker>
+<sp who="TYRESIE"><hstage><speaker>TYRÉSIE</speaker>.</hstage>
 	<l id="1638">Bien plus votre intérêt que le mien m’y convie;</l>
 	<l id="1639">Et vous l’allez l’apprendre : avant que le soleil</l>
 	<l id="1640">Laisse en notre horizon la nuit et le sommeil,</l>
@@ -2526,14 +2526,14 @@
 <stage>Il sort avec son guide.</stage>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Créon, Éphise, Cléodamas.</head>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Créon, Éphise, Cléodamas.</cast>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 	<l id="1659">Sire, il peut s’abuser ; mais depuis qu’en ces lieux</l>
 	<l id="1660">Sa voix rend aux mortels les réponses des dieux,</l>
 	<l id="1661">Et qu’il envoie au ciel les encens de nos temples,</l>
 	<l id="1662">Les fautes de sons art n’ont pas encore d’exemples.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1663">Je tremble, je frémis, je demeure interdit,</l>
 	<l id="1664">Et cet effet s’accorde avec ce qu’il a dit.</l>
 	<l id="1665">Opposons la prudence au coup de cet orage ;</l>
@@ -2541,21 +2541,21 @@
 	<l id="1667">Me rendre lâchement au sentiment d’autrui,</l>
 	<l id="1668">Est trop honteux pour moi, trop glorieux pour lui.</l>
 </sp>
-<sp who="CLÉODAMAS"><speaker>CLÉODAMAS.</speaker>
+<sp who="CLÉODAMAS"><hstage><speaker>CLÉODAMAS</speaker>.</hstage>
 	<l id="1669">C’est à vous d’en résoudre avec votre sagesse.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1670">Je suivrai vos avis ; mais tôt, le besoin presse.</l>
 </sp>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 	<l id="1671">Traitez le sang d’Œdipe avec plus de douceur ;</l>
 	<l id="1672">Mettez le frère en terre, et tirez-en la sœur.</l>
 </sp>
-<sp who="CLÉODAMAS"><speaker>CLÉODAMAS.</speaker>
+<sp who="CLÉODAMAS"><hstage><speaker>CLÉODAMAS</speaker>.</hstage>
 	<l id="1673">Sire, à trop consulter l’occasion passe :</l>
 	<l id="1674">Le ciel touche parfois aussitôt qu’il menace.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1675">Que j’ai de répugnance à cette lâcheté !</l>
 	<l id="1676">Mais il faut obéir à la nécessité :</l>
 	<l id="1677">Rendez donc ce devoir au corps de Polynice ;</l>
@@ -2564,14 +2564,14 @@
 	<l id="1680">Soit le premier effet de cette impunité.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Les même, un Capitaine.</head>
-<sp who="CAPITAINE"><speaker>LE CAPITAINE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Les même, un Capitaine.</cast>
+<sp who="CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker>.</hstage>
 	<l id="1681" part="i">Sire, sire, accourez.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1681" part="f">Quelle nouvelle ? Approche.</l>
 </sp>
-<sp who="CAPITAINE"><speaker>LE CAPITAINE.</speaker>
+<sp who="CAPITAINE"><hstage><speaker>LE CAPITAINE</speaker>.</hstage>
 	<l id="1682">Hémon s’est fait passage en la funeste roche</l>
 	<l id="1683">Où devait Antigone expier son forfait :</l>
 	<l id="1684">Elle en est quitte, Sire, et c’en est déjà fait ;</l>
@@ -2579,15 +2579,15 @@
 	<l id="1686">Et je crains, oui je crains quelque chose de pire...</l>
 	<l id="1687">J’en voulais approcher, mais s’élançant sur moi...</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1688">Ô trop certain augure ! Ô misérable roi !</l>
 	<l id="1689">De quel triste succès est ma rage suivie !</l>
 	<l id="1690">Courons, sauvons mon fils, ou c’est fait de ma vie.</l>
 <stage>Ils sortent</stage>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Hémon, près du corps d’Antigone, dans le tombeau de la roche ; Ismène.</head>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Hémon, près du corps d’Antigone, dans le tombeau de la roche ; Ismène.</cast>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1691">Beau corps, sacrés débris du chef d’œuvre des cieux,</l>
 	<l id="1692">Beaux restes d’Antigone, ouvre encor les yeux,</l>
 	<l id="1693">Jeune soleil d’amour éteint en ton aurore,</l>
@@ -2606,7 +2606,7 @@
 	<l id="1705">Mais, Madame, arrêtez ces inutiles larmes,</l>
 	<l id="1706">Et contez moi sa mort. Où prit-elle des armes ?</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="1707">Le soir qu’elle partit pour ce pieux dessein</l>
 	<l id="1708">Elle tenait caché ce poignard dans son sein,</l>
 	<l id="1709">Pour demeurer par lui maîtresse de sa vie</l>
@@ -2622,7 +2622,7 @@
 	<l id="1719">C’est un nom qu’elle emporte au-delà du trépas,</l>
 	<l id="1720">Et que dans l’oubli elle n’oubliera pas.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1721">Allons donc, mon amour, où la sienne m’invite ;</l>
 	<l id="1722">Payons-lui cet honneur qui passe pour mérite.</l>
 	<l id="1723">Ah ! S’il plaisait aux dieux que, pour mourir cent fois,</l>
@@ -2647,18 +2647,18 @@
 	<l id="1742">Et tous font ton office et te chargent de proie.</l>
 <stage>Il veut tirer son épée ; Ismène le retient.</stage>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>.</hstage>
 	<l id="1743">Eh ! Que ferais-je, Hémon ? Ne m’abandonnez pas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE IX. Les mêmes, Créon, Éphise, Cléodamas.</head>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head><cast>Les mêmes, Créon, Éphise, Cléodamas.</cast>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1744">Mon fils, quel désespoir trouble votre pensée,</l>
 	<l id="1745">Et de quel vain regret est votre âme pressée ?</l>
 	<l id="1746">À quel point vous emporte une funeste amour !</l>
 	<l id="1747">Faites grâce à celui dont vous tenez le jour.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON, tyrant son épée.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>, tyrant son épée.</hstage>
 	<l id="1748">Retirez-vous, barbare ; évitez ma colère :</l>
 	<l id="1749">Je n’ai plus de respect, ni connais plus mon père.</l>
 	<l id="1750">L’état où m’a réduit votre inhumanité</l>
@@ -2670,12 +2670,12 @@
 	<l id="1756">Ce corps qui fut à vous reste en votre puissance,</l>
 	<l id="1757">Et vous va par sa mort payer ma naissance.</l>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1758">Barbare, achève donc, achève ton dessein ;</l>
 	<l id="1759">Le coup est imparfait s’il ne passe en mon sein,</l>
 	<l id="1760">Et tu ne meurs pas tout si le jour me demeure.</l>
 </sp>
-<sp who="HÉMON"><speaker>HÉMON.</speaker>
+<sp who="HÉMON"><hstage><speaker>HÉMON</speaker>.</hstage>
 	<l id="1761">Bientôt, bientôt le ciel vous marquera votre heure :</l>
 	<l id="1762">Cruel, ne doutez pas que son bras tout-puissant</l>
 	<l id="1763">Ne s’arme tôt ou tard pour le sang innocent ;</l>
@@ -2697,20 +2697,20 @@
 	<l id="1779">Achevez notre hymen en l’empire des morts.</l>
 <stage>Il meurt sur le corps d’Antigone.</stage>
 </sp>
-<sp who="CRÉON"><speaker>CRÉON.</speaker>
+<sp who="CRÉON"><hstage><speaker>CRÉON</speaker>.</hstage>
 	<l id="1780">Ô mort ! Joins mon trépas aux effets de ma rage !</l>
 	<l id="1781">Sors, mon âme, et mets fin à ce tragique ouvrage.</l>
 <stage>Il s’évanouit.</stage>
 </sp>
-<sp who="ÉPHISE"><speaker>ÉPHISE.</speaker>
+<sp who="ÉPHISE"><hstage><speaker>ÉPHISE</speaker>.</hstage>
 	<l id="1782">Il tombe évanoui, sans force et sans chaleur.</l>
 	<l id="1783">Tu devais, vain regret, précéder ce malheur !</l>
 </sp>
-<sp who="CLÉODAMAS"><speaker>CLÉODAMAS.</speaker>
+<sp who="CLÉODAMAS"><hstage><speaker>CLÉODAMAS</speaker>.</hstage>
 	<l id="1784">Ô ciel ! Qu’aux châtiments ta justice est sévère,</l>
 	<l id="1785">Et qu’il est dangereux d’exciter ta colère.</l>
 </sp>
-<sp who="ISMÈNE"><speaker>ISMÈNE, à part.</speaker>
+<sp who="ISMÈNE"><hstage><speaker>ISMÈNE</speaker>, à part.</hstage>
 	<l id="1786">Lâche, ne puis-je donc faire un dernier effort ?</l>
 	<l id="1787">Mourrai-je mille fois pour la peur d’une mort ?</l>
 </sp>

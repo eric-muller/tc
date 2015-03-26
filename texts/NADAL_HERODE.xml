@@ -65,8 +65,8 @@
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Salomé, Philon.</head>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Salomé, Philon.</cast>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1">Oui, des desseins qu’enfante un trop juste courroux,</l>
 	<l id="2">Ma prudence, Philon, se repose sur vous.</l>
 	<l id="3">Je vais trouver Hérode : attendez Alexandre :</l>
@@ -76,12 +76,12 @@
 	<l id="7">Il revient ébloui de la faveur de Rome.</l>
 	<l id="8">Je vous laisse ; songez que vous servez Salomé.</l>
 </sp>
-<sp who="PHILON"><speaker>PHILON.</speaker>
+<sp who="PHILON"><hstage><speaker>PHILON</speaker>.</hstage>
 	<l id="9">Madame, je ferai tout ce que j’ai promis.</l>
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="PHILON"><speaker>PHILON, seul.</speaker>
+<sp who="PHILON"><hstage><speaker>PHILON</speaker>, seul.</hstage>
 	<l id="10">Philon, quels intérêts en tes mains sont remis ?</l>
 	<l id="11">Poursuis, quoiqu’en secret la pitié te condamne,</l>
 	<l id="12">Remets à ses destins le fils de Mariamne,</l>
@@ -90,14 +90,14 @@
 	<l id="15">Qu’un vain peuple pour lui s’empresse ou le déplore.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Alexandre, Philon.</head>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Alexandre, Philon.</cast>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="16" part="i">Que fait le Roi ?</l>
 </sp>
-<sp who="PHILON"><speaker>PHILON.</speaker>
+<sp who="PHILON"><hstage><speaker>PHILON</speaker>.</hstage>
 	<l id="16" part="f">Seigneur, on n’entre point encore.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="17">Approchez-vous, Philon. Tandis que dans ces lieux,</l>
 	<l id="18">Mon père se dérobe encore à tous les yeux,</l>
 	<l id="19">Puis-je m’ouvrant à vous sans péril et sans crainte,</l>
@@ -105,7 +105,7 @@
 	<l id="21">Et dans le cœur d’Hérode encor mal affermi,</l>
 	<l id="22">Au milieu de sa cour, trouverai-je un ami ?</l>
 </sp>
-<sp who="PHILON"><speaker>PHILON.</speaker>
+<sp who="PHILON"><hstage><speaker>PHILON</speaker>.</hstage>
 	<l id="23">Seigneur, depuis longtemps vous devez me connaître.</l>
 	<l id="24">Reste de ces Héros dont le Ciel vous fit naître,</l>
 	<l id="25">L’auriez-vous oublié ? De tous les fils du Roi,</l>
@@ -122,7 +122,7 @@
 	<l id="36">Hérode même aux yeux de Solime charmée</l>
 	<l id="37">Par quel accueil, Seigneur, digne de votre foi...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="38">Dois-je me confier aux caresses du Roi ?</l>
 	<l id="39">Ai-je donc oublié que sa haine couverte</l>
 	<l id="40">Me conduisit à Rome, y poursuivit ma perte ?</l>
@@ -179,7 +179,7 @@
 	<l id="91">Et parmi les honneurs que la Cour me défère,</l>
 	<l id="92">N’ai-je pu qu’en public entretenir mon père ?</l>
 </sp>
-<sp who="PHILON"><speaker>PHILON.</speaker>
+<sp who="PHILON"><hstage><speaker>PHILON</speaker>.</hstage>
 	<l id="93">Sans doute il n’a pu voir qu’avec des yeux jaloux</l>
 	<l id="94">Ce zèle que le peuple a témoigné pour vous.</l>
 	<l id="95">Votre retour a fait la publique allégresse :</l>
@@ -189,7 +189,7 @@
 	<l id="99">Des grands Asmonéens la gloire vit encore,</l>
 	<l id="100">Et le peuple en effet le hait et vous adore.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="101">Ah ! Si je le croyais, si maître de leurs cœurs...</l>
 	<l id="102">Mais comment accorder leur zèle et mes malheurs ?</l>
 	<l id="103">Non, non, je sais en eux quelle aveugle manie,</l>
@@ -201,19 +201,19 @@
 	<l id="109">Je laissais Glaphira parmi mes ennemis ;</l>
 	<l id="110">Et son Trône, sa main, son cœur m’étaient promis.</l>
 </sp>
-<sp who="PHILON"><speaker>PHILON.</speaker>
+<sp who="PHILON"><hstage><speaker>PHILON</speaker>.</hstage>
 	<l id="111">Le Roi la voit toujours avec des yeux de père ;</l>
 	<l id="112">Il lui croit retrouver les traits de votre mère ;</l>
 	<l id="113">Sa présence le flatte ; et calmant son ennui,</l>
 	<l id="114">Elle peut moins sur vous, qu’elle ne peut sur lui.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="115">On dit que de ma mort attendant la nouvelle</l>
 	<l id="116">Mon frère Antipater se déclarait pour elle ;</l>
 	<l id="117">Que Salomé, appuyant ses soins auprès du Roi,</l>
 	<l id="118">Déjà lui promettait sa couronne et sa foi.</l>
 </sp>
-<sp who="PHILON"><speaker>PHILON.</speaker>
+<sp who="PHILON"><hstage><speaker>PHILON</speaker>.</hstage>
 	<l id="119">Si quelque espoir, Seigneur, avait pu les séduire,</l>
 	<l id="120">Du moins votre retour suffit pour le détruire :</l>
 	<l id="121">Mais quoi qu’enfin leur haine ait osé contre vous,</l>
@@ -224,7 +224,7 @@
 	<l id="126">Vous connaissez du Roi cette implacable sœur ;</l>
 	<l id="127">Du sang de Mariamne en vous l’orgueil la blesse.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="128">Qui moi ? Que sans rougir d’une indigne faiblesse,</l>
 	<l id="129">Je déguise mon cœur et farde mes discours ?</l>
 	<l id="130">Laissons-lui, cher Philon, de semblables détours.</l>
@@ -243,26 +243,26 @@
 	<l id="143">Glaphira me remet les droits d’un Diadème...</l>
 	<l id="144" part="i">Mais quoi l’on ouvre, entrons.</l>
 </sp>
-<sp who="PHILON"><speaker>PHILON.</speaker>
+<sp who="PHILON"><hstage><speaker>PHILON</speaker>.</hstage>
 	<l id="144" part="f">Ciel ! Salomé elle-même.</l>
 	<l id="145" part="i">Déjà...</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Salomé, Alexandre, Philon, Phédime.</head>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Salomé, Alexandre, Philon, Phédime.</cast>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="145" part="f">Prince, arrêtez, on ne voit point le Roi.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="146">Cet ordre, quel qu’il soit, peut-il être pour moi ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="147" part="i">L’ordre est pour tous, Seigneur.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="147" part="f">Quoi, Madame, sa vue</l>
 	<l id="148">Libre à vous seule ici, me serait défendue ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="149">Ignorez-vous, Seigneur, quels transports douloureux</l>
 	<l id="150">Agitent chaque jour ce Prince malheureux ?</l>
 	<l id="151">Ce n’est plus ce Héros que la sagesse inspire,</l>
@@ -283,7 +283,7 @@
 	<l id="166">Et loin de le calmer, irrite ses douleurs.</l>
 	<l id="167">De ses rigueurs enfin Hérode est la victime...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="168">Madame, sa douleur n’est que trop légitime ;</l>
 	<l id="169">Et je ne doute point que ses ressentiments</l>
 	<l id="170">Ne le livrent sans casse aux plus cruels tourments.</l>
@@ -292,12 +292,12 @@
 	<l id="173">Mêler ses pleurs aux miens... Ah ! Loin de m’éviter,</l>
 	<l id="174">Il est d’autres objets qu’il devrait écarter.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="175">Seigneur, dans une Cour à ses vœux asservie,</l>
 	<l id="176">Ce sont ses seuls regrets qui tourmentent sa vie ;</l>
 	<l id="177">Ses Juifs pour lui de crainte et d’amour prévenus...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="178">Madame, tous les cœurs ne lui sont pas connus :</l>
 	<l id="179">Je ne le vois que trop : mais quoi qu’il en puisse être,</l>
 	<l id="180">Sans son ordre à ses yeux je crois devoir paraître.</l>
@@ -306,12 +306,12 @@
 	<l id="183">Où rien ne s’offre à moi qui ne me puisse apprendre</l>
 	<l id="184">Quels sont les droits d’un sang dont ils m’ont vu descendre ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="185">Je le vois, le courroux dont vous êtes épris</l>
 	<l id="186">Vous a fait oublier ce qu’ils vous ont appris ;</l>
 	<l id="187" part="i">Et loin de modérer...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="187" part="f">Je vous entends, Madame ;</l>
 	<l id="188">Je vois quel souvenir on rappelle à mon âme.</l>
 	<l id="189">Vous voulez, insultant encore à ma douleur,</l>
@@ -322,16 +322,16 @@
 	<l id="194">Peut-être quelque jour retomberont sur eux.</l>
 	<l id="195" part="i">Adieu.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ, à part.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>, à part.</hstage>
 	<l id="195" part="f">Va, c’est à toi de craindre ma colère.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Salomé, Philon, Phédime.</head>
-<sp who="PHILON"><speaker>PHILON.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Salomé, Philon, Phédime.</cast>
+<sp who="PHILON"><hstage><speaker>PHILON</speaker>.</hstage>
 	<l id="196">J’ai de tous ses desseins découvert le mystère.</l>
 	<l id="197">Dans ses ressentiments toujours plus affermi...</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="198">Je sais jusqu’à quel point il est mon ennemi,</l>
 	<l id="199">Et vois depuis longtemps ce qu’il en faut attendre,</l>
 	<l id="200">Mon courroux inquiet brûle de vous entendre ;</l>
@@ -340,11 +340,11 @@
 	<l id="203">L’éclat de son courroux rend sa perte certaine.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Salomé, Phédime.</head>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Salomé, Phédime.</cast>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="204">Tu t’étonnes, Phédime, et j’entrevois ta peine.</l>
 </sp>
-<sp who="PHÉDIME"><speaker>PHÉDIME.</speaker>
+<sp who="PHÉDIME"><hstage><speaker>PHÉDIME</speaker>.</hstage>
 	<l id="205">Ô Ciel ! Que faites-vous, Madame, en quelles mains</l>
 	<l id="206">Osez-vous confier de semblables desseins ?</l>
 	<l id="207">Tout ce qu’a fait Philon n’a donc pu vous apprendre</l>
@@ -352,7 +352,7 @@
 	<l id="209">Les malheurs de la mère, et les périls du fils,</l>
 	<l id="210">Longtemps dans ce Palais ont excité ses cris.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="211">Hé ne connais-tu pas ces flatteurs mercenaires ?</l>
 	<l id="212">Auprès de vous voilà leurs retours ordinaires.</l>
 	<l id="213">Inquiets, incertains, leur cœur toujours flottant</l>
@@ -370,7 +370,7 @@
 	<l id="225">Phédime, il ne va point me servir à demi :</l>
 	<l id="226">Un traître va toujours plus loin qu’un ennemi.</l>
 </sp>
-<sp who="PHÉDIME"><speaker>PHÉDIME.</speaker>
+<sp who="PHÉDIME"><hstage><speaker>PHÉDIME</speaker>.</hstage>
 	<l id="227">Par tant d’événements depuis longtemps instruite,</l>
 	<l id="228">Madame, de vos soins craignez plutôt la suite :</l>
 	<l id="229">D’Alexandre plutôt recherchez l’amitié ;</l>
@@ -379,7 +379,7 @@
 	<l id="232">Tout a changé pour lui, changez aussi vous-même ;</l>
 	<l id="233">Et quand pour lui les vœux se réunissent tous...</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="234">Et c’est là ce qui doit exciter mon courroux,</l>
 	<l id="235">Toi-même, tu veux donc que ma haine stérile,</l>
 	<l id="236">Le revoie en ces lieux triomphant et tranquille ?</l>
@@ -396,25 +396,25 @@
 	<l id="247">Non, non, il faut combler un espoir légitime ;</l>
 	<l id="248">Justifier ma haine, et jouir de mon crime.</l>
 </sp>
-<sp who="PHÉDIME"><speaker>PHÉDIME.</speaker>
+<sp who="PHÉDIME"><hstage><speaker>PHÉDIME</speaker>.</hstage>
 	<l id="249">Je vous vis les poursuivre et ne rien épargner.</l>
 	<l id="250" part="i">Mais que prétendez-vous, Madame, enfin ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="250" part="f">Régner.</l>
 	<l id="251">Voilà le seul objet et l’espoir qui m’entraîne.</l>
 	<l id="252">Ce n’est que pour cela que j’ai perdu la Reine ;</l>
 	<l id="253">Que j’écartai ses fils ; que d’Hérode à mes yeux</l>
 	<l id="254">La gloire est importune et le sang odieux.</l>
 </sp>
-<sp who="PHÉDIME"><speaker>PHÉDIME.</speaker>
+<sp who="PHÉDIME"><hstage><speaker>PHÉDIME</speaker>.</hstage>
 	<l id="255">Et le sang odieux ! Mais cependant, Madame,</l>
 	<l id="256">Vos soins d’Antipater autorisent la flamme ;</l>
 	<l id="257">Et quoique dès longtemps liée à d’autres nœuds,</l>
 	<l id="258">La main de la Princesse est promise à ses vœux.</l>
 	<l id="259" part="i">Quel intérêt peut donc vous...</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="259" part="f">Arrête, Phédime.</l>
 	<l id="260">Son intérêt n’est point ici ce qui m’anime.</l>
 	<l id="261">Sur ce que je prétends ne vas point t’abuser.</l>
@@ -430,12 +430,12 @@
 	<l id="271">Et je répons enfin, pour servir ma colère,</l>
 	<l id="272">De l’attentat des fils, et de la main du père.</l>
 </sp>
-<sp who="PHÉDIME"><speaker>PHÉDIME.</speaker>
+<sp who="PHÉDIME"><hstage><speaker>PHÉDIME</speaker>.</hstage>
 	<l id="273">Et ne craignez-vous point que son cœur éperdu,</l>
 	<l id="274">Ne redemande un sang par ses mains répandu ?</l>
 	<l id="275">Et que de tant d’efforts tôt ou tard le salaire...</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="276">Écoute, contre moi si je n’ai que mon frère,</l>
 	<l id="277">De sa vengeance alors je préviendrai l’ardeur.</l>
 	<l id="278">Repose-toi sur moi du soin de ma grandeur ;</l>
@@ -443,10 +443,10 @@
 	<l id="280">Si le Ciel me trahit, j’ai besoin d’un asile ;</l>
 	<l id="281">Et c’est ce que surtout j’ai voulu ménager.</l>
 </sp>
-<sp who="PHÉDIME"><speaker>PHÉDIME.</speaker>
+<sp who="PHÉDIME"><hstage><speaker>PHÉDIME</speaker>.</hstage>
 	<l id="282">Quels lieux peuvent vous mettre à l’abri du danger ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="283">Hé ! Quoi ne sais-tu pas, sans que je te le die,</l>
 	<l id="284">Quels troubles intestins déchirent l’Arabie ;</l>
 	<l id="285">Qu’elle a gémi longtemps, et qu’un fer assassin</l>
@@ -463,22 +463,22 @@
 	<l id="296">Ce même Silléus que Solime déteste,</l>
 	<l id="297">Qui jusques dans ses murs a répandu l’effroi.</l>
 </sp>
-<sp who="PHÉDIME"><speaker>PHÉDIME.</speaker>
+<sp who="PHÉDIME"><hstage><speaker>PHÉDIME</speaker>.</hstage>
 	<l id="298" part="i">Eh bien ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="298" part="f">S’il monte au Trône il me donne sa foi.</l>
 </sp>
-<sp who="PHÉDIME"><speaker>PHÉDIME.</speaker>
+<sp who="PHÉDIME"><hstage><speaker>PHÉDIME</speaker>.</hstage>
 	<l id="299">De Rome ainsi pour lui vous briguez le suffrage ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="300">Salomé une autre fois t’en dira davantage.</l>
 	<l id="301" part="i">Antipater paraît.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Salomé, Antipater, Phédime.</head>
-<sp who="ANTIPATER"><speaker>ANTIPATER.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Salomé, Antipater, Phédime.</cast>
+<sp who="ANTIPATER"><hstage><speaker>ANTIPATER</speaker>.</hstage>
 	<l id="301" part="f">Madame, c’en est fait,</l>
 	<l id="302">De vos bontés pour moi je n’attends plus l’effet,</l>
 	<l id="303">Le retour de mon frère assure sa conquête ;</l>
@@ -486,7 +486,7 @@
 	<l id="305">La tendresse, l’amour, Solime, les Romains,</l>
 	<l id="306">Tout remet aujourd’hui Glaphira dans ses mains.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="307">Quoi déjà son retour trouble votre courage ?</l>
 	<l id="308">Antipater ainsi s’alarme au moindre orage ?</l>
 	<l id="309">Alexandre à Solime à peine est arrivé,</l>
@@ -503,14 +503,14 @@
 	<l id="320">Ce n’est pas l’opprimer, c’est plutôt vous défendre ;</l>
 	<l id="321">C’est rejeter sur lui ses cruels attentats.</l>
 </sp>
-<sp who="ANTIPATER"><speaker>ANTIPATER.</speaker>
+<sp who="ANTIPATER"><hstage><speaker>ANTIPATER</speaker>.</hstage>
 	<l id="322">Hé bien, Madame, allons, disposez de mon bras.</l>
 	<l id="323">Dans mon juste transport il n’est rien qui m’arrête.</l>
 	<l id="324">Parlez, mon désespoir vous répand de sa tête.</l>
 	<l id="325">Parmi de grands rivaux, entre les fils des Rois,</l>
 	<l id="326">La haine devient juste, et le crime a ses droits.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="327">Je conçois vos douleurs ; il suffit, le temps presse.</l>
 	<l id="328">Je vais trouver Hérode, allez voir la Princesse.</l>
 	<l id="329">Surtout à ses dédains laissez un libre cours ;</l>
@@ -523,15 +523,15 @@
 </div2>
 </div1>
 <div1 type="acte" n="1"><head>ACTE II</head>
-<div2 type="scene" n="2"><head>SCÈNE PREMIÈRE. Glaphira, Phénice.</head>
-<sp who="PHÉNICE"><speaker>PHÉNICE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE PREMIÈRE.</head><cast>Glaphira, Phénice.</cast>
+<sp who="PHÉNICE"><hstage><speaker>PHÉNICE</speaker>.</hstage>
 	<l id="335">Madame, enfin le Ciel touché de vos alarmes ;</l>
 	<l id="336">Va tarir pour jamais la source de vos larmes ;</l>
 	<l id="337">Alexandre lui-même à vos désirs rendu,</l>
 	<l id="338">Va presser un hymen si longtemps attendu ;</l>
 	<l id="339">Par ses derniers malheurs sa faveur affermie...</l>
 </sp>
-<sp who="GLAPHIRA"><speaker>GLAPHIRA.</speaker>
+<sp who="GLAPHIRA"><hstage><speaker>GLAPHIRA</speaker>.</hstage>
 	<l id="340">Phénice, connais mieux sa cruelle ennemie.</l>
 	<l id="341">Les caresses du Roi, l’appui de l’Empereur,</l>
 	<l id="342">Tout ce qui t’a flattée, irrite sa fureur.</l>
@@ -540,7 +540,7 @@
 	<l id="345">Qu’elle ne règne seule en écartant le bras</l>
 	<l id="346">Qui pouvait la punir de tous ses attentats.</l>
 </sp>
-<sp who="PHÉNICE"><speaker>PHÉNICE.</speaker>
+<sp who="PHÉNICE"><hstage><speaker>PHÉNICE</speaker>.</hstage>
 	<l id="347">Madame, je sais trop que la faveur de Rome,</l>
 	<l id="348">Que son retour aigrit la haine de Salomé ;</l>
 	<l id="349">Mais en vous son destin trouve un nouvel appui ;</l>
@@ -551,7 +551,7 @@
 	<l id="354">Votre seule présence a calmé ses fureurs.</l>
 	<l id="355">Il croit revoir en vous tous les traits de la Reine.</l>
 </sp>
-<sp who="GLAPHIRA"><speaker>GLAPHIRA.</speaker>
+<sp who="GLAPHIRA"><hstage><speaker>GLAPHIRA</speaker>.</hstage>
 	<l id="356">Hé quoi ! Ne sais-tu pas quel caprice l’entraîne ?</l>
 	<l id="357">Qu’un plus léger soupçon facile à s’alarmer,</l>
 	<l id="358">Il cède à des transports que rien ne peut calmer ;</l>
@@ -561,15 +561,15 @@
 	<l id="362" part="i">Ciel ! C’est Antipater.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Glaphira, Antipater, Phénice.</head>
-<sp who="ANTIPATER"><speaker>ANTIPATER.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Glaphira, Antipater, Phénice.</cast>
+<sp who="ANTIPATER"><hstage><speaker>ANTIPATER</speaker>.</hstage>
 	<l id="362" part="f">Vous ne m’attendiez pas,</l>
 	<l id="363">Je le vois ; mon abord a paru vous surprendre,</l>
 	<l id="364">Madame, vos regards demandaient Alexandre.</l>
 	<l id="365">Vous veniez dans ces lieux dans un espoir plus doux.</l>
 	<l id="366" part="i">Pour lui les mêmes soins...</l>
 </sp>
-<sp who="GLAPHIRA"><speaker>GLAPHIRA.</speaker>
+<sp who="GLAPHIRA"><hstage><speaker>GLAPHIRA</speaker>.</hstage>
 	<l id="366" part="f">Et sur quoi pensez-vous,</l>
 	<l id="367">Prince, que son retour ainsi que son absence,</l>
 	<l id="368">Ait dans mes sentiments mis quelque différence ?</l>
@@ -580,13 +580,13 @@
 	<l id="373">Lui seul par sa présence en arrête le cours,</l>
 	<l id="374">Et me trouve encor ce que je fus toujours.</l>
 </sp>
-<sp who="ANTIPATER"><speaker>ANTIPATER.</speaker>
+<sp who="ANTIPATER"><hstage><speaker>ANTIPATER</speaker>.</hstage>
 	<l id="375">Je sais que de Juda descendu par sa mère,</l>
 	<l id="376">Son sang l’appelle au Trône, où s’éleva mon père ;</l>
 	<l id="377">Mais de ce même sang que sert en lui l’éclat,</l>
 	<l id="378">Si j’ai pour moi, Madame, Auguste et le Sénat ?</l>
 </sp>
-<sp who="GLAPHIRA"><speaker>GLAPHIRA.</speaker>
+<sp who="GLAPHIRA"><hstage><speaker>GLAPHIRA</speaker>.</hstage>
 	<l id="379">Que dites-vous, Seigneur, du Sénat et d’Auguste ?</l>
 	<l id="380">Quel appui s’offre à vous sous un règne si juste ?</l>
 	<l id="381">Qu’en peut craindre Alexandre ? Arbitres seuls des Rois</l>
@@ -596,7 +596,7 @@
 	<l id="385">Lorsqu’au métier des Rois, soigneux de l’exercer,</l>
 	<l id="386" part="i">Auguste...</l>
 </sp>
-<sp who="ANTIPATER"><speaker>ANTIPATER.</speaker>
+<sp who="ANTIPATER"><hstage><speaker>ANTIPATER</speaker>.</hstage>
 	<l id="386" part="f">Hé ! Quoi, Madame, avez-vous pu penser,</l>
 	<l id="387">Que de tant de Rois Rome et rivale et maîtresse,</l>
 	<l id="388">S’asservisse en esclave à tenir sa promesse ?</l>
@@ -604,30 +604,30 @@
 	<l id="390">D’un Prince sans États relèvent les destins.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Glaphira, Alexandre, Antipater, Phénice.</head>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE? à Antipater.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Glaphira, Alexandre, Antipater, Phénice.</cast>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>? à Antipater.</hstage>
 	<l id="391">Prince, je vous entends. Votre âme ambitieuse</l>
 	<l id="392">À nourrir son erreur toujours ingénieuse,</l>
 	<l id="393">Prévoit des Potentats tous les conseils secrets,</l>
 	<l id="394">Et de Rome à son gré règle les intérêts.</l>
 </sp>
-<sp who="ANTIPATER"><speaker>ANTIPATER.</speaker>
+<sp who="ANTIPATER"><hstage><speaker>ANTIPATER</speaker>.</hstage>
 	<l id="395">Vous-même comptez-vous sur la faveur de Rome ?</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="396">Plus que vous ne comptez sur l’appui de Salomé.</l>
 </sp>
-<sp who="ANTIPATER"><speaker>ANTIPATER.</speaker>
+<sp who="ANTIPATER"><hstage><speaker>ANTIPATER</speaker>.</hstage>
 	<l id="397">Le Roi pour traverser lui-même vos desseins,</l>
 	<l id="398">Peut avoir ses raisons ainsi que les Romains.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="399">Du moins ce n’est qu’à lui de me les faire entendre.</l>
 	<l id="400">Pour vous, à Glaphira gardez-vous de prétendre,</l>
 	<l id="401">Accordée à ma foi, fille d’Archélaüs</l>
 	<l id="402">Je l’adore, régler votre espoir là-dessus.</l>
 </sp>
-<sp who="GLAPHIRA"><speaker>GLAPHIRA.</speaker>
+<sp who="GLAPHIRA"><hstage><speaker>GLAPHIRA</speaker>.</hstage>
 	<l id="403">Prince, n’en doutez point, plus d’un auguste titre,</l>
 	<l id="404">Du sort de Glaphira rend votre frère arbitre ;</l>
 	<l id="405">Et quand jusques ici dans l’ombre retenus</l>
@@ -638,7 +638,7 @@
 	<l id="410">Ne vient point de passer un cœur tel que le mien ?</l>
 	<l id="411">Je vous laisse le soin d’en instruire Salomé...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="412">De si hautes faveurs valent l’appui de Rome ;</l>
 	<l id="413">Mais si malgré l’aveu qui vient d’en éclater</l>
 	<l id="414">Rome de quelque espoir peut encor vous flatter,</l>
@@ -648,19 +648,19 @@
 	<l id="418">Vous êtes fils d’Hérode, et non le fils du Roi.</l>
 	<l id="419" part="i">Songez-y.</l>
 </sp>
-<sp who="ANTIPATER"><speaker>ANTIPATER.</speaker>
+<sp who="ANTIPATER"><hstage><speaker>ANTIPATER</speaker>.</hstage>
 	<l id="419" part="f">C’est à vous plutôt de reconnaître</l>
 	<l id="420">Qu’il n’est pas encor temps de me parler en maître,</l>
 	<l id="421">D’une mère proscrite oubliant le malheur...</l>
 <stage>Alexandre mettant la main sur son épée.</stage>
 	<l id="422" part="i">C’en est trop...</l>
 </sp>
-<sp who="GLAPHIRA"><speaker>GLAPHIRA.</speaker>
+<sp who="GLAPHIRA"><hstage><speaker>GLAPHIRA</speaker>.</hstage>
 	<l id="422" part="f">Le Roi vient : que faites-vous, Seigneur ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Hérode, Glaphira, Alexandre, Antipater, Phénice, Narbal, Gardes.</head>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Hérode, Glaphira, Alexandre, Antipater, Phénice, Narbal, Gardes.</cast>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="423">Que vois-je, mes enfants ? Qu’ai-je entendu, ma fille ?</l>
 	<l id="424">Quel désordre nouveau divise ma famille ?</l>
 	<l id="425">Et par quel attentat prompte à se signaler,</l>
@@ -675,17 +675,17 @@
 	<l id="434">Vous ne me dites rien ? Répondez, je le veux,</l>
 	<l id="435">Éclaircissez mon trouble, ou craignez ma colère.</l>
 </sp>
-<sp who="ANTIPATER"><speaker>ANTIPATER.</speaker>
+<sp who="ANTIPATER"><hstage><speaker>ANTIPATER</speaker>.</hstage>
 	<l id="436">J’ignore quels motifs ont irrité mon frère :</l>
 	<l id="437">Mais loin de m’accorder ce qu’il me doit d’égards,</l>
 	<l id="438">Fils d’Hérode, j’attire à peine ses regards.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="439">Hé quoi ! Mon fils, déjà votre orgueil se déclare ?</l>
 	<l id="440">Ne vous suffit-il pas du rang qui vous sépare ?</l>
 	<l id="441">Et n’est-ce point assez que mon cœur prévenu...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="442">Antipater, Seigneur, ne vous est pas connu.</l>
 	<l id="443">Je le vois : son orgueil excitant sa tendresse,</l>
 	<l id="444">Ose me disputer la main de la Princesse ;</l>
@@ -696,7 +696,7 @@
 	<l id="449">Seigneur, pour traverser un hymen que j’attends,</l>
 	<l id="450" part="i">Vous-même ; les Romains...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="450" part="f">Ah ! Qu’est-ce que j’entends ?</l>
 	<l id="451">Cruel, c’est donc ainsi que ta coupable envie</l>
 	<l id="452">Cherche à persécuter les restes de ma vie ?</l>
@@ -709,28 +709,28 @@
 	<l id="459">Et toi va les forcer d’oublier ton audace,</l>
 	<l id="460">Et n’attends plus de moi de pardon sans leur grâce.</l>
 </sp>
-<sp who="ANTIPATER"><speaker>ANTIPATER.</speaker>
+<sp who="ANTIPATER"><hstage><speaker>ANTIPATER</speaker>.</hstage>
 	<l id="461" part="i">Ah ! Seigneur, je pourrais !...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="461" part="f">Oses-tu résister,</l>
 	<l id="462">Téméraire ? Obéis, ou crains de m’irriter.</l>
 	<l id="463">Au gré de vos désirs, Madame, tout conspire ;</l>
 	<l id="464">Tel est l’ordre du Ciel que lui-même m’inspire.</l>
 </sp>
-<sp who="GLAPHIRA"><speaker>GLAPHIRA.</speaker>
+<sp who="GLAPHIRA"><hstage><speaker>GLAPHIRA</speaker>.</hstage>
 	<l id="465">D’un Héros tel que vous puissent les justes lois</l>
 	<l id="466">Affermir le repos acquis par tant d’exploits,</l>
 	<l id="467">Et s’il se peut au prix même de nos années,</l>
 	<l id="468">Plus loin dans l’avenir porter les destinées.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="469">Conduisez la Princesse à son appartement,</l>
 	<l id="470">Mon fils, et vous, Narbal, qu’on me laisse un moment.</l>
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V.</head>
-<sp who="HÉRODE"><speaker>HÉRODE, seul.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>, seul.</hstage>
 	<l id="471">C’en est fait, la Princesse entre mes mains remise,</l>
 	<l id="472">Recevra de mon fils la foi déjà promise :</l>
 	<l id="473">Mais de ton cœur pour elle, Hérode en ces moments</l>
@@ -769,26 +769,26 @@
 	<l id="506">Je puis du Ciel peut-être apaiser le courroux...</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Hérode, Salomé.</head>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Hérode, Salomé.</cast>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="507">Croirai-je un bruit, Seigneur, qui vient de se répandre ?</l>
 	<l id="508">La Princesse va-t-elle épouser Alexandre ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="509">Le dessein en est pris, ma sœur, et dès demain</l>
 	<l id="510">Mon fils de Glaphira doit recevoir la main.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="511">Lui faites-vous du sceptre un second sacrifice ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="512">Si je m’en dépouillais, je me ferais justice :</l>
 	<l id="513">Et peut-être qu’après tant de troubles, de maux,</l>
 	<l id="514">Je ne dois qu’à ce prix espérer du repos.</l>
 	<l id="515">Quoiqu’il en soit, ma foi, mon intérêt, ma gloire,</l>
 	<l id="516" part="i">Tout conspire...</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="516" part="f">Seigneur, c’est à moi de vous croire.</l>
 	<l id="517">Et d’ailleurs pour ce fils votre cœur généreux</l>
 	<l id="518">D’un peuple tout entier va seconder les vœux</l>
@@ -798,10 +798,10 @@
 	<l id="522">Lorsqu’un pouvoir suprême en ses mains est remis ?</l>
 	<l id="523">Que Rome, le Sénat embrassent sa querelle...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="524">De mon peuple pour lui j’ignorais ce grand zèle.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="525">Ah ! Vous-même, Seigneur, rappelez-vous ce jour</l>
 	<l id="526">Qui sembla d’un triomphe honorer son retour ;</l>
 	<l id="527">Quand tout Solime en foule inondant son passage,</l>
@@ -811,24 +811,24 @@
 	<l id="531">Et se livrant sans cesse à son zèle crédule,</l>
 	<l id="532">Croyait revoir en lui son oncle Aristobule.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="533">Croirai-je que trop plein de son espoir flatteur,</l>
 	<l id="534">Il ouvre encor l’oreille à ce bruit séducteur ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="535">Je ne sais : mais, Seigneur, rarement la nature</l>
 	<l id="536">D’un cœur ambitieux étouffe le murmure.</l>
 	<l id="537">Le Trône est à ses vœux un titre suffisant ;</l>
 	<l id="538">Et le règne d’un père est un fardeau pesant.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="539">Quel que puisse être enfin l’orgueil qui le dévore,</l>
 	<l id="540">Vous le voyez, le jour n’est pas bien loin encore,</l>
 	<l id="541">Où la main de mon fils doit me fermer les yeux.</l>
 	<l id="542">Trop content jusques là d’un hymen glorieux,</l>
 	<l id="543" part="i">Il peut...</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="543" part="f">Ah ! S’il vous faut dire ce que je pense,</l>
 	<l id="544">Espérez-vous, Seigneur, que sa reconnaissance</l>
 	<l id="545">Éteigne le courroux dont il est animé ?</l>
@@ -842,19 +842,19 @@
 	<l id="553">Ah ! Si seul et proscrit on vit ses attentats,</l>
 	<l id="554">Gendre d’Archélaüs que ne fera-t-il pas ?</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="555">Ah ! Si l’ingrat... mais quoi manquant à ma promesse,</l>
 	<l id="556">Pourrais-je de ces lieux renvoyer la Princesse ?</l>
 	<l id="557">Rompre tous les traités qui me peuvent lier...</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="558">Vous-même à votre lit daignez l’associer.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="559">Moi ! L’épouser, ô Ciel ! Que d’autres feux éprise ;</l>
 	<l id="560" part="i">Mon âme encor...</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="560" part="f">D’où peut naître cette surprise ?</l>
 	<l id="561">D’une illustre alliance, Archélaüs jaloux,</l>
 	<l id="562">Dans votre fils, Seigneur, n’envisageait que vous.</l>
@@ -866,7 +866,7 @@
 	<l id="568">Le Ciel a commencé, Seigneur, faites le reste.</l>
 	<l id="569">Que ces mêmes apprêts que l’on vient d’ordonner...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="570">Ah ! Quel conseil, Madame, osez-vous me donner ?</l>
 	<l id="571">Dans l’état où je suis, est-ce à moi qu’il s’adresse ?</l>
 	<l id="572">Cruelle, où voulez-vous amener ma tendresse ?</l>
@@ -891,7 +891,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII.</head>
-<sp who="SALOMÉ"><speaker>SALOMÉ, seule.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>, seule.</hstage>
 	<l id="591">Va, je te connais mal, ou malgré l’apparence,</l>
 	<l id="592">Ma haine doit sur toi fonder plus d’espérance.</l>
 	<l id="593">Ce soupçon dans ton cœur heureusement jeté,</l>
@@ -915,12 +915,12 @@
 	<l id="611">Lui-même il va servir le courroux qui l’opprime...</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Salomé, Phédime.</head>
-<sp who="PHÉDIME"><speaker>PHÉDIME.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Salomé, Phédime.</cast>
+<sp who="PHÉDIME"><hstage><speaker>PHÉDIME</speaker>.</hstage>
 	<l id="612">Un bruit court que Thirron a paru dans Solime,</l>
 	<l id="613" part="i">Madame, et son retour...</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="613" part="f">Thirron ! Que me dis-tu ?</l>
 	<l id="614">Lui qui vit le Sénat protéger sa vertu,</l>
 	<l id="615">Et qui même depuis la mort de Mariamne</l>
@@ -938,7 +938,7 @@
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="THIRRON"><speaker>THIRRON, seul.</speaker>
+<sp who="THIRRON"><hstage><speaker>THIRRON</speaker>, seul.</hstage>
 	<l id="625">Arrête ici, Thirron. Alexandre en ces lieux,</l>
 	<l id="626">En entrant chez le Roi, va s’offrir à tes yeux.</l>
 	<l id="627">L’instant est favorable au zèle qui me guide.</l>
@@ -963,12 +963,12 @@
 	<l id="646">Salomé ici s’avance, et sort de chez le Roi.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Salomé, Thirron, Phédime.</head>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Salomé, Thirron, Phédime.</cast>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="647">Quoi ! Vous ici, Thirron ! Quelle cause imprévue</l>
 	<l id="648">Vous ramène en des lieux qui blessaient votre vue ?</l>
 </sp>
-<sp who="THIRRON"><speaker>THIRRON.</speaker>
+<sp who="THIRRON"><hstage><speaker>THIRRON</speaker>.</hstage>
 	<l id="649">Je l’avouerai, Madame ; et ces augustes lieux</l>
 	<l id="650">N’ont pas toujours paru les mêmes à mes yeux.</l>
 	<l id="651">Je les ai vus baignés et de sang et de larmes ;</l>
@@ -980,7 +980,7 @@
 	<l id="657">D’un peuple qui l’adore il dissipe l’effroi,</l>
 	<l id="658">Et moi-même à ce prix je reconnais mon Roi.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="659">Ainsi depuis longtemps à son sort enchaînée,</l>
 	<l id="660">Votre foi se conduit selon sa destinée,</l>
 	<l id="661">Et le cœur de Thirron jusqu’ici combattu,</l>
@@ -990,7 +990,7 @@
 	<l id="665">Sa gloire ne permet aucun dessein couvert ;</l>
 	<l id="666">Et c’est être perfide au moins à cœur ouvert.</l>
 </sp>
-<sp who="THIRRON"><speaker>THIRRON.</speaker>
+<sp who="THIRRON"><hstage><speaker>THIRRON</speaker>.</hstage>
 	<l id="667">Un tel nom, je l’avoue, excite ma surprise ;</l>
 	<l id="668">Et surtout en ces lieux connu pour ma franchise,</l>
 	<l id="669">Jadis d’Hérode en moi le glorieux accueil,</l>
@@ -1000,7 +1000,7 @@
 	<l id="673">Je n’ai point cru par là qu’on me pût outrager :</l>
 	<l id="674">Entre Salomé et moi, c’est au Roi de juger.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="675">Où tendent ces discours ? Quelle est cette menace ?</l>
 	<l id="676">Mais je ne vois que trop d’où vous naît tant d’audace.</l>
 	<l id="677">Le Prince est de retour : qui sert ses attentats,</l>
@@ -1009,26 +1009,26 @@
 <stage>À part.</stage>
 	<l id="680">Ô Ciel de mes complots aurait-il pu s’instruire ?</l>
 </sp>
-<sp who="THIRRON"><speaker>THIRRON.</speaker>
+<sp who="THIRRON"><hstage><speaker>THIRRON</speaker>.</hstage>
 <stage>À part.</stage>
 	<l id="681">C’est à toi de trembler, contre toi dans ces lieux</l>
 	<l id="682">Tu me revois chargé d’un secret odieux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Alexandre, Thirron.</head>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Alexandre, Thirron.</cast>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="683">Est-ce vous, cher Thirron, que le Ciel me renvoie ?</l>
 	<l id="684">Témoin de mes malheurs soyez-le de ma joie.</l>
 	<l id="685">Sans crainte, et sans relâche arraché sur mes pas,</l>
 	<l id="686">À mes justes transports daignez ouvrir vos bras.</l>
 </sp>
-<sp who="THIRRON"><speaker>THIRRON.</speaker>
+<sp who="THIRRON"><hstage><speaker>THIRRON</speaker>.</hstage>
 	<l id="687">Honorez moins, Seigneur, le zèle qui m’anime,</l>
 	<l id="688">Mon devoir sur vos pas m’appelle dans Solime.</l>
 	<l id="689">Heureux ! Si j’y  pouvais, aux dépens de mes jours,</l>
 	<l id="690">Du destin qui vous rit éterniser le cours.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="691">Ignorez-vous quel sort, mon père me prépare ?</l>
 	<l id="692">Dans ces lieux, cher Thirron, pour moi tout se déclare.</l>
 	<l id="693">Tout est changé, le Ciel confond mes ennemis :</l>
@@ -1040,11 +1040,11 @@
 	<l id="699">Qui renaissant toujours de sa douleur amère,</l>
 	<l id="700">Vengent depuis quinze ans les malheurs de ma mère.</l>
 </sp>
-<sp who="THIRRON"><speaker>THIRRON.</speaker>
+<sp who="THIRRON"><hstage><speaker>THIRRON</speaker>.</hstage>
 	<l id="701">Je vous en crois, Seigneur : Mais il est encor temps</l>
 	<l id="702" part="i">Qu’à des transports si doux votre cœur...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="702" part="f">Ah ! J’entends.</l>
 	<l id="703">De la Reine, il est vrai, la mort n’est point vengée.</l>
 	<l id="704">Par les soins de l’amour la nature outragée</l>
@@ -1059,17 +1059,17 @@
 	<l id="713">Par là mille secours s’offrent à mon courroux ;</l>
 	<l id="714" part="i">Vos vœux bientôt contents...</l>
 </sp>
-<sp who="THIRRON"><speaker>THIRRON.</speaker>
+<sp who="THIRRON"><hstage><speaker>THIRRON</speaker>.</hstage>
 	<l id="714" part="f">Prince, que dites-vous ?</l>
 	<l id="715">Prévenu dans ces lieux d’un courroux légitime,</l>
 	<l id="716">Vous-même appréhendez d’en être la victime.</l>
 	<l id="717">Des embarras des Rois effet trop dangereux,</l>
 	<l id="718">Qu’une longue habitude a de pouvoir sur eux !</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="719">De quel effroi votre âme est-elle prévenue ?</l>
 </sp>
-<sp who="THIRRON"><speaker>THIRRON.</speaker>
+<sp who="THIRRON"><hstage><speaker>THIRRON</speaker>.</hstage>
 	<l id="720">Salomé, je le vois, ne vous est point connue :</l>
 	<l id="721">Votre malheur, Seigneur, n’a point fini son cours ;</l>
 	<l id="722">Votre père vous aime, il vous aima toujours :</l>
@@ -1094,13 +1094,13 @@
 	<l id="741">Votre hymen qui s’approche irrite son courroux ;</l>
 	<l id="742">Le moment est terrible, et décide entre vous.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="743">Et que peut contre moi la fureur de Salomé,</l>
 	<l id="744">Lorsque j’ai la faveur et l’amitié de Rome ?</l>
 	<l id="745">Contre elle et contre tous son secours m’est offert ;</l>
 	<l id="746" part="i">Et je puis...</l>
 </sp>
-<sp who="THIRRON"><speaker>THIRRON.</speaker>
+<sp who="THIRRON"><hstage><speaker>THIRRON</speaker>.</hstage>
 	<l id="746" part="f">Et c’est là, Seigneur, ce qui vous perd.</l>
 	<l id="747">C’est peu que dans ce jour sa prudence funeste</l>
 	<l id="748">Du sang Asmonéen poursuive en vous le reste ;</l>
@@ -1111,16 +1111,16 @@
 	<l id="753">Confirme des soupçons trop injustement conçus.</l>
 	<l id="754" part="i">Salomé...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="754" part="m">Hé bien, Thirron ?</l>
 </sp>
-<sp who="THIRRON"><speaker>THIRRON.</speaker>
+<sp who="THIRRON"><hstage><speaker>THIRRON</speaker>.</hstage>
 	<l id="754" part="f">Traite avec Silléus.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="755" part="i">Ciel !</l>
 </sp>
-<sp who="THIRRON"><speaker>THIRRON.</speaker>
+<sp who="THIRRON"><hstage><speaker>THIRRON</speaker>.</hstage>
 	<l id="755" part="f">Elle sait pour vous ce que Rome peut faire,</l>
 	<l id="756">Et qu’en faveur du fils elle fait grâce au père ;</l>
 	<l id="757">Que par vous Silléus perd l’appui des Romains.</l>
@@ -1130,13 +1130,13 @@
 	<l id="761">Sa haine ambitieuse en a repris on cours,</l>
 	<l id="762">Et l’achemine au Trône aux dépens de vos jours.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="763">Ah ! Plutôt elle–même elle assure sa perte.</l>
 	<l id="764">Que ne saisissons-nous l’occasion offerte ?</l>
 	<l id="765">Vous savez ses desseins, osez les révéler.</l>
 	<l id="766" part="i">Le Roi...</l>
 </sp>
-<sp who="THIRRON"><speaker>THIRRON.</speaker>
+<sp who="THIRRON"><hstage><speaker>THIRRON</speaker>.</hstage>
 	<l id="766" part="f">N’en doutez point, je saurai lui parler.</l>
 	<l id="767">Mais lorsque je me livre au zèle qui m’enflamme,</l>
 	<l id="768">Que vos justes transports s’enferment dans votre âme ?</l>
@@ -1164,8 +1164,8 @@
 	<l id="790">Seconder un projet depuis longtemps formé !</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Alexandre, Philon.</head>
-<sp who="PHILON"><speaker>PHILON.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Alexandre, Philon.</cast>
+<sp who="PHILON"><hstage><speaker>PHILON</speaker>.</hstage>
 	<l id="791">Seigneur, souffrez qu’ici je vous montre ma joie ;</l>
 	<l id="792">Thirron est dans ces lieux, le Ciel vous le renvoie :</l>
 	<l id="793">Au fils de Mariamne attaché comme moi</l>
@@ -1180,7 +1180,7 @@
 	<l id="802">Aux yeux d’un Roi cruel farde tous les objets ?</l>
 	<l id="803">Avec qui dissimule ; oui, Seigneur, il faut feindre.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="804">Je vous l’ai dit, Philon, je ne puis me contraindre ;</l>
 	<l id="805">Et mon cœur par vos soins vainement combattu,</l>
 	<l id="806">Contre mes ennemis n’admet que ma vertu.</l>
@@ -1189,11 +1189,11 @@
 	<l id="809">Que du destin pour moi balançant la rigueur ;</l>
 	<l id="810" part="i">L’hymen de Glaphira...</l>
 </sp>
-<sp who="PHILON"><speaker>PHILON.</speaker>
+<sp who="PHILON"><hstage><speaker>PHILON</speaker>.</hstage>
 	<l id="810" part="f">Que dites-vous, Seigneur ?</l>
 	<l id="811">Ignorez-vous encor quel péril vous menace ?</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="812">J’ignore mes forfaits, et non point ma disgrâce.</l>
 	<l id="813">Malgré tous les apprêts d’un hymen, je le vois,</l>
 	<l id="814">De nouveaux mouvements s’élèvent contre moi.</l>
@@ -1203,23 +1203,23 @@
 	<l id="818">Vers la Princesse encor lèverait-il les yeux ?</l>
 	<l id="819">Croit-il me traverser : et que Rome équitable...</l>
 </sp>
-<sp who="PHILON"><speaker>PHILON.</speaker>
+<sp who="PHILON"><hstage><speaker>PHILON</speaker>.</hstage>
 	<l id="820">Vous avez un rival, Seigneur, plus redoutable.</l>
 	<l id="821">Instruit de son amour, j’en ai pâli d’effroi.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="822" part="i">Et quel autre rival ai-je à craindre ?</l>
 </sp>
-<sp who="PHILON"><speaker>PHILON.</speaker>
+<sp who="PHILON"><hstage><speaker>PHILON</speaker>.</hstage>
 	<l id="822" part="f">Le Roi.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="823" part="i">Mon père ?</l>
 </sp>
-<sp who="PHILON"><speaker>PHILON.</speaker>
+<sp who="PHILON"><hstage><speaker>PHILON</speaker>.</hstage>
 	<l id="823" part="m">Oui, lui-même.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="823" part="f">Ah ! Grand Dieu, le dirai-je ?</l>
 	<l id="824">J’en rougis ; les efforts d’une main sacrilège,</l>
 	<l id="825">Dont mon âme à jamais garde le souvenir,</l>
@@ -1237,7 +1237,7 @@
 	<l id="837">Lui-même s’ose-t-il avouer mon rival ?</l>
 	<l id="838" part="i">Parlez, Philon.</l>
 </sp>
-<sp who="PHILON"><speaker>PHILON.</speaker>
+<sp who="PHILON"><hstage><speaker>PHILON</speaker>.</hstage>
 	<l id="838" part="f">Honteux de son trouble fatal,</l>
 	<l id="839">Il hâtait votre hymen, combattait sa tendresse.</l>
 	<l id="840">Mais Salomé, Seigneur, a senti sa faiblesse.</l>
@@ -1248,28 +1248,28 @@
 	<l id="845">Et qu’au moindre soupçon dont son cœur est atteint,</l>
 	<l id="846">Implacable rival, il perd tout ce qu’il craint ?</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="847" part="i">La cruelle ?</l>
 </sp>
-<sp who="PHILON"><speaker>PHILON.</speaker>
+<sp who="PHILON"><hstage><speaker>PHILON</speaker>.</hstage>
 	<l id="847" part="f">Elle-même à sa fureur en proie,</l>
 	<l id="848">Laisse voir quelques traits de sa perfide joie.</l>
 	<l id="849">Votre hymen différé, ses apprêts suspendus,</l>
 	<l id="850" part="i">De secrets mouvements...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="850" part="f">Ah ! Je n’en doute plus,</l>
 	<l id="851">Ma honte est déclarée, et mon malheur extrême...</l>
 	<l id="852" part="i">Mais parlez : Glaphira...</l>
 </sp>
-<sp who="PHILON"><speaker>PHILON.</speaker>
+<sp who="PHILON"><hstage><speaker>PHILON</speaker>.</hstage>
 	<l id="852" part="f">Seigneur, elle vous aime.</l>
 	<l id="853">Mais en elle l’orgueil peut balancer l’amour ;</l>
 	<l id="854">Et dans la pompe enfin, dans l’éclat de sa Cour,</l>
 	<l id="855">Un grand Roi lui soumet sa gloire et sa tendresse.</l>
 	<l id="856">Vous connaissez le cœur d’une jeune Princesse.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="857">Cher Philon, j’ai besoin de vos sages conseils.</l>
 	<l id="858">Souvent tant de rigueurs ont lassé mes pareils.</l>
 	<l id="859">Empêchez que ma gloire ici n’en soit ternie.</l>
@@ -1278,7 +1278,7 @@
 	<l id="862">Du sang qui m’a formé font de communs effets ;</l>
 	<l id="863">De mon cœur embrasé l’espérance séduite...</l>
 </sp>
-<sp who="PHILON"><speaker>PHILON.</speaker>
+<sp who="PHILON"><hstage><speaker>PHILON</speaker>.</hstage>
 	<l id="864">Dans ce péril, pour vous je ne vois que la fuite.</l>
 	<l id="865">Contre tant d’ennemis, contre tant d’attentats,</l>
 	<l id="866">Seigneur, la Cappadoce est ouverte à vos pas :</l>
@@ -1294,54 +1294,54 @@
 	<l id="876">Près d’Auguste avec lui votre enfance nourrie,</l>
 	<l id="877">A vu former des nœuds de mille soins suivis.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="878">Oui, Philon, c’en est fait, j’embrasse vos avis.</l>
 	<l id="879">Et que craindre ? Il s’agit de servir ma tendresse.</l>
 	<l id="880">Je vais fuir, ou plutôt enlever la Princesse :</l>
 	<l id="881">Ma gloire n’y consent que pour la conserver,</l>
 	<l id="882">C’est braver mon rival, et non pas me sauver.</l>
 </sp>
-<sp who="PHILON"><speaker>PHILON.</speaker>
+<sp who="PHILON"><hstage><speaker>PHILON</speaker>.</hstage>
 	<l id="883">Du départ à mes soins remettez la conduite.</l>
 	<l id="884">Laissez-moi partager le péril et la fuite.</l>
 	<l id="885">Quel qu’en soit le succès heureux, ou malheureux...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="886">Allez ; je m’abandonne à vos soins généreux.</l>
 	<l id="887">Ma gloire, mon amour, ma vertu, tout me presse.</l>
 	<l id="888">Je cours y disposer Thirron, et la Princesse :</l>
 	<l id="889">Mais on ouvre, Philon ; c’est elle que je vois.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Alexandre, Glaphira, Phénice.</head>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Alexandre, Glaphira, Phénice.</cast>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="890">Madame, dans ces lieux tout est changé pour moi.</l>
 	<l id="891">J’ai vu tomber ma gloire, et mon espoir s’éteindre :</l>
 	<l id="892">Mais des rigueurs du sort je n’ai point à me plaindre,</l>
 	<l id="893">Si pour moi jusqu’au bout votre cœur généreux</l>
 	<l id="894">Daigne encor dans mes mains consentir à mes vœux.</l>
 </sp>
-<sp who="GLAPHIRA"><speaker>GLAPHIRA.</speaker>
+<sp who="GLAPHIRA"><hstage><speaker>GLAPHIRA</speaker>.</hstage>
 	<l id="895">À mon amour, Seigneur, épargnez cet outrage.</l>
 	<l id="896">Doutez-vous que vos vœux n’entraînent mon suffrage ?</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="897">Hé bien, sans différer, allons, suivez mes pas.</l>
 	<l id="898">Venez, Archélaüs nous ouvre ses États.</l>
 	<l id="899">Je ne vois dans le trouble, où mon âme est réduite,</l>
 	<l id="900">Pour sauver ma vertu, que la mort, ou la fuite.</l>
 </sp>
-<sp who="GLAPHIRA"><speaker>GLAPHIRA.</speaker>
+<sp who="GLAPHIRA"><hstage><speaker>GLAPHIRA</speaker>.</hstage>
 	<l id="901">Et dans quel temps, Seigneur, éclatent vos regrets !</l>
 	<l id="902">Ces gages d’un hymen, tous ces pompeux apprêts,</l>
 	<l id="903">Que d’Hérode lui-même ordonne les la tendresse ;</l>
 	<l id="904">Ces offrandes, ces vœux que tout un peuple adresse,</l>
 	<l id="905">L’Univers attentif, le Sénat prévenu...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="906">Ah Madame ! Le Roi vous est-il bien connu ?</l>
 </sp>
-<sp who="GLAPHIRA"><speaker>GLAPHIRA.</speaker>
+<sp who="GLAPHIRA"><hstage><speaker>GLAPHIRA</speaker>.</hstage>
 	<l id="907">J’en atteste du ciel la splendeur qui m’éclaire ;</l>
 	<l id="908">Je l’ai vu se livrant à tout l’amour d’un père,</l>
 	<l id="909">En laisser éclater les plus vifs sentiments,</l>
@@ -1355,7 +1355,7 @@
 	<l id="917">Non, jamais dans ses bras, par des transports plus doux,</l>
 	<l id="918" part="i">Lui-même Archélaüs...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="918" part="f">Ah ! Que me dites-vous ?</l>
 	<l id="919">Je ne m’étonne point que l’éclat de vos charmes</l>
 	<l id="920">Porte dans les esprits le trouble et les alarmes :</l>
@@ -1365,11 +1365,11 @@
 	<l id="924">Je ne trouve à mes vœux d’obstacle que mon père ;</l>
 	<l id="925" part="i">Qu’une ardeur...</l>
 </sp>
-<sp who="GLAPHIRA"><speaker>GLAPHIRA.</speaker>
+<sp who="GLAPHIRA"><hstage><speaker>GLAPHIRA</speaker>.</hstage>
 	<l id="925" part="f">Achevez, expliquez-vous, Seigneur,</l>
 	<l id="926">Quels obstacles oppose Hérode... quelle ardeur...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="927">Hé quoi ; vous l’ignorez lorsque tout la déclare ?</l>
 	<l id="928">C’est par là qu’à mes yeux il s’est rendu si rare ;</l>
 	<l id="929">Que l’effet a trahi tous ses embrassements ;</l>
@@ -1383,11 +1383,11 @@
 	<l id="937">Dans la clarté du jour, dans l’ombre de la nuit,</l>
 	<l id="938">Une image plus douce et le frappe et le suit...</l>
 </sp>
-<sp who="GLAPHIRA"><speaker>GLAPHIRA.</speaker>
+<sp who="GLAPHIRA"><hstage><speaker>GLAPHIRA</speaker>.</hstage>
 	<l id="939">Ciel ! J’ai pu me prêter aux transports de son âme ?</l>
 	<l id="940">Moi-même jusques là j’aurais trahi ma flamme ?</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="941">Ah ! Madame, je sais que jusques à ce jour</l>
 	<l id="942">Le sort qui me poursuit respecta votre amour ;</l>
 	<l id="943">Qu’il n’osa rien tenter contre un cœur si fidèle.</l>
@@ -1395,7 +1395,7 @@
 	<l id="945">Qu’Hérode contre nous arme en vain sa fureur,</l>
 	<l id="946" part="i">Le Ciel ouvre un asile à nos pas...</l>
 </sp>
-<sp who="GLAPHIRA"><speaker>GLAPHIRA.</speaker>
+<sp who="GLAPHIRA"><hstage><speaker>GLAPHIRA</speaker>.</hstage>
 	<l id="946" part="f">Non, Seigneur,</l>
 	<l id="947">De vos persécuteurs j’entrevois l’artifice.</l>
 	<l id="948">De leurs cruels desseins c’est me rendre complice :</l>
@@ -1403,12 +1403,12 @@
 	<l id="950">Laissez-moi pénétrer un mystère odieux ;</l>
 	<l id="951" part="i">Laissez-moi voir le Roi...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="951" part="f">Vous, le revoir encore ?</l>
 	<l id="952">Que vous-même, attisant le feu qui le dévore,</l>
 	<l id="953">En proie à ses regards vous alliez vous offrir ?</l>
 </sp>
-<sp who="GLAPHIRA"><speaker>GLAPHIRA.</speaker>
+<sp who="GLAPHIRA"><hstage><speaker>GLAPHIRA</speaker>.</hstage>
 	<l id="954">Ah ! Cessez un discours que je ne puis souffrir.</l>
 	<l id="955">Alexandre oubliant sa gloire et sa vengeance,</l>
 	<l id="956">Avec ses ennemis est-il d’intelligence ?</l>
@@ -1419,20 +1419,20 @@
 	<l id="961">Modérez un transport sujet au repentir :</l>
 	<l id="962">C’est en vain que vos cris me pressent de partir.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="963">Ô Ciel ! Quel mouvement s’empare de mon âme !</l>
 	<l id="964">À partir avec moi vous balancez, Madame !</l>
 	<l id="965">Quoi, d’Hérode vous-même appuieriez l’attentat ?</l>
 	<l id="966" part="i">Et je pourrais penser ?...</l>
 </sp>
-<sp who="GLAPHIRA"><speaker>GLAPHIRA.</speaker>
+<sp who="GLAPHIRA"><hstage><speaker>GLAPHIRA</speaker>.</hstage>
 	<l id="966" part="f">Ah ! C’en est trop, ingrat.</l>
 	<l id="967">D’un injuste transport votre âme combattue,</l>
 	<l id="968">Répand jusques sur moi le poison qui la tue !</l>
 	<l id="969">Sans plus examiner quel est votre courroux,</l>
 	<l id="970">Je ne balance point à me perdre avec vous.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="971">À vous perdre, Madame ! Et quelle est votre crainte ?</l>
 	<l id="972">De quel soupçon votre âme est-elle donc atteinte ?</l>
 	<l id="973">Non, il n’est de péril pour vous qu’en ce séjour.</l>
@@ -1449,14 +1449,14 @@
 </div2>
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
-<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Glaphira, Phénice.</head>
-<sp who="PHÉNICE"><speaker>PHÉNICE.</speaker>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head><cast>Glaphira, Phénice.</cast>
+<sp who="PHÉNICE"><hstage><speaker>PHÉNICE</speaker>.</hstage>
 	<l id="983">Du trouble de vos sens quelle est la violence ?</l>
 	<l id="984">Quoi, Madame, tout cède à votre impatience ?</l>
 	<l id="985">Mille soins différents auront pu retenir</l>
 	<l id="986">Un amant sur ses pas ardent à revenir.</l>
 </sp>
-<sp who="GLAPHIRA"><speaker>GLAPHIRA.</speaker>
+<sp who="GLAPHIRA"><hstage><speaker>GLAPHIRA</speaker>.</hstage>
 	<l id="987">Hélas ! Chaque moment chasse une autre pensée.</l>
 	<l id="988">Entouré d’ennemis, dois-je croire insensée,</l>
 	<l id="989">Qu’avidement conçu dans ses jaloux transports</l>
@@ -1478,14 +1478,14 @@
 	<l id="1005">Peut-être de mes cris ton courroux irrité...</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Antipater, Glaphira, Phénice.</head>
-<sp who="ANTIPATER"><speaker>ANTIPATER.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Antipater, Glaphira, Phénice.</cast>
+<sp who="ANTIPATER"><hstage><speaker>ANTIPATER</speaker>.</hstage>
 	<l id="1006">Madame, je vous plains, le Prince est arrêté.</l>
 </sp>
-<sp who="GLAPHIRA"><speaker>GLAPHIRA.</speaker>
+<sp who="GLAPHIRA"><hstage><speaker>GLAPHIRA</speaker>.</hstage>
 	<l id="1007" part="i">Qu’entends-je ? Juste Ciel !</l>
 </sp>
-<sp who="ANTIPATER"><speaker>ANTIPATER.</speaker>
+<sp who="ANTIPATER"><hstage><speaker>ANTIPATER</speaker>.</hstage>
 	<l id="1007" part="f">Une lettre surprise,</l>
 	<l id="1008">Madame, a révélé sa coupable entreprise.</l>
 	<l id="1009">Le Roi sait tout enfin : mais son cœur combattu,</l>
@@ -1495,7 +1495,7 @@
 	<l id="1013">Il sait que des complots par sa main apprêtés</l>
 	<l id="1014" part="i">N’ont pu de votre cœur obtenir...</l>
 </sp>
-<sp who="GLAPHIRA"><speaker>GLAPHIRA.</speaker>
+<sp who="GLAPHIRA"><hstage><speaker>GLAPHIRA</speaker>.</hstage>
 	<l id="1014" part="f">Arrêtez.</l>
 	<l id="1015">Ne me dérobez point la gloire de mon crime ;</l>
 	<l id="1016">C’est sur moi que retombe un courroux légitime.</l>
@@ -1505,7 +1505,7 @@
 	<l id="1020">Seule contre un Tyran j’animai sa tendresse ;</l>
 	<l id="1021">Son devoir l’arrêtait ; et son amour plus fort...</l>
 </sp>
-<sp who="ANTIPATER"><speaker>ANTIPATER.</speaker>
+<sp who="ANTIPATER"><hstage><speaker>ANTIPATER</speaker>.</hstage>
 	<l id="1022">Pour lui de votre cœur quel est le noble effort ?</l>
 	<l id="1023">Pour le justifier vous vous faites coupable ;</l>
 	<l id="1024">Vous détournez sur vous un courroux implacable,</l>
@@ -1516,7 +1516,7 @@
 	<l id="1029">La gloire par l’amour s’élève au plus haut point.</l>
 	<l id="1030">Non, il n’est qu’un rebelle, il ne vous aimait point.</l>
 </sp>
-<sp who="GLAPHIRA"><speaker>GLAPHIRA.</speaker>
+<sp who="GLAPHIRA"><hstage><speaker>GLAPHIRA</speaker>.</hstage>
 	<l id="1031">Hé bien, si jusques là tant d’amour vous anime,</l>
 	<l id="1032">Si vous êtes jaloux, Prince, de mon estime,</l>
 	<l id="1033">Si vous voulez montrer au défaut de sa foi</l>
@@ -1524,13 +1524,13 @@
 	<l id="1035">Digne en effet du Trône où vous osez prétendre,</l>
 	<l id="1036" part="i">Allez, courez, sauvez...</l>
 </sp>
-<sp who="ANTIPATER"><speaker>ANTIPATER.</speaker>
+<sp who="ANTIPATER"><hstage><speaker>ANTIPATER</speaker>.</hstage>
 	<l id="1036" part="m">Qui, Madame ?</l>
 </sp>
-<sp who="GLAPHIRA"><speaker>GLAPHIRA.</speaker>
+<sp who="GLAPHIRA"><hstage><speaker>GLAPHIRA</speaker>.</hstage>
 	<l id="1036" part="f">Alexandre ?</l>
 </sp>
-<sp who="ANTIPATER"><speaker>ANTIPATER.</speaker>
+<sp who="ANTIPATER"><hstage><speaker>ANTIPATER</speaker>.</hstage>
 	<l id="1037">Moi, le sauver ! Ô Ciel ! Qu’appuyant ses desseins</l>
 	<l id="1038">Dans le sang paternel j’aille tremper mes mains ?</l>
 	<l id="1039">Et que de mes efforts sa fureur secondée,</l>
@@ -1539,7 +1539,7 @@
 	<l id="1042">À quel prix mettez-vous l’honneur de vous servir !</l>
 	<l id="1043">De mon amour enfin par quel effort bizarre...</l>
 </sp>
-<sp who="GLAPHIRA"><speaker>GLAPHIRA.</speaker>
+<sp who="GLAPHIRA"><hstage><speaker>GLAPHIRA</speaker>.</hstage>
 	<l id="1044">Ah ! J’aime à voir du moins jusqu’où ton cœur s’égare,</l>
 	<l id="1045">Perfide, et sans vouloir en ces cruels moments,</l>
 	<l id="1046">Jugez de ton amour par de tels sentiments,</l>
@@ -1554,7 +1554,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="ANTIPATER"><speaker>ANTIPATER, seul.</speaker>
+<sp who="ANTIPATER"><hstage><speaker>ANTIPATER</speaker>, seul.</hstage>
 	<l id="1055">Ciel ! Que m’a-t-elle dit ? Et que viens-je d’entendre ?</l>
 	<l id="1056">Quel est l’affreux secret que l’on vient de m’apprendre ?</l>
 	<l id="1057">Moi-même en quels soupçons je commence d’entrer ?</l>
@@ -1573,8 +1573,8 @@
 	<l id="1070">Dissimulons encor, on entre : la voici.</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Antipater, Salomé.</head>
-<sp who="ANTIPATER"><speaker>ANTIPATER.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Antipater, Salomé.</cast>
+<sp who="ANTIPATER"><hstage><speaker>ANTIPATER</speaker>.</hstage>
 	<l id="1071">Madame, à vos efforts la fortune asservie,</l>
 	<l id="1072">Conduit tous vos desseins au gré de votre envie.</l>
 	<l id="1073">Disparu dans Solime, aussitôt qu’arrivé,</l>
@@ -1583,7 +1583,7 @@
 	<l id="1076">Laissons-lui de son zèle exhaler le murmure.</l>
 	<l id="1077" part="i">Arbitre de ses jours...</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1077" part="f">Il est entre nos mains,</l>
 	<l id="1078">Prince, et peut être encore utile à nos desseins.</l>
 	<l id="1079">Du Palais cependant il faut garder les portes :</l>
@@ -1594,20 +1594,20 @@
 	<l id="1084">Le Conseil... Mais on vient. C’est Hérode lui-même.</l>
 	<l id="1085" part="i">Prince, allez...</l>
 </sp>
-<sp who="ANTIPATER"><speaker>ANTIPATER.</speaker>
+<sp who="ANTIPATER"><hstage><speaker>ANTIPATER</speaker>.</hstage>
 	<l id="1085" part="f">Je conçois vos desseins : il suffit.</l>
 	<l id="1086" part="i">Adieu, Madame.</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Hérode, Salomé.</head>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Hérode, Salomé.</cast>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1086" part="f">Hé bien, ma sœur, on me trahit !</l>
 	<l id="1087">Reconnaissez les traits et la main d’un perfide ;</l>
 	<l id="1088">Vous-même examinez la fureur qui le guide.</l>
 	<l id="1089">Cet écrit par Philon vient de m’être remis ;</l>
 	<l id="1090" part="i">Lisez.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1090" part="f">Je reconnais les traits de votre fils.</l>
 	<l id="1091">Alexandre à Varus.</l>
 	<l id="1092">Je pars. Une raison secrète</l>
@@ -1623,7 +1623,7 @@
 	<l id="1102">Fils d’Hérode, quelle est sa fureur insensée ?</l>
 	<l id="1103">Vous l’entendez, Seigneur, vous voyez quel parti...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1104">Par mes exploits Juda vient d’être anéanti.</l>
 	<l id="1105">Dans le cours éclatant d’une guerre funeste,</l>
 	<l id="1106">De ses maîtres Solime a vu périr le reste.</l>
@@ -1638,7 +1638,7 @@
 	<l id="1115">Et tournant contre moi tous les coups de ma main,</l>
 	<l id="1116">Contre un barbare époux arme un fils inhumain.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1117">Quoi ! Vous croyez, Seigneur, qu’une douleur sincère</l>
 	<l id="1118">Poursuive dans ces lieux le trépas de sa mère ?</l>
 	<l id="1119">Cette feinte douleur n’est qu’un prétexte vain,</l>
@@ -1650,10 +1650,10 @@
 	<l id="1125">L’ambition l’irrite, et non point la tendresse :</l>
 	<l id="1126">Mais vous ne savez pas le péril qui vous presse.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1127" part="i">Quoi donc ? Et quel péril ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1127" part="f">Son courroux enflammé</l>
 	<l id="1128">Laissait dans sa retraite un parti tout formé.</l>
 	<l id="1129">J’ignore le secret d’une telle entreprise :</l>
@@ -1662,12 +1662,12 @@
 	<l id="1132">Thirron, Seigneur, Thirron a paru dans ces lieux</l>
 	<l id="1133">Vous savez pour ce fils le zèle qui l’anime.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1134">Ciel ! Que me dites-vous ? Thirron est dans Solime ?</l>
 	<l id="1135">Lui qui d’un long exil s’est imposé la loi ?</l>
 	<l id="1136">Quoi, toujours sa vertu s’armera contre moi ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1137">De quel nom nommez-vous cette persévérance,</l>
 	<l id="1138">À prendre contre vous une injuste défense ?</l>
 	<l id="1139">De qui cherche à nourrir une fatale erreur,</l>
@@ -1679,7 +1679,7 @@
 	<l id="1145">Bientôt pour protéger le sang de Mariamne,</l>
 	<l id="1146">Suivi dans ce Palais d’une foule profane...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1147">Hé bien, Madame, allons ; ménageons les moments.</l>
 	<l id="1148">Vous-même de Thirron suivez les mouvements.</l>
 	<l id="1149">D’un fils qui me trahit la perte est toute prête :</l>
@@ -1717,12 +1717,12 @@
 	<l id="1181">Déjà j’ai soulevé les nations entières...</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Hérode, Salomé, Achas.</head>
-<sp who="ACHAS"><speaker>ACHAS.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Hérode, Salomé, Achas.</cast>
+<sp who="ACHAS"><hstage><speaker>ACHAS</speaker>.</hstage>
 	<l id="1182">Seigneur, je viens savoir vos volontés dernières</l>
 	<l id="1183">Le Conseil les attend, tout prêt à prononcer.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1184">Et croit-il que mon cœur puisse encor balancer ?</l>
 	<l id="1185">Et que délibérant où le crime décide,</l>
 	<l id="1186">Ma pitié dangereuse épargne un parricide.</l>
@@ -1737,7 +1737,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII.</head>
-<sp who="HÉRODE"><speaker>HÉRODE, seul.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>, seul.</hstage>
 	<l id="1195">Mes soins pour t’apaiser ont été superflus,</l>
 	<l id="1196">Fils ingrat ! Mais bientôt je ne te craindrai plus.</l>
 	<l id="1197">Mais tout à coup en moi quel mouvement s’élève ?</l>
@@ -1783,12 +1783,12 @@
 	<l id="1237" part="i">Mais on vient : C’est Achas.</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VIII. Hérode, Achas.</head>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VIII.</head><cast>Hérode, Achas.</cast>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1237" part="f">Que venez-vous m’apprendre ?</l>
 	<l id="1238">Parlez, Achas, quel est le destin d’Alexandre ?</l>
 </sp>
-<sp who="ACHAS"><speaker>ACHAS.</speaker>
+<sp who="ACHAS"><hstage><speaker>ACHAS</speaker>.</hstage>
 	<l id="1239">Seigneur, dans le Conseil en tumulte assemblé,</l>
 	<l id="1240">Alexandre introduit, sans paraître troublé,</l>
 	<l id="1241">Plus fier même d’un sang que le reproche offense ;</l>
@@ -1797,11 +1797,11 @@
 	<l id="1244">Irrité la Fortune, et bravé le trépas :</l>
 	<l id="1245">Il plaignait seulement le sort de la Princesse.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1246">Je le vois. Son orgueil l’accompagne sans cesse :</l>
 	<l id="1247" part="i">Mais qu’a-t-on résolu ?</l>
 </sp>
-<sp who="ACHAS"><speaker>ACHAS.</speaker>
+<sp who="ACHAS"><hstage><speaker>ACHAS</speaker>.</hstage>
 	<l id="1247" part="f">Quelque temps incertain,</l>
 	<l id="1248">Le Conseil agité balance son destin.</l>
 	<l id="1249">Après un long amas de raisons ordinaires,</l>
@@ -1815,18 +1815,18 @@
 	<l id="1257">Soit qu’enfin de nos Rois on respecte la cendre,</l>
 	<l id="1258">Tout le Conseil conclut au pardon d’Alexandre.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1259">Ainsi donc le Conseil pour lui s’intéressant,</l>
 	<l id="1260">Dans son crime surpris le retrouve innocent ?</l>
 	<l id="1261">Je l’avoue, étonné de ce commun suffrage,</l>
 	<l id="1262">J’ai cru que son salut deviendrait mon ouvrage.</l>
 </sp>
-<sp who="ACHAS"><speaker>ACHAS.</speaker>
+<sp who="ACHAS"><hstage><speaker>ACHAS</speaker>.</hstage>
 	<l id="1263">Chacun de nous, seigneur, quelque ordre rigoureux</l>
 	<l id="1264">Qui lui semblât proscrire un Prince malheureux,</l>
 	<l id="1265">A cru voir dans le Roi la clémence d’un père.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1266">Non, non, j’ouvre les yeux, et la raison m’éclaire.</l>
 	<l id="1267">Mon cœur pour un ingrat trop prompt à se troubler,</l>
 	<l id="1268">Par avance pour lui ne devait point trembler.</l>
@@ -1838,20 +1838,20 @@
 	<l id="1274">À ces tristes retours où l’âge nous expose ?</l>
 	<l id="1275">C’est peu qu’en sa faveur on viole la loi...</l>
 </sp>
-<sp who="ACHAS"><speaker>ACHAS.</speaker>
+<sp who="ACHAS"><hstage><speaker>ACHAS</speaker>.</hstage>
 	<l id="1276" part="i">Quoi, Seigneur, vous croyez...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1276" part="f">Perfide, je le vois,</l>
 	<l id="1277">En le justifiant, c’est moi que l’on condamne ;</l>
 	<l id="1278">C’est mon sang qu’on immole au fils de Mariamne.</l>
 	<l id="1279">D’un projet criminel complices en effet,</l>
 	<l id="1280">Ingrats, votre faveur prépara son forfait.</l>
 </sp>
-<sp who="ACHAS"><speaker>ACHAS.</speaker>
+<sp who="ACHAS"><hstage><speaker>ACHAS</speaker>.</hstage>
 	<l id="1281">Hé voulez-vous, Seigneur, qu’un arrêt sanguinaire...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1282">Je sais de vos pareils la conduite ordinaire.</l>
 	<l id="1283">D’une infidèle Cour les vœux intéressés</l>
 	<l id="1284">Entre Hérode et son fils ne sont plus balancés :</l>
@@ -1888,7 +1888,7 @@
 </div1>
 <div1 type="acte" n="5"><head>ACTE V</head>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1313">C’en est donc fait : je vais rejoindre Mariamne ;</l>
 	<l id="1314">Au sort qu’elle a subi mon père me condamne !</l>
 	<l id="1315">Mânes sacrés, chère Ombre, attachée à mes pas,</l>
@@ -1936,8 +1936,8 @@
 	<l id="1357" part="i">Mais on vient.</l>
 </sp>
 </div2>
-<div2 type="scene" n="2"><head>SCÈNE II. Alexandre, Salomé.</head>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head><cast>Alexandre, Salomé.</cast>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1357" part="f">Il est temps de finir votre haine,</l>
 	<l id="1358">Madame, mon trépas, le meurtre de la Reine.</l>
 	<l id="1359">Thirron même sans doute expiré sous vos coups,</l>
@@ -1947,12 +1947,12 @@
 	<l id="1363">Tous mes ressentiments par là sont effacés ?</l>
 	<l id="1364">Et recourir à vous, c’est vous la dire assez.</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1365">Prince, tout ce discours a lieu de me surprendre ;</l>
 	<l id="1366">De mes soins cependant vous pouvez tout attendre,</l>
 	<l id="1367" part="i">Mais que puis-je pour vous ?</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1367" part="f">L’état où je me vois</l>
 	<l id="1368">M’apprend trop que vos soins peuvent tout sur le Roi.</l>
 	<l id="1369">Daignez m’en accorder le secours favorable ;</l>
@@ -1963,7 +1963,7 @@
 	<l id="1374">Vous savez quelle ardeur m’attache à la Princesse.</l>
 	<l id="1375" part="i">Ne puis-je...</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1375" part="f">Ignorez-vous quel est votre pouvoir,</l>
 	<l id="1376">Prince ? Vous êtes libre, et vous pouvez la voir :</l>
 	<l id="1377">Dans vos justes désirs rien ne peut vous contraindre,</l>
@@ -1973,11 +1973,11 @@
 	<l id="1381">Ce que n’ont pu les cris de toute la Judée,</l>
 	<l id="1382">Votre grâce, Seigneur, lui vient d’être accordée.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1383">Quoi, du courroux d’Hérode elle arrête le cours ?</l>
 	<l id="1384">Et je dois à ses soins le salut de mes jours ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1385">Je l’ai vue à ses pieds, Seigneur, j’ai vu ses larmes,</l>
 	<l id="1386">Relevant le pouvoir et l’éclat de ses charmes,</l>
 	<l id="1387">Attendrir votre père, ou plutôt de son cœur</l>
@@ -1993,29 +1993,29 @@
 	<l id="1397">Sans doute le salut d’une tête s chère</l>
 	<l id="1398" part="i">Dépendait...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1398" part="f">Et dit-on quel en est le salaire ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1399">Et qu’importe, Seigneur, dans cette extrémité,</l>
 	<l id="1400">À quel prix votre sang puisse être racheté ?</l>
 	<l id="1401">Vivez, et soutenant l’honneur de votre race...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1402">Non, je n’accepte point cette funeste grâce :</l>
 	<l id="1403">Trop instruit des fureurs dont Hérode est épris,</l>
 	<l id="1404">De mes jours rachetés je reconnais le prix.</l>
 	<l id="1405">Plus cruelle que lui vous avez pu prétendre,</l>
 	<l id="1406" part="i">Glaphira...</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1406" part="f">Le Roi vient ; il pourra vous entendre.</l>
 	<l id="1407">Et sans pousser plus loin un conseil hasardeux,</l>
 	<l id="1408">Pour mieux vous éclaircir, je vous laisse tous deux.</l>
 </sp>
 </div2>
-<div2 type="scene" n="3"><head>SCÈNE III. Hérode, Alexandre.</head>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head><cast>Hérode, Alexandre.</cast>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1409">Oui, votre sort, ingrat, a pris une autre face ;</l>
 	<l id="1410">Vous vivrez, et je viens d’accorder votre grâce.</l>
 	<l id="1411">Mon cœur, dans son espoir trop prompt à s’abuser,</l>
@@ -2025,25 +2025,25 @@
 	<l id="1415">Que je ne puisse point un jour lui reprocher</l>
 	<l id="1416">Le pardon que ses pleurs viennent de m’arracher.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1417">Ainsi, Seigneur, ses pleurs ont lavé mon injure ?</l>
 	<l id="1418">Ils ont plus fait sur vous que n’a fait la nature ?</l>
 	<l id="1419">Du sang en ma faveur les droits mal écoutés...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1420">Savez-vous les efforts que vous m’avez coûtés ?</l>
 	<l id="1421">Je vous pardonne, ingrat. À moi-même contraire,</l>
 	<l id="1422">Mon cœur a fait pour vous plus qu’il ne devait faire.</l>
 	<l id="1423">Qu’attendiez-vous encor ? Vous vivez, il suffit.</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1424">Ah ! Si votre bonté jusques là vous trahit,</l>
 	<l id="1425">Reprenez, j’y consens, une grâce funeste,</l>
 	<l id="1426">Et ne me laissez point un bien que je déteste :</l>
 	<l id="1427">La mort m’affranchira d’un trouble trop pressant ;</l>
 	<l id="1428">Souffrez du moins, souffrez que je meure innocent.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1429">Ah ! Perfide, est-ce ainsi que ma bonté te touche ?</l>
 	<l id="1430">Ton salut accordé te trouve plus farouche !</l>
 	<l id="1431">Oui, sous ces vains dépits que tu me laisses voir,</l>
@@ -2053,7 +2053,7 @@
 	<l id="1435">Que l’on puisse à mes yeux déguiser ta fureur ?</l>
 	<l id="1436" part="i">Non, ne t’en flatte plus, ingrat...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1436" part="f">Du moins, Seigneur,</l>
 	<l id="1437">Si vous tranchez mes jours, n’offensez point ma gloire.</l>
 	<l id="1438">Ne chargez point mon nom d’une indigne mémoire.</l>
@@ -2068,45 +2068,45 @@
 	<l id="1447">Mes déplorables jours indignement sauvés.</l>
 	<l id="1448" part="i">Prêt à bénir la main...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1448" part="f">Ciel ! Qu’entends-je ? Achevez.</l>
 	<l id="1449" part="i">Dans quel trouble...</l>
 </sp>
 </div2>
-<div2 type="scene" n="4"><head>SCÈNE IV. Hérode, Alexandre, Achas.</head>
-<sp who="ACHAS"><speaker>ACHAS.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head><cast>Hérode, Alexandre, Achas.</cast>
+<sp who="ACHAS"><hstage><speaker>ACHAS</speaker>.</hstage>
 	<l id="1449" part="f">Le peuple en tumulte s’avance ;</l>
 	<l id="1450">Et de sa part Thirron vous demande audience.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1451" part="i">Thirron !</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>.</hstage>
 	<l id="1451" part="m">Ciel !</l>
 </sp>
-<sp who="ACHAS"><speaker>ACHAS.</speaker>
+<sp who="ACHAS"><hstage><speaker>ACHAS</speaker>.</hstage>
 	<l id="1451" part="f">Je ne sais quel dessein le conduit.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE, à Alexandre.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>, à Alexandre.</hstage>
 	<l id="1452">De tes fausses vertus, traître, voilà le fruit.</l>
 	<l id="1453">Mais de vos attentats vous-mêmes les victimes...</l>
 </sp>
-<sp who="ALEXANDRE"><speaker>ALEXANDRE, en sortant.</speaker>
+<sp who="ALEXANDRE"><hstage><speaker>ALEXANDRE</speaker>, en sortant.</hstage>
 	<l id="1454">Vous allez être instruit, Seigneur, de tous mes crimes.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1455">Il vient. Quoi, jusqu’ici brave-t-il mon courroux ?</l>
 	<l id="1456" part="i">Ciel !</l>
 </sp>
 </div2>
-<div2 type="scene" n="5"><head>SCÈNE V. Hérode, Thirron, Achas.</head>
-<sp who="THIRRON"><speaker>THIRRON.</speaker>
+<div2 type="scene" n="5"><head>SCÈNE V.</head><cast>Hérode, Thirron, Achas.</cast>
+<sp who="THIRRON"><hstage><speaker>THIRRON</speaker>.</hstage>
 	<l id="1456" part="f">Je viens apporter ma tête à tes genoux.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1457">Que prétends-tu, perfide ? Et que viens-tu me dire ?</l>
 </sp>
-<sp who="THIRRON"><speaker>THIRRON.</speaker>
+<sp who="THIRRON"><hstage><speaker>THIRRON</speaker>.</hstage>
 	<l id="1458">Ce que de ton honneur l’intérêt seul m’inspire.</l>
 	<l id="1459">Tantôt, pour te parler, je venais dans ces lieux :</l>
 	<l id="1460">Mais Salomé bientôt m’a soustrait à tes yeux.</l>
@@ -2114,20 +2114,20 @@
 	<l id="1462">Sans un puissant secours m’allait ôter la vie.</l>
 	<l id="1463">Ses complots avec moi, dans l’ombre ensevelis...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1464" part="i">Et qui t’as pu sauver ?</l>
 </sp>
-<sp who="THIRRON"><speaker>THIRRON.</speaker>
+<sp who="THIRRON"><hstage><speaker>THIRRON</speaker>.</hstage>
 	<l id="1464" part="f">Antipater ton fils.</l>
 	<l id="1465">Instruit de ses desseins, trompé, trahi par elle ;</l>
 	<l id="1466">Il a de l’innocence embrassé la querelle.</l>
 	<l id="1467">Tu me connais, Hérode, et ton cœur combattu,</l>
 	<l id="1468">Autant qu’il la craignit, estima ma vertu.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1469">Je sais qu’avec Thirron toute feinte est bannie.</l>
 </sp>
-<sp who="THIRRON"><speaker>THIRRON.</speaker>
+<sp who="THIRRON"><hstage><speaker>THIRRON</speaker>.</hstage>
 	<l id="1470">Réponds-moi : qu’a-tu fait de ce puissant génie,</l>
 	<l id="1471">À qui le monde entier semblait même soumis ?</l>
 	<l id="1472">Et que sont devenus tes parents, tes amis ?</l>
@@ -2145,12 +2145,12 @@
 	<l id="1484">Tes crimes les plus grands ne te sont pas connus.</l>
 	<l id="1485">Mille intérêts secrets conduits avec adresse...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1486">Juste Ciel ! Est-ce à moi que ce discours s’adresse ?</l>
 	<l id="1487">Par quel secret pouvoir demeurai-je interdit ?</l>
 	<l id="1488" part="i">T’ai-je assez écouté ?</l>
 </sp>
-<sp who="THIRRON"><speaker>THIRRON.</speaker>
+<sp who="THIRRON"><hstage><speaker>THIRRON</speaker>.</hstage>
 	<l id="1488" part="f">Non, je n’ai pas tout dit :</l>
 	<l id="1489">Ouvre les yeux, cruel. Quel espoir te console ?</l>
 	<l id="1490">Tu perds ton fils : apprends à qui ton bras l’immole,</l>
@@ -2182,8 +2182,8 @@
 	<l id="1516">Mais qui brave un Tyran ne craint point de mourir.</l>
 </sp>
 </div2>
-<div2 type="scene" n="6"><head>SCÈNE VI. Hérode, Achas.</head>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<div2 type="scene" n="6"><head>SCÈNE VI.</head><cast>Hérode, Achas.</cast>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1517">Quel est, fière vertu, ton pouvoir redoutable ?</l>
 	<l id="1518">Quoi ! Même en outrageant, tu te rends respectable !</l>
 	<l id="1519">Mais que viens-je d’entendre ? Ô Ciel ! Quels avis ?</l>
@@ -2193,19 +2193,19 @@
 	<l id="1522">Semble-t-elle appuyer un soupçon qui me tue ?</l>
 </sp>
 </div2>
-<div2 type="scene" n="7"><head>SCÈNE VII. Hérode, Narbal.</head>
-<sp who="NARBAL"><speaker>NARBAL.</speaker>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head><cast>Hérode, Narbal.</cast>
+<sp who="NARBAL"><hstage><speaker>NARBAL</speaker>.</hstage>
 	<l id="1523">Qu’ai-je donc vu, Seigneur ? Et quel ressentiment</l>
 	<l id="1524">A produit tout à coup un affreux changement ?</l>
 	<l id="1525">Déjà tout bénissait la bonté paternelle :</l>
 	<l id="1526">Cependant, entouré d’une troupe cruelle ,</l>
 	<l id="1527" part="i">Alexandre en ces lieux...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1527" part="f">Hé quoi, n’ai-je donc pas</l>
 	<l id="1528">Révoqué devant vous l’arrêt de son trépas ?</l>
 </sp>
-<sp who="NARBAL"><speaker>NARBAL.</speaker>
+<sp who="NARBAL"><hstage><speaker>NARBAL</speaker>.</hstage>
 	<l id="1529">Quelle fatalité vous dérobe à vous-même</l>
 	<l id="1530">De ses persécuteurs le cruel stratagème ?</l>
 	<l id="1531">Déjà même Philon, sous les coups expiré,</l>
@@ -2217,22 +2217,22 @@
 	<l id="1537">Et tremblant du péril qui menace Alexandre,</l>
 	<l id="1538">Antipater lui-même armé pour le défendre...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1539" part="i">Ah ! Courons le sauver.</l>
 </sp>
 </div2>
-<div2 type="scene" n="8"><head>SCÈNE VIII. Hérode, Salomé, Narbal, Achas.</head>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<div2 type="scene" n="8"><head>SCÈNE VIII.</head><cast>Hérode, Salomé, Narbal, Achas.</cast>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1539" part="f">Arrête : il n’est plus temps</l>
 	<l id="1540" part="i">Ton fils vient d’expirer.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1540" part="f">Ciel ! Qu’est-ce que j’entends,</l>
 	<l id="1541">Euriclès n’a-t-il pas été dépositaire</l>
 	<l id="1542">D’un ordre qui révoque un Arrêt sanguinaire ?</l>
 	<l id="1543">Par là de mes desseins le Conseil prévenu...</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1544">L’ordre jusqu’au Conseil n’en est point parvenu :</l>
 	<l id="1545">Euriclès l’a soustrait ; c’est moi qu’il a servie.</l>
 	<l id="1546">Mais enfin Euriclès vient de perdre la vie.</l>
@@ -2243,10 +2243,10 @@
 	<l id="1551">Il périt par mes coups, s’il échappe à ta Loi ;</l>
 	<l id="1552">Et le sang en a dû rejaillir jusqu’à toi.</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1553">Perfide ! Crois-tu donc éviter ma vengeance ?</l>
 </sp>
-<sp who="SALOMÉ"><speaker>SALOMÉ.</speaker>
+<sp who="SALOMÉ"><hstage><speaker>SALOMÉ</speaker>.</hstage>
 	<l id="1554">Et toi, crois-tu mes jours encore en ta puissance ?</l>
 	<l id="1555">Déjà j’ai fait couler le poison dans mon sein.</l>
 	<l id="1556">J’ai su qu’Antipater trahirait mon dessein :</l>
@@ -2264,8 +2264,8 @@
 	<l id="1568">Je te laisse du moins l’exemple de ma mort.</l>
 </sp>
 </div2>
-<div2 type="scene" n="9"><head>SCÈNE DERNIÈRE. Hérode, Narbal, Achas.</head>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<div2 type="scene" n="9"><head>SCÈNE DERNIÈRE.</head><cast>Hérode, Narbal, Achas.</cast>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1569">Elle expire... Mon fils va rejoindre sa mère !</l>
 	<l id="1570">Moi seul je vis encore ! Ô comble de misère !</l>
 	<l id="1571">Ô vengeance, où lançant d’inévitables coups,</l>
@@ -2283,10 +2283,10 @@
 	<l id="1583">L’horreur règne partout, et dans ce vaste effroi,</l>
 	<l id="1584">La nature périt, ou s’arme contre moi.</l>
 </sp>
-<sp who="NARBAL"><speaker>NARBAL.</speaker>
+<sp who="NARBAL"><hstage><speaker>NARBAL</speaker>.</hstage>
 	<l id="1585" part="i">Seigneur...</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1585" part="f">Narbal, c’est toi ! Soit pitié, soit colère,</l>
 	<l id="1586">Le Ciel permet encor que la raison m’éclaire.</l>
 	<l id="1587">Mais trop cruelle hélas ! Que me sert son effort,</l>
@@ -2300,10 +2300,10 @@
 	<l id="1595">Vois, dans leurs bras sanglants tes fils à peine nés,</l>
 	<l id="1596">Tous proscrits par mon ordre au glaive abandonnés.</l>
 </sp>
-<sp who="ACHAS"><speaker>ACHAS.</speaker>
+<sp who="ACHAS"><hstage><speaker>ACHAS</speaker>.</hstage>
 	<l id="1597" part="i">Juste Ciel !</l>
 </sp>
-<sp who="HÉRODE"><speaker>HÉRODE.</speaker>
+<sp who="HÉRODE"><hstage><speaker>HÉRODE</speaker>.</hstage>
 	<l id="1597" part="f">Tout à coup ma terreur se redouble.</l>
 	<l id="1598">Ce Palais disparu vient d’augmenter mon trouble.</l>
 	<l id="1599">Où sommes-nous ? Mais quoi ? Dans le fond de ces lieux,</l>
