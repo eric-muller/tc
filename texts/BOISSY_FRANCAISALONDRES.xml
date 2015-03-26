@@ -55,7 +55,7 @@
 			<head>ACTEURS</head>
 			<castItem><role id="LE-MARQUIS-DE-POLINVILLE" civil="M" type="H" statut="marquis" age="A" stat_amour="néant">LE MARQUIS DE POLINVILLE</role>, français.</castItem>
 			<castItem><role id="LE-BARON-DE-POLINVILLE" civil="M" type="H" statut="baron" age="A" stat_amour="néant">LE BARON DE POLINVILLE</role>, français</castItem>
-			<castItem><role id="ÉLIANTE" civil="F" type="H" statut="aristocrate" age="A" stat_amour="néant">ÉLIANTE.</role>, veuve anglaise</castItem>
+			<castItem><role id="ÉLIANTE" civil="F" type="H" statut="aristocrate" age="A" stat_amour="néant">ÉLIANTE</role>, veuve anglaise</castItem>
 			<castItem><role id="MILORD-CRAFF" civil="M" type="H" statut="aristocrate" age="V" stat_amour="néant">MILORD CRAFF</role>, père d’Éliante.</castItem>
 			<castItem><role id="MILORD-HOUZEY" civil="M" type="H" statut="aristocrate" age="A" stat_amour="néant">MILORD HOUZEY</role>, fils de Milord Craff.</castItem>
 			<castItem><role id="JACQUES-ROSBIF" civil="M" type="H" statut="négociant" age="A" stat_amour="néant">JACQUES ROSBIF</role>, négociant anglais.</castItem>
@@ -493,12 +493,12 @@
 </p>
 <stage>Elle lit.</stage>
 <p id="3">
-	<s id="1">" Je pars en même temps que ma lettre, et je serai demain à Londres, sans faute.</s>
+	<s id="1">«  Je pars en même temps que ma lettre, et je serai demain à Londres, sans faute.</s>
 	<s id="2">On m’a écrit que votre frère hantait mauvaise compagnie, et qu’il venait de faire tout nouvellement connaissance avec un certain marquis français, qui achève de le gâter.</s>
 	<s id="3">Comme je ne puis être à Londres que trois jours, et que je dois, de là, partir pour la Jamaïque, j’ai résolu de l’emmener et de vous marier, avant mon départ, avec Jacques Rosbif.</s>
 	<s id="4">C’est un riche négociant, fort honnête homme, et qui n’est pas moins raisonnable pour être un peu singulier.</s>
 	<s id="5">Votre extrême jeunesse ne vous permet pas de rester veuve ; et je compte que vous n’aurez pas de peine à vous conformer aux volontés d’un père qui ne cherche que votre avantage et qui vous aime tendrement.</s>
-	<s id="6">Lord Craff."</s>
+	<s id="6">Lord Craff. »</s>
 </p>
 </sp>
 <sp who="FINETTE"><speaker>FINETTE.</speaker>
@@ -1238,17 +1238,17 @@
 </p>
 <stage>Il se promène en traversant le théâtre. Le Lord Houzey passe de l’autre côté en l’imitant.</stage>
 <p id="5">
-	<s id="1">Il marche fièrement, la tête haute, les deux mains dans la ceinture, comme pour dire à ceux qui sont autour de lui : "Rangez-vous, messieurs.</s>
+	<s id="1">Il marche fièrement, la tête haute, les deux mains dans la ceinture, comme pour dire à ceux qui sont autour de lui : « Rangez-vous, messieurs.</s>
 	<s id="2">Regardez-moi passer : n’ai-je pas bon air ?</s>
 	<s id="3">Ne suis-je pas fait au tour ?...</s>
-	<s id="4">Et vous, mesdames les friponnes, qui me parcourez des yeux en souriant, vous voudriez me posséder, vous voudriez me posséder !...</s>
-	<s id="5">" Voit-il passer quelqu’un de sa connaissance ?</s>
-	<s id="6">Il affecte une politesse de seigneur ; il lui fait une inclination de tête, comme s’il lui disait : " Allez ; bonjour, monsieur.</s>
-	<s id="7">Je me souviens de vous : je vous protège.</s>
-	<s id="8">" Entre-t-il quelque part ?</s>
-	<s id="9">Il se précipite dans un fauteuil, une jambe sur l’autre, tape du pied, marmotte un petit air, joue d’une main avec son jabot, et se caresse le menton de l’autre ; il s’en conte à lui-même, et semble se parler ainsi : " en vérité, je suis un fripon bien aimable, et voilà un visage qui donne sûrement de la tablature à la dame du logis ! "</s>
+	<s id="4">Et vous, mesdames les friponnes, qui me parcourez des yeux en souriant, vous voudriez me posséder, vous voudriez me posséder !... »</s>
+	<s id="5">Voit-il passer quelqu’un de sa connaissance ?</s>
+	<s id="6">Il affecte une politesse de seigneur ; il lui fait une inclination de tête, comme s’il lui disait : « Allez ; bonjour, monsieur.</s>
+	<s id="7">Je me souviens de vous : je vous protège. »</s>
+	<s id="8">Entre-t-il quelque part ?</s>
+	<s id="9">Il se précipite dans un fauteuil, une jambe sur l’autre, tape du pied, marmotte un petit air, joue d’une main avec son jabot, et se caresse le menton de l’autre ; il s’en conte à lui-même, et semble se parler ainsi : « en vérité, je suis un fripon bien aimable, et voilà un visage qui donne sûrement de la tablature à la dame du logis ! »</s>
 	<s id="10">Va-t-il voir une bourgeoise ?</s>
-	<s id="11">" Eh !</s>
+	<s id="11">« Eh !</s>
 	<s id="12">Bonjour, ma petite fanchonnette.</s>
 	<s id="13">Comment te portes-tu ?</s>
 	<s id="14">Te voilà jolie comme un petit ange.</s>
@@ -1259,7 +1259,7 @@
 	<s id="19">Tu ne sais pas vivre.</s>
 	<s id="20">Est-ce qu’on refuse quelque chose à un homme comme moi ?</s>
 	<s id="21">Est-ce qu’on se fait prier ?</s>
-	<s id="22">Est-ce qu’on a de la pudeur dans le monde ? "</s>
+	<s id="22">Est-ce qu’on a de la pudeur dans le monde ? »</s>
 </p>
 </sp>
 <sp who="LE-LORD-HOUZEY"><speaker>LE LORD HOUZEY.</speaker>

@@ -45,7 +45,7 @@
 		<castItem><role id="POLICHINELLE" civil="M" type="H" statut="comédien" age="A" stat_amour="néant">POLICHINELLE</role>, Suivant de la Foire.</castItem>
 		<castItem><role id="GILLE" civil="M" type="H" statut="comédien" age="A" stat_amour="néant">UN GILLE</role>, Suivant de la Foire.</castItem>
 		<castItem><role id="UN AUTEUR TRAGIQUE" civil="M" type="H" statut="auteur" age="A" stat_amour="néant">UN AUTEUR TRAGIQUE</role>, suivant de la Comédie Française.</castItem>
-		<castItem><role id="UN ACTEUR" civil="M" type="H" statut="comédien" age="A" stat_amour="néant">UN ACTEUR habillé à la Romaine</role>, suivant de la Comédie Française.</castItem>
+		<castItem><role id="UN ACTEUR" civil="M" type="H" statut="comédien" age="A" stat_amour="néant">UN ACTEUR</role> habillé à la Romaine, suivant de la Comédie Française.</castItem>
 		<castItem><role id="CRISPIN" civil="M" type="H" statut="comédien" age="A" stat_amour="néant">UN CRISPIN</role>, suivant de la Comédie Française.</castItem>
 		<castItem><role id="PANTALON" civil="M" type="H" statut="comédien" age="A" stat_amour="néant">UN PANTALON</role>, suivant de la Comédie Italienne.</castItem>
 		<castItem><role id="SCAPIN" civil="M" type="H" statut="comédien" age="A" stat_amour="néant">UN SCAPIN</role>, suivant de la Comédie Italienne.</castItem>
@@ -72,10 +72,10 @@
 	<s id="1">Quoi, personne n’accourt à ma voix !</s>
 	<s id="2">N’entendez-vous pas votre, maîtresse qui vous appelle ?</s>
 	<s id="3">Songez-vous ; que c’est aujourd’hui le premier jour de mes spectacles d’été ?</s>
-	<s id="4">Holà donc, Mezzetin, Olivette, Docteur , Polichinelle.</s>
+	<s id="4">Holà donc, Mezzetin, Olivette, Docteur, Polichinelle.</s>
 </p>
 <stage>AIR 44. J’entends déjà le bruit des armes.</stage>
-	<l id="8">Répondez donc à mon attente,•</l>
+	<l id="8">Répondez donc à mon attente,</l>
 	<l id="9">Mes enfants, venez, il est temps,</l>
 	<l id="10">Déjà le Marchand se tourmente,</l>
 	<l id="11">Sa voix appelle les chalands ;</l>
@@ -249,7 +249,7 @@ A<stage>u Public, en déclamant.</stage>
 	<s id="3">Vous êtes fâchée de voir ici bonne compagnie, n’est-ce pas ?</s>
 </p>
 <stage>à Mezzetin.</stage>
- <note type="L">Enclouure : Empêchement, nœud d’une difficulté. "De l’argent, dites-vous, ah ! voilà l’enclouure", MOL. l’Étour. II, 5. [L]</note>
+ <note type="L">Enclouure : Empêchement, nœud d’une difficulté. « De l’argent, dites-vous, ah ! voilà l’enclouure », MOL. l’Étour. II, 5. [L]</note>
 <p id="12">
 	<s id="1">Voilà l’enclouûre.</s>
 	<s id="2">Hé, ventrebleu !</s>
@@ -272,7 +272,7 @@ A<stage>u Public, en déclamant.</stage>
 </p>
 <stage>AIR 15. Je ne suis né ni Roi, ni prince.</stage>
 	<l id="27">Mes pièces les plus excellentes,</l>
-	<l id="28">Tartuffe et les Femmes savantes ,</l>
+	<l id="28">Tartuffe et les Femmes savantes,</l>
 	<l id="29">Amphitryon, le Grondeur,</l>
 	<l id="30">Et presque tous les jours l’Avare.</l>
 </sp>
@@ -283,7 +283,7 @@ A<stage>u Public, en déclamant.</stage>
 </sp>
 <sp who="LA COMÉDIE FRANÇAISE"><speaker>LA COMÉDIE FRANÇAISE.</speaker>
 <p id="16">
-	<s id="1">Non, non , le public est bizarre.</s>
+	<s id="1">Non, non, le public est bizarre.</s>
 </p>
 </sp>
 <sp who="LA COMÉDIE ITALIENNE"><speaker>LA COMÉDIE ITALIENNE.</speaker>
@@ -332,7 +332,7 @@ fariboles, vos fariboles...</s>
 <div2 type="scene" n="4"><head>SCÈNE IV. La Comédie Française, La Comédie Italienne, La Foire, Un Gille.</head>
 <sp who="GILLE"><speaker>LE GILLE, à la Foire.</speaker>
 <p id="1">
-	<s id="1">Monsieur votre cousin , Madame.</s>
+	<s id="1">Monsieur votre cousin, Madame.</s>
 </p>
 </sp>
 <sp who="LA FOIRE"><speaker>LA FOIRE.</speaker>
@@ -389,9 +389,9 @@ fariboles, vos fariboles...</s>
 	<l id="43">Dans ce temps,</l>
 	<l id="44">Filles de quinze ans.,</l>
 	<l id="45">Vous n’en savez pas moins que vos Mamans*</l>
-	<l id="46">Dès qu’on a quitté la lisière ,</l>
+	<l id="46">Dès qu’on a quitté la lisière,</l>
 	<l id="46">On voudrait déjà...„</l>
-	<l id="47">Tati, tati, tari , tata.</l>
+	<l id="47">Tati, tati, tari, tata.</l>
 	<l id="48">Dans ce temps</l>
 	<l id="49">Filles de quinze ans,</l>
 	<l id="50">Vous n’en savez pas moins que vos mamans.</l>
@@ -583,7 +583,7 @@ fariboles, vos fariboles...</s>
 	<s id="1">Cela suffit.</s>
 	<s id="2">Adieu, petite Mère.</s>
 </p>
-<stage>Il s’en retourne comme il est venu , en chantant et dansant.</stage>
+<stage>Il s’en retourne comme il est venu, en chantant et dansant.</stage>
 	<l id="79">Dès qu’on a quitté la lisière,</l>
 	<l id="80">On voudrait déjà...</l>
 	<l id="81">Tati, tati, tati, tata.</l>
@@ -654,7 +654,7 @@ fariboles, vos fariboles...</s>
 <stage>Leurs suivants brisent les décorations.</stage>
 </sp>
 <sp who="LES DEUX COMÉDIES"><speaker>LES DEUX COMÉDIES.</speaker>
-<stage>AlR 204 : Parodie des Gorgones de Persée.</stage>
+<stage>AIR 204 : Parodie des Gorgones de Persée.</stage>
 	<l id="104">Ah ! Qu’il est doux pour notre rage</l>
 	<l id="105">De pouvoir faire ici tapage !</l>
 	<l id="106">Heureuse la fureur</l>

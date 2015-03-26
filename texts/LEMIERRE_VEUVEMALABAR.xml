@@ -56,14 +56,14 @@
 	<castItem><role id="BRAMINES" civil="G" type="H" statut="religieux" age="A" stat_amour="néant">BRAMINES</role>.</castItem>
 	<castItem><role id="PEUPLE INDIEN" civil="G" type="H" statut="bourgeois" age="A" stat_amour="néant">PEUPLE INDIEN</role>.</castItem>
 	<castItem><role id="OFFICIERS FRANCAIS" civil="M" type="H" statut="officier" age="A" stat_amour="néant">OFFICIER FRANCAIS</role>.</castItem>
-	<castItem><role id="SOLDATS" civil="G" type="H" statut="soldat" age="A" stat_amour="néant"/>SOLDATS.</castItem>
+	<castItem><role id="SOLDATS" civil="G" type="H" statut="soldat" age="A" stat_amour="néant">SOLDATS</role>.</castItem>
 </castList>
 <set location="Malabar" country="Inde" periode="XVIIIème" link="">La scène est dans une ville maritime, sur la côte de Malabar.</set>
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
 <div2 type="scene" n="1"><head>SCÈNE I. Le grand bramine, le jeune bramine, un bramine.</head>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="1">Un illustre indien a terminé sa vie :</l>
 	<l id="2">Sachez donc si sa veuve, à l’usage asservie,</l>
 	<l id="3">Conformant sa conduite aux mœurs de nos climats,</l>
@@ -77,11 +77,11 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II. Le Grand et le Jeune Bramines.</head>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="9" part="f">Oui, c’est vous dont le zèle</l>
 	<l id="10">Conduira de sa mort la pompe solennelle.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="11">Quoi ! Les Européens, accourus vers nos ports,</l>
 	<l id="12">De leurs vaisseaux nombreux investissent ces bords ;</l>
 	<l id="13">Tant de foudres lancés sur les murs de la ville,</l>
@@ -105,7 +105,7 @@
 	<l id="31">Où dans l’illusion d’un douloureux ennui,</l>
 	<l id="32">Elle voit comme un bien de mourir avec lui.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="33">Qu’importe qu’en mourant il n’ait point reçu d’elle</l>
 	<l id="34">Le serment de le suivre en la nuit éternelle ?</l>
 	<l id="35">Pensez-vous que du sang dont on sait qu’elle sort,</l>
@@ -123,7 +123,7 @@
 	<l id="47">Elle ne traînerait que des jours languissants,</l>
 	<l id="48">S’abreuverait de pleurs et mourrait plus longtemps.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="49">Il est vrai ; cependant, pour peu qu’on soit sensible,</l>
 	<l id="50">Avouez avec moi qu’il doit paraître horrible</l>
 	<l id="51">Qu’on réserve à la femme un si funeste sort,</l>
@@ -139,7 +139,7 @@
 	<l id="61">Eh quoi ! Pour honorer la cendre de leur père,</l>
 	<l id="62">Ont-ils donc oublié que sa veuve est leur mère ?</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="63">Et vous, ignorez-vous sous quel sceptre d’airain</l>
 	<l id="64">L’usage impérieux courbe le genre humain ?</l>
 	<l id="65">Observez le tableau des mœurs universelles,</l>
@@ -159,7 +159,7 @@
 	<l id="79">Au reste de la terre, un honneur étranger,</l>
 	<l id="80">De sang-froid, pour un mot, force à s’entr’égorger.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="81">Ainsi, l’exemple affreux des coutumes barbares,</l>
 	<l id="82">Autorise et maintient des excès si bizarres ;</l>
 	<l id="83">Ainsi, quand des autels la femme ose approcher,</l>
@@ -177,7 +177,7 @@
 	<l id="95">Et bien loin d’adoucir, de plaindre notre sort,</l>
 	<l id="96">C’est vous qui nous donnez l’esclavage et la mort.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="97">Quel langage inouï ! Quelle erreur te domine !</l>
 	<l id="98">N’es-tu donc dans le cœur indien, ni bramine ?</l>
 	<l id="99">La femme naît pour nous ; et par un fol égard,</l>
@@ -225,7 +225,7 @@
 	<l id="141">Tous abréger la vie et souffrir sans murmure,</l>
 	<l id="142">Tous braver la douleur et dompter la nature.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="143">Ah ! Du moins à souffrir aucun d’eux n’est contraint,</l>
 	<l id="144">Ne gémit de ses maux, et ne veut être plaint ;</l>
 	<l id="145">Mais ici par l’honneur la femme est poursuivie ;</l>
@@ -255,12 +255,12 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III. Le grand et le jeune bramines, un bramine.</head>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="169">Eh bien ! Qu’avez-vous su ? Cette veuve fidèle</l>
 	<l id="170">Aux mânes d’un époux se sacrifiera-t-elle ?</l>
 	<l id="171" part="i">A-t-elle enfin promis ?</l>
 </sp>
-<sp who="LE-BRAMINE"><speaker>Le BRAMINE.</speaker>
+<sp who="LE-BRAMINE"><speaker>LE BRAMINE.</speaker>
 	<l id="171" part="f">Même dès aujourd’hui</l>
 	<l id="172">Elle va s’immoler et se rejoindre à lui.</l>
 	<l id="173">Ses parents l’entouraient et ne l’ont point quittée ;</l>
@@ -276,7 +276,7 @@
 	<l id="183">Quoique si jeune encor, d’un cœur ferme, dit-on,</l>
 	<l id="184">Elle fait de sa vie un sublime abandon.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="185">Je n’espérais pas moins ; et je vois sans surprise,</l>
 	<l id="186">Surtout dans ces moments, sa conduite soumise.</l>
 	<l id="187">Le siége avance, amis ; l’européen jaloux,</l>
@@ -287,11 +287,11 @@
 	<l id="192">Et qu’après la conquête elle reste en vigueur.</l>
 	<l id="193">Cette veuve bientôt se rendra-t-elle au temple ?</l>
 </sp>
-<sp who="LE-BRAMINE"><speaker>Le BRAMINE.</speaker>
+<sp who="LE-BRAMINE"><speaker>LE BRAMINE.</speaker>
 	<l id="194">Oui, vous allez la voir donner un grand exemple.</l>
 	<l id="195">Tout le peuple s’empresse autour de ces lieux saints.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="196">Elle va donc mourir ! Hélas ! Que je la plains !</l>
 	<l id="197">Brillante encor d’attraits, et dans la fleur de l’âge,</l>
 	<l id="198">Ah ! Qu’il est douloureux d’exercer ce courage,</l>
@@ -314,7 +314,7 @@
 	<l id="215">Dont l’homme ne peut fuir ni détourner les traits,</l>
 	<l id="216">Ne sont rien près des maux que lui-même il s’est faits.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="217">Entends une autre voix qui te parle et te crie :</l>
 	<l id="218">Qu’attends-tu de ce monde ? Est-ce là ta patrie ?</l>
 	<l id="219">Nous naissons pour les maux, n’en sois point abattu,</l>
@@ -322,10 +322,10 @@
 	<l id="221">De Brama, dans ce temple, entends la voix terrible :</l>
 	<l id="222">Tu deviens sacrilège, et tu te crois sensible.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="223">Ah ! Si dans d’autres mains ici vous remettiez...</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="224">Vous êtes le dernier de nos initiés ;</l>
 	<l id="225">C’est à vous au bûcher de guider la victime,</l>
 	<l id="226">Et d’affermir encor le zèle qui l’anime.</l>
@@ -337,13 +337,13 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV. Le grand bramine, un bramine, un officier du gouverneur.</head>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="231">Quel sujet si pressant vous amène vers nous ?</l>
 </sp>
 <sp who="L-OFFICIER"><speaker>L’OFFICIER.</speaker>
 	<l id="232" part="i">L’ordre du gouverneur.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="232" part="f">Eh bien ! Qu’annoncez-vous ?</l>
 </sp>
 <sp who="L-OFFICIER"><speaker>L’OFFICIER.</speaker>
@@ -358,12 +358,12 @@
 	<l id="241">Le gouverneur craindrait une cérémonie</l>
 	<l id="242">Qui de l’européen révolte le génie.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="243">Allez, dans un moment je vais l’entretenir.</l>
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V. Le grand bramine et les bramines.</head>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE, aux bramines.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE, aux bramines.</speaker>
 	<l id="244">Attendre ! Différer ce qu’il faut maintenir !</l>
 	<l id="245">Quel est donc son dessein ? Quand on craint la conquête,</l>
 	<l id="246">À conserver nos mœurs est-ce ainsi qu’on s’apprête ?</l>
@@ -402,7 +402,7 @@
 	<l id="273">Madame, à quelle loi vous êtes-vous soumise ?</l>
 	<l id="274" part="i">Je frémis d’y penser !</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="274" part="f">Reviens de ta surprise.</l>
 	<l id="275">Tu naquis dans la Perse, et sous un ciel plus doux ;</l>
 	<l id="276">Tu conçois peu les mœurs que tu vois parmi nous.</l>
@@ -414,7 +414,7 @@
 <sp who="FATIME"><speaker>FATIME.</speaker>
 	<l id="281">Votre malheur m’accable, et vous semblez tranquille.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="282">Mon époux ne vit plus ; de la terre il m’exile.</l>
 </sp>
 <sp who="FATIME"><speaker>FATIME.</speaker>
@@ -425,7 +425,7 @@
 	<l id="287">Autant que vous l’aimiez, s’il vous aimait, hélas !</l>
 	<l id="288" part="i">Aurait-il exigé...</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="288" part="f">Tu ne m’entendais pas :</l>
 	<l id="289">L’honneur est mon tyran, il asservit mon âme ;</l>
 	<l id="290">Ou vivre dans la honte, ou mourir dans la flamme,</l>
@@ -434,7 +434,7 @@
 <sp who="FATIME"><speaker>FATIME.</speaker>
 	<l id="292" part="i">Elle est injuste, affreuse.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="292" part="f">Elle existe, il suffit.</l>
 </sp>
 <sp who="FATIME"><speaker>FATIME.</speaker>
@@ -449,7 +449,7 @@
 	<l id="301">Sans peine il l’imposa sur un sexe timide,</l>
 	<l id="302">Tandis qu’il s’affranchit de ce joug homicide.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="303">Je renonce à la vie, ainsi le veut l’honneur.</l>
 	<l id="304">Hélas ! J’ai renoncé dès longtemps au bonheur ;</l>
 	<l id="305">Tu vois ma destinée et ma douleur profonde,</l>
@@ -460,20 +460,20 @@
 	<l id="308">Qu’entends-je ? Ma surprise égale mon effroi.</l>
 	<l id="309">Eh quoi ! Dans votre hymen vous n’étiez point heureuse ?</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="310">Non : tu ne connais pas mon infortune affreuse.</l>
 </sp>
 <sp who="FATIME"><speaker>FATIME.</speaker>
 	<l id="311">Au fond de votre cœur quel désespoir j’ai lu !</l>
 	<l id="312" part="i">Vous me cachez vos pleurs.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="312" part="f">Le ciel n’a pas voulu...</l>
 </sp>
 <sp who="FATIME"><speaker>FATIME.</speaker>
 	<l id="313">Parlez : quelle douleur trop longtemps renfermée...</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="314">Fatime, il est trop vrai, j’aimais, j’étais aimée.</l>
 	<l id="315">Jour sinistre où du Gange abandonnant les ports</l>
 	<l id="316">Nous partîmes d’Ougly pour habiter ces bords.</l>
@@ -497,14 +497,14 @@
 	<l id="332">Va servir de trophée aux mânes d’un cruel ;</l>
 	<l id="333">Le sort vous en délivre, et sa faveur est vaine !</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="334" part="i">Ta plainte l’est bien plus.</l>
 </sp>
 <sp who="FATIME"><speaker>FATIME.</speaker>
 	<l id="334" part="f">Vous redoublez ma peine.</l>
 	<l id="335" part="i">Mais où vit votre amant ?</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="335" part="f">J’ignore son destin ;</l>
 	<l id="336">Mais je sais qu’il m’aima, qu’il désira ma main,</l>
 	<l id="337">Qu’il me fut arraché, qu’il fallut me contraindre,</l>
@@ -531,7 +531,7 @@
 <sp who="FATIME"><speaker>FATIME.</speaker>
 	<l id="357" part="i">Ah ! Que m’apprenez-vous ?</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="357" part="f">J’en ai trop dit, Fatime.</l>
 	<l id="358">Excuse, époux cruel, excuse ta victime :</l>
 	<l id="359">Ce cœur toujours soumis, quoique tyrannisé,</l>
@@ -548,7 +548,7 @@
 <sp who="FATIME"><speaker>FATIME.</speaker>
 	<l id="369">Après un tel hymen, quel étrange partage !</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="370">Si tu m’aimes encor, laisse-moi mon courage,</l>
 	<l id="371">J’en ai besoin, Fatime, et n’ai plus d’autre bien.</l>
 	<l id="372">Mais ne révèle point ce funeste entretien :</l>
@@ -573,12 +573,12 @@
 	<l id="385">Venez-vous réclamer une affreuse promesse ?</l>
 	<l id="386">Venez-vous de mes bras arracher ma maîtresse ?</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="387" part="i">Laisse-nous.</l>
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III. La veuve, le jeune bramine.</head>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="387" part="f">Je reçois ainsi des deux côtés</l>
 	<l id="388">Des reproches cruels et si peu mérités.</l>
 	<l id="389">Vous me croyez, madame, inhumain, inflexible,</l>
@@ -600,7 +600,7 @@
 	<l id="405">Hélas ! Plus je vous vois, plus mon âme attendrie</l>
 	<l id="406">Répugne à cet arrêt qui vous ôte la vie.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="407">Quel est cet intérêt qui vous parle pour moi ?</l>
 	<l id="408">Est-ce à vous dans ce temple à montrer tant d’effroi ?</l>
 	<l id="409">Comment à ces autels celui qui se destine,</l>
@@ -608,7 +608,7 @@
 	<l id="411">Ou comment, né sensible, est-on associé</l>
 	<l id="412">À des cœurs qui font vœu d’étouffer la pitié ?</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="413">Hélas ! De ses destins quel mortel est le maître ?</l>
 	<l id="414">Je fus infortuné du jour qui me vit naître.</l>
 	<l id="415">Faut-il que le mortel qui prévint mon trépas</l>
@@ -620,10 +620,10 @@
 	<l id="421">Je trouve donc partout un usage sinistre ;</l>
 	<l id="422">J’échappe à l’un, de l’autre on me fait le ministre.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="423" part="i">Eh ! Qui vous poursuivait ?</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="423" part="f">L’usage meurtrier,</l>
 	<l id="424">Qui trois jours fait suspendre aux branches d’un palmier</l>
 	<l id="425">Tout enfant nouveau-né dont la lèvre indocile</l>
@@ -634,7 +634,7 @@
 	<l id="430">Je ne dois m’attendrir que sur vos infortunes,</l>
 	<l id="431">Et c’est de mes malheurs que je vous entretiens.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="432">Le récit de vos maux vient d’ajouter aux miens.</l>
 	<l id="433">De ma famille, ô ciel ! Quelle est la destinée !</l>
 	<l id="434">Loin de ces tristes bords, aux lieux où je suis née,</l>
@@ -645,58 +645,58 @@
 	<l id="439">Et nous aurons péri dans des lieux différents,</l>
 	<l id="440">Mon frère à son aurore et moi dans mon printemps.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="441">Votre frère, madame, il périt au Bengale ?</l>
 	<l id="442">Telle était dans Ougly mon étoile fatale.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="443" part="i">Dans Ougly ? Quel rapport !</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="443" part="f">C’est là que je suis né.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="444">C’est là que pour souffrir le jour me fut donné.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="445" part="i">Eh ! Qui donc êtes-vous ?</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="445" part="f">Lanassa fut mon père.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="446" part="i">Ah ! Ma sœur !</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="446" part="m">Dieux !</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="446" part="f">Embrasse et reconnais ton frère.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="447">Toi, mon frère ! ô surcroît de rigueur dans mon sort !</l>
 	<l id="448">Je t’ai donc reconnu quand je vais à la mort !</l>
 	<l id="449" part="i">Où sommes-nous ? Ah ! Dieux !</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="449" part="f">Le ciel se manifeste.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="450">En quel jour nous rejoint la colère céleste !</l>
 	<l id="451">Ah ! Cruel ! Dont le sort vient de m’être éclairci,</l>
 	<l id="452">Rends-moi cet inconnu qui me plaignait ici.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="453" part="i">Que me dis-tu ?</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="453" part="f">Vois donc, vois quelle est ma misère !</l>
 	<l id="454">Tu dois vouloir ma mort, si tu naquis mon frère.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="455">Moi ! Vouloir ton trépas ? Quel délire ! Ah ! Ma sœur !</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="456">Si je le suis, commence à me fermer ton cœur.</l>
 	<l id="457">Le frère exhorte ici la sœur au sacrifice ;</l>
 	<l id="458">Mon honneur et le tien veulent qu’il s’accomplisse.</l>
@@ -709,7 +709,7 @@
 	<l id="465">Perdent entre nous deux leur charme, leur empire,</l>
 	<l id="466">Se tournent contre nous, et veulent que j’expire.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="467">Mes yeux sont dessillés, je te dois mon secours ;</l>
 	<l id="468">Je ne connais plus rien que le soin de tes jours.</l>
 	<l id="469">Que m’importent vos lois ? Que me fait votre usage ?</l>
@@ -733,7 +733,7 @@
 	<l id="487">Je suis par la nature un cœur simple entraîné,</l>
 	<l id="488">Je suis le frère enfin que le ciel t’a donné.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="489">Ta sensible amitié me rend, ô mon cher frère !</l>
 	<l id="490">Le jour plus désirable et ma fin plus amère.</l>
 	<l id="491">Crois qu’il m’en coûte assez, dans mes vives douleurs,</l>
@@ -748,38 +748,38 @@
 	<l id="500">Moins tu dois balancer à me laisser mourir :</l>
 	<l id="501">Les miens vont te forcer à te mettre à leur tête.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="502" part="i">Qu’oses-tu m’annoncer ?</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="502" part="m">Viens, suis mes pas.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="502" part="f">Arrête.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="503">De ta douleur sans fruit veux-tu donc m’accabler ?</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="504">Quoi ! Tant de fanatisme a-t-il pu t’aveugler ?</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="505">La honte que je crains peut-elle être bravée ?</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="506">Dois-je me plaindre au ciel de t’avoir retrouvée ?</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="507">Sois aujourd’hui mon frère en me laissant mon sort.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="508">Cesse d’être ma sœur, si ce nom veut ta mort.</l>
 	<l id="509">Attends du moins, attends d’un esprit plus tranquille</l>
 	<l id="510">Que la guerre ait fixé le sort de notre ville,</l>
 	<l id="511">Et que ce droit qu’ici tu crois avoir perdu,</l>
 	<l id="512">Ce droit de vivre, enfin, te puisse être rendu.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="513">Et si l’européen succombe sous nos armes,</l>
 	<l id="514">J’aurai donc laissé voir ma faiblesse et mes larmes ?</l>
 	<l id="515">Et pour en avoir cru ta douleur au hasard,</l>
@@ -791,7 +791,7 @@
 	<l id="521">Et d’une mort enfin que la gloire eût suivie,</l>
 	<l id="522">Je paraîtrais indigne autant que de la vie.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="523">Eh bien ! Ma sœur, hé bien ! Terminons ce débat,</l>
 	<l id="524">Change de destinée en changeant de climat :</l>
 	<l id="525">Ces effroyables mœurs parmi nous consacrées,</l>
@@ -809,7 +809,7 @@
 	<l id="537">Lois que le ciel, non l’homme, à la terre a prescrites,</l>
 	<l id="538">Et qui n’ont ni les temps ni les mers pour limites.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="539">De quel frivole espoir ton cœur est animé !</l>
 	<l id="540">Comment quitter ces bords ? L’univers m’est fermé :</l>
 	<l id="541">Si tu veux m’arracher à ce climat funeste,</l>
@@ -823,7 +823,7 @@
 	<l id="549">Et qu’une telle image, attachée à ma fuite,</l>
 	<l id="550">Ne me suive partout où tu m’aurais conduite.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="551">Poursuis, respecte encore une homicide loi,</l>
 	<l id="552">Crains l’époux comme un dieu prêt à tonner sur toi.</l>
 	<l id="553">Hélas ! Moi seul des tiens je t’aime et je te reste,</l>
@@ -841,7 +841,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="565">Quel est donc son projet ? Que va-t-il entreprendre ?</l>
 	<l id="566">Des soins de sa tendresse aurais-je à me défendre ?</l>
 </sp>
@@ -867,7 +867,7 @@
 	<l id="583">Qui dans la fleur des ans porte un cœur si cruel,</l>
 	<l id="584">Jette dans votre esprit ce désespoir mortel.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="585">Ah ! Tu ne connais pas... cache bien ce mystère ;</l>
 	<l id="586">Fatime, qui l’eût cru ? Ce bramine est mon frère.</l>
 	<l id="587">Oui, je l’ai retrouvé dans ce temple de mort ;</l>
@@ -879,7 +879,7 @@
 	<l id="591">L’emportent dans ce cœur tristement affermi !</l>
 	<l id="592" part="i">Un frère en vain vous aime !</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="592" part="f">Hélas ! J’aurais gémi</l>
 	<l id="593">De marcher au bûcher conduite par un frère,</l>
 	<l id="594">Et je gémis de voir qu’il cherche à m’y soustraire :</l>
@@ -902,7 +902,7 @@
 	<l id="609">Eh ! Qui sait, dans le camp s’ils n’ont pas connaissance</l>
 	<l id="610">De cet européen dont vous pleurez l’absence ?</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="611">Je saurais son destin !... Dieux ! Quel espoir m’a lui !</l>
 	<l id="612">Heureuse Lanassa ! Tu pourrais aujourd’hui !...</l>
 	<l id="613">Mon âme en ces moments ouverte à l’espérance,</l>
@@ -928,7 +928,7 @@
 </div1>
 <div1 type="acte" n="3"><head>ACTE III</head>
 <div2 type="scene" n="1"><head>SCÈNE I. Le général français, un officier français.</head>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="631">La trêve que je viens d’accorder à la ville,</l>
 	<l id="632">À nos guerriers ici laisse un accès facile ;</l>
 	<l id="633">Hors des murs ce parvis et ce temple bâtis</l>
@@ -946,7 +946,7 @@
 	<l id="643">Indiens ou français, victimes du carnage,</l>
 	<l id="644">Sans sépulture encor sur ce triste rivage ?</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="645">En mettant à la trêve un terme aussi prochain,</l>
 	<l id="646">En menaçant ces murs de l’assaut pour demain,</l>
 	<l id="647">Je sers les assiégés, et pour eux je profite</l>
@@ -989,7 +989,7 @@
 	<l id="682">Par les lois de la guerre on n’y saurait entrer :</l>
 	<l id="683" part="i">Comment puis-je savoir ? ...</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="683" part="f">Même hors de la ville</l>
 	<l id="684">Tu peux t’en informer, et c’est un soin facile ;</l>
 	<l id="685">Va, ne perds point de temps pour en être éclairci.</l>
@@ -1000,7 +1000,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL FRANÇAIS, seul.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL FRANÇAIS, seul.</speaker>
 	<l id="689">Toi que le ciel dérobe encore à mes regards,</l>
 	<l id="690">Ma chère Lanassa ! Vis-tu dans ces remparts ?</l>
 	<l id="691">As-tu pu rester libre ? Un cruel hyménée,</l>
@@ -1014,14 +1014,14 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III. Le général français, un officier français.</head>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="699">Eh bien ! Quel est son sort et que viens-tu me dire ?</l>
 	<l id="700" part="i">Sais-tu si Lanassa...</l>
 </sp>
 <sp who="L-OFFICIER"><speaker>L’OFFICIER.</speaker>
 	<l id="700" part="f">Je n’ai pu m’en instruire.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="701" part="i">Qui peut donc t’arrêter ?</l>
 </sp>
 <sp who="L-OFFICIER"><speaker>L’OFFICIER.</speaker>
@@ -1030,7 +1030,7 @@
 	<l id="703">Le peuple, dont la foule inonde ce rivage,</l>
 	<l id="704">De tout autre chemin m’a fermé le passage.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="705" part="i">Comment ! Explique-toi, parle.</l>
 </sp>
 <sp who="L-OFFICIER"><speaker>L’OFFICIER.</speaker>
@@ -1041,7 +1041,7 @@
 	<l id="709">La coutume l’ordonne et soutient sa vertu ;</l>
 	<l id="710" part="i">Elle suit son époux...</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="710" part="f">Ah ! Dieu ! Que me dis-tu ?</l>
 </sp>
 <sp who="L-OFFICIER"><speaker>L’OFFICIER.</speaker>
@@ -1058,7 +1058,7 @@
 	<l id="721">C’est le triomphe ici de la cupidité,</l>
 	<l id="722">Celui du fanatisme et de la cruauté.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="723">Et la religion consacre leur furie !</l>
 	<l id="724">Nous pourrions, nous, français, souffrir leur barbarie ?</l>
 	<l id="725">Elle irait à la mort, et j’en serais témoin ?</l>
@@ -1066,7 +1066,7 @@
 <sp who="L-OFFICIER"><speaker>L’OFFICIER.</speaker>
 	<l id="726">Pardonnez, si par vous chargé d’un autre soin...</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="727">Oublions mon amour, l’humanité m’appelle ;</l>
 	<l id="728">Ces moments sont trop chers, sont trop sacrés pour elle :</l>
 	<l id="729">De ma défense, ami, l’infortune a besoin ;</l>
@@ -1082,7 +1082,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV. Le grand bramine, suivi de ses bramines ; Le général français, les deux officiers français.</head>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="736">Superbe européen, quels sont donc ces murmures ?</l>
 	<l id="737">De l’époux qui n’est plus cet hommage attendu,</l>
 	<l id="738">Ce digne sacrifice est presque suspendu ;</l>
@@ -1091,13 +1091,13 @@
 	<l id="741">Sans respect pour le temple, en ce parvis sacré,</l>
 	<l id="742">En tumulte par eux je viens d’être entouré.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="743">Ah ! Je les reconnais au vœu qui les enflamme !</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="744" part="i">Tu leur donnais cet ordre ?</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="744" part="f">Il était dans leur âme.</l>
 <stage>À l’officier français.</stage>
 	<l id="745">Cours, suspends en mon nom les transports des français.</l>
@@ -1105,7 +1105,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V. Le grand bramine, le général français.</head>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="747">Barbare, il est donc vrai, ces mœurs abominables</l>
 	<l id="748">Que les européens traitent encor de fables,</l>
 	<l id="749">Tant ils ont peine à croire à leur férocité,</l>
@@ -1139,37 +1139,37 @@
 	<l id="777">Et faire dire un jour à la postérité :</l>
 	<l id="778">Montalban, sur ces bords, fonda l’humanité.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="779" part="i">Quelle est donc ton audace ?</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="779" part="f">Apprends à nous connaître.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="780">Es-tu vainqueur ici pour nous parler en maître ?</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="781" part="i">Je parle en homme.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="781" part="f">Et moi comme organe des cieux,</l>
 	<l id="782">Comme un prêtre, un mortel inspiré par ses dieux.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="783">Tes dieux t’exciteraient à tant de barbarie !</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="784">Quel es-tu, pour juger des mœurs de ma patrie,</l>
 	<l id="785">Pour vouloir renverser et plonger dans l’oubli</l>
 	<l id="786">Sur des siècles sans nombre un usage établi ?</l>
 	<l id="787">Crois-tu déraciner de ta main faible et fière</l>
 	<l id="788">Cet antique cyprès qui couvre l’Inde entière ?</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="789">J’y porterai la hache. Et l’effort sera vain.</l>
 	<l id="790">Le temps autour de l’arbre a mis un triple airain.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="791">Dis autour de ton cœur : plus l’usage est antique,</l>
 	<l id="792">Plus il est temps qu’il cesse, et plus, cœur fanatique,</l>
 	<l id="793">Tu devrais commencer à sentir les remords</l>
@@ -1191,7 +1191,7 @@
 	<l id="809">Tigres, j’arrêterai vos excès inhumains ;</l>
 	<l id="810">Vos infâmes bûchers par moi seront éteints.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="811">Éteindras-tu l’amour ? Éteindras-tu le zèle,</l>
 	<l id="812">Le courage fondé sur la base immortelle</l>
 	<l id="813">De la religion qui confond dans ces lieux</l>
@@ -1209,7 +1209,7 @@
 	<l id="825">Les femmes autrefois, ne l’as-tu point appris ?</l>
 	<l id="826">Hâtaient par le poison la mort de leurs maris.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="827">Non, je ne te crois pas ; ces épouses fatales,</l>
 	<l id="828">L’enfer ne les vomit qu’à de longs intervalles.</l>
 	<l id="829">Le crime sur la terre est toujours étranger :</l>
@@ -1231,7 +1231,7 @@
 	<l id="845">Que dis-je ? Applaudis-toi, quand je lui tends la main ;</l>
 	<l id="846">Laisse-là ta coutume, il s’agit d’être humain.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="847">Tu te flattes en vain que ton bras la délivre,</l>
 	<l id="848">Qu’assez lâche aujourd’hui pour consentir à vivre,</l>
 	<l id="849">Elle aille sous ses pieds disperser sans remords</l>
@@ -1241,7 +1241,7 @@
 	<l id="853">À leur exemple ici sois donc moins effrayé :</l>
 	<l id="854">Ils domptent la nature, étouffe la pitié.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="855">Oui, tyran ! Je vois trop que ton âme inflexible,</l>
 	<l id="856">À toute émotion veut être inaccessible ;</l>
 	<l id="857">Je vois trop dans ce temple, ouvert au préjugé,</l>
@@ -1257,21 +1257,21 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI. Le grand bramine, un bramine, le général français.</head>
-<sp who="UN-BRAMINE"><speaker>Un BRAMINE.</speaker>
+<sp who="UN-BRAMINE"><speaker>UN BRAMINE.</speaker>
 	<l id="867">La veuve a dépouillé dans l’enceinte sacrée</l>
 	<l id="868">Les pompeux ornements dont elle était parée ;</l>
 	<l id="869">On vous attend, on veut remettre entre vos mains</l>
 	<l id="870" part="i">Les offrandes.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="870" part="m">Sortons.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="870" part="f">Arrêtez, inhumains !</l>
 	<l id="871">Il n’est point de moyens qu’en ces lieux je n’emploie ;</l>
 	<l id="872">Oui, dès ce moment même, il faut que je la voie.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="873">Modère ce transport et quitte cet espoir ;</l>
 	<l id="874">Se soustraire aux regards est pour elle un devoir :</l>
 	<l id="875">Jamais un étranger ne peut approcher d’elle :</l>
@@ -1279,7 +1279,7 @@
 	<l id="877">Des expiations, des soins religieux</l>
 	<l id="878">Dérobent même encor sa présence à nos yeux.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="879">Elle ne mourra point : malgré ton artifice,</l>
 	<l id="880">Je saurai la soustraire aux horreurs du supplice.</l>
 	<l id="881">Tyran d’un sexe faible ! Ah ! Tu ne sais donc pas</l>
@@ -1289,7 +1289,7 @@
 	<l id="885">Même sans le lien des amoureux penchants,</l>
 	<l id="886">Nous sauvâmes sa vie ou sa gloire en tout temps.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="887">Et c’est où je t’arrête ; oui, c’est sa gloire même,</l>
 	<l id="888">Qui de mourir ici lui fait la loi suprême.</l>
 	<l id="889">Penses-tu qu’oubliant tout ce qu’elle se doit,</l>
@@ -1307,7 +1307,7 @@
 	<l id="897">J’accours vers vous, seigneur ; ah ! Savez-vous les vœux ;</l>
 	<l id="898">Les soins du gouverneur et ses complots affreux ?</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="899">Précipiterait-on cet appareil tragique ?</l>
 </sp>
 <sp who="L-OFFICIER"><speaker>L’OFFICIER.</speaker>
@@ -1317,7 +1317,7 @@
 	<l id="903">Pour laisser au bramine, impunément barbare,</l>
 	<l id="904">Le loisir d’attiser le bûcher qu’il prépare.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="905">J’apprêtais ce triomphe au bramine endurci !</l>
 	<l id="906">Pour la faire périr on me jouait ainsi !</l>
 	<l id="907">Ah ! D’indignation tout mon cœur se soulève.</l>
@@ -1345,7 +1345,7 @@
 </div1>
 <div1 type="acte" n="4"><head>ACTE IV</head>
 <div2 type="scene" n="1"><head>SCÈNE I.</head>
-<sp who="LA-VEUVE"><speaker>La VEUVE, vêtue de lin.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE, vêtue de lin.</speaker>
 	<l id="927">Voilà donc mon destin ! Voilà donc mon partage !</l>
 	<l id="928">J’achèverai de vivre à la fleur de mon âge.</l>
 	<l id="929">Le ciel me rend un frère, et c’est dans ces moments</l>
@@ -1373,7 +1373,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II. La veuve, le grand bramine.</head>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="951">La parole, Madame, à vos parents donnée,</l>
 	<l id="952">Ne laisse aucun retour à votre âme enchaînée.</l>
 	<l id="953">Au sang dont vous sortez votre vertu répond ;</l>
@@ -1403,7 +1403,7 @@
 	<l id="977">Et qui pour leurs époux n’ont pas cru dans le ciel</l>
 	<l id="978">Trop payer de leur mort un repos éternel.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="979">Sans savoir par quels biens un Dieu juste répare</l>
 	<l id="980">Les horreurs de la mort que la loi me prépare,</l>
 	<l id="981">Et sans vouloir chercher, par un soin superflu,</l>
@@ -1429,7 +1429,7 @@
 	<l id="1001">Et que l’humanité, dont il blesse les lois,</l>
 	<l id="1002">Reprenne en ces climats son empire et ses droits.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="1003">Qu’osez-vous souhaiter ? Qu’avez-vous dit, madame ?</l>
 	<l id="1004">Étouffez un tel vœu dans le fond de votre âme.</l>
 	<l id="1005">L’humanité ! Faiblesse ! Impuissance du bien,</l>
@@ -1451,7 +1451,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="1021">Où fuir ? Où me sauver d’un horrible trépas ?</l>
 	<l id="1022">La flamme me poursuit, je la vois sous mes pas,</l>
 	<l id="1023">Je la sens... que de maux avant de cesser d’être !</l>
@@ -1459,7 +1459,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV. La veuve, le jeune bramine.</head>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1025">J’accours vers toi, ma sœur, tu vas changer de sort ;</l>
 	<l id="1026">Connais mon espérance et renonce à la mort.</l>
 	<l id="1027">Du chef des assiégeants la généreuse envie</l>
@@ -1467,10 +1467,10 @@
 	<l id="1029">Tu vivras, il l’exige ; un dieu consolateur</l>
 	<l id="1030">De ce vaillant guerrier fait ton libérateur.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="1031">Il ne s’informait point quelle était la victime ?</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1032">Non ; l’humanité seule et l’inspire et l’anime.</l>
 	<l id="1033">Avec quelle chaleur sa pitié, son courroux,</l>
 	<l id="1034">Son indignation éclatait devant nous !</l>
@@ -1489,7 +1489,7 @@
 	<l id="1047">Et sans tes surveillants, dans sa fureur extrême,</l>
 	<l id="1048">Il viendrait en ce lieu t’en arracher lui-même.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="1049">Ah ! Détourne ses pas ; tu connais trop la loi,</l>
 	<l id="1050">Il ne peut en ces lieux paraître devant moi ;</l>
 	<l id="1051">Les yeux d’un étranger souilleraient la victime,</l>
@@ -1504,7 +1504,7 @@
 <stage>À part.</stage>
 	<l id="1060">D’ailleurs puis-je accepter ? Un seul mortel peut-être...</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1061">J’ai vu l’instant, te dis-je, où pour l’humanité,</l>
 	<l id="1062">Des lois de l’honneur même il se fût écarté.</l>
 	<l id="1063">Oui, prêt à tout oser, prêt à rompre la trêve,</l>
@@ -1533,7 +1533,7 @@
 	<l id="1081">Ou les soins du guerrier qui vous sert aujourd’hui,</l>
 	<l id="1082">Peut-être vains pour vous, vont tourner contre lui.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="1083">Eh quoi ! Malgré la trêve, il périrait, Fatime !</l>
 	<l id="1084">J’ai trop tardé, sans doute, à livrer la victime.</l>
 	<l id="1085">Je cours de mon bûcher ordonner les apprêts.</l>
@@ -1541,10 +1541,10 @@
 <sp who="FATIME"><speaker>FATIME.</speaker>
 	<l id="1086" part="i">Ô ciel ! Qu’allez-vous faire ?</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1086" part="f">Et je le souffrirais !</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="1087">Voyez à quels périls mon intérêt l’expose.</l>
 	<l id="1088">Il peut perdre la vie, et j’en serais la cause.</l>
 	<l id="1089">Je crains pour lui l’appui qu’il daigne me prêter ;</l>
@@ -1554,11 +1554,11 @@
 	<l id="1093">De tous ces furieux détourner le poignard,</l>
 	<l id="1094">Et mettre entre eux et lui mon bûcher pour rempart.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1095">Ton danger fait le sien : ma sœur, consens à vivre,</l>
 	<l id="1096">Et ce peuple aujourd’hui cesse de le poursuivre.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="1097">Mon trépas le sert mieux, et je cours à la mort,</l>
 	<l id="1098">Autant pour le sauver, que pour remplir mon sort.</l>
 	<l id="1099">On ne me verra point, en prolongeant ma vie,</l>
@@ -1568,7 +1568,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI. Fatime, le jeune bramine.</head>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1103">Ne l’abandonnez pas : pour chercher le grand-prêtre,</l>
 	<l id="1104">Le général français ici va reparaître ;</l>
 	<l id="1105">J’attendrai ce guerrier, j’obtiendrai qu’aujourd’hui</l>
@@ -1576,7 +1576,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII.</head>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1107">Ainsi le fanatisme aveugle ses victimes !</l>
 	<l id="1108">Héroïque mortel, plein de transports sublimes,</l>
 	<l id="1109">Faut-il donc pour toi-même avoir à redouter</l>
@@ -1584,34 +1584,34 @@
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII. Le jeune bramine, le général français.</head>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1111">Seigneur, où courez-vous ? Je mérite peut-être...</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1112" part="i">Que me veux-tu ?</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1112" part="f">Qu’au moins vous daigniez me connaître.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1113">J’ai vu le chef des tiens, c’est te connaître assez.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1114">Ah ! Je diffère d’eux plus que vous ne pensez.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1115" part="i">Que m’importe ?</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1115" part="f">Je plains le destin déplorable</l>
 	<l id="1116">De celle qu’en ces lieux notre coutume accable.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1117">Au-devant de mes pas t’aurait-on envoyé ?</l>
 	<l id="1118">De toi tout m’est suspect et jusqu’à la pitié ;</l>
 	<l id="1119" part="i">Laisse-moi.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1119" part="f">Non, seigneur, que mon cœur vous révèle...</l>
 	<l id="1120">Quel puissant intérêt m’est inspiré par elle.</l>
 	<l id="1121">À la mort qui l’attend vous voulez la ravir,</l>
@@ -1619,24 +1619,24 @@
 	<l id="1123">Connaissez en un mot toute ma destinée :</l>
 	<l id="1124">J’ai retrouvé ma sœur dans cette infortunée.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1125" part="i">Ta sœur ! Elle !</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1125" part="m">Elle-même.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1125" part="f">Ah ! Dieu ! S’il est ainsi,</l>
 	<l id="1126">Barbare, ses dangers en sont plus grands ici.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1127" part="i">Ils le sont moins, seigneur.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1127" part="f">Je sais trop votre rage,</l>
 	<l id="1128">À quelle cruauté le nom de frère engage.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1129">Ne me confondez point, par grâce, avec les miens ;</l>
 	<l id="1130">Non, je sais mieux du sang respecter les liens :</l>
 	<l id="1131">Ma sœur, prête à périr par des lois inhumaines,</l>
@@ -1645,18 +1645,18 @@
 	<l id="1134">Je suis européen dès qu’il faut la sauver ;</l>
 	<l id="1135" part="i">Attendez tout de moi, seigneur.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1135" part="f">Vous l’avez vue.</l>
 	<l id="1136">Est-il vrai qu’à la mort elle soit résolue ?</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1137">Vous en seriez surpris, vous en seriez touché.</l>
 	<l id="1138">À son cruel devoir son cœur est attaché ;</l>
 	<l id="1139">Devoir d’autant plus dur à son âme asservie,</l>
 	<l id="1140">Qu’on croit que cet hymen qui lui coûte la vie,</l>
 	<l id="1141">N’était point le lien que son cœur eût choisi.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1142">Et celui qu’elle aimait, d’un lâche effroi saisi,</l>
 	<l id="1143">Souffrira sous ses yeux cet horrible spectacle !</l>
 	<l id="1144">À la mort d’une amante il n’ose mettre obstacle !</l>
@@ -1665,7 +1665,7 @@
 	<l id="1147">Le lâche ! Que fait-il ? Qu’est-ce qu’il appréhende ?</l>
 	<l id="1148">Comment peut-il souffrir qu’un autre la défende ?</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1149">Sans doute en d’autres lieux le ciel l’a retenu :</l>
 	<l id="1150">Mais qu’avec mes destins mon cœur vous soit connu :</l>
 	<l id="1151">Autant que je le puis, je répare l’injure</l>
@@ -1680,46 +1680,46 @@
 	<l id="1160">De sauver, s’il se peut, des jours qu’elle abandonne ;</l>
 	<l id="1161" part="i">Arrachons Lanassa...</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1161" part="f">La foudre m’a frappé !</l>
 	<l id="1162" part="i">Quel nom !</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1162" part="f">Quel cri, seigneur, vous est donc échappé ?</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1163" part="i">Lanassa la victime !</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1163" part="f">Elle vous est connue ?</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1164">Lanassa pour mourir dans ces lieux retenue !</l>
 	<l id="1165">Et j’ignorais mes maux, je venais de si loin</l>
 	<l id="1166">Pour être de sa mort l’infortuné témoin !</l>
 	<l id="1167" part="i">Je veux la voir.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1167" part="m">Seigneur...</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1167" part="f">J’y vole à l’instant même.</l>
 	<l id="1168">Veux-tu donc que je laisse immoler ce que j’aime ?</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1169" part="i">Vous l’aimeriez ? Qui, vous ?</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1169" part="f">N’arrête point mes pas.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1170">D’impénétrables murs ne vous permettront pas...</l>
 	<l id="1171">Et la trêve interdit, seigneur, la force ouverte ;</l>
 	<l id="1172">Oui, ce serait courir vous-même à votre perte.</l>
 	<l id="1173">N’allons point rendre vains, par d’aveugles transports,</l>
 	<l id="1174">Les prodiges qu’un Dieu fait pour nous sur ces bords.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1175">Eh ! Que peux-tu pour elle en ce péril extrême ?</l>
 	<l id="1176">Il est un souterrain caché dans ces murs même,</l>
 	<l id="1177">Et par où l’on m’a dit qu’une femme autrefois</l>
@@ -1733,12 +1733,12 @@
 	<l id="1185">Moi du sein de ce temple avec vous au-dehors,</l>
 	<l id="1186">Le ciel, c’est mon espoir, va servir nos efforts.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1187">Si près et si loin d’elle ! Ah ! Chaque instant me tue.</l>
 	<l id="1188">Je frissonne d’horreur ; mon oreille éperdue,</l>
 	<l id="1189">Dans des feux dévorants croit entendre ses cris.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1190">Ah ! Seigneur, commandez encore à vos esprits.</l>
 	<l id="1191">Redoutez aujourd’hui ce zèle fanatique,</l>
 	<l id="1192">D’où sortirait bientôt la révolte publique ;</l>
@@ -1749,23 +1749,23 @@
 	<l id="1197">Regagnez votre camp, pour Lanassa, pour vous ;</l>
 	<l id="1198">Dérobez-vous surtout à de perfides coups.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1199">Eh bien ! Je veux t’en croire et suis sans défiance :</l>
 	<l id="1200">Mais de ton zèle ici pour première assurance,</l>
 	<l id="1201">Viens donc chez le grand-prêtre abjurer devant moi</l>
 	<l id="1202">Le ministère affreux qu’il n’a commis qu’à toi.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1203">Que dites-vous ? Non, non ; il me faut, au contraire,</l>
 	<l id="1204">Feindre encor de garder ce fatal ministère :</l>
 	<l id="1205">Il serait aussitôt remis en d’autres mains ;</l>
 	<l id="1206">Le délai nous sert mieux contres des inhumains.</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1207">Je cède à tes raisons ; ton zèle me rassure.</l>
 	<l id="1208">Je servirai l’amour ; cours servir la nature.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1209">Ma sœur me résistait ; mais je vais l’informer</l>
 	<l id="1210">Quel bras en sa faveur aujourd’hui va s’armer.</l>
 	<l id="1211">Le grand-prêtre s’avance ; adieu, seigneur ; je tremble</l>
@@ -1774,20 +1774,20 @@
 </sp>
 </div2>
 <div2 type="scene" n="9"><head>SCÈNE IX. Le grand bramine, le général français.</head>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1213" part="f">Vas-tu donc la chercher ?</l>
 	<l id="1214">Vas-tu dans ta fureur la traîner au bûcher ?</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="1215">Profane, crois-tu donc que sa vertu constante...</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1216">Je n’aurai point en vain retardé ton attente.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="1217">Quand tu vois que son sort et même ses souhaits...</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1218">Son sort d’elle et de toi dépend moins que jamais.</l>
 	<l id="1219">Le dessein que j’ai pris n’est que trop légitime ;</l>
 	<l id="1220">Tu ne connaissais pas le prix de la victime,</l>
@@ -1808,7 +1808,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="10"><head>SCÈNE X. Le grand bramine, les bramines.</head>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="1235">Quel est donc cet excès de démence et de rage ?</l>
 	<l id="1236">Jusqu’au pied des autels l’insolent nous outrage.</l>
 	<l id="1237">De la religion il attaque les droits ;</l>
@@ -1826,7 +1826,7 @@
 <sp who="FATIME"><speaker>FATIME.</speaker>
 	<l id="1243">Où portez-vous vos pas, et quel soin vous anime ?</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1244">Ma sœur n’a plus d’appui, tout est perdu, Fatime.</l>
 	<l id="1245">Vous avez cette nuit entendu vers le fort</l>
 	<l id="1246">Quels éclats ont soudain retenti sur le port ;</l>
@@ -1842,14 +1842,14 @@
 <sp who="FATIME"><speaker>FATIME.</speaker>
 	<l id="1255">Ainsi toute espérance est pour jamais détruite.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1256">De cet événement voyez déjà la suite ;</l>
 	<l id="1257" part="i">Le bûcher est dressé.</l>
 </sp>
 <sp who="FATIME"><speaker>FATIME.</speaker>
 	<l id="1257" part="f">Quel spectacle d’horreur !</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1258">On va me commander d’y conduire ma sœur ;</l>
 	<l id="1259">Mais avant d’obéir, de me séparer d’elle,</l>
 	<l id="1260">Dût fondre sur ma tête une foule cruelle,</l>
@@ -1857,7 +1857,7 @@
 	<l id="1262">Il faudra que moi-même on m’immole en ces lieux.</l>
 	<l id="1263" part="i">Et loin d’elle au moment...</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1263" part="f">Sa prudence inquiète</l>
 	<l id="1264">M’interdit avec soin l’accès de sa retraite,</l>
 	<l id="1265">Tant elle a craint mon zèle, et surtout les secours</l>
@@ -1869,7 +1869,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1271">Dans un si beau dessein cet étranger succombe ;</l>
 	<l id="1272">Ma déplorable sœur dans l’abîme retombe.</l>
 	<l id="1273">J’espérais que son cœur, qui me brave aujourd’hui,</l>
@@ -1881,7 +1881,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III. Le grand et le jeune bramines, Peuples indiens.</head>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="1279">Peuples, soyez en paix ; c’est moi qui vous délivre</l>
 	<l id="1280">De ces européens ardents à vous poursuivre ;</l>
 	<l id="1281">Une fois dans la ville entrés victorieux,</l>
@@ -1906,7 +1906,7 @@
 	<l id="1299">C’est vous que j’ai chargé d’amener la victime ;</l>
 	<l id="1300" part="i">Allez, ne tardez pas.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1300" part="f">Qui ! Moi ! Qu’après ton crime,</l>
 	<l id="1301">Soumis à tes fureurs, je coure la chercher ?</l>
 	<l id="1302">Que je traîne une femme à ce fatal bûcher ?</l>
@@ -1919,22 +1919,22 @@
 	<l id="1309">Connais-moi tout entier, et sache qu’aujourd’hui,</l>
 	<l id="1310">Pour sauver Lanassa, je me joignais à lui.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="1311">Qu’entends-je ? Tu formais une trame si noire,</l>
 	<l id="1312" part="i">Et m’oses insulter, toi, traître ?</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1312" part="f">Et j’en fais gloire.</l>
 	<l id="1313">Je l’étais envers toi, non comme toi, cruel,</l>
 	<l id="1314">Pour commettre le crime à l’ombre de l’autel ;</l>
 	<l id="1315">Je l’étais pour sauver d’une mort effroyable</l>
 	<l id="1316">Un sexe infortuné que ta coutume accable.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="1317">Vois donc où t’a conduit une folle pitié,</l>
 	<l id="1318" part="i">Tu livrais ton pays !</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1318" part="f">J’en sauvais la moitié,</l>
 	<l id="1319">La moitié la plus faible, et la plus malheureuse ;</l>
 	<l id="1320">Celle que poursuivait une loi monstrueuse ;</l>
@@ -1945,28 +1945,28 @@
 	<l id="1325">Et dont le charme inné, toujours victorieux,</l>
 	<l id="1326">Partout adoucit l’homme, excepté dans ces lieux.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="1327">Effroyable blasphème, outrage inconcevable !</l>
 	<l id="1328">Brama ne tonne point sur ta tête coupable !</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1329">Tu ne sais pas encor ce que j’osais ici,</l>
 	<l id="1330">De quel crime à tes yeux je suis encor noirci ;</l>
 	<l id="1331">En sauvant Lanassa, je servais la nature,</l>
 	<l id="1332" part="i">La victime est ma sœur.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="1332" part="f">Ô comble de l’injure !</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1333">Sur la férocité d’un usage odieux,</l>
 	<l id="1334">Sur d’affreux préjugés que n’ai-je ouvert ses yeux ?</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="1335">De nos lois, de nos mœurs, tu te faisais le juge,</l>
 	<l id="1336" part="i">Tu veux sa honte ! Un frère !</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1336" part="f">Un vertueux transfuge,</l>
 	<l id="1337">Qui brûle de sortir et pour jamais d’un lieu</l>
 	<l id="1338">Où d’une loi de sang il fait le désaveu.</l>
@@ -1977,14 +1977,14 @@
 	<l id="1343">Périsse sur ces bords ta coutume cruelle !</l>
 	<l id="1344">Je connais la nature, et je ne connais qu’elle.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 <stage>À un autre bramine.</stage>
 	<l id="1345" part="i">Amenez la victime.</l>
 <stage>Au jeune bramine.</stage>
 	<l id="1345" part="f">Un autre plus soumis</l>
 	<l id="1346">Va remplir cet emploi que je t’avais commis.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1347">Va, si j’ai dans ce jour un reproche à me faire,</l>
 	<l id="1348">C’est d’avoir accepté ce fatal ministère,</l>
 	<l id="1349">De t’avoir obéi, de t’avoir écouté ;</l>
@@ -1998,11 +1998,11 @@
 	<l id="1357">Malgré l’opinion, malgré sa cruauté,</l>
 	<l id="1358">Le sentiment l’emporte et mon cœur m’est resté.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="1359">Impie ! Ah ! Lanassa, condamnant ton audace,</l>
 	<l id="1360">À la mort d’elle-même avance dans la place.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1361">Oui, par les droits du sang, méconnus sur ce bord,</l>
 	<l id="1362">J’empêcherai ma sœur de courir à la mort.</l>
 	<l id="1363">Arrêtez, inhumains qui formez son cortége,</l>
@@ -2012,33 +2012,33 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV. La veuve, suivie de ses parents ; le grand Bramine, le jeune bramine, peuple indien.</head>
-<sp who="LA-VEUVE"><speaker>La VEUVE, égarée.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE, égarée.</speaker>
 	<l id="1367">Où suis-je ? Où vais-je ? Dieux ! Autour de moi tout change.</l>
 	<l id="1368">Qui m’a pu transporter sur les rives du Gange ?</l>
 	<l id="1369">Quel fantôme voilé, ciel ! Je vois s’approcher ?...</l>
 	<l id="1370">Fuyons ; il me saisit ; il m’entraîne au bûcher ;</l>
 	<l id="1371">Il se découvre : arrête, époux impitoyable.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1372">Ne meurs plus pour sauver un guerrier secourable,</l>
 	<l id="1373" part="i">Ton appui, ce héros...</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="1373" part="f">Est tombé sous mes coups.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1374" part="i">Il venait t’arracher...</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="1374" part="f">De qui me parlez-vous ?</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="1375">D’un chef audacieux, aujourd’hui ma victime.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1376">De ton fier défenseur, d’un guerrier magnanime.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="1377">D’un guerrier ! Eh ! Pourquoi m’offrait-il son secours ?</l>
 	<l id="1378">Pour qui s’empressait-il de conserver mes jours ?</l>
 	<l id="1379">Quel est-il, ce héros si généreux, si tendre,</l>
@@ -2046,95 +2046,95 @@
 	<l id="1381">Que mes malheurs ici touchent si puissamment ?</l>
 	<l id="1382">Les français ont-ils tous le cœur de mon amant ?</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="1383">Quel mot prononcez-vous ? Qu’avez-vous osé dire ?</l>
 	<l id="1384">Ne sortirez-vous point de ce honteux délire ?</l>
 	<l id="1385">D’un indigne secours j’ai su vous délivrer,</l>
 	<l id="1386" part="i">Oubliez un profane.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1386" part="f">Ah ! Tu dois le pleurer.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="1387">Le pleurer ! Eh, qui donc ? ô douleur qui me tue !</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1388">Il est mort pour toi seule et presque sous ta vue.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE, allant vers le bûcher.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE, allant vers le bûcher.</speaker>
 	<l id="1389">Qu’on allume les feux, je ne sens plus d’effroi ;</l>
 	<l id="1390">Le trépas maintenant est un bonheur pour moi.</l>
 	<l id="1391">À l’aspect du bûcher dont je serai la proie,</l>
 	<l id="1392">Le désespoir me donne une sorte de joie.</l>
 	<l id="1393" part="i">Mourons.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1393" part="f">Peux-tu, cruelle ? Ah ! Quel horrible instant !</l>
 	<l id="1394" part="i">Ton frère est à tes pieds.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="1394" part="f">Votre époux vous attend.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1395" part="i">Ma sœur !</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="1395" part="m">Laisse-moi, dis-je.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="1395" part="f">Arrêtez cet impie.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1396">Qui de vous deux, cruels, a plus de barbarie ?</l>
 <stage>Les bramines la séparent de son frère, elle monte sur le bûcher.</stage>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="1397" part="i">Quel bruit se fait entendre ?</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1397" part="f">On pénètre en ces lieux.</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="1398" part="i">Ai-je perdu mes soins ?</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1398" part="f">M’exaucez-vous, grands dieux ?</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="1399" part="i">Ô revers !</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1399" part="m">Ô bonheur !</l>
 </sp>
 </div2>
 <div2 type="scene" n="5"><head>SCÈNE V. Les précédents, le général français, à la tête de ses troupes .</head>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL, montant sur le bûcher.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL, montant sur le bûcher.</speaker>
 	<l id="1399" part="f">Lanassa dans la flamme !</l>
 </sp>
-<sp who="LE-GRAND-BRAMINE"><speaker>Le GRAND BRAMINE.</speaker>
+<sp who="LE-GRAND-BRAMINE"><speaker>LE GRAND BRAMINE.</speaker>
 	<l id="1400" part="i">Notre ennemi vivant !</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1400" part="f">Courons ! Vivez, Madame.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="1401" part="i">Qui m’arrache à la mort ?</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1401" part="f">Idole de mon cœur !</l>
 	<l id="1402" part="i">Lanassa !</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La Veuve, jetant un cri de surprise et de joie dans les bras du général français avant de le nommer.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE, jetant un cri de surprise et de joie dans les bras du général français avant de le nommer.</speaker>
 	<l id="1402" part="f">Montalban ! Toi mon libérateur ?</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1403">Oui, c’est moi qui t’arrache à cette mort funeste.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1404">C’est vous, seigneur, c’est vous, double faveur céleste !</l>
 	<l id="1405">Vous vivez, je vous vois, grands dieux ! Qui l’aurait cru ?</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1406">Le bruit de mon trépas par mon ordre a couru.</l>
 	<l id="1407">Un golfe abandonné nous a servi d’asile ;</l>
 	<l id="1408">Et par le souterrain nous entrons dans la ville,</l>
@@ -2156,7 +2156,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI. La veuve, Fatime, le jeune bramine, le général français, officiers français, le peuple indien, parents de la veuve, soldats.</head>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="1423">C’était vous, Montalban, qui preniez ma défense !</l>
 	<l id="1424">C’était vous dont j’ai craint, dont j’ai fui la présence !</l>
 	<l id="1425">Pour sauver Lanassa, quel dieu vous a sauvé ?</l>
@@ -2164,16 +2164,16 @@
 	<l id="1427">De quel prix me doit être et ma vie et la vôtre !</l>
 	<l id="1428">Je vivrais moins heureuse à vivre par un autre.</l>
 </sp>
-<sp who="LE-JEUNE-BRAMINE"><speaker>Le JEUNE BRAMINE.</speaker>
+<sp who="LE-JEUNE-BRAMINE"><speaker>LE JEUNE BRAMINE.</speaker>
 	<l id="1429">Digne prix de vos soins, vous ne croyiez d’abord</l>
 	<l id="1430">Ravir qu’une inconnue aux horreurs de sa mort,</l>
 	<l id="1431">Et le ciel vous devait la faveur éclatante</l>
 	<l id="1432">De retrouver en elle et sauver une amante.</l>
 </sp>
-<sp who="LA-VEUVE"><speaker>La VEUVE.</speaker>
+<sp who="LA-VEUVE"><speaker>LA VEUVE.</speaker>
 	<l id="1433" part="i">Cher Montalban !</l>
 </sp>
-<sp who="LE-GENERAL"><speaker>Le GÉNÉRAL.</speaker>
+<sp who="LE-GENERAL"><speaker>LE GÉNÉRAL.</speaker>
 	<l id="1433" part="f">Partage, après tout notre effroi,</l>
 	<l id="1434">Tant de reconnaissance entre ton frère et moi.</l>
 	<l id="1435">Vous, peuples, respirez sous de meilleurs auspices :</l>

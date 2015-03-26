@@ -48,7 +48,7 @@
 		<castItem><role id="MÉDÉE" civil="F" type="H" statut="sorcier" age="A" stat_amour="néant">MÉDÉE</role>, célèbre enchanteresse, fille d’Aëte.</castItem>
 		<castItem><role id="JASON" civil="M" type="H" statut="roi" age="A" stat_amour="néant">JASON</role>, chef des Argonautes.</castItem>
 		<castItem><role id="ORPHÉE" civil="M" type="H" statut="musicien" age="A" stat_amour="néant">ORPHÉE</role>, l’un des Argonautes, confident de Jason.</castItem>
-		<castItem><role id="HYPSIPILE" civil="F" type="H" statut="roi" age="A" stat_amour="néant">HYPSIPILE</role>, reine de Lemnos.</castItem>
+		<castItem><role id="HYPSIPYLE" civil="F" type="H" statut="roi" age="A" stat_amour="néant">HYPSIPYLE</role>, reine de Lemnos.</castItem>
 		<castItem><role id="CHŒUR DE COMBATTANTS" civil="G" type="H" statut="combattant" age="A" stat_amour="néant">CHŒUR DE COMBATTANTS</role> qu’on ne voit point.</castItem>
 		<castItem><role id="SUITE DU ROI" civil="G" type="H" statut="suite" age="A" stat_amour="néant">SUITE DU ROI</role>.</castItem>
 		<castItem><role id="SUITE DE MÉDÉE" civil="G" type="H" statut="suite" age="A" stat_amour="néant">SUITE DE MÉDÉE</role>.</castItem>
@@ -83,7 +83,7 @@
 	<l id="11">Et qu’une éternelle mémoire</l>
 	<l id="12">Consacre dans vos cœurs ses bienfaits généreux</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>CHŒUR.</speaker>
+<sp who="LE-CHŒUR"><speaker>CHŒUR.</speaker>
 	<l id="13">Chantons la valeur et la gloire</l>
 	<l id="14">Du héros qui nous rend heureux,</l>
 	<l id="15">Et qu’une éternelle mémoire</l>
@@ -158,7 +158,7 @@
 	<l id="65">Et montrons ce que peut la vertu d’un héros,</l>
 	<l id="66">Lorsque le ciel la favorise.</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>CHŒUR.</speaker>
+<sp who="LE-CHŒUR"><speaker>CHŒUR.</speaker>
 	<l id="67">Charmants plaisirs jeux pleins d’appas,</l>
 	<l id="68">Venez, rassemblez-vous dans ces heureux climats.</l>
 </sp>
@@ -338,7 +338,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV. Médée, Le Roi.</head>
-<sp who="LE ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><speaker>LE ROI.</speaker>
 	<l id="188">Le calme va bientôt succéder à l’orage ;</l>
 	<l id="189">Nous triomphons, ma fille, et le Scythe est soumis.</l>
 	<l id="190">Jason poursuit encore un reste d’ennemis,</l>
@@ -359,7 +359,7 @@
 	<l id="201">Je l’ai joint dans ce bois et sa mort vous délivre</l>
 	<l id="202">D’un ennemi si dangereux.</l>
 </sp>
-<sp who="LE ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><speaker>LE ROI.</speaker>
 	<l id="203">Après ce grand exploit,. est-il en ma puissance</l>
 	<l id="204">De payer vos rares bienfaits ?</l>
 	<l id="205">Prescrivez en la récompense;</l>
@@ -368,19 +368,19 @@
 	<l id="208">Et vous, peuples, chantez l’invincible héros</l>
 	<l id="209">Qui vous assure un plein repos.</l>
 </sp>
-<sp who="LE ROI, MÉDÉE"><speaker>LE ROI et MÉDÉE.</speaker>
+<sp who="LE-ROI_MÉDÉE"><speaker>LE ROI et MÉDÉE.</speaker>
 	<l id="210">Pour célébrer sa gloire,</l>
 	<l id="211">Réunissons nos voix</l>
 	<l id="212">La paix et la victoire</l>
 	<l id="213">Sont les fruits glorieux de ses fameux exploits.</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>CHŒUR.</speaker>
+<sp who="LE-CHŒUR"><speaker>CHŒUR.</speaker>
 	<l id="214">Pour célébrer sa gloire,</l>
 	<l id="215">Réunissons nos voix</l>
 	<l id="216">La paix et la victoire</l>
 	<l id="217">Sont les fruits glorieux de ses fameux exploits.</l>
 </sp>
-<sp who="JASON, MÉDÉE"><speaker>MÉDÉE et JASON.</speaker>
+<sp who="MÉDÉE-JASON"><speaker>MÉDÉE et JASON.</speaker>
 	<l id="218">Il est temps de bannir les larmes,</l>
 	<l id="219">Jouissons d’un sort plein de charmes.</l>
 	<l id="220">Le ciel rend nos vœux satisfaits :</l>
@@ -388,7 +388,7 @@
 	<l id="222">Après de mortelles alarmes,</l>
 	<l id="223">Qu’il est doux de s’aimer en paix !</l>
 </sp>
-<sp who="SUIVANTES DE MÉDÉE"><speaker>UNE DES SUIVANTES DE MÉDÉE.</speaker>
+<sp who="SUIVANTES-DE-MÉDÉE"><speaker>UNE DES SUIVANTES DE MÉDÉE.</speaker>
 	<l id="224">Les Dieux ont pour nous</l>
 	<l id="225">Fait éclater leur puissance,</l>
 	<l id="226">Nos voisins jaloux</l>
@@ -400,7 +400,7 @@
 	<l id="232">Que de plaisirs</l>
 	<l id="233">Vont s’offrir à nos désirs !</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>CHŒUR.</speaker>
+<sp who="LE-CHŒUR"><speaker>CHŒUR.</speaker>
 	<l id="234">La paix va régner sur la terre :</l>
 	<l id="235">Vivons heureux, profitons des beaux jours :</l>
 	<l id="236">Les funestes cris de la guerre</l>
@@ -450,7 +450,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III. Jason, Le Roi, Médée;</head>
-<sp who="LE ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><speaker>LE ROI.</speaker>
 	<l id="267">Prince il faut m’acquitter de ce que je vous dois.</l>
 	<l id="268">La princesse vous a su plaire,</l>
 	<l id="269">De mon trône, affermi par vos fameux exploits</l>
@@ -470,7 +470,7 @@
 	<l id="281">Daignez encore à ces héros</l>
 	<l id="282">Accorder une récompense.</l>
 </sp>
-<sp who="LE ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><speaker>LE ROI.</speaker>
 	<l id="283">Parlez, et quelque bien qui flatte ici leurs yeux,</l>
 	<l id="284">Ils seront satisfaits j’en atteste les Dieux.</l>
 </sp>
@@ -478,7 +478,7 @@
 	<l id="285">Tant que le ciel pour eux répandra sa lumière,</l>
 	<l id="286">Rien ne peut les toucher que la riche toison.</l>
 </sp>
-<sp who="LE ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><speaker>LE ROI.</speaker>
 	<l id="287" part="i">Dieux que me dites-vous ?</l>
 </sp>
 <sp who="MÉDÉE"><speaker>MÉDÉE, à part.</speaker>
@@ -491,7 +491,7 @@
 <sp who="MÉDÉE"><speaker>MÉDÉE, à part.</speaker>
 	<l id="290">Juste ciel, quelle trahison !</l>
 </sp>
-<sp who="LE ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><speaker>LE ROI.</speaker>
 	<l id="291">Quoi, prince, ignorez-vous que la Toison ravie</l>
 	<l id="292">Met en péril et mon sceptre et ma vie ;</l>
 	<l id="293">En voulez-vous précipiter la fin ?</l>
@@ -509,7 +509,7 @@
 	<l id="303">Qu’une honteuse mort nous attend dans la Grèce</l>
 	<l id="304">Si de notre retour la Toison n’est le prix.</l>
 </sp>
-<sp who="LE ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><speaker>LE ROI.</speaker>
 	<l id="305">Mais savez-vous qu’un projet si coupable</l>
 	<l id="306">Rend votre perte inévitable ?</l>
 	<l id="307">Quelle fureur vous porte à chercher le trépas ?</l>
@@ -519,7 +519,7 @@
 	<l id="309">Plus le péril est redoutable,</l>
 	<l id="310">Et plus la victoire a d’appas.</l>
 </sp>
-<sp who="LE ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><speaker>LE ROI.</speaker>
 	<l id="311">J’ai juré de vous satisfaire</l>
 	<l id="312">Je ne saurais m’en dégager</l>
 	<l id="313">Puisqu’un avis sincère</l>
@@ -616,7 +616,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI.</head>
-<sp who="HYPSIPILE"><speaker>HYPSIPILE, sortant d’un char traîné par quatre dauphins, sur lequel Neptume l’a fait conduire en Colchide.</speaker>
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE, sortant d’un char traîné par quatre dauphins, sur lequel Neptume l’a fait conduire en Colchide.</speaker>
 	<l id="381">Enfin je vous revois et mon âme interdite...</l>
 	<l id="382">Que vois-je ? Et quelle est ma douleur ?</l>
 	<l id="383">Quoi ! Jason me voit et m’évite !</l>
@@ -656,14 +656,14 @@
 </sp>
 </div2>
 <div2 type="scene" n="8"><head>SCÈNE VIII. Hypsipyle, Troupe de Tritons et de Néréides.</head>
-<sp who="LE CHŒUR"><speaker>CHŒUR.</speaker>
+<sp who="LE-CHŒUR"><speaker>CHŒUR.</speaker>
 	<l id="413">Par nos jeux et par nos concerts</l>
 	<l id="414">Rendons à cette reine un éclatant hommage ;</l>
 	<l id="415">Jamais Vénus, sortant du sein des mers,</l>
 	<l id="416">Ne fit voir à nos yeux un plus riche assemblage</l>
 	<l id="417">De grâces et d’attraits divers.</l>
 </sp>
-<sp who="UNE NÉRÉIDE"><speaker>UNE NÉRÉIDE.</speaker>
+<sp who="UNE-NÉRÉIDE"><speaker>UNE NÉRÉIDE.</speaker>
 	<l id="418">Toujours l’Empire des mers</l>
 	<l id="419">N’est pas sujet au naufrage,</l>
 	<l id="420">Toujours les vents et l’orage</l>
@@ -671,7 +671,7 @@
 	<l id="422">Mais dans l’amoureux empire</l>
 	<l id="423">Incessamment on soupire.</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>CHŒUR.</speaker>
+<sp who="LE-CHŒUR"><speaker>CHŒUR.</speaker>
 	<l id="424">Chantons une reine si belle,</l>
 	<l id="425">Célébrons ses attraits charmants.</l>
 	<l id="426">Signalons par nos chants</l>
@@ -681,7 +681,7 @@
 	<l id="430">Forme toujours pour elle</l>
 	<l id="431">Les plus heureux moments.</l>
 </sp>
-<sp who="HYPSIPILE"><speaker>HYPSIPILE.</speaker>
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
 	<l id="432">Vos jeux ont des charmes pour moi :</l>
 	<l id="433">Mais mon devoir m’engage à voir le Roi,</l>
 	<l id="434">Et mon amour près de Jason m’appelle ;</l>
@@ -723,7 +723,7 @@
 	<l id="458">Sans vous, sans vos divins appas,</l>
 	<l id="459">L’amour n’aurait jamais embelli ce rivage.</l>
 </sp>
-<sp who="HYPSIPILE"><speaker>HYPSIPILE.</speaker>
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
 	<l id="460">Tout respire en ces lieux l’innocence et la paix,</l>
 	<l id="461">Tout m’y paraît doux et tranquille ;</l>
 	<l id="462">Mais, hélas ! Il n’est point d’asile</l>
@@ -737,13 +737,13 @@
 	<l id="468">Il ne lui restait plus que d’être amant fidèle,</l>
 	<l id="469">Au soin de ses amours rien ne peut l’arracher.</l>
 </sp>
-<sp who="HYPSIPILE"><speaker>HYPSIPILE.</speaker>
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
 	<l id="470">Quoi dans ces lieux Jason serait sensible !</l>
 </sp>
 <sp who="MÉDÉE"><speaker>MÉDÉE.</speaker>
 	<l id="471">Votre cœur en semble étonné ?</l>
 </sp>
-<sp who="HYPSIPILE"><speaker>HYPSIPILE.</speaker>
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
 	<l id="472">Je croyais qu’à la gloire un héros destiné,</l>
 	<l id="473">Aux plaisirs de l’amour était inaccessible.</l>
 </sp>
@@ -753,7 +753,7 @@
 	<l id="476">Un héros se doit à l’amour</l>
 	<l id="477">Quand il est quitte avec la Gloire.</l>
 </sp>
-<sp who="HYPSIPILE"><speaker>HYPSIPILE.</speaker>
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
 	<l id="478">De mes empressements, Ciel ! Quel triste succès !</l>
 	<l id="479">Pour lui seul en ces lieux ma tendresse m’appelle,</l>
 	<l id="480">Et je vois l’infidèle</l>
@@ -769,7 +769,7 @@
 	<l id="488">Le mépris et l’indifférence</l>
 	<l id="489">Doivent punir le changement.</l>
 </sp>
-<sp who="HYPSIPILE"><speaker>HYPSIPILE.</speaker>
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
 	<l id="490">Non, non ; mon faible cœur n’est plus en ma puissance</l>
 	<l id="491">D’une trop vive ardeur se sent animer ;</l>
 	<l id="492">Contre un ingrat qui nous offense,</l>
@@ -787,7 +787,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III.</head>
-<sp who="HYPSIPILE"><speaker>HYPSIPILE, seule.</speaker>
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE, seule.</speaker>
 	<l id="502">De quoi me servez-vous contre un ingrat que j’aime,</l>
 	<l id="503">Faible raison, inutile secours ?</l>
 	<l id="504">Puis-je écouter, hélas ! Vos superbes discours,</l>
@@ -803,7 +803,7 @@
 	<l id="510">À vos justes transports vous devez obéir.</l>
 	<l id="511">Je suis trop criminel d’avoir pu vous déplaire.</l>
 </sp>
-<sp who="HYPSIPILE"><speaker>HYPSIPILE.</speaker>
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
 	<l id="512">Cruel, vous savez trop que mon faible courroux</l>
 	<l id="513">Ne saurait vaincre ma tendresse</l>
 	<l id="514">Et vous venez ici jouir de la faiblesse</l>
@@ -817,7 +817,7 @@
 	<l id="520">Et si j’ai feint pour elle une coupable ardeur,</l>
 	<l id="521">C’est un crime des Dieux, et non pas de mon cœur.</l>
 </sp>
-<sp who="HYPSIPILE"><speaker>HYPSIPILE.</speaker>
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
 	<l id="522">Ciel que me faites-vous entendre ?</l>
 	<l id="523">Médée est ma rivale ? Et dans ce triste jour</l>
 	<l id="524">C’est elle à qui je viens d’apprendre</l>
@@ -837,25 +837,25 @@
 	<l id="536">Mais contre l’aimable Hypsipyle</l>
 	<l id="537">Dans le cœur de Jason sa force est inutile.</l>
 </sp>
-<sp who="HYPSIPILE"><speaker>HYPSIPILE.</speaker>
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
 	<l id="538">Hélas ! Je n’ose l’espérer.</l>
 </sp>
 <sp who="JASON"><speaker>JASON.</speaker>
 	<l id="539">Bannissez d’injustes alarmes.</l>
 </sp>
-<sp who="HYPSIPILE"><speaker>HYPSIPILE.</speaker>
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
 	<l id="540">Que je crains Médée et ses charmes !</l>
 </sp>
 <sp who="JASON"><speaker>JASON.</speaker>
 	<l id="541">Mon amour doit vous rassurer.</l>
 </sp>
-<sp who="HYPSIPILE"><speaker>HYPSIPILE.</speaker>
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
 	<l id="542">Que vos discours ont de puissance !</l>
 	<l id="543">C’en est fait, et mon c?ur se rend à vos serments :</l>
 	<l id="544">Heureuse d’avoir pu juger par mes tourments</l>
 	<l id="545">De mon amour et de votre constance.</l>
 </sp>
-<sp who="JASON_HYPSIPILE_ORPHÉE"><speaker>JASON, HYPSIPILE, ORPHÉE.</speaker>
+<sp who="JASON_HYPSIPYLE_ORPHÉE"><speaker>JASON, HYPSIPYLE, ORPHÉE.</speaker>
 	<l id="546">Ne nous plaignons point des rigueurs</l>
 	<l id="547">Où le tendre amour nous expose,</l>
 	<l id="548">Souvent les plus vives douleurs</l>
@@ -876,7 +876,7 @@
 	<l id="559">D’une indigne rivale et d’un amant sans foi.</l>
 <stage>Elle sort. Le palais devient un lieu effroyable. Plusieurs démons et plusieurs monstres se présentent pour servir la colère de Médée.</stage>
 </sp>
-<sp who="JASON_HYPSIPILE_ORPHÉE"><speaker>JASON, HYPSIPILE, ORPHÉE.</speaker>
+<sp who="JASON_HYPSIPYLE_ORPHÉE"><speaker>JASON, HYPSIPYLE, ORPHÉE.</speaker>
 	<l id="560">Ah ! Que d’objets épouvantables !</l>
 	<l id="561">Ô Dieux ! Soyez-nous secourables.</l>
 </sp>
@@ -909,13 +909,13 @@
 	<l id="584">Fille du Ciel, ô divine Harmonie,</l>
 	<l id="585">Répands ici ta douceur infinie.</l>
 </sp>
-<sp who="HYPSIPILE"><speaker>HYPSIPILE.</speaker>
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
 	<l id="586">Quel est d’un si grand art l’effet prodigieux ?</l>
 </sp>
 <sp who="JASON"><speaker>JASON.</speaker>
 	<l id="587">Des enfers déchaînés il calme la colère.</l>
 </sp>
-<sp who="HYPSIPILE_JASON_ORPHÉE"><speaker>HYPSIPILE, JASON, ORPHÉE.</speaker>
+<sp who="HYPSIPYLE_JASON_ORPHÉE"><speaker>HYPSIPYLE, JASON, ORPHÉE.</speaker>
 	<l id="588">Mais quelle main puissante et salutaire</l>
 	<l id="589">Pourra nous arracher à l’horreur de ces lieux?</l>
 </sp>
@@ -941,7 +941,7 @@
 </sp>
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII. Jason, Hypsipyle, Orphée, Troupe de Plaisirs.</head>
-<sp who="LE CHŒUR"><speaker>CHŒUR.</speaker>
+<sp who="LE-CHŒUR"><speaker>CHŒUR.</speaker>
 <note type="C">Les Ris, Plaisirs et les Jeux sont ici des personnages allégoriques.</note>
 	<l id="606">Les Plaisirs et les Jeux sont ici de retour.</l>
 	<l id="607">Que de cœurs aujourd’hui vont se rendre à l’amour !</l>
@@ -960,7 +960,7 @@
 	<l id="616">L’Amour nous fait sentir les plus doux de ses traits,</l>
 	<l id="617">Il réserve pour nous les biens les plus parfaits.</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>CHŒUR.</speaker>
+<sp who="LE-CHŒUR"><speaker>CHŒUR.</speaker>
 	<l id="618">Qu’a nos jeux chacun s’intéresse,</l>
 	<l id="619">Redoublons nos chants d’allégresse,</l>
 	<l id="620">Célébrons jamais les charmantes douceurs</l>
@@ -998,13 +998,13 @@
 <div1 type="acte" n="4"><head>ACTE IV</head>
 <stage>Le théâtre représente l’antre de la Sibylle, à l’entrée duquel paraît un arbre consacré à Apollon, et plus loin un temple dédié à cette divinité.</stage>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Troupe de suivante de la Sibylle.</head>
-<sp who="LE CHŒUR"><speaker>CHŒUR.</speaker>
+<sp who="LE-CHŒUR"><speaker>CHŒUR.</speaker>
 	<l id="645">Loin d’ici, mortels indiscrets,</l>
 	<l id="646">Éloignez-vous de notre asile,</l>
 	<l id="647">Ne troublez pas l’heureuse paix</l>
 	<l id="648">Qui règne en ce séjour tranquille.</l>
 </sp>
-<sp who="SUIVANTE DE LA SIBYLLE"><speaker>UNE DES SUIVANTES DE LA SIBYLLE.</speaker>
+<sp who="SUIVANTE_DE_LA_SIBYLLE"><speaker>UNE DES SUIVANTES DE LA SIBYLLE.</speaker>
  <l id="649">La Sibylle séjourne en ces lieux souterrains,</l>
 	<l id="650">Elle y dicte aux mortels les ordres souverains,</l>
 	<l id="651">Des arbitres de la Nature,</l>
@@ -1012,13 +1012,13 @@
 	<l id="653">Et son savoir mystérieux</l>
 	<l id="654">Du profond avenir perce la nuit obscure.</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>CHŒUR.</speaker>
+<sp who="LE-CHŒUR"><speaker>CHŒUR.</speaker>
 	<l id="655">Loin d’ici, mortels indiscrets,</l>
 	<l id="656">Éloignez-vous de notre asile,</l>
 	<l id="657">Ne troublez pas l’heureuse paix</l>
 	<l id="658">Qui règne en ce séjour tranquille.</l>
 </sp>
-<sp who="SUIVANTES_SIBYLLE_CHŒUR"><speaker>DEUX DES SUIVANTES DE LA SIBYLLE, ET LE CHŒUR.</speaker>
+<sp who="SUIVANTES_SIBYLLE_CHŒUR"><speaker>DEUX DES SUIVANTES DE LA SIBYLLE, et LE CHŒUR.</speaker>
 	<l id="659">Nous goûtons un sort plein d’attraits,</l>
 	<l id="660">Nous vivons en paix</l>
 	<l id="661">Dans ce lieu tranquille ;</l>
@@ -1043,7 +1043,7 @@
 	<l id="680">Peuvent-ils payer notre liberté.</l>
 	<l id="681">Nous goûtons un sort plein d’attraits, etc</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>CHŒUR.</speaker>
+<sp who="LE-CHŒUR"><speaker>CHŒUR.</speaker>
 	<l id="682">Quelle mortelle audacieuse</l>
 	<l id="683">Ose porter ici ses regards curieux,</l>
 	<l id="684">Et par sa présence odieuse</l>
@@ -1140,7 +1140,7 @@
 <div1 type="acte" n="5"><head>ACTE V</head>
 <stage>Le théâtre représente un bois sur le devant, et le champ de Mars dans l’enfoncement.</stage>
 <div2 type="scene" n="1"><head>SCÈNE PREMIÈRE.</head>
-<sp who="HYPSIPILE"><speaker>HYPSIPILE, seule.</speaker>
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE, seule.</speaker>
 	<l id="748">Ah ! Que je sens d’inquiétude</l>
 	<l id="749">Ne pourrai-je sortir du trouble où je me vois ?</l>
 	<l id="750">Mon amant va combattre en cette solitude,</l>
@@ -1165,7 +1165,7 @@
 	<l id="765">Il est mort. Son trépas a rempli ma vengeance.</l>
 	<l id="766">Les destins l’ont puni, mon courroux est calmé.</l>
 </sp>
-<sp who="HYPSIPILE"><speaker>HYPSIPILE.</speaker>
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
 	<l id="767">Qu’entends-je, malheureuse !</l>
 </sp>
 <sp who="MÉDÉE"><speaker>MÉDÉE.</speaker>
@@ -1177,7 +1177,7 @@
 	<l id="773">Voyez le sang couler étendu sur ce bord.</l>
 <stage>Elle fait paraître l’image de Jason étendu mort.</stage>
 </sp>
-<sp who="HYPSIPILE"><speaker>HYPSIPILE.</speaker>
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
 	<l id="774">Dieux ! Quelle sanglante victime !</l>
 	<l id="775">Ciel ! Ô ciel quelle cruauté</l>
 </sp>
@@ -1185,7 +1185,7 @@
 	<l id="776">Votre douleur est légitime,</l>
 	<l id="777">Il vous aimait avec fidélité.</l>
 </sp>
-<sp who="HYPSIPILE"><speaker>HYPSIPILE.</speaker>
+<sp who="HYPSIPYLE"><speaker>HYPSIPYLE.</speaker>
 	<l id="778">C’en est donc fait je perds tout l’espoir qui me reste,</l>
 	<l id="779">Dieux cruels, Dieux jaloux, vous êtes satisfaits !</l>
 	<l id="780">Ô pressentiment trop funeste !</l>
@@ -1221,14 +1221,14 @@
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV. Médée, Le Roi.</head>
-<sp who="LE ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><speaker>LE ROI.</speaker>
 	<l id="805">Savez-vous la rigueur des destins en courroux?</l>
 	<l id="806" part="i">Les Grecs sont triomphants.</l>
 </sp>
 <sp who="MÉDÉE"><speaker>MÉDÉE.</speaker>
 	<l id="806" part="f">Seigneur, que dites-vous?</l>
 </sp>
-<sp who="LE ROI"><speaker>LE ROI.</speaker>
+<sp who="LE-ROI"><speaker>LE ROI.</speaker>
 	<l id="807">Déjà les fiers taureaux, qui de cette carrière</l>
 	<l id="808">Défendaient l’affreuse barrière,</l>
 	<l id="809">Ont succombé sous l’effort de leurs coups.</l>
@@ -1263,7 +1263,7 @@
 	<l id="830">Invincibles guerriers, venez, suivez mes pas.</l>
 	<l id="831">Hâtons-nous d’achever cette grande victoire.</l>
 </sp>
-<sp who="LE CHŒUR"><speaker>CHŒUR.</speaker>
+<sp who="LE-CHŒUR"><speaker>CHŒUR.</speaker>
 	<l id="832">Cherchons dans les combats</l>
 	<l id="833">Une illustre mémoire,</l>
 	<l id="834">Le chemin du trépas</l>

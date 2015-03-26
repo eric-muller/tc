@@ -55,7 +55,7 @@
 	<castItem><role id="SOSTRATE" civil="M">SOSTRATE</role>, général d’armée amant d’Eriphile.</castItem> 
 	<castItem><role id="ANAXARQUE" civil="M">ANAXARQUE</role>, astrologue.</castItem> 
 	<castItem><role id="CLEON" civil="M">CLÉON</role>, fils d’Anaxarque.</castItem> 
-	<castItem><role id="FAUSSE-VENUS" civil="F"/>Une fausse VÉNUS, d’intelligence avec Anaxarque.</castItem> 
+	<castItem><role id="FAUSSE-VENUS" civil="F">UNE FAUSSE VÉNUS</role>, d’intelligence avec Anaxarque.</castItem> 
 </castList>
 <castList><head>PERSONNAGES DE LA PASTORALE.</head>
 	<castItem><role id="NYMPHE" civil="M">La NYMPHE de la vallée de Tempé</role>.</castItem> 
@@ -79,21 +79,21 @@
 	<l id="3">Et laissez régner sur les ondes</l>
 	<l id="4">Les Zéphyres et les Amours.</l>
 </sp>
-<sp who="UN-TRITON"><speaker>Un TRITON</speaker>
+<sp who="UN-TRITON"><speaker>UN TRITON</speaker>
 	<l id="5">Quels beaux yeux ont percé nos demeures humides ?</l>
 	<l id="6">Venez, venez, Tritons ; cachez-vous Néréides.</l>
 </sp>
-<sp who="TOUS-LES-TRITONS"><speaker>Tous les TRITONS.</speaker>
+<sp who="TOUS-LES-TRITONS"><speaker>TOUS LES TRITONS.</speaker>
 	<l id="7">Allons tous au-devant de ces divinités,</l>
 	<l id="8">Et rendons par nos chants hommage à leurs beautés.</l>
 </sp>
-<sp who="UN-AMOUR"><speaker>Un AMOUR.</speaker>
+<sp who="UN-AMOUR"><speaker>UN AMOUR.</speaker>
 	<l id="9">Ah ! que ces princesses sont belles !</l>
 </sp>
-<sp who="UN-AUTRE-AMOUR"><speaker>Un autre AMOUR.</speaker>
+<sp who="UN-AUTRE-AMOUR"><speaker>UN AUTRE AMOUR.</speaker>
 	<l id="10">Quels sont les cœurs qui ne s’y rendraient pas ?</l>
 </sp>
-<sp who="UN-AUTRE-AMOUR"><speaker>Un autre AMOUR.</speaker>
+<sp who="UN-AUTRE-AMOUR"><speaker>UN AUTRE AMOUR.</speaker>
 	<l id="11">La plus belle des Immortelles,</l>
 	<l id="12">Notre mère, a bien moins d’appas.</l>
 </sp>
@@ -101,7 +101,7 @@
 	<l id="13">Allons tous au-devant de ces divinités,</l>
 	<l id="14">Et rendons par nos chants hommage à leurs beautés.</l>
 </sp>
-<sp who="UN-TRITON"><speaker>Un TRITON</speaker>
+<sp who="UN-TRITON"><speaker>UN TRITON.</speaker>
 	<l id="15">Quel noble spectacle s’avance !</l>
 	<l id="16">Neptune, le grand dieu, Neptune avec sa cour,</l>
 	<l id="17">Vient honorer ce beau jour</l>
@@ -1194,7 +1194,7 @@
 <div1 type="acte" n="3"><head>TROISIÈME INTERMÈDE</head>
 <div2 type="scene" n="1"><head>PROLOGUE.</head>
 <stage>Le théâtre est une forêt, où la Princesse est invitée d’aller ; une nymphe lui en fait les honneurs en chantant, et, pour la divertir, on lui joue une petite comédie en musique, dont voici le sujet. Un Berger se plaint à deux bergers, ses amis, des froideurs de celle qu’il aime ; les deux amis le consolent ; et, comme la bergère aimée arrive, tous trois se retirent pour l’observer. Après quelque plainte amoureuse, elle se repose sur un gazon, et s’abandonne aux douceurs du sommeil. L’amant fait approcher ses amis pour contempler les grâces de sa bergère et invite toutes choses à contribuer à son repos. La bergère, en s’éveillant, voit son berger à ses pieds, se plaint de sa poursuite ; mais, considérant sa constance, elle lui accorde sa demande, et consent d’en être aimée en présence des deux bergers amis. Deux satyres arrivant se plaignent de son changement et, étant touchés de cette disgrâce, cherchent leur consolation dans le vin.</stage>
-<sp who="LA-NYMPHE-de-TEMPÉ"><speaker>LA NYMPHE de TEMPÉ.</speaker>
+<sp who="LA-NYMPHE-de-TEMPÉ"><speaker>LA NYMPHE DE TEMPÉ.</speaker>
 	<l id="56">Venez, grande Princesse, avec tous vos appas.</l>
 	<l id="57">Venez prêter vos yeux aux innocents ébats</l>
 	<l id="58">Que notre désert vous présente ;</l>
@@ -1497,7 +1497,7 @@
 	<l id="232">Sont aimables et belles, etc.</l>
 <stage>Les faunes et les dryades recommencent leur danse, que les bergères et bergers musiciens entremêlent de leurs chansons, tandis que trois petites dryades et trois petits faunes font paraître dans l’enfoncement du théâtre, tout ce qui se passe sur le devant.</stage>
 </sp>
-<sp who="BERGERS_BERGERES"><speaker>Les BERGERS et BERGÈRES</speaker>
+<sp who="BERGERS_BERGERES"><speaker>LES BERGERS ET BERGÈRES</speaker>
 	<l id="233">Jouissons, jouissons des plaisirs innocents</l>
 	<l id="234">Dont les feux de l’amour savent charmer nos sens.</l>
 	<l id="235">Des grandeurs, qui voudra se soucie :</l>

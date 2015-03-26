@@ -48,7 +48,7 @@
 		<castItem><role id="OCTAVE" civil="M" type="H" statut="" age="A" stat_amour="néant">OCTAVE</role>, fils d’Argante, et amant de Hyacinte.</castItem>
 		<castItem><role id="LEANDRE" civil="M" type="H" statut="" age="A" stat_amour="néant">LÉANDRE</role>, fils de Géronte, et amant de Zerbinette. </castItem>
 		<castItem><role id="ZERBINETTE" civil="F" type="H" statut="" age="A" stat_amour="néant">ZERBINETTE</role>, crue Egyptienne, et reconnue fille d’Argante, et amante de Léandre.</castItem>
-		<castItem><role id="HYANCINTE" civil="F" type="H" statut="" age="A" stat_amour="néant">HYANCINTE</role>, fille de Géronte, et amante d’Octave </castItem>
+		<castItem><role id="HYACINTE" civil="F" type="H" statut="" age="A" stat_amour="néant">HYACINTE</role>, fille de Géronte, et amante d’Octave </castItem>
 		<castItem><role id="SCAPIN" civil="M" type="H" statut="valet" age="A" stat_amour="néant">SCAPIN</role>, valet de Léandre, et fourbe.</castItem>
 		<castItem><role id="SILVESTRE" civil="M" type="H" statut="valet" age="A" stat_amour="néant">SILVESTRE</role>, valet d’Octave.</castItem>
 		<castItem><role id="NERINE" civil="F" type="H" statut="nourrice" age="A" stat_amour="néant">NÉRINE</role>, nourrice de Hyacinte.</castItem>
@@ -666,15 +666,15 @@
 <p id="32">
 	<s id="1">Bon.</s>
 	<s id="2">Imaginez-vous que je suis votre père qui arrive, et répondez-moi fermement, comme si c’était à lui-même.</s>
-	<s id="3">"Comment, pendard, vaurien, infâme, fils indigne d’un père comme moi, oses-tu bien paraître devant mes yeux, après tes bons déportements, après le lâche tour que tu m’as joué pendant mon absence ?</s>
+	<s id="3">« Comment, pendard, vaurien, infâme, fils indigne d’un père comme moi, oses-tu bien paraître devant mes yeux, après tes bons déportements, après le lâche tour que tu m’as joué pendant mon absence ?</s>
 	<s id="4">Est-ce là le fruit de mes soins, maraud ?</s>
 	<s id="5">Est-ce là le fruit de mes soins ?</s>
 	<s id="6">Le respect qui m’est dû ?</s>
-	<s id="7">Le respect que tu me conserves ?</s>
-	<s id="8">" Allons donc. "</s>
-	<s id="9">Tu as l’insolence, fripon, de t’engager sans le consentement de ton père, de contracter un mariage clandestin ?</s>
+	<s id="7">Le respect que tu me conserves ? »</s>
+	<s id="8">Allons donc.</s>
+	<s id="9">« Tu as l’insolence, fripon, de t’engager sans le consentement de ton père, de contracter un mariage clandestin ?</s>
 	<s id="10">Réponds-moi, coquin, réponds-moi.</s>
-	<s id="11">Voyons un peu tes belles raisons."</s>
+	<s id="11">Voyons un peu tes belles raisons. »</s>
 	<s id="12">Oh !</s>
 	<s id="13">Que diable !</s>
 	<s id="14">Vous demeurez interdit !</s>
@@ -2301,9 +2301,9 @@
 <p id="23">
 	<s id="1">C’est ce que je lui ai dit. J’ai rejeté bien loin de pareilles propositions, et je lui ai bien fait entendre que vous n’étiez point une dupe, pour vous demander des cinq ou six cents pistoles.</s>
 	<s id="2">Enfin, après plusieurs discours, voici où s’est réduit le résultat de notre conférence.</s>
-	<s id="3">"Nous voilà au temps, m’a-t-il dit, que je dois partir pour l’armée.</s>
+	<s id="3">« Nous voilà au temps, m’a-t-il dit, que je dois partir pour l’armée.</s>
 	<s id="4">Je suis après à m’équiper, et le besoin que j’ai de quelque argent me fait consentir, malgré moi, à ce qu’on me propose.</s>
-	<s id="5">Il me faut un cheval de service, et je n’en saurais avoir un qui soit tant soit peu raisonnable à moins de soixante pistoles."</s>
+	<s id="5">Il me faut un cheval de service, et je n’en saurais avoir un qui soit tant soit peu raisonnable à moins de soixante pistoles. »</s>
 </p>
 </sp>
 <sp who="ARGANTE"><speaker>ARGANTE.</speaker>
@@ -2314,7 +2314,7 @@
 </sp>
 <sp who="SCAPIN"><speaker>SCAPIN.</speaker>
 <p id="25">
-	<s id="1">"Il faudra le harnais et les pistolets ; et cela ira bien à vingt pistoles encore."</s>
+	<s id="1">« Il faudra le harnais et les pistolets ; et cela ira bien à vingt pistoles encore. »</s>
 </p>
 </sp>
 <sp who="ARGANTE"><speaker>ARGANTE.</speaker>
@@ -2334,7 +2334,7 @@
 </sp>
 <sp who="SCAPIN"><speaker>SCAPIN.</speaker>
 <p id="29">
-	<s id="1">"Il me faut aussi un cheval pour monter mon valet, qui coûtera bien trente pistoles."</s>
+	<s id="1">« Il me faut aussi un cheval pour monter mon valet, qui coûtera bien trente pistoles. »</s>
 </p>
 </sp>
 <sp who="ARGANTE"><speaker>ARGANTE.</speaker>
@@ -2379,7 +2379,7 @@
 </sp>
 <sp who="SCAPIN"><speaker>SCAPIN.</speaker>
 <p id="37">
-	<s id="1">"Il me faut encore, a-t-il dit, un mulet pour porter..."</s>
+	<s id="1">« Il me faut encore, a-t-il dit, un mulet pour porter... »</s>
 </p>
 </sp>
 <sp who="ARGANTE"><speaker>ARGANTE.</speaker>
@@ -2577,7 +2577,7 @@
 </p>
 </sp>
 <sp who="SILVESTRE"><speaker>SILVESTRE.</speaker>
-<note type="L">Capital : (...) C’est une épithète qu’on donne à ce qui a quelque prééminence, qui est comme le chef et la source de quelque chose. [F] On dirait au XXIème siècle , "principal".</note>
+<note type="L">Capital : (...) C’est une épithète qu’on donne à ce qui a quelque prééminence, qui est comme le chef et la source de quelque chose. [F] On dirait au XXIème siècle , « principal ».</note>
 <p id="11">
 	<s id="">Son ennemi capital ?</s>
 </p>
@@ -3688,8 +3688,8 @@
 </p>
 <stage>En contrefaisant sa voix.</stage>
 <p id="28">
-	<s id="1">"Quoi ?</s>
-	<s id="2">Jé n’aurai pas l’abantage dé tuer cé Geronte, et quelqu’un par charité né m’enseignera pas où il est ?"</s>
+	<s id="1">« Quoi ?</s>
+	<s id="2">Jé n’aurai pas l’abantage dé tuer cé Geronte, et quelqu’un par charité né m’enseignera pas où il est ? »</s>
 </p>
 <stage>A Géronte de sa voix ordinaire.</stage>
 <p id="29">
@@ -3697,7 +3697,7 @@
 </p>
 <stage>Reprenant son ton contrefait.</stage>
 <p id="30">
-	<s id="1">"Cadédis, jé lé trouberai, sé cachât-il au centre dé la terre."</s>
+	<s id="1">« Cadédis, jé lé trouberai, sé cachât-il au centre dé la terre. »</s>
 </p>
 <stage>À Géronte avec son ton naturel.</stage>
 <p id="31">
@@ -3705,34 +3705,34 @@
 </p>
 <stage>Tout le langage gascon est supposé de celui qu’il contrefait, et le reste de lui.</stage>
 <p id="32">
-	<s id="1">"Oh, l’homme au sac !"</s>
+	<s id="1">« Oh, l’homme au sac ! »</s>
 	<s id="2">Monsieur.</s>
-	<s id="3">"Jé té vaille un louis, et m’enseigne où put être Geronte."</s>
+	<s id="3">« Jé té vaille un louis, et m’enseigne où put être Geronte. »</s>
 	<s id="4">Vous cherchez le seigneur Géronte ?</s>
-	<s id="5">"Oui, mordi ! jé lé cherche."</s>
+	<s id="5">« Oui, mordi ! jé lé cherche. »</s>
 	<s id="6">Et pour quelle affaire, Monsieur ?</s>
-	<s id="7">"Pour quelle affaire ?"</s>
+	<s id="7">« Pour quelle affaire ? »</s>
 	<s id="8">Oui.</s>
-	<s id="9">"Jé beux, cadédis, lé faire mourir sous les coups de vaton."</s>
+	<s id="9">« Jé beux, cadédis, lé faire mourir sous les coups de vaton. »</s>
 	<s id="10">Oh !</s>
 	<s id="11">Monsieur, les coups de bâton ne se donnent point à des gens comme lui, et ce n’est pas un homme à être traité de la sorte.</s>
-	<s id="12">"Qui, cé fat dé Geronte, cé maraut, cé velître ?"</s>
+	<s id="12">« Qui, cé fat dé Geronte, cé maraut, cé velître ? »</s>
 	<s id="13">Le seigneur Géronte, Monsieur, n’est ni fat, ni maraud, ni belître, et vous devriez, s’il vous plaît, parler d’autre façon.</s>
-	<s id="14">"Comment, tu mé traites, à moi, avec cette hautur ?"</s>
+	<s id="14">« Comment, tu mé traites, à moi, avec cette hautur ? »</s>
 	<s id="15">Je défends, comme je dois, un homme d’honneur qu’on offense.</s>
-	<s id="16">"Est-ce que tu es des amis dé cé Geronte ?"</s>
+	<s id="16">« Est-ce que tu es des amis dé cé Geronte ? »</s>
 	<s id="17">Oui, Monsieur, j’en suis.</s>
-	<s id="18">"Ah ! cadédis, tu es de ses amis, à la vonne hure."</s>
+	<s id="18">« Ah ! cadédis, tu es de ses amis, à la vonne hure. »</s>
 </p>
 <stage>Il donne plusieurs coups de bâton sur le sac.</stage>
 <p id="33">
-	<s id="1">"Tiens. Boilà cé que jé té vaille pour lui."</s>
+	<s id="1">« Tiens. Boilà cé que jé té vaille pour lui. »</s>
 	<s id="2">Ah, ah, ah !</s>
 	<s id="3">Ah, Monsieur !</s>
 	<s id="4">Ah, ah, Monsieur !</s>
 	<s id="5">Tout beau.</s>
 	<s id="6">Ah, doucement, ah, ah, ah !</s>
-	<s id="7">"Va, porte-lui cela de ma part. Adiusias."</s>
+	<s id="7">« Va, porte-lui cela de ma part. Adiusias. »</s>
 	<s id="8">Ah !</s>
 	<s id="9">Diable soit le Gascon Ah !</s>
 </p>
@@ -3784,38 +3784,38 @@
 </p>
 <stage>Cet endroit est de même celui du Gascon, pour le changement de langage, et le jeu de théâtre.</stage>
 <p id="42">
-	<s id="1">"Parti ! moi courir comme une Basque, et moi ne pouvre point troufair de tout le jour sti tiable de Gironte ?"</s>
+	<s id="1">« Parti ! moi courir comme une Basque, et moi ne pouvre point troufair de tout le jour sti tiable de Gironte ? »</s>
 	<s id="2">Cachez-vous bien.</s>
-	<s id="3">"Dites-moi un peu fous, Monsir l’homme, s’il ve plaist, fous savoir point où l’est sti Gironte que moi cherchair ?"</s>
+	<s id="3">« Dites-moi un peu fous, Monsir l’homme, s’il ve plaist, fous savoir point où l’est sti Gironte que moi cherchair ? »</s>
 	<s id="4">Non, Monsieur, je ne sais point où est Géronte.</s>
-	<s id="5">"Dites-moi-le vous frenchemente, moi li fouloir pas grande chose à lui.</s>
-	<s id="6">L’est seulemente pour li donnair un petite régale sur le dos d’un douzaine de coups de bastonne, et de trois ou quatre petites coups d’épée au trafers de son poitrine."</s>
+	<s id="5">« Dites-moi-le vous frenchemente, moi li fouloir pas grande chose à lui.</s>
+	<s id="6">L’est seulemente pour li donnair un petite régale sur le dos d’un douzaine de coups de bastonne, et de trois ou quatre petites coups d’épée au trafers de son poitrine. »</s>
 	<s id="7">Je vous assure, Monsieur, que je ne sais pas où il est.</s>
-	<s id="8">"Il me semble que j’y foi remuair quelque chose dans sti sac."</s>
+	<s id="8">« Il me semble que j’y foi remuair quelque chose dans sti sac. »</s>
 	<s id="9">Pardonnez-moi, Monsieur.</s>
-	<s id="10">"Li est assurémente quelque histoire là tetans."</s>
+	<s id="10">« Li est assurémente quelque histoire là tetans. »</s>
 	<s id="11">Point du tout, Monsieur.</s>
-	<s id="12">"Moi l’avoir enfie de tonner ain coup d’épée dans ste sac."</s>
+	<s id="12">« Moi l’avoir enfie de tonner ain coup d’épée dans ste sac. »</s>
 	<s id="13">Ah !</s>
 	<s id="14">Monsieur, gardez-vous-en bien.</s>
-	<s id="15">"Montre-le-moi un peu fous ce que c’estre là."</s>
+	<s id="15">« Montre-le-moi un peu fous ce que c’estre là. »</s>
 	<s id="16">Tout beau, Monsieur.</s>
-	<s id="17">"Quement ?</s>
-	<s id="18">Tout beau ?"</s>
+	<s id="17">« Quement ?</s>
+	<s id="18">Tout beau ? »</s>
 	<s id="19">Vous n’avez que faire de vouloir voir ce que je porte.</s>
-	<s id="20">"Et moi, je le fouloir foir, moi."</s>
+	<s id="20">« Et moi, je le fouloir foir, moi. »</s>
 	<s id="21">Vous ne le verrez point.</s>
-	<s id="22">"Ahi que de badinemente !"</s>
+	<s id="22">« Ahi que de badinemente ! »</s>
 	<s id="23">Ce sont hardes qui m’appartiennent.</s>
-	<s id="24">"Montre-moi fous, te dis-je."</s>
+	<s id="24">« Montre-moi fous, te dis-je. »</s>
 	<s id="25">Je n’en ferai rien.</s>
-	<s id="26">"Toi ne faire rien ?"</s>
+	<s id="26">« Toi ne faire rien ? »</s>
 	<s id="27">Non.</s>
-	<s id="28">"Moi pailler de ste bastonne dessus les épaules de toi."</s>
+	<s id="28">« Moi pailler de ste bastonne dessus les épaules de toi. »</s>
 	<s id="29">Je me moque de cela.</s>
-	<s id="30">"Ah ! toi faire le trole."</s>
+	<s id="30">« Ah ! toi faire le trole. »</s>
 	<s id="31">Ahi, ahi, ahi ; ah, Monsieur, ah, ah, ah, ah.</s>
-	<s id="32">"Jusqu’au refoir : l’estre là un petit leçon pour li apprendre à toi à parlair insolentemente !"</s>
+	<s id="32">« Jusqu’au refoir : l’estre là un petit leçon pour li apprendre à toi à parlair insolentemente ! »</s>
 	<s id="33">Ah !</s>
 	<s id="34">Peste soit du baragouineux !</s>
 	<s id="35">Ah !</s>
@@ -3844,7 +3844,7 @@
 </p>
 <stage>Il contrefait plusieurs personnes ensemble.</stage>
 <p id="47">
-	<s id="1">"Allons, tâchons à trouver ce Géronte, cherchons partout.</s>
+	<s id="1">« Allons, tâchons à trouver ce Géronte, cherchons partout.</s>
 	<s id="2">N’épargnons point nos pas.</s>
 	<s id="3">Courons toute la ville.</s>
 	<s id="4">N’oublions aucun lieu.</s>
@@ -3856,33 +3856,33 @@
 	<s id="10">À gauche.</s>
 	<s id="11">À droit.</s>
 	<s id="12">Nenni.</s>
-	<s id="13">Si fait."</s>
+	<s id="13">Si fait. »</s>
 	<s id="14">Cachez-vous bien.</s>
-	<s id="15">"Ah !</s>
+	<s id="15">« Ah !</s>
 	<s id="16">Camarades, voici son valet.</s>
-	<s id="17">Allons, coquin, il faut que tu nous enseignes où est ton maître."</s>
+	<s id="17">Allons, coquin, il faut que tu nous enseignes où est ton maître. »</s>
 	<s id="18">Eh !</s>
 	<s id="19">Messieurs, ne me maltraitez point.</s>
-	<s id="20">"Allons, dis-nous où il est.</s>
+	<s id="20">« Allons, dis-nous où il est.</s>
 	<s id="21">Parle.</s>
 	<s id="22">Hâte-toi.</s>
 	<s id="23">Expédions.</s>
 	<s id="24">Dépêche vite.</s>
-	<s id="25">Tôt."</s>
+	<s id="25">Tôt. »</s>
 	<s id="26">Eh !</s>
 	<s id="27">Messieurs, doucement.</s>
 </p>
 <stage>Géronte met doucement la tête hors du sac et aperçoit la fourberie de Scapin.</stage>
 <p id="48">
-	<s id="1">"Si tu ne nous fais trouver ton maître tout à l’heure, nous allons faire pleuvoir sur toi une ondée de coups de bâton."</s>
+	<s id="1">« Si tu ne nous fais trouver ton maître tout à l’heure, nous allons faire pleuvoir sur toi une ondée de coups de bâton. »</s>
 	<s id="2">J’aime mieux souffrir toute chose que de vous découvrir mon maître.</s>
-	<s id="3">"Nous allons t’assommer."</s>
+	<s id="3">« Nous allons t’assommer. »</s>
 	<s id="4">Faites tout ce qu’il vous plaira.</s>
-	<s id="5">"Tu as envie d’être battu."</s>
+	<s id="5">« Tu as envie d’être battu. »</s>
 	<s id="6">Je ne trahirai point mon maître.</s>
-	<s id="7">"Ah !</s>
+	<s id="7">« Ah !</s>
 	<s id="8">Tu en veux tâter ?</s>
-	<s id="9">Voilà..."</s>
+	<s id="9">Voilà... »</s>
 	<s id="10">Oh !</s>
 </p>
 <stage>Comme il est prêt de frapper, Géronte sort du sac, et Scapin s’enfuit</stage>
@@ -4028,10 +4028,10 @@
 	<s id="15">Ah, ah, ah.</s>
 	<s id="16">Il abandonne, pour faire les cinq cents écus, quatre ou cinq vieux habits qui n’en valent pas trente.</s>
 	<s id="17">Ah, ah, ah.</s>
-	<s id="18">Le valet lui fait comprendre, à tous coups, l’impertinence de ses propositions, et chaque réflexion est douloureusement accompagnée d’un : "Mais que diable allait-il faire à cette galère ?</s>
+	<s id="18">Le valet lui fait comprendre, à tous coups, l’impertinence de ses propositions, et chaque réflexion est douloureusement accompagnée d’un : « Mais que diable allait-il faire à cette galère ?</s>
 	<s id="19">Ah !</s>
 	<s id="20">Maudite galère !</s>
-	<s id="21">Traître de turc !"</s>
+	<s id="21">Traître de turc ! »</s>
 	<s id="22">Enfin, après plusieurs détours, après avoir longtemps gémi et soupiré...</s>
 	<s id="23">Mais il me semble que vous ne riez point de mon conte.</s>
 	<s id="24">Qu’en dites-vous ?</s>
