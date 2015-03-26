@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI.2>
+<?xml version="1.0" encoding="UTF-8"?><TEI.2>
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>CLÉOPÂTRE, TRAGÉDIE</title>
-				<author born='1613' born_location='Lyons-la-Forêt' death='1691' death_location='Gentilly' academie='1674'>BENSÉRADE, Isaac de</author>
+				<author born="1613" born_location="Lyons-la-Forêt" death="1691" death_location="Gentilly" academie="1674">BENSÉRADE, Isaac de</author>
 			</titleStmt>
 			<publicationStmp>	
 				<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
@@ -31,18 +30,18 @@
 			<titlePart type="sub">TRAGÉDIE</titlePart>
 			<titlePart type="sub">dédiée à Monseigneur L'Eminentissime Cardinal Duc de Richelieu.</titlePart>
 		</docTitle> 
-		<docDate value='1636'>M. DC. XXXVI. AVEC PRIVILEGE DU ROI.</docDate>
-		<docAuthor id='BENSERADE, Isaac de' bio='benserade'>Isaac de Bensérade</docAuthor>
+		<docDate value="1636">M. DC. XXXVI. AVEC PRIVILEGE DU ROI.</docDate>
+		<docAuthor id="BENSERADE, Isaac de" bio="benserade">Isaac de Bensérade</docAuthor>
 		<docImprint>
 			<privilege id="1636-02-22"><head>Extrait du privilège du Roi</head>
 				<p>Par grâce et privilège du roi en date du vingt-deuxième jour de février mille six cent trente-six, signé par le Roi en son conseil Chapelain, il est permis au sieur Isaac de Bensérade écuyer, de faire imprimer une tragédie de sa composition, intitulée CLEOPATRE, ou à ceux qui auront droit de lui, de défenses sont faites à tous autres libraires et imprimeurs de contrefaire le livre, ni en vendre et distribuer d'autres que de ceux qu'aura fait faire le dit Sieur Bensérade, ou ceux qui auront droit de lui, et ce durant le temps et espace de neuf ans, à compter du jour que le dit livre sera achevé d'imprimer, à peine de trois mille livres d'amende, et de tous dépends dommage et intérêts, ainsi qu'il est plus au long dans les dites lettres.</p>
 				<p>Et le dit sieur de Bensérade a cédé, et transporté le susdit privilège à ANTOINE DE SOMMAVILLE, marchand libraire à Paris, pour jouir par lui du dit privilège de temps ci mentionné suivant l'accord fait entre eux.</p>
 			</privilege>
 			<acheveImprime id="1636-03-29">Achevé d'imprimer le 29. jour  de mars 1636.</acheveImprime>
-			<printer id='Antoine de Sommaville'>À PARIS, chez ANTOINE de SOMMAVILLE, au Palais dans la petite salle à l'Ecu de France.</printer>
+			<printer id="Antoine de Sommaville">À PARIS, chez ANTOINE de SOMMAVILLE, au Palais dans la petite salle à l'Ecu de France.</printer>
 		</docImprint>
 		<performance>
-			<premiere date='1635' location='(inconnue)'>Représenté pour la première fois en 1635.</premiere>
+			<premiere date="1635" location="(inconnue)">Représenté pour la première fois en 1635.</premiere>
 		</performance>
 	<dedicace><adresse>À Monseigneur l'Eminentissime CARDINAL DUC DE RICHELIEU</adresse>
 		<head>Monseigneur,</head>
@@ -78,21 +77,21 @@
 		</sonnet>
 	</preface>
 		<castList><head>ACTEURS</head>
-		<castItem><role id="ANTOINE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>MARC-ANTOINE</role>, Triumvir.</castItem>
-		<castItem><role id="LUCILE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>LUCILE</role>, son ami.</castItem>
-		<castItem><role id="DIRCET" civil='M' type="H" statut='garde' age='A' stat_amour='néant'>DIRCET</role>, garde d'Antoine.</castItem>
-		<castItem><role id="GARDES-ANTOINE" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role> d'Antoine.</castItem>
-		<castItem><role id="CLEOPATRE" civil='F' type="H" statut='reine' age='A' stat_amour='amoureux'>CLÉOPÂTRE</role>, reine d'Egypte.</castItem>
-		<castItem><role id="ERAS" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>ERAS</role>, confidente de Cléopâtre.</castItem>
-		<castItem><role id="CHARMION" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>CHARMION</role>, confidente de Cléopâtre.</castItem>
-		<castItem><role id="CALISTE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>CALISTE</role>, confidente de Cléopâtre.</castItem>
-		<castItem><role id="CESAR" civil='M' type="H" statut='aristocrate' age='A' stat_amour='amoureux'>CÉSAR le jeune</role>, Triumvir.</castItem>
-		<castItem><role id="AGRIPPE" civil='M' type="H" statut='lieutenant' age='A' stat_amour='néant'>AGRIPPE</role>, son lieutenant.</castItem>
-		<castItem><role id="EROS" civil='M' type="H" statut='affranchi' age='A' stat_amour='néant'>EROS</role>, affranchi d'Antoine.</castItem>
-		<castItem><role id="EPAPHRODITE" civil='M' type="H" statut='affranchi' age='A' stat_amour='néant'>EPAPHRODITE</role>, affranchi de César.</castItem>
-		<castItem><role id="SUITE" civil='G' type="H" statut='suite' age='A' stat_amour='néant'>Suite de CÉSAR</role>.</castItem>
+		<castItem><role id="ANTOINE" civil="M" type="H" statut="aristocrate" age="A" stat_amour="amoureux">MARC-ANTOINE</role>, Triumvir.</castItem>
+		<castItem><role id="LUCILE" civil="M" type="H" statut="aristocrate" age="A" stat_amour="néant">LUCILE</role>, son ami.</castItem>
+		<castItem><role id="DIRCET" civil="M" type="H" statut="garde" age="A" stat_amour="néant">DIRCET</role>, garde d'Antoine.</castItem>
+		<castItem><role id="GARDES-ANTOINE" civil="G" type="H" statut="garde" age="A" stat_amour="néant">GARDES</role> d'Antoine.</castItem>
+		<castItem><role id="CLEOPATRE" civil="F" type="H" statut="reine" age="A" stat_amour="amoureux">CLÉOPÂTRE</role>, reine d'Egypte.</castItem>
+		<castItem><role id="ERAS" civil="F" type="H" statut="confident" age="A" stat_amour="néant">ERAS</role>, confidente de Cléopâtre.</castItem>
+		<castItem><role id="CHARMION" civil="F" type="H" statut="confident" age="A" stat_amour="néant">CHARMION</role>, confidente de Cléopâtre.</castItem>
+		<castItem><role id="CALISTE" civil="F" type="H" statut="confident" age="A" stat_amour="néant">CALISTE</role>, confidente de Cléopâtre.</castItem>
+		<castItem><role id="CESAR" civil="M" type="H" statut="aristocrate" age="A" stat_amour="amoureux">CÉSAR le jeune</role>, Triumvir.</castItem>
+		<castItem><role id="AGRIPPE" civil="M" type="H" statut="lieutenant" age="A" stat_amour="néant">AGRIPPE</role>, son lieutenant.</castItem>
+		<castItem><role id="EROS" civil="M" type="H" statut="affranchi" age="A" stat_amour="néant">EROS</role>, affranchi d'Antoine.</castItem>
+		<castItem><role id="EPAPHRODITE" civil="M" type="H" statut="affranchi" age="A" stat_amour="néant">EPAPHRODITE</role>, affranchi de César.</castItem>
+		<castItem><role id="SUITE" civil="G" type="H" statut="suite" age="A" stat_amour="néant">Suite de CÉSAR</role>.</castItem>
    </castList>
-   <set location='Alexandrie' country='Egypte' periode='Ier avant JC' link=''>La scène est à Alexandrie.</set>
+   <set location="Alexandrie" country="Egypte" periode="Ier avant JC" link="">La scène est à Alexandrie.</set>
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>

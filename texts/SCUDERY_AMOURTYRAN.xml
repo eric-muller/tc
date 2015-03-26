@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI.2>
+<?xml version="1.0" encoding="UTF-8"?><TEI.2>
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
 			<title>L'AMOUR TYRANNIQUE, TRAGI-COMÉDIE</title>
-			<author born='1601' born_location='Le Havre' death='1667' death_location='Paris' academie='1649'>SCUDERY, Georges de</author>
+			<author born="1601" born_location="Le Havre" death="1667" death_location="Paris" academie="1649">SCUDERY, Georges de</author>
 			<date>1639</date>
 		</titleStmt>
 		<publicationStmp>	
@@ -24,21 +23,21 @@
 <text>
 	<front>
 		<docTitle>
-			<titlePart type='main'>L'AMOUR TYRANNIQUE</titlePart>
-			<titlePart type='sub'>TRAGI-COMÉDIE</titlePart>
+			<titlePart type="main">L'AMOUR TYRANNIQUE</titlePart>
+			<titlePart type="sub">TRAGI-COMÉDIE</titlePart>
 		</docTitle> 
-		<docDate value='1640'>M. DC. XXXX. AVEC PRIVILÈGE DE SA MAJÉSTE</docDate>
-		<docAuthor id='SCUDERY, Georges de' bio='scudery'>Par Monsieur DE SCUDERY</docAuthor>
+		<docDate value="1640">M. DC. XXXX. AVEC PRIVILÈGE DE SA MAJÉSTE</docDate>
+		<docAuthor id="SCUDERY, Georges de" bio="scudery">Par Monsieur DE SCUDERY</docAuthor>
 		<docImprint>
-			<privilege id='1639-02-23'><head>PRIVILÈGE DU ROI</head>
+			<privilege id="1639-02-23"><head>PRIVILÈGE DU ROI</head>
 			<p>LOUIS par la grâce de Dieu Roi de France et de Navarre, à nos amés et féaux Conseiler les Gens tenants nos Cours de Parlement, Maîtres de requêtes ordinaires de notre Hôtel, baillifs, sénéchaux, prévôt, leurs lieutenants, et tous autres de nos justiciers et officiers qu'il appartiendra, Salut. Notre bien amé Augustin Courbé, Libraire à Paris, nous fait remontrer qu'il désirerait imprimer, une tragi-comédie intitulée, L'Amour Tyrannique, composée par le sieur Scudery, s'il avait sur ce nos lettres nécessaires, lesquelles il nous a très humblement supplier de lui accorder : À CES CAUSES, Nous avons permis et permettons à l'exposant d'imprimer, vendre et débiter en tous lieux de notre obéissance de la tragi-comédie, en telles marges, en tels caractères, et autant de fois qu'il voudra, durant l'espce de sept ans entiers et accomplis, à compter du jour qu'elle sera achevée d'imprimer pour la première fois ; et faisons très expresses défenses à toutes personnes de quelque qualité et condition qu'elle soient, de l'imprimer, faire imprimer, vendre ni débiter  en aucun endroit de ce Royaume, durant ledit temps, sous prétexte d'augmentation, correction, changement de titre,  ou autrement, en quelque sorte et manière que ce soit, à peine de quinze cent livres d'amende, payables sans déport par chacun des contrevenants, et applicables un tiers à Nous, un tiers à l'Hôtel-Dieu de Paris, et l'autre tiers à l'exposant, de confiscation des exemplaires contrefaits, et de tous dépens, dommages et intérêts ; à condition qu'il en sera mis deux exemplaire en notre bibliothèque publique, et une en celle de notre très cher et féal le sieur Séguier, Chancellier de France, avant de l'exposer en vente, à peine de nullité des présentes : du contenu desquelles nous vous mandons que vous fassiez jouir pleinement et paisiblement l'exposant, et ceux qui auront droit d'icelui, sans qu'il lui soit fait aucun trouble ni empêchement. Voulons aussi qu'en mettant au commencement ou à la fin du livre un bref extrait des présentes, elle soient tenues pour dûment signifiées, et que foi y soit ajoutée, et aux copies d'icelles collationnées par l'un des nos amés et féaux conseillers et secrétaires , sans demander autre permission : Car tel est notre plaisir, nonobstant préjudice d'icelles, clameur du Haro, charte Normande, et autres lettres à ce contraires. Donné à Paris le vingt-troisième de février, l'an de grâce mille six cent trente-neuf , et de notre règne le vingt neuvième. Signé par le Roi en son conseil, CONRART.</p>
 			<p>Les exemplaires ont été fournis, ainsi qu'il est porté par le privilège.</p>
 			</privilege>
-			<acheveImprime id='1639-02-02'>Achévé d'imprimé le 2ème jour de février 1639</acheveImprime>
-			<printer id='Augustin Courbé'>À PARIS, Chez Augustin Courbé, Imprimeur et Libraire e Monseigneur Frère du Roi, dans la petite Salle du Palais, à la Palme.</printer>
+			<acheveImprime id="1639-02-02">Achévé d'imprimé le 2ème jour de février 1639</acheveImprime>
+			<printer id="Augustin Courbé">À PARIS, Chez Augustin Courbé, Imprimeur et Libraire e Monseigneur Frère du Roi, dans la petite Salle du Palais, à la Palme.</printer>
 		</docImprint>
 		<performance>
-			<premiere date='1638' location='Jeu de Paume du Marais'>Représenté pour la première fois en 1638 au Jeu de Paume du Marais</premiere>
+			<premiere date="1638" location="Jeu de Paume du Marais">Représenté pour la première fois en 1638 au Jeu de Paume du Marais</premiere>
 		</performance>
 		<dedicace><adresse>À MADAME LA DUCHESSE D'AIGUILLON</adresse>
 		<head>Madame,</head>
@@ -48,21 +47,21 @@
 		<p>DE SCUDERY</p>
 		</dedicace>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="OROSMANE" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>OROSMANE</role>, roi de Capadoce.</castItem>
-			<castItem><role id="TIGRANE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>TIGRANE</role>, fils d'Orosmane.</castItem>
-			<castItem><role id="TIRIDATE" civil='M' type="H" statut='roi' age='A' stat_amour='Ormène'>TIRIDATE</role>, roi de Pont.</castItem>
-			<castItem><role id="ORMENE" civil='F' type="H" statut='roi' age='A' stat_amour='Tiridate'>ORMÈNE</role>, femme de Tiridate et fille d'Orosmane.</castItem>
-			<castItem><role id="POLIXENE" civil='F' type="H" statut='prince' age='A' stat_amour='Troile'>POLIXÈNE</role>, femme de Tigrane et fille du roi de Phrygie.</castItem>
-			<castItem><role id="TROILE" civil='M' type="H" statut='prince' age='A' stat_amour='Polixène'>TROILE</role>, fils du roi de Phrygie et frère de Polixène.</castItem>
-			<castItem><role id="PHARNABASE" civil='M' type="H" statut='gouverneur' age='A' stat_amour='néant'>PHARNABASE</role>, jadis gouverneur de Tyridate.</castItem>
-			<castItem><role id="PHRAARTE" civil='M' type="H" statut='lieutenant général' age='A' stat_amour='néant'>PHRAARTE</role>, lieutenant général de Tiridate.</castItem>
-			<castItem><role id="CASSANDRE" civil='F' type="H" statut="fille d'honneur" age='A' stat_amour='néant'>CASSANDRE</role>, fille d'honneur d'Ormène.</castItem>
-			<castItem><role id="HECUBE" civil='F' type="H" statut="fille d'honneur" age='A' stat_amour='néant'>HÉCUBE</role>, fille d'honneur d'Ormène.</castItem>
-			<castItem><role id="EUPHORBE" civil='M' type="H" statut='capitaine' age='A' stat_amour='néant'>EUPHORBE</role>, capitaine phrygien déguisé en paysan.</castItem>
-			<castItem><role id="GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>TROUPE de Gardes</role> de Tyridate</castItem>
-			<castItem><role id="HABITANTS" civil='G' type="H" statut='peuple' age='A' stat_amour='néant'>TROUPE d'habitants</role>.</castItem>
+			<castItem><role id="OROSMANE" civil="M" type="H" statut="roi" age="A" stat_amour="néant">OROSMANE</role>, roi de Capadoce.</castItem>
+			<castItem><role id="TIGRANE" civil="M" type="H" statut="prince" age="A" stat_amour="néant">TIGRANE</role>, fils d'Orosmane.</castItem>
+			<castItem><role id="TIRIDATE" civil="M" type="H" statut="roi" age="A" stat_amour="Ormène">TIRIDATE</role>, roi de Pont.</castItem>
+			<castItem><role id="ORMENE" civil="F" type="H" statut="roi" age="A" stat_amour="Tiridate">ORMÈNE</role>, femme de Tiridate et fille d'Orosmane.</castItem>
+			<castItem><role id="POLIXENE" civil="F" type="H" statut="prince" age="A" stat_amour="Troile">POLIXÈNE</role>, femme de Tigrane et fille du roi de Phrygie.</castItem>
+			<castItem><role id="TROILE" civil="M" type="H" statut="prince" age="A" stat_amour="Polixène">TROILE</role>, fils du roi de Phrygie et frère de Polixène.</castItem>
+			<castItem><role id="PHARNABASE" civil="M" type="H" statut="gouverneur" age="A" stat_amour="néant">PHARNABASE</role>, jadis gouverneur de Tyridate.</castItem>
+			<castItem><role id="PHRAARTE" civil="M" type="H" statut="lieutenant général" age="A" stat_amour="néant">PHRAARTE</role>, lieutenant général de Tiridate.</castItem>
+			<castItem><role id="CASSANDRE" civil="F" type="H" statut="fille d'honneur" age="A" stat_amour="néant">CASSANDRE</role>, fille d'honneur d'Ormène.</castItem>
+			<castItem><role id="HECUBE" civil="F" type="H" statut="fille d'honneur" age="A" stat_amour="néant">HÉCUBE</role>, fille d'honneur d'Ormène.</castItem>
+			<castItem><role id="EUPHORBE" civil="M" type="H" statut="capitaine" age="A" stat_amour="néant">EUPHORBE</role>, capitaine phrygien déguisé en paysan.</castItem>
+			<castItem><role id="GARDES" civil="G" type="H" statut="garde" age="A" stat_amour="néant">TROUPE de Gardes</role> de Tyridate</castItem>
+			<castItem><role id="HABITANTS" civil="G" type="H" statut="peuple" age="A" stat_amour="néant">TROUPE d'habitants</role>.</castItem>
 		</castList>
-		<set location='Thèbes' country='Grèce' periode='Temps mythologiques' link=''>La scène est à Thèbes, dans une salle du palais royal.</set>
+		<set location="Thèbes" country="Grèce" periode="Temps mythologiques" link="">La scène est à Thèbes, dans une salle du palais royal.</set>
 	</front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>

@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI.2>
+<?xml version="1.0" encoding="UTF-8"?><TEI.2>
 <teiHeader>
 	<fileDesc>
    	<titleStmt>
 		<title>ATHALIE, TRAGÉDIE tirée de l'écriture sainte.</title>
-		<author born='1639' born_location='La Ferté Millon' death='1699' death_location='Paris' academie='1673'>RACINE, Jean</author>
+		<author born="1639" born_location="La Ferté Millon" death="1699" death_location="Paris" academie="1673">RACINE, Jean</author>
 		<date>1691</date>
 	</titleStmt>
 	<publicationStmp>	
@@ -29,18 +28,18 @@
 
 			</docTitle> 
 			<docDate value="1691">M. DC. XCI Avec Privilège de sa Majesté.</docDate>
-			<docAuthor id='RACINE, Jean' bio='racine'>Jean Racine</docAuthor>
+			<docAuthor id="RACINE, Jean" bio="racine">Jean Racine</docAuthor>
 		<docImprint>
-				<privilege id='1691-02-08'><head>Extrait du privilège du Roi.</head>
+				<privilege id="1691-02-08"><head>Extrait du privilège du Roi.</head>
 				<p>Par lettres patentes du roi en date du 11 décembre 1690. Signées BOUCHER : il est permis au sieur Racine, Gentilhomme ordinaire de sa majesté, de faire imprimer la Tragédie qu'il a composée par ordre du Roi, intitulée "Athalie, tirée de l'Éciture Sainte", et ce pendant le temps de dix années, à commencer du jour qu'ellle aura été achevée d'imprimer pour la première fois. Avec défense à toute personne, autres ceux que le dit sieur aura choisi ; d'imprimer la dite tragédie, ni même d'en vendre ou débiter des exemplaires qui pouraient être contrefaits, peine de confiscation desdits exemplaires, de trois mille livres d'amende, et de tous dépens, dommages et intérêts, aux charges et conditions contenues plus au long desdites lettres.</p>
 <p>Registrées sur le livre de la Communauté des Libraires et Imprimeurs de Paris, le 8 février 1691. Signe P. AUBOÜYN, syndic.</p>
 <p>Ledit Sieur Racine a cédé le droit dudit privilège à Denys Thierry marchand libraire-imprimeur, et ancien juge consul de Paris, qui en a fait part à Claude Barbin aussi marchand-libraire à Paris.</p>
 				</privilege>
-				<acheveImprime id='1691-03-03'>Achevé d'imprimer pour la première fois le 3 mars 1691.</acheveImprime>
-				<printer id='Denys Thierry'>À PARIS, chez Denys Thierry, rue Saint-Jacque, à la ville de Paris.</printer>
+				<acheveImprime id="1691-03-03">Achevé d'imprimer pour la première fois le 3 mars 1691.</acheveImprime>
+				<printer id="Denys Thierry">À PARIS, chez Denys Thierry, rue Saint-Jacque, à la ville de Paris.</printer>
 		</docImprint>
 <performance>
-	<premiere date='1691-01-05' location='Collège de Saint-Cyr'>Représenté pour la première fois le 5 janvier 1691 au Collège de Saint-Cyr.</premiere>
+	<premiere date="1691-01-05" location="Collège de Saint-Cyr">Représenté pour la première fois le 5 janvier 1691 au Collège de Saint-Cyr.</premiere>
 </performance>
 
 		<preface><head>Préface</head>
@@ -56,24 +55,24 @@
 <p>On me trouvera peut-être un peu hardi d'avoir osé mettre sur la scène un prophète inspiré de Dieu, et qui prédit l'avenir. Mais j'ai eu la précaution de ne mettre dans sa bouche que des expressions tirées des prophètes mêmes. Quoique l'Ecriture ne dise pas en termes exprès que Joïada ait eu l'esprit de prophétie, comme elle le dit de son fils, elle le représente comme un homme tout plein de l'esprit de Dieu. Et d'ailleurs ne paraît-il pas, par l'Evangile, qu'il a pu prophétiser en qualité de souverain pontife? Je suppose donc qu'il voit en esprit le funeste changement de Joas qui, après trente ans d'un règne fort pieux, s'abandonna aux mauvais conseils des flatteurs, et se souilla du meurtre de Zacharie, fils et successeur de ce grand-prêtre. Ce meurtre, commis dans le temple, fut une des principales causes de la colère de Dieu contre les Juifs, et de tous les malheurs qui leur arrivèrent dans la suite. On prétend même que depuis ce jour-là les réponses de Dieu cessèrent entièrement dans le sanctuaire. C'est ce qui m'a donné lieu de faire prédire de suite à Joad et la destruction du temple et la ruine de Jérusalem. Mais comme les prophètes joignent d'ordinaire les consolations aux menaces, et que d'ailleurs il s'agit de mettre sur le trône un des ancêtres du Messie, j'ai pris occasion de faire entrevoir la venue de ce consolateur, après lequel tous les anciens justes soupiraient. Cette scène, qui est une espèce d'épisode, amène très naturellement la musique, par la coutume qu'avaient plusieurs prophètes d'entrer dans leurs saints transports au son des instruments: témoin cette troupe de prophètes qui vinrent au-devant de Saül avec des harpes et des lyres qu'on portait devant eux; et témoin Elisée lui-même, qui, étant consulté sur l'avenir par le roi de Juda et par le roi d'Israël, dit, comme fait ici Joad: Adducite mihi psaltem. Ajoutez à cela que cette prophétie sert beaucoup à augmenter le trouble dans la pièce, par la consternation et par les différents mouvements où elle jette le choeur et les principaux acteurs. </p>
 		</preface>
 			<castList><head>Les noms des personnages</head>
-				<castItem><role id="JOAS" civil='M' type="H" statut="roi" age="A" stat_amour='néant'>JOAS</role>, roi de Judas, fils d'Ochosias.</castItem>
-				<castItem><role id="ATHALIE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>ATHALIE</role>, veuve de Joram, aïeule de Joas.</castItem>
-				<castItem><role id="JOAD" civil='M' type="H" statut="religieux" age="A" stat_amour='néant'>JOAD</role>, autrement dit Joïada, grand prêtre.</castItem>
-				<castItem><role id="JOSABET" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>JOSABET</role>, tante de Joas, femme du grand prêtre.</castItem>
-				<castItem><role id="ZACHARIE" civil='M' type="H" statut="aristocrate" age="J" stat_amour='néant'>ZACHARIE</role>, fils de Joad et de Josabet.</castItem>
-				<castItem><role id="SALOMITH" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>SALOMITH</role>, soeur de Zacharie.</castItem>
-				<castItem><role id="ABNER" civil='M' type="H" statut="officier" age="A" stat_amour='néant'>ABNER</role>, l'un des principaux officiers des rois de Juda.</castItem>
-				<castItem><role id="AZARIAS" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>AZARIAS</role>.</castItem>
-				<castItem><role id="ISMAEL" civil='M' type="H" statut="religieux" age="A" stat_amour='néant'>ISMAËL</role>, et les trois autres chefs des prêtres et des lévites.</castItem>
-				<castItem><role id="MATHAN" civil='M' type="H" statut="religieux" age="A" stat_amour='néant'>MATHAN</role>, prêtre apostat, sacrificateur de Baal.</castItem>
-				<castItem><role id="NABAL" civil='M' type="H" statut="confident" age="A" stat_amour='néant'>NABAL</role>, confident de Mathan.</castItem>
-				<castItem><role id="AGAR" civil='F' type="H" statut="suivant" age="A" stat_amour='néant'>AGAR</role>, femme de la suite d'Athalie.</castItem>
-				<castItem><role id="TROUPE-de-LEVITES" civil='G' type="H" statut="religieux" age="A" stat_amour='néant'>TROUPE DE PRÊTRES ET DE LÉVITES</role>.</castItem>
-				<castItem><role id="SUITE-D-ATHALIE" civil='G' type="H" statut="suite" age="A" stat_amour='néant'>Suite d'Athalie</role>.</castItem>
-				<castItem><role id="NOURRICE-de-JOAS" civil='F' type="H" statut="nourrice" age="A" stat_amour='néant'>LA NOURRICE</role> de Joas.</castItem>
-				<castItem><role id="CHOEUR" civil='G' type="H" statut="choeur" age="A" stat_amour='néant'>CHOEUR</role> de jeunes filles de la tribu de Lévi.</castItem>
+				<castItem><role id="JOAS" civil="M" type="H" statut="roi" age="A" stat_amour="néant">JOAS</role>, roi de Judas, fils d'Ochosias.</castItem>
+				<castItem><role id="ATHALIE" civil="F" type="H" statut="aristocrate" age="A" stat_amour="néant">ATHALIE</role>, veuve de Joram, aïeule de Joas.</castItem>
+				<castItem><role id="JOAD" civil="M" type="H" statut="religieux" age="A" stat_amour="néant">JOAD</role>, autrement dit Joïada, grand prêtre.</castItem>
+				<castItem><role id="JOSABET" civil="F" type="H" statut="aristocrate" age="A" stat_amour="néant">JOSABET</role>, tante de Joas, femme du grand prêtre.</castItem>
+				<castItem><role id="ZACHARIE" civil="M" type="H" statut="aristocrate" age="J" stat_amour="néant">ZACHARIE</role>, fils de Joad et de Josabet.</castItem>
+				<castItem><role id="SALOMITH" civil="F" type="H" statut="aristocrate" age="A" stat_amour="néant">SALOMITH</role>, soeur de Zacharie.</castItem>
+				<castItem><role id="ABNER" civil="M" type="H" statut="officier" age="A" stat_amour="néant">ABNER</role>, l'un des principaux officiers des rois de Juda.</castItem>
+				<castItem><role id="AZARIAS" civil="M" type="H" statut="aristocrate" age="A" stat_amour="néant">AZARIAS</role>.</castItem>
+				<castItem><role id="ISMAEL" civil="M" type="H" statut="religieux" age="A" stat_amour="néant">ISMAËL</role>, et les trois autres chefs des prêtres et des lévites.</castItem>
+				<castItem><role id="MATHAN" civil="M" type="H" statut="religieux" age="A" stat_amour="néant">MATHAN</role>, prêtre apostat, sacrificateur de Baal.</castItem>
+				<castItem><role id="NABAL" civil="M" type="H" statut="confident" age="A" stat_amour="néant">NABAL</role>, confident de Mathan.</castItem>
+				<castItem><role id="AGAR" civil="F" type="H" statut="suivant" age="A" stat_amour="néant">AGAR</role>, femme de la suite d'Athalie.</castItem>
+				<castItem><role id="TROUPE-de-LEVITES" civil="G" type="H" statut="religieux" age="A" stat_amour="néant">TROUPE DE PRÊTRES ET DE LÉVITES</role>.</castItem>
+				<castItem><role id="SUITE-D-ATHALIE" civil="G" type="H" statut="suite" age="A" stat_amour="néant">Suite d'Athalie</role>.</castItem>
+				<castItem><role id="NOURRICE-de-JOAS" civil="F" type="H" statut="nourrice" age="A" stat_amour="néant">LA NOURRICE</role> de Joas.</castItem>
+				<castItem><role id="CHOEUR" civil="G" type="H" statut="choeur" age="A" stat_amour="néant">CHOEUR</role> de jeunes filles de la tribu de Lévi.</castItem>
 			</castList>
-	<set location='Jérusalem' country='Israël' periode='Temps bibliques' link=''>La scène est dans le temple de Jérusalem, dans un vestibule de l'appartement du grand prêtre.</set>
+	<set location="Jérusalem" country="Israël" periode="Temps bibliques" link="">La scène est dans le temple de Jérusalem, dans un vestibule de l'appartement du grand prêtre.</set>
 	<note>Le texte est celui de l'édition 1697. Les variantes sont indiquées.</note>
 </front>
 <body>
@@ -2226,15 +2225,15 @@
 	<l id="1454">Comme de vils troupeaux réservés au carnage,</l>
 	<l id="1455">Et croit ne rencontrer que désordre et qu'effroi. </l>
 	<l id="1456">Qu'Azarias partout accompagne le roi.</l>
-	<l id="1457" part='i'>Venez, </l>
+	<l id="1457" part="i">Venez, </l>
 <stage>À Joas.</stage>
-	<l id="1457" part='f'>Venez, cher rejeton d'une vaillante race,</l>
+	<l id="1457" part="f">Venez, cher rejeton d'une vaillante race,</l>
 	<l id="1458">Remplir vos défenseurs d'une nouvelle audace.</l>
 	<l id="1459">Venez du diadème à leurs yeux vous couvrir,</l>
 	<l id="1460">Et périssez du moins en roi, s'il faut périr. </l>
-	<l id="1461" part='i'>Suivez-le, Josabet. Vous, </l>
+	<l id="1461" part="i">Suivez-le, Josabet. Vous, </l>
 <stage>À un lévite.</stage>
-	<l id="1461" part='f'> donnez-moi ces armes.</l>
+	<l id="1461" part="f"> donnez-moi ces armes.</l>
 	<l id="1462">Enfants, offrez à Dieu vos innocentes larmes.</l></sp>
 </div2>
 <div2 type="scene" n="6"><head>SCÈNE VI. Salomith, Le Choeur.</head>
@@ -2535,9 +2534,9 @@
 	<l id="1678">Qu'il s'avance suivi de nos sacrés soldats.</l>
 	<l id="1679">Faites venir aussi sa fidèle nourrice,</l>
 	<l id="1680">Princesse, et de vos pleurs que la source tarisse. </l>
-	<l id="1681" part='i'>Vous </l>
+	<l id="1681" part="i">Vous </l>
 <stage>À un lévite.</stage>
-	<l id="1681" part='f'>dès que cette reine ivre d'un fol orgueil</l>
+	<l id="1681" part="f">dès que cette reine ivre d'un fol orgueil</l>
 	<l id="1682">De la porte du Temple aura passé le seuil,</l>
 	<l id="1683">Qu'elle ne pourra plus retourner en arrière,</l>
 	<l id="1684">Prenez soin qu'à l'instant la trompette guerrière</l>

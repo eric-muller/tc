@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI.2>
+<?xml version="1.0" encoding="UTF-8"?><TEI.2>
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>LE CID, TRAGI-COMÉDIE</title>
-				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
+				<author born="1606" born_location="Rouen" death="1684" death_location="Paris" academie="1647">CORNEILLE, Pierre</author>
 			</titleStmt>
 			<publicationStmp>	
 				<p>publié par Paul FIEVRE, février 2015</p>
@@ -18,7 +17,7 @@
 				<taille>1750-2000</taille>
 				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k71391c</permalien>
 				<sources>
-					<source id='1'><author></author><text></text></source>
+					<source id="1"><author/><text/></source>
 				</sources>	
 
 			</SourceDesc>
@@ -30,18 +29,18 @@
 			<titlePart type="main">LE CID</titlePart>
 			<titlePart type="sub">TRAGI-COMÉDIE</titlePart>
 		</docTitle> 
-		<docDate value='1637'>M. DC. XXXVII.</docDate>
-		<docAuthor id='CORNEILLE, Pierre' bio='corneillep'></docAuthor>
+		<docDate value="1637">M. DC. XXXVII.</docDate>
+		<docAuthor id="CORNEILLE, Pierre" bio="corneillep"/>
 		<docImprint>
-				<privilege date='1637-01-21'><head>Extrait du privil[èg]e du Roi.</head>
+				<privilege date="1637-01-21"><head>Extrait du privil[èg]e du Roi.</head>
 				<p>Par grâce et privilège du roi, il est permis à Augustin Courbé, marchand libraire à Paris, d'imprimer ou faire imprimer, et exposer en vente, un livre intitulé "Le Cid tragi-comédie" Par Mr CORNEILLE, et défenses sont faites à tous imprimeurs, libraires et autres, d'imprimer, ni faire imprimer ledit livre sans sa permission, et de ceux qui auront droit de lui, et cependant le temps de vingt ans à compter du jour que ledit livre sera achevé d'imprimer pour la première fois, à peine aux contrevenants, de quinze cent livres d'amende, confiscation des exemplaires qui se trouverons contrefaits, et de tous dépens, dommages et intérêts, ainsi qu'il est contenu plus au long aux dites lettres de privilège. donné à Paris le vingt et unième janvier mille six cent trente-sept.</p>
 				<p>Et ledit Courbé associé avec lui audit privilège, François Targa, suivant le contrat passé entre eux par devant notaire du Châtelet de Paris.</p>
 				</privilege>
-				<acheveImprime id='1637-03-23'>Achevé d'imprimé ce 23 mars 1637. Les exemplaires ont été fournis ainsi qu'il est porté par le privilège.</acheveImprime>
-				<printer id='COURBÉ'>À Paris, chez Augustin Courbé, imprimeur et libraire de Monseigneur frère du roi, dans le petite salle du Palais, à la Palme.</printer>
+				<acheveImprime id="1637-03-23">Achevé d'imprimé ce 23 mars 1637. Les exemplaires ont été fournis ainsi qu'il est porté par le privilège.</acheveImprime>
+				<printer id="COURBÉ">À Paris, chez Augustin Courbé, imprimeur et libraire de Monseigneur frère du roi, dans le petite salle du Palais, à la Palme.</printer>
 		</docImprint>
 		<performance>
-			<premiere date='1637-01-04' location='Théâtre du Marais'>Représentée pour la première fois le 4 janvier 1637 au Théâtre du Marais.</premiere>
+			<premiere date="1637-01-04" location="Théâtre du Marais">Représentée pour la première fois le 4 janvier 1637 au Théâtre du Marais.</premiere>
 		</performance>
 <dedicace><adresse>À Madame de Combalet.</adresse>
 <head>Madame,</head>
@@ -50,97 +49,97 @@
 <signature>CORNEILLE.</signature>
 </dedicace>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="DON FERNAND" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>DON FERNAND</role>, premier roi de Castille. </castItem>
-			<castItem><role id="L'INFANTE" civil='F' type="H" statut='infante' age='A' stat_amour='rodrigue'>DONA URRAQUE </role>, infante de Castille. </castItem>
-			<castItem><role id="DON DIEGUE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DON DIÈGUE</role>, père de Don Rodrigue. </castItem>
-			<castItem><role id="LE COMTE" civil='M' type="H" statut='comte' age='A' stat_amour='néant'>DON GOMES</role>, comte de Gormas, père de Chimène. </castItem>
-			<castItem><role id="DON RODRIGUE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='chimène'>DON RODRIGUE</role>amant de Chimène. </castItem>
-			<castItem><role id="DON SANCHE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='chimène'>DON SANCHE</role>, amoureux de Chimène. </castItem>
-			<castItem><role id="DON ARIAS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DON ARIAS</role>, gentilhomme castillan. </castItem>
-			<castItem><role id="DON ALONSE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>DON ALONSE</role>, gentilhomme castillan. </castItem>
-			<castItem><role id="CHIMÈNE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>CHIMÈNE</role>, maîtresse de Don Rodrigue, et de Don Sanche. </castItem>
-			<castItem><role id="LÉONOR" civil='F' type="H" statut='gouvernante' age='A' stat_amour='néant'>LÉONOR</role>, gouvernante de l'Infante. </castItem>
-			<castItem><role id="ELVIRE" civil='F' type="H" statut='gouvernante' age='A' stat_amour='néant'>ELVIRE</role>, suivante de Chimène. </castItem>
-			<castItem><role id="UN PAGE" civil='M' type="H" statut='page' age='A' stat_amour='néant'>UN PAGE</role> de l'Infante.</castItem>
+			<castItem><role id="DON FERNAND" civil="M" type="H" statut="roi" age="A" stat_amour="néant">DON FERNAND</role>, premier roi de Castille. </castItem>
+			<castItem><role id="L'INFANTE" civil="F" type="H" statut="infante" age="A" stat_amour="rodrigue">DONA URRAQUE </role>, infante de Castille. </castItem>
+			<castItem><role id="DON DIEGUE" civil="M" type="H" statut="aristocrate" age="A" stat_amour="néant">DON DIÈGUE</role>, père de Don Rodrigue. </castItem>
+			<castItem><role id="LE COMTE" civil="M" type="H" statut="comte" age="A" stat_amour="néant">DON GOMES</role>, comte de Gormas, père de Chimène. </castItem>
+			<castItem><role id="DON RODRIGUE" civil="M" type="H" statut="aristocrate" age="A" stat_amour="chimène">DON RODRIGUE</role>amant de Chimène. </castItem>
+			<castItem><role id="DON SANCHE" civil="M" type="H" statut="aristocrate" age="A" stat_amour="chimène">DON SANCHE</role>, amoureux de Chimène. </castItem>
+			<castItem><role id="DON ARIAS" civil="M" type="H" statut="aristocrate" age="A" stat_amour="néant">DON ARIAS</role>, gentilhomme castillan. </castItem>
+			<castItem><role id="DON ALONSE" civil="M" type="H" statut="aristocrate" age="A" stat_amour="néant">DON ALONSE</role>, gentilhomme castillan. </castItem>
+			<castItem><role id="CHIMÈNE" civil="F" type="H" statut="aristocrate" age="A" stat_amour="néant">CHIMÈNE</role>, maîtresse de Don Rodrigue, et de Don Sanche. </castItem>
+			<castItem><role id="LÉONOR" civil="F" type="H" statut="gouvernante" age="A" stat_amour="néant">LÉONOR</role>, gouvernante de l'Infante. </castItem>
+			<castItem><role id="ELVIRE" civil="F" type="H" statut="gouvernante" age="A" stat_amour="néant">ELVIRE</role>, suivante de Chimène. </castItem>
+			<castItem><role id="UN PAGE" civil="M" type="H" statut="page" age="A" stat_amour="néant">UN PAGE</role> de l'Infante.</castItem>
 		</castList>
-	<set location='Séville' country='Espagne' periode='XIème' link=''>La scène est à Séville.</set>
+	<set location="Séville" country="Espagne" periode="XIème" link="">La scène est à Séville.</set>
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
-<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Le Comte, Elvire.</head>
-<sp who='ELVIRE'><speaker>ELVIRE.</speaker>
-	<l id='1'>Entre tous ces amants dont la jeune ferveur</l>
-	<l id='2'>Adore votre fille, et brigue ma faveur,</l>
-	<l id='3'>Don Rodrigue et Don Sanche à l'envi font paraître</l>
-	<l id='4'>Le beau feu qu'en leurs coeurs ses beautés ont fait naître,</l>
-	<l id='5'>Ce n'est pas que Climène écoute leurs soupirs</l>
-	<l id='6'>Ou d'un regard propice leurs désirs,</l>
-	<l id='7'>Au contraire pour tout dedans l'indifférence</l>
-	<l id='8'>Elle n'ôte à pas un, ni donne d'espérance,</l>
-	<l id='9'>Et sans les voir d'un oeil trop sévère, ou trop doux,</l>
-	<l id='10'>C'est de votre seul choix qu'elle attend un époux.</l>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Le Comte, Elvire.</head>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="1">Entre tous ces amants dont la jeune ferveur</l>
+	<l id="2">Adore votre fille, et brigue ma faveur,</l>
+	<l id="3">Don Rodrigue et Don Sanche à l'envi font paraître</l>
+	<l id="4">Le beau feu qu'en leurs coeurs ses beautés ont fait naître,</l>
+	<l id="5">Ce n'est pas que Climène écoute leurs soupirs</l>
+	<l id="6">Ou d'un regard propice leurs désirs,</l>
+	<l id="7">Au contraire pour tout dedans l'indifférence</l>
+	<l id="8">Elle n'ôte à pas un, ni donne d'espérance,</l>
+	<l id="9">Et sans les voir d'un oeil trop sévère, ou trop doux,</l>
+	<l id="10">C'est de votre seul choix qu'elle attend un époux.</l>
 </sp>
-<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
-	<l id='11'>Elle est dans le devoir, tous deux sont dignes d'elle,</l>
-	<l id='12'>Tous deux formés d'un sang, noble, vaillants, fidèle,</l>
-	<l id='13'>Jeunes, mais qui font lire aisément dans leurs yeux</l>
-	<l id='14'>L'éclatante vertu  de leurs braves aïeux.</l>
-	<l id='15'>Don Rodrigue sur tout n'a trait en son visage</l>
-	<l id='16'>Qui d'un homme de Cour ne soit le haute image,</l>
-	<l id='17'>Et sort d'une maison si seconde en guerriers,</l>
-	<l id='18'>Qu'ils y prennent naissance au milieu des lauriers,</l>
-	<l id='19'>La valeur de son père, en son temps sans pareille,</l>
-	<l id='20'>Tant qu'a dur sa force a passé pour merveille,,</l>
-	<l id='21'>Ses rides sur son front ont gravé ses exploits</l>
-	<l id='22'>Et nous disent encor ce qu'il fut autrefois :</l>
-	<l id='23'>Je me promets du fils ce que j'ai vu du père,</l>
-	<l id='24'>Et ma fille en un mot peut l'aimer et me plaire.</l>
-	<l id='25'>Va l'en entretenir, mais dans cet entretien</l>
-	<l id='26'>Cache mon sentiment et découvre le sien,</l>
-	<l id='27'>Je veux qu'à mon retour nous en parlions ensemble ;</l>
-	<l id='28'>L'heure à présent m'appelle au conseil qui s'assemble,</l>
-	<l id='29'>Le Roi doit à son fils choisir un gouverneur,</l>
-	<l id='30'>Ou plutôt m'élever à ce haut rang d'honneur,</l>
-	<l id='31'>Ce que pour lui mon bras chaque jour exécute,</l>
-	<l id='32'>Me défend de penser qu'aucun me le dispute.</l>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="11">Elle est dans le devoir, tous deux sont dignes d'elle,</l>
+	<l id="12">Tous deux formés d'un sang, noble, vaillants, fidèle,</l>
+	<l id="13">Jeunes, mais qui font lire aisément dans leurs yeux</l>
+	<l id="14">L'éclatante vertu  de leurs braves aïeux.</l>
+	<l id="15">Don Rodrigue sur tout n'a trait en son visage</l>
+	<l id="16">Qui d'un homme de Cour ne soit le haute image,</l>
+	<l id="17">Et sort d'une maison si seconde en guerriers,</l>
+	<l id="18">Qu'ils y prennent naissance au milieu des lauriers,</l>
+	<l id="19">La valeur de son père, en son temps sans pareille,</l>
+	<l id="20">Tant qu'a dur sa force a passé pour merveille,,</l>
+	<l id="21">Ses rides sur son front ont gravé ses exploits</l>
+	<l id="22">Et nous disent encor ce qu'il fut autrefois :</l>
+	<l id="23">Je me promets du fils ce que j'ai vu du père,</l>
+	<l id="24">Et ma fille en un mot peut l'aimer et me plaire.</l>
+	<l id="25">Va l'en entretenir, mais dans cet entretien</l>
+	<l id="26">Cache mon sentiment et découvre le sien,</l>
+	<l id="27">Je veux qu'à mon retour nous en parlions ensemble ;</l>
+	<l id="28">L'heure à présent m'appelle au conseil qui s'assemble,</l>
+	<l id="29">Le Roi doit à son fils choisir un gouverneur,</l>
+	<l id="30">Ou plutôt m'élever à ce haut rang d'honneur,</l>
+	<l id="31">Ce que pour lui mon bras chaque jour exécute,</l>
+	<l id="32">Me défend de penser qu'aucun me le dispute.</l>
 </sp>
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II. Chimène, Elvire</head>
-<sp who='ELVIRE'><speaker>ELVIRE, seule.</speaker>
-	<l id='33'>Quelle douce nouvelle à ces jeunes amants !</l>
-	<l id='34'>Et que tout se dispose à leurs contentements !</l>
+<sp who="ELVIRE"><speaker>ELVIRE, seule.</speaker>
+	<l id="33">Quelle douce nouvelle à ces jeunes amants !</l>
+	<l id="34">Et que tout se dispose à leurs contentements !</l>
 </sp>
-<sp who='CHIMÈNE'><speaker>CHIMÈNE.</speaker>
-	<l id='35'>Et bien, Elvire, que faut-il que j'espère ?</l>
-	<l id='36'>Que dois-je devenir, et que t'as dit mon père ?</l>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="35">Et bien, Elvire, que faut-il que j'espère ?</l>
+	<l id="36">Que dois-je devenir, et que t'as dit mon père ?</l>
 </sp>
 <sp who="ELVIRE"><speaker>ELVIRE.</speaker>
-	<l id='37'>Deux mots dont vos sens doivent être charmés,</l>
-	<l id='38'>Il estime Rodrigue autant que vous l'aimez.</l>
-</sp>
-<sp who='CHIMÈNE'><speaker>CHIMÈNE.</speaker>
-	<l id='39'>L'excès de ce bonheur me met en défiance,</l>
-	<l id='40'>Puisse à de tels discours donner quelque croyance ?</l>
-</sp>
-<sp who='ELVIRE'><speaker>ELVIRE.</speaker>
-	<l id='41'>Il passe plus outre, il approuve ses feux,</l>
-	<l id='42'>Et vous doit commander de répondre à ses voeux.</l>
-	<l id='43'>Jugez après cela puisque tantôt son père </l>
-	<l id='44'>Au sortir du Conseil doit proposer l'affaire,</l>
-	<l id='45'>S'il pouvait avoir lieu de mieux prendre son temps,</l>
-	<l id='46'>Et si tous vos désirs seront bientôt contents.</l>
+	<l id="37">Deux mots dont vos sens doivent être charmés,</l>
+	<l id="38">Il estime Rodrigue autant que vous l'aimez.</l>
 </sp>
 <sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
-	<l id='47'>Il semble toutefois que mon âme troublée</l>
-	<l id='48'>Refuse cette joie, et s'en trouve accablée,</l>
-	<l id='49'>Un moment donne au sort des visages divers,</l>
-	<l id='50'>Et dans ce grand bonheur je crains un grand revers.</l>
+	<l id="39">L'excès de ce bonheur me met en défiance,</l>
+	<l id="40">Puisse à de tels discours donner quelque croyance ?</l>
 </sp>
-<sp who='ELVIRE'><speaker>ELVIRE.</speaker>
-	<l id='51'>Vous verrez votre crainte heureusement déçue.</l>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="41">Il passe plus outre, il approuve ses feux,</l>
+	<l id="42">Et vous doit commander de répondre à ses voeux.</l>
+	<l id="43">Jugez après cela puisque tantôt son père </l>
+	<l id="44">Au sortir du Conseil doit proposer l'affaire,</l>
+	<l id="45">S'il pouvait avoir lieu de mieux prendre son temps,</l>
+	<l id="46">Et si tous vos désirs seront bientôt contents.</l>
 </sp>
 <sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
-	<l id='52'>Allons, quoiqu'il en soit, en attendre l'issue.</l>
+	<l id="47">Il semble toutefois que mon âme troublée</l>
+	<l id="48">Refuse cette joie, et s'en trouve accablée,</l>
+	<l id="49">Un moment donne au sort des visages divers,</l>
+	<l id="50">Et dans ce grand bonheur je crains un grand revers.</l>
+</sp>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="51">Vous verrez votre crainte heureusement déçue.</l>
+</sp>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="52">Allons, quoiqu'il en soit, en attendre l'issue.</l>
 </sp>
 </div2>
 <div2 type="scene" n="3"><head>SCÈNE III. L'Infante, Léonor, Le page.</head>
@@ -414,19 +413,19 @@
 	<l id="229">D'un insolent discours ce juste châtiment</l>
 	<l id="230">Ne lui servira pas d'un petit ornement.</l>
 </sp>
-<sp who='DON DIEGUE'><speaker>DON DIEGUE.</speaker>
-	<l id="231" part='i'>Épargnes-tu mon sang ?</l>
+<sp who="DON DIEGUE"><speaker>DON DIEGUE.</speaker>
+	<l id="231" part="i">Épargnes-tu mon sang ?</l>
 </sp>
-<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
-	<l id='231' part='f'>Mon âme est satisfaite,</l>
-	<l id='232'>Et mes yeux à ma main reprochent ta défaite.</l>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="231" part="f">Mon âme est satisfaite,</l>
+	<l id="232">Et mes yeux à ma main reprochent ta défaite.</l>
 </sp>
-<sp who='DON DIEGUE'><speaker>DON DIEGUE.</speaker>
-	<l id='233' part='i'>Tu dédaignes ma vie !</l>
+<sp who="DON DIEGUE"><speaker>DON DIEGUE.</speaker>
+	<l id="233" part="i">Tu dédaignes ma vie !</l>
 </sp>
-<sp who='LE COMTE'><speaker>LE COMTE.</speaker>
-	<l id='233' part='f'>En arrêter le cours</l>
-	<l id='234'>Ne ferait que hâter la Parque de trois jours.</l>
+<sp who="LE COMTE"><speaker>LE COMTE.</speaker>
+	<l id="233" part="f">En arrêter le cours</l>
+	<l id="234">Ne ferait que hâter la Parque de trois jours.</l>
 </sp>
 </div2>
 <div2 type="scene" n="4"><head>SCÈNE IV.</head>
@@ -500,7 +499,7 @@
 <sp who="DON DIEGUE"><speaker>DON DIÈGUE.</speaker>
 	<l id="282">Donc pour te dire encor quelque chose en plus,</l>
 	<l id="283">Plus que brave soldat, plus que grand Capitaine,</l>
-	<l id='284' part='i'>C'est...</l>
+	<l id="284" part="i">C'est...</l>
 </sp>
 <sp who="DON RODRIGUE"><speaker>DON RODRIGUE.</speaker>
 	<l id="284" part="m">De grâce, achevez.</l>
@@ -524,8 +523,8 @@
 </div2>
 <div2 type="scene" n="7"><head>SCÈNE VII.</head>
 <sp who="DON RODRIGUE"><speaker>DON RODRIGUE, seul.</speaker>
-<poem type='stances'> 
-	<lg type='stanza' n='1'>
+<poem type="stances"> 
+	<lg type="stanza" n="1">
 		<l id="293">Percé jusques au fond du coeur</l>
 		<l id="294">D'une atteinte imprévue aussi bien que mortelle,</l>
 		<l id="295">Misérable vengeur d'une juste querelle,</l>
@@ -537,7 +536,7 @@
 		<l id="301">En cet affront mon père est l'offensé,</l>
 		<l id="302">Et l'offenseur le père de Chimène.</l>
 	</lg>
-	<lg type='stanza' n='2'>
+	<lg type="stanza" n="2">
 		<l id="303">Que je sens de rudes combats !</l>
 		<l id="304">Contre mon propre honneur mon amour s'intéresse,</l>
 		<l id="305">Il faut venger un père, et perdre une maîtresse,</l>
@@ -549,7 +548,7 @@
 		<l id="311">Faut-il laisser un affront impuni ?</l>
 		<l id="312">Faut-il punir le père de Chimène ?</l>
 	</lg>
-	<lg type='stanza' n='3'>
+	<lg type="stanza" n="3">
 		<l id="313">Père, maîtresse, honneur, amour,</l>
 		<l id="314">Illustre tyrannie, adorable contrainte,</l>
 		<l id="315">Par qui de ma raison la lumière est éteinte,</l>
@@ -561,7 +560,7 @@
 		<l id="321">M'es-tu donné pour venger mon honneur ?</l>
 		<l id="322">M'es-tu donné pour perdre ma Chimène ?</l>
 	</lg>
-	<lg type='stanza' n='4'>
+	<lg type="stanza" n="4">
 		<l id="323">Il vaut mieux courir au trépas,</l>
 		<l id="324">Je dois à ma maîtresse aussi bien qu'à mon père,</l>
 		<l id="325">Qui venge cet affront irrite sa colère,</l>
@@ -573,7 +572,7 @@
 		<l id="331">Allons mon âme, et puisqu'il faut mourir,</l>
 		<l id="332">Mourons du moins sans offenser Chimène.</l>
 	</lg>
-	<lg type='stanza' n='5'>
+	<lg type="stanza" n="5">
 		<l id="333">Mourir sans tirer ma raison !</l>
 		<l id="334">Rechercher un trépas si mortel à ma gloire !</l>
 		<l id="335">Endurer que l'Espagne impute à ma mémoire</l>
@@ -586,7 +585,7 @@
 		<l id="341">Allons, mon bras, du moins sauvons l'honneur,</l>
 		<l id="342">Puisqu'aussi bien il faut perdre Chimène.</l>
 	</lg>
-	<lg type='stanza' n='6'>
+	<lg type="stanza" n="6">
 		<l id="343">Oui, mon esprit s'était déçu,</l>
 		<l id="344">Dois-je pas à mon père avant qu'à ma maîtresse ?</l>
 		<l id="345">Que je meure au combat, ou meure de tristesse,</l>
@@ -1034,10 +1033,10 @@
 </sp>
 <sp who="DON SANCHE"><speaker>DON SANCHE.</speaker>
 	<l id="583">J'obéis, et me tais ; mais de grâce encor Sire,</l>
-	<l id="584" part='i'>Deux mots en sa défense.</l>
+	<l id="584" part="i">Deux mots en sa défense.</l>
 </sp>
 <sp who="DON FERNAND"><speaker>LE ROI.</speaker>
-	<l id="584" part='f'>Et que pourrez-vous dire ?</l>
+	<l id="584" part="f">Et que pourrez-vous dire ?</l>
 </sp>
 <sp who="DON SANCHE"><speaker>DON SANCHE.</speaker>
 	<l id="585">Qu'une âme accoutumée aux grandes actions</l>
@@ -1097,10 +1096,10 @@
 <sp who="DON ARIAS"><speaker>DON ARIAS.</speaker>
 	<l id="627">Sire, ils ont trop appris aux dépens de leurs têtes</l>
 	<l id="628">Combien votre présence assure vos conquêtes.	</l>
-	<l id="629" part='i'>Vous n'avez rien à craindre.</l>
+	<l id="629" part="i">Vous n'avez rien à craindre.</l>
 </sp>
 <sp who="DON FERNAND"><speaker>LE ROI.</speaker>
-	<l id="629" part='f'>Et rien à négliger,</l>
+	<l id="629" part="f">Et rien à négliger,</l>
 	<l id="630">Le trop de confiance attire le danger,</l>
 	<l id="631">Et le même ennemi que l'on vient de détruire,</l>
 	<l id="632">S'il sait prendre son temps, est capable de nuire.</l>
@@ -1110,17 +1109,17 @@
 	<l id="635">L'effroi que produirait cette alarme inutile</l>
 	<l id="636">Dans la nuit qui survient troublerait trop la ville : </l>
 	<l id="637">Puisqu'on fait bonne garde aux murs et sur le port.</l>
-	<l id="638" part='i'>Il suffit pour ce soir.</l>
+	<l id="638" part="i">Il suffit pour ce soir.</l>
 </sp>
-<sp who='DON ALONSE'><speaker>DON ALONSE.</speaker>
-	<l id="638" part='f'>Sire, Le Comte est mort.</l>
+<sp who="DON ALONSE"><speaker>DON ALONSE.</speaker>
+	<l id="638" part="f">Sire, Le Comte est mort.</l>
 	<l id="639">Dom Diègue par son fils a vengé son offense.</l>
 </sp>
 <sp who="DON FERNAND"><speaker>LE ROI.</speaker>
 	<l id="640">Dès que j'ai su l'affront, j'ai prévu la vengeance,</l>
 	<l id="641">Et j'ai voulu dès lors prévenir ce malheur.</l>
 </sp>
-<sp who='DON ALONSE'><speaker>DON ALONSE.</speaker>
+<sp who="DON ALONSE"><speaker>DON ALONSE.</speaker>
 	<l id="642">Chimène à vos genoux apporte sa douleur,</l>
 	<l id="643">Elle vient toute en pleurs vous demander justice.</l>
 </sp>
@@ -1156,22 +1155,22 @@
 	<l id="655" part="f">Entendez ma défense.</l>
 </sp>
 <sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
-	<l id="656" part='i'>Vengez-moi d'une mort.</l>
+	<l id="656" part="i">Vengez-moi d'une mort.</l>
 </sp>
 <sp who="DON DIEGUE"><speaker>DON DIÈGUE.</speaker>
-	<l id="656" part='f'>Qui punit l'insolence.</l>
+	<l id="656" part="f">Qui punit l'insolence.</l>
 </sp>
 <sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
-	<l id="657" part='i'>Rodrigue, Sire.</l>
+	<l id="657" part="i">Rodrigue, Sire.</l>
 </sp>
 <sp who="DON DIEGUE"><speaker>DON DIÈGUE.</speaker>
-	<l id="657" part='f'>A fait un coup d'homme de bien.</l>
+	<l id="657" part="f">A fait un coup d'homme de bien.</l>
 </sp>
 <sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
-	<l id="658" part='i'>Il a tué mon père.</l>
+	<l id="658" part="i">Il a tué mon père.</l>
 </sp>
 <sp who="DON DIEGUE"><speaker>DON DIÈGUE.</speaker>
-	<l id="658" part='f'>Il a vengé le sien.</l>
+	<l id="658" part="f">Il a vengé le sien.</l>
 </sp>
 <sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
 	<l id="659">Au sang de ses sujets un roi doit la justice.</l>
@@ -2497,8 +2496,8 @@
 </div2>
 <div2 type="scene" n="2"><head>SCÈNE II.</head>
 <sp who="L'INFANTE"><speaker>L'INFANTE.</speaker>
-<poem type='stances'>
-	<lg type='stanza' id="1">
+<poem type="stances">
+	<lg type="stanza" id="1">
 		<l id="1575">T'écouterai-je encor, respect de ma naissance,</l>
 		<l id="1576">Qui fais un crime de mes feux ?</l>
 		<l id="1577">T'écouterai-je, Amour, dont la douce puissance</l>
@@ -2508,7 +2507,7 @@
 		<l id="1581">Rodrigue, ta valeur te rend digne de moi,</l>
 		<l id="1582">Mais pour être vaillant, tu n'es pas fils de Roi.</l>
 	</lg>
-	<lg type='stanza' n='2'>
+	<lg type="stanza" n="2">
 		<l id="1583">Impitoyable sort, dont la rigueur sépare</l>
 		<l id="1584">Ma gloire d'avec mes désirs,</l>
 		<l id="1585">Est-il dit que le choix d'une vertu si rare</l>
@@ -2518,7 +2517,7 @@
 		<l id="1589">S'il ne peut obtenir dessus mon sentiment,</l>
 		<l id="1590">Ni d'éteindre l'amour, ni d'accepter l'amant ?</l>
 	</lg>
-	<lg type='stanza' n='3'>
+	<lg type="stanza" n="3">
 		<l id="1591">Mais c'est trop de scrupule, et ma raison s'étonne</l>
 		<l id="1592">Du mépris d'un si digne choix :</l>
 		<l id="1593">Bien qu'aux monarques seuls ma naissance me donne,</l>
@@ -2528,7 +2527,7 @@
 		<l id="1597">Et ce grand nom de Cid que tu viens de gagner</l>
 		<l id="1598">Marque-il pas déjà sur qui tu dois régner ?</l>
 	</lg>
-	<lg type='stanza' n='4'>
+	<lg type="stanza" n="4">
 		<l id="1599">Il est digne de moi, mais il est à Chimène ;</l>
 		<l id="1600">Le don que j'en ai fait me nuit.</l>
 		<l id="1601">Entre eux un père mort sème si peu de haine,</l>
@@ -2713,11 +2712,11 @@
 	<l id="1725">Va, tu l'as pris en traître, un guerrier si vaillant</l>
 	<l id="1726">N'eût jamais succombé sous un tel assaillant.</l>
 </sp>
-<sp who='ELVIRE'><speaker>ELVIRE.</speaker>
-	<l id="1727" part='i'>Mais, Madame, écoutez.</l>
+<sp who="ELVIRE"><speaker>ELVIRE.</speaker>
+	<l id="1727" part="i">Mais, Madame, écoutez.</l>
 </sp>
-<sp who='CHIMÈNE'><speaker>CHIMÈNE.</speaker>
-	<l id="1727" part='f'>Que veux-tu que j'écoute ?</l>
+<sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>
+	<l id="1727" part="f">Que veux-tu que j'écoute ?</l>
 	<l id="1728">Après ce que je vois puisse encor en doute ?</l>
 	<l id="1729">J'obtiens pour mon malheur ce que j'ai demandé,</l>
 	<l id="1730">Et ma juste poursuite a trop bine succédé.</l>
@@ -2732,7 +2731,7 @@
 	<l id="1739">N'espère rien de moi, tu ne m'en a point servie,</l>
 	<l id="1740">En croyant me venger tu m'as ôté le vie.</l>
 </sp>
-<sp who='DON SANCHE'><speaker>DON SANCHE.</speaker>
+<sp who="DON SANCHE"><speaker>DON SANCHE.</speaker>
 	<l id="1741">Étrange impression, qui loin de m'écouter...</l>
 </sp>
 <sp who="CHIMÈNE"><speaker>CHIMÈNE.</speaker>

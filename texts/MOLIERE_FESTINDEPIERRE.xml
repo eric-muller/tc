@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI.2>
+<?xml version="1.0" encoding="UTF-8"?><TEI.2>
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>LE FESTIN DE PIERRE, COMÉDIE </title>
-			<author born='1622' born_location='Paris' death='1673' death_location='Paris' academie=''>Molière</author>
+			<author born="1622" born_location="Paris" death="1673" death_location="Paris" academie="">Molière</author>
 			</titleStmt>
 			<publicationStmp>	
 				<p>publié par Paul FIEVRE, février 2014.</p>
@@ -17,7 +16,7 @@
 				<periode>1681-1690</periode>
 				<taille>(mesure non pertinente)</taille>
 					<sources>
-					<source id='1'><author></author><text></text></source>
+					<source id="1"><author/><text/></source>
 				</sources>	
 
 			</SourceDesc>
@@ -30,15 +29,15 @@
 			<titlePart type="sub">COMÉDIE</titlePart>
 			<titlePart type="sub">Édition nouvelle et toute différente de celle qui a paru jusqu’à présent.</titlePart>
 		</docTitle> 
-		<docDate value='1683'>M. DC. LXXXIII.</docDate>
-		<docAuthor id='MOLIERE' bio='moliere'>Par J. B. P. DE MOLIÈRE.</docAuthor>
+		<docDate value="1683">M. DC. LXXXIII.</docDate>
+		<docAuthor id="MOLIERE" bio="moliere">Par J. B. P. DE MOLIÈRE.</docAuthor>
 		<docImprint>
-			<privilege id=''></privilege>
-			<acheveImprime id=''></acheveImprime>
-			<editor id=''>À AMSTERDAM.</editor>
+			<privilege id=""/>
+			<acheveImprime id=""/>
+			<editor id="">À AMSTERDAM.</editor>
 		</docImprint>
 		<performance>
-			<premiere date='1665-02-15' location='Théâtre du Palais-Royal'>Représentée pour la première fois le 15 février 1665 sur le Théâtre de la salle du Palais-Royal par la Troupe de Monsieur, frère unique du Roi.</premiere>
+			<premiere date="1665-02-15" location="Théâtre du Palais-Royal">Représentée pour la première fois le 15 février 1665 sur le Théâtre de la salle du Palais-Royal par la Troupe de Monsieur, frère unique du Roi.</premiere>
 		</performance>
 		<preface><head>L’IMPRIMEUR AU LECTEUR.</head>
 	<p>De toutes les pièces qui ont été publiées sous le nom de M. Molière, aucune ne lui a été contestée, que le Festin de Pierre. Car bien que l’invention en parût assez de sa façon, on la trouva néanmoins si mal exécutée, que plutôt que de la lui attribuer, on aima mieux la faire passer pour une méchante copie de quelqu’un qui l’avait vu représenter, et qui, en ajoutant des lambeaux à sa fantaisie à ce qu’il en avait retenu, en avait formé une pièce à sa mode.</p>
@@ -46,26 +45,26 @@
 </preface>
 
 	<castList><head>PERSONNAGES</head>
-	<castItem><role id="DON JUAN" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>DON JUAN</role>, fils de Don Louis.</castItem> 
-	<castItem><role id="DON LOUIS" civil='M' type="H" statut="aristocrate" age="V" stat_amour='néant'>DON LOUIS</role>, père de Don Juan.</castItem> 
-	<castItem><role id="ELVIRE" civil='F' statut="bourgeois" age="A" stat_amour='amoureux'>ELVIRE</role>, maîtresse de Don Juan.</castItem> 
-	<castItem><role id="DON ALONSE" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>DON ALONSE</role>, frère d'Elvire</castItem> 
-	<castItem><role id="DON CARLOS" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>DON CARLOS</role>, frère d'Elvire.</castItem> 
-	<castItem><role id="GUSMAN" civil='M' type="H" statut="valet" age="A" stat_amour='néant'>GUSMAN</role>, valet de Dona Elvire.</castItem> 
-	<castItem><role id="SGANARELLE" civil='M' type="H" statut="valet" age="A" stat_amour='néant'>SGANARELLE</role>, valet de Don Juan.</castItem> 
-	<castItem><role id="LA VIOLETTE" civil='M' type="H" statut="laquais" age="A" stat_amour='néant'>LA VIOLETTE</role>, laquais de Don Juan.</castItem> 
-	<castItem><role id="RAGOTIN" civil='M' type="H" statut="laquais" age="A" stat_amour='néant'>RAGOTIN</role>, laquais de Don Juan.</castItem> 
-	<castItem><role id="MONSIEUR_DIMANCHE" civil='M' type="H" statut="commerçant" age="A" stat_amour='néant'>MONSIEUR DIMANCHE</role>.</castItem> 
-	<castItem><role id="LA RAMÉE" civil='M' type="H" statut="spadassin" age="A" stat_amour='néant'>LA RAMÉE</role>, bretteur.</castItem> 
-	<castItem><role id="PIERROT" civil='M' type="H" statut="paysan" age="A" stat_amour='néant'>PIERROT</role>, paysan, amant de Charlotte.</castItem> 
-	<castItem><role id="CHARLOTTE" civil='F' type="H" statut="paysan" age="A" stat_amour='néant'>CHARLOTTE</role>, paysanne.</castItem> 
-	<castItem><role id="MATHURINE" civil='F' type="H" statut="paysan" age="A" stat_amour='néant'>MATHURINE</role>, paysanne.</castItem> 
-	<castItem><role id="LA STATUE DU COMMANDEUR" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>LA STATUE DU COMMANDEUR</role>.</castItem> 
-	<castItem><role id="SPECTRE" civil='M' type="A" statut="fantôme" age="A" stat_amour='néant'>UN SPECTRE</role>.</castItem> 
-	<castItem><role id="SUIVANTS DE DON ALONSE" civil='G' type="H" statut="suite" age="A" stat_amour='néant'>TROIS SUIVANTS DE DON ALONSE</role>.</castItem> 
-	<castItem><role id="UN PAUVRE" civil='G' type="H" statut="suite" age="A" stat_amour='néant'>UN PAUVRE</role>.</castItem> 
+	<castItem><role id="DON JUAN" civil="M" type="H" statut="aristocrate" age="A" stat_amour="néant">DON JUAN</role>, fils de Don Louis.</castItem> 
+	<castItem><role id="DON LOUIS" civil="M" type="H" statut="aristocrate" age="V" stat_amour="néant">DON LOUIS</role>, père de Don Juan.</castItem> 
+	<castItem><role id="ELVIRE" civil="F" statut="bourgeois" age="A" stat_amour="amoureux">ELVIRE</role>, maîtresse de Don Juan.</castItem> 
+	<castItem><role id="DON ALONSE" civil="M" type="H" statut="aristocrate" age="A" stat_amour="néant">DON ALONSE</role>, frère d'Elvire</castItem> 
+	<castItem><role id="DON CARLOS" civil="M" type="H" statut="aristocrate" age="A" stat_amour="néant">DON CARLOS</role>, frère d'Elvire.</castItem> 
+	<castItem><role id="GUSMAN" civil="M" type="H" statut="valet" age="A" stat_amour="néant">GUSMAN</role>, valet de Dona Elvire.</castItem> 
+	<castItem><role id="SGANARELLE" civil="M" type="H" statut="valet" age="A" stat_amour="néant">SGANARELLE</role>, valet de Don Juan.</castItem> 
+	<castItem><role id="LA VIOLETTE" civil="M" type="H" statut="laquais" age="A" stat_amour="néant">LA VIOLETTE</role>, laquais de Don Juan.</castItem> 
+	<castItem><role id="RAGOTIN" civil="M" type="H" statut="laquais" age="A" stat_amour="néant">RAGOTIN</role>, laquais de Don Juan.</castItem> 
+	<castItem><role id="MONSIEUR_DIMANCHE" civil="M" type="H" statut="commerçant" age="A" stat_amour="néant">MONSIEUR DIMANCHE</role>.</castItem> 
+	<castItem><role id="LA RAMÉE" civil="M" type="H" statut="spadassin" age="A" stat_amour="néant">LA RAMÉE</role>, bretteur.</castItem> 
+	<castItem><role id="PIERROT" civil="M" type="H" statut="paysan" age="A" stat_amour="néant">PIERROT</role>, paysan, amant de Charlotte.</castItem> 
+	<castItem><role id="CHARLOTTE" civil="F" type="H" statut="paysan" age="A" stat_amour="néant">CHARLOTTE</role>, paysanne.</castItem> 
+	<castItem><role id="MATHURINE" civil="F" type="H" statut="paysan" age="A" stat_amour="néant">MATHURINE</role>, paysanne.</castItem> 
+	<castItem><role id="LA STATUE DU COMMANDEUR" civil="M" type="H" statut="aristocrate" age="A" stat_amour="néant">LA STATUE DU COMMANDEUR</role>.</castItem> 
+	<castItem><role id="SPECTRE" civil="M" type="A" statut="fantôme" age="A" stat_amour="néant">UN SPECTRE</role>.</castItem> 
+	<castItem><role id="SUIVANTS DE DON ALONSE" civil="G" type="H" statut="suite" age="A" stat_amour="néant">TROIS SUIVANTS DE DON ALONSE</role>.</castItem> 
+	<castItem><role id="UN PAUVRE" civil="G" type="H" statut="suite" age="A" stat_amour="néant">UN PAUVRE</role>.</castItem> 
 	</castList>
-<set location='Sicile' country='Italie' periode='XVIIème' link=''>La scène est en Sicile.</set>
+<set location="Sicile" country="Italie" periode="XVIIème" link="">La scène est en Sicile.</set>
 </front>
 <body>
 <div1 type="acte" n=""><head>ACTE I</head>
@@ -1458,24 +1457,24 @@
 	<s id="1">Mettez-nous d’accord Monsieur.</s>
 </p>
 </sp>
-<sp who='CHARLOTTE'><speaker>CHARLOTTE, à Mathurine.</speaker>
-<p id='47'>
-	<s id='1'>Vous allez voir.</s>
+<sp who="CHARLOTTE"><speaker>CHARLOTTE, à Mathurine.</speaker>
+<p id="47">
+	<s id="1">Vous allez voir.</s>
 </p>
 </sp>
-<sp who='MATHURINE'><speaker>MATHURINE, à Charlotte.</speaker>
-<p id='48'>
-	<s id='1'>Vous allez voir vous-même.</s>
+<sp who="MATHURINE"><speaker>MATHURINE, à Charlotte.</speaker>
+<p id="48">
+	<s id="1">Vous allez voir vous-même.</s>
 </p>
 </sp>
-<sp who='CHARLOTTE'><speaker>CHARLOTTE, à Don Juan.</speaker>
-<p id='49'>
-	<s id='1'>Perlez.</s>
+<sp who="CHARLOTTE"><speaker>CHARLOTTE, à Don Juan.</speaker>
+<p id="49">
+	<s id="1">Perlez.</s>
 </p>
 </sp>
-<sp who='MATHURINE'><speaker>MATHURINE, à Don Juan.</speaker>
-<p id='50'>
-	<s id='1'>Perlez.</s>
+<sp who="MATHURINE"><speaker>MATHURINE, à Don Juan.</speaker>
+<p id="50">
+	<s id="1">Perlez.</s>
 </p>
 </sp>
 <sp who="DON JUAN"><speaker>DON JUAN.</speaker>
@@ -1486,26 +1485,26 @@
 	<s id="4">tous les discours n’avancent point les choses, il faut faire et non pas dire, et les effets décideront mieux que les paroles ; aussi n’est-ce rien que par là que je veux vous mettre d’accord, et l’on verra quand je me marierai laquelle des deux a mon cœur ;</s>
 </p>
 <stage>À Mathurine.</stage>
-<p id='52'>
-	<s id='1'>Laissez-lui croire ce qu’elle voudra.</s>
+<p id="52">
+	<s id="1">Laissez-lui croire ce qu’elle voudra.</s>
 </p>
 <stage>À Charlotte.</stage>
-<p id='53'>
-	<s id='1'>Je suis tout à vous.</s>
+<p id="53">
+	<s id="1">Je suis tout à vous.</s>
 </p>
 <stage>À Mathurine.</stage>
-<p id='54'>
-	<s id='1'>Tous les visages sont laids auprès du vôtre.</s>
+<p id="54">
+	<s id="1">Tous les visages sont laids auprès du vôtre.</s>
 </p>
 <stage>À Charlotte.</stage>
-<p id='55'>
-	<s id='1'>On ne peut plus souffrir les autres quand on vous a vue. </s>
+<p id="55">
+	<s id="1">On ne peut plus souffrir les autres quand on vous a vue. </s>
 	<s id="2">J’ai un petit ordre à donner, je viens vous retrouver dans un quart d’heure.</s>
 </p>
 </sp>
-<sp who='CHARLOTTE'><speaker>CHARLOTTE, à Mathurine.</speaker>
-<p id='56'>
-	<s id='1'>Je suis celle qu’il aime au moins.</s>
+<sp who="CHARLOTTE"><speaker>CHARLOTTE, à Mathurine.</speaker>
+<p id="56">
+	<s id="1">Je suis celle qu’il aime au moins.</s>
 </p>
 </sp>
 <sp who="MATHURINE"><speaker>MATHURINE.</speaker>
@@ -1519,9 +1518,9 @@
 	<s id="2">Pauvres filles que vous êtes, j’ai pitié de votre innocence, et je ne puis souffrir de vous voir courir à votre malheur ; croyez-moy l’une et l’autre, ne vous amusez point à tous les contes qu’on vous fait, et demeurez dans votre village.</s>
 </p>
 </sp>
-<sp who='DON JUAN'><speaker>DON JUAN, revenant.</speaker>
-<p id='59'>
-	<s id='1'>Je voudrais bien savoir pourquoi Sganarelle ne me suit pas.</s>
+<sp who="DON JUAN"><speaker>DON JUAN, revenant.</speaker>
+<p id="59">
+	<s id="1">Je voudrais bien savoir pourquoi Sganarelle ne me suit pas.</s>
 </p>
 </sp>
 <sp who="SGANARELLE"><speaker>SGANRELLE.</speaker>
@@ -1560,7 +1559,7 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='6'><head>SCÈNE VI. Don Juan, La Ramée, Charlotte, Mathurine, Sganarelle.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI. Don Juan, La Ramée, Charlotte, Mathurine, Sganarelle.</head>
 <sp who="LA RAMÉE"><speaker>LA RAMÉE.</speaker>
 <p id="1">
 	<s id="1">Monsieur je viens vous avertir qu’il ne fait pas bon ici pour vous.</s>
@@ -1576,7 +1575,7 @@
 	<s id="1">Douze hommes à cheval vous cherchent, qui doivent arriver ici dans un moment ; je ne sais pas par quel moyen ils peuvent vous avoir suivi, mais j’ai appris cette nouvelle d’un paysan qu’ils ont interrogé, et auquel ils vous ont dépeint ; l’affaire presse, et le plutôt que vous pourrez sortir d’ici sera le meilleur.</s>
 </p>
 </sp>
-<sp who='DON JUAN'><speaker>DON JUAN, à Charlotte et à Mathurine.</speaker>
+<sp who="DON JUAN"><speaker>DON JUAN, à Charlotte et à Mathurine.</speaker>
 <p id="4">
 	<s id="1">Une affaire pressante m’oblige de partir d’ici, mais je vous prie de vous ressouvenir de la parole que je vous ai donnée, et de croire que vous aurez de mes nouvelles, avant qu’il soit demain au soir ; Comme la partie n’est pas égale, il faut user de stratagème et éluder adroitement le malheur qui me cherche, je veux que Sganarelle se vête de mes habits et moi...</s>
 </p>
@@ -1599,8 +1598,8 @@
 </sp>
 </div2>
 </div1>
-<div1 type='acte' n='3'><head>ACTE III</head>
-<div2 type='scene' n='1'><head>SCÈNE I. Don Juan, Sganarelle.</head>
+<div1 type="acte" n="3"><head>ACTE III</head>
+<div2 type="scene" n="1"><head>SCÈNE I. Don Juan, Sganarelle.</head>
 <sp who="SGANARELLE"><speaker>SGANRELLE</speaker>
 <p id="1">
 	<s id="1">Ma foi Monsieur, avouez que j’ai eu raison, et que nous voilà l’un et l’autre déguisés à merveille, votre premier dessein n’était point du tout à propos, et ceci nous cache bien mieux que tout ce que vous vouliez faire.</s>
@@ -1832,7 +1831,7 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II. Don Juan, Sganarelle, un Pauvre.</head>
+<div2 type="scene" n="2"><head>SCÈNE II. Don Juan, Sganarelle, un Pauvre.</head>
 <sp who="SGANARELLE"><speaker>SGANRELLE</speaker>
 <p id="1">
 	<s id="1">Enseigne nous un peu le chemin qui mène à la ville.</s>
@@ -1951,7 +1950,7 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III. Don Juan, Don Carlos, Sganarelle.</head>
+<div2 type="scene" n="3"><head>SCÈNE III. Don Juan, Don Carlos, Sganarelle.</head>
 <sp who="SGANARELLE"><speaker>SGANRELLE.</speaker>
 <p id="1">
 	<s id="1">Mon Maître est un vrai enragé d’aller se présenter à un péril qui ne le cherche pas ; mais ma foi le secours a servi, et les deux ont fait fuir les trois.</s>
@@ -2044,7 +2043,7 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV. Don Alonse, et trois Suivants, Don Carlos, Don Juan, Sganarelle.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV. Don Alonse, et trois Suivants, Don Carlos, Don Juan, Sganarelle.</head>
 <sp who="DON ALONSE"><speaker>DON ALONSE.</speaker>
 <p id="1">
 	<s id="1">Faites boire là nos chevaux, et qu’on les amène après nous, je veux un peu marcher à pied. </s>
@@ -2110,7 +2109,7 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='5'><head>SCÈNE V. Don Juan, Sganarelle.</head>
+<div2 type="scene" n="5"><head>SCÈNE V. Don Juan, Sganarelle.</head>
 <sp who="DON JUAN"><speaker>DON JUAN.</speaker>
 <p id="1">
 	<s id="1">Holà, ho, Sganarelle.</s>
@@ -2311,8 +2310,8 @@
 </sp>
 </div2>
 </div1>
-<div1 type='acte' n='4'><head>ACTE IV.</head>
-<div2 type='scene' n=''><head>SCÈNE I. Don Juan, Sganarelle.</head>
+<div1 type="acte" n="4"><head>ACTE IV.</head>
+<div2 type="scene" n=""><head>SCÈNE I. Don Juan, Sganarelle.</head>
 <sp who="DON JUAN"><speaker>DON JUAN.</speaker>
 <p id="1">
 	<s id="1">Quoiqu’il en soit laissons cela, c’est une bagatelle, et nous pouvons avoir été trompés par un faux jour, ou surpris de quelque vapeur qui nous ait troublé la vue.</s>
@@ -2339,7 +2338,7 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II. Don Juan, La Violette, Sganarelle.</head>
+<div2 type="scene" n="2"><head>SCÈNE II. Don Juan, La Violette, Sganarelle.</head>
 <sp who="LA VIOLETTE"><speaker>LA VIOLETTE.</speaker>
 <p id="6">
 	<s id="1">Monsieur, voilà votre marchand, Monsieur Dimanche, qui demande à vous parler.</s>
@@ -2367,13 +2366,13 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III. Don Juan, Monsieur Dimanche, Sganarelle, Suite.</head>
+<div2 type="scene" n="3"><head>SCÈNE III. Don Juan, Monsieur Dimanche, Sganarelle, Suite.</head>
 <sp who="DON JUAN"><speaker>DON JUAN.</speaker>
 <p id="1">
 	<s id="1">Ah, Monsieur Dimanche, approchez ; que je suis ravi de vous voir, et que je veux de mal à mes gens de ne vous pas faire entrer d’abord ; j’avais donné ordre qu’on ne me fît parler à personne, mais cet ordre n’est pas pour vous, et vous êtes en droit de ne trouver jamais de porte fermée chez moi.</s>
 </p>
 </sp>
-<sp who='MONSIEUR DIMANCHE'><speaker>MONSIEUR DIMANCHE.</speaker>
+<sp who="MONSIEUR DIMANCHE"><speaker>MONSIEUR DIMANCHE.</speaker>
 <p id="2">
 	<s id="1">Monsieur je vous suis bien obligé.</s>
 </p>
@@ -2766,7 +2765,7 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV. Don Louis, Don Juan, Sganarelle, La Violette.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV. Don Louis, Don Juan, Sganarelle, La Violette.</head>
 <sp who="LA VIOLETTE"><speaker>LA VIOLETTE.</speaker>
 <p id="1">
 	<s id="1">Monsieur. </s>
@@ -2805,7 +2804,7 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='5'><head>SCÈNE V. Don Juan, Sganarelle.</head>
+<div2 type="scene" n="5"><head>SCÈNE V. Don Juan, Sganarelle.</head>
 <sp who="DON JUAN"><speaker>DON JUAN.</speaker>
 <p id="1">
 	<s id="1">Eh mourez, le plus tôt que vous pourrez, c’est le mieux que vous puissiez faire ; il faut que chacun vive son tour, et j’enrage de voir que des Pères vivent autant que leurs fils.</s>
@@ -2845,7 +2844,7 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='6'><head>SCÈNE VI. Don Juan, Dona Elvire, Ragotin, Sganarelle.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI. Don Juan, Dona Elvire, Ragotin, Sganarelle.</head>
 <sp who="RAGOTIN"><speaker>RAGOTIN.</speaker>
 <p id="1">
 	<s id="1">Monsieur, voici une Dame voilée qui vient vous parler.</s>
@@ -2866,9 +2865,9 @@
 	<s id="1">Ne soyez point surpris Don Juan de me voir à cette heure, et dans cet équipage ; c’est un motif pressant qui m’oblige à cette visite, et ce que j’ai à vous dire ne veut point du tout de retardement ; je ne viens point ici pleine de courroux, que j’ai tantôt fait éclater, et vous me voyez bien changée de ce que j’étais ce matin ; ce n’est plus cette Dona Elvire qui faisait des vœux contre vous, et dont l’âme irritée ne jetait que menaces, et ne respirait que vengeance : le Ciel a banni de mon âme toutes ces indignes ardeurs que je sentais pour vous, tous ces transports tumultueux d’un attachement criminel, tous ces honteux emportements d’un amour terrestre, et grossier, et il n’a laissé dans mon cœur pour vous, qu’une flamme épurée de tout le commerce des sens, une tendresse toute sainte, un amour détaché de tout, qui n’agit point pour soi, et ne se met en peine que de votre intérêt.</s>
 </p>
 </sp>
-<sp who='DON JUAN'><speaker>DON JUAN, à Sganarelle.</speaker>
-<p id='5'>
-	<s id='1'>Tu pleures, je pense.</s>
+<sp who="DON JUAN"><speaker>DON JUAN, à Sganarelle.</speaker>
+<p id="5">
+	<s id="1">Tu pleures, je pense.</s>
 </p>
 </sp>
 <sp who="SGANARELLE"><speaker>SGANARELLE.</speaker>
@@ -2925,7 +2924,7 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='7'><head>SCÈNE VII. Don Juan, Sganarelle, Suite.</head>
+<div2 type="scene" n="7"><head>SCÈNE VII. Don Juan, Sganarelle, Suite.</head>
 <sp who="DON JUAN"><speaker>DON JUAN.</speaker>
 <p id="1">
 	<s id="1">Sais-tu bien que j’ai encore senti quelque peu d’émotion pour elle, que j’ai trouvé de l’agrément dans cette nouveauté bizarre, et que son habit négligé, son air languissant et ses larmes ont réveillé en moi quelques petits restes de feu éteint ?</s>
@@ -3033,9 +3032,9 @@
 	<s id="1">Qu’est-ce donc, qu’y a-t-il là.</s>
 </p>
 </sp>
-<sp who='SGANARELLE'><speaker>SGANARELLE, baissant la tête.</speaker>
-<p id='21'>
-	<s id=''>Le... </s>
+<sp who="SGANARELLE"><speaker>SGANARELLE, baissant la tête.</speaker>
+<p id="21">
+	<s id="">Le... </s>
 	<s id="2">Qui est là.</s>
 </p>
 </sp>
@@ -3051,7 +3050,7 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='8'><head>SCÈNE VIII. Don Juan, La Statue du Commandeur, Sganarelle, Suite.</head>
+<div2 type="scene" n="8"><head>SCÈNE VIII. Don Juan, La Statue du Commandeur, Sganarelle, Suite.</head>
 <sp who="DON JUAN"><speaker>DON JUAN.</speaker>
 <p id="1">
 	<s id="1">Une chaise et un couvert, vite donc, allons, mets-toi à table.</s>
@@ -3087,9 +3086,9 @@
 	<s id="1">Il n’importe, allons, vous autres venez, accompagnez sa voix.</s>
 </p>
 </sp>
-<sp who='LA STATUE'><speaker>LA STATUE.</speaker>
-<p id='8'>
-	<s id=''>Don Juan, c’est assez, je vous invite à venir demain souper avec moi, en aurez vous le courage ?</s>
+<sp who="LA STATUE"><speaker>LA STATUE.</speaker>
+<p id="8">
+	<s id="">Don Juan, c’est assez, je vous invite à venir demain souper avec moi, en aurez vous le courage ?</s>
 </p>
 </sp>
 <sp who="DON JUAN"><speaker>DON JUAN.</speaker>
@@ -3102,20 +3101,20 @@
 	<s id="1">Je vous rends grâce, il est demain jeûne pour moi.</s>
 </p>
 </sp>
-<sp who='DON JUAN'><speaker>DON JUAN, à Sganarelle.</speaker>
-<p id='11'>
-	<s id='1'>Prends ce flambeau.</s>
+<sp who="DON JUAN"><speaker>DON JUAN, à Sganarelle.</speaker>
+<p id="11">
+	<s id="1">Prends ce flambeau.</s>
 </p>
 </sp>
-<sp who='LA STATUE'><speaker>LA STATUE.</speaker>
-<p id='12'>
-	<s id='1'>On n’a pas besoin de lumières quand on est conduit par le Ciel.</s>
+<sp who="LA STATUE"><speaker>LA STATUE.</speaker>
+<p id="12">
+	<s id="1">On n’a pas besoin de lumières quand on est conduit par le Ciel.</s>
 </p>
 </sp>
 </div2>
 </div1>
-<div1 type='acte' n='5'><head>ACTE V</head>
-<div2 type='scene' n='1'><head>SCÈNE I. Don Louis, Don Juan, Sganarelle.</head>
+<div1 type="acte" n="5"><head>ACTE V</head>
+<div2 type="scene" n="1"><head>SCÈNE I. Don Louis, Don Juan, Sganarelle.</head>
 <sp who="DON LOUIS"><speaker>DON LOUIS.</speaker>
 <p id="1">
 	<s id="1">Quoi, mon fils, serait-il possible que la bonté du Ciel eût exaucé mes vœux ? </s>
@@ -3135,7 +3134,7 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II. Don Juan, Sganarelle.</head>
+<div2 type="scene" n="2"><head>SCÈNE II. Don Juan, Sganarelle.</head>
 <sp who="SGANARELLE"><speaker>SGANRELLE</speaker>
 <p id="1">
 	<s id="1">Ah Monsieur ! </s>
@@ -3222,7 +3221,7 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III. Don Carlos, Don Juan, Sganarelle.</head>
+<div2 type="scene" n="3"><head>SCÈNE III. Don Carlos, Don Juan, Sganarelle.</head>
 <sp who="DON CARLOS"><speaker>DON CARLOS.</speaker>
 <p id="1">
 	<s id="1">Don Juan je vous trouve à propos, et suis bien aise de vous parler ici plutôt que chez vous, pour vous demander vos résolutions ; vous savez que ce soin me regarde, et que je me suis en votre présence chargé de cette affaire, pour moi je ne le cèle point, je souhaite fort que les choses aillent dans la douceur, et il n’y a rien que je ne fasse pour porter votre esprit à vouloir prendre cette voie, et pour vous voir publiquement à ma sœur confirmer le nom de votre femme.</s>
@@ -3320,7 +3319,7 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV. Don Juan, Sganarelle.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV. Don Juan, Sganarelle.</head>
 <sp who="SGANARELLE"><speaker>SGANRELLE.</speaker>
 <p id="1">
 	<s id="1">Monsieur, quel Diable de style prenez-vous là ? </s>
@@ -3343,10 +3342,10 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='5'><head>SCÈNE V. Don Juan, un Spectre en femme voilée, Sganarelle.</head>
-<sp who='LE SPECTRE'><speaker>LE SPECTRE.</speaker>
-<p id='1'>
-	<s id='1'>Don Juan n’a plus qu’un moment à pouvoir profiter de la miséricorde du Ciel, et s’il ne se repent ici sa perte est résolue.</s>
+<div2 type="scene" n="5"><head>SCÈNE V. Don Juan, un Spectre en femme voilée, Sganarelle.</head>
+<sp who="LE SPECTRE"><speaker>LE SPECTRE.</speaker>
+<p id="1">
+	<s id="1">Don Juan n’a plus qu’un moment à pouvoir profiter de la miséricorde du Ciel, et s’il ne se repent ici sa perte est résolue.</s>
 </p>
 </sp>
 <sp who="SGANARELLE"><speaker>SGANARELLE.</speaker>
@@ -3391,10 +3390,10 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='6'><head>SCÈNE VI. La Statue, Don Juan, Sganarelle.</head>
-<sp who='LA STATUE'><speaker>LA STATUE.</speaker>
-<p id='1'>
-	<s id='1'>Arrêtez Don Juan, vous m’avez hier donné parole de venir manger avec moi.</s>
+<div2 type="scene" n="6"><head>SCÈNE VI. La Statue, Don Juan, Sganarelle.</head>
+<sp who="LA STATUE"><speaker>LA STATUE.</speaker>
+<p id="1">
+	<s id="1">Arrêtez Don Juan, vous m’avez hier donné parole de venir manger avec moi.</s>
 </p>
 </sp>
 <sp who="DON JUAN"><speaker>DON JUAN.</speaker>

@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI.2>
+<?xml version="1.0" encoding="UTF-8"?><TEI.2>
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>LA VÉRITABLE SÉMIRAMIS, TRAGÉDIE.</title>
-			<author born='1610' born_location='' death='1652' death_location='' academie=''>DESFONTAINES, Nicolas Marie dit</author>
+			<author born="1610" born_location="" death="1652" death_location="" academie="">DESFONTAINES, Nicolas Marie dit</author>
 			</titleStmt>
 			<publicationStmp>	
 				<editor>Texte établi par Camille Frejaville, dans le cadre d'un travail d'édition critique sous la direction de Georges Forestier. (Université Paris-Sorbonne)
@@ -21,7 +20,7 @@
 				<taille>1750-2000</taille>
 				<permalien>http://gallica.bnf.fr/ark:/12148/bpt6k761871</permalien>
 				<sources>
-					<source id='1'><author></author><text></text></source>
+					<source id="1"><author/><text/></source>
 				</sources>	
 
 			</SourceDesc>
@@ -33,17 +32,17 @@
 			<titlePart type="main">LA VÉRITABLE SÉMIRAMIS</titlePart>
 			<titlePart type="sub">TRAGÉDIE</titlePart>
 		</docTitle> 
-		<docDate value='1647'>M. DC. XXXXVII. Avec Privilège du Roi.</docDate>
-		<docAuthor id='DESFONTAINES' bio='desfontaines'>Par le Sieur DESFONTAINES.</docAuthor>
+		<docDate value="1647">M. DC. XXXXVII. Avec Privilège du Roi.</docDate>
+		<docAuthor id="DESFONTAINES" bio="desfontaines">Par le Sieur DESFONTAINES.</docAuthor>
 		<docImprint>
-			<privilege id='1647-04-17'><head>EXTRAIT DU PRIVILÈGE DU ROI.</head>
+			<privilege id="1647-04-17"><head>EXTRAIT DU PRIVILÈGE DU ROI.</head>
 				<p>Par grâce et Privilège du Roi, donné à Paris le 17 d'Avril 1647, il est permis à Pierre Lamy Marchand Libraire à Paris, d'imprimer ou faire imprimer, vendre et distribuer pendant le temps et espace de cinq ans un livré intitulé la véritable Sémiramis Tragédie, composée par le sieur Desfontaines, avec défenses à tous Libraires et Imprimeurs, et autres personnes de quelque qualité et condition qu'ils soient, d'imprimer ni faire imprimer ledit livre, de n'en vendre ni distribuer autres exemplaires que ceux qui seront imprimés par ledit Lamy, ou de son consentement, à peine de confiscation desdits exemplaires, et de cinq cens livres d'amende, comme il est déclaré plus amplement en l'original des lettres passées le jour et an que dessus, scellées du grand grand sceau, et signée. Par le Roi en son Conseil. OLIER.</p>
 			</privilege>
-		<acheveImprime id='1647-05-11'>Achevé d'imprimé le 11 Mai 1647.</acheveImprime>
-		<printer id='LAMY'>À PARIS, Chez PIERRE LAMY, en la grande Salle du Palais, au second Pilier.</printer>
+		<acheveImprime id="1647-05-11">Achevé d'imprimé le 11 Mai 1647.</acheveImprime>
+		<printer id="LAMY">À PARIS, Chez PIERRE LAMY, en la grande Salle du Palais, au second Pilier.</printer>
 		</docImprint>
 		<performance>
-			<premiere date='1635' location='(inconnue)'>Représenté pour la première fois en 1635.</premiere>
+			<premiere date="1635" location="(inconnue)">Représenté pour la première fois en 1635.</premiere>
 </performance>
 <dedicace><adresse>À HAUT ET PUISSANT SEIGNEUR MESSIRE FRANCOIS DE BEAUVILLIER Chevalier Comte de Saint-Aignan etc.</adresse>
 	<head>MONSEIGNEUR,</head>
@@ -54,22 +53,22 @@
 	<signature>DESFONTAINES.</signature>
 	</dedicace>
 	<castList><head>LES PERSONNAGES</head>
-	<castItem><role id="NINUS" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>NINUS</role>, Roi des Assyriens.</castItem> 
-	<castItem><role id="SÉMIRAMIS" civil='F' type="H" statut='roi' age='A' stat_amour='néant'>SÉMIRAMIS</role>, Reine et femme de Ninus.</castItem> 
-	<castItem><role id="PRAZIMÈNE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>PRAZIMÈNE</role>, Princesse alliée de Sémiramis.</castItem> 
-	<castItem><role id="MELISTRATE" civil='M' type="H" statut='général' age='A' stat_amour='néant'>MELISTRATE</role>, général d'armée reconnu en fin pour fils de Sémiramis.</castItem> 
-	<castItem><role id="ORONCLIDE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ORONCLIDE</role>, fils putatif de Merzabane reconnu fils de Ninus.</castItem> 
-	<castItem><role id="MERZABANE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>MERZABANE</role>, Prince confident de Sémiramis</castItem> 
-	<castItem><role id="ZENOPIRE" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>ZENOPIRE</role>, Prince assistant au couronnement de Sémiramis.</castItem> 
-	<castItem><role id="CAMBISES" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>CAMBISES</role>, Prince assistant au couronnement de Sémiramis.</castItem> 
-	<castItem><role id="PALMÉDON" civil='M' type="H" statut='écuyer' age='A' stat_amour='néant'>PALMÉDON</role>, écuyer de Melistrate.</castItem> 
-	<castItem><role id="LES GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>LES GARDES</role>, de Ninus et de Sémiramis.</castItem> 
+	<castItem><role id="NINUS" civil="M" type="H" statut="roi" age="A" stat_amour="néant">NINUS</role>, Roi des Assyriens.</castItem> 
+	<castItem><role id="SÉMIRAMIS" civil="F" type="H" statut="roi" age="A" stat_amour="néant">SÉMIRAMIS</role>, Reine et femme de Ninus.</castItem> 
+	<castItem><role id="PRAZIMÈNE" civil="F" type="H" statut="prince" age="A" stat_amour="néant">PRAZIMÈNE</role>, Princesse alliée de Sémiramis.</castItem> 
+	<castItem><role id="MELISTRATE" civil="M" type="H" statut="général" age="A" stat_amour="néant">MELISTRATE</role>, général d'armée reconnu en fin pour fils de Sémiramis.</castItem> 
+	<castItem><role id="ORONCLIDE" civil="M" type="H" statut="prince" age="A" stat_amour="néant">ORONCLIDE</role>, fils putatif de Merzabane reconnu fils de Ninus.</castItem> 
+	<castItem><role id="MERZABANE" civil="M" type="H" statut="prince" age="A" stat_amour="néant">MERZABANE</role>, Prince confident de Sémiramis</castItem> 
+	<castItem><role id="ZENOPIRE" civil="M" type="H" statut="prince" age="A" stat_amour="néant">ZENOPIRE</role>, Prince assistant au couronnement de Sémiramis.</castItem> 
+	<castItem><role id="CAMBISES" civil="M" type="H" statut="prince" age="A" stat_amour="néant">CAMBISES</role>, Prince assistant au couronnement de Sémiramis.</castItem> 
+	<castItem><role id="PALMÉDON" civil="M" type="H" statut="écuyer" age="A" stat_amour="néant">PALMÉDON</role>, écuyer de Melistrate.</castItem> 
+	<castItem><role id="LES GARDES" civil="G" type="H" statut="garde" age="A" stat_amour="néant">LES GARDES</role>, de Ninus et de Sémiramis.</castItem> 
 	</castList>
-<set location='Babylone' country='Irak' periode='XXIIème avant JC' link=''>La scène est dans une Salle du Palais Royal à Babylone.</set>
+<set location="Babylone" country="Irak" periode="XXIIème avant JC" link="">La scène est dans une Salle du Palais Royal à Babylone.</set>
 </front>
 <body>
-<div1 type='acte' n='1'><head>ACTE I</head>
-<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Sémiramis, Merzabane, Herminie.</head>
+<div1 type="acte" n="1"><head>ACTE I</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Sémiramis, Merzabane, Herminie.</head>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
 	<l id="1">Melistrate amoureux ? Ah ! Je ne le puis croire ;</l>
 	<l id="2">S'il aime Merzabane, il n'aime que la gloire ;</l>
@@ -117,19 +116,19 @@
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
 <stage>À demi-vois, bas.</stage>
 	<l id="41">M'aimerait-il ? Ô Dieux ! Ah, tire moi de peine;</l>
-	<l id="42" part='i'>Qu'est-ce donc qu'il prétend ?</l>
+	<l id="42" part="i">Qu'est-ce donc qu'il prétend ?</l>
 </sp>
 <sp who="MERZABANE"><speaker>MERZABANE.</speaker>
-	<l id="42" part='f'>L'amour de Prazimène.</l>
+	<l id="42" part="f">L'amour de Prazimène.</l>
 </sp>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
-	<l id="43" part='i'>L'amour de Prazimène !</l>
+	<l id="43" part="i">L'amour de Prazimène !</l>
 </sp>
 <sp who="MERZABANE"><speaker>MERZABANE.</speaker>
-	<l id="43" part='m'>Oui sans doute.</l>
+	<l id="43" part="m">Oui sans doute.</l>
 </sp>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
-	<l id="43" part='f'>Et comment ?</l>
+	<l id="43" part="f">Et comment ?</l>
 	<l id="44">Répond-elle aux ardeurs de ce parfait Amant ?</l>
 	<l id="45">Leur inclination est-elle mutuelle ?</l>
 	<l id="46">Et de qui tenez-vous cette étrange nouvelle ?</l>
@@ -272,7 +271,7 @@
 	<l id="163">Et le triste vaincu n'a plu aucunes parts,</l>
 	<l id="164">Ni dans ce cœur ingrat, ni dedans ses remparts.</l>
 	<l id="165">De l'un et l'autre lieu, Melistrate est le Maître,</l>
-	<l id='166'>Il pardonne au trahi, mais il punit le traître ;</l>
+	<l id="166">Il pardonne au trahi, mais il punit le traître ;</l>
 	<l id="167">Et rend par un illustre et célèbre refus, </l>
 	<l id="168">L'objet qui lui présente, interdit et confus.</l>
 	<l id="169">Lors l'Amour se retire, et fait place à la rage,</l>
@@ -338,12 +337,12 @@
 	<l id="223">Et par qui désormais vous pouvez rendre vains,</l>
 	<l id="224">Ses soupirs, son espoir, ses vœux et ses desseins.</l>
 </sp>
-<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS.</speaker>
+<sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
 	<l id="225">C'est ce que je veux faire ; allez, qu'on se retire.</l>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II.</head>
-<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS seule.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS seule.</speaker>
 	<l id="226">Il suffit, je connais le charme qui l'attire ; </l>
 	<l id="227">Et que sur ce grand cœur qui fait ma passion,</l>
 	<l id="228">Prazimène peut moins, que son ambition.</l>
@@ -404,7 +403,7 @@
 	<l id="283">Ah ! Parlons, il est temps, et feignons toutefois.</l>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III. Ninus, Sémiramis, et Gardes.</head>
+<div2 type="scene" n="3"><head>SCÈNE III. Ninus, Sémiramis, et Gardes.</head>
 <sp who="NINUS"><speaker>NINUS.</speaker>
 	<l id="284">Ne saurais-je jamais le trouble où je vous vois ?</l>
 	<l id="285">Vous verrais-je toujours dans la mélancolie,</l>
@@ -537,10 +536,10 @@
 	<l id="406">L’offense que vous fait une injuste requête ;</l>
 	<l id="407">Dans les flots de mon sang, étouffez mon orgueil ;</l>
 	<l id="408">Et puis qu'au lieu du Trône, on m'apprête un cercueil ;</l>
-	<l id="409" part='i'>Enfin…</l>
+	<l id="409" part="i">Enfin…</l>
 </sp>
 <sp who="NINUS"><speaker>NINUS.</speaker>
-	<l id="409" part='f'>N’achève pas, il suffit ma Princesse,</l>
+	<l id="409" part="f">N’achève pas, il suffit ma Princesse,</l>
 	<l id="410">Que je vous ai d'abord engagé ma promesse ;</l>
 	<l id="411">Et ma foi vous doit rendre assuré à ce point,</l>
 	<l id="412">Que les serments des Rois, ne se révoquent point.</l>
@@ -550,7 +549,7 @@
 	<l id="416">Je m'en vais de ce pas travailler aux effets.</l>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
 	<l id="417">Dis que par cette voie à ma faveur ouverte,</l>
 	<l id="418">Tu t'en vas, malheureux, travailler à ta perte ;</l>
@@ -559,8 +558,8 @@
 </sp>
 </div2>
 </div1>
-<div1 type='acte' n='2'><head>ACTE II</head>
-<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Sémiramis, Prazimène, Herminie.</head>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Sémiramis, Prazimène, Herminie.</head>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
 	<l id="421">Pourquoi désavouer une chose certaine ?</l>
 	<l id="422">Ne dissimulez point ; vous l'aimez Prazimène ;</l>
@@ -663,24 +662,24 @@
 	<l id="511">Après tant de froideurs, à présent vous brûlez ?</l>
 </sp>
 <sp who="PRAZIMÈNE"><speaker>PRAZIMÈNE.</speaker>
-	<l id="512" part='i'>Moi, Madame ?</l>
+	<l id="512" part="i">Moi, Madame ?</l>
 </sp>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
-	<l id="512" part='f'>Oui vous, en vain vous le celez ;</l>
+	<l id="512" part="f">Oui vous, en vain vous le celez ;</l>
 	<l id="513">Les effets, malgré vous, l'ont assez fait paraître.</l>
 </sp>
 <sp who="PRAZIMÈNE"><speaker>PRAZIMÈNE.</speaker>
-	<l id="514" part='i'>Quels effets ?</l>
+	<l id="514" part="i">Quels effets ?</l>
 </sp>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
-	<l id="514" part='m'>Voyez-les.</l>
+	<l id="514" part="m">Voyez-les.</l>
 </sp>
-<sp who='PRAZIMÈNE'><speaker>PRAZIMÈNE, reconnaissant la Lettre.</speaker>
-	<l id="514" part='f'>Ah, l'ingrat ! Ah, le traître !</l>
-	<l id="515" part='i'>Que voyez-vous, mes yeux ?</l>
+<sp who="PRAZIMÈNE"><speaker>PRAZIMÈNE, reconnaissant la Lettre.</speaker>
+	<l id="514" part="f">Ah, l'ingrat ! Ah, le traître !</l>
+	<l id="515" part="i">Que voyez-vous, mes yeux ?</l>
 </sp>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
-	<l id="515" part='f'>Un étrange secret.</l>
+	<l id="515" part="f">Un étrange secret.</l>
 	<l id="516">Ô le parfait Amant ! Qu'il est sage et discret.</l>
 	<l id="517">Hé bien, que ferez-vous après un tel outrage ?</l>
 	<l id="518">Ainsi que sans raison, serez-vous sans courage ?</l>
@@ -723,17 +722,17 @@
 	<l id="548">Prazimène n'est pas la conquête d'un jour.</l>
 </sp>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
-	<l id="549" part='i'>Vous y pourrez songer, allez.</l>
+	<l id="549" part="i">Vous y pourrez songer, allez.</l>
 </sp>
-<sp who='PRAZIMÈNE'><speaker>PRAZIMÈNE, s'en allant.</speaker>
-	<l id="549" part='f'>C'est mon envie :</l>
+<sp who="PRAZIMÈNE"><speaker>PRAZIMÈNE, s'en allant.</speaker>
+	<l id="549" part="f">C'est mon envie :</l>
 	<l id="550">Mais non, perdons plutôt l’espérance et la vie,</l>
 	<l id="551">Et faisons par un coup aussi juste que beau,</l>
 	<l id="552">Qu'où l'Amour eu son Trône, il trouve son tombeau.</l>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II.</head>
-<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS, seule.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS, seule.</speaker>
 	<l id="553">Tout répond à mes vœux ; le dépit et la haine,</l>
 	<l id="554">Font d'étranges effets au cœur de Prazimène ;</l>
 	<l id="555">Cette ruse subtile a rompu ses liens,</l>
@@ -752,12 +751,12 @@
 	<l id="568">Je n’ai plus désormais qu'à choisir une main,</l>
 	<l id="569">Qui puisse sans remords faire un illustre crime,</l>
 	<l id="570">Et sans étonnement immoler la victime.</l>
-	<l id="571" part='i'>La voici.</l>
+	<l id="571" part="i">La voici.</l>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III. Sémiramis, Merzabane.</head>
+<div2 type="scene" n="3"><head>SCÈNE III. Sémiramis, Merzabane.</head>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
-	<l id="571" part='f'>Merzabane, aujourd’hui je veux voir,</l>
+	<l id="571" part="f">Merzabane, aujourd’hui je veux voir,</l>
 	<l id="572">Combien mes volontés ont sur vous de pouvoir.</l>
 	<l id="573">Je vous vais révéler un secret qui me touche,</l>
 	<l id="574">Jusqu'au point qu'à regret je le fis à ma bouche ;</l>
@@ -829,8 +828,8 @@
 	<l id="632">Vous pourrez obéir à mon commandement.</l>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV.</head>
-<sp who='PRAZIMÈNE'><speaker>PRAZIMÈNE, seule.</speaker>
+<div2 type="scene" n="4"><head>SCÈNE IV.</head>
+<sp who="PRAZIMÈNE"><speaker>PRAZIMÈNE, seule.</speaker>
 <poem type="stance">
 <lg n="1">
 	<l id="633">Tyran des cœurs, Bourreau des âmes,</l>
@@ -891,12 +890,12 @@
 	<l id="682">Mon esprit incertain ne sait où s’arrêter : </l>
 	<l id="683">Ah ! C'est trop… Mais, ô Dieux ! Ne vois-je point paraître</l>
 	<l id="684">Le Confident adroit d'un si perfide Maître ?</l>
-	<l id="685" part='i'>Oui, c'est lui ; que ferai-je ?</l>
+	<l id="685" part="i">Oui, c'est lui ; que ferai-je ?</l>
 </sp>
 </div2>
-<div2 type='scene' n='5'><head>SCÈNE V. Prazimène, Palmédon.</head>
+<div2 type="scene" n="5"><head>SCÈNE V. Prazimène, Palmédon.</head>
 <sp who="PRAZIMÈNE"><speaker>PRAZIMÈNE.</speaker>
-	<l id="685" part='f'>Avancez, Palmédon ;</l>
+	<l id="685" part="f">Avancez, Palmédon ;</l>
 	<l id="686">Qu'est-ce, me venez-vous demander un pardon,</l>
 	<l id="687">Pour le plus insolent et plus lâche des hommes,</l>
 	<l id="688">Qu'ait soutenu la Terre en ce siècle où nous sommes ?</l>
@@ -923,7 +922,7 @@
 	<l id="709">Et que son cœur ingrat, que j’estimais à tort,</l>
 	<l id="710">S'il était en mes mains, aurait un même sort.</l>
 </sp>
-<sp who='PALMEDON'><speaker>PALMEDON.</speaker>
+<sp who="PALMEDON"><speaker>PALMEDON.</speaker>
 	<l id="711">Confus, triste, pensif, je ne sais que résoudre,</l>
 	<l id="712">Ayant ouï gronder l’épouvantable foudre,</l>
 	<l id="713">Qui menace aujourd’hui le Héros plus parfait,</l>
@@ -992,10 +991,10 @@
 	<l id="772">Pour perdre Melistrate, et servir Oronclide,</l>
 	<l id="773">Qui n'osant jusqu'à vous élever ses esprits,</l>
 	<l id="774">Bâtira désormais sur ce triste débris.</l>
-	<l id="775" part='i'>Mais hélas !</l>
+	<l id="775" part="i">Mais hélas !</l>
 </sp>
 <sp who="PRAZIMÈNE"><speaker>PRAZIMÈNE.</speaker>
-	<l id="775" part='f'>C'est assez, n'en dit pas davantage,</l>
+	<l id="775" part="f">C'est assez, n'en dit pas davantage,</l>
 	<l id="776">Tes puissantes raisons ont apaisé l'orage,</l>
 	<l id="777">Qui m'a presque réduite à descendre au tombeau ;</l>
 	<l id="778">Mais à peine j'en sors, que j'en crains un nouveau :</l>
@@ -1014,9 +1013,9 @@
 </sp>
 </div2>
 </div1>
-<div1 type='acte' n='3'><head>ACTE III</head>
-<div2 type='scene' n='1'><head>SCÈNE PREMIERE. Ninus, Sémiramis, Merzabane, Oronclide, Cambises, Zénophire, et les Gardes.</head>
-<sp who='NINUS'><speaker>NINUS, au trône.</speaker>
+<div1 type="acte" n="3"><head>ACTE III</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIERE. Ninus, Sémiramis, Merzabane, Oronclide, Cambises, Zénophire, et les Gardes.</head>
+<sp who="NINUS"><speaker>NINUS, au trône.</speaker>
 	<l id="787">Enfin voici l'heureuse et célèbre journée,</l>
 	<l id="788">Que la même vertu se verra couronnée,</l>
 	<l id="789">Et que le plus parfait des ouvrages des Cieux,</l>
@@ -1170,7 +1169,7 @@
 	<l id="931">Souviens-toi pour le moins que ce événement,</l>
 	<l id="932">Ne sera que l'effet de ton commandement.</l>
 </sp>
-<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS, au trône.</speaker>
+<sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS, au trône.</speaker>
 	<l id="933">Princes, si j’ai reçu ces adorables marques,</l>
 	<l id="934">Qu'a remis en mes mains le plus grand des Monarques,</l>
 	<l id="935">Ne vous figurez pas, qu'en cette occasion,</l>
@@ -1185,16 +1184,16 @@
 	<l id="944">Laissez-moi désormais achever mon projet ;</l>
 	<l id="945">Votre présence ici ne m'est plus nécessaire.</l>
 </sp>
-<sp who='NINUS'><speaker>NINUS, s'en allant.</speaker>
+<sp who="NINUS"><speaker>NINUS, s'en allant.</speaker>
 	<l id="946">Il est de mon devoir d’obéir, et me taire.</l>
 </sp>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
-	<l id="947" part='i'>Allez.</l>
+	<l id="947" part="i">Allez.</l>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II. Sémiramis, Camises, Zénophire, Oronclide, Merzabane, et les Gardes.</head>
-<sp who='SÉMIRAMIS'><speaker>SÉMIRAMIS, debout.</speaker>
-	<l id="947" part='f'>Dieux ! Que ferai-je ? Et quel est mon dessein ?</l>
+<div2 type="scene" n="2"><head>SCÈNE II. Sémiramis, Camises, Zénophire, Oronclide, Merzabane, et les Gardes.</head>
+<sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS, debout.</speaker>
+	<l id="947" part="f">Dieux ! Que ferai-je ? Et quel est mon dessein ?</l>
 	<l id="948">Je tremble, je frémis, le cœur me bat au sein ;</l>
 	<l id="949">Sur le point de parler, j'ouvre et ferme la bouche,</l>
 	<l id="950">Et sens je ne sais quoi dans l'âme qui me touche :</l>
@@ -1255,7 +1254,7 @@
 	<l id="1004">Qu'il doit, avec Ninus, se résoudre à périr.</l>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III. Cambises, Zénophire, Merzabane, Oronclide.</head>
+<div2 type="scene" n="3"><head>SCÈNE III. Cambises, Zénophire, Merzabane, Oronclide.</head>
 <sp who="MERZABANE"><speaker>MERZABANE.</speaker>
 	<l id="1005">Hé bien, Seigneurs, enfin qu'elle est votre pensée ?</l>
 	<l id="1006">Prendrons-nous le parti d'une Reine offensée ?</l>
@@ -1292,10 +1291,10 @@
 </sp>
 <sp who="CAMBISES"><speaker>CAMBISES.</speaker>
 	<l id="1033">Mais on peut mépriser une injuste demande,</l>
-	<l id="1034" part='i'>Et rétablir Ninus.</l>
+	<l id="1034" part="i">Et rétablir Ninus.</l>
 </sp>
 <sp who="ORONCLIDE"><speaker>ORONCLIDE.</speaker>
-	<l id="1034" part='f'>Oui, mais elle commande ;</l>
+	<l id="1034" part="f">Oui, mais elle commande ;</l>
 	<l id="1035">Et dans l'état qu'elle est, ne lui pas obéir,</l>
 	<l id="1036">C'est pour sauver Ninus, nous mêmes nous trahir :</l>
 	<l id="1037">Elle est femme, il est vrai, mais femme généreuse,</l>
@@ -1348,7 +1347,7 @@
 	<l id="1076">Victime infortunée, et d'État et d'Amour.</l>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV. Merzabane, Oronclide.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV. Merzabane, Oronclide.</head>
 <sp who="MERZABANE"><speaker>MERZABANE.</speaker>
 	<l id="1077">De ce pas, Oronclide, allez trouver la Reine,</l>
 	<l id="1078">Vous la rencontrerez dans la salle prochaine ;</l>
@@ -1365,7 +1364,8 @@
 </sp>
 </div2>
 </div1>
-<div1 type='acte' n='4'><head>ACTE IV</head><div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Melistrate, Oronclide, Palmédon, et suite.</head>
+<div1 type="acte" n="4"><head>ACTE IV</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Melistrate, Oronclide, Palmédon, et suite.</head>
 <sp who="MELISTRATE"><speaker>MELISTRATE.</speaker>
 	<l id="1089">Grand Prince, l'ornement et l'honneur de l'Asie,</l>
 	<l id="1090">le trouve de l'excès en votre courtoisie ;</l>
@@ -1436,19 +1436,19 @@
 	<l id="1147">Ce traître, cet ingrat, respire-t-il le jour ?</l>
 </sp>
 <sp who="ORONCLIDE"><speaker>ORONCLIDE.</speaker>
-	<l id="1148" part='i'>Oui, Seigneur.</l>
+	<l id="1148" part="i">Oui, Seigneur.</l>
 </sp>
 <sp who="MELISTRATE"><speaker>MELISTRATE.</speaker>
-	<l id="1148" part='m'>Qui ?</l>
+	<l id="1148" part="m">Qui ?</l>
 </sp>
 <sp who="ORONCLIDE"><speaker>ORONCLIDE.</speaker>
-	<l id="1148" part='m'>Vous.</l>
+	<l id="1148" part="m">Vous.</l>
 </sp>
 <sp who="MELISTRATE"><speaker>MELISTRATE.</speaker>
-	<l id="1148" part='m'>Moi ?</l>
+	<l id="1148" part="m">Moi ?</l>
 </sp>
 <sp who="ORONCLIDE"><speaker>ORONCLIDE.</speaker>
-	<l id="1148" part='f'>Vous, ou plutôt l'Amour.</l>
+	<l id="1148" part="f">Vous, ou plutôt l'Amour.</l>
 	<l id="1149">oui, ce cruel Enfant que vous avez fait naître,</l>
 	<l id="1150">Est ce lâche assassin, cet ingrat, et ce traître ;</l>
 	<l id="1151">Mais dont le crime enfin nous semble juste et doux,</l>
@@ -1456,20 +1456,20 @@
 </sp>
 <sp who="MELISTRATE"><speaker>MELISTRATE.</speaker>
 	<l id="1153">Quoi, l'Amour produit-il les effets de la haine ?</l>
-	<l id="1154" part='i'>Mais quel est ce amour,et de qui ?</l>
+	<l id="1154" part="i">Mais quel est ce amour,et de qui ?</l>
 </sp>
 <sp who="ORONCLIDE"><speaker>ORONCLIDE.</speaker>
-	<l id="1154" part='f'>De la Reine.</l>
+	<l id="1154" part="f">De la Reine.</l>
 </sp>
 <sp who="MELISTRATE"><speaker>MELISTRATE.</speaker>
 	<l id="1155">De la Reine, Seigneur ? Ah ! Ne m'éprouvez point,</l>
 	<l id="1156">Mon esprit n'est pas vain ni crédule à ce point.</l>
 </sp>
 <sp who="ORONCLIDE"><speaker>ORONCLIDE.</speaker>
-	<l id="1157" part='i'>Il est vrai toutefois.</l>
+	<l id="1157" part="i">Il est vrai toutefois.</l>
 </sp>
 <sp who="MELISTRATE"><speaker>MELISTRATE.</speaker>
-	<l id="1157" part='f'>Et peut-être, Oronclide,</l>
+	<l id="1157" part="f">Et peut-être, Oronclide,</l>
 	<l id="1158">Vous croyez que je puis aimer cette perfide,</l>
 	<l id="1159">Et qu'une aveugle ardeur sera l'indigne prix</l>
 	<l id="1160">Du plus lâche attentat que l'on ait entrepris !</l>
@@ -1596,14 +1596,14 @@
 <sp who="ORONCLIDE"><speaker>ORONCLIDE.</speaker>
 	<l id="1263">Gardes, qu'on le conduise à mon appartement.</l>
 </sp>
-<sp who='PALMEDON'><speaker>PALMEDON, mettant la main sur son épée.</speaker>
-	<l id="1264" part='i'>Ah ! Seigneur.</l>
+<sp who="PALMEDON"><speaker>PALMEDON, mettant la main sur son épée.</speaker>
+	<l id="1264" part="i">Ah ! Seigneur.</l>
 </sp>
 <sp who="MELISTRATE"><speaker>MELISTRATE.</speaker>
-	<l id="1264" part='m'>Palmédon.</l>
+	<l id="1264" part="m">Palmédon.</l>
 </sp>
 <sp who="ORONCLIDE"><speaker>ORONCLIDE.</speaker>
-	<l id="1264" part='f'>Arrêtez, autrement…</l>
+	<l id="1264" part="f">Arrêtez, autrement…</l>
 </sp>
 <sp who="PALMEDON"><speaker>PALMEDON.</speaker>
 	<l id="1265">On me fera mourir, c'est ce que je demande.</l>
@@ -1614,8 +1614,8 @@
 	<l id="1268">Qu'on répande mon sang, sur celui de mon Roi.</l>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II.</head>
-<sp who='ORONCLIDE'><speaker>ORONCLIDE, seul.</speaker>
+<div2 type="scene" n="2"><head>SCÈNE II.</head>
+<sp who="ORONCLIDE"><speaker>ORONCLIDE, seul.</speaker>
 	<l id="1269">Ô Fureurs ! Ô désirs ! Ô pouvoir d'une Reine !</l>
 	<l id="1270">En cette occasion, que votre ordre me gêne !</l>
 	<l id="1271">Détruire Melistrate ? Ah lâche ! Quoi, veux-tu</l>
@@ -1626,28 +1626,28 @@
 	<l id="1276">Fais moi vivre équitable, ou, mourir innocent.</l>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III. Melistrate, Oronclide, Prazimène, Palmédon, et les Gardes.</head>
-<sp who='MELISTRATE'><speaker>MELISTRATE, de derrière le théâtre.</speaker>
-	<l id="1277" part='i'>Ah !</l>
-</sp>
-<sp who='ORONCLIDE'><speaker>ORONCLIDE.</speaker>
-	<l id="1277" part='m'>D'où vient cette voix ? Quel est ce bruit ?</l>
-</sp>
-<sp who="PRAZIMÈNE"><speaker>PRAZIMÈNE.</speaker>
-	<l id="1277" part='f'>Perfide,</l>
-	<l id="1278" part='i'>Voilà ce qui t'est du.</l>
+<div2 type="scene" n="3"><head>SCÈNE III. Melistrate, Oronclide, Prazimène, Palmédon, et les Gardes.</head>
+<sp who="MELISTRATE"><speaker>MELISTRATE, de derrière le théâtre.</speaker>
+	<l id="1277" part="i">Ah !</l>
 </sp>
 <sp who="ORONCLIDE"><speaker>ORONCLIDE.</speaker>
-	<l id="1278" part='m'>Qu'est-ce donc ?</l>
+	<l id="1277" part="m">D'où vient cette voix ? Quel est ce bruit ?</l>
+</sp>
+<sp who="PRAZIMÈNE"><speaker>PRAZIMÈNE.</speaker>
+	<l id="1277" part="f">Perfide,</l>
+	<l id="1278" part="i">Voilà ce qui t'est du.</l>
+</sp>
+<sp who="ORONCLIDE"><speaker>ORONCLIDE.</speaker>
+	<l id="1278" part="m">Qu'est-ce donc ?</l>
 </sp>
 <sp who="MELISTRATE"><speaker>MELISTRATE.</speaker>
-	<l id="1278" part='f'>Oronclide.</l>
+	<l id="1278" part="f">Oronclide.</l>
 </sp>
-<sp who='PRAZIMÈNE'><speaker>PRAZIMÈNE, regardant Melistrate.</speaker>
-	<l id="1279" part='i'>Justes Dieux ! Qu'ai- je fait ?</l>
+<sp who="PRAZIMÈNE"><speaker>PRAZIMÈNE, regardant Melistrate.</speaker>
+	<l id="1279" part="i">Justes Dieux ! Qu'ai- je fait ?</l>
 </sp>
 <sp who="MELISTRATE"><speaker>MELISTRATE.</speaker>
-	<l id="1279" part='f'>Je ne suis que blessé,</l>
+	<l id="1279" part="f">Je ne suis que blessé,</l>
 	<l id="1280">Achève, achève lâche, un coup mal commencé ;</l>
 	<l id="1281">Tu me serais cruel, étant plus pitoyable,</l>
 	<l id="1282">Frappe, éteints dans mon sang les jours d'un misérable,</l>
@@ -1661,13 +1661,13 @@
 	<l id="1288">Abandonne ma main, ton fer me fait horreur ;</l>
 	<l id="1289">Toutefois déloyal, viens punir une ingrate,</l>
 	<l id="1290">Viens passer dans mon sein, et venger Melistrate,</l>
-	<l id="1291" part='i'>Viens percer…</l>
+	<l id="1291" part="i">Viens percer…</l>
 </sp>
 <sp who="ORONCLIDE"><speaker>ORONCLIDE.</speaker>
-	<l id="1291" part='m'>Ah ! Madame, arrêtez.</l>
+	<l id="1291" part="m">Ah ! Madame, arrêtez.</l>
 </sp>
-<sp who='PRAZIMÈNE'><speaker>PRAZIMÈNE.</speaker>
-	<l id="1291" part='f'>Laisse moi,</l>
+<sp who="PRAZIMÈNE"><speaker>PRAZIMÈNE.</speaker>
+	<l id="1291" part="f">Laisse moi,</l>
 	<l id="1292">Ou plutôt venge un coup qui s’adressait à toi ;</l>
 	<l id="1293">Oui, oui, perce ce cœur, qu'une ardeur légitime</l>
 	<l id="1294">Armait pour la vertu, mais qui commet un crime,</l>
@@ -1773,16 +1773,16 @@
 	<l id="1380">Lorsque j'en attendais tout autre événement !</l>
 	<l id="1381">Oui, je n'en doute plus, je vois sur ce visage,</l>
 	<l id="1382">De votre repentir un trop clair témoignage.</l>
-	<l id="1383" part='i'>J'ois du bruit, c'est la Reine.</l>
+	<l id="1383" part="i">J'ois du bruit, c'est la Reine.</l>
 </sp>
-<sp who='ORONCLIDE'><speaker>ORONCLIDE.</speaker>
-	<l id="1383" part='f'>Ah ! Sortons de ces lieux,</l>
+<sp who="ORONCLIDE"><speaker>ORONCLIDE.</speaker>
+	<l id="1383" part="f">Ah ! Sortons de ces lieux,</l>
 	<l id="1384">Il n'est pas temps encore de paraître à ses yeux ;</l>
 	<l id="1385">Sortons ; et vous verrez par un trait sans exemple,</l>
 	<l id="1386">D'un juste repentir, une preuve assez grande.</l>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV. Sémiramis, Merzabane.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV. Sémiramis, Merzabane.</head>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
 	<l id="1387">Oui, sans vous je n’avais l'Empire qu'à demi,</l>
 	<l id="1388">Le trépas de Ninus, a mon trône affermi ;</l>
@@ -1820,12 +1820,12 @@
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
 	<l id="1417">C'est assez, nous pourrons, ainsi que je l’espère,</l>
 	<l id="1418">Récompenser au fils, les services du père,</l>
-	<l id="1419" part='i'>Le voici de retour.</l>
+	<l id="1419" part="i">Le voici de retour.</l>
 </sp>
 </div2>
-<div2 type='scene' n='5'><head>SCÈNE V. Sémiramis, Merzabane, Oronclide, et suite.</head>
+<div2 type="scene" n="5"><head>SCÈNE V. Sémiramis, Merzabane, Oronclide, et suite.</head>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
-	<l id="1419" part='f'>Hé bien, qu'avez-vous fait ?</l>
+	<l id="1419" part="f">Hé bien, qu'avez-vous fait ?</l>
 	<l id="1420">notre projet enfin aura-t-il son effet ?</l>
 	<l id="1421">Melistrate vient-il ? Et dois-je à sa personne</l>
 	<l id="1422">Préparer un supplice, ou bien une couronne ?</l>
@@ -1868,7 +1868,7 @@
 	<l id="1455">Que toute me doit céder, que mes vœux sont des Lois,</l>
 	<l id="1456">Qu'il n'est rien qu'un sujet, et moi Reine des Rois.</l>
 </sp>
-<sp who='ORONCLIDE'><speaker>ORONCLIDE.</speaker>
+<sp who="ORONCLIDE"><speaker>ORONCLIDE.</speaker>
 	<l id="1457">Ne différez donc point, que votre haine éclate,</l>
 	<l id="1458">En Oronclide ici vous trouvez Melistrate,</l>
 	<l id="1459">Son âme vit en moi, mon âme vit en lui,</l>
@@ -1879,10 +1879,10 @@
 	<l id="1464">Que vous frappez son cœur, si vous frappez mon corps.</l>
 </sp>
 <sp who="MERZABANE"><speaker>MERZABANE.</speaker>
-	<l id="1465" part='i'>A-t-il perdu le sens ?</l>
+	<l id="1465" part="i">A-t-il perdu le sens ?</l>
 </sp>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
-	<l id="1465" part='f'>Que dit ce téméraire ?</l>
+	<l id="1465" part="f">Que dit ce téméraire ?</l>
 </sp>
 <sp who="ORONCLIDE"><speaker>ORONCLIDE.</speaker>
 	<l id="1466">Je dis ce que je dois, et que vous devez faire,</l>
@@ -1929,17 +1929,17 @@
 	<l id="1501">Je m'en vais de tout point contenter ton envie,</l>
 	<l id="1502">Et te rendre, barbare, et mon sang et ma vie.</l>
 	<l id="1503">Viens donc ; quelle raison rend ton courroux si lent ?</l>
-	<l id="1504" part='i'>Viens me donner la mort.</l>
+	<l id="1504" part="i">Viens me donner la mort.</l>
 </sp>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
-	<l id="1504" part='f'>Ah, qu'il est insolent !</l>
-	<l id="1505" part='i'>Qu'il est audacieux ! Qu'on l'emmène.</l>
+	<l id="1504" part="f">Ah, qu'il est insolent !</l>
+	<l id="1505" part="i">Qu'il est audacieux ! Qu'on l'emmène.</l>
 </sp>
 <sp who="MERZABANE"><speaker>MERZABANE.</speaker>
-	<l id="1505" part='f'>Ah, je tremble !</l>
+	<l id="1505" part="f">Ah, je tremble !</l>
 </sp>
 </div2>
-<div2 type='scene' n='6'><head>SCÈNE VI. Sémiramis, Merzabane.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI. Sémiramis, Merzabane.</head>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
 	<l id="1506">Il confond aujourd'hui nos intérêts ensemble ;</l>
 	<l id="1507">Et l'arrogant oublie en son lâche projet,</l>
@@ -1955,21 +1955,21 @@
 </sp>
 </div2>
 </div1>
-<div1 type='acte' n='5'><head>ACTE V</head>
-<div2 type='scene' n='1'><head>SCÈNE PREMIÈRE. Palmédon, Mélistrate.</head>
+<div1 type="acte" n="5"><head>ACTE V</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Palmédon, Mélistrate.</head>
 <sp who="MELISTRATE"><speaker>MELISTRATE.</speaker>
-	<l id="1517" part='i'>Palmédon…</l>
+	<l id="1517" part="i">Palmédon…</l>
 </sp>
 <sp who="PALMEDON"><speaker>PALMEDON.</speaker>
-	<l id="1517" part='f'>Ah, Seigneur ! Retirez-vous de grâce ;</l>
+	<l id="1517" part="f">Ah, Seigneur ! Retirez-vous de grâce ;</l>
 	<l id="1518">Ignorez vous encore qu’ici tout vous menace ?</l>
 	<l id="1519">Et que par vos mépris, une Reine en courroux,</l>
 	<l id="1520">Brûle de se venger d'Oronclide et de vous ?</l>
 	<l id="1521">Pour un même transport, ce Prince est à la chaîne ;</l>
-	<l id="1522" part='i'>Évitez ce malheur.</l>
+	<l id="1522" part="i">Évitez ce malheur.</l>
 </sp>
 <sp who="MELISTRATE"><speaker>MELISTRATE.</speaker>
-	<l id="1522" part='f'>Ah ! C'est ce qui m’amène.</l>
+	<l id="1522" part="f">Ah ! C'est ce qui m’amène.</l>
 	<l id="1523">Ne m'importune pas d'un si lâche conseil ;</l>
 	<l id="1524">Par un même chemin, je cherche un sort pareil. </l>
 	<l id="1525">Quoi, veux-tu que d'une âme aussi faible qu'ingrate,</l>
@@ -1984,10 +1984,10 @@
 	<l id="1534">Que je partage aussi la gloire de ses chaînes.</l>
 </sp>
 <sp who="PALMEDON"><speaker>PALMEDON.</speaker>
-	<l id="1535" part='i'>Mais, Seigneur.</l>
+	<l id="1535" part="i">Mais, Seigneur.</l>
 </sp>
 <sp who="MELISTRATE"><speaker>MELISTRATE.</speaker>
-	<l id="1535" part='f'>Tout obstacle est ici superflu,</l>
+	<l id="1535" part="f">Tout obstacle est ici superflu,</l>
 	<l id="1536">On délibère en vain sur un point résolu.</l>
 	<l id="1537">Empêcher les effets d'un coup si légitime,</l>
 	<l id="1538">C'est pour sauver ma vie exposer mon estime ;</l>
@@ -2017,20 +2017,20 @@
 	<l id="1560">Si vous ne le troublez par votre empressement.</l>
 </sp>
 <sp who="MELISTRATE"><speaker>MELISTRATE.</speaker>
-	<l id="1561" part='i'>Hé bien, je le croirai ; mais achevé.</l>
+	<l id="1561" part="i">Hé bien, je le croirai ; mais achevé.</l>
 </sp>
 <sp who="PALMEDON"><speaker>PALMEDON.</speaker>
-	<l id="1561" part='f'>Oronclide,</l>
+	<l id="1561" part="f">Oronclide,</l>
 	<l id="1562">D'un bras qu'arma le sort, et que la vertu guide,</l>
 	<l id="1563">A blessé Merzabane, et ce grand coup est tel,</l>
 	<l id="1564">Que d'un commun accord, on le juge mortel.</l>
 </sp>
 <sp who="MELISTRATE"><speaker>MELISTRATE.</speaker>
 	<l id="1565">Mais il est dans les fers, et je ne puis comprendre</l>
-	<l id="1566" part='i'>Comment ce coup s'est fait.</l>
+	<l id="1566" part="i">Comment ce coup s'est fait.</l>
 </sp>
 <sp who="PALMEDON"><speaker>PALMEDON.</speaker>
-	<l id="1566" part='f'>Je m'en vais vous l'apprendre.</l>
+	<l id="1566" part="f">Je m'en vais vous l'apprendre.</l>
 	<l id="1567">Aussitôt que la Reine eut montré son courroux</l>
 	<l id="1568">Contre ce cher ami, qui s'exposa pour vous,</l>
 	<l id="1569">Merzabane craignant l'effet de sa colère,</l>
@@ -2129,7 +2129,7 @@
 	<l id="1656">Mais ce jour doit conclure ou ma vie ou ma mort.</l>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II. Sémiramis, Merzabane, Oronclide, Prazimène, et suite.</head>
+<div2 type="scene" n="2"><head>SCÈNE II. Sémiramis, Merzabane, Oronclide, Prazimène, et suite.</head>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
 	<l id="1657">Que demande un perfide, et qu'est-ce qu'il espère ?</l>
 	<l id="1658">Vient-il joindre mon sang, à celui de son père ?</l>
@@ -2138,10 +2138,10 @@
 	<l id="1661">Croit-il qu'un parricide excuse son audace ?</l>
 </sp>
 <sp who="ORONCLIDE"><speaker>ORONCLIDE.</speaker>
-	<l id="1662" part='i'>Non, non, je veux ma mort.</l>
+	<l id="1662" part="i">Non, non, je veux ma mort.</l>
 </sp>
 <sp who="MERZABANE"><speaker>MERZABANE.</speaker>
-	<l id="1662" part='f'>Et j'implore sa grâce.</l>
+	<l id="1662" part="f">Et j'implore sa grâce.</l>
 </sp>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
 	<l id="1663">Comment vous suppliez pour qui vous fait périr ?</l>
@@ -2169,22 +2169,22 @@
 	<l id="1681">Mais priant pour ce fils, vous me parlez d'un autre.</l>
 </sp>
 <sp who="MERZABANE"><speaker>MERZABANE.</speaker>
-	<l id="1682" part='i'>Hélas ! Il n'est pas mien !</l>
+	<l id="1682" part="i">Hélas ! Il n'est pas mien !</l>
 </sp>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
-	<l id="1682" part='f'>Comment ? Il n'est pas vôtre !</l>
+	<l id="1682" part="f">Comment ? Il n'est pas vôtre !</l>
 </sp>
 <sp who="MERZABANE"><speaker>MERZABANE.</speaker>
-	<l id="1683" part='i'>Non.</l>
+	<l id="1683" part="i">Non.</l>
 </sp>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
-	<l id="1683" part='m'>De qui donc ?</l>
+	<l id="1683" part="m">De qui donc ?</l>
 </sp>
 <sp who="PRAZIMÈNE"><speaker>PRAZIMÈNE.</speaker>
-	<l id="1683" part='m'>Bons Dieux !</l>
+	<l id="1683" part="m">Bons Dieux !</l>
 </sp>
 <sp who="MERZABANE"><speaker>MERZABANE.</speaker>
-	<l id="1683" part='f'>Vous allez tout savoir.</l>
+	<l id="1683" part="f">Vous allez tout savoir.</l>
 </sp>
 <sp who="PRAZIMÈNE"><speaker>PRAZIMÈNE, à part.</speaker>
 	<l id="1684">Sans toi, ses actions le faisaient assez voir.</l>
@@ -2246,10 +2246,10 @@
 	<l id="1738">Car je sens que la mort vous venge, et Melistrate :</l>
 	<l id="1739">Ce qui me reste à dire avant que d'expirer,,</l>
 	<l id="1740">C'est que ce cher Amant, qui vous fait soupirer,</l>
-	<l id="1741" part='i'>Est votre fils, Madame.</l>
+	<l id="1741" part="i">Est votre fils, Madame.</l>
 </sp>
 <sp who="ORONCLIDE"><speaker>ORONCLIDE.</speaker>
-	<l id="1741" part='f'>Ô Dieux ! Quelle aventure !</l>
+	<l id="1741" part="f">Ô Dieux ! Quelle aventure !</l>
 </sp>
 <sp who="MERZABANE"><speaker>MERZABANE.</speaker>
 	<l id="1742">Et si vous consultez la voix de la Nature,</l>
@@ -2264,10 +2264,10 @@
 	<l id="1751">Le faisant élever en des lieux peu connus,</l>
 	<l id="1752">Par mon ordre, obscurcit le beau sang de Ninus.</l>
 	<l id="1753">Mais enfin ce grand cœur a forcé tout obstacle,</l>
-	<l id="1754" part='i'>Je vous le rends.</l>
+	<l id="1754" part="i">Je vous le rends.</l>
 </sp>
 <sp who="PRAZIMÈNE"><speaker>PRAZIMÈNE.</speaker>
-	<l id="1754" part='f'>Ô Ciel ! Qui croira ce miracle ?</l>
+	<l id="1754" part="f">Ô Ciel ! Qui croira ce miracle ?</l>
 </sp>
 <sp who="MERZABANE"><speaker>MERZABANE.</speaker>
 	<l id="1755">Je doit être croyable en l'état où je suis.</l>
@@ -2282,12 +2282,12 @@
 	<l id="1762">Le trépas pour tous deux est un bien doux supplice :</l>
 	<l id="1763">Heureuse si ce cœur pouvait être percé</l>
 	<l id="1764">Par les mains de ce fils, dont les yeux m'ont blessé..</l>
-	<l id="1765" part='i'>Ce sacrifice enfin…</l>
+	<l id="1765" part="i">Ce sacrifice enfin…</l>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III. Mélistrate, SÉMIRAMIS, Prazimène, Oronclide, et suite.</head>
+<div2 type="scene" n="3"><head>SCÈNE III. Mélistrate, SÉMIRAMIS, Prazimène, Oronclide, et suite.</head>
 <sp who="MELISTRATE"><speaker>MELISTRATE.</speaker>
-	<l id="1765" part='f'>Sera bien légitime ;</l>
+	<l id="1765" part="f">Sera bien légitime ;</l>
 	<l id="1766">Qu'on apprête l'Autel, en voici la victime,</l>
 	<l id="1767">Qui loin de faire effort à se justifier,</l>
 	<l id="1768">Vient soi-même s'offrir, et se sacrifier.</l>
@@ -2329,10 +2329,10 @@
 	<l id="1802">Quoi pour un coup si juste, on tremble ? On délibère ?</l>
 </sp>
 <sp who="MELISTRATE"><speaker>MELISTRATE.</speaker>
-	<l id="1803" part='i'>Hélas !</l>
+	<l id="1803" part="i">Hélas !</l>
 </sp>
 <sp who="SÉMIRAMIS"><speaker>SÉMIRAMIS.</speaker>
-	<l id="1803" part='f'>Cette pitié n'est pour moi que rigueur ;</l>
+	<l id="1803" part="f">Cette pitié n'est pour moi que rigueur ;</l>
 	<l id="1804">Frappez, vous savez bien le chemin de mon cœur,</l>
 	<l id="1805">Vous l'avez déjà mis dans les fers, dans la flamme,</l>
 	<l id="1806">Percé de mille traits qui m'ont arraché l’âme ;</l>
@@ -2367,14 +2367,14 @@
 	<l id="1835">C'est le seuls que je veux ; et je le tiens si cher,</l>
 	<l id="1836">Que ni vous, ni les Dieux, ne sauriez l'empêcher.</l>
 </sp>
-<sp who='PRAZIMÈNE'><speaker>PRAZIMÈNE.</speaker>
-	<l id="1837" part='i'>Seigneurs…</l>
+<sp who="PRAZIMÈNE"><speaker>PRAZIMÈNE.</speaker>
+	<l id="1837" part="i">Seigneurs…</l>
 </sp>
 <sp who="MELISTRATE"><speaker>MELISTRATE.</speaker>
-	<l id="1837" part='m'>Nous vous suivons ; Oronclide…</l>
+	<l id="1837" part="m">Nous vous suivons ; Oronclide…</l>
 </sp>
-<sp who='ORONCLIDE'><speaker>ORONCLIDE.</speaker>
-	<l id="1837" part='f'>Ah ! Mon frère,</l>
+<sp who="ORONCLIDE"><speaker>ORONCLIDE.</speaker>
+	<l id="1837" part="f">Ah ! Mon frère,</l>
 	<l id="1838">Que le Ciel aujourd'hui nous est doux et sévère !</l>
 	<l id="1839">Et qu'aux biens qu'il nous donne et nous ôte, le sort</l>
 	<l id="1840">Mêle confusément, et l'Amour et la Mort !</l>

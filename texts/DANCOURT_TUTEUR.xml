@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding='UTF-8'?>
-<TEI.2>
+<?xml version="1.0" encoding="UTF-8"?><TEI.2>
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>LE TUTEUR, COMÉDIE</title>
-				<author born='1661' born_location='Fontainebleau' death='1725' death_location='Courcelles-le-Roi' academie=''>DANCOURT, Florent CARTON dit</author>
+				<author born="1661" born_location="Fontainebleau" death="1725" death_location="Courcelles-le-Roi" academie="">DANCOURT, Florent CARTON dit</author>
 			</titleStmt>
 			<publicationStmp>	
 				<p>publié par Paul FIEVRE, février 2013</p>
@@ -16,9 +15,9 @@
 				<type>prose</type>
 				<periode>1691-1700</periode>
 				<taille>(mesure non pertinente)</taille>
-				<permalien></permalien>
+				<permalien/>
 				<sources>
-					<source id='1'><author></author><text></text></source>
+					<source id="1"><author/><text/></source>
 				</sources>	
 
 			</SourceDesc>
@@ -30,31 +29,31 @@
 			<titlePart type="main">LE TUTEUR</titlePart>
 			<titlePart type="sub">COMÉDIE</titlePart>
 		</docTitle> 
-		<docDate value='1694'>M. DC. XCIV. AVEC PRIVILÈGE DU ROI.</docDate>
-		<docAuthor id='DANCOURT, Florent Carton dit' bio='dancourt'>De Mr DANCOURT</docAuthor>
+		<docDate value="1694">M. DC. XCIV. AVEC PRIVILÈGE DU ROI.</docDate>
+		<docAuthor id="DANCOURT, Florent Carton dit" bio="dancourt">De Mr DANCOURT</docAuthor>
 		<docImprint>
-			<acheveImprime id=""></acheveImprime>
+			<acheveImprime id=""/>
 		</docImprint>
-		<printer id='GUILLAIN'>À PARIS, chez Thomas GUILLLAIN, proche les Augustins, à la descente du Pont-Neuf, à l'image Saint Louis.</printer>
+		<printer id="GUILLAIN">À PARIS, chez Thomas GUILLLAIN, proche les Augustins, à la descente du Pont-Neuf, à l'image Saint Louis.</printer>
 		<performance>
-			<premiere date='1695-07-13' location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois  le 13 Juillet 1695 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
+			<premiere date="1695-07-13" location="Théâtre de la rue des Fossés Saint-Germain">Représentée pour la première fois  le 13 Juillet 1695 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="MONSIEUR BERNARD" civil='M' type="H" statut="bourgeois" age="A" stat_amour='néant'>MONSIEUR BERNARD</role>, tuteur d’Angélique.</castItem>
-			<castItem><role id="LE CHEVALIER" civil='M' type="H" statut="chevalier" age="A" stat_amour='néant'>LE CHEVALIER</role>, oncle d’Angélique.</castItem>
-			<castItem><role id="DORANTE" civil='M' type="H" statut="peintre" age="A" stat_amour='amoureux'>DORANTE</role>, amant d’Angélique, et cru Peintre chez Monsieur Bernard.</castItem>
-			<castItem><role id="L’OLIVE" civil='M' type="H" statut="valet" age="A" stat_amour='néant'>L’OLIVE</role>, valet de Dorante, et Jardinier de Monsieur Bernard.</castItem>
-			<castItem><role id="ANGÉLIQUE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='amoureux'>ANGÉLIQUE</role>, nièce du Chevalier.</castItem>
-			<castItem><role id="LISETTE" civil='F' type="H" statut="suivante" age="A" stat_amour='néant'>LISETTE</role>, sa suivante.</castItem>
-			<castItem><role id="LUCAS" civil='M' type="H" statut="fermier" age="A" stat_amour='néant'>LUCAS</role>, fermier de Monsieur Bernard.</castItem>
-			<castItem><role id="MATURINE" civil='F' type="H" statut="servante" age="A" stat_amour='néant'>MATURINE</role>.</castItem>
+			<castItem><role id="MONSIEUR BERNARD" civil="M" type="H" statut="bourgeois" age="A" stat_amour="néant">MONSIEUR BERNARD</role>, tuteur d’Angélique.</castItem>
+			<castItem><role id="LE CHEVALIER" civil="M" type="H" statut="chevalier" age="A" stat_amour="néant">LE CHEVALIER</role>, oncle d’Angélique.</castItem>
+			<castItem><role id="DORANTE" civil="M" type="H" statut="peintre" age="A" stat_amour="amoureux">DORANTE</role>, amant d’Angélique, et cru Peintre chez Monsieur Bernard.</castItem>
+			<castItem><role id="L’OLIVE" civil="M" type="H" statut="valet" age="A" stat_amour="néant">L’OLIVE</role>, valet de Dorante, et Jardinier de Monsieur Bernard.</castItem>
+			<castItem><role id="ANGÉLIQUE" civil="F" type="H" statut="aristocrate" age="A" stat_amour="amoureux">ANGÉLIQUE</role>, nièce du Chevalier.</castItem>
+			<castItem><role id="LISETTE" civil="F" type="H" statut="suivante" age="A" stat_amour="néant">LISETTE</role>, sa suivante.</castItem>
+			<castItem><role id="LUCAS" civil="M" type="H" statut="fermier" age="A" stat_amour="néant">LUCAS</role>, fermier de Monsieur Bernard.</castItem>
+			<castItem><role id="MATURINE" civil="F" type="H" statut="servante" age="A" stat_amour="néant">MATURINE</role>.</castItem>
 		</castList>
-		<set location='France' country='France' periode='XVIIème' link=''>La Scène est dans la Maison de Campagne de Monsieur Bernard.</set>
+		<set location="France" country="France" periode="XVIIème" link="">La Scène est dans la Maison de Campagne de Monsieur Bernard.</set>
 	</front>
 <body>
-<div1 type='acte' n='1'><head></head>
-<div2 type='scene' n='1'><head>SCÈNE I.</head>
-<sp who='LUCAS'><speaker>LUCAS, seul, tenant un papier à la main.</speaker>
+<div1 type="acte" n="1"><head/>
+<div2 type="scene" n="1"><head>SCÈNE I.</head>
+<sp who="LUCAS"><speaker>LUCAS, seul, tenant un papier à la main.</speaker>
 <note type="L">Tatigué : Tétigué, Tétigoine, ou Tatigoine. Sorte de jurement burlesque et paysan. Tatigoine n'est que dans la bouche des polissons. Tatigué est fort en usage chez les gens de village. [T]</note>
 <note type="L">Fi : Particule qui sert à faire une exclamation pour témoigner le mépris, la haine, l'aversion qu'on a pour quelque personne ou quelque chose. [F]</note>
 <p id="1">
@@ -72,7 +71,7 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='2'><head>SCÈNE II. Lucas, Lisette.</head>
+<div2 type="scene" n="2"><head>SCÈNE II. Lucas, Lisette.</head>
 <sp who="LISETTE"><speaker>LISETTE.</speaker>
 <p id="2">
 	<s id="1">Que fais-tu là, Lucas ?</s>
@@ -240,8 +239,8 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='3'><head>SCÈNE III.</head>
-<sp who='LISETTE'><speaker>LISETTE, seule.</speaker>
+<div2 type="scene" n="3"><head>SCÈNE III.</head>
+<sp who="LISETTE"><speaker>LISETTE, seule.</speaker>
 <p id="1">
 	<s id="1">Une lettre du Chevalier d’artimon, qui ne s’adresse point à sa nièce ! </s>
 	<s id="2">Quelle autre correspondance peut-il avoir en ce pays-ci ? </s>
@@ -250,7 +249,7 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='4'><head>SCÈNE IV. Angélique, Lisette.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV. Angélique, Lisette.</head>
 <sp who="ANGÉLIQUE"><speaker>ANGÉLIQUE.</speaker>
 <p id="1">
 	<s id="1">As-tu quelque chose à m’apprendre qui puisse me faire plaisir ?</s>
@@ -467,7 +466,7 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='5'><head>SCÈNE V. Angélique, Lisette, Lucas.</head>
+<div2 type="scene" n="5"><head>SCÈNE V. Angélique, Lisette, Lucas.</head>
 <sp who="LUCAS"><speaker>LUCAS.</speaker>
 <p id="1">
 	<s id="1">Oh palsangué je vous trouve bian à point. </s>
@@ -571,7 +570,7 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='6'><head>SCÈNE VI. Angélique, Lisette, Lucas, Monsieur Bernard.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI. Angélique, Lisette, Lucas, Monsieur Bernard.</head>
 <sp who="MONSIEUR BERNARD"><speaker>MONSIEUR BERNARD.</speaker>
 <p id="1">
 	<s id="1">Oh, c’est vous que je cherche, Angélique : j’allais monter à votre appartement, et je suis bien aise de vous rencontrer ici.</s>
@@ -730,7 +729,7 @@
 	<s id="1">Comment, Monsieur ? </s>
 </p>
 </sp>
-<sp who='LISETTE'><speaker>LISETTE, bas. </speaker>
+<sp who="LISETTE"><speaker>LISETTE, bas. </speaker>
 <p id="32">
 	<s id="1">Mes conjectures n’étaient pas fausses.</s>
 </p>
@@ -795,7 +794,7 @@
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='7'><head>SCÈNE VII. Monsieur Bernard, Lucas.</head>
+<div2 type="scene" n="7"><head>SCÈNE VII. Monsieur Bernard, Lucas.</head>
 <sp who="MONSIEUR BERNARD"><speaker>MONSIEUR BERNARD.</speaker>
 <p id="1">
 	<s id="1">Ici, Lucas. </s>
@@ -933,7 +932,7 @@ Fig. À tout hasard. [L]</note>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='8'><head>SCÈNE VIII. Monsieur Bernard, L’Olive, Lucas.</head>
+<div2 type="scene" n="8"><head>SCÈNE VIII. Monsieur Bernard, L’Olive, Lucas.</head>
 <sp who="MONSIEUR BERNARD"><speaker>MONSIEUR BERNARD.</speaker>
 <p id="1">
 	<s id="1">Approchez, Monsieur le maraud, approchez.</s>
@@ -1020,7 +1019,7 @@ Fig. À tout hasard. [L]</note>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='9'><head>SCÈNE IX. Lucas, l’Olive.</head>
+<div2 type="scene" n="9"><head>SCÈNE IX. Lucas, l’Olive.</head>
 <sp who="LUCAS"><speaker>LUCAS.</speaker>
 <p id="1">
 	<s id="1">Ah, ah, ah, parsangué cela est tout à fait drôle ! </s>
@@ -1139,7 +1138,7 @@ Fig. À tout hasard. [L]</note>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='10'><head>SCÈNE X.</head>
+<div2 type="scene" n="10"><head>SCÈNE X.</head>
 <sp who="L’OLIVE"><speaker>L’OLIVE, seul.</speaker>
 <note type="L">Maroufle : Terme injurieux qu'on donne aux gens gros de corps, et grossiers d'esprit. [F]</note>
 <p id="1">
@@ -1149,7 +1148,7 @@ Fig. À tout hasard. [L]</note>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='11'><head>SCÈNE XI. Dorante, l’Olive.</head>
+<div2 type="scene" n="11"><head>SCÈNE XI. Dorante, l’Olive.</head>
 <sp who="DORANTE"><speaker>DORANTE.</speaker>
 <p id="1">
 	<s id="1">Trouverai-je l’occasion de me déclarer ? </s>
@@ -1299,7 +1298,7 @@ Fig. À tout hasard. [L]</note>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='12'><head>SCÈNE XII. L’Olive, Lisette.</head>
+<div2 type="scene" n="12"><head>SCÈNE XII. L’Olive, Lisette.</head>
 <sp who="LISETTE"><speaker>LISETTE.</speaker>
 <p id="1">
 	<s id="1">Il faut absolument que je démêle ce que je soupçonne. </s>
@@ -1528,7 +1527,7 @@ Fig. À tout hasard. [L]</note>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='13'><head>SCÈNE XIII. Angélique, Lisette.</head>
+<div2 type="scene" n="13"><head>SCÈNE XIII. Angélique, Lisette.</head>
 <sp who="ANGÉLIQUE"><speaker>ANGÉLIQUE.</speaker>
 <p id="1">
 	<s id="1">Pourquoi me laisses-tu seule, Lisette ? </s>
@@ -1595,7 +1594,7 @@ Fig. À tout hasard. [L]</note>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='14'><head>SCÈNE XIV. Dorante, l’Olive, Angélique, Lisette.</head>
+<div2 type="scene" n="14"><head>SCÈNE XIV. Dorante, l’Olive, Angélique, Lisette.</head>
 <sp who="ANGÉLIQUE"><speaker>ANGÉLIQUE.</speaker>
 <p id="1">
 	<s id="1">Ah, Lisette, que sa présence me cause de trouble, je n’ai jamais senti ce que je sens.</s>
@@ -1726,7 +1725,7 @@ Fig. À tout hasard. [L]</note>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='15'><head>SCÈNE XV. Angélique, Lisette.</head>
+<div2 type="scene" n="15"><head>SCÈNE XV. Angélique, Lisette.</head>
 <sp who="LISETTE"><speaker>LISETTE.</speaker>
 <p id="1">
 	<s id="1">Hé bien, que dites-vous de tout ceci ? </s>
@@ -1770,7 +1769,7 @@ Fig. À tout hasard. [L]</note>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='16'><head>SCÈNE XVI. Angélique, Lisette, Monsieur Bernard, Lucas.</head>
+<div2 type="scene" n="16"><head>SCÈNE XVI. Angélique, Lisette, Monsieur Bernard, Lucas.</head>
 <sp who="MONSIEUR BERNARD"><speaker>MONSIEUR BERNARD.</speaker>
 <p id="1">
 	<s id="1">Qui va là ?</s>
@@ -1791,7 +1790,7 @@ Fig. À tout hasard. [L]</note>
 	<s id="1">Qui va là encore une fois ?</s>
 </p>
 </sp>
-<sp who='LUCAS'><speaker>LUCAS entrant de l’autre côté du Théâtre.</speaker>
+<sp who="LUCAS"><speaker>LUCAS entrant de l’autre côté du Théâtre.</speaker>
 <p id="5">
 	<s id="1">Palsangué, qui va là toi-même ?</s>
 </p>
@@ -1934,7 +1933,7 @@ Fig. À tout hasard. [L]</note>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='17'><head>SCÈNE XVII. Dorante, l’Olive.</head>
+<div2 type="scene" n="17"><head>SCÈNE XVII. Dorante, l’Olive.</head>
 <sp who="DORANTE"><speaker>DORANTE.</speaker>
 <p id="1">
 	<s id="1">L’Olive ?</s>
@@ -2017,7 +2016,7 @@ Fig. À tout hasard. [L]</note>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='18'><head>SCÈNE XVIII. Dorante, l’Olive, Angélique, Lisette, Monsieur Bernard, Lucas.</head>
+<div2 type="scene" n="18"><head>SCÈNE XVIII. Dorante, l’Olive, Angélique, Lisette, Monsieur Bernard, Lucas.</head>
 <sp who="ANGÉLIQUE"><speaker>ANGÉLIQUE, en rentrant dans le fond du Théâtre.</speaker>
 <p id="1">
 	<s id="1">Nous revenons insensiblement au même endroit où vous nous avez trouvées.</s>
@@ -2368,7 +2367,7 @@ Fig. À tout hasard. [L]</note>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='19'><head>SCÈNE XIX. Angélique, Dorante, Lisette, l’Olive.</head>
+<div2 type="scene" n="19"><head>SCÈNE XIX. Angélique, Dorante, Lisette, l’Olive.</head>
 <sp who="LISETTE"><speaker>LISETTE.</speaker>
 <p id="1">
 	<s id="1">Maintenant, Monsieur le Jardinier.</s>
@@ -2493,7 +2492,7 @@ Fig. À tout hasard. [L]</note>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='20'><head>SCÈNE XX. Angélique, Lisette.</head>
+<div2 type="scene" n="20"><head>SCÈNE XX. Angélique, Lisette.</head>
 <sp who="ANGÉLIQUE"><speaker>ANGÉLIQUE.</speaker>
 <p id="1">
 	<s id="1">La plaisanterie devient peut-être un peu trop forte, Lisette, et Monsieur Bernard…</s>
@@ -2527,7 +2526,7 @@ Fig. À tout hasard. [L]</note>
 	<s id="3">Par ma foi, voilà une jolie manière de guérir les soupçons d’un jaloux !</s> 
 </p>
 </sp>
-<sp who='MONSIEUR BERNARD_LUCAS'><speaker>MONSIEUR BERNARD et LUCAS derrière le Théâtre.</speaker>
+<sp who="MONSIEUR BERNARD_LUCAS"><speaker>MONSIEUR BERNARD et LUCAS derrière le Théâtre.</speaker>
 <p id="7">
 	<s id="1">Haie, haie, haie, à l’aide.</s>
 </p>
@@ -2553,7 +2552,7 @@ Fig. À tout hasard. [L]</note>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='21'><head>SCÈNE XXI. Dorante, Monsieur Bernard, Angélique, Lucas, Lisette.</head>
+<div2 type="scene" n="21"><head>SCÈNE XXI. Dorante, Monsieur Bernard, Angélique, Lucas, Lisette.</head>
 <sp who="DORANTE"><speaker>DORANTE.</speaker>
 <p id="1">
 	<s id="1">Vous prétendez en vain m’échapper : je veux vous mener moi-même à Monsieur Bernard, et le rendre témoin de votre trahison ; comment malheureuse, vous trompez un si honnête homme ? </s>
@@ -2593,8 +2592,8 @@ Fig. À tout hasard. [L]</note>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='22'><head>SCÈNE XXII. Dorante, Lucas, Monsieur Bernard, Maturine, Angélique, Lisette, l’Olive.</head>
-<sp who='MATURINE'><speaker>MATURINE, avec un flambeau.</speaker>
+<div2 type="scene" n="22"><head>SCÈNE XXII. Dorante, Lucas, Monsieur Bernard, Maturine, Angélique, Lisette, l’Olive.</head>
+<sp who="MATURINE"><speaker>MATURINE, avec un flambeau.</speaker>
 <p id="1">
 	<s id="1">Hé ! </s>
 	<s id="2">Quel vacarme est-ce là ? </s>
@@ -2695,7 +2694,7 @@ Fig. À tout hasard. [L]</note>
 </p>
 </sp>
 </div2>
-<div2 type='scene' n='23'><head>SCÈNE XXIII. Monsieur Bernard, Le Chevalier, Angélique, Dorante, l’Olive, Lisette, Lucas.</head>
+<div2 type="scene" n="23"><head>SCÈNE XXIII. Monsieur Bernard, Le Chevalier, Angélique, Dorante, l’Olive, Lisette, Lucas.</head>
 <sp who="LISETTE"><speaker>LISETTE.</speaker>
 <p id="1">
 	<s id="1">Tenez, Monsieur, c’est Monsieur Bernard à qui vous en voulez, le voilà en déshabillé de campagne.</s>

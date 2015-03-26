@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding='UTF-8'?>
-<TEI.2>
+<?xml version="1.0" encoding="UTF-8"?><TEI.2>
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
 			<title>BELLÉROPHON, TRAGÉDIE</title>
-			<author born='1635' born_location='Paris' death='1688' death_location='Paris' academie='1670'>QUINAULT, Philippe</author>
+			<author born="1635" born_location="Paris" death="1688" death_location="Paris" academie="1670">QUINAULT, Philippe</author>
 		</titleStmt>
 		<publicationStmp>	
 			<p>publié par Paul FIEVRE</p><p>Mai 2006</p>
@@ -16,9 +15,9 @@
 				<type>vers</type>
 				<periode>1671-1680</periode>
 				<taille>1250-1500</taille>
-				<permalien></permalien>
+				<permalien/>
 				<sources>
-					<source id='1'><author>Euripide</author><text>**</text></source>
+					<source id="1"><author>Euripide</author><text>**</text></source>
 				</sources>	
 	
 		</SourceDesc>
@@ -27,31 +26,31 @@
 <text>
 	<front>
 		<docTitle>
-			<titlePart type='main'>BELLÉROPHON</titlePart>
-			<titlePart type='sub'>TRAGÉDIE</titlePart>
+			<titlePart type="main">BELLÉROPHON</titlePart>
+			<titlePart type="sub">TRAGÉDIE</titlePart>
 		</docTitle> 
-		<docDate value='1671'>1671</docDate>
-		<docAuthor id='QUINAULT, Philippe' bio='quinault'>Philippe Quinault</docAuthor>
+		<docDate value="1671">1671</docDate>
+		<docAuthor id="QUINAULT, Philippe" bio="quinault">Philippe Quinault</docAuthor>
 		<docImprint>
-				<privilege id='1671-02-01'>Privilège du premier février 1671</privilege>
-				<acheveImprime id='1671-03-06'>Achevé d'imprimer le 6 mars 1671.</acheveImprime>
-				<printer id=''></printer>
+				<privilege id="1671-02-01">Privilège du premier février 1671</privilege>
+				<acheveImprime id="1671-03-06">Achevé d'imprimer le 6 mars 1671.</acheveImprime>
+				<printer id=""/>
 		</docImprint>
 		<performance>
-			<premiere date='1671-01-01' location='Hôtel de Bourgogne'>Représenté pour la première fois le 01 janvier 1671 à l'Hôtel de Bourgogne.</premiere>
+			<premiere date="1671-01-01" location="Hôtel de Bourgogne">Représenté pour la première fois le 01 janvier 1671 à l'Hôtel de Bourgogne.</premiere>
 		</performance>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="PROETUS" civil='M' type="H" statut='roi' age='A' stat_amour='néant'>PROETUS</role>, roi d'Argos.</castItem>
-		<castItem><role id="LICAS" civil='M' type="H" statut='confident' age='A' stat_amour='néant'>LICAS</role>, Confident de Proetus.</castItem>
-		<castItem><role id="BÉLLÉROPHON" civil='M' type="H" statut='prince' age='A' stat_amour='néant'>BÉLLÉROPHON</role>, prince d'Ephyre réfugié auprès de Proetus.</castItem>
-		<castItem><role id="STENOBÉE" civil='F' type="H" statut='prince' age='A' stat_amour='néant'>STENOBÉE</role>, fille aînée d'Iobas roi de Lycie.</castItem>
-		<castItem><role id="MÉGARE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>MÉGARE</role>.</castItem>
-		<castItem><role id="PHILONOE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>PHILONOE</role>, sœur de Stenobée.</castItem>
-		<castItem><role id="LADICE" civil='F' type="H" statut='confident' age='A' stat_amour='néant'>LADICE</role>, confidente de Philonoé.</castItem>
-		<castItem><role id="TIMANTE" civi='M' type="H" statut='capitaine' age='A' stat_amour='néant'>TIMANTE</role>, capitaine des gardes du roi de Lycie.</castItem>
-		<castItem><role id="GARDES" civil='G' type="H" statut='garde' age='A' stat_amour='néant'>GARDES</role>.</castItem>
+		<castItem><role id="PROETUS" civil="M" type="H" statut="roi" age="A" stat_amour="néant">PROETUS</role>, roi d'Argos.</castItem>
+		<castItem><role id="LICAS" civil="M" type="H" statut="confident" age="A" stat_amour="néant">LICAS</role>, Confident de Proetus.</castItem>
+		<castItem><role id="BÉLLÉROPHON" civil="M" type="H" statut="prince" age="A" stat_amour="néant">BÉLLÉROPHON</role>, prince d'Ephyre réfugié auprès de Proetus.</castItem>
+		<castItem><role id="STENOBÉE" civil="F" type="H" statut="prince" age="A" stat_amour="néant">STENOBÉE</role>, fille aînée d'Iobas roi de Lycie.</castItem>
+		<castItem><role id="MÉGARE" civil="F" type="H" statut="aristocrate" age="A" stat_amour="néant">MÉGARE</role>.</castItem>
+		<castItem><role id="PHILONOE" civil="F" type="H" statut="aristocrate" age="A" stat_amour="néant">PHILONOE</role>, sœur de Stenobée.</castItem>
+		<castItem><role id="LADICE" civil="F" type="H" statut="confident" age="A" stat_amour="néant">LADICE</role>, confidente de Philonoé.</castItem>
+		<castItem><role id="TIMANTE" civi="M" type="H" statut="capitaine" age="A" stat_amour="néant">TIMANTE</role>, capitaine des gardes du roi de Lycie.</castItem>
+		<castItem><role id="GARDES" civil="G" type="H" statut="garde" age="A" stat_amour="néant">GARDES</role>.</castItem>
 	</castList>
-	<set location='Patare' country='Turquie' periode='Temps mythologiques' link=''>La scène est à Patare, capitale de Lycie.</set>
+	<set location="Patare" country="Turquie" periode="Temps mythologiques" link="">La scène est à Patare, capitale de Lycie.</set>
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>

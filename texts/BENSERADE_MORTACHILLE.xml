@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI.2>
+<?xml version="1.0" encoding="UTF-8"?><TEI.2>
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>LA MORT D'ACHILLE et la DISPUTE DES ARMES, TRAGEDIE</title>
-				<author born='1613' born_location='Lyons-la-Forêt' death='1691' death_location='Gentilly' academie='1674'>BENSÉRADE, Isaac de</author>
+				<author born="1613" born_location="Lyons-la-Forêt" death="1691" death_location="Gentilly" academie="1674">BENSÉRADE, Isaac de</author>
 			</titleStmt>
 			<publicationStmp>	
 				<p>publié par Paul FIEVRE janvier 2009, revu octobre 2014</p>
@@ -32,17 +31,17 @@
 			<titlePart type="sub">TRAGÉDIE</titlePart>
 			
 		</docTitle> 
-		<docDate value='1636'>M. DC. XXXVI. AVEC PRIVILÈGE DU ROI.</docDate>
-		<docAuthor id='BENSERADE, Isaac de' bio='benserade'>Isaac de Bensérade</docAuthor>
+		<docDate value="1636">M. DC. XXXVI. AVEC PRIVILÈGE DU ROI.</docDate>
+		<docAuthor id="BENSERADE, Isaac de" bio="benserade">Isaac de Bensérade</docAuthor>
 		<docImprint>
 			<privilege id="1636-09-30"><head>Extrait du privilège du Roi</head>
 				<p>Par grâce et privilège du Roi donné à Roye, en date du dernier Septembre, 1636. Et Signé, Par le Roi en son Conseil. De Monseaux, Il est permis à Antoine de Sommaville, Marchand Libraire à Paris, d'imprimer ou faire imprimer, vendre et distribuer une pièce de théâtre, intitulée, « La Mort d'Achille et la dispute de ses armes, Tragédie », durant le temps et espace de sept ans, à compter du jour qu'elle sera achevée d'imprimer. Et défenses sont faites à tous Imprimeurs, Libraires, et autres, de contrefaire la dite pièce, ni en vendre ou exposer en vente de contrefaite, à peine de trois mille livres d'amende, de tous ses dépens, dommages et intérêts ; ainsi qu'il est plus amplement porté par lesdites Lettres qui sont en vertu du présent Extrait  tenues pour bien et dûment signifiées, à ce qu'aucun n'en prétende cause d'ignorance. </p>
 			</privilege>
 			<acheveImprime id="1636-10-30">Achevé d'imprimer le 30. Octobre 1636.</acheveImprime>
-			<printer id='SOMMAVILLE'>À PARIS, chez ANTOINE de SOMMAVILLE, au Palais dans la petite salle à l'Ecu de France.</printer>
+			<printer id="SOMMAVILLE">À PARIS, chez ANTOINE de SOMMAVILLE, au Palais dans la petite salle à l'Ecu de France.</printer>
 		</docImprint>
 		<performance>
-			<premiere date='1635' location='(inconnue)'>Représenté pour la première fois en 1635.</premiere>
+			<premiere date="1635" location="(inconnue)">Représenté pour la première fois en 1635.</premiere>
 		</performance>
 	<dedicace><adresse>Épitre au Roi</adresse>
 		<head>Sire,</head>
@@ -53,26 +52,26 @@
 	<p>Le sujet de cette Tragédie est assez fameux pour n'être pas ignoré de ceux qui la liront, puisque les plus beaux gestes de celui qui en est le héros sont écrits d'un style si merveilleux par le divin Homère ; quelques auteurs comme Dares Phrygius, et Dictys Cretensis, en parlent historiquement, et avec plus de vraisemblance, j'ai pris des uns et des autres ce que j'en ai jugé nécessaire pour l'embellissement de la chose sans en altérer la vérité. Je m'assure que l'on m'accusera d'avoir ici choqué les lois fondamentales du poème dramatique en ce que j'ajoute à la mort d'Achille, qui est mon objet, la dispute de ses armes, et la mort d'Ajax, qui semble être une pièce détachée, mais je m'imagine que mon action n'en est pas moins une, et que cette dispute et cette mort qui pourrait ailleurs tenir lieu d'une principale action ne doit être ici considérée qu'en qualité d'épisode et d'incident, vu qu'elle regarde principalement Achille, et qu'elle n'est pas le véritable but de ma tragédie, bien que ce soit par où elle finit, s'il fallait toujours finir par la mort du premier acteur, le théâtre se verrait souvent dépouillé de ses plus beaux ornements, la mort de César ne serait pas suivie du pitoyable spectacle de sa chemise sanglante qui fait un si merveilleux effet ; et qui pousse si avant dans les coeurs la compassion, le regret, et le désir de vengeance, quand Ajax se tue du désespoir d'être frustré des armes d'Achille, il ne donne pas tant une marque de sa générosité qu'il laisse un témoignage du mérite de ce qu'il recherchait, et par conséquent cet acte ne tend qu'à l'honneur de mon héros. En tout cas si j'ai failli pardonne moi, et puisqu'il ne m'est pas permis d'espérer une juste louange de la meilleure de mes productions, souffre que je tire un peu de gloire de la plus belle de mes fautes.</p>
 	</preface>
 	<castList><head>PERSONNAGES</head>
-		<castItem><role id="ACHILLE" civil="M" type="H" statut='roi' age='A' stat_amour='Briséide'>ACHILLE</role>.</castItem>
-		<castItem><role id="BRISEIDE" civil="F" type="H" statut='eclave' age='A' stat_amour='néant'>BRISÉIDE</role>, sa captive.</castItem>
-		<castItem><role id="ALCIMEDE" civil="M" type="H" statut='écuyer' age='A' stat_amour='néant'>ALCIMÈDE</role>, écuyer d'Achille.</castItem>
-		<castItem><role id="PRIAM"  civil="M" type="H" statut='roi' age='A' stat_amour='marié'>PRIAM</role>, roi de Troie.</castItem>
-		<castItem><role id="HECUBE" civil="F" type="H" statut='roi' age='A' stat_amour='marié'>HÉCUBE</role>, sa femme.</castItem>
-		<castItem><role id="POLIXENE" civil="F" type="H" statut='prince' age='A' stat_amour='néant'>POLIXÈNE</role>, leur fille.</castItem>
-		<castItem><role id="PERIS" civil="M" type="H" statut='prince' age='prince' stat_amour='néant'>PÂRIS</role>, leur fils.</castItem>
-		<castItem><role id="DEIPHOBE" civil="M" type="H" statut='prince' age='A' stat_amour='néant'>DEIPHOBE</role>, leur fils.</castItem>
-		<castItem><role id="AJAX" civil="M" type="H" statut='capitaine' age='A' stat_amour='néant'>AJAX</role>, capitaine grec.</castItem>
-		<castItem><role id="ULYSSE" civil="M" type="H" statut='capitaine' age='A' stat_amour='néant'>ULYSSE</role>, capitaine grec.</castItem>
-		<castItem><role id="AGAMEMNON" civil="M" type="H" statut='général' age='A' stat_amour='néant'>AGAMEMNON</role>, général d'armée.</castItem>
-		<castItem><role id="CONSEIL-DES-GRECS" civil="G" type="H" statut='aristocrate' age='A' stat_amour='néant'>CONSEIL DES GRECS</role>.</castItem>
-		<castItem><role id="TROYENS" civil="G" type="H" statut='soldat' age='A' stat_amour='néant'>TROUPE DE TROYENS</role>.</castItem>
-		<castItem><role id="SOLDAT-GREC" civil="M" type="H" statut='soldat' age='A' stat_amour='néant'>UN SOLDAT GREC</role>.</castItem>
+		<castItem><role id="ACHILLE" civil="M" type="H" statut="roi" age="A" stat_amour="Briséide">ACHILLE</role>.</castItem>
+		<castItem><role id="BRISEIDE" civil="F" type="H" statut="eclave" age="A" stat_amour="néant">BRISÉIDE</role>, sa captive.</castItem>
+		<castItem><role id="ALCIMEDE" civil="M" type="H" statut="écuyer" age="A" stat_amour="néant">ALCIMÈDE</role>, écuyer d'Achille.</castItem>
+		<castItem><role id="PRIAM" civil="M" type="H" statut="roi" age="A" stat_amour="marié">PRIAM</role>, roi de Troie.</castItem>
+		<castItem><role id="HECUBE" civil="F" type="H" statut="roi" age="A" stat_amour="marié">HÉCUBE</role>, sa femme.</castItem>
+		<castItem><role id="POLIXENE" civil="F" type="H" statut="prince" age="A" stat_amour="néant">POLIXÈNE</role>, leur fille.</castItem>
+		<castItem><role id="PERIS" civil="M" type="H" statut="prince" age="prince" stat_amour="néant">PÂRIS</role>, leur fils.</castItem>
+		<castItem><role id="DEIPHOBE" civil="M" type="H" statut="prince" age="A" stat_amour="néant">DEIPHOBE</role>, leur fils.</castItem>
+		<castItem><role id="AJAX" civil="M" type="H" statut="capitaine" age="A" stat_amour="néant">AJAX</role>, capitaine grec.</castItem>
+		<castItem><role id="ULYSSE" civil="M" type="H" statut="capitaine" age="A" stat_amour="néant">ULYSSE</role>, capitaine grec.</castItem>
+		<castItem><role id="AGAMEMNON" civil="M" type="H" statut="général" age="A" stat_amour="néant">AGAMEMNON</role>, général d'armée.</castItem>
+		<castItem><role id="CONSEIL-DES-GRECS" civil="G" type="H" statut="aristocrate" age="A" stat_amour="néant">CONSEIL DES GRECS</role>.</castItem>
+		<castItem><role id="TROYENS" civil="G" type="H" statut="soldat" age="A" stat_amour="néant">TROUPE DE TROYENS</role>.</castItem>
+		<castItem><role id="SOLDAT-GREC" civil="M" type="H" statut="soldat" age="A" stat_amour="néant">UN SOLDAT GREC</role>.</castItem>
 </castList>
-<set location='Troie' country='Turquie' periode='Temps mythologiques' link=''></set>
+<set location="Troie" country="Turquie" periode="Temps mythologiques" link=""/>
 </front>
 <body>
-<div1 type='acte' n="1"><head>ACTE I</head>
-<div2 type='scene' n="1"><head>SCÈNE PREMIÈRE. Achille, Briséide.</head>
+<div1 type="acte" n="1"><head>ACTE I</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Achille, Briséide.</head>
 <sp who="ACHILLE"><speaker>ACHILLE. </speaker>
 	<l id="1">Je ne sais, mon cher coeur, ce qui doit m'arriver,</l>
 	<l id="2">Mais depuis quelque temps je ne fais que rêver,</l>
@@ -169,7 +168,7 @@
 	<l id="74">N'interrompt pas pour peu notre entretien secret.</l>
 </sp>
 </div2>
-<div2 type='scene' n="2"><head>SCÈNE II. Alcimède, Achille, Briséide.</head>
+<div2 type="scene" n="2"><head>SCÈNE II. Alcimède, Achille, Briséide.</head>
 <sp who="ALCIMEDE"><speaker>ALCIMÈDE.</speaker>
 <note type="L">Dolent(e) : Qui se plaint et qui souffre de la douleur au corps, ou à l'esprit, qui est triste. [F]</note>
 	<l id="75">Le souverain de Troie, et des femmes dolentes</l>
@@ -233,7 +232,7 @@
 	<l id="120">Que toujours le bonheur n'est pas sous la couronne.</l>
 </sp>
 </div2>
-<div2 type='scene' n="3"><head>SCÈNE III. Priam, Hécube, Polixène, Achille, Briséide, Alcimède.</head>
+<div2 type="scene" n="3"><head>SCÈNE III. Priam, Hécube, Polixène, Achille, Briséide, Alcimède.</head>
 <sp who="ACHILLE"><speaker>ACHILLE allant recevoir Priam.</speaker>
 	<l id="121">Certes mes ennemis sont trop officieux,</l>
 	<l id="122">Vous me faites rougir de venir en ces lieux,</l>
@@ -493,8 +492,8 @@
 </sp>
 </div2>
 </div1>
-<div1 type='acte' n="2"><head>ACTE II</head>
-<div2 type='scene' n="1"><head>SCÈNE PREMIÈRE. Priam, Hécube, Pâris.</head>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Priam, Hécube, Pâris.</head>
 <sp who="PRIAM"><speaker>PRIAM.</speaker>
 	<l id="307">Mais est-il bien possible, et le devons-nous croire,</l>
 	<l id="308">Que sur lui Polixène ait acquis cette gloire ?</l>
@@ -566,7 +565,7 @@
 	<l id="360">Ne s'accordent point mal à ce que j'en espère.</l>
 </sp>
 </div2>
-<div2 type='scene' n="2"><head>SCÈNE II. Priam, Achille, Hécube.</head>
+<div2 type="scene" n="2"><head>SCÈNE II. Priam, Achille, Hécube.</head>
 <sp who="PRIAM"><speaker>PRIAM, lui allant à la rencontre.</speaker>
 	<l id="361">Nous venons de pleurer sur les cendres d'Hector,</l>
 	<l id="362">Et de ses os brûlez le bûcher fume encore,</l>
@@ -724,7 +723,7 @@
 	<l id="478">Change une courte trêve en une longue paix.</l>
 </sp>
 </div2>
-<div2 type='scene' n="3"><head>SCÈNE III.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head>
 <sp who="ALCIMEDE"><speaker>ALCIMÈDE demeure seul.</speaker>
 	<l id="479">Où va ce pauvre aveugle ? il court au précipice,</l>
 	<l id="480">« Ha je vois bien qu'Achille est faible sans Ulysse,</l>
@@ -760,7 +759,7 @@
 	<l id="510">Et lui remontrerai même en ne parlant pas.</l>
 </sp>
 </div2>
-<div2 type='scene' n="4"><head>SCÈNE IV. Achille, Polixène.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV. Achille, Polixène.</head>
 <stage>Une chambre paraît, et Achille aux pieds de Polixène qui lui présente son épée nue.</stage>
 <sp who="ACHILLE"><speaker>ACHILLE.</speaker>
 	<l id="511">Non, Madame, achevez mon destin misérable,</l>
@@ -931,8 +930,8 @@
 </sp>
 </div2>
 </div1>
-<div1 type='acte' n="3"><head>ACTE III</head>
-<div2 type='scene' n="1"><head>SCÈNE PREMIÈRE. Achille, Ajax, Ulysse, Briséide.</head>
+<div1 type="acte" n="3"><head>ACTE III</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Achille, Ajax, Ulysse, Briséide.</head>
 <sp who="ACHILLE"><speaker>ACHILLE.</speaker>
 	<l id="639">Non, je n'en ferai rien, vous perdez vôtre peine,</l>
 	<l id="640">Vous écrivez sur l'onde, et semez sur l'arène.</l>
@@ -1080,7 +1079,7 @@
 	<l id="742">C'est gloire de le perdre, et non de le hanter. »</l>
 </sp>
 </div2>
-<div2 type='scene' n="2"><head>SCÈNE II. Achille, Briséide.</head>
+<div2 type="scene" n="2"><head>SCÈNE II. Achille, Briséide.</head>
 <sp who="ACHILLE"><speaker>ACHILLE.</speaker>
 	<l id="743">Comment, on me soupçonne ? On me fait cette injure ?</l>
 	<l id="744">Et ma fidélité trouve qui la censure ?</l>
@@ -1187,7 +1186,7 @@
 <stage>Il rentre</stage>
 </sp>
 </div2>
-<div2 type='scene' n="3"><head>SCÈNE III.</head>
+<div2 type="scene" n="3"><head>SCÈNE III.</head>
 <sp who="BRISEIDE"><speaker>BRISÉIDE seule.</speaker>
 	<l id="827">Taisons-nous, il le faut, et mon maître l'ordonne,</l>
 	<l id="828">« Heureux qui n'a de loi que celle qu'il se donne,</l>
@@ -1215,7 +1214,7 @@
 	<l id="850">Qu'il vive, que je meure, et qu'il ne m'aime pas.</l>
 </sp>
 </div2>
-<div2 type='scene' n="4"><head>SCÈNE IV. Hécube, Polixène.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV. Hécube, Polixène.</head>
 <sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
 	<l id="851">Mon Dieu ! Qu'il est parfait, qu'il est rempli de charmes,</l>
 	<l id="852">Quand je ne le vois point mettre la main aux armes !</l>
@@ -1288,7 +1287,7 @@
 	<l id="907">Il se démêle bien toujours de la mêlée.</l>
 </sp>
 </div2>
-<div2 type='scene' n="5"><head>SCÈNE V. Hécube, Pâris, Polixène.</head>
+<div2 type="scene" n="5"><head>SCÈNE V. Hécube, Pâris, Polixène.</head>
 <sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
 	<l id="908">Sommes-nous les vaincus, ou les victorieux ?</l>
 	<l id="909' part='i">Comment va le combat ?</l>
@@ -1384,7 +1383,7 @@
 	<l id="971">Nous allons à nos voeux rendre le Ciel propice.</l>
 </sp>
 </div2>
-<div2 type='scene' n="6"><head>SCÈNE VI. Achille, Alcimède.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI. Achille, Alcimède.</head>
 <sp who="ACHILLE"><speaker>ACHILLE, Il sort armé l'épée à la main.</speaker>
 	<l id="972">Ha c'est trop, Alcimède, à ma gloire être lent,</l>
 	<l id="973">Il faut que je réponde à ce jeune insolent,</l>
@@ -1424,8 +1423,8 @@
 </sp>
 </div2>
 </div1>
-<div1 type='acte' n="4"><head>ACTE IV</head>
-<div2 type='scene' n="1"><head>SCÈNE PREMIÈRE. Hécube, Polixène, Pâris, Deiphobe.</head>
+<div1 type="acte" n="4"><head>ACTE IV</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Hécube, Polixène, Pâris, Deiphobe.</head>
 <sp who="HÉCUBE"><speaker>HÉCUBE.</speaker>
 	<l id="992">Ô Dieux ! Sévères Dieux, contre nous mutinés,</l>
 	<l id="993">Vous avez bâti Troie, et vous la ruinez !</l>
@@ -1602,7 +1601,7 @@
 	<l id="1129">Ha ! si vous le pouvez apportez moi son coeur.</l>
 </sp>
 </div2>
-<div2 type='scene' n="2"><head>SCÈNE II. Ulysse, Ajax.</head>
+<div2 type="scene" n="2"><head>SCÈNE II. Ulysse, Ajax.</head>
 <sp who="ULYSSE"><speaker>ULYSSE.</speaker>
 	<l id="1130">Oui sans doute il persiste en ses flammes impures,</l>
 	<l id="1131">Et je n'en tire point de faibles conjectures.</l>
@@ -1659,7 +1658,7 @@
 	<l id="1167">Et nous reconnaîtrons, toi son coeur, moi sa place.</l>
 </sp>
 </div2>
-<div2 type='scene' n="3"><head>SCÈNE III. Achille, Alcimère.</head>
+<div2 type="scene" n="3"><head>SCÈNE III. Achille, Alcimère.</head>
 <stage>Le Temple d'Apollon paraît.</stage>
 <sp who="ACHILLE"><speaker>ACHILLE.</speaker>
 	<l id="1168">Mais je suis innocent puisque j'ai combattu</l>
@@ -1757,7 +1756,7 @@
 	<l id="1245">Périssons, j'y consens, et je n'en parle plus.</l>
 </sp>
 </div2>
-<div2 type='scene' n="4"><head>SCÈNE IV. Pâris, Deiphobe cachés ; Achille, Alcimède.</head>
+<div2 type="scene" n="4"><head>SCÈNE IV. Pâris, Deiphobe cachés ; Achille, Alcimède.</head>
 <sp who="ACHILLE"><speaker>ACHILLE continue son discours.</speaker>
 	<l id="1246">Crains-tu quelque ennemi quand ton oeil me contemple ?</l>
 </sp>
@@ -1835,7 +1834,7 @@
 	<l id="1273">Alcimède vivait, il meurt vous défendant.</l>
 </sp>
 </div2>
-<div2 type='scene' n="5"><head>SCÈNE V.</head>
+<div2 type="scene" n="5"><head>SCÈNE V.</head>
 <sp who="ACHILLE"><speaker>ACHILLE, seul accoudé sur l'autel.</speaker>
 	<l id="1274">Sachez, vous qui tremblez aux actions hardies,</l>
 	<l id="1275">Qu'il est des châtiments, s'il est des perfidies,</l>
@@ -1851,7 +1850,7 @@
 	<l id="1285">Et qui m'a fait esclave eut été mon butin.</l>
 </sp>
 </div2>
-<div2 type='scene' n="6"><head>SCÈNE VI. Ajax, Ulysse, Achille mourant.</head>
+<div2 type="scene" n="6"><head>SCÈNE VI. Ajax, Ulysse, Achille mourant.</head>
 <sp who="AJAX"><speaker>AJAX.</speaker>
 	<l id="1286">Entrons effrontément, c'est trop de patience,</l>
 	<l id="1287">Et je crains les effets d'une telle alliance.</l>
@@ -1917,7 +1916,7 @@
 	<l id="1322' part='i">Mais que veut ce Grégeois ?</l>
 </sp>
 </div2>
-<div2 type='scene' n="7"><head>SCÈNE VII. Ulysse, Ajax, Achille mort, Un soldat.</head>
+<div2 type="scene" n="7"><head>SCÈNE VII. Ulysse, Ajax, Achille mort, Un soldat.</head>
 <sp who="UN-SOLDAT"><speaker>UN SOLDAT voyant Achille mort.</speaker>
 	<l id="1322' part='f">Funestes aventures !</l>
 	<l id="1323">Je vois ce qu'ont prédit tant de tristes augures,</l>
@@ -1938,8 +1937,8 @@
 </sp>
 </div2>
 </div1>
-<div1 type='acte' n="5"><head>ACTE V</head>
-<div2 type='scene' n="1"><head>SCÈNE PREMIÈRE. Agamemnon, Le Conseil des Grecs, Ajax, Ulysse et les armes d'Achille au milieu.</head>
+<div1 type="acte" n="5"><head>ACTE V</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Agamemnon, Le Conseil des Grecs, Ajax, Ulysse et les armes d'Achille au milieu.</head>
 <sp who="AJAX"><speaker>HARANGUE D'AJAX.</speaker>
 	<l id="1334">Quoi grands Dieux ! qu'un débat aujourd'hui s'accomplisse,</l>
 	<l id="1335">Et devant nos vaisseaux, et d'Ajax contre Ulysse ?</l>
@@ -2244,7 +2243,7 @@
 	<l id="1627">Au moins honorez-en Ulysse, ou cette image.</l>
 </sp>
 </div2>
-<div2 type='scene' n="2"><head>SCÈNE DERNIÈRE. Ajax, Ulysse, Agamemnon.</head>
+<div2 type="scene" n="2"><head>SCÈNE DERNIÈRE. Ajax, Ulysse, Agamemnon.</head>
 <stage>Ici le conseil délibère avec Agamemnon.</stage>
 <sp who="AJAX"><speaker>AJAX.</speaker>
 	<l id="1628">Le vice, et la vertu tendent à même fin,</l>

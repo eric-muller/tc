@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding='UTF-8'?>
-<TEI.2>
+<?xml version="1.0" encoding="UTF-8"?><TEI.2>
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>LE DIABLE BOITEUX, COMÉDIE</title>
-				<author born='1661' born_location='Fontainebleau' death='1725' death_location='Courcelles-le-Roi' academie=''>DANCOURT, Florent CARTON dit</author>
+				<author born="1661" born_location="Fontainebleau" death="1725" death_location="Courcelles-le-Roi" academie="">DANCOURT, Florent CARTON dit</author>
 			</titleStmt>
 			<publicationStmp>	
 				<p>publié par Paul FIEVRE, Mai 2011</p>
@@ -16,9 +15,9 @@
 				<type>prose</type>
 				<periode>1701-1710</periode>
 				<taille>(mesure non pertinente)</taille>
-				<permalien></permalien>
+				<permalien/>
 				<sources>
-					<source id='1'><author></author><text></text></source>
+					<source id="1"><author/><text/></source>
 				</sources>	
 
 			</SourceDesc>
@@ -30,40 +29,40 @@
 			<titlePart type="main">LE DIABLE BOITEUX</titlePart>
 			<titlePart type="sub">COMÉDIE</titlePart>
 		</docTitle> 
-		<docDate value='1707'>M. DCC. VII.</docDate>
-		<docAuthor id='DANCOURT, Florent Carton dit' bio='dancourt'>De Mr DANCOURT</docAuthor>
+		<docDate value="1707">M. DCC. VII.</docDate>
+		<docAuthor id="DANCOURT, Florent Carton dit" bio="dancourt">De Mr DANCOURT</docAuthor>
 		<docImprint>
-			<privilege id=''><head></head>
+			<privilege id=""><head/>
 			</privilege>
-			<acheveImprime id=''></acheveImprime>
+			<acheveImprime id=""/>
 		</docImprint>
-		<printer id=''></printer>
+		<printer id=""/>
 		<performance>
-			<premiere date='1707-10-05' location='Théâtre de la rue des Fossés Saint-Germain'>Représentée pour la première fois le 5 Octobre 1707 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
+			<premiere date="1707-10-05" location="Théâtre de la rue des Fossés Saint-Germain">Représentée pour la première fois le 5 Octobre 1707 au Théâtre de la rue des Fossés Saint-Germain.</premiere>
 		</performance>
 		<castList><head>ACTEURS DU PROLOGUE</head>
-			<castItem><role id='LE DIABLE' civil='M' type="D" statut='diable' age='A' stat_amour='néant'>LE DIABLE</role>.</castItem>
-			<castItem><role id='THÉRÈSE' civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>THÉRÈSE</role>.</castItem>
-			<castItem><role id='SANCHETTE' civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>SANCHETTE</role>.</castItem>
+			<castItem><role id="LE DIABLE" civil="M" type="D" statut="diable" age="A" stat_amour="néant">LE DIABLE</role>.</castItem>
+			<castItem><role id="THÉRÈSE" civil="F" type="H" statut="bourgeois" age="A" stat_amour="néant">THÉRÈSE</role>.</castItem>
+			<castItem><role id="SANCHETTE" civil="F" type="H" statut="bourgeois" age="A" stat_amour="néant">SANCHETTE</role>.</castItem>
 		</castList>
 		<castList><head>ACTEURS DE LA COMÉDIE</head>
-			<castItem><role id='MADAME LUCAS' civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>MADAME LUCAS</role>.</castItem> 
-			<castItem><role id='ANGÉLIQUE' civil='F' type="H" statut='bourgeois' age='A' stat_amour='néant'>ANGÉLIQUE</role>, Nièce de Madame Lucas.</castItem> 
-			<castItem><role id='ÉRASTE' civil='M' type="H" statut='bourgeois' age='A' stat_amour='Angélique'>ÉRASTE</role>, Amant d’Angélique.</castItem> 
-			<castItem><role id='MARTON' civil='F' type="H" statut='femme de chambre' age='A' stat_amour='néant'>MARTON</role>, Femme de Chambre.</castItem> 
-			<castItem><role id='LÉANDRE' civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>LÉANDRE</role>.</castItem> 
-			<castItem><role id='GRIFFONNET' civil='M' type="H" statut='bourgeois' age='A' stat_amour='néant'>GRIFFONNET</role>.</castItem> 
-			<castItem><role id='LÉPINE' civil='M' type="H" statut='valet' age='A' stat_amour='néant'>LÉPINE</role>, Valet d’Éraste.</castItem> 
-			<castItem><role id='MONSIEUR CORBEAU' civil='M' type="H" statut='juré-crieur' age='A' stat_amour='néant'>MONSIEUR CORBEAU</role>, Juré-Crieur.</castItem> 
-			<castItem><role id='LE COMMISSAIRE' civil='M' type="H" statut='commissaire' age='A' stat_amour='néant'>LE COMMISSAIRE</role>.</castItem> 
-			<castItem><role id='LE NOTAIRE' civil='M' type="H" statut='notaire' age='A' stat_amour='néant'>LE NOTAIRE</role>.</castItem> 
-			<castItem><role id='CASCARET' civil='M' type="H" statut='laquais' age='A' stat_amour='néant'>CASCARET</role>, Laquais.</castItem>
-			<castItem><role id='UN LAQUAIS' civil='M' type="H" statut='laquais' age='A' stat_amour='néant'>UN LAQUAIS</role>.</castItem>  
+			<castItem><role id="MADAME LUCAS" civil="F" type="H" statut="bourgeois" age="A" stat_amour="néant">MADAME LUCAS</role>.</castItem> 
+			<castItem><role id="ANGÉLIQUE" civil="F" type="H" statut="bourgeois" age="A" stat_amour="néant">ANGÉLIQUE</role>, Nièce de Madame Lucas.</castItem> 
+			<castItem><role id="ÉRASTE" civil="M" type="H" statut="bourgeois" age="A" stat_amour="Angélique">ÉRASTE</role>, Amant d’Angélique.</castItem> 
+			<castItem><role id="MARTON" civil="F" type="H" statut="femme de chambre" age="A" stat_amour="néant">MARTON</role>, Femme de Chambre.</castItem> 
+			<castItem><role id="LÉANDRE" civil="M" type="H" statut="bourgeois" age="A" stat_amour="néant">LÉANDRE</role>.</castItem> 
+			<castItem><role id="GRIFFONNET" civil="M" type="H" statut="bourgeois" age="A" stat_amour="néant">GRIFFONNET</role>.</castItem> 
+			<castItem><role id="LÉPINE" civil="M" type="H" statut="valet" age="A" stat_amour="néant">LÉPINE</role>, Valet d’Éraste.</castItem> 
+			<castItem><role id="MONSIEUR CORBEAU" civil="M" type="H" statut="juré-crieur" age="A" stat_amour="néant">MONSIEUR CORBEAU</role>, Juré-Crieur.</castItem> 
+			<castItem><role id="LE COMMISSAIRE" civil="M" type="H" statut="commissaire" age="A" stat_amour="néant">LE COMMISSAIRE</role>.</castItem> 
+			<castItem><role id="LE NOTAIRE" civil="M" type="H" statut="notaire" age="A" stat_amour="néant">LE NOTAIRE</role>.</castItem> 
+			<castItem><role id="CASCARET" civil="M" type="H" statut="laquais" age="A" stat_amour="néant">CASCARET</role>, Laquais.</castItem>
+			<castItem><role id="UN LAQUAIS" civil="M" type="H" statut="laquais" age="A" stat_amour="néant">UN LAQUAIS</role>.</castItem>  
 		</castList>
-		<set location='Paris' country='France' periode='XVIIIème' link=''>La Scène est à Paris, chez Madame Lucas.</set>
+		<set location="Paris" country="France" periode="XVIIIème" link="">La Scène est à Paris, chez Madame Lucas.</set>
 	</front>
 <body>
-<div1 type='acte' n='1'><head>PROLOGUE DU DIABLE BOITEUX</head>
+<div1 type="acte" n="1"><head>PROLOGUE DU DIABLE BOITEUX</head>
 <div2 type="scene" n="1"><head>Le Diable, Thérèse, Sanchette.</head>
 <sp who="LE DIABLE"><speaker>LE DIABLE.</speaker>
 <p id="1">
@@ -342,7 +341,7 @@
 </sp>
 </div2>
 </div1>
-<div1 type="acte" n="2">COMÉDIE.<head></head>
+<div1 type="acte" n="2">COMÉDIE.<head/>
 <div2 type="scene" n="1"><head>SCÈNE I. Angélique, Marton.</head>
 <sp who="ANGÉLIQUE"><speaker>ANGÉLIQUE.</speaker>
 <p id="1">

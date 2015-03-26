@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI.2>
+<?xml version="1.0" encoding="UTF-8"?><TEI.2>
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>OTHON, TRAGÉDIE</title>
-				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
+				<author born="1606" born_location="Rouen" death="1684" death_location="Paris" academie="1647">CORNEILLE, Pierre</author>
 				<author>CORNEILLE, Pierre (1606-1684)</author>
 			</titleStmt>
 			<publicationStmp>	
@@ -31,7 +30,7 @@
 			<titlePart type="sub">TRAGÉDIE</titlePart>
 		</docTitle> 
 		<docDate value="1665">M. DC. LXV. Avec PRIVILÈGE DU ROI.</docDate>
-		<docAuthor id="CORNEILLE, Pierre" bio='corneillep'>Pierre Corneille</docAuthor>
+		<docAuthor id="CORNEILLE, Pierre" bio="corneillep">Pierre Corneille</docAuthor>
 		<docImprint>
 			<privilege id="1664-11-28"><head>Extrait du privilège du Roi</head>
 			<p>Par grâce et privilège du Roi donné à Paris le dernier octobre 1664 signé par le Roi en son conseil GUITONNEAU, il est permis à Guillaume de Luyne Marchand libraire de faire imprimer une pièce de théâtre, de le composition du sieur Corneille, intitulée Othon ; pendant sept ans, et défenses sont faites à tous autres de l'imprimer, à peine de dix mille livres d'amende confiscation des exemplaires, et tous dépens dommages et intérêts, comme il est plus long porté par les dites lettres.</p>
@@ -43,26 +42,26 @@
 			<printer id="LUYNES">À Paris, Chez GUILLAUME DE LUYNES, Libraire-juré, au Palais de la Salle des Merciers, à la Justice.</printer>
 		</docImprint>
 		<performance>
-			<premiere date="1664-08-03" location='Château de Fontainebleau'>Représentée pour la première fois le 3 août 1664 au Château de Fontainebleau. Repris le 5 novembre 1664 à l'Hôtel de Bourgogne</premiere>
+			<premiere date="1664-08-03" location="Château de Fontainebleau">Représentée pour la première fois le 3 août 1664 au Château de Fontainebleau. Repris le 5 novembre 1664 à l'Hôtel de Bourgogne</premiere>
 		</performance>
 <preface><head>AU LECTEUR</head>
 <p>Si mes amis ne me trompent, cette pièce égale ou passe la meilleure des miennes. Quantité de suffrages illustres et solides se sont déclarés pour elle, et si j'ose y mêler le mien, je vous dirai que vous y trouverez quelque justesse dans la conduite, et un peu de bon sens dans le raisonnement. Quand aux vers, on n'en a point vu de moi que j'ai travaillé avec plus de soin. Le sujet est tiré de Tacite, qui commence ses histoires par celle-ci, et je n'en ai encore mis aucune sur le théâtre à qui j'ai gardé plus de fidélité, et prêté plus d'invention. les caractères de ceux que j'y fais parler y sont les mêmes que chez cet incomparable auteur, que j'ai traduit tant qu'il m'a été possible. J'ai tâché de faire paraître les vertus de mon héros en tout leur éclat, sans en dissimuler les vies non plus que lui, et je me suis contenté des les attribuer à une politique de Cour, où quand le souverain se plonge dans les débauches, et que sa faveur n'est qu'à ce prix, il y a presse à qui sera de la partie. J'y ai conservé les événements, et pris la liberté de changer la manière dont ils arrivent, pour en jeter tout le crime sur un méchant homme, qu'on soupçonna dès lors d'avoir donné des ordres secrets pour la mort de Vinius, tant leur inimitié était forte et déclarée. Othon avait promis à ce Consul, d'épouser sa fille s'il le pouvait faire choisir, à Galba son successeur, et comme il se vit Empereur sans son ministère, il se crut dégagé de cette promesse, et ne l'épousa point. Je n'ai pas voulu aller plus loin que l'Histoire, et je puis dire qu'on a point encore vu de pièce, où il se propose tant de mariages pour n'en conclure aucun. Ce sont intrigues de Cabinet qui se détruisent les unes les autres. J'en dirai devantage, quand mes libraires joindrant celle-ci aux recueils qu'ils ont fait de celles de ma façon qui l'ont précédée.</p>
 </preface>
 	<castList><head>ACTEURS</head>
-		<castItem><role id="GALBA" civil='M' type="H" statut="empereur" age="A" stat_amour='néant'>GALBA</role>, empereur de Rome.</castItem>
-		<castItem><role id="VINIUS" civil='M' type="H" statut="consul" age="A" stat_amour='néant'>VINIUS</role>, consul.</castItem>
-		<castItem><role id="OTHON" civil='M' type="H" statut="sénateur" age="A" stat_amour='néant'>OTHON</role>, sénateur romain, amant de Pautine.</castItem>
-		<castItem><role id="LACUS" civil='M' type="H" statut="préfet romain" age="A" stat_amour='néant'>LACUS</role>, préfet du Prétoire.</castItem>
-		<castItem><role id="CAMILLE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>CAMILLE</role>, nièce de Galba.</castItem>
-		<castItem><role id="PLAUTINE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='amoureux'>PLAUTINE</role>, fille de Vinius, amante d'Othon.</castItem>
-		<castItem><role id="MARTIAN" civil='M' type="H" statut="affranchi" age="A" stat_amour='néant'>MARTIAN</role>, affranchi de Galba.</castItem>
-		<castItem><role id="ALBIN" civil='M' type="H" statut="aristocrate" age="A" stat_amour='néant'>ALBIN</role>, ami d'Othon.</castItem>
-		<castItem><role id="ALBIANE" civil='F' type="H" statut="dame d'honneur" age="A" stat_amour='néant'>ALBIANE</role>, soeur d'Albin, et dame d'honneur de Camille.</castItem>
-		<castItem><role id="FLAVIE" civil='F' type="H" statut="aristocrate" age="A" stat_amour='néant'>FLAVIE</role>, amie de Plautine.</castItem>
-		<castItem><role id="ATTICUS" civil='M' type="H" statut="soldat" age="A" stat_amour='néant'>ATTICUS</role>, soldat romain.</castItem>
-		<castItem><role id="RUTO" civil='M' type="H" statut="soldat" age="A" stat_amour='néant'>RUTILE</role>, soldat romain.</castItem>
+		<castItem><role id="GALBA" civil="M" type="H" statut="empereur" age="A" stat_amour="néant">GALBA</role>, empereur de Rome.</castItem>
+		<castItem><role id="VINIUS" civil="M" type="H" statut="consul" age="A" stat_amour="néant">VINIUS</role>, consul.</castItem>
+		<castItem><role id="OTHON" civil="M" type="H" statut="sénateur" age="A" stat_amour="néant">OTHON</role>, sénateur romain, amant de Pautine.</castItem>
+		<castItem><role id="LACUS" civil="M" type="H" statut="préfet romain" age="A" stat_amour="néant">LACUS</role>, préfet du Prétoire.</castItem>
+		<castItem><role id="CAMILLE" civil="F" type="H" statut="aristocrate" age="A" stat_amour="néant">CAMILLE</role>, nièce de Galba.</castItem>
+		<castItem><role id="PLAUTINE" civil="F" type="H" statut="aristocrate" age="A" stat_amour="amoureux">PLAUTINE</role>, fille de Vinius, amante d'Othon.</castItem>
+		<castItem><role id="MARTIAN" civil="M" type="H" statut="affranchi" age="A" stat_amour="néant">MARTIAN</role>, affranchi de Galba.</castItem>
+		<castItem><role id="ALBIN" civil="M" type="H" statut="aristocrate" age="A" stat_amour="néant">ALBIN</role>, ami d'Othon.</castItem>
+		<castItem><role id="ALBIANE" civil="F" type="H" statut="dame d'honneur" age="A" stat_amour="néant">ALBIANE</role>, soeur d'Albin, et dame d'honneur de Camille.</castItem>
+		<castItem><role id="FLAVIE" civil="F" type="H" statut="aristocrate" age="A" stat_amour="néant">FLAVIE</role>, amie de Plautine.</castItem>
+		<castItem><role id="ATTICUS" civil="M" type="H" statut="soldat" age="A" stat_amour="néant">ATTICUS</role>, soldat romain.</castItem>
+		<castItem><role id="RUTO" civil="M" type="H" statut="soldat" age="A" stat_amour="néant">RUTILE</role>, soldat romain.</castItem>
 	</castList>
-	<set location='Rome' country='Italie' periode='Ier avant JC' link=''>La scène est à Rome dans le Palais Impérial.</set>
+	<set location="Rome" country="Italie" periode="Ier avant JC" link="">La scène est à Rome dans le Palais Impérial.</set>
 </front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>

@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI.2>
+<?xml version="1.0" encoding="UTF-8"?><TEI.2>
 <teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>LA PLACE ROYALE ou L'AMOUREUX EXTRAVAGANT, COMÉDIE</title>
-				<author born='1606' born_location='Rouen' death='1684' death_location='Paris' academie='1647'>CORNEILLE, Pierre</author>
+				<author born="1606" born_location="Rouen" death="1684" death_location="Paris" academie="1647">CORNEILLE, Pierre</author>
 				<date>1634</date>
 			</titleStmt>
 			<publicationStmp>	
@@ -17,9 +16,9 @@
 				<type>vers</type>
 				<periode>1631-1640</periode>
 				<taille>1500-1750</taille>
-				<permalien></permalien>
+				<permalien/>
 				<sources>
-					<source id='1'><author></author><text></text></source>
+					<source id="1"><author/><text/></source>
 				</sources>	
 
 			</SourceDesc>
@@ -32,27 +31,27 @@
 			<titlePart type="sub">ou L'AMOUREUX EXTRAVAGANT</titlePart>
 			<titlePart type="sub">COMÉDIE</titlePart>
 		</docTitle> 
-		<docDate value='1637'>M. DC XXXVIII. AVEC PRIVILÈGE DU ROI.</docDate>
-		<docAuthor id='CORNEILLE, Pierre' bio='corneillep'>Pierre Corneille</docAuthor>
+		<docDate value="1637">M. DC XXXVIII. AVEC PRIVILÈGE DU ROI.</docDate>
+		<docAuthor id="CORNEILLE, Pierre" bio="corneillep">Pierre Corneille</docAuthor>
 		<docImprint>
-			<privilege id='163*-**-**'></privilege>
-			<acheveImprime id='163*-**-**'></acheveImprime>
-			<printer id='COURBÉ'>À PARIS, Chez AUGUSTIN COURBÉ, Imprimeur et Libraire de Monseigneur frère du Roi, dans le petite Salle du Palais, à la Palme.</printer>
+			<privilege id="163*-**-**"/>
+			<acheveImprime id="163*-**-**"/>
+			<printer id="COURBÉ">À PARIS, Chez AUGUSTIN COURBÉ, Imprimeur et Libraire de Monseigneur frère du Roi, dans le petite Salle du Palais, à la Palme.</printer>
 		</docImprint>
 		<performance>
-			<premiere date='1634' location='Théâtre du Marais'>Représenté pour la première fois en 1634 au Théâtre du Marais.</premiere>
+			<premiere date="1634" location="Théâtre du Marais">Représenté pour la première fois en 1634 au Théâtre du Marais.</premiere>
 		</performance>
 		<castList><head>ACTEURS</head>
-			<castItem><role id="ALIDOR" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>ALIDOR</role>, amant d'Angélique.</castItem>
-			<castItem><role id="CLEANDRE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='néant'>CLÉANDRE</role>, ami d'Alidor.</castItem>
-			<castItem><role id="DORASTE" civil='M' type="H" statut='aristocrate' age='A' stat_amour='Angélique'>DORASTE</role>, amoureux d'Angélique.</castItem>
-			<castItem><role id="LYSIS" civil='M' type="H" statut='aristocrate' age='A' stat_amour='Phylis'>LYSIS</role>, amoureux de Phylis.</castItem>
-			<castItem><role id="ANGELIQUE" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>ANGÉLIQUE</role>, maîtresse d'Alidor et de Doraste.</castItem>
-			<castItem><role id="PHYLIS" civil='F' type="H" statut='aristocrate' age='A' stat_amour='néant'>PHYLIS</role>, soeur de Doraste.</castItem>
-			<castItem><role id="POLYMAS" civil='M' type="H" statut='domestique' age='A' stat_amour='néant'>POLYMAS</role>, domestique d'Alidor.</castItem>
-			<castItem><role id="LYCANTE" civil='M' type="H" statut='domestique' age='A' stat_amour='néant'>LYCANTE</role>, domestique de Doraste.</castItem>
+			<castItem><role id="ALIDOR" civil="M" type="H" statut="aristocrate" age="A" stat_amour="néant">ALIDOR</role>, amant d'Angélique.</castItem>
+			<castItem><role id="CLEANDRE" civil="M" type="H" statut="aristocrate" age="A" stat_amour="néant">CLÉANDRE</role>, ami d'Alidor.</castItem>
+			<castItem><role id="DORASTE" civil="M" type="H" statut="aristocrate" age="A" stat_amour="Angélique">DORASTE</role>, amoureux d'Angélique.</castItem>
+			<castItem><role id="LYSIS" civil="M" type="H" statut="aristocrate" age="A" stat_amour="Phylis">LYSIS</role>, amoureux de Phylis.</castItem>
+			<castItem><role id="ANGELIQUE" civil="F" type="H" statut="aristocrate" age="A" stat_amour="néant">ANGÉLIQUE</role>, maîtresse d'Alidor et de Doraste.</castItem>
+			<castItem><role id="PHYLIS" civil="F" type="H" statut="aristocrate" age="A" stat_amour="néant">PHYLIS</role>, soeur de Doraste.</castItem>
+			<castItem><role id="POLYMAS" civil="M" type="H" statut="domestique" age="A" stat_amour="néant">POLYMAS</role>, domestique d'Alidor.</castItem>
+			<castItem><role id="LYCANTE" civil="M" type="H" statut="domestique" age="A" stat_amour="néant">LYCANTE</role>, domestique de Doraste.</castItem>
 		</castList>
-		<set location='Paris' country='France' periode='XVIIème' link=''>La scène est à Paris, dans la Place Royale.</set>
+		<set location="Paris" country="France" periode="XVIIème" link="">La scène est à Paris, dans la Place Royale.</set>
 	</front>
 <body>
 <div1 type="acte" n="1"><head>ACTE I</head>
@@ -2172,7 +2171,7 @@
 	<l id="1438" part="i">Voulez-vous...</l>
 </sp>
 <sp who="ANGÉLIQUE"><speaker>ANGÉLIQUE.</speaker>
-	<l id="1438" part='f'>Déloyal, cesse de me poursuivre :</l>
+	<l id="1438" part="f">Déloyal, cesse de me poursuivre :</l>
 	<l id="1439">Si je t'aime jamais, je veux cesser de vivre.</l>
 	<l id="1440">Quel espoir mal conçu te rapproche de moi ?</l>
 	<l id="1441">Aurais-je de l'amour pour qui n'a point de foi ?</l>
